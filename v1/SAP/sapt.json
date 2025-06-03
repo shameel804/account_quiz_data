@@ -1,0 +1,4349 @@
+[
+    {
+        "q": "Which SAP module is primarily used for managing GST/VAT?",
+        "o": [
+            "SAP FI",
+            "SAP SD",
+            "SAP MM",
+            "SAP HCM"
+        ]
+    },
+    {
+        "q": "What is the main purpose of GST/VAT in SAP?",
+        "o": [
+            "To automate tax calculation and compliance",
+            "To track inventory levels",
+            "To manage employee payroll",
+            "To handle customer relationship management"
+        ]
+    },
+    {
+        "q": "Which SAP feature helps in the automatic calculation of withholding tax?",
+        "o": [
+            "Extended Withholding Tax",
+            "Tax Jurisdiction Code",
+            "Reverse Charge Mechanism",
+            "Input Tax Credit"
+        ]
+    },
+    {
+        "q": "What is TDS in SAP?",
+        "o": [
+            "Tax Deducted at Source",
+            "Total Deductible Service",
+            "Transaction Deduction Summary",
+            "Taxation Data Sheet"
+        ]
+    },
+    {
+        "q": "Which SAP module is used for payroll tax deductions?",
+        "o": [
+            "SAP HCM",
+            "SAP FI",
+            "SAP CO",
+            "SAP SD"
+        ]
+    },
+    {
+        "q": "In SAP Payroll, which component calculates employee tax deductions?",
+        "o": [
+            "Payroll Schema",
+            "Posting Run",
+            "Infotype 0008",
+            "GL Account Assignment"
+        ]
+    },
+    {
+        "q": "Which SAP report is commonly used for tax compliance reporting?",
+        "o": [
+            "Tax Return Report",
+            "Material Ledger Report",
+            "Asset Depreciation Report",
+            "Order Settlement Report"
+        ]
+    },
+    {
+        "q": "Which SAP function helps in VAT reconciliation?",
+        "o": [
+            "Input and Output Tax Reconciliation",
+            "SAP Credit Management",
+            "SAP Cost Center Allocation",
+            "SAP HR Tax Processing"
+        ]
+    },
+    {
+        "q": "How does SAP ensure compliance with tax regulations?",
+        "o": [
+            "By integrating tax rules and automating tax calculations",
+            "By manually entering tax data every month",
+            "By limiting transaction approvals",
+            "By providing a fixed tax rate for all transactions"
+        ]
+    },
+    {
+        "q": "What does the SAP Tax Code define?",
+        "o": [
+            "Tax percentage and applicable conditions",
+            "Customer details",
+            "Invoice due date",
+            "Bank account information"
+        ]
+    },
+    {
+        "q": "Which SAP component is used to configure VAT determination?",
+        "o": [
+            "Tax Procedure",
+            "Tax Indicator",
+            "Pricing Condition",
+            "Tax Code Assignment"
+        ]
+    },
+    {
+        "q": "What is the key table for storing tax codes in SAP?",
+        "o": [
+            "T007A",
+            "BSEG",
+            "BKPF",
+            "LFA1"
+        ]
+    },
+    {
+        "q": "In SAP, which transaction code is used to define Tax Jurisdiction Codes?",
+        "o": [
+            "OVK1",
+            "OB40",
+            "F-02",
+            "ME21N"
+        ]
+    },
+    {
+        "q": "What is the purpose of Reverse Charge Mechanism in SAP GST?",
+        "o": [
+            "To shift tax liability from supplier to recipient",
+            "To allow tax exemptions for international transactions",
+            "To automatically deduct TDS from invoices",
+            "To manage tax refunds"
+        ]
+    },
+    {
+        "q": "Which SAP report helps in GST reconciliation?",
+        "o": [
+            "RFUMSV00",
+            "RFEBKA00",
+            "S_ALR_87012284",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP module is essential for tax reporting compliance?",
+        "o": [
+            "SAP FI",
+            "SAP SD",
+            "SAP CO",
+            "SAP PP"
+        ]
+    },
+    {
+        "q": "Which SAP configuration is required for TDS calculation?",
+        "o": [
+            "Withholding Tax Type and Code",
+            "Tax Condition Record",
+            "Vendor Master Pricing",
+            "Account Determination"
+        ]
+    },
+    {
+        "q": "In SAP, how can an organization handle country-specific tax rules?",
+        "o": [
+            "By maintaining Tax Jurisdiction Codes",
+            "By defining multiple company codes",
+            "By adjusting payment terms",
+            "By modifying GL accounts"
+        ]
+    },
+    {
+        "q": "Which transaction is used to post withholding tax in SAP?",
+        "o": [
+            "FB60",
+            "ME21N",
+            "MIRO",
+            "VA01"
+        ]
+    },
+    {
+        "q": "How does SAP handle tax deduction at source (TDS) in payroll?",
+        "o": [
+            "Using wage types and tax infotypes",
+            "By manual deduction in each payroll run",
+            "By adjusting tax in accounts payable",
+            "By configuring special ledger entries"
+        ]
+    },
+    {
+        "q": "Which SAP module integrates with Payroll to calculate employee income tax?",
+        "o": [
+            "SAP HCM",
+            "SAP MM",
+            "SAP PP",
+            "SAP FI-CO"
+        ]
+    },
+    {
+        "q": "What is the purpose of SAP transaction code FTXP?",
+        "o": [
+            "To define and maintain tax codes",
+            "To execute financial reconciliation",
+            "To create a tax invoice",
+            "To generate payroll tax reports"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a tax-related table in SAP?",
+        "o": [
+            "VBRK",
+            "T007A",
+            "WITH_ITEM",
+            "T059Z"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to analyze Withholding Tax postings?",
+        "o": [
+            "RFWT0010",
+            "RFKQST00",
+            "FBL3N",
+            "S_ALR_87012271"
+        ]
+    },
+    {
+        "q": "What is the key advantage of using SAP for tax compliance?",
+        "o": [
+            "Automation of tax calculations and reporting",
+            "Manual control over tax adjustments",
+            "Fixed tax rates across all transactions",
+            "Limited integration with other financial modules"
+        ]
+    },
+    {
+        "q": "Which SAP functionality is used for tax audit and compliance tracking?",
+        "o": [
+            "SAP DRC (Document and Reporting Compliance)",
+            "SAP NetWeaver",
+            "SAP Business Warehouse",
+            "SAP PP Integration"
+        ]
+    },
+    {
+        "q": "Which tax-related document is generated in SAP for compliance with indirect taxes?",
+        "o": [
+            "Tax Invoice",
+            "Purchase Order",
+            "Billing Document",
+            "Journal Entry"
+        ]
+    },
+    {
+        "q": "How does SAP manage input tax credit for GST?",
+        "o": [
+            "By linking purchase invoices to tax reports",
+            "By automatically deducting tax from revenue",
+            "By applying a flat tax rate",
+            "By manually adjusting tax accounts"
+        ]
+    },
+    {
+        "q": "What is the purpose of the SAP tax jurisdiction structure?",
+        "o": [
+            "To define regional tax rates and rules",
+            "To track financial transactions",
+            "To classify vendors based on tax codes",
+            "To generate purchase requisitions"
+        ]
+    },
+    {
+        "q": "Which SAP transaction code is used to generate statutory tax reports?",
+        "o": [
+            "S_ALR_87012357",
+            "MIRO",
+            "VA05",
+            "OB52"
+        ]
+    },
+    {
+        "q": "How does SAP ensure that tax calculations comply with local regulations?",
+        "o": [
+            "By maintaining country-specific tax codes and procedures",
+            "By allowing manual tax entries only",
+            "By disabling tax adjustments after posting",
+            "By applying the same tax rate globally"
+        ]
+    },
+    {
+        "q": "Which SAP tool is used for tax reconciliation and reporting?",
+        "o": [
+            "SAP Tax Compliance",
+            "SAP Asset Accounting",
+            "SAP Controlling",
+            "SAP Production Planning"
+        ]
+    },
+    {
+        "q": "What is the role of the SAP FI-GL module in tax compliance?",
+        "o": [
+            "To record tax transactions in general ledger",
+            "To manage vendor master data",
+            "To create sales orders",
+            "To generate purchase orders"
+        ]
+    },
+    {
+        "q": "Which SAP process is used to adjust tax entries in financial statements?",
+        "o": [
+            "Tax Adjustment Posting",
+            "Invoice Verification",
+            "Goods Issue",
+            "Material Valuation"
+        ]
+    },
+    {
+        "q": "Which SAP transaction helps in automatic tax posting for vendor invoices?",
+        "o": [
+            "MIRO",
+            "FB50",
+            "VA01",
+            "MIGO"
+        ]
+    },
+    {
+        "q": "What is the purpose of SAP tax condition records?",
+        "o": [
+            "To store predefined tax rates for transactions",
+            "To create new tax jurisdiction codes",
+            "To delete old tax entries",
+            "To define withholding tax groups"
+        ]
+    },
+    {
+        "q": "Which SAP function helps in the calculation of deferred tax?",
+        "o": [
+            "Deferred Tax Configuration in SAP FI",
+            "SAP Tax Jurisdiction",
+            "SAP Payroll Tax Setup",
+            "SAP Procurement Tax Rules"
+        ]
+    },
+    {
+        "q": "Which SAP table stores withholding tax types and codes?",
+        "o": [
+            "T059Z",
+            "BSEG",
+            "T007S",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "What is the purpose of transaction code OBWW in SAP?",
+        "o": [
+            "To configure withholding tax settings",
+            "To generate GST reports",
+            "To create tax codes",
+            "To process payroll tax deductions"
+        ]
+    },
+    {
+        "q": "Which SAP report provides a summary of input and output taxes?",
+        "o": [
+            "RFUMSV00",
+            "FBL1N",
+            "S_ALR_87012357",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "How does SAP manage tax exemption certificates?",
+        "o": [
+            "By maintaining customer-specific tax classification",
+            "By applying reverse charge mechanism",
+            "By adjusting invoice postings",
+            "By overriding tax rates in FI module"
+        ]
+    },
+    {
+        "q": "Which SAP functionality ensures automatic tax calculation in sales transactions?",
+        "o": [
+            "Tax Condition Technique",
+            "Withholding Tax Determination",
+            "Invoice Verification",
+            "Automatic Payment Processing"
+        ]
+    },
+    {
+        "q": "What is the key difference between input tax and output tax in SAP?",
+        "o": [
+            "Input tax is paid on purchases, output tax is collected on sales",
+            "Output tax applies only to imports",
+            "Input tax is collected from customers",
+            "Both input and output taxes are calculated the same way"
+        ]
+    },
+    {
+        "q": "Which SAP module is primarily responsible for VAT/GST compliance?",
+        "o": [
+            "SAP FI",
+            "SAP SD",
+            "SAP MM",
+            "SAP PP"
+        ]
+    },
+    {
+        "q": "What is the role of the SAP TDS certificate generation process?",
+        "o": [
+            "To provide proof of tax deduction to vendors",
+            "To calculate employee tax deductions",
+            "To verify input tax credit",
+            "To generate VAT invoices"
+        ]
+    },
+    {
+        "q": "Which SAP report is commonly used for reconciling withholding tax?",
+        "o": [
+            "RFWT0020",
+            "S_ALR_87012357",
+            "RFUMSV00",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post TDS payments to the government?",
+        "o": [
+            "F-58",
+            "MIRO",
+            "FB50",
+            "VA01"
+        ]
+    },
+    {
+        "q": "How does SAP handle GST input credit reconciliation?",
+        "o": [
+            "By matching purchase invoices with tax ledger",
+            "By manually adjusting tax entries",
+            "By posting tax through FB60",
+            "By overriding tax rates in vendor master"
+        ]
+    },
+    {
+        "q": "Which SAP tax-related table stores vendor withholding tax details?",
+        "o": [
+            "WITH_ITEM",
+            "T007A",
+            "LFA1",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of tax jurisdiction codes in SAP?",
+        "o": [
+            "To determine region-specific tax rates",
+            "To classify vendor payment terms",
+            "To track profit center assignments",
+            "To generate payroll tax slips"
+        ]
+    },
+    {
+        "q": "Which SAP function module is used for tax calculation?",
+        "o": [
+            "CALCULATE_TAX_ITEM",
+            "SAP_FI_TAX_PROCESS",
+            "TAX_INPUT_HANDLER",
+            "SAP_GST_REPORTING"
+        ]
+    },
+    {
+        "q": "Which document type is used for tax invoices in SAP?",
+        "o": [
+            "RV",
+            "KR",
+            "DZ",
+            "AA"
+        ]
+    },
+    {
+        "q": "How does SAP manage deferred tax accounting?",
+        "o": [
+            "By using specific GL accounts for deferred tax postings",
+            "By manually adjusting tax reports",
+            "By calculating tax after invoice payment",
+            "By applying a reverse charge mechanism"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure GST in SAP FI?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "F-53",
+            "OBWW"
+        ]
+    },
+    {
+        "q": "What is the function of SAP transaction FBL3N in tax compliance?",
+        "o": [
+            "To display general ledger line items including tax postings",
+            "To generate VAT compliance reports",
+            "To process payroll deductions",
+            "To configure withholding tax codes"
+        ]
+    },
+    {
+        "q": "Which SAP module integrates with payroll for employee tax deductions?",
+        "o": [
+            "SAP HCM",
+            "SAP SD",
+            "SAP MM",
+            "SAP PS"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to view tax-relevant customer master data?",
+        "o": [
+            "XD03",
+            "FBL5N",
+            "FB03",
+            "OBY6"
+        ]
+    },
+    {
+        "q": "What is the main purpose of SAP transaction S_ALR_87012284?",
+        "o": [
+            "To generate tax compliance reports",
+            "To maintain tax jurisdiction codes",
+            "To update tax master data",
+            "To calculate withholding tax"
+        ]
+    },
+    {
+        "q": "Which SAP functionality allows country-specific tax reporting?",
+        "o": [
+            "SAP Localization",
+            "SAP BW Reporting",
+            "SAP Workflow",
+            "SAP Tax Reconciliation"
+        ]
+    },
+    {
+        "q": "Which SAP process handles the tax reporting obligations for multinational companies?",
+        "o": [
+            "SAP Document and Reporting Compliance (SAP DRC)",
+            "SAP Tax Code Mapping",
+            "SAP Manual Tax Entry",
+            "SAP Deferred Tax Posting"
+        ]
+    },
+    {
+        "q": "How does SAP ensure tax compliance in intercompany transactions?",
+        "o": [
+            "By applying tax codes based on company code assignments",
+            "By manually adjusting GL entries",
+            "By using vendor withholding tax only",
+            "By creating sales orders with zero tax"
+        ]
+    },
+    {
+        "q": "What is the purpose of SAP tax procedure determination?",
+        "o": [
+            "To define tax calculation logic for different regions",
+            "To configure payroll tax deductions",
+            "To override system-generated tax rates",
+            "To manually enter tax postings"
+        ]
+    },
+    {
+        "q": "Which SAP report provides an overview of tax liability for a given period?",
+        "o": [
+            "RFUMSV00",
+            "RFWT0020",
+            "S_ALR_87012357",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP table stores tax condition records?",
+        "o": [
+            "A003",
+            "T007A",
+            "LFA1",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "What is the role of SAP Tax Condition Types?",
+        "o": [
+            "To define specific tax rules for transactions",
+            "To maintain vendor tax master data",
+            "To process payroll tax deductions",
+            "To store deferred tax postings"
+        ]
+    },
+    {
+        "q": "Which SAP process is essential for managing indirect taxes?",
+        "o": [
+            "Tax Procedure Configuration",
+            "Vendor Invoice Posting",
+            "GL Account Reconciliation",
+            "Fixed Asset Accounting"
+        ]
+    },
+    {
+        "q": "How does SAP handle reverse charge transactions?",
+        "o": [
+            "By shifting tax liability from supplier to recipient",
+            "By automatically adjusting GL postings",
+            "By applying additional tax deductions",
+            "By exempting tax in intercompany invoices"
+        ]
+    },
+    {
+        "q": "Which SAP functionality is crucial for maintaining real-time tax compliance?",
+        "o": [
+            "SAP Tax Compliance Automation",
+            "Manual Tax Reconciliation",
+            "Deferred Tax Reporting",
+            "SAP Manual Tax Entry"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a new tax code?",
+        "o": [
+            "FTXP",
+            "OB40",
+            "F-02",
+            "FB60"
+        ]
+    },
+    {
+        "q": "What is the purpose of SAP transaction F-07 in tax processing?",
+        "o": [
+            "To post tax adjustments and transfers",
+            "To generate GST/VAT reports",
+            "To configure tax codes",
+            "To process payroll tax deductions"
+        ]
+    },
+    {
+        "q": "Which tax calculation procedure is used in SAP for VAT/GST?",
+        "o": [
+            "TAXINN",
+            "TAXINJ",
+            "TAXITC",
+            "TAXUSX"
+        ]
+    },
+    {
+        "q": "Which SAP transaction displays the withholding tax balances for a vendor?",
+        "o": [
+            "S_P00_07000134",
+            "FBL1N",
+            "F110",
+            "FB08"
+        ]
+    },
+    {
+        "q": "Which SAP report is used for VAT reconciliation?",
+        "o": [
+            "S_ALR_87009848",
+            "RFUMSV00",
+            "FBL3N",
+            "ME2N"
+        ]
+    },
+    {
+        "q": "What is the main function of SAP withholding tax types?",
+        "o": [
+            "To define tax calculation rules for different transactions",
+            "To store vendor master data",
+            "To configure payroll tax deductions",
+            "To reconcile GST input and output tax"
+        ]
+    },
+    {
+        "q": "Which SAP table stores VAT registration details?",
+        "o": [
+            "LFA1",
+            "T007A",
+            "BSEG",
+            "KNA1"
+        ]
+    },
+    {
+        "q": "What is the role of SAP TCode J1INCHLN?",
+        "o": [
+            "To generate a challan for withholding tax payments",
+            "To configure country-specific tax settings",
+            "To adjust input tax credits",
+            "To generate a GST invoice"
+        ]
+    },
+    {
+        "q": "Which SAP module is primarily responsible for managing payroll tax deductions?",
+        "o": [
+            "SAP HCM",
+            "SAP FI",
+            "SAP CO",
+            "SAP MM"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reverse a tax invoice?",
+        "o": [
+            "FB08",
+            "FB50",
+            "MIRO",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP table contains tax jurisdiction codes?",
+        "o": [
+            "TTXJ",
+            "T001",
+            "BKPF",
+            "A003"
+        ]
+    },
+    {
+        "q": "Which SAP function module calculates tax in an invoice?",
+        "o": [
+            "CALCULATE_TAX_ITEM",
+            "FI_TAX_CALC",
+            "SAP_TAX_ENGINE",
+            "TAX_COMPLIANCE_CHECK"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to display deferred tax balances?",
+        "o": [
+            "S_ALR_87012082",
+            "RFUMSV00",
+            "S_ALR_87012357",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP functionality ensures automatic VAT determination?",
+        "o": [
+            "Tax Condition Technique",
+            "Withholding Tax Configuration",
+            "Vendor Payment Processing",
+            "Reversal Posting Logic"
+        ]
+    },
+    {
+        "q": "What is the purpose of SAP transaction J1INBANK?",
+        "o": [
+            "To maintain bank details for tax payments",
+            "To process GST refunds",
+            "To configure payroll tax settings",
+            "To reconcile tax balances"
+        ]
+    },
+    {
+        "q": "Which SAP component is used for country-specific tax compliance?",
+        "o": [
+            "SAP Localization",
+            "SAP BW",
+            "SAP Ariba",
+            "SAP SuccessFactors"
+        ]
+    },
+    {
+        "q": "Which SAP process is responsible for e-invoicing compliance?",
+        "o": [
+            "SAP Document and Reporting Compliance (SAP DRC)",
+            "SAP Tax Determination",
+            "SAP Invoice Verification",
+            "SAP Payment Processing"
+        ]
+    },
+    {
+        "q": "What is the function of SAP transaction S_P00_07000139?",
+        "o": [
+            "To generate withholding tax reports",
+            "To configure tax procedure settings",
+            "To process payroll tax deductions",
+            "To create customer tax classifications"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to generate a tax return?",
+        "o": [
+            "RFUMSV00",
+            "J1INCHLN",
+            "FB60",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP setting is critical for GST input credit eligibility?",
+        "o": [
+            "Proper tax code assignment",
+            "Manual tax entry",
+            "Tax exemption classification",
+            "Reverse charge mechanism"
+        ]
+    },
+    {
+        "q": "Which SAP feature automates tax reporting and compliance?",
+        "o": [
+            "SAP Tax Compliance Automation",
+            "Manual Tax Entry Adjustments",
+            "Deferred Tax Posting",
+            "SAP Fixed Asset Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP process ensures correct VAT posting for intercompany transactions?",
+        "o": [
+            "Intercompany Tax Determination",
+            "Vendor Invoice Verification",
+            "SAP Payroll Processing",
+            "Reverse Tax Calculation"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to analyze tax liability per business area?",
+        "o": [
+            "S_ALR_87009848",
+            "FBL3N",
+            "RFWT0020",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP table stores withholding tax exemptions?",
+        "o": [
+            "WITH_ITEM",
+            "BSEG",
+            "KNA1",
+            "T059Z"
+        ]
+    },
+    {
+        "q": "What is the purpose of SAP tax jurisdiction determination?",
+        "o": [
+            "To assign correct tax rates based on location",
+            "To override manual tax entries",
+            "To configure payroll tax deductions",
+            "To verify input tax eligibility"
+        ]
+    },
+    {
+        "q": "Which SAP process enables tax self-assessment for businesses?",
+        "o": [
+            "Reverse Charge Mechanism",
+            "Deferred Tax Accounting",
+            "Tax Invoice Verification",
+            "SAP Payroll Compliance"
+        ]
+    },
+    {
+        "q": "What is the role of SAP Tax Code Mapping?",
+        "o": [
+            "To align tax codes with country-specific regulations",
+            "To manually override tax postings",
+            "To adjust vendor tax classifications",
+            "To reconcile payroll tax deductions"
+        ]
+    },
+    {
+        "q": "Which SAP table contains indirect tax condition records?",
+        "o": [
+            "A003",
+            "T007A",
+            "LFA1",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "Which SAP process is essential for real-time GST compliance?",
+        "o": [
+            "SAP GST Compliance Reporting",
+            "Manual Tax Adjustments",
+            "Deferred Tax Posting",
+            "SAP Invoice Verification"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for tax code configuration in purchasing?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "FBL1N",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP report is useful for reviewing tax postings in general ledger?",
+        "o": [
+            "FBL3N",
+            "RFUMSV00",
+            "MIRO",
+            "S_ALR_87012357"
+        ]
+    },
+    {
+        "q": "Which SAP transaction code is used to configure withholding tax types?",
+        "o": [
+            "OBBW",
+            "FTXP",
+            "J1INBANK",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP module primarily handles indirect taxation like GST/VAT?",
+        "o": [
+            "SAP FI",
+            "SAP SD",
+            "SAP MM",
+            "SAP HCM"
+        ]
+    },
+    {
+        "q": "Which SAP report helps in reconciling tax payments with tax authorities?",
+        "o": [
+            "RFWT0010",
+            "S_ALR_87009848",
+            "FBL1N",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which field in SAP vendor master data stores the VAT registration number?",
+        "o": [
+            "STCEG",
+            "LIFNR",
+            "KTOKK",
+            "TAXKY"
+        ]
+    },
+    {
+        "q": "Which SAP function enables tax reporting across multiple jurisdictions?",
+        "o": [
+            "SAP Advanced Compliance Reporting",
+            "SAP Invoice Verification",
+            "SAP Financial Closing Cockpit",
+            "SAP Business Partner Taxation"
+        ]
+    },
+    {
+        "q": "Which SAP configuration setting determines tax applicability for a material?",
+        "o": [
+            "Tax Classification",
+            "Tax Code",
+            "Condition Type",
+            "Tax Indicator"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to clear withholding tax accounts?",
+        "o": [
+            "F.13",
+            "FB08",
+            "J1INBANK",
+            "F-02"
+        ]
+    },
+    {
+        "q": "Which SAP table contains tax jurisdiction-related data?",
+        "o": [
+            "TTXJ",
+            "T007A",
+            "BSET",
+            "WITH_ITEM"
+        ]
+    },
+    {
+        "q": "Which SAP process ensures proper withholding tax deductions before payment?",
+        "o": [
+            "Withholding Tax Determination",
+            "Manual Tax Adjustments",
+            "Deferred Tax Posting",
+            "Tax Reconciliation"
+        ]
+    },
+    {
+        "q": "Which SAP tool automates VAT compliance and reporting?",
+        "o": [
+            "SAP Document and Reporting Compliance (SAP DRC)",
+            "SAP Business Partner Tax Integration",
+            "SAP Fixed Asset Accounting",
+            "SAP Tax Exemption Processing"
+        ]
+    },
+    {
+        "q": "Which SAP setting ensures correct GST classification for a customer?",
+        "o": [
+            "Tax Indicator in Customer Master",
+            "Withholding Tax Type",
+            "Tax Rate Determination",
+            "Invoice Posting Logic"
+        ]
+    },
+    {
+        "q": "Which SAP process helps businesses validate input tax credits?",
+        "o": [
+            "Tax Reconciliation Reports",
+            "Manual Journal Entries",
+            "Deferred Tax Processing",
+            "Payroll Tax Adjustments"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process an advance tax payment?",
+        "o": [
+            "F-48",
+            "J1INBANK",
+            "FB60",
+            "FTXP"
+        ]
+    },
+    {
+        "q": "Which SAP table stores country-specific tax calculation procedures?",
+        "o": [
+            "T007S",
+            "BSEG",
+            "LFA1",
+            "KNA1"
+        ]
+    },
+    {
+        "q": "Which SAP functionality automates intercompany tax settlements?",
+        "o": [
+            "SAP Intercompany Tax Processing",
+            "SAP Deferred Tax Engine",
+            "SAP Invoice Splitting",
+            "SAP Business Partner Taxation"
+        ]
+    },
+    {
+        "q": "Which SAP configuration helps in automating reverse charge mechanism (RCM)?",
+        "o": [
+            "Tax Code Configuration with Reverse Charge",
+            "Manual Tax Journal Entries",
+            "Tax Code Exemption",
+            "Payroll Tax Classification"
+        ]
+    },
+    {
+        "q": "Which SAP process ensures correct tax calculations in accounts payable?",
+        "o": [
+            "Automatic Tax Determination",
+            "Manual Tax Posting",
+            "Deferred Tax Adjustments",
+            "Invoice Correction Process"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to view vendor withholding tax details?",
+        "o": [
+            "J1INEMIS",
+            "FBL1N",
+            "FB03",
+            "S_ALR_87009848"
+        ]
+    },
+    {
+        "q": "Which SAP report provides tax summary based on general ledger postings?",
+        "o": [
+            "RFUMSV00",
+            "FBL3N",
+            "MIRO",
+            "S_ALR_87012357"
+        ]
+    },
+    {
+        "q": "Which SAP setting ensures correct VAT posting in an invoice?",
+        "o": [
+            "Tax Code Assignment",
+            "Manual Tax Entry",
+            "Tax Invoice Adjustment",
+            "Vendor Payment Processing"
+        ]
+    },
+    {
+        "q": "Which SAP feature allows businesses to comply with e-invoicing regulations?",
+        "o": [
+            "SAP E-Invoicing Framework",
+            "SAP Invoice Verification",
+            "SAP Tax Exemption",
+            "SAP Payroll Tax Deduction"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for VAT registration in vendor master data?",
+        "o": [
+            "XK03",
+            "ME21N",
+            "FB60",
+            "OBYZ"
+        ]
+    },
+    {
+        "q": "Which SAP process ensures tax deductions before payroll processing?",
+        "o": [
+            "SAP Payroll Tax Calculation",
+            "SAP Employee Master Data Adjustment",
+            "SAP Wage Type Configuration",
+            "SAP Business Partner Taxation"
+        ]
+    },
+    {
+        "q": "Which SAP report displays input tax credits for reconciliation?",
+        "o": [
+            "S_ALR_87009848",
+            "FBL3N",
+            "J1INBANK",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax reporting formats?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "F-02",
+            "S_ALR_87009848"
+        ]
+    },
+    {
+        "q": "Which SAP process ensures VAT compliance for intercompany transactions?",
+        "o": [
+            "SAP VAT Determination",
+            "SAP Tax Code Mapping",
+            "SAP Business Partner Tax Setup",
+            "SAP Invoice Split Processing"
+        ]
+    },
+    {
+        "q": "Which SAP tool helps in managing tax risks and compliance?",
+        "o": [
+            "SAP Tax Compliance Automation",
+            "SAP Invoice Verification",
+            "SAP Payroll Processing",
+            "SAP Business Partner Management"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for withholding tax reporting?",
+        "o": [
+            "S_P00_07000139",
+            "FBL1N",
+            "J1INBANK",
+            "S_ALR_87009848"
+        ]
+    },
+    {
+        "q": "Which SAP module is responsible for managing tax determination in sales transactions?",
+        "o": [
+            "SAP SD",
+            "SAP FI",
+            "SAP MM",
+            "SAP HCM"
+        ]
+    },
+    {
+        "q": "Which SAP report is used for GST summary analysis?",
+        "o": [
+            "S_ALR_87009848",
+            "RFUMSV00",
+            "FBL3N",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP table contains tax jurisdiction codes for sales transactions?",
+        "o": [
+            "TTXJ",
+            "T007A",
+            "LFA1",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "Which SAP setting ensures correct withholding tax calculation for invoices?",
+        "o": [
+            "Withholding Tax Type Assignment",
+            "Manual Tax Entry",
+            "Payroll Tax Classification",
+            "Tax Indicator in Customer Master"
+        ]
+    },
+    {
+        "q": "Which SAP process automates tax filing with authorities?",
+        "o": [
+            "SAP Tax Reporting Automation",
+            "SAP Invoice Posting",
+            "SAP Payroll Tax Processing",
+            "SAP Tax Code Reconciliation"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define tax codes for sales and purchases?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "FB60",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP function is used to configure tax condition types for pricing procedures?",
+        "o": [
+            "V/08",
+            "OB40",
+            "F.12",
+            "J1INBANK"
+        ]
+    },
+    {
+        "q": "Which SAP module is primarily responsible for payroll tax calculations?",
+        "o": [
+            "SAP HCM",
+            "SAP FI",
+            "SAP SD",
+            "SAP MM"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to simulate a tax calculation for verification?",
+        "o": [
+            "FTXP",
+            "FB03",
+            "F-53",
+            "S_ALR_87009848"
+        ]
+    },
+    {
+        "q": "Which SAP report provides details of deferred tax adjustments?",
+        "o": [
+            "S_ALR_87012357",
+            "FBL3N",
+            "RFWT0010",
+            "F.13"
+        ]
+    },
+    {
+        "q": "Which SAP process ensures correct tax calculation for international transactions?",
+        "o": [
+            "SAP Tax Jurisdiction Processing",
+            "SAP Payroll Tax Calculation",
+            "SAP Business Partner Tax Mapping",
+            "SAP Invoice Splitting"
+        ]
+    },
+    {
+        "q": "Which SAP transaction helps in managing input tax credit reconciliation?",
+        "o": [
+            "RFUMSV00",
+            "J1INBANK",
+            "FBL1N",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP configuration allows tax exemption handling for customers?",
+        "o": [
+            "Tax Indicator in Customer Master",
+            "Tax Code Mapping",
+            "Deferred Tax Processing",
+            "Payroll Tax Deduction Setup"
+        ]
+    },
+    {
+        "q": "Which SAP process automates GST/VAT return filing?",
+        "o": [
+            "SAP Tax Return Automation",
+            "SAP Invoice Verification",
+            "SAP Payroll Tax Processing",
+            "SAP Financial Statement Adjustment"
+        ]
+    },
+    {
+        "q": "Which SAP report summarizes tax amounts for financial audits?",
+        "o": [
+            "RFUMSV00",
+            "FBL3N",
+            "FB03",
+            "S_ALR_87012357"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for tax rate configuration?",
+        "o": [
+            "OBYZ",
+            "FB60",
+            "MIRO",
+            "J1INBANK"
+        ]
+    },
+    {
+        "q": "Which SAP functionality ensures correct tax deductions for employee payroll?",
+        "o": [
+            "SAP Payroll Tax Engine",
+            "SAP Tax Code Processing",
+            "SAP Invoice Tax Calculation",
+            "SAP Business Partner Taxation"
+        ]
+    },
+    {
+        "q": "Which SAP table stores tax category information for materials?",
+        "o": [
+            "TAXIM",
+            "BSET",
+            "LFA1",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "Which SAP module is used for electronic tax invoice generation?",
+        "o": [
+            "SAP E-Invoicing",
+            "SAP Financial Accounting",
+            "SAP Payroll Processing",
+            "SAP Material Management"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display withholding tax reports?",
+        "o": [
+            "J1INEMIS",
+            "FBL1N",
+            "FB03",
+            "OB40"
+        ]
+    },
+    {
+        "q": "Which SAP setting ensures tax adjustments for year-end closing?",
+        "o": [
+            "Deferred Tax Configuration",
+            "Payroll Tax Processing",
+            "SAP Business Partner Tax Indicator",
+            "Invoice Tax Validation"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax jurisdictions?",
+        "o": [
+            "OVK1",
+            "FTXP",
+            "FBL3N",
+            "J1INBANK"
+        ]
+    },
+    {
+        "q": "Which SAP report provides tax summary for all transactions in a period?",
+        "o": [
+            "S_ALR_87009848",
+            "RFUMSV00",
+            "FBL3N",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP configuration is essential for intercompany tax processing?",
+        "o": [
+            "Tax Code Assignment for Intercompany",
+            "Business Partner Tax Mapping",
+            "Manual Tax Adjustment",
+            "SAP Payroll Tax Deduction Setup"
+        ]
+    },
+    {
+        "q": "Which SAP table contains country-specific VAT registration numbers?",
+        "o": [
+            "LFA1",
+            "T007S",
+            "BSET",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax codes for invoices?",
+        "o": [
+            "FTXP",
+            "OB40",
+            "F-53",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP process ensures accurate tax postings for financial reports?",
+        "o": [
+            "Tax Reconciliation Automation",
+            "Manual Tax Adjustments",
+            "Payroll Tax Deductions",
+            "SAP Invoice Validation"
+        ]
+    },
+    {
+        "q": "Which SAP tool is used to comply with global tax regulations?",
+        "o": [
+            "SAP Global Tax Compliance",
+            "SAP Invoice Verification",
+            "SAP Payroll Processing",
+            "SAP Business Partner Management"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to check GST calculations for transactions?",
+        "o": [
+            "FBL3N",
+            "S_ALR_87009848",
+            "FB60",
+            "J1INBANK"
+        ]
+    },
+    {
+        "q": "Which SAP module is used to manage country-specific tax requirements?",
+        "o": [
+            "SAP Localization Hub",
+            "SAP FI-CO",
+            "SAP MM",
+            "SAP SD"
+        ]
+    },
+    {
+        "q": "Which SAP report helps in identifying incorrect tax postings?",
+        "o": [
+            "RFUMSV00",
+            "FBL1N",
+            "FB60",
+            "S_ALR_87012086"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post withholding tax payments?",
+        "o": [
+            "F-54",
+            "J1INCHLN",
+            "F-28",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP functionality enables tax exemptions for vendors?",
+        "o": [
+            "Vendor Master Tax Classification",
+            "Manual Tax Adjustments",
+            "Tax Code Deactivation",
+            "Deferred Tax Entry"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for monthly GST reconciliation?",
+        "o": [
+            "RFUMSV00",
+            "J1IG",
+            "FBL3N",
+            "S_ALR_87009848"
+        ]
+    },
+    {
+        "q": "Which SAP function helps in automatic tax determination in invoices?",
+        "o": [
+            "Tax Condition Records",
+            "Manual Tax Entry",
+            "Vendor Tax Assignment",
+            "Payroll Tax Processing"
+        ]
+    },
+    {
+        "q": "Which SAP table stores tax rate configurations?",
+        "o": [
+            "T007A",
+            "LFA1",
+            "BKPF",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure TDS tax types?",
+        "o": [
+            "J1INFB",
+            "F-53",
+            "FB03",
+            "FTXP"
+        ]
+    },
+    {
+        "q": "Which SAP report is used for analyzing withholding tax transactions?",
+        "o": [
+            "RFWT0020",
+            "FBL1N",
+            "F-44",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP feature ensures compliance with digital tax reporting?",
+        "o": [
+            "SAP Digital Tax Compliance",
+            "SAP Deferred Tax Processing",
+            "SAP Payroll Tax Automation",
+            "SAP Business Partner Tax Indicator"
+        ]
+    },
+    {
+        "q": "Which SAP module integrates with tax authorities for direct reporting?",
+        "o": [
+            "SAP Document Compliance",
+            "SAP FI-CO",
+            "SAP SD",
+            "SAP MM"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for configuring reverse charge mechanisms?",
+        "o": [
+            "OBCL",
+            "J1INBANK",
+            "FBL3N",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP process is used for VAT returns submission?",
+        "o": [
+            "SAP VAT Reporting",
+            "SAP Payroll Processing",
+            "SAP Business Partner Tax Assessment",
+            "SAP Material Tax Categorization"
+        ]
+    },
+    {
+        "q": "Which SAP feature ensures proper tax allocation for intercompany transactions?",
+        "o": [
+            "Intercompany Tax Configuration",
+            "Payroll Tax Processing",
+            "Deferred Tax Entry",
+            "SAP Business Partner Tax Mapping"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to manage input tax adjustments?",
+        "o": [
+            "J1IG",
+            "FB60",
+            "F-43",
+            "OB40"
+        ]
+    },
+    {
+        "q": "Which SAP table stores customer-specific tax details?",
+        "o": [
+            "KNA1",
+            "LFA1",
+            "T007A",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "Which SAP function prevents double taxation in cross-border transactions?",
+        "o": [
+            "Tax Exemption Configuration",
+            "Reverse Charge Mechanism",
+            "Deferred Tax Posting",
+            "SAP Payroll Tax Adjustment"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to maintain VAT registration numbers?",
+        "o": [
+            "OBY6",
+            "J1INBANK",
+            "FBL3N",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP functionality ensures compliance with tax jurisdiction rules?",
+        "o": [
+            "SAP Tax Jurisdiction Processing",
+            "SAP Payroll Tax Automation",
+            "SAP Material Tax Classification",
+            "SAP Invoice Tax Verification"
+        ]
+    },
+    {
+        "q": "Which SAP report provides an audit trail of tax adjustments?",
+        "o": [
+            "S_ALR_87012357",
+            "FBL3N",
+            "FB03",
+            "J1INCHLN"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for configuring tax condition records?",
+        "o": [
+            "VK11",
+            "OBYZ",
+            "FB60",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP module enables real-time tax reporting for compliance?",
+        "o": [
+            "SAP Tax Compliance Hub",
+            "SAP Payroll Tax Reporting",
+            "SAP Financial Accounting",
+            "SAP Business Partner Tax Setup"
+        ]
+    },
+    {
+        "q": "Which SAP transaction helps in calculating interest on unpaid taxes?",
+        "o": [
+            "S_ALR_87012177",
+            "F-43",
+            "FB03",
+            "J1INBANK"
+        ]
+    },
+    {
+        "q": "Which SAP configuration is essential for withholding tax certificate generation?",
+        "o": [
+            "Withholding Tax Reporting",
+            "Deferred Tax Setup",
+            "Business Partner Tax Indicator",
+            "SAP Payroll Tax Adjustment"
+        ]
+    },
+    {
+        "q": "Which SAP function ensures correct tax postings for foreign transactions?",
+        "o": [
+            "SAP Foreign Tax Configuration",
+            "SAP Payroll Tax Adjustments",
+            "SAP Invoice Tax Code Assignment",
+            "SAP Material Tax Classification"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to reconcile GST input and output tax?",
+        "o": [
+            "J1IGITC",
+            "FBL1N",
+            "MIRO",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax codes for automatic determination?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "VK11",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP table contains withholding tax types assigned to vendors?",
+        "o": [
+            "WITH_ITEM",
+            "BSEG",
+            "LFA1",
+            "T007A"
+        ]
+    },
+    {
+        "q": "Which SAP report helps in reviewing tax inconsistencies in vendor invoices?",
+        "o": [
+            "RFWT0010",
+            "S_ALR_87009848",
+            "FBL3N",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP functionality helps in managing tax refunds?",
+        "o": [
+            "Tax Adjustment Postings",
+            "Reverse Charge Mechanism",
+            "Deferred Tax Processing",
+            "SAP Payroll Tax Deduction"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for generating e-invoices under GST?",
+        "o": [
+            "J1IG_INV",
+            "FB03",
+            "MIRO",
+            "F-32"
+        ]
+    },
+    {
+        "q": "Which SAP feature ensures tax compliance for cross-border sales?",
+        "o": [
+            "SAP Global Tax Management",
+            "SAP Material Tax Classification",
+            "SAP Payroll Tax Adjustment",
+            "SAP Vendor Tax Grouping"
+        ]
+    },
+    {
+        "q": "Which SAP report provides a summary of tax liabilities for a given period?",
+        "o": [
+            "S_ALR_87012345",
+            "FBL3N",
+            "J1INBANK",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP table is used to maintain country-specific tax settings?",
+        "o": [
+            "T001",
+            "KNA1",
+            "BSEG",
+            "LFA1"
+        ]
+    },
+    {
+        "q": "Which SAP function helps in automatic TDS deductions from vendor payments?",
+        "o": [
+            "SAP Withholding Tax Processing",
+            "SAP Tax Invoice Verification",
+            "SAP Material Tax Grouping",
+            "SAP Payroll Tax Calculation"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure country-specific VAT rates?",
+        "o": [
+            "FTXP",
+            "J1INCHLN",
+            "F-28",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP table stores tax condition records for pricing calculations?",
+        "o": [
+            "A003",
+            "T007A",
+            "BSEG",
+            "KNA1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction allows businesses to file periodic VAT returns?",
+        "o": [
+            "S_ALR_87012357",
+            "MIRO",
+            "J1INBANK",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP report is useful for analyzing withholding tax postings?",
+        "o": [
+            "RFWT0010",
+            "J1IG",
+            "FBL1N",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to maintain digital signatures for e-invoicing?",
+        "o": [
+            "J1IG_DIGSIGN",
+            "FBL3N",
+            "FB03",
+            "F-43"
+        ]
+    },
+    {
+        "q": "Which SAP module is essential for handling real-time tax calculations?",
+        "o": [
+            "SAP Tax Compliance Hub",
+            "SAP SD",
+            "SAP MM",
+            "SAP HR"
+        ]
+    },
+    {
+        "q": "Which SAP feature helps organizations prevent incorrect tax filings?",
+        "o": [
+            "Tax Validation and Reconciliation",
+            "Manual Tax Adjustments",
+            "Payroll Tax Reversal",
+            "Vendor Tax Override"
+        ]
+    },
+    {
+        "q": "Which SAP table stores tax jurisdiction codes?",
+        "o": [
+            "TTXJ",
+            "T007A",
+            "LFA1",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "Which SAP function allows automatic generation of withholding tax certificates?",
+        "o": [
+            "Withholding Tax Certificate Processing",
+            "Deferred Tax Entry",
+            "Payroll Tax Deduction",
+            "SAP Tax Jurisdiction Mapping"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process reverse charge tax?",
+        "o": [
+            "J1IG_RC",
+            "FB03",
+            "F-32",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP report helps in tracking missing or incorrect tax details?",
+        "o": [
+            "RFWT0010",
+            "J1INBANK",
+            "S_ALR_87009848",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to calculate interest on delayed tax payments?",
+        "o": [
+            "S_ALR_87012177",
+            "F-43",
+            "J1IG",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP feature assists in real-time tax reporting to government portals?",
+        "o": [
+            "SAP Digital Tax Reporting",
+            "SAP Payroll Tax Compliance",
+            "SAP Material Tax Adjustment",
+            "SAP Business Partner Tax Verification"
+        ]
+    },
+    {
+        "q": "Which SAP table is used to store vendor tax classification details?",
+        "o": [
+            "LFA1",
+            "KNA1",
+            "T007A",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "Which SAP function helps ensure compliance with multi-country tax regulations?",
+        "o": [
+            "SAP Global Tax Compliance",
+            "SAP Payroll Tax Management",
+            "SAP Business Partner Tax Mapping",
+            "SAP Invoice Tax Jurisdiction Setup"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to verify input tax credits?",
+        "o": [
+            "J1IG_ITC",
+            "FBL3N",
+            "FB60",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP module integrates with external tax calculation engines?",
+        "o": [
+            "SAP Tax Service",
+            "SAP FI-CO",
+            "SAP SD",
+            "SAP MM"
+        ]
+    },
+    {
+        "q": "Which SAP report provides a detailed breakdown of tax calculations?",
+        "o": [
+            "S_ALR_87012345",
+            "J1IG",
+            "FBL1N",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display tax calculation rules for a country?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "VK11",
+            "F-43"
+        ]
+    },
+    {
+        "q": "Which SAP table stores tax jurisdiction determination settings?",
+        "o": [
+            "TTXJ",
+            "T007A",
+            "LFA1",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "Which SAP feature supports tax reconciliation across multiple countries?",
+        "o": [
+            "SAP Global Tax Compliance",
+            "SAP Business Partner Taxation",
+            "SAP Invoice Tax Audit",
+            "SAP Tax Grouping Function"
+        ]
+    },
+    {
+        "q": "Which SAP function enables deferred tax postings?",
+        "o": [
+            "Deferred Tax Processing",
+            "Withholding Tax Calculation",
+            "Payroll Tax Deduction",
+            "SAP Tax Adjustments"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to simulate tax calculations before posting?",
+        "o": [
+            "F_TX_TAXSIM",
+            "FB03",
+            "J1IG",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP report helps businesses analyze input tax credits (ITC)?",
+        "o": [
+            "J1IG_ITC_REPORT",
+            "RFWT0010",
+            "S_ALR_87012345",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP module handles tax accounting and reporting?",
+        "o": [
+            "SAP FI-CO",
+            "SAP MM",
+            "SAP SD",
+            "SAP HR"
+        ]
+    },
+    {
+        "q": "Which SAP functionality helps automate VAT reconciliation?",
+        "o": [
+            "SAP VAT Reporting & Reconciliation",
+            "SAP Tax Override",
+            "SAP Payroll Tax Adjustment",
+            "SAP Material Tax Classification"
+        ]
+    },
+    {
+        "q": "Which SAP table is used to store tax rate determination settings?",
+        "o": [
+            "T007A",
+            "TTXJ",
+            "BSEG",
+            "LFA1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to maintain tax exemptions for vendors?",
+        "o": [
+            "J1INEMIS",
+            "FTXP",
+            "F-53",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP tool assists in real-time compliance checks for tax filings?",
+        "o": [
+            "SAP Digital Compliance Reporting",
+            "SAP Tax Code Simulator",
+            "SAP Business Partner Tax Setup",
+            "SAP Deferred Tax Management"
+        ]
+    },
+    {
+        "q": "Which SAP transaction allows configuration of tax reporting frequency?",
+        "o": [
+            "OBZT",
+            "VK11",
+            "MIRO",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP report assists in tracking overdue tax payments?",
+        "o": [
+            "S_ALR_87012177",
+            "J1IG",
+            "FBL1N",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP feature ensures correct withholding tax application for cross-border payments?",
+        "o": [
+            "SAP Cross-Border Withholding Tax",
+            "SAP Tax Rate Mapping",
+            "SAP Payroll Tax Compliance",
+            "SAP Tax Jurisdiction Code Setup"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax invoice number formats?",
+        "o": [
+            "J1IG_INVNUM",
+            "FBL3N",
+            "MIRO",
+            "F-43"
+        ]
+    },
+    {
+        "q": "Which SAP table stores tax determination rules for specific transactions?",
+        "o": [
+            "T007S",
+            "TTXJ",
+            "BSEG",
+            "KNA1"
+        ]
+    },
+    {
+        "q": "Which SAP tool helps businesses verify compliance with tax audits?",
+        "o": [
+            "SAP Tax Audit Management",
+            "SAP VAT Exemption Processing",
+            "SAP Payroll Tax Verification",
+            "SAP Invoice Tax Reclassification"
+        ]
+    },
+    {
+        "q": "Which SAP function helps in automatic GST reconciliation?",
+        "o": [
+            "SAP GST Reconciliation Engine",
+            "SAP Tax Jurisdiction Management",
+            "SAP Payroll Tax Deduction",
+            "SAP Business Partner Tax Configuration"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to generate VAT return reports?",
+        "o": [
+            "S_ALR_87012357",
+            "FB60",
+            "F-53",
+            "J1IG"
+        ]
+    },
+    {
+        "q": "Which SAP module provides integration with external tax authorities?",
+        "o": [
+            "SAP Digital Tax Service",
+            "SAP Business Partner Tax Management",
+            "SAP Vendor Tax Compliance",
+            "SAP Invoice Tax Adjustments"
+        ]
+    },
+    {
+        "q": "Which SAP table contains information about tax codes and related conditions?",
+        "o": [
+            "A003",
+            "T007A",
+            "BSEG",
+            "LFA1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to generate tax certificates for vendors?",
+        "o": [
+            "J1INCERT",
+            "F-44",
+            "FB03",
+            "J1IG"
+        ]
+    },
+    {
+        "q": "Which SAP feature allows businesses to calculate tax on intercompany transactions?",
+        "o": [
+            "SAP Intercompany Tax Processing",
+            "SAP Payroll Tax Allocation",
+            "SAP VAT Reporting Tool",
+            "SAP Business Partner Tax Grouping"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax thresholds for different jurisdictions?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "VK11",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP report helps in identifying tax discrepancies in financial statements?",
+        "o": [
+            "SAP Tax Reconciliation Report",
+            "SAP Payroll Tax Compliance Report",
+            "SAP Vendor Tax Overview",
+            "SAP Invoice Tax Summary"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process reverse charge mechanisms in VAT?",
+        "o": [
+            "J1IG_RC",
+            "FBL3N",
+            "FB60",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP table holds tax calculation settings for payroll deductions?",
+        "o": [
+            "T511K",
+            "T007A",
+            "LFA1",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "Which SAP tool assists in automatic tax classification of goods and services?",
+        "o": [
+            "SAP Tax Classification Engine",
+            "SAP Payroll Tax Categorization",
+            "SAP Business Partner Tax Profile",
+            "SAP Tax Audit Review"
+        ]
+    },
+    {
+        "q": "Which SAP function helps businesses handle tax adjustments for prior periods?",
+        "o": [
+            "SAP Prior Period Tax Adjustments",
+            "SAP Withholding Tax Compliance",
+            "SAP Payroll Tax Correction",
+            "SAP Business Partner Tax Validation"
+        ]
+    },
+    {
+        "q": "Which SAP module is primarily used for managing indirect taxes like GST and VAT?",
+        "o": [
+            "SAP FI-TX",
+            "SAP SD",
+            "SAP MM",
+            "SAP HR"
+        ]
+    },
+    {
+        "q": "Which SAP functionality helps in tax reporting for multiple legal entities?",
+        "o": [
+            "SAP Advanced Compliance Reporting",
+            "SAP Tax Code Determination",
+            "SAP Business Partner Tax Grouping",
+            "SAP Payroll Tax Deduction"
+        ]
+    },
+    {
+        "q": "Which SAP report provides an overview of tax amounts posted in financial accounting?",
+        "o": [
+            "S_ALR_87012357",
+            "J1IG",
+            "FBL1N",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to manage input tax credits in GST/VAT?",
+        "o": [
+            "J1IG_ITC",
+            "FBL3N",
+            "FB60",
+            "OBYZ"
+        ]
+    },
+    {
+        "q": "Which SAP solution automates tax calculation in procurement and sales?",
+        "o": [
+            "SAP Tax Calculation Engine",
+            "SAP Withholding Tax Tool",
+            "SAP Business Partner Tax Setup",
+            "SAP Deferred Tax Management"
+        ]
+    },
+    {
+        "q": "Which SAP transaction allows the configuration of tax codes for country-specific regulations?",
+        "o": [
+            "FTXP",
+            "OBZT",
+            "MIRO",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP report is used for tax compliance tracking in accounts payable?",
+        "o": [
+            "RFWT0020",
+            "J1INCERT",
+            "F-43",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP functionality ensures compliance with electronic invoicing requirements?",
+        "o": [
+            "SAP e-Invoicing Compliance",
+            "SAP Tax Code Validator",
+            "SAP Payroll Tax Generator",
+            "SAP Business Partner Tax Management"
+        ]
+    },
+    {
+        "q": "Which SAP report helps analyze withholding tax amounts deducted from vendor payments?",
+        "o": [
+            "RFWT0010",
+            "FBL3N",
+            "J1IG",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP table is used to store tax rates based on jurisdiction codes?",
+        "o": [
+            "T007L",
+            "TTXJ",
+            "BSEG",
+            "LFA1"
+        ]
+    },
+    {
+        "q": "Which SAP functionality is designed for country-specific tax reporting?",
+        "o": [
+            "SAP Localization Hub",
+            "SAP Tax Reconciliation",
+            "SAP Deferred Tax Processing",
+            "SAP Payroll Tax Management"
+        ]
+    },
+    {
+        "q": "Which SAP module integrates with tax authorities for real-time reporting?",
+        "o": [
+            "SAP Digital Compliance Reporting",
+            "SAP VAT Adjustment",
+            "SAP Tax Rate Simulator",
+            "SAP Business Partner Tax Profile"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to monitor pending tax liabilities in financial accounting?",
+        "o": [
+            "S_ALR_87012177",
+            "J1IG",
+            "FBL1N",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction allows the posting of withholding tax manually?",
+        "o": [
+            "F-47",
+            "F-53",
+            "FB03",
+            "J1IG"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to map tax jurisdictions to company codes?",
+        "o": [
+            "OBCL",
+            "FTXP",
+            "VK11",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP tool facilitates automated reconciliation of tax ledgers?",
+        "o": [
+            "SAP Tax Ledger Reconciliation",
+            "SAP VAT Compliance Tracker",
+            "SAP Payroll Tax Integration",
+            "SAP Business Partner Tax Validation"
+        ]
+    },
+    {
+        "q": "Which SAP functionality allows businesses to claim tax refunds efficiently?",
+        "o": [
+            "SAP Tax Refund Management",
+            "SAP Tax Code Simulation",
+            "SAP Payroll Tax Adjustment",
+            "SAP Business Partner Tax Calculator"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define tax percentage rates for countries?",
+        "o": [
+            "OBYZ",
+            "J1IG",
+            "FBL3N",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP module is essential for managing indirect tax compliance?",
+        "o": [
+            "SAP Global Trade Services (GTS)",
+            "SAP FI-AR",
+            "SAP HR Payroll",
+            "SAP SD Billing"
+        ]
+    },
+    {
+        "q": "Which SAP report helps organizations verify tax calculations before submission?",
+        "o": [
+            "SAP Tax Verification Report",
+            "SAP Payroll Tax Summary",
+            "SAP Vendor Tax Ledger",
+            "SAP Business Partner Tax Mapping"
+        ]
+    },
+    {
+        "q": "Which SAP function automates tax determination based on transaction types?",
+        "o": [
+            "SAP Tax Determination Engine",
+            "SAP Payroll Tax Categorization",
+            "SAP VAT Invoice Processing",
+            "SAP Business Partner Tax Assignment"
+        ]
+    },
+    {
+        "q": "Which SAP tool allows businesses to audit tax postings across company codes?",
+        "o": [
+            "SAP Tax Audit Review",
+            "SAP Payroll Tax Assessment",
+            "SAP Vendor Taxation Report",
+            "SAP Business Partner Tax Compliance"
+        ]
+    },
+    {
+        "q": "Which SAP functionality is used to handle tax-exempt transactions?",
+        "o": [
+            "SAP Tax Exemption Processing",
+            "SAP Payroll Tax Deduction",
+            "SAP Business Partner VAT Assignment",
+            "SAP Invoice Tax Calculation"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure VAT reporting structures?",
+        "o": [
+            "OBZT",
+            "FTXP",
+            "VK11",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP feature allows businesses to adjust tax postings after period closure?",
+        "o": [
+            "SAP Post-Period Tax Adjustment",
+            "SAP Tax Classification",
+            "SAP VAT Calculation Override",
+            "SAP Payroll Tax Compliance"
+        ]
+    },
+    {
+        "q": "Which SAP report provides an overview of input and output tax balances?",
+        "o": [
+            "S_ALR_87012357",
+            "J1IG",
+            "FBL1N",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP function supports automated withholding tax calculations for vendors?",
+        "o": [
+            "SAP Vendor Withholding Tax Engine",
+            "SAP Payroll Tax Allocation",
+            "SAP Tax Rate Mapping",
+            "SAP Business Partner Tax Category"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to track sales tax liability for different regions?",
+        "o": [
+            "SAP Sales Tax Liability Report",
+            "SAP VAT Exception Report",
+            "SAP Payroll Tax Filing Summary",
+            "SAP Business Partner Tax Ledger"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax invoice layouts?",
+        "o": [
+            "J1IG_INV",
+            "F-53",
+            "MIRO",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP tool assists businesses in generating compliance reports for tax authorities?",
+        "o": [
+            "SAP Tax Compliance Reporting",
+            "SAP Payroll Tax Summary",
+            "SAP VAT Ledger Mapping",
+            "SAP Business Partner Tax Tracker"
+        ]
+    },
+    {
+        "q": "Which SAP module is used to handle tax reporting for intercompany transactions?",
+        "o": [
+            "SAP FI-TX",
+            "SAP MM",
+            "SAP SD",
+            "SAP GTS"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process a withholding tax on payments to vendors?",
+        "o": [
+            "F-47",
+            "FB60",
+            "F-53",
+            "J1IG"
+        ]
+    },
+    {
+        "q": "Which report in SAP helps you track the tax returns for various regions?",
+        "o": [
+            "RFWT0020",
+            "S_ALR_87012357",
+            "FBL3N",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "In SAP, which tax-related configuration allows businesses to define the tax jurisdiction codes?",
+        "o": [
+            "FTXP",
+            "J1IG",
+            "OBYZ",
+            "OBCL"
+        ]
+    },
+    {
+        "q": "Which SAP transaction allows you to post a tax-exempt purchase order?",
+        "o": [
+            "ME21N",
+            "F-28",
+            "FB60",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "In SAP, which feature helps in calculating tax amounts based on the tax code and jurisdiction?",
+        "o": [
+            "SAP Tax Calculation Engine",
+            "SAP Tax Reconciliation",
+            "SAP Payroll Tax Calculation",
+            "SAP Tax Ledger"
+        ]
+    },
+    {
+        "q": "Which SAP table stores the information about tax amounts posted in accounting?",
+        "o": [
+            "BSEG",
+            "J_1ITRAN",
+            "J_1IMRA",
+            "LFA1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to generate the VAT report for submission to tax authorities?",
+        "o": [
+            "J1IEX",
+            "J1IN",
+            "MIRO",
+            "F-43"
+        ]
+    },
+    {
+        "q": "Which SAP report tracks the withholding tax amounts for individual vendors?",
+        "o": [
+            "RFWT0010",
+            "S_ALR_87012177",
+            "FBL1N",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP tool helps businesses automatically calculate tax rates in sales and procurement processes?",
+        "o": [
+            "SAP Tax Rate Determination",
+            "SAP Tax Calculation Engine",
+            "SAP Payroll Tax Adjustment",
+            "SAP Business Partner Tax Information"
+        ]
+    },
+    {
+        "q": "Which SAP report allows you to view a detailed breakdown of tax by jurisdiction?",
+        "o": [
+            "J1IG",
+            "S_ALR_87012357",
+            "RFWT0010",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax codes in the system?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "J1IG",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP report helps identify tax-related errors in the financial posting process?",
+        "o": [
+            "S_ALR_87012177",
+            "RFWT0010",
+            "MIRO",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "In SAP, which configuration is used to set tax rates for different countries?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "MIRO",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP module handles the compliance of tax filings and VAT returns?",
+        "o": [
+            "SAP Global Trade Services (GTS)",
+            "SAP FI-TX",
+            "SAP MM",
+            "SAP HR"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for the automatic posting of input tax for vendor invoices?",
+        "o": [
+            "MIRO",
+            "F-28",
+            "FB60",
+            "F-47"
+        ]
+    },
+    {
+        "q": "Which SAP functionality helps businesses generate reports for tax audits?",
+        "o": [
+            "SAP Tax Reporting",
+            "SAP Payroll Tax Summary",
+            "SAP VAT Report",
+            "SAP Withholding Tax Report"
+        ]
+    },
+    {
+        "q": "Which SAP tool ensures the correct tax calculation for international transactions?",
+        "o": [
+            "SAP Tax Calculation Engine",
+            "SAP VAT Configuration",
+            "SAP Business Partner Tax Grouping",
+            "SAP Payroll Tax Deduction"
+        ]
+    },
+    {
+        "q": "Which SAP transaction helps businesses manage tax code determination during invoice processing?",
+        "o": [
+            "J1IG",
+            "FB60",
+            "MIRO",
+            "F-47"
+        ]
+    },
+    {
+        "q": "Which SAP report provides a summary of withholding tax liabilities for a period?",
+        "o": [
+            "RFWT0020",
+            "J1IN",
+            "S_ALR_87012357",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "In SAP, which transaction is used to post a manual withholding tax amount?",
+        "o": [
+            "F-47",
+            "F-53",
+            "FB60",
+            "J1IG"
+        ]
+    },
+    {
+        "q": "Which SAP report helps monitor tax compliance for different legal entities?",
+        "o": [
+            "SAP Tax Compliance Report",
+            "S_ALR_87012357",
+            "MIRO",
+            "FB03"
+        ]
+    },
+    {
+        "q": "In SAP, which report helps identify the details of tax codes used in different financial transactions?",
+        "o": [
+            "S_ALR_87012357",
+            "J1IG",
+            "FBL3N",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for handling GST/VAT returns in the system?",
+        "o": [
+            "J1IEX",
+            "J1IN",
+            "FB60",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP module integrates with external tax software for generating tax reports?",
+        "o": [
+            "SAP FI-TX",
+            "SAP MM",
+            "SAP GTS",
+            "SAP Payroll"
+        ]
+    },
+    {
+        "q": "Which SAP report helps track tax liabilities and payments to authorities?",
+        "o": [
+            "SAP Tax Liability Report",
+            "J1IG",
+            "MIRO",
+            "S_ALR_87012177"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to assign tax codes to general ledger accounts?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "J1IG",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which report is used in SAP to determine VAT due from customer invoices?",
+        "o": [
+            "RFWT0010",
+            "S_ALR_87012357",
+            "J1IN",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "In SAP, which configuration is used to set up tax calculation procedures?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "J1IN",
+            "F-47"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to record sales tax on a customer invoice?",
+        "o": [
+            "FB70",
+            "MIRO",
+            "FB60",
+            "F-47"
+        ]
+    },
+    {
+        "q": "In SAP, which report provides the detailed list of all sales tax transactions?",
+        "o": [
+            "RFWT0020",
+            "FBL3N",
+            "J1IN",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure the tax rate for different tax jurisdictions?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "J1IG",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process a vendor payment and apply withholding tax?",
+        "o": [
+            "F-53",
+            "FB60",
+            "MIRO",
+            "F-47"
+        ]
+    },
+    {
+        "q": "Which SAP module is responsible for the automatic calculation of VAT during sales order processing?",
+        "o": [
+            "SAP SD",
+            "SAP MM",
+            "SAP FI",
+            "SAP GTS"
+        ]
+    },
+    {
+        "q": "In SAP, which report can help analyze tax amounts that were not deducted correctly?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0020",
+            "FB03",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP tool helps in the configuration of tax determination for international transactions?",
+        "o": [
+            "SAP Global Trade Services (GTS)",
+            "SAP FI-TX",
+            "SAP VAT Configuration",
+            "SAP SD"
+        ]
+    },
+    {
+        "q": "Which SAP report shows the breakdown of input and output tax for VAT?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0010",
+            "MIRO",
+            "FB60"
+        ]
+    },
+    {
+        "q": "In SAP, which transaction is used for handling sales tax returns?",
+        "o": [
+            "J1IEX",
+            "FB60",
+            "MIRO",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which report in SAP shows a detailed list of tax exemptions for various business partners?",
+        "o": [
+            "RFWT0010",
+            "FB60",
+            "S_ALR_87012357",
+            "J1IN"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to perform a tax adjustment for a vendor invoice?",
+        "o": [
+            "FB60",
+            "F-47",
+            "MIRO",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP functionality allows users to configure tax rates for different regions?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "J1IG",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP report provides a detailed list of vendor withholding tax for a specified period?",
+        "o": [
+            "RFWT0010",
+            "S_ALR_87012357",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "In SAP, which configuration is used to determine the tax rates based on customer or vendor location?",
+        "o": [
+            "FTXP",
+            "J1IG",
+            "OBYZ",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for the automatic posting of taxes during vendor invoice processing?",
+        "o": [
+            "MIRO",
+            "FB60",
+            "F-47",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to handle withholding tax exemptions for vendors?",
+        "o": [
+            "J1IN",
+            "FB60",
+            "F-47",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP report helps businesses track the submission of VAT returns to tax authorities?",
+        "o": [
+            "RFWT0020",
+            "S_ALR_87012357",
+            "J1IG",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP functionality ensures that tax codes are correctly assigned to different business transactions?",
+        "o": [
+            "SAP Tax Calculation Engine",
+            "SAP Global Taxation",
+            "SAP Tax Reporting",
+            "SAP VAT Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP transaction allows users to verify the tax code used for a customer invoice?",
+        "o": [
+            "FB70",
+            "MIRO",
+            "F-47",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP report helps to ensure that tax returns are correctly filed in accordance with local tax laws?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0020",
+            "J1IN",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to perform a vendor payment with withholding tax?",
+        "o": [
+            "F-48",
+            "F-53",
+            "MIRO",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for generating tax reports for reverse charge VAT?",
+        "o": [
+            "RFWT0030",
+            "S_ALR_87012357",
+            "FB60",
+            "FB70"
+        ]
+    },
+    {
+        "q": "Which SAP function allows for the maintenance of withholding tax codes?",
+        "o": [
+            "OBV8",
+            "OBYZ",
+            "J1IG",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax rates for domestic transactions?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "MIRO",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction allows users to configure tax calculation procedures for VAT?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "J1IN",
+            "F-47"
+        ]
+    },
+    {
+        "q": "Which SAP report shows the VAT tax amount collected from customers over a period?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0020",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to track the withholding tax liability for a specific tax code?",
+        "o": [
+            "RFWT0010",
+            "S_ALR_87012357",
+            "FB03",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP configuration setting determines the tax code assignment based on the type of transaction?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "J1IG",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for posting vendor invoices with VAT on different accounts?",
+        "o": [
+            "MIRO",
+            "FB60",
+            "F-47",
+            "FB70"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax jurisdiction codes for VAT?",
+        "o": [
+            "OBYZ",
+            "J1IN",
+            "FTXP",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP tool provides users with a comprehensive list of tax codes used in the system?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "FBL3N",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for managing tax deductions at source (TDS) for a vendor invoice?",
+        "o": [
+            "F-47",
+            "FB60",
+            "MIRO",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP report helps track tax liabilities for international transactions?",
+        "o": [
+            "RFWT0010",
+            "S_ALR_87012357",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP module is responsible for the automatic deduction of withholding tax during payment processing?",
+        "o": [
+            "SAP FI",
+            "SAP SD",
+            "SAP MM",
+            "SAP GTS"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post tax adjustments after the vendor invoice has been processed?",
+        "o": [
+            "FB60",
+            "F-47",
+            "MIRO",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post payments for withholding tax during vendor invoice payments?",
+        "o": [
+            "F-53",
+            "FB60",
+            "MIRO",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP report provides the details of tax deductions made on vendor payments?",
+        "o": [
+            "RFWT0010",
+            "S_ALR_87012357",
+            "FB03",
+            "FB60"
+        ]
+    },
+    {
+        "q": "In SAP, which configuration allows the creation of withholding tax types based on vendor categories?",
+        "o": [
+            "OBV8",
+            "FTXP",
+            "OBYZ",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction helps users to view tax codes assigned to business partners?",
+        "o": [
+            "BP",
+            "FTXP",
+            "J1IN",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP functionality is used to configure the tax rates applicable to different types of business transactions?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "MIRO",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure withholding tax exemptions for vendor payments?",
+        "o": [
+            "J1IN",
+            "FB60",
+            "MIRO",
+            "F-47"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for posting a payment with tax included for a customer?",
+        "o": [
+            "F-28",
+            "F-32",
+            "F-53",
+            "FB60"
+        ]
+    },
+    {
+        "q": "In SAP, which tax procedure is used for the calculation of VAT?",
+        "o": [
+            "TAXUSX",
+            "TAXINN",
+            "TAXIN1",
+            "TAXV1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction allows users to create a tax code for VAT in the system?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP functionality is used to define tax determination rules for sales transactions?",
+        "o": [
+            "OVK1",
+            "OVK2",
+            "FTXP",
+            "OBYZ"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to view the tax amounts for intercompany transactions?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0020",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction allows the creation of tax calculation conditions for domestic and international tax?",
+        "o": [
+            "OVK3",
+            "FTXP",
+            "J1IG",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "In SAP, which module is used for the configuration of tax exemptions for specific customer groups?",
+        "o": [
+            "SAP SD",
+            "SAP MM",
+            "SAP FI",
+            "SAP GTS"
+        ]
+    },
+    {
+        "q": "Which SAP report can be used to check the withholding tax posted during the vendor payment process?",
+        "o": [
+            "RFWT0030",
+            "S_ALR_87012357",
+            "FB03",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a vendor invoice where the tax is applied at the net value?",
+        "o": [
+            "MIRO",
+            "FB60",
+            "F-47",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP functionality allows users to configure the tax reporting period for VAT filings?",
+        "o": [
+            "OBY6",
+            "OBYZ",
+            "S_ALR_87012357",
+            "FTXP"
+        ]
+    },
+    {
+        "q": "In SAP, which tax procedure is used for country-specific tax regulations?",
+        "o": [
+            "TAXINN",
+            "TAXUSX",
+            "TAX1",
+            "TAX2"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create tax codes for service tax?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "J1IN",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to check the withholding tax amounts for vendor invoices?",
+        "o": [
+            "RFWT0010",
+            "S_ALR_87012357",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure the tax calculation procedure for VAT?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "J1IG",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP functionality allows users to generate tax reports for multiple tax jurisdictions?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0020",
+            "FB03",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP report provides detailed information about VAT tax amounts for all sales invoices?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0030",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax reporting settings for indirect tax?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "MIRO",
+            "FB60"
+        ]
+    },
+    {
+        "q": "In SAP, which report provides the calculation of tax liabilities during month-end closing?",
+        "o": [
+            "RFWT0010",
+            "S_ALR_87012357",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction allows the creation of withholding tax types based on vendor categories?",
+        "o": [
+            "OBV8",
+            "FTXP",
+            "OBYZ",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for posting a vendor invoice with withholding tax and VAT?",
+        "o": [
+            "MIRO",
+            "FB60",
+            "F-47",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP configuration allows the user to assign multiple tax codes to a single vendor?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "J1IN",
+            "OBV8"
+        ]
+    },
+    {
+        "q": "In SAP, which transaction is used to display the tax report for payments made to vendors?",
+        "o": [
+            "RFWT0030",
+            "S_ALR_87012357",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP report helps track tax liabilities for cross-border transactions?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0010",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure the tax authority code for VAT reporting?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "J1IG",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP function is used to configure tax-exempt status for specific customers?",
+        "o": [
+            "OVK1",
+            "OVK2",
+            "FTXP",
+            "J1IN"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to view tax code details applied to vendor transactions?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0020",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "In SAP, which transaction is used for adjusting the VAT amounts for previously posted invoices?",
+        "o": [
+            "FB60",
+            "MIRO",
+            "F-47",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP functionality enables the creation of tax exemption certificates for customers?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "J1IN",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP report provides an overview of tax amounts for both purchase and sale invoices?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0030",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "In SAP, which tax procedure is used for tax determination on goods and services for cross-border transactions?",
+        "o": [
+            "TAXINN",
+            "TAXUSX",
+            "TAX1",
+            "TAX2"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display the tax determination for a particular sales order?",
+        "o": [
+            "VF03",
+            "FB03",
+            "MIRO",
+            "S_ALR_87012357"
+        ]
+    },
+    {
+        "q": "In SAP, which functionality allows users to track tax credits and refunds from tax authorities?",
+        "o": [
+            "J1IG",
+            "S_ALR_87012357",
+            "RFWT0030",
+            "FTXP"
+        ]
+    },
+    {
+        "q": "Which SAP function allows users to define the tax rates for specific jurisdictions?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "J1IN",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to show tax deductions for each customer or vendor during a specific period?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0010",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP module is responsible for managing the integration between tax calculations and financial transactions?",
+        "o": [
+            "SAP FI",
+            "SAP SD",
+            "SAP MM",
+            "SAP HR"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to maintain tax rate conditions for sales transactions?",
+        "o": [
+            "OVK3",
+            "FTXP",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP report is used for generating the summary of tax amounts due for VAT returns?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0020",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for creating tax-exempt status for suppliers in the system?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "J1IN",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP table stores the tax codes and their associated rates?",
+        "o": [
+            "T007A",
+            "BKPF",
+            "BSEG",
+            "VBRK"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax jurisdiction codes?",
+        "o": [
+            "OVK4",
+            "FTXP",
+            "OBYZ",
+            "J1IN"
+        ]
+    },
+    {
+        "q": "Which SAP standard report is used to generate a VAT return statement?",
+        "o": [
+            "RFUMSV00",
+            "S_ALR_87012357",
+            "RFWT0020",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reverse an incorrectly posted withholding tax entry?",
+        "o": [
+            "FB08",
+            "FB75",
+            "F-44",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP component is responsible for tax calculation in real-time for purchasing and sales transactions?",
+        "o": [
+            "SAP Tax Procedure",
+            "SAP FI-AP",
+            "SAP FI-AR",
+            "SAP SD-Billing"
+        ]
+    },
+    {
+        "q": "Which SAP configuration is used to define tax categories for customer master data?",
+        "o": [
+            "OVK3",
+            "FTXP",
+            "OBYZ",
+            "J1IN"
+        ]
+    },
+    {
+        "q": "Which SAP report provides a list of all tax-relevant transactions posted in a given period?",
+        "o": [
+            "RFWT0010",
+            "S_ALR_87012357",
+            "FBL3N",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which tax type is used in SAP for self-assessed VAT on intra-community acquisitions?",
+        "o": [
+            "Reverse Charge VAT",
+            "Output VAT",
+            "Input VAT",
+            "Zero-rated VAT"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for withholding tax certificate generation?",
+        "o": [
+            "J1INCERT",
+            "FB03",
+            "MIRO",
+            "S_ALR_87012357"
+        ]
+    },
+    {
+        "q": "Which SAP configuration enables automatic tax calculation for invoices posted in FI?",
+        "o": [
+            "TAXINN",
+            "TAXINJ",
+            "TAXUSX",
+            "TAXEU"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to view the tax line items within financial documents?",
+        "o": [
+            "FBL3N",
+            "FBL1N",
+            "FB03",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to verify input tax and output tax amounts for reconciliation?",
+        "o": [
+            "RFUMSV00",
+            "S_ALR_87012357",
+            "FBL5N",
+            "F-02"
+        ]
+    },
+    {
+        "q": "Which SAP table stores withholding tax types and tax codes assigned to vendors?",
+        "o": [
+            "T059Z",
+            "T007A",
+            "BSEG",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "Which SAP function automatically calculates tax based on the assigned tax code in transactions?",
+        "o": [
+            "Tax Procedure",
+            "Condition Technique",
+            "Account Determination",
+            "Tax Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a new tax code?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "J1IG",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP standard process is used for automatic tax adjustment postings?",
+        "o": [
+            "Report RFUMSV00",
+            "Report RFWT0020",
+            "Transaction FB60",
+            "Transaction MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP module is primarily used for payroll tax calculations and compliance?",
+        "o": [
+            "SAP HCM",
+            "SAP FI",
+            "SAP MM",
+            "SAP SD"
+        ]
+    },
+    {
+        "q": "Which SAP table contains tax jurisdiction details for company codes?",
+        "o": [
+            "T007S",
+            "T059Z",
+            "T007A",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "Which SAP process is used for automatic tax determination in sales transactions?",
+        "o": [
+            "Condition Technique",
+            "Reverse Charge Mechanism",
+            "Manual Tax Code Entry",
+            "Tax Exemption Certificate"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process input tax corrections in financial accounting?",
+        "o": [
+            "F-47",
+            "F-02",
+            "FB60",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP table stores tax jurisdiction codes and rates for different regions?",
+        "o": [
+            "TTXJ",
+            "T007A",
+            "T059Z",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display tax-related postings for reconciliation?",
+        "o": [
+            "F.07",
+            "FBL3N",
+            "FB60",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP configuration is required to enable automatic withholding tax calculation?",
+        "o": [
+            "Extended Withholding Tax",
+            "Classic Withholding Tax",
+            "Manual Tax Entry",
+            "Tax Condition Record"
+        ]
+    },
+    {
+        "q": "Which SAP standard report is used for withholding tax reconciliation?",
+        "o": [
+            "RFWT0020",
+            "RFUMSV00",
+            "S_ALR_87012357",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which tax code is used in SAP for non-taxable transactions?",
+        "o": [
+            "Tax Code 'NV'",
+            "Tax Code 'A0'",
+            "Tax Code 'ZT'",
+            "Tax Code 'I1'"
+        ]
+    },
+    {
+        "q": "Which SAP module integrates with tax calculation for procurement transactions?",
+        "o": [
+            "SAP MM",
+            "SAP SD",
+            "SAP FI",
+            "SAP CO"
+        ]
+    },
+    {
+        "q": "Which SAP process allows businesses to reclaim VAT on expenses?",
+        "o": [
+            "Input VAT Deduction",
+            "Output VAT Collection",
+            "Reverse Charge Mechanism",
+            "Tax Code Adjustment"
+        ]
+    },
+    {
+        "q": "Which SAP table stores withholding tax transactions for vendor payments?",
+        "o": [
+            "WITH_ITEM",
+            "T059Z",
+            "T007A",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define tax reporting periods?",
+        "o": [
+            "OB29",
+            "FTXP",
+            "J1IN",
+            "F-02"
+        ]
+    },
+    {
+        "q": "Which SAP component determines the applicable VAT rate for a transaction?",
+        "o": [
+            "Tax Jurisdiction Code",
+            "Pricing Procedure",
+            "Tax Exemption Certificate",
+            "Withholding Tax Code"
+        ]
+    },
+    {
+        "q": "Which SAP process ensures correct tax reporting across multiple jurisdictions?",
+        "o": [
+            "Tax Jurisdiction Processing",
+            "Manual Tax Entry",
+            "Account Determination",
+            "Document Splitting"
+        ]
+    },
+    {
+        "q": "Which SAP transaction generates a tax report for government authorities?",
+        "o": [
+            "S_ALR_87012357",
+            "RFWT0020",
+            "FBL5N",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP setting allows tax exemption handling for certain customers?",
+        "o": [
+            "Customer Tax Classification",
+            "Output Tax Condition Record",
+            "Special Tax Code Configuration",
+            "Reverse Charge Mechanism"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to validate input and output tax consistency?",
+        "o": [
+            "RFUMSV00",
+            "RFWT0010",
+            "F.07",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for vendor withholding tax adjustments?",
+        "o": [
+            "J1INCHLN",
+            "FB08",
+            "F-44",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP module supports tax compliance and audit requirements?",
+        "o": [
+            "SAP GRC (Governance, Risk, and Compliance)",
+            "SAP MM (Materials Management)",
+            "SAP SD (Sales and Distribution)",
+            "SAP WM (Warehouse Management)"
+        ]
+    },
+    {
+        "q": "Which SAP table holds configuration data for withholding tax types?",
+        "o": [
+            "T059P",
+            "T007A",
+            "BKPF",
+            "TAXINN"
+        ]
+    },
+    {
+        "q": "Which SAP tax procedure is widely used for GST and VAT?",
+        "o": [
+            "TAXINN",
+            "TAXINJ",
+            "TAXEU",
+            "TAXUSX"
+        ]
+    },
+    {
+        "q": "Which SAP process ensures accurate tax reporting in accounts payable?",
+        "o": [
+            "Withholding Tax Processing",
+            "VAT Condition Records",
+            "Manual Tax Code Entry",
+            "Revenue Account Determination"
+        ]
+    },
+    {
+        "q": "Which SAP function enables electronic tax reporting for compliance?",
+        "o": [
+            "Digital Compliance Reporting",
+            "Tax Jurisdiction Code Setup",
+            "Tax Indicator Customization",
+            "Manual Tax Adjustments"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax codes for VAT/GST?",
+        "o": [
+            "FTXP",
+            "OB40",
+            "F-43",
+            "J1IN"
+        ]
+    },
+    {
+        "q": "Which SAP report provides an overview of tax postings for a specified period?",
+        "o": [
+            "S_ALR_87009813",
+            "RFUMSV00",
+            "FBL1N",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP module is primarily responsible for tax compliance in payroll processing?",
+        "o": [
+            "SAP HCM",
+            "SAP FI",
+            "SAP SD",
+            "SAP MM"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for generating tax returns for electronic filing?",
+        "o": [
+            "S_P00_07000134",
+            "F-22",
+            "J1INMIS",
+            "MIRO"
+        ]
+    },
+    {
+        "q": "Which SAP standard functionality ensures correct VAT treatment in cross-border transactions?",
+        "o": [
+            "Tax Jurisdiction Code",
+            "Reverse Charge Mechanism",
+            "Manual Tax Entry",
+            "Invoice Splitting"
+        ]
+    },
+    {
+        "q": "Which SAP process is used for withholding tax calculation on vendor invoices?",
+        "o": [
+            "Automatic Withholding Tax Deduction",
+            "Manual Tax Adjustment",
+            "Reverse Charge Application",
+            "Customer Tax Classification"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for defining tax jurisdictions?",
+        "o": [
+            "OX10",
+            "OBYZ",
+            "FTXP",
+            "J1INCHLN"
+        ]
+    },
+    {
+        "q": "Which SAP report helps in reconciling input and output taxes?",
+        "o": [
+            "RFUMSV00",
+            "S_ALR_87012357",
+            "FBL3N",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction enables businesses to configure withholding tax rates?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "F-58",
+            "S_ALR_87012087"
+        ]
+    },
+    {
+        "q": "Which SAP component helps in automating tax reporting for different tax authorities?",
+        "o": [
+            "SAP Advanced Compliance Reporting",
+            "SAP Tax Code Setup",
+            "SAP Condition Technique",
+            "SAP Output Determination"
+        ]
+    },
+    {
+        "q": "Which SAP table stores country-specific tax calculation settings?",
+        "o": [
+            "T007S",
+            "WITH_ITEM",
+            "T059P",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "Which SAP tax configuration allows businesses to differentiate between input and output tax?",
+        "o": [
+            "Tax Procedure Determination",
+            "Account Determination",
+            "Document Splitting",
+            "Withholding Tax Code"
+        ]
+    },
+    {
+        "q": "Which SAP functionality helps in managing tax-exempt transactions?",
+        "o": [
+            "Tax Exemption Certificate Management",
+            "Automatic Tax Determination",
+            "Reverse Charge Mechanism",
+            "Withholding Tax Processing"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for defining withholding tax types?",
+        "o": [
+            "OBYZ",
+            "FTXP",
+            "J1IN",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP table holds information related to input and output tax?",
+        "o": [
+            "BSET",
+            "BKPF",
+            "WITH_ITEM",
+            "TAXINN"
+        ]
+    },
+    {
+        "q": "Which SAP tax setting is crucial for defining different tax calculation procedures?",
+        "o": [
+            "Tax Procedure Configuration",
+            "Tax Indicator Setup",
+            "Tax Code Assignment",
+            "Customer Tax Classification"
+        ]
+    },
+    {
+        "q": "Which SAP tax report is crucial for submitting tax audit documentation?",
+        "o": [
+            "RFUMSV00",
+            "S_ALR_87009813",
+            "J1INMIS",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which SAP process ensures accurate VAT calculations for intra-EU transactions?",
+        "o": [
+            "EU VAT Handling in SAP",
+            "Reverse Charge Mechanism",
+            "Manual Tax Entry",
+            "Document Splitting"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post manual tax adjustments?",
+        "o": [
+            "FB41",
+            "FTXP",
+            "F-53",
+            "J1INMIS"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of GST/VAT configuration in SAP?", 
+        "o": [
+            "To manage tax calculations and reporting for goods and services",
+            "To handle payroll tax deductions",
+            "To generate financial statements",
+            "To calculate withholding tax"
+        ]
+    },
+    {
+        "q": "Which SAP module is primarily used for Withholding Tax & TDS configurations?", 
+        "o": [
+            "SAP FI (Financial Accounting)",
+            "SAP SD (Sales and Distribution)",
+            "SAP HR (Human Resources)",
+            "SAP MM (Material Management)"
+        ]
+    },
+    {
+        "q": "In SAP Payroll, what is the purpose of tax deductions?", 
+        "o": [
+            "To calculate and withhold employee income tax",
+            "To manage vendor payments",
+            "To generate compliance reports",
+            "To calculate GST/VAT on sales"
+        ]
+    },
+    {
+        "q": "Which SAP report is commonly used for tax compliance purposes?", 
+        "o": [
+            "Tax Audit Report",
+            "Balance Sheet",
+            "Profit and Loss Statement",
+            "Cash Flow Statement"
+        ]
+    },
+    {
+        "q": "What is the key difference between GST and VAT in SAP?", 
+        "o": [
+            "GST is a unified tax system, while VAT is applied at multiple stages",
+            "GST is only for services, while VAT is for goods",
+            "GST is calculated in payroll, while VAT is in sales",
+            "GST is not supported in SAP"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of SAP's Withholding Tax functionality?", 
+        "o": [
+            "Automatic calculation of tax deductions during vendor payments",
+            "Integration with payroll for employee taxes",
+            "Generation of GST invoices",
+            "Calculation of VAT on purchases"
+        ]
+    },
+    {
+        "q": "What is the role of SAP Financial Reports in compliance?", 
+        "o": [
+            "To ensure accurate tax reporting and adherence to regulations",
+            "To manage employee payroll deductions",
+            "To calculate GST on sales transactions",
+            "To handle vendor tax certificates"
+        ]
+    },
+    {
+        "q": "Which SAP configuration is essential for TDS (Tax Deducted at Source)?", 
+        "o": [
+            "Withholding Tax configuration in SAP FI",
+            "GST configuration in SAP SD",
+            "Payroll tax settings in SAP HR",
+            "VAT configuration in SAP MM"
+        ]
+    },
+    {
+        "q": "Which SAP transaction code is used to maintain tax codes for GST/VAT?", 
+        "o": [
+            "FTXP",
+            "OB40",
+            "FB60",
+            "VF01"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'J1ID' transaction code in SAP?", 
+        "o": [
+            "To generate GST tax invoices",
+            "To process payroll tax deductions",
+            "To create vendor invoices",
+            "To calculate withholding tax"
+        ]
+    },
+    {
+        "q": "In SAP, which master data is essential for configuring Withholding Tax?", 
+        "o": [
+            "Vendor Master",
+            "Customer Master",
+            "Material Master",
+            "Employee Master"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to monitor TDS deductions for vendors?", 
+        "o": [
+            "Withholding Tax Report",
+            "GST Summary Report",
+            "Payroll Tax Report",
+            "Financial Statement"
+        ]
+    },
+    {
+        "q": "What is the significance of the 'J1IEX' transaction code in SAP?", 
+        "o": [
+            "To export GST data for compliance purposes",
+            "To import vendor tax details",
+            "To generate payroll tax reports",
+            "To calculate VAT on sales"
+        ]
+    },
+    {
+        "q": "Which of the following is a prerequisite for configuring GST in SAP?", 
+        "o": [
+            "Defining tax codes and tax accounts",
+            "Setting up payroll tax areas",
+            "Configuring material tax classifications",
+            "Creating employee tax groups"
+        ]
+    },
+    {
+        "q": "In SAP Payroll, which component is responsible for calculating tax deductions?", 
+        "o": [
+            "Payroll Schema",
+            "Tax Reporter",
+            "Financial Accounting",
+            "Sales and Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP configuration is required to generate GST-compliant invoices?", 
+        "o": [
+            "Tax Invoice Layout",
+            "Withholding Tax Setup",
+            "Payroll Tax Configuration",
+            "VAT Calculation Rules"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'J1IG' transaction code in SAP?", 
+        "o": [
+            "To generate GST returns",
+            "To process vendor payments",
+            "To calculate payroll taxes",
+            "To create sales orders"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of SAP's Tax Reporting Framework?", 
+        "o": [
+            "Automated tax reporting and compliance",
+            "Payroll tax calculations",
+            "Vendor tax deductions",
+            "GST invoice generation"
+        ]
+    },
+    {
+        "q": "In SAP, which configuration is required to handle reverse charge mechanism for GST?", 
+        "o": [
+            "Tax Procedure Setup",
+            "Withholding Tax Configuration",
+            "Payroll Tax Schema",
+            "VAT Calculation Rules"
+        ]
+    },
+    {
+        "q": "Which SAP transaction code is used to display withholding tax certificates?", 
+        "o": [
+            "J1IH",
+            "FTXP",
+            "FB03",
+            "VF03"
+        ]
+    },
+    {
+        "q": "What is the role of the 'J1IS' transaction code in SAP?", 
+        "o": [
+            "To simulate GST calculations",
+            "To process payroll tax deductions",
+            "To generate financial statements",
+            "To calculate VAT on purchases"
+        ]
+    },
+    {
+        "q": "Which of the following is a key compliance report for GST in SAP?", 
+        "o": [
+            "GSTR-1",
+            "TDS Certificate",
+            "Payroll Tax Report",
+            "Balance Sheet"
+        ]
+    },
+    {
+        "q": "In SAP, which configuration is required to handle cross-border GST transactions?", 
+        "o": [
+            "Tax Jurisdiction Setup",
+            "Withholding Tax Configuration",
+            "Payroll Tax Schema",
+            "VAT Calculation Rules"
+        ]
+    },
+    {
+        "q": "Which SAP transaction code is used to maintain tax rates for GST/VAT?", 
+        "o": [
+            "FTXP",
+            "OB40",
+            "FB60",
+            "VF01"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'J1IT' transaction code in SAP?", 
+        "o": [
+            "To generate tax registers for GST",
+            "To process payroll tax deductions",
+            "To create vendor invoices",
+            "To calculate withholding tax"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of SAP's Tax Engine?", 
+        "o": [
+            "Real-time tax calculations",
+            "Payroll tax deductions",
+            "Vendor tax certificates",
+            "GST invoice generation"
+        ]
+    },
+    {
+        "q": "In SAP, which configuration is required to handle GST on imports?", 
+        "o": [
+            "Customs Duty Setup",
+            "Withholding Tax Configuration",
+            "Payroll Tax Schema",
+            "VAT Calculation Rules"
+        ]
+    },
+    {
+        "q": "Which SAP transaction code is used to generate GST summary reports?", 
+        "o": [
+            "J1IG",
+            "FTXP",
+            "FB03",
+            "VF03"
+        ]
+    },
+    {
+        "q": "Which SAP transaction code is used to maintain tax jurisdictions for GST/VAT?", 
+        "o": [
+            "FTXJ",
+            "OB40",
+            "FB60",
+            "VF01"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'J1IN' transaction code in SAP?", 
+        "o": [
+            "To generate GST notices",
+            "To process payroll tax deductions",
+            "To create vendor invoices",
+            "To calculate withholding tax"
+        ]
+    },
+    {
+        "q": "In SAP, which configuration is required to handle GST on exports?", 
+        "o": [
+            "Zero-rated tax setup",
+            "Withholding Tax Configuration",
+            "Payroll Tax Schema",
+            "VAT Calculation Rules"
+        ]
+    },
+    {
+        "q": "Which SAP report is used to monitor GST input and output tax?", 
+        "o": [
+            "GST Reconciliation Report",
+            "Withholding Tax Report",
+            "Payroll Tax Report",
+            "Financial Statement"
+        ]
+    },
+    {
+        "q": "What is the significance of the 'J1IF' transaction code in SAP?", 
+        "o": [
+            "To generate GST refunds",
+            "To import vendor tax details",
+            "To generate payroll tax reports",
+            "To calculate VAT on sales"
+        ]
+    },
+    {
+        "q": "Which of the following is a prerequisite for configuring TDS in SAP?", 
+        "o": [
+            "Defining tax codes and sections",
+            "Setting up payroll tax areas",
+            "Configuring material tax classifications",
+            "Creating employee tax groups"
+        ]
+    },
+    {
+        "q": "In SAP Payroll, which component is responsible for generating tax certificates?", 
+        "o": [
+            "Tax Reporter",
+            "Payroll Schema",
+            "Financial Accounting",
+            "Sales and Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP configuration is required to generate TDS certificates?", 
+        "o": [
+            "Withholding Tax Certificate Setup",
+            "Tax Invoice Layout",
+            "Payroll Tax Configuration",
+            "VAT Calculation Rules"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'J1IP' transaction code in SAP?", 
+        "o": [
+            "To generate GST payment advice",
+            "To process vendor payments",
+            "To calculate payroll taxes",
+            "To create sales orders"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of SAP's Compliance Calendar?", 
+        "o": [
+            "Tracking tax filing deadlines",
+            "Payroll tax calculations",
+            "Vendor tax deductions",
+            "GST invoice generation"
+        ]
+    },
+    {
+        "q": "In SAP, which configuration is required to handle GST on reverse charge for services?", 
+        "o": [
+            "Tax Procedure Setup",
+            "Withholding Tax Configuration",
+            "Payroll Tax Schema",
+            "VAT Calculation Rules"
+        ]
+    },
+    {
+        "q": "Which SAP transaction code is used to display GST liability reports?", 
+        "o": [
+            "J1IL",
+            "FTXP",
+            "FB03",
+            "VF03"
+        ]
+    },
+    {
+        "q": "What is the role of the 'J1IR' transaction code in SAP?", 
+        "o": [
+            "To generate GST refund reports",
+            "To process payroll tax deductions",
+            "To generate financial statements",
+            "To calculate VAT on purchases"
+        ]
+    },
+    {
+        "q": "Which of the following is a key compliance report for TDS in SAP?", 
+        "o": [
+            "Form 26Q",
+            "GSTR-1",
+            "Payroll Tax Report",
+            "Balance Sheet"
+        ]
+    },
+    {
+        "q": "In SAP, which configuration is required to handle GST on intra-state transactions?", 
+        "o": [
+            "State-specific tax setup",
+            "Withholding Tax Configuration",
+            "Payroll Tax Schema",
+            "VAT Calculation Rules"
+        ]
+    },
+    {
+        "q": "Which SAP transaction code is used to maintain tax exemptions for GST/VAT?", 
+        "o": [
+            "FTXP",
+            "OB40",
+            "FB60",
+            "VF01"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'J1IM' transaction code in SAP?", 
+        "o": [
+            "To generate GST mismatch reports",
+            "To process payroll tax deductions",
+            "To create vendor invoices",
+            "To calculate withholding tax"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of SAP's Tax Audit Framework?", 
+        "o": [
+            "Automated audit trail for tax data",
+            "Payroll tax deductions",
+            "Vendor tax certificates",
+            "GST invoice generation"
+        ]
+    },
+    {
+        "q": "In SAP, which configuration is required to handle GST on e-commerce transactions?", 
+        "o": [
+            "E-commerce tax setup",
+            "Withholding Tax Configuration",
+            "Payroll Tax Schema",
+            "VAT Calculation Rules"
+        ]
+    },
+    {
+        "q": "Which SAP transaction code is used to generate TDS challan reports?", 
+        "o": [
+            "J1ITDS",
+            "FTXP",
+            "FB03",
+            "VF03"
+        ]
+    }
+]

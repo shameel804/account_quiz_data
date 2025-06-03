@@ -1,0 +1,122 @@
+[
+  {
+    "title": "GST Setup & Compliance",
+    "ques": "How do you enable GST in Tally and configure GST details for a company?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "To enable GST in Tally, navigate to 'F11: Features' > 'Statutory & Taxation' > Enable GST. Enter GST details such as GSTIN, registration type, and applicable tax rates."
+    },
+    "explanation": "***Step 1:*** Go to `F11: Features` in Tally.\n***Step 2:*** Select `Statutory & Taxation` and enable `GST`.\n***Step 3:*** Enter the company’s GSTIN and registration details.\n***Step 4:*** Configure `GST tax rates` based on applicable items.\n***Step 5:*** Save and apply the settings for future transactions."
+  },
+  {
+    "title": "VAT, TDS, TCS Entries",
+    "ques": "What is the process of recording a TDS entry in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "To record a TDS entry, create a TDS ledger under 'Duties & Taxes', select the applicable section, and record a journal entry where TDS is deducted from the payment."
+    },
+    "explanation": "***Step 1:*** Create a `TDS ledger` under `Duties & Taxes`.\n***Step 2:*** Set the `TDS Nature of Payment` and select the `TDS section` (e.g., 194C for contractors).\n***Step 3:*** While making a payment, pass a `journal entry` debiting the expense and crediting the TDS payable account.\n***Step 4:*** Use `Statutory Reports` to track TDS deducted and payable."
+  },
+  {
+    "title": "Payroll & Income Tax in Tally",
+    "ques": "How can you process payroll and compute income tax for employees in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Enable Payroll in Tally, create employee masters, define salary structures, and process payroll using payroll vouchers. Compute income tax based on employee tax slabs."
+    },
+    "explanation": "***Step 1:*** Go to `F11: Features` and enable `Payroll`.\n***Step 2:*** Create `Employee Masters` and enter salary details.\n***Step 3:*** Define `Earnings` (Basic Pay, HRA, etc.) and `Deductions` (PF, TDS, etc.).\n***Step 4:*** Process payroll using `Payroll Vouchers`.\n***Step 5:*** Compute `Income Tax` using Tally’s tax calculator and include it in the salary slip."
+  },
+  {
+    "title": "Filing GST Returns through Tally",
+    "ques": "What are the steps to generate and file GST returns using Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "To file GST returns in Tally, go to 'Display' > 'Statutory Reports' > 'GST Reports', generate GSTR-1 or GSTR-3B, verify details, and export in JSON format for filing on the GST portal."
+    },
+    "explanation": "***Step 1:*** Navigate to `Display` > `Statutory Reports` > `GST Reports`.\n***Step 2:*** Select the type of return (`GSTR-1`, `GSTR-3B`, etc.).\n***Step 3:*** Verify transactions, ensuring correct tax amounts.\n***Step 4:*** Click `Export` and choose `JSON` format for online filing.\n***Step 5:*** Upload the file to the `GST portal` and complete the filing process."
+  },
+  {
+    "title": "GST Setup & Compliance",
+    "ques": "What are the different types of GST applicable in India, and how do you configure them in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The three types of GST are CGST, SGST, and IGST. Configure them in Tally by enabling GST in 'F11: Features', setting the tax type in 'GST Details', and assigning tax rates in stock items or ledgers."
+    },
+    "explanation": "***Step 1:*** Understand GST types - `CGST (Central GST)`, `SGST (State GST)`, and `IGST (Integrated GST)`.\n***Step 2:*** Go to `F11: Features` and enable `GST`.\n***Step 3:*** Define GST details in `Company GST Setup`.\n***Step 4:*** Assign tax rates under `Stock Items` or `Sales/Purchase Ledgers`.\n***Step 5:*** Ensure correct tax application in transactions based on intra-state (CGST + SGST) or inter-state (IGST) sales."
+  },
+  {
+    "title": "VAT, TDS, TCS Entries",
+    "ques": "How do you record a VAT transaction in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "To record a VAT transaction, create VAT ledgers under 'Duties & Taxes', select the applicable VAT rate, and pass a sales/purchase entry applying VAT accordingly."
+    },
+    "explanation": "***Step 1:*** Go to `Accounts Info` > `Ledgers` and create a `VAT Ledger` under `Duties & Taxes`.\n***Step 2:*** Set the `VAT Rate` as per the applicable tax slab.\n***Step 3:*** Record a `Sales/Purchase Entry`, selecting the VAT ledger to apply tax.\n***Step 4:*** Verify VAT calculations in `VAT Reports` under `Statutory Reports`.\n***Step 5:*** Export VAT reports for return filing."
+  },
+  {
+    "title": "Payroll & Income Tax in Tally",
+    "ques": "How do you configure Professional Tax in Tally Payroll?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Enable Payroll in Tally, create a Professional Tax ledger under 'Duties & Taxes', define PT slabs based on salary ranges, and apply deductions in payroll vouchers."
+    },
+    "explanation": "***Step 1:*** Go to `F11: Features` and enable `Payroll`.\n***Step 2:*** Create a `Professional Tax Ledger` under `Duties & Taxes`.\n***Step 3:*** Define `Professional Tax Slabs` based on state regulations.\n***Step 4:*** Assign PT deduction to employee salary structures.\n***Step 5:*** Process payroll, ensuring PT deduction is applied automatically."
+  },
+  {
+    "title": "Filing GST Returns through Tally",
+    "ques": "How can you reconcile mismatches in GST returns using Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Use the GST Reconciliation report in Tally to compare GSTR-2A with purchase transactions, identify mismatches, and make necessary corrections before filing returns."
+    },
+    "explanation": "***Step 1:*** Navigate to `Display` > `Statutory Reports` > `GST Reports` > `Reconciliation`.\n***Step 2:*** Select `GSTR-2A` to compare with recorded purchase transactions.\n***Step 3:*** Identify mismatched invoices and missing entries.\n***Step 4:*** Correct entries by adjusting purchase ledgers or updating missing invoices.\n***Step 5:*** Ensure all transactions are reconciled before filing GST returns."
+  },
+  {
+    "title": "GST Setup & Compliance",
+    "ques": "What is the impact of GST on stock items, and how do you configure GST rates in stock items?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "GST impacts stock items by applying tax rates at the product level. Configure GST in stock items by defining GST rates in the stock group or individual item settings."
+    },
+    "explanation": "***Step 1:*** Go to `Inventory Info` > `Stock Items`.\n***Step 2:*** Select a stock item and enable `GST`.\n***Step 3:*** Define `HSN/SAC Code` and applicable GST rate.\n***Step 4:*** Save changes, ensuring automatic GST calculation in sales and purchase invoices.\n***Step 5:*** Verify the impact in `GST Reports` under `Statutory Reports`."
+  },
+  {
+    "title": "VAT, TDS, TCS Entries",
+    "ques": "How do you record a TCS entry in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "To record a TCS entry, create a TCS ledger under 'Duties & Taxes', select the relevant TCS category, and apply it in the sales invoice while receiving the payment."
+    },
+    "explanation": "***Step 1:*** Go to `Accounts Info` > `Ledgers` and create a `TCS Ledger` under `Duties & Taxes`.\n***Step 2:*** Select the applicable `TCS category` (e.g., scrap sales, timber, tendu leaves).\n***Step 3:*** Record a `Sales Invoice`, ensuring TCS is added to the invoice total.\n***Step 4:*** Track collected TCS in `TCS Reports` under `Statutory Reports`.\n***Step 5:*** Deposit the collected TCS to the government as per due dates."
+  },
+  {
+    "title": "Payroll & Income Tax in Tally",
+    "ques": "How do you generate employee Form 16 in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Generate Form 16 by processing payroll with TDS deductions, ensuring correct tax calculations, and using Tally's 'Income Tax Reports' to generate the final form."
+    },
+    "explanation": "***Step 1:*** Ensure `TDS on Salary` is enabled in `Payroll Features`.\n***Step 2:*** Process payroll with applicable `TDS Deductions`.\n***Step 3:*** Navigate to `Display` > `Statutory Reports` > `Income Tax Reports`.\n***Step 4:*** Select `Form 16` and verify tax computation details.\n***Step 5:*** Export the form for employee distribution and tax filing."
+  },
+  {
+    "title": "Filing GST Returns through Tally",
+    "ques": "How do you track Input Tax Credit (ITC) in Tally for GST?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Track Input Tax Credit in Tally using GST Reports under 'Statutory Reports', verifying eligible ITC from purchase transactions and adjusting it against GST liabilities."
+    },
+    "explanation": "***Step 1:*** Go to `Display` > `Statutory Reports` > `GST Reports`.\n***Step 2:*** Select `ITC Summary` to view input tax credit details.\n***Step 3:*** Verify `Eligible ITC` from purchase invoices.\n***Step 4:*** Adjust ITC against GST liability while filing returns.\n***Step 5:*** Ensure proper reconciliation to claim accurate ITC."
+  }
+]

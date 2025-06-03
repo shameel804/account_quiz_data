@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Overview of SAP & Modules",
+    "ques": "What is SAP ERP, and what are its main modules?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP ERP is an enterprise resource planning software developed by SAP SE that integrates core business processes. The main modules include SAP FICO (Finance & Controlling), SAP MM (Material Management), SAP SD (Sales & Distribution), SAP PP (Production Planning), SAP HCM (Human Capital Management), and SAP BW (Business Warehouse)."
+    },
+    "explanation": "***SAP ERP*** is a business suite that enables organizations to integrate and manage their processes efficiently.\n\n***Main Modules:***\n1. ***SAP FICO*** - Manages financial accounting and controlling.\n2. ***SAP MM*** - Handles procurement and inventory management.\n3. ***SAP SD*** - Manages sales, distribution, and customer service.\n4. ***SAP PP*** - Supports production planning and control.\n5. ***SAP HCM*** - Handles employee management and payroll.\n6. ***SAP BW*** - Facilitates business intelligence and reporting.\n\nEach module is designed to handle specific business processes and can be customized based on organizational needs."
+  },
+  {
+    "title": "SAP FICO (Finance & Controlling) Introduction",
+    "ques": "What are the key components of SAP FICO?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP FICO consists of two main components: Financial Accounting (FI) and Controlling (CO). The FI module handles financial transactions, accounting, and reporting, while the CO module is used for cost management, budgeting, and internal reporting."
+    },
+    "explanation": "***SAP FICO*** is one of the most critical modules in SAP ERP for managing financial transactions.\n\n***Key Components:***\n- ***FI (Financial Accounting)***: \n  - General Ledger Accounting\n  - Accounts Payable & Receivable\n  - Asset Accounting\n  - Bank Accounting\n- ***CO (Controlling)***: \n  - Cost Center Accounting\n  - Profit Center Accounting\n  - Internal Orders\n  - Activity-Based Costing\n\nThese components help organizations maintain financial records and analyze profitability."
+  },
+  {
+    "title": "SAP Interface & Navigation",
+    "ques": "What are the key components of the SAP GUI interface?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The SAP GUI interface consists of several components: Menu Bar, Standard Toolbar, Title Bar, Application Toolbar, Command Field, and the Main Screen where transactions are executed."
+    },
+    "explanation": "***SAP GUI (Graphical User Interface)*** is the front-end interface for SAP ERP.\n\n***Key Components:***\n1. ***Menu Bar***: Displays available functions based on the module selected.\n2. ***Standard Toolbar***: Contains common functions like save, back, exit, and print.\n3. ***Title Bar***: Shows the name of the current screen or transaction.\n4. ***Application Toolbar***: Displays module-specific options and functions.\n5. ***Command Field***: Allows users to enter transaction codes (e.g., `FB50` for general ledger posting).\n6. ***Main Screen***: Displays input fields and results based on the selected transaction.\n\nUnderstanding navigation in SAP GUI is essential for efficiently executing transactions."
+  },
+  {
+    "title": "Master Data (Customer, Vendor, GL Accounts)",
+    "ques": "What is Master Data in SAP, and why is it important?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Master Data in SAP refers to core data essential for business operations. It includes Customer Master, Vendor Master, and General Ledger (GL) Accounts, which store critical details for financial transactions."
+    },
+    "explanation": "***Master Data*** is fundamental for accurate processing in SAP.\n\n***Types of Master Data:***\n- ***Customer Master***: Stores details like customer name, address, payment terms, and sales information.\n- ***Vendor Master***: Contains supplier details such as bank information, contact details, and purchasing data.\n- ***GL Accounts***: Represents the chart of accounts used for recording financial transactions.\n\nMaintaining accurate master data ensures seamless transactions, reporting, and compliance with accounting standards."
+  },
+  {
+    "title": "SAP ERP Business Processes",
+    "ques": "How does SAP ERP integrate different business processes?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP ERP integrates different business processes by using interconnected modules that share real-time data, ensuring seamless communication between departments like Finance, Sales, Procurement, and HR."
+    },
+    "explanation": "***SAP ERP*** connects various business processes to enable efficient operations.\n\n***Integration Examples:***\n- ***Sales & Distribution (SD) with Finance (FI)***: A customer order generates an invoice in FI automatically.\n- ***Material Management (MM) with Finance (FI)***: Purchasing goods updates inventory and triggers financial postings.\n- ***Production Planning (PP) with Controlling (CO)***: Production costs are allocated and tracked within CO.\n\nThis real-time integration reduces errors and improves decision-making."
+  },
+  {
+    "title": "SAP FICO Organizational Structure",
+    "ques": "What are the key organizational units in SAP FICO?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Key organizational units in SAP FICO include Company Code, Business Area, Chart of Accounts, and Controlling Area. These units define the financial structure of an organization in SAP."
+    },
+    "explanation": "***SAP FICO*** requires a structured financial setup.\n\n***Key Organizational Units:***\n- ***Company Code***: Represents a legal entity for which financial reports are created.\n- ***Business Area***: Used for internal reporting across multiple company codes.\n- ***Chart of Accounts***: Defines the list of General Ledger accounts used.\n- ***Controlling Area***: Groups company codes for internal cost accounting.\n\nThese units help ensure accurate financial reporting and cost management."
+  },
+  {
+    "title": "SAP User Roles & Authorization",
+    "ques": "How does SAP manage user roles and security?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP manages user roles and security through Role-Based Access Control (RBAC). Users are assigned roles that grant permissions based on their job responsibilities."
+    },
+    "explanation": "***SAP Security*** ensures data integrity and restricted access.\n\n***Key Concepts:***\n- ***Role-Based Access Control (RBAC)***: Assigns permissions based on predefined roles.\n- ***User Profiles***: Defines specific access levels for users.\n- ***Transaction Code Authorization***: Limits which transactions a user can execute.\n- ***SAP Basis Security***: Manages system-wide security settings.\n\nProper authorization management prevents unauthorized access and ensures compliance with security policies."
+  }
+]

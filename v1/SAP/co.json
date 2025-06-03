@@ -1,0 +1,5474 @@
+[
+    {
+        "q": "What is the primary purpose of cost element accounting in SAP CO?", 
+        "o": [
+            "To categorize and track costs based on their nature",
+            "To define organizational structure",
+            "To manage vendor invoices",
+            "To create customer orders"
+        ]
+    },
+    {
+        "q": "Which master data is essential for cost center accounting?", 
+        "o": [
+            "Cost Center",
+            "Vendor Master",
+            "Customer Master",
+            "G/L Account"
+        ]
+    },
+    {
+        "q": "Internal orders in SAP CO are mainly used for?", 
+        "o": [
+            "Tracking costs for specific short-term projects",
+            "Recording financial transactions",
+            "Managing customer orders",
+            "Processing vendor payments"
+        ]
+    },
+    {
+        "q": "Profit Center Accounting is primarily used for?", 
+        "o": [
+            "Measuring profitability of independent business units",
+            "Managing payroll",
+            "Recording material stock movements",
+            "Processing invoices"
+        ]
+    },
+    {
+        "q": "What is a key objective of budgeting in SAP CO?", 
+        "o": [
+            "Setting financial limits for cost planning",
+            "Generating purchase orders",
+            "Calculating payroll expenses",
+            "Processing accounts receivable"
+        ]
+    },
+    {
+        "q": "Which tool is commonly used for forecasting in SAP CO?", 
+        "o": [
+            "SAP Predictive Analytics",
+            "Material Ledger",
+            "Asset Accounting",
+            "Sales Order Management"
+        ]
+    },
+    {
+        "q": "Activity-Based Costing (ABC) helps organizations by?", 
+        "o": [
+            "Allocating costs based on actual resource consumption",
+            "Recording financial transactions",
+            "Processing customer orders",
+            "Tracking employee performance"
+        ]
+    },
+    {
+        "q": "In ABC, cost drivers are used to?", 
+        "o": [
+            "Allocate costs to activities based on usage",
+            "Calculate depreciation",
+            "Process bank payments",
+            "Record vendor invoices"
+        ]
+    },
+    {
+        "q": "Which cost element category is used for primary costs in SAP CO?", 
+        "o": [
+            "Category 01 - Primary Costs/Revenue",
+            "Category 11 - Assessment",
+            "Category 12 - Internal Settlement",
+            "Category 22 - Statistical Key Figures"
+        ]
+    },
+    {
+        "q": "How are secondary cost elements used in SAP CO?", 
+        "o": [
+            "For internal cost allocations and settlements",
+            "For direct postings from financial accounting",
+            "For recording external expenses",
+            "For creating sales orders"
+        ]
+    },
+    {
+        "q": "What is the main function of cost center accounting?", 
+        "o": [
+            "Tracking costs related to specific departments or functions",
+            "Managing financial statements",
+            "Processing customer invoices",
+            "Handling material master data"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is used to track costs for a temporary project?", 
+        "o": [
+            "Internal Orders",
+            "Profit Center Accounting",
+            "Cost Element Accounting",
+            "Material Ledger"
+        ]
+    },
+    {
+        "q": "What is a key feature of Profit Center Accounting (PCA)?", 
+        "o": [
+            "It provides profitability analysis for business units",
+            "It records only external financial transactions",
+            "It is used only for budgeting",
+            "It replaces cost center accounting"
+        ]
+    },
+    {
+        "q": "Which planning method is commonly used in budgeting in SAP CO?", 
+        "o": [
+            "Top-down and Bottom-up planning",
+            "Standard cost estimation",
+            "Material requirements planning",
+            "Vendor invoice posting"
+        ]
+    },
+    {
+        "q": "What is a key advantage of Activity-Based Costing (ABC)?", 
+        "o": [
+            "More accurate cost allocation based on activities",
+            "Simplifies financial reporting",
+            "Eliminates the need for cost centers",
+            "Only applies to manufacturing industries"
+        ]
+    },
+    {
+        "q": "Which master data is required for Activity-Based Costing (ABC)?", 
+        "o": [
+            "Cost Center and Activity Type",
+            "Customer Master Data",
+            "Vendor Account",
+            "Sales Order"
+        ]
+    },
+    {
+        "q": "Which SAP module integrates closely with Cost Center Accounting?", 
+        "o": [
+            "SAP FI (Financial Accounting)",
+            "SAP MM (Materials Management)",
+            "SAP SD (Sales and Distribution)",
+            "SAP PM (Plant Maintenance)"
+        ]
+    },
+    {
+        "q": "In SAP CO, what is the primary role of statistical key figures?", 
+        "o": [
+            "To serve as a basis for cost allocation",
+            "To define cost center groups",
+            "To create profit centers",
+            "To record customer invoices"
+        ]
+    },
+    {
+        "q": "What type of costs are allocated using assessment cycles in SAP CO?", 
+        "o": [
+            "Secondary costs",
+            "Primary costs",
+            "Direct material costs",
+            "Capital investment costs"
+        ]
+    },
+    {
+        "q": "Which SAP CO component allows real-time cost tracking for production orders?", 
+        "o": [
+            "Product Cost Controlling",
+            "Profit Center Accounting",
+            "Activity-Based Costing",
+            "Internal Orders"
+        ]
+    },
+    {
+        "q": "What is the main objective of variance analysis in SAP CO?", 
+        "o": [
+            "To compare planned and actual costs",
+            "To process vendor payments",
+            "To manage asset depreciation",
+            "To create sales orders"
+        ]
+    },
+    {
+        "q": "How does SAP CO support multi-level cost allocation?", 
+        "o": [
+            "Using distribution and assessment cycles",
+            "Using general ledger postings",
+            "Using only direct cost assignment",
+            "Through external vendor transactions"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool is used for cost planning and budgeting?", 
+        "o": [
+            "SAP CO-OM (Overhead Management)",
+            "SAP PP (Production Planning)",
+            "SAP SD (Sales and Distribution)",
+            "SAP HCM (Human Capital Management)"
+        ]
+    },
+    {
+        "q": "Which cost element type is used for depreciation expenses in SAP CO?", 
+        "o": [
+            "Primary Cost Element",
+            "Secondary Cost Element",
+            "Statistical Cost Element",
+            "Revenue Cost Element"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of activity types in cost center accounting?", 
+        "o": [
+            "To measure and allocate activities performed by a cost center",
+            "To categorize external financial transactions",
+            "To track vendor payments",
+            "To define customer pricing strategies"
+        ]
+    },
+    {
+        "q": "Which allocation method in SAP CO allows both sender and receiver cost centers to retain visibility of costs?", 
+        "o": [
+            "Distribution",
+            "Assessment",
+            "Direct Cost Allocation",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "Which controlling object is used for monitoring temporary costs and revenues?", 
+        "o": [
+            "Internal Order",
+            "Cost Center",
+            "Profit Center",
+            "Work Breakdown Structure"
+        ]
+    },
+    {
+        "q": "How are indirect costs allocated in Activity-Based Costing (ABC)?", 
+        "o": [
+            "Based on cost drivers",
+            "Directly to cost centers",
+            "Through profit centers",
+            "Using general ledger postings"
+        ]
+    },
+    {
+        "q": "What is the main benefit of Profit Center Accounting?", 
+        "o": [
+            "Enables performance evaluation of individual business segments",
+            "Helps with payroll processing",
+            "Manages direct labor allocation",
+            "Creates automatic financial postings"
+        ]
+    },
+    {
+        "q": "Which type of order is used to track investment-related expenses in SAP CO?", 
+        "o": [
+            "Investment Order",
+            "Production Order",
+            "Internal Order",
+            "Profitability Analysis Order"
+        ]
+    },
+    {
+        "q": "In SAP CO, what is the purpose of statistical postings?", 
+        "o": [
+            "To provide reference data without affecting actual cost postings",
+            "To generate financial statements",
+            "To book actual expenses",
+            "To record tax adjustments"
+        ]
+    },
+    {
+        "q": "Which planning tool in SAP CO allows for multiple cost planning versions?", 
+        "o": [
+            "Version Management",
+            "Profitability Analysis",
+            "Cost Component Splitting",
+            "Variance Analysis"
+        ]
+    },
+    {
+        "q": "What is the main purpose of cost splitting in SAP CO?", 
+        "o": [
+            "To break down costs into detailed cost components",
+            "To distribute costs across different legal entities",
+            "To track secondary cost elements",
+            "To reassign internal orders"
+        ]
+    },
+    {
+        "q": "Which method is used for periodic cost allocations in SAP CO?", 
+        "o": [
+            "Cycles and Segments",
+            "Ledger-Based Allocation",
+            "Tax Adjustment Postings",
+            "Real-Time Costing"
+        ]
+    },
+    {
+        "q": "Which document type is generated when costs are allocated between cost centers?", 
+        "o": [
+            "CO Document",
+            "FI Document",
+            "MM Document",
+            "SD Document"
+        ]
+    },
+    {
+        "q": "What is a key function of cost center hierarchies in SAP CO?", 
+        "o": [
+            "Grouping cost centers for reporting and allocation purposes",
+            "Tracking customer payments",
+            "Managing external procurement",
+            "Handling tax adjustments"
+        ]
+    },
+    {
+        "q": "Which tool in SAP CO allows real-time monitoring of costs and profitability?", 
+        "o": [
+            "SAP CO-PA (Profitability Analysis)",
+            "SAP SD (Sales and Distribution)",
+            "SAP MM (Materials Management)",
+            "SAP HCM (Human Capital Management)"
+        ]
+    },
+    {
+        "q": "Which cost planning technique allows the allocation of planned costs to different periods?", 
+        "o": [
+            "Time-Based Cost Planning",
+            "Fixed Cost Allocation",
+            "Standard Cost Estimation",
+            "Profitability Segment Planning"
+        ]
+    },
+    {
+        "q": "Which controlling area setting affects all assigned company codes?", 
+        "o": [
+            "Fiscal Year Variant",
+            "Chart of Accounts",
+            "Company Code Currency",
+            "Material Ledger"
+        ]
+    },
+    {
+        "q": "What is the purpose of settlement in internal orders?", 
+        "o": [
+            "To transfer costs to final cost objects such as cost centers or assets",
+            "To create financial statements",
+            "To approve budget allocations",
+            "To generate customer invoices"
+        ]
+    },
+    {
+        "q": "How does SAP CO handle overhead costs in manufacturing?", 
+        "o": [
+            "By using cost centers and activity types",
+            "By assigning costs to revenue accounts",
+            "By directly linking them to profitability segments",
+            "By calculating them based on tax regulations"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature allows for automatic cost allocation based on statistical key figures?", 
+        "o": [
+            "Assessment Cycles",
+            "CO-PA Top-Down Distribution",
+            "Internal Order Settlement",
+            "Revenue Recognition"
+        ]
+    },
+    {
+        "q": "Which transaction type is used to maintain cost center master data?", 
+        "o": [
+            "KS01",
+            "KA01",
+            "KSU1",
+            "KP06"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is primarily responsible for tracking expenses and revenues by functional areas?", 
+        "o": [
+            "Cost Center Accounting",
+            "Internal Orders",
+            "Profit Center Accounting",
+            "Product Cost Controlling"
+        ]
+    },
+    {
+        "q": "Which cost type in SAP CO represents costs that flow directly from financial accounting?", 
+        "o": [
+            "Primary Cost Element",
+            "Secondary Cost Element",
+            "Statistical Key Figure",
+            "Activity Type"
+        ]
+    },
+    {
+        "q": "In SAP CO, which object is mainly used to track temporary projects or specific costs?", 
+        "o": [
+            "Internal Order",
+            "Profit Center",
+            "Cost Element",
+            "Controlling Area"
+        ]
+    },
+    {
+        "q": "What is the purpose of an internal order settlement rule?", 
+        "o": [
+            "To define how costs will be transferred to final cost objects",
+            "To allocate revenue across profit centers",
+            "To manage inter-company transactions",
+            "To maintain customer invoices"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows for comparing planned and actual costs?", 
+        "o": [
+            "Variance Analysis",
+            "Activity Type Allocation",
+            "Cost Center Splitting",
+            "Statistical Posting"
+        ]
+    },
+    {
+        "q": "What is the primary function of the SAP CO cost element category 42?", 
+        "o": [
+            "Used for statistical key figures",
+            "Defines primary cost elements",
+            "Allocates revenue to profit centers",
+            "Handles intercompany transactions"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature helps allocate overhead costs based on a defined structure?", 
+        "o": [
+            "Cost Allocation Cycle",
+            "Revenue Posting",
+            "Statistical Order",
+            "Profitability Analysis"
+        ]
+    },
+    {
+        "q": "Which key figure is used for indirect cost allocation in SAP CO?", 
+        "o": [
+            "Statistical Key Figures",
+            "Direct Costing Method",
+            "Product Cost Element",
+            "Fixed Asset Depreciation"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is primarily used for profitability analysis?", 
+        "o": [
+            "CO-PA",
+            "Cost Center Accounting",
+            "Internal Orders",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "What is the primary function of a distribution cycle in SAP CO?", 
+        "o": [
+            "To allocate costs from one cost center to multiple receivers without using secondary cost elements",
+            "To assign profit center allocations",
+            "To generate financial statements",
+            "To create material cost estimates"
+        ]
+    },
+    {
+        "q": "What does SAP CO use to track work performed by a cost center?", 
+        "o": [
+            "Activity Type",
+            "Internal Order",
+            "Profitability Segment",
+            "Secondary Cost Element"
+        ]
+    },
+    {
+        "q": "Which SAP CO object helps track profitability by market segment?", 
+        "o": [
+            "CO-PA (Profitability Analysis)",
+            "Cost Center",
+            "Internal Order",
+            "Controlling Area"
+        ]
+    },
+    {
+        "q": "Which planning method in SAP CO allows for manual entry of planned values?", 
+        "o": [
+            "Primary Cost Planning",
+            "Automatic Cost Planning",
+            "Budget Forecasting",
+            "Variance-Based Planning"
+        ]
+    },
+    {
+        "q": "What is the purpose of activity-based costing in SAP CO?", 
+        "o": [
+            "To allocate indirect costs based on resource consumption",
+            "To replace cost centers",
+            "To handle external financial transactions",
+            "To manage material movements"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature allows costs to be settled to multiple receivers?", 
+        "o": [
+            "Settlement Rule",
+            "Cost Center Allocation",
+            "Statistical Costing",
+            "Profitability Segment Assignment"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is used for planning and monitoring capital expenditures?", 
+        "o": [
+            "Investment Management",
+            "Cost Center Accounting",
+            "Product Cost Controlling",
+            "Internal Orders"
+        ]
+    },
+    {
+        "q": "Which cost type is used for internal cost allocation between cost centers?", 
+        "o": [
+            "Secondary Cost Element",
+            "Primary Cost Element",
+            "Statistical Cost Element",
+            "Profitability Segment"
+        ]
+    },
+    {
+        "q": "What is the primary goal of budget planning in SAP CO?", 
+        "o": [
+            "To define spending limits and control costs",
+            "To track actual sales revenue",
+            "To allocate tax liabilities",
+            "To generate profit margins"
+        ]
+    },
+    {
+        "q": "Which type of SAP CO cost element is used for recording revenue?", 
+        "o": [
+            "Revenue Cost Element",
+            "Primary Cost Element",
+            "Secondary Cost Element",
+            "Activity-Based Costing Element"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for creating internal orders?", 
+        "o": [
+            "KO01",
+            "KSU1",
+            "KS01",
+            "KP06"
+        ]
+    },
+    {
+        "q": "Which master data element in SAP CO is used to define financial transactions for cost tracking?", 
+        "o": [
+            "Cost Element",
+            "Profit Center",
+            "Activity Type",
+            "Controlling Area"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is primarily responsible for tracking the profitability of an organization?", 
+        "o": [
+            "Profit Center Accounting (PCA)",
+            "Cost Center Accounting (CCA)",
+            "Internal Orders",
+            "Investment Management"
+        ]
+    },
+    {
+        "q": "Which type of cost element is used to allocate internal costs within controlling?", 
+        "o": [
+            "Secondary Cost Element",
+            "Primary Cost Element",
+            "Revenue Cost Element",
+            "Statistical Key Figure"
+        ]
+    },
+    {
+        "q": "What is the main purpose of assessment cycles in SAP CO?", 
+        "o": [
+            "To allocate costs from one cost center to multiple receivers using secondary cost elements",
+            "To transfer data between controlling and financial accounting",
+            "To plan production activities",
+            "To settle costs from internal orders"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows for the allocation of indirect costs based on statistical key figures?", 
+        "o": [
+            "Cost Distribution",
+            "Cost Element Planning",
+            "Profitability Analysis",
+            "Budget Planning"
+        ]
+    },
+    {
+        "q": "What does SAP CO use to track and analyze variances between planned and actual costs?", 
+        "o": [
+            "Variance Analysis",
+            "Profitability Segment",
+            "Cost Center Hierarchy",
+            "Internal Orders"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for creating cost centers?", 
+        "o": [
+            "KS01",
+            "KO01",
+            "KSU1",
+            "KE21N"
+        ]
+    },
+    {
+        "q": "Which planning tool in SAP CO is used for cost center budgeting?", 
+        "o": [
+            "Integrated Planning",
+            "Internal Order Planning",
+            "Investment Management",
+            "Standard Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows cost centers to receive costs dynamically based on defined rules?", 
+        "o": [
+            "Cost Center Distribution",
+            "Direct Cost Posting",
+            "Profit Center Assessment",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which object in SAP CO helps track costs at a detailed level for temporary projects?", 
+        "o": [
+            "Internal Order",
+            "Cost Element",
+            "Controlling Area",
+            "Operating Concern"
+        ]
+    },
+    {
+        "q": "What is the key difference between cost centers and profit centers in SAP CO?", 
+        "o": [
+            "Cost centers track expenses, while profit centers track revenues and profitability",
+            "Cost centers track revenues, while profit centers track only internal costs",
+            "Cost centers are used only for external reporting",
+            "Profit centers cannot be used in internal cost allocations"
+        ]
+    },
+    {
+        "q": "Which SAP CO function ensures that actual costs remain within budget limits?", 
+        "o": [
+            "Commitment Management",
+            "Profit Center Planning",
+            "Variance Analysis",
+            "Cost Element Splitting"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality enables detailed analysis of profitability at customer or product levels?", 
+        "o": [
+            "Profitability Analysis (CO-PA)",
+            "Cost Center Planning",
+            "Activity-Based Costing",
+            "Overhead Cost Controlling"
+        ]
+    },
+    {
+        "q": "Which component of SAP CO allows businesses to plan, monitor, and control capital expenditures?", 
+        "o": [
+            "Investment Management",
+            "Product Costing",
+            "Cost Element Accounting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which master data object in SAP CO represents a functional unit within an organization responsible for costs?", 
+        "o": [
+            "Cost Center",
+            "Profitability Segment",
+            "Internal Order",
+            "Operating Concern"
+        ]
+    },
+    {
+        "q": "What is the purpose of a statistical key figure in SAP CO?", 
+        "o": [
+            "To allocate costs based on non-monetary values",
+            "To define primary cost elements",
+            "To determine financial transactions",
+            "To track external vendor invoices"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to distribute costs across multiple cost objects?", 
+        "o": [
+            "Cost Allocation",
+            "Profitability Segment Assignment",
+            "Internal Order Settlement",
+            "Commitment Management"
+        ]
+    },
+    {
+        "q": "Which controlling area configuration setting determines whether cost centers share the same chart of accounts?", 
+        "o": [
+            "Cost Center Standard Hierarchy",
+            "Statistical Posting",
+            "Profitability Segment Assignment",
+            "Variance Analysis Configuration"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is used to manage indirect cost allocation based on activities performed?", 
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Internal Order Settlement",
+            "Product Cost Controlling",
+            "Variance Calculation"
+        ]
+    },
+    {
+        "q": "Which type of SAP CO posting allows costs to be recorded for informational purposes without financial impact?", 
+        "o": [
+            "Statistical Posting",
+            "Primary Cost Posting",
+            "Direct Allocation",
+            "Revenue Posting"
+        ]
+    },
+    {
+        "q": "Which cost element category is used for expenses incurred within the company in SAP CO?",
+        "o": [
+            "Primary Cost Element",
+            "Secondary Cost Element",
+            "Revenue Cost Element",
+            "Statistical Cost Element"
+        ]
+    },
+    {
+        "q": "Which tool in SAP CO is used for forecasting future costs based on past data?",
+        "o": [
+            "Predictive Costing",
+            "Variance Analysis",
+            "Commitment Management",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "Which SAP CO object is mainly used to track costs related to temporary activities or projects?",
+        "o": [
+            "Internal Order",
+            "Cost Center",
+            "Profitability Segment",
+            "Operating Concern"
+        ]
+    },
+    {
+        "q": "Which SAP CO function ensures cost control by checking available funds before posting costs?",
+        "o": [
+            "Availability Control",
+            "Commitment Management",
+            "Cost Center Planning",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool allows businesses to allocate overhead costs based on cost drivers?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Internal Order Allocation",
+            "Profit Center Accounting",
+            "Variance Calculation"
+        ]
+    },
+    {
+        "q": "What is the purpose of statistical key figures in SAP CO?",
+        "o": [
+            "To distribute costs based on predefined metrics",
+            "To track revenue transactions",
+            "To record financial transactions in the general ledger",
+            "To create master data elements"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows businesses to plan costs for different scenarios?",
+        "o": [
+            "Version Management",
+            "Cost Allocation",
+            "Profitability Analysis",
+            "Commitment Tracking"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to allocate planned costs to cost centers?",
+        "o": [
+            "KSBP",
+            "KSPI",
+            "KO88",
+            "KE30"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality supports real-time allocation of costs based on actual consumption?",
+        "o": [
+            "Real-Time Costing",
+            "Commitment Management",
+            "Standard Costing",
+            "Internal Order Budgeting"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool is used to analyze costs and profitability by segment?",
+        "o": [
+            "Profitability Analysis (CO-PA)",
+            "Cost Center Hierarchy",
+            "Activity Type Planning",
+            "Variance Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature allows for the distribution of overhead costs to cost centers?",
+        "o": [
+            "Overhead Cost Allocation",
+            "Cost Center Planning",
+            "Standard Costing",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "Which key figure in SAP CO represents the total costs assigned to a cost center?",
+        "o": [
+            "Actual Costs",
+            "Statistical Costs",
+            "Planned Costs",
+            "Cost Allocation Ratio"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows the user to display actual and planned cost reports for cost centers?",
+        "o": [
+            "S_ALR_87013611",
+            "KS03",
+            "KE24",
+            "KSU5"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is mainly used for cost reporting and control at the department level?",
+        "o": [
+            "Cost Center Accounting (CCA)",
+            "Internal Order Management",
+            "Investment Management",
+            "Profitability Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature helps in tracking planned versus actual costs for better decision-making?",
+        "o": [
+            "Variance Analysis",
+            "Profitability Segment Tracking",
+            "Commitment Management",
+            "Overhead Cost Planning"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps in allocating indirect costs to products or services?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Profitability Analysis",
+            "Cost Center Distribution",
+            "Budgeting & Forecasting"
+        ]
+    },
+    {
+        "q": "Which SAP CO object is used to represent an organizational unit responsible for profit generation?",
+        "o": [
+            "Profit Center",
+            "Cost Center",
+            "Internal Order",
+            "Statistical Key Figure"
+        ]
+    },
+    {
+        "q": "Which cost planning method in SAP CO enables businesses to simulate different financial scenarios?",
+        "o": [
+            "What-If Analysis",
+            "Variance Planning",
+            "Commitment Tracking",
+            "Standard Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is useful for analyzing profitability by customer, region, or product?",
+        "o": [
+            "Profitability Analysis Report (CO-PA)",
+            "Cost Center Cost Report",
+            "Internal Order Settlement Report",
+            "Commitment Analysis Report"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool allows cost allocations to be performed using predefined percentages?",
+        "o": [
+            "Cost Splitting",
+            "Budget Planning",
+            "Internal Order Planning",
+            "Variance Calculation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to create a primary cost element?",
+        "o": [
+            "KA01",
+            "KS01",
+            "KO01",
+            "KSB1"
+        ]
+    },
+    {
+        "q": "What is the main purpose of cost center planning in SAP CO?",
+        "o": [
+            "To define expected costs for a future period",
+            "To record actual costs incurred",
+            "To create profit center reports",
+            "To settle costs to internal orders"
+        ]
+    },
+    {
+        "q": "Which method is commonly used to allocate overhead costs in SAP CO?",
+        "o": [
+            "Distribution and Assessment",
+            "Profitability Analysis",
+            "Commitment Tracking",
+            "Standard Costing"
+        ]
+    },
+    {
+        "q": "Which type of cost element represents internal cost flows between different cost centers?",
+        "o": [
+            "Secondary Cost Element",
+            "Primary Cost Element",
+            "Revenue Cost Element",
+            "Statistical Cost Element"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool enables the calculation of planned costs for internal activities?",
+        "o": [
+            "Activity Type Planning",
+            "Cost Element Planning",
+            "Variance Analysis",
+            "Budget Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to maintain cost center master data?",
+        "o": [
+            "KS02",
+            "KA02",
+            "KE02",
+            "KSU2"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool ensures budget compliance by preventing overspending?",
+        "o": [
+            "Availability Control",
+            "Commitment Management",
+            "Cost Center Distribution",
+            "Variance Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to analyze cost center reports?",
+        "o": [
+            "S_ALR_87013611",
+            "KS13",
+            "KE30",
+            "KOB1"
+        ]
+    },
+    {
+        "q": "Which SAP CO object is primarily used for temporary tracking of costs?",
+        "o": [
+            "Internal Order",
+            "Cost Center",
+            "Profit Center",
+            "Statistical Key Figure"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows real-time allocation of costs to relevant objects?",
+        "o": [
+            "Real-Time Cost Allocation",
+            "Periodic Cost Distribution",
+            "Internal Order Settlement",
+            "Variance Calculation"
+        ]
+    },
+    {
+        "q": "Which SAP CO report provides details on profit center balances and revenues?",
+        "o": [
+            "Profit Center Accounting Report",
+            "Cost Center Cost Report",
+            "Variance Analysis Report",
+            "Commitment Tracking Report"
+        ]
+    },
+    {
+        "q": "What is the purpose of internal orders in SAP CO?",
+        "o": [
+            "To track costs for specific projects or activities",
+            "To allocate costs between profit centers",
+            "To manage financial reporting for the company",
+            "To calculate overhead costs"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to settle internal orders?",
+        "o": [
+            "KO88",
+            "KSPI",
+            "KSBP",
+            "KE24"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is used for managing funds and expenditures?",
+        "o": [
+            "Budgeting and Forecasting",
+            "Activity-Based Costing",
+            "Profitability Analysis",
+            "Internal Order Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to distribute costs from one cost center to multiple cost centers?",
+        "o": [
+            "Cost Center Distribution",
+            "Profit Center Allocation",
+            "Internal Order Settlement",
+            "Commitment Management"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to create a profit center?",
+        "o": [
+            "KE51",
+            "KA01",
+            "KS01",
+            "KSU5"
+        ]
+    },
+    {
+        "q": "Which SAP CO function helps in comparing planned and actual costs for better financial control?",
+        "o": [
+            "Variance Analysis",
+            "Internal Order Reporting",
+            "Activity-Based Costing",
+            "Standard Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is used to analyze profitability by product or region?",
+        "o": [
+            "Profitability Analysis (CO-PA)",
+            "Cost Center Accounting",
+            "Internal Order Tracking",
+            "Budget Planning"
+        ]
+    },
+    {
+        "q": "Which type of costing is used to assign costs to products based on activities?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Standard Costing",
+            "Target Costing",
+            "Full Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows tracking of actual versus planned costs for a cost center?",
+        "o": [
+            "Cost Center Planning",
+            "Commitment Management",
+            "Cost Allocation",
+            "Profitability Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool ensures that costs are allocated based on actual resource consumption?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Profit Center Accounting",
+            "Internal Order Settlement",
+            "Standard Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO component enables tracking of financial performance at the department level?",
+        "o": [
+            "Cost Center Accounting (CCA)",
+            "Profit Center Accounting (PCA)",
+            "Internal Order Management",
+            "Investment Management"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows setting up planning versions for cost center planning?",
+        "o": [
+            "KP06",
+            "KE30",
+            "KO88",
+            "KSB1"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool supports cost planning and forecasting for different time periods?",
+        "o": [
+            "Budgeting and Forecasting",
+            "Commitment Management",
+            "Profit Center Analysis",
+            "Internal Order Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO component enables businesses to allocate indirect costs efficiently?",
+        "o": [
+            "Overhead Cost Allocation",
+            "Variance Analysis",
+            "Profitability Analysis",
+            "Standard Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to execute cost center assessments?",
+        "o": [
+            "KSU5",
+            "KE24",
+            "KO88",
+            "KA02"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is used to monitor cost control and profitability in business units?",
+        "o": [
+            "Profit Center Accounting (PCA)",
+            "Cost Center Accounting (CCA)",
+            "Internal Order Management",
+            "Budget Planning"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool ensures that expenses do not exceed allocated budget limits?",
+        "o": [
+            "Availability Control",
+            "Cost Center Reporting",
+            "Commitment Tracking",
+            "Variance Calculation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows cost element category changes?",
+        "o": [
+            "KA02",
+            "KE02",
+            "KO01",
+            "KS01"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to create a new cost center?",
+        "o": [
+            "KS01",
+            "KA01",
+            "KO01",
+            "KSU1"
+        ]
+    },
+    {
+        "q": "What is the purpose of statistical key figures in SAP CO?",
+        "o": [
+            "To allocate costs based on measurable quantities",
+            "To track primary cost postings",
+            "To generate balance sheet reports",
+            "To settle internal orders"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for periodic reposting of costs?",
+        "o": [
+            "KB11N",
+            "KO88",
+            "KSU5",
+            "KE30"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to assign costs to multiple cost objects?",
+        "o": [
+            "Cost Allocation",
+            "Variance Analysis",
+            "Budget Planning",
+            "Profitability Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO module allows tracking profitability at the customer level?",
+        "o": [
+            "Profitability Analysis (CO-PA)",
+            "Cost Center Accounting (CCA)",
+            "Internal Order Management",
+            "Activity-Based Costing (ABC)"
+        ]
+    },
+    {
+        "q": "Which SAP CO report provides an overview of budget consumption?",
+        "o": [
+            "Budget vs. Actual Report",
+            "Profitability Analysis Report",
+            "Cost Center Allocation Report",
+            "Variance Calculation Report"
+        ]
+    },
+    {
+        "q": "Which type of SAP CO cost element is used for direct cost postings?",
+        "o": [
+            "Primary Cost Element",
+            "Secondary Cost Element",
+            "Statistical Key Figure",
+            "Revenue Element"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is responsible for tracking company-wide indirect costs?",
+        "o": [
+            "Overhead Cost Controlling",
+            "Internal Order Accounting",
+            "Budget Management",
+            "Variance Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to change cost center master data?",
+        "o": [
+            "KS02",
+            "KA02",
+            "KO02",
+            "KSU2"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to settle costs from internal orders to final cost objects?",
+        "o": [
+            "Internal Order Settlement",
+            "Cost Distribution",
+            "Variance Analysis",
+            "Commitment Tracking"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is primarily used for financial planning and control?",
+        "o": [
+            "Budgeting and Forecasting",
+            "Internal Orders",
+            "Profitability Analysis",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to assess costs from a cost center to another?",
+        "o": [
+            "KSU5",
+            "KS01",
+            "KO88",
+            "KE30"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows detailed allocation of indirect costs?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Standard Costing",
+            "Commitment Management",
+            "Profitability Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to compare budgeted and actual figures?",
+        "o": [
+            "Variance Analysis",
+            "Commitment Management",
+            "Cost Element Accounting",
+            "Internal Order Tracking"
+        ]
+    },
+    {
+        "q": "Which SAP CO component enables tracking of financial performance by organizational unit?",
+        "o": [
+            "Profit Center Accounting (PCA)",
+            "Cost Center Accounting (CCA)",
+            "Internal Order Management",
+            "Investment Management"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for reposting line items?",
+        "o": [
+            "KB61",
+            "KS02",
+            "KA01",
+            "KO01"
+        ]
+    },
+    {
+        "q": "Which SAP CO function helps monitor financial commitments before expenses occur?",
+        "o": [
+            "Commitment Management",
+            "Cost Center Planning",
+            "Variance Calculation",
+            "Budget Reallocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO report provides insights into activity type costs?",
+        "o": [
+            "Activity Price Report",
+            "Profit Center Report",
+            "Cost Center Allocation Report",
+            "Variance Report"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to analyze budgeted costs?",
+        "o": [
+            "S_ALR_87013611",
+            "KO88",
+            "KE51",
+            "KSU5"
+        ]
+    },
+    {
+        "q": "Which SAP CO component is used to allocate overhead costs using predefined keys?",
+        "o": [
+            "Cost Center Distribution",
+            "Internal Order Allocation",
+            "Profitability Analysis",
+            "Commitment Management"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool supports tracking of planned and actual costs for multiple periods?",
+        "o": [
+            "Multi-Period Planning",
+            "Variance Analysis",
+            "Commitment Management",
+            "Internal Order Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to maintain statistical key figures?",
+        "o": [
+            "KK01",
+            "KS01",
+            "KA01",
+            "KE30"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows tracking of indirect cost allocations to multiple departments?",
+        "o": [
+            "Overhead Cost Allocation",
+            "Budget Planning",
+            "Commitment Management",
+            "Variance Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction enables setting up activity types for cost allocation?",
+        "o": [
+            "KL01",
+            "KE51",
+            "KS01",
+            "KO88"
+        ]
+    },
+    {
+        "q": "Which SAP CO function helps to distribute internal service costs among different cost centers?",
+        "o": [
+            "Activity Allocation",
+            "Commitment Distribution",
+            "Profit Center Planning",
+            "Variance Calculation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to post statistical key figures?",
+        "o": [
+            "KB31N",
+            "KA02",
+            "KS02",
+            "KO88"
+        ]
+    },
+    {
+        "q": "Which SAP CO function helps analyze cost center performance?",
+        "o": [
+            "Cost Center Reporting",
+            "Profitability Analysis",
+            "Variance Calculation",
+            "Internal Order Tracking"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool allows cost planning at different levels within an organization?",
+        "o": [
+            "Hierarchical Cost Planning",
+            "Variance Analysis",
+            "Budget Forecasting",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "Which SAP CO function ensures that planned budgets align with company goals?",
+        "o": [
+            "Strategic Budgeting",
+            "Commitment Management",
+            "Variance Reporting",
+            "Cost Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to display cost center reports?",
+        "o": [
+            "S_ALR_87013611",
+            "KS01",
+            "KA01",
+            "KO01"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows tracking of actual costs against planned budgets?",
+        "o": [
+            "Budget Control",
+            "Cost Center Accounting",
+            "Internal Order Management",
+            "Profitability Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to process internal activity allocations?",
+        "o": [
+            "KB21N",
+            "KE51",
+            "KO88",
+            "KSU5"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to determine product cost structures?",
+        "o": [
+            "Cost Component Split",
+            "Activity-Based Costing",
+            "Variance Analysis",
+            "Overhead Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to transfer budget data?",
+        "o": [
+            "CJ30",
+            "KS02",
+            "KE30",
+            "KO88"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool provides reports for profit center planning?",
+        "o": [
+            "S_ALR_87013326",
+            "KSB1",
+            "KS01",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for activity price calculation?",
+        "o": [
+            "KSPI",
+            "KL01",
+            "KB31N",
+            "KO01"
+        ]
+    },
+    {
+        "q": "Which SAP CO function ensures that costs are assigned to the correct profit center?",
+        "o": [
+            "Automatic Account Assignment",
+            "Variance Calculation",
+            "Commitment Management",
+            "Cost Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps in analyzing the variance between actual and planned costs?",
+        "o": [
+            "Variance Analysis Report",
+            "Cost Center Performance Report",
+            "Profitability Analysis Report",
+            "Internal Order Summary Report"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to settle production orders?",
+        "o": [
+            "KO88",
+            "KB11N",
+            "KS02",
+            "KA02"
+        ]
+    },
+    {
+        "q": "Which SAP CO function helps determine the cost of manufactured goods?",
+        "o": [
+            "Product Costing",
+            "Activity-Based Costing",
+            "Profitability Analysis",
+            "Commitment Management"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for budget reallocation?",
+        "o": [
+            "CJ34",
+            "KE30",
+            "KB61",
+            "KS01"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to distribute secondary costs?",
+        "o": [
+            "Cost Allocation",
+            "Budget Forecasting",
+            "Activity-Based Costing",
+            "Profit Center Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to display internal orders?",
+        "o": [
+            "KO03",
+            "KS02",
+            "KL01",
+            "KB11N"
+        ]
+    },
+    {
+        "q": "Which SAP CO function enables analysis of cost flow within an organization?",
+        "o": [
+            "Cost Flow Analysis",
+            "Budget Planning",
+            "Variance Reporting",
+            "Profitability Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool is used for cost planning based on statistical key figures?",
+        "o": [
+            "Cost Planning Tool",
+            "Activity-Based Costing",
+            "Profitability Forecasting",
+            "Variance Calculation"
+        ]
+    },
+    {
+        "q": "Which SAP CO report shows the profitability of different products?",
+        "o": [
+            "Profitability Analysis Report",
+            "Cost Center Allocation Report",
+            "Budget Consumption Report",
+            "Commitment Management Report"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to create a profit center?",
+        "o": [
+            "KE51",
+            "KS01",
+            "KA01",
+            "KO01"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used for detailed allocation of indirect costs?",
+        "o": [
+            "Overhead Cost Distribution",
+            "Cost Center Planning",
+            "Profitability Analysis",
+            "Variance Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool is used for analyzing cost trends over multiple periods?",
+        "o": [
+            "Trend Analysis Tool",
+            "Profitability Analysis",
+            "Variance Calculation",
+            "Commitment Management"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for real-time cost allocation between cost centers?",
+        "o": [
+            "KSU1",
+            "KB21N",
+            "KO88",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps in monitoring cost center performance?",
+        "o": [
+            "Cost Center Performance Report",
+            "Variance Analysis Report",
+            "Profit Center Report",
+            "Budget Reallocation Report"
+        ]
+    },
+    {
+        "q": "Which SAP CO function helps distribute cost center expenses to relevant departments?",
+        "o": [
+            "Cost Allocation",
+            "Variance Calculation",
+            "Commitment Management",
+            "Budget Forecasting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for planning internal orders?",
+        "o": [
+            "KO12",
+            "KE30",
+            "KB61",
+            "KS01"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool is used for detailed tracking of overhead costs?",
+        "o": [
+            "Overhead Cost Monitoring",
+            "Profitability Analysis",
+            "Variance Calculation",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "Which SAP CO function ensures that cost objects remain within budget limits?",
+        "o": [
+            "Budget Control System",
+            "Commitment Management",
+            "Variance Analysis",
+            "Cost Center Planning"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to settle an internal order?",
+        "o": [
+            "KO88",
+            "KE51",
+            "KS02",
+            "KA01"
+        ]
+    },
+    {
+        "q": "Which SAP CO function helps in allocating service department costs to operational units?",
+        "o": [
+            "Service Cost Allocation",
+            "Activity-Based Costing",
+            "Variance Calculation",
+            "Profitability Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool helps compare planned and actual profitability?",
+        "o": [
+            "Profitability Forecasting",
+            "Variance Calculation",
+            "Budget Monitoring",
+            "Cost Center Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to calculate cost center break-even points?",
+        "o": [
+            "Break-Even Analysis",
+            "Budget Forecasting",
+            "Commitment Management",
+            "Variance Calculation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for reposting costs from one cost center to another?",
+        "o": [
+            "KB11N",
+            "KO88",
+            "KE51",
+            "KS01"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool is used for defining planning versions?",
+        "o": [
+            "Planning Version Management",
+            "Budget Reallocation",
+            "Variance Calculation",
+            "Commitment Monitoring"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows manual allocation of costs to cost objects?",
+        "o": [
+            "Manual Cost Allocation",
+            "Variance Analysis",
+            "Profit Center Planning",
+            "Commitment Management"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to create statistical key figures?",
+        "o": [
+            "KK01",
+            "KS01",
+            "KE30",
+            "KB11N"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool helps analyze profitability based on market segments?",
+        "o": [
+            "Profitability Segment Analysis",
+            "Activity-Based Costing",
+            "Variance Calculation",
+            "Budget Forecasting"
+        ]
+    },
+    {
+        "q": "Which SAP CO function helps identify cost drivers in a process?",
+        "o": [
+            "Cost Driver Analysis",
+            "Budget Reallocation",
+            "Commitment Management",
+            "Variance Monitoring"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to transfer cost data between cost centers?",
+        "o": [
+            "KSV5",
+            "KO01",
+            "KA01",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to assign internal orders to a cost center?",
+        "o": [
+            "Internal Order Assignment",
+            "Profitability Analysis",
+            "Variance Calculation",
+            "Budget Planning"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to analyze profitability by sales region?",
+        "o": [
+            "Profitability by Region Report",
+            "Cost Center Allocation Report",
+            "Variance Analysis Report",
+            "Internal Order Tracking Report"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool is used for modeling cost flows within an organization?",
+        "o": [
+            "Cost Flow Simulation",
+            "Profitability Forecasting",
+            "Variance Calculation",
+            "Commitment Monitoring"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows tracing indirect costs to products?",
+        "o": [
+            "Indirect Cost Tracing",
+            "Activity-Based Costing",
+            "Cost Distribution",
+            "Budget Planning"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to monitor planned vs actual activity consumption?",
+        "o": [
+            "KOB1",
+            "KE30",
+            "KS01",
+            "KB11N"
+        ]
+    },
+    {
+        "q": "Which SAP CO function ensures planned costs align with business strategy?",
+        "o": [
+            "Strategic Cost Planning",
+            "Profit Center Analysis",
+            "Variance Monitoring",
+            "Commitment Control"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for cost element reporting?",
+        "o": [
+            "S_ALR_87013611",
+            "KO01",
+            "KA02",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool helps determine the efficiency of resource utilization?",
+        "o": [
+            "Resource Efficiency Analysis",
+            "Activity-Based Costing",
+            "Budget Reallocation",
+            "Commitment Management"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to allocate fixed and variable costs separately?",
+        "o": [
+            "Cost Splitting",
+            "Variance Calculation",
+            "Budget Monitoring",
+            "Profitability Forecasting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for cost object hierarchy maintenance?",
+        "o": [
+            "KSH3",
+            "KS01",
+            "KB11N",
+            "KO88"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool supports long-term cost planning based on historical data?",
+        "o": [
+            "Historical Cost Trend Analysis",
+            "Commitment Monitoring",
+            "Variance Forecasting",
+            "Profitability Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to model cost variations under different scenarios?",
+        "o": [
+            "Scenario Cost Modeling",
+            "Variance Calculation",
+            "Budget Allocation",
+            "Profit Center Planning"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to distribute overhead costs?",
+        "o": [
+            "KSU5",
+            "KE51",
+            "KS02",
+            "KA01"
+        ]
+    },
+    {
+        "q": "Which SAP CO function helps in controlling cost overruns?",
+        "o": [
+            "Cost Overrun Monitoring",
+            "Variance Reporting",
+            "Profitability Control",
+            "Budget Realignment"
+        ]
+    },
+    {
+        "q": "Which SAP CO report provides a detailed breakdown of production costs?",
+        "o": [
+            "Production Cost Report",
+            "Variance Analysis Report",
+            "Profitability Analysis Report",
+            "Commitment Summary Report"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used for monitoring planned vs actual resource usage?",
+        "o": [
+            "Resource Utilization Monitoring",
+            "Cost Center Reporting",
+            "Variance Calculation",
+            "Budget Control"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for cost-based profitability analysis?",
+        "o": [
+            "KE30",
+            "KB61",
+            "KS01",
+            "KA02"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool helps in tracking the efficiency of cost-reduction measures?",
+        "o": [
+            "Cost Reduction Performance Tracking",
+            "Variance Calculation",
+            "Commitment Management",
+            "Profitability Control"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows companies to simulate financial impacts of cost changes?",
+        "o": [
+            "Cost Simulation Analysis",
+            "Budget Allocation",
+            "Variance Forecasting",
+            "Commitment Management"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for cross-company cost allocations?",
+        "o": [
+            "KSVB",
+            "KE51",
+            "KS01",
+            "KA02"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool supports detailed tracking of indirect production costs?",
+        "o": [
+            "Indirect Cost Tracking",
+            "Activity-Based Costing",
+            "Variance Analysis",
+            "Commitment Control"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used for defining cost-based pricing models?",
+        "o": [
+            "Cost-Based Pricing",
+            "Profitability Forecasting",
+            "Variance Calculation",
+            "Budget Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to set up cost center planning?",
+        "o": [
+            "KP06",
+            "KB11N",
+            "KSV5",
+            "KO01"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps in analyzing actual costs compared to the budget?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "KE30"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to allocate costs based on predefined criteria?",
+        "o": [
+            "KA02",
+            "KSV1",
+            "KSU3",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to create a cost element?",
+        "o": [
+            "KA01",
+            "KE51",
+            "KS01",
+            "KSV5"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps in analyzing cost center and profit center performance?",
+        "o": [
+            "Cost Center and Profit Center Reporting",
+            "Activity-Based Costing",
+            "Variance Calculation",
+            "Budget Forecasting"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to perform cost center groupings?",
+        "o": [
+            "Cost Center Grouping",
+            "Cost Distribution",
+            "Budget Reallocation",
+            "Variance Forecasting"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool allows monitoring of cost trends and deviations?",
+        "o": [
+            "Cost Trend Analysis",
+            "Profit Center Planning",
+            "Variance Forecasting",
+            "Cost Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for internal order settlement?",
+        "o": [
+            "KO88",
+            "KSB1",
+            "KA03",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used for cost element-based variance analysis?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "KE30",
+            "KA02"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool allows the transfer of costs between profit centers?",
+        "o": [
+            "KE52",
+            "KO01",
+            "KA01",
+            "KS01"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to monitor internal orders and their allocations?",
+        "o": [
+            "Internal Order Monitoring",
+            "Profit Center Forecasting",
+            "Cost Center Allocation",
+            "Variance Calculation"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to define allocation cycles for cost distribution?",
+        "o": [
+            "Cycle-based Allocation",
+            "Cost Planning",
+            "Activity-Based Costing",
+            "Budget Reallocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to allocate fixed costs across multiple cost centers?",
+        "o": [
+            "KSV1",
+            "KSV3",
+            "KA02",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to analyze profitability by internal order?",
+        "o": [
+            "S_ALR_87013611",
+            "KO01",
+            "KE30",
+            "S_ALR_87013612"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for creating internal orders?",
+        "o": [
+            "KO01",
+            "KE51",
+            "KA01",
+            "KSV5"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to assign internal orders to cost centers?",
+        "o": [
+            "KO02",
+            "KA01",
+            "KS01",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to view the internal order settlement?",
+        "o": [
+            "S_ALR_87013622",
+            "S_ALR_87013612",
+            "KE51",
+            "KO88"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to reverse internal order settlements?",
+        "o": [
+            "KO89",
+            "KA02",
+            "KO01",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool helps in tracking internal orders against a budget?",
+        "o": [
+            "Internal Order Budget Monitoring",
+            "Profit Center Planning",
+            "Cost Center Distribution",
+            "Variance Forecasting"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to record actual costs on internal orders?",
+        "o": [
+            "Cost Posting",
+            "Internal Order Settlement",
+            "Cost Center Allocation",
+            "Profitability Forecasting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for activity allocation to internal orders?",
+        "o": [
+            "KB11N",
+            "KA01",
+            "KO01",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for cost element reporting?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "KE30"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used for segment-based profitability analysis?",
+        "o": [
+            "Profitability Segmentation",
+            "Cost Center Reporting",
+            "Variance Forecasting",
+            "Internal Order Monitoring"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to analyze the overall profitability of a company?",
+        "o": [
+            "Profitability Report",
+            "Cost Center Report",
+            "Internal Order Report",
+            "Budget Planning Report"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate activity costs to multiple cost objects?",
+        "o": [
+            "Activity Allocation",
+            "Profitability Control",
+            "Variance Reporting",
+            "Cost Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to generate profitability reports based on segments?",
+        "o": [
+            "KE30",
+            "KO88",
+            "S_ALR_87013612",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO tool is used for controlling the distribution of indirect costs?",
+        "o": [
+            "Indirect Cost Distribution",
+            "Profitability Reporting",
+            "Cost Center Allocation",
+            "Variance Control"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to define cost center hierarchies?",
+        "o": [
+            "KS01",
+            "KS02",
+            "KS03",
+            "KS04"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to calculate activity rates?",
+        "o": [
+            "Activity Price Calculation",
+            "Cost Element Planning",
+            "Internal Order Reporting",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to display cost center reports?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows you to allocate overhead costs to cost centers?",
+        "o": [
+            "Overhead Cost Allocation",
+            "Cost Element Reporting",
+            "Profit Center Allocation",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps in tracking budget vs. actual costs?",
+        "o": [
+            "Budget vs. Actual Reporting",
+            "Internal Order Monitoring",
+            "Cost Element Forecasting",
+            "Variance Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to generate a report for actual vs. planned cost centers?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to execute internal order settlements?",
+        "o": [
+            "KO88",
+            "KO89",
+            "KA01",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to create cost element groups?",
+        "o": [
+            "Cost Element Grouping",
+            "Activity-Based Costing",
+            "Internal Order Allocation",
+            "Cost Center Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows for tracking cost elements in real-time?",
+        "o": [
+            "Real-Time Cost Element Reporting",
+            "Internal Order Settlement",
+            "Profit Center Allocation",
+            "Activity Rate Calculation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to perform period-end closing in controlling?",
+        "o": [
+            "KKAO",
+            "KKA1",
+            "KKS1",
+            "KKF1"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows for performing cost allocation to internal orders?",
+        "o": [
+            "KA02",
+            "KO01",
+            "KE51",
+            "KSV5"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for activity allocation to cost centers?",
+        "o": [
+            "KSU1",
+            "KSU2",
+            "KSU3",
+            "KSU4"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for tracking cost center expenses in real-time?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO function helps in allocating costs using an allocation method?",
+        "o": [
+            "Allocation Method",
+            "Internal Order Reporting",
+            "Cost Element Reporting",
+            "Cost Center Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to perform cost planning for cost centers?",
+        "o": [
+            "KP06",
+            "KB11N",
+            "KA01",
+            "KSV5"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps in analyzing cost allocation for multiple cost objects?",
+        "o": [
+            "Multi-Cost Object Allocation",
+            "Cost Element Analysis",
+            "Internal Order Analysis",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used for analyzing the breakdown of planned costs?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013611",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "Which SAP CO function helps in planning cost elements for specific activities?",
+        "o": [
+            "Cost Element Planning",
+            "Profit Center Planning",
+            "Internal Order Forecasting",
+            "Cost Center Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to create multiple plan versions for cost planning?",
+        "o": [
+            "Plan Versions",
+            "Cost Center Forecasting",
+            "Profit Center Allocation",
+            "Cost Element Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to monitor cost center expenses during a given period?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps in determining profitability by profit center?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013612",
+            "KE30",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to set up internal order categories?",
+        "o": [
+            "KO01",
+            "KO02",
+            "KO03",
+            "KA01"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps in creating cost element hierarchies?",
+        "o": [
+            "Cost Element Hierarchy Setup",
+            "Cost Center Grouping",
+            "Activity-Based Costing",
+            "Profitability Planning"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to track the actual costs incurred for a project?",
+        "o": [
+            "Internal Orders",
+            "Activity-Based Costing",
+            "Cost Center Accounting",
+            "Profit Center Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to allocate costs based on specific activity drivers?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Internal Order Reporting",
+            "Cost Center Distribution",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to manage cost planning for internal orders?",
+        "o": [
+            "KO11",
+            "KO12",
+            "KO13",
+            "KO14"
+        ]
+    },
+    {
+        "q": "Which SAP CO report provides information on costs incurred by cost center and internal order?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013611",
+            "S_ALR_87013612"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps you analyze cost distribution across various activities?",
+        "o": [
+            "Activity-Based Costing",
+            "Cost Element Analysis",
+            "Internal Order Settlement",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to compare budgeted and actual expenses for cost centers?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for performing cost allocation using activity types?",
+        "o": [
+            "KSU1",
+            "KSU2",
+            "KSU3",
+            "KSU4"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality supports the creation of cost allocations based on user-defined rules?",
+        "o": [
+            "Cost Allocation Methods",
+            "Activity-Based Costing",
+            "Internal Order Reporting",
+            "Cost Center Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for performing cost allocations based on statistical key figures?",
+        "o": [
+            "KSU1",
+            "KSU2",
+            "KSU3",
+            "KSU4"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to define allocation cycles for cost allocations?",
+        "o": [
+            "Cycle Definition",
+            "Cost Center Distribution",
+            "Activity-Based Costing",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to create cost element groups for planning?",
+        "o": [
+            "KA01",
+            "KA02",
+            "KA03",
+            "KA04"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used for variance analysis between planned and actual costs?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013613",
+            "S_ALR_87013612",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to allocate costs from one cost object to another cost object?",
+        "o": [
+            "Assessment",
+            "Cost Element Allocation",
+            "Internal Order Reporting",
+            "Profit Center Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps in the analysis of actual versus planned costs for internal orders?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used for calculating overhead rates in cost center accounting?",
+        "o": [
+            "Overhead Cost Calculation",
+            "Cost Element Analysis",
+            "Internal Order Monitoring",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to define a cost center master data?",
+        "o": [
+            "KS01",
+            "KS02",
+            "KS03",
+            "KS04"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to analyze the variance between planned and actual revenues for profit centers?",
+        "o": [
+            "KE30",
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality supports cost allocation based on activity consumption?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Element Planning",
+            "Cost Center Allocation",
+            "Internal Order Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps in calculating the profit and loss for a given profit center?",
+        "o": [
+            "Profit Center Accounting",
+            "Cost Center Reporting",
+            "Internal Order Allocation",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to transfer costs from internal orders to cost centers?",
+        "o": [
+            "KO88",
+            "KA01",
+            "KKAO",
+            "KKS1"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps in tracking cost allocations from cost centers to internal orders?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013613",
+            "S_ALR_87013612",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps in analyzing cost distribution based on activity allocation?",
+        "o": [
+            "Activity-Based Costing",
+            "Cost Center Reporting",
+            "Internal Order Allocation",
+            "Profit Center Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to define the relationship between cost centers and internal orders?",
+        "o": [
+            "Cost Center Assignment",
+            "Internal Order Master Data",
+            "Activity-Based Costing",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows you to track costs incurred by a specific department or function?",
+        "o": [
+            "Cost Center Accounting",
+            "Internal Order Management",
+            "Profit Center Accounting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps in analyzing the overhead costs for a given cost center?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013612",
+            "S_ALR_87013611",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to create internal orders for cost tracking?",
+        "o": [
+            "KO01",
+            "KO02",
+            "KO03",
+            "KO04"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to distribute indirect costs from one cost object to another?",
+        "o": [
+            "Assessment Cycle",
+            "Cost Element Transfer",
+            "Internal Order Reporting",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to perform variance analysis for profit center costs?",
+        "o": [
+            "KE31",
+            "KE30",
+            "S_ALR_87013611",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to define cost element groups for cost planning?",
+        "o": [
+            "Cost Element Grouping",
+            "Cost Center Assignment",
+            "Internal Order Reporting",
+            "Profit Center Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to create cost elements for controlling purposes?",
+        "o": [
+            "KA01",
+            "KA02",
+            "KA03",
+            "KA04"
+        ]
+    },
+    {
+        "q": "Which SAP CO report provides a detailed view of actual versus planned costs for internal orders?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013613",
+            "S_ALR_87013611",
+            "S_ALR_87013612"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate costs from cost centers to profit centers?",
+        "o": [
+            "Cost Center Allocation",
+            "Profit Center Reporting",
+            "Activity-Based Costing",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to define activity types for cost allocation?",
+        "o": [
+            "KP06",
+            "KP07",
+            "KP08",
+            "KP09"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps you plan and manage costs by allocating them across multiple profit centers?",
+        "o": [
+            "Profit Center Planning",
+            "Cost Center Reporting",
+            "Internal Order Allocation",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps in analyzing the profitability of a specific cost center?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to create and manage overhead costs for cost centers?",
+        "o": [
+            "Overhead Cost Management",
+            "Internal Order Reporting",
+            "Cost Element Analysis",
+            "Profit Center Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to define the allocation structure for cost elements?",
+        "o": [
+            "KA01",
+            "KA02",
+            "KA03",
+            "KA04"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used for calculating the planned costs for profit centers?",
+        "o": [
+            "Profit Center Planning",
+            "Cost Center Planning",
+            "Internal Order Management",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps in monitoring the distribution of costs across multiple cost centers?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013611",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to settle costs from internal orders to cost centers?",
+        "o": [
+            "KO88",
+            "KO89",
+            "KO90",
+            "KO91"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps in tracking actual expenses versus budgeted amounts for cost centers?",
+        "o": [
+            "Cost Center Reporting",
+            "Internal Order Reporting",
+            "Profit Center Reporting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to allocate overhead costs across various cost centers?",
+        "o": [
+            "Overhead Distribution",
+            "Cost Element Allocation",
+            "Internal Order Reporting",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows you to analyze and monitor cost trends over time?",
+        "o": [
+            "Cost Trend Analysis",
+            "Internal Order Overview",
+            "Profit Center Forecasting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report can be used to evaluate the performance of cost centers across different periods?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013613",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to view the cost assignment of internal orders?",
+        "o": [
+            "KO03",
+            "KO04",
+            "KO02",
+            "KO01"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to track costs related to multiple internal orders at once?",
+        "o": [
+            "Order Grouping",
+            "Cost Element Analysis",
+            "Profit Center Allocation",
+            "Cost Center Monitoring"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps in monitoring the profitability of internal orders?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013611",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality enables you to monitor the costs associated with a specific internal order for a defined period?",
+        "o": [
+            "Internal Order Tracking",
+            "Cost Center Overview",
+            "Profit Center Analysis",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to set up planning for cost elements and cost centers?",
+        "o": [
+            "Cost Planning",
+            "Internal Order Forecasting",
+            "Profit Center Analysis",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to define the settlement rules for internal orders?",
+        "o": [
+            "KO88",
+            "KO89",
+            "KO90",
+            "KO91"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate costs from one cost center to another based on a specific formula?",
+        "o": [
+            "Activity Allocation",
+            "Cost Element Transfer",
+            "Internal Order Settlement",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to track and allocate costs associated with a specific department or function?",
+        "o": [
+            "Cost Center Accounting",
+            "Internal Order Management",
+            "Profit Center Analysis",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report provides a detailed analysis of planned versus actual costs for internal orders?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013611",
+            "S_ALR_87013612"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to transfer costs from cost centers to profit centers?",
+        "o": [
+            "Profit Center Allocation",
+            "Internal Order Settlement",
+            "Activity-Based Costing",
+            "Cost Element Assignment"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to create and manage internal order master data?",
+        "o": [
+            "KO01",
+            "KO02",
+            "KO03",
+            "KO04"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows you to analyze and track performance against budgeted costs for internal orders?",
+        "o": [
+            "Internal Order Analysis",
+            "Cost Center Reporting",
+            "Profit Center Planning",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report can be used to perform detailed cost analysis for internal orders?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to define a cost center hierarchy for cost allocation?",
+        "o": [
+            "Cost Center Hierarchy",
+            "Profit Center Allocation",
+            "Internal Order Reporting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to define cost center groups for reporting purposes?",
+        "o": [
+            "KS01",
+            "KS02",
+            "KS03",
+            "KS04"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to allocate costs from one cost center to another cost center based on a predefined formula?",
+        "o": [
+            "Distribution Cycle",
+            "Internal Order Settlement",
+            "Profit Center Allocation",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report provides an overview of actual versus planned costs for cost centers?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013613",
+            "S_ALR_87013612",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to perform variance analysis for internal orders?",
+        "o": [
+            "Variance Calculation",
+            "Cost Center Overview",
+            "Profit Center Allocation",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to settle the costs from internal orders to cost centers or other receivers?",
+        "o": [
+            "KO88",
+            "KO89",
+            "KO90",
+            "KO91"
+        ]
+    },
+    {
+        "q": "Which SAP CO report allows you to track the distribution of activity costs across different cost centers?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality provides the ability to perform periodic allocations for cost centers?",
+        "o": [
+            "Periodic Allocation",
+            "Internal Order Settlement",
+            "Activity-Based Costing",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to create or change cost center master data?",
+        "o": [
+            "KS01",
+            "KS02",
+            "KS03",
+            "KS04"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to plan and forecast costs for internal orders?",
+        "o": [
+            "Internal Order Planning",
+            "Cost Center Budgeting",
+            "Profit Center Forecasting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality tracks the costs related to a specific business activity or project?",
+        "o": [
+            "Internal Orders",
+            "Cost Center Accounting",
+            "Profit Center Accounting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report shows detailed actual cost postings for internal orders?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013611",
+            "S_ALR_87013613",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "Which SAP CO function can be used to distribute costs from one cost center to others based on certain rules?",
+        "o": [
+            "Cost Distribution",
+            "Cost Element Analysis",
+            "Internal Order Allocation",
+            "Profit Center Analysis"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality enables you to define cost allocation cycles for distributing costs to multiple cost centers?",
+        "o": [
+            "Allocation Cycles",
+            "Internal Order Forecasting",
+            "Profit Center Budgeting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report allows you to view cost allocations by activity type and cost element?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to settle costs from internal orders to multiple cost centers?",
+        "o": [
+            "KO88",
+            "KO89",
+            "KO90",
+            "KO91"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to assign costs to a profit center for more detailed profitability analysis?",
+        "o": [
+            "Profit Center Accounting",
+            "Internal Order Allocation",
+            "Cost Center Reporting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to analyze the cost performance of different profit centers?",
+        "o": [
+            "KE30",
+            "KE31",
+            "KE32",
+            "KE33"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows for the assignment of activity types to cost centers for cost allocation?",
+        "o": [
+            "Activity Type Allocation",
+            "Internal Order Settlement",
+            "Cost Element Reporting",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to perform cost allocations based on defined activity types?",
+        "o": [
+            "Activity Allocation",
+            "Internal Order Reporting",
+            "Cost Center Budgeting",
+            "Profit Center Management"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to display actual versus planned costs for cost centers over a specific period?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to forecast costs for future periods based on historical data?",
+        "o": [
+            "Cost Forecasting",
+            "Internal Order Budgeting",
+            "Profit Center Planning",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report allows you to track the variance between planned and actual costs for internal orders?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to create and manage internal order master data?",
+        "o": [
+            "KO01",
+            "KO02",
+            "KO03",
+            "KO04"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to transfer costs from one cost center to another?",
+        "o": [
+            "Cost Transfer",
+            "Internal Order Settlement",
+            "Profit Center Allocation",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to display cost allocations by internal order?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to set up cost planning for a cost center?",
+        "o": [
+            "Cost Center Planning",
+            "Profit Center Forecasting",
+            "Internal Order Budgeting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate activity costs to internal orders?",
+        "o": [
+            "Activity Allocation",
+            "Cost Center Settlement",
+            "Profit Center Budgeting",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "Which SAP CO function enables the calculation of a cost element’s budget?",
+        "o": [
+            "Cost Element Planning",
+            "Profit Center Budgeting",
+            "Internal Order Forecasting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report shows the cost center’s performance against budgeted values?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013611",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to allocate costs across multiple cost centers?",
+        "o": [
+            "KA01",
+            "KA02",
+            "KA03",
+            "KA04"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to analyze internal order costs?",
+        "o": [
+            "KO03",
+            "KO02",
+            "KO01",
+            "KO04"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows cost allocation based on cost object hierarchies?",
+        "o": [
+            "Cost Object Hierarchy Allocation",
+            "Internal Order Settlement",
+            "Profit Center Allocation",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for planning and monitoring activity-based costing in a company?",
+        "o": [
+            "KKA0",
+            "KKA1",
+            "KKA2",
+            "KKA3"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows you to plan activity types for cost centers?",
+        "o": [
+            "Activity Type Planning",
+            "Internal Order Budgeting",
+            "Profit Center Planning",
+            "Cost Element Forecasting"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to check the variance between planned and actual costs for internal orders?",
+        "o": [
+            "Order Variance Analysis",
+            "Internal Order Reporting",
+            "Cost Center Budgeting",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO report shows the cost postings related to internal orders and cost centers?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013611",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality provides information on the profitability of a profit center?",
+        "o": [
+            "Profit Center Accounting",
+            "Internal Order Reporting",
+            "Cost Element Analysis",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for the settlement of costs from internal orders to cost centers?",
+        "o": [
+            "KO88",
+            "KO89",
+            "KO90",
+            "KO91"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to track the activity costs for different cost centers over time?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality provides the ability to define a cost element group for analysis?",
+        "o": [
+            "Cost Element Grouping",
+            "Internal Order Planning",
+            "Profit Center Allocation",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows you to define a cost center group for reporting purposes?",
+        "o": [
+            "Cost Center Grouping",
+            "Internal Order Settlement",
+            "Profit Center Allocation",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate overhead costs to cost centers?",
+        "o": [
+            "Overhead Allocation",
+            "Internal Order Settlement",
+            "Activity-Based Costing",
+            "Profit Center Budgeting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for the distribution of planned costs from internal orders?",
+        "o": [
+            "KO7E",
+            "KO88",
+            "KO89",
+            "KO91"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to adjust the planned costs of internal orders?",
+        "o": [
+            "KSP1",
+            "KO02",
+            "KO01",
+            "KO03"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used for comparing actual costs versus planned costs for a given period?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013612",
+            "S_ALR_87013611",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to manage cost allocation for indirect costs within a cost center?",
+        "o": [
+            "Indirect Cost Allocation",
+            "Internal Order Settlement",
+            "Profit Center Accounting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report allows you to see cost allocations by activity and cost element for a period?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013611",
+            "S_ALR_87013614",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to analyze cost performance for cost centers and internal orders?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013613",
+            "S_ALR_87013612",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO function enables cost allocation for multiple internal orders or cost centers at once?",
+        "o": [
+            "Mass Allocation",
+            "Internal Order Settlement",
+            "Cost Center Reporting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to check the cost distribution between cost centers?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013611",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to create cost centers for tracking specific operational costs?",
+        "o": [
+            "Cost Center Master Data",
+            "Profit Center Accounting",
+            "Activity-Based Costing",
+            "Internal Order Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to perform the settlement of cost allocations for multiple cost centers?",
+        "o": [
+            "KO88",
+            "KO89",
+            "KO90",
+            "KO91"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to perform budgeting for internal orders?",
+        "o": [
+            "Internal Order Budgeting",
+            "Cost Center Budgeting",
+            "Profit Center Planning",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO function enables reporting for costs that are allocated to different profit centers?",
+        "o": [
+            "Profit Center Allocation Reporting",
+            "Internal Order Reporting",
+            "Cost Element Analysis",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows the calculation of cost center overhead rates for planning purposes?",
+        "o": [
+            "KP26",
+            "KSV5",
+            "KO88",
+            "KO89"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps to allocate costs based on activity rates?",
+        "o": [
+            "Activity-Based Costing",
+            "Cost Center Budgeting",
+            "Internal Order Settlement",
+            "Profit Center Planning"
+        ]
+    },
+    {
+        "q": "Which SAP CO function enables the management of cost center expenses through a cost allocation plan?",
+        "o": [
+            "Cost Center Allocation Plan",
+            "Internal Order Budgeting",
+            "Profit Center Planning",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows the entry and monitoring of actual costs in relation to activity types?",
+        "o": [
+            "KSU1",
+            "KSU2",
+            "KSU3",
+            "KSU4"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to assign costs from internal orders to the correct cost element?",
+        "o": [
+            "KO08",
+            "KO01",
+            "KO02",
+            "KO03"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows the analysis of planned versus actual costs for internal orders and cost centers?",
+        "o": [
+            "Variance Analysis",
+            "Cost Element Analysis",
+            "Profit Center Reporting",
+            "Internal Order Forecasting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to reallocate the actual costs of an internal order to different cost centers?",
+        "o": [
+            "KO7E",
+            "KO88",
+            "KO89",
+            "KO91"
+        ]
+    },
+    {
+        "q": "In SAP CO, what is used to record and track costs associated with a specific task or event?",
+        "o": [
+            "Internal Orders",
+            "Cost Centers",
+            "Profit Centers",
+            "Cost Elements"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows the creation of reports on internal order settlements?",
+        "o": [
+            "Internal Order Settlement Reporting",
+            "Cost Center Reporting",
+            "Profit Center Budgeting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "In SAP CO, which element is used to track costs for specific types of expenses within an organization?",
+        "o": [
+            "Cost Elements",
+            "Cost Centers",
+            "Profit Centers",
+            "Internal Orders"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature is used to allocate the cost of an activity or service to the cost center receiving the benefit?",
+        "o": [
+            "Activity Allocation",
+            "Cost Element Planning",
+            "Profit Center Settlement",
+            "Internal Order Adjustment"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to monitor actual costs and revenue for internal orders?",
+        "o": [
+            "S_ALR_87013558",
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows tracking of budget usage for specific cost centers?",
+        "o": [
+            "Cost Center Budgeting",
+            "Internal Order Planning",
+            "Profit Center Forecasting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report provides detailed analysis of cost distribution between profit centers?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature allows you to define planned values for activities, which are later used for cost allocations?",
+        "o": [
+            "Activity Types",
+            "Cost Centers",
+            "Profit Centers",
+            "Internal Orders"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate costs for administrative expenses to specific cost centers?",
+        "o": [
+            "Cost Allocation",
+            "Cost Center Planning",
+            "Internal Order Reporting",
+            "Profit Center Budgeting"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to plan costs for specific cost elements?",
+        "o": [
+            "Cost Element Planning",
+            "Cost Center Budgeting",
+            "Internal Order Forecasting",
+            "Profit Center Planning"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps to compare actual costs against the planned budget for a cost center?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013612",
+            "S_ALR_87013611",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO function allows you to assign overhead costs to cost centers for further allocation?",
+        "o": [
+            "Overhead Cost Allocation",
+            "Activity-Based Costing",
+            "Profit Center Budgeting",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to transfer costs between cost centers?",
+        "o": [
+            "KSV5",
+            "KSV6",
+            "KSV1",
+            "KSV2"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows for managing financial impacts of different activity types in a business?",
+        "o": [
+            "Activity-Based Costing",
+            "Internal Order Management",
+            "Cost Center Analysis",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used for periodic reposting of costs from one cost center to another?",
+        "o": [
+            "KSV5",
+            "KSV6",
+            "KO88",
+            "KO89"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality provides insights into cost trends and helps with financial forecasting?",
+        "o": [
+            "Forecasting and Planning",
+            "Cost Element Reporting",
+            "Profit Center Performance",
+            "Internal Order Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO report can be used to analyze costs incurred for internal orders by cost elements?",
+        "o": [
+            "S_ALR_87013558",
+            "S_ALR_87013611",
+            "S_ALR_87013613",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "In SAP CO, which type of order is used to track costs for specific projects or tasks?",
+        "o": [
+            "Internal Order",
+            "Cost Center",
+            "Profit Center",
+            "Activity Type"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows the allocation of fixed costs to cost centers?",
+        "o": [
+            "Cost Distribution",
+            "Internal Order Allocation",
+            "Cost Element Assignment",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for internal order settlements in SAP?",
+        "o": [
+            "KO88",
+            "KO91",
+            "KO89",
+            "KO7E"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature is used to record the actual costs incurred for an activity or process?",
+        "o": [
+            "Actual Cost Posting",
+            "Cost Allocation",
+            "Profit Center Reporting",
+            "Internal Order Adjustment"
+        ]
+    },
+    {
+        "q": "Which report in SAP CO can be used to track planned versus actual costs for internal orders?",
+        "o": [
+            "S_ALR_87013558",
+            "S_ALR_87013614",
+            "S_ALR_87013612",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for the period-end closing of cost centers?",
+        "o": [
+            "KSU5",
+            "KSU6",
+            "KSV5",
+            "KSV6"
+        ]
+    },
+    {
+        "q": "In SAP CO, which allocation method is used to distribute costs from a controlling area to cost centers based on activity levels?",
+        "o": [
+            "Activity-Based Allocation",
+            "Statistical Key Figure Allocation",
+            "Cost Center Allocation",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to create a plan for allocating costs in internal orders?",
+        "o": [
+            "KO02",
+            "KO01",
+            "KO88",
+            "KO89"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature is used to manage the distribution of indirect costs, such as overheads, across multiple cost centers?",
+        "o": [
+            "Indirect Cost Allocation",
+            "Cost Center Distribution",
+            "Internal Order Allocation",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used for posting costs to profit centers?",
+        "o": [
+            "2KE1",
+            "2KE2",
+            "2KE3",
+            "2KE4"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows for planning and tracking of costs in relation to specific activities or cost elements?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Internal Order Planning",
+            "Cost Center Reporting",
+            "Profit Center Budgeting"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to monitor the actual costs incurred against the budget for cost centers?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "In SAP CO, which type of allocation is used for distributing fixed costs between different cost centers?",
+        "o": [
+            "Distribution Allocation",
+            "Activity Allocation",
+            "Cost Element Assignment",
+            "Indirect Cost Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which document is used to track and report on actual expenses for a specific cost element?",
+        "o": [
+            "Cost Center Accounting Document",
+            "Internal Order Accounting Document",
+            "Profit Center Accounting Document",
+            "Activity-Based Costing Document"
+        ]
+    },
+    {
+        "q": "Which SAP CO function is used to record cost distribution from internal orders to different cost centers?",
+        "o": [
+            "Internal Order Allocation",
+            "Cost Element Assignment",
+            "Activity-Based Costing",
+            "Cost Center Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps to track the cost distribution among different profit centers?",
+        "o": [
+            "S_ALR_87013557",
+            "S_ALR_87013612",
+            "S_ALR_87013611",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to track costs related to internal services provided to various cost centers?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Center Allocations",
+            "Internal Service Costing",
+            "Profit Center Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature allows you to allocate costs from internal orders to different profit centers?",
+        "o": [
+            "Order Allocation to Profit Centers",
+            "Cost Center Allocation",
+            "Internal Order Distribution",
+            "Profit Center Settlement"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report shows the detailed comparison of planned, actual, and variance costs for internal orders?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013558",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "In SAP CO, which element is used to track costs associated with organizational units within the controlling area?",
+        "o": [
+            "Cost Center",
+            "Internal Order",
+            "Profit Center",
+            "Activity Type"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate costs for corporate services to various cost centers?",
+        "o": [
+            "Internal Service Costing",
+            "Cost Element Distribution",
+            "Activity-Based Costing",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows for tracking and planning indirect costs allocated to cost centers?",
+        "o": [
+            "Indirect Cost Allocation",
+            "Internal Order Allocation",
+            "Cost Center Distribution",
+            "Profit Center Reporting"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to track the costs allocated to a specific profit center during a period?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013558"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used for transferring planned costs from one cost center to another?",
+        "o": [
+            "KSV5",
+            "KSU5",
+            "KSU6",
+            "KSV6"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to manage costs associated with overhead allocation for various cost centers?",
+        "o": [
+            "Overhead Cost Allocation",
+            "Cost Center Allocation",
+            "Profit Center Allocation",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature is used to record costs associated with different types of activities (e.g., machine hours, labor hours)?",
+        "o": [
+            "Activity Types",
+            "Cost Elements",
+            "Cost Centers",
+            "Profit Centers"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for allocating costs between cost centers based on predefined statistical key figures?",
+        "o": [
+            "KSV2",
+            "KSV5",
+            "KSU5",
+            "KSV6"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps to compare the budgeted and actual costs for specific cost elements across different periods?",
+        "o": [
+            "S_ALR_87013558",
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to monitor costs related to specific tasks or projects?",
+        "o": [
+            "Internal Orders",
+            "Cost Centers",
+            "Profit Centers",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for planning and budgeting overhead costs in cost centers?",
+        "o": [
+            "KP06",
+            "KP26",
+            "KP02",
+            "KP12"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature allows for the detailed breakdown of costs for a particular cost element by activity type?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Element Planning",
+            "Internal Order Allocation",
+            "Cost Center Budgeting"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report allows you to track budget consumption and variance analysis for cost centers?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013558",
+            "S_ALR_87013613",
+            "S_ALR_87013612"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to allocate activity costs to different cost centers based on the usage of resources?",
+        "o": [
+            "KB21N",
+            "KB31N",
+            "KB41N",
+            "KB51N"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to perform cost allocations based on cost center distribution?",
+        "o": [
+            "KSV1",
+            "KSV2",
+            "KSU1",
+            "KSU2"
+        ]
+    },
+    {
+        "q": "In SAP CO, which function allows you to allocate costs to internal orders based on the consumption of resources?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Center Allocation",
+            "Internal Order Settlement",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, what is used to define the rules for cost allocation from cost centers to other cost objects?",
+        "o": [
+            "Allocation Rules",
+            "Cost Distribution",
+            "Cost Element Planning",
+            "Profit Center Settlement"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to track costs for the acquisition or usage of materials and services within internal orders?",
+        "o": [
+            "Internal Order Allocation",
+            "Cost Center Planning",
+            "Activity-Based Costing",
+            "Cost Element Assignment"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report is used to track the profitability of different profit centers over a specific period?",
+        "o": [
+            "S_ALR_87013559",
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps to track and control the costs associated with various business processes?",
+        "o": [
+            "Cost Center Accounting",
+            "Profit Center Accounting",
+            "Internal Order Accounting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for transferring costs between cost centers and internal orders?",
+        "o": [
+            "KB11N",
+            "KB21N",
+            "KB31N",
+            "KB41N"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report allows the comparison of planned and actual costs at the cost center level?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013558"
+        ]
+    },
+    {
+        "q": "In SAP CO, which allocation type is used for allocating costs based on the actual consumption of resources?",
+        "o": [
+            "Activity Allocation",
+            "Fixed Cost Allocation",
+            "Statistical Key Figure Allocation",
+            "Cost Element Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to track overhead costs and allocate them to different cost centers?",
+        "o": [
+            "Overhead Cost Allocation",
+            "Internal Order Allocation",
+            "Cost Center Distribution",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report is used to track internal order settlement details?",
+        "o": [
+            "KO88",
+            "KO91",
+            "KO89",
+            "KO7E"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for planning costs in profit centers?",
+        "o": [
+            "KPF6",
+            "KP26",
+            "KP12",
+            "KP02"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used to allocate fixed costs between different cost centers based on activity levels?",
+        "o": [
+            "KSV2",
+            "KSV3",
+            "KSV5",
+            "KSV6"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature is used to track the profitability of products, services, or business units by assigning them to profit centers?",
+        "o": [
+            "Profit Center Accounting",
+            "Cost Center Accounting",
+            "Activity-Based Costing",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "Which SAP CO report can be used to track actual costs allocated to internal orders?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013612",
+            "S_ALR_87013558",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used to post costs directly to profit centers?",
+        "o": [
+            "2KE1",
+            "2KE2",
+            "2KE3",
+            "2KE4"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to track and allocate costs related to customer orders?",
+        "o": [
+            "Order-based Costing",
+            "Profit Center Allocation",
+            "Internal Order Settlement",
+            "Cost Center Planning"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report helps in tracking the variance between actual and planned costs for internal orders?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013611",
+            "S_ALR_87013558"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate indirect costs to cost centers based on predefined rules?",
+        "o": [
+            "Overhead Allocation",
+            "Cost Element Distribution",
+            "Profit Center Allocation",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature enables detailed cost tracking for each process step or work center?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Center Accounting",
+            "Internal Order Allocation",
+            "Profit Center Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to transfer costs from internal orders to cost centers?",
+        "o": [
+            "KO88",
+            "KO91",
+            "KO92",
+            "KSU1"
+        ]
+    },
+    {
+        "q": "In SAP CO, which type of cost allocation is based on measurable units like machine hours or labor hours?",
+        "o": [
+            "Activity-Based Costing",
+            "Overhead Allocation",
+            "Cost Center Allocation",
+            "Fixed Cost Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate costs from cost centers to different segments based on activity consumption?",
+        "o": [
+            "Activity Allocation",
+            "Overhead Allocation",
+            "Internal Order Allocation",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used to allocate fixed costs based on statistical key figures?",
+        "o": [
+            "KSV3",
+            "KSV2",
+            "KSV1",
+            "KSU5"
+        ]
+    },
+    {
+        "q": "In SAP CO, which functionality allows for tracking and allocating variable costs in relation to activity-based costing?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Internal Order Accounting",
+            "Cost Element Allocation",
+            "Profit Center Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to track cost planning and actual costs for different internal orders?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013558",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to plan costs for internal orders at a detailed level?",
+        "o": [
+            "KO02",
+            "KO21",
+            "KO31",
+            "KO11"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature helps in allocating costs for overheads incurred during specific production processes?",
+        "o": [
+            "Overhead Cost Allocation",
+            "Activity-Based Costing",
+            "Internal Order Settlement",
+            "Cost Center Distribution"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to settle costs from internal orders to cost centers or other cost objects?",
+        "o": [
+            "KO88",
+            "KO89",
+            "KO91",
+            "KO92"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature allows you to track the consumption of resources and allocate them to specific cost objects?",
+        "o": [
+            "Activity Types",
+            "Cost Element Planning",
+            "Cost Center Accounting",
+            "Profit Center Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate costs from overhead cost centers to different functional areas?",
+        "o": [
+            "Overhead Allocation",
+            "Activity-Based Costing",
+            "Internal Order Settlement",
+            "Profit Center Distribution"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used for periodic settlement of internal orders to cost centers?",
+        "o": [
+            "KO88",
+            "KO91",
+            "KO92",
+            "KSU5"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate costs between different cost objects based on actual consumption?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Internal Order Settlement",
+            "Cost Center Distribution",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature allows you to define planning layouts for cost elements and cost centers?",
+        "o": [
+            "Cost Planning",
+            "Cost Element Planning",
+            "Activity-Based Costing",
+            "Cost Center Accounting"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report provides an overview of cost center balances and their planning versus actual values?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013611",
+            "S_ALR_87013613",
+            "S_ALR_87013558"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature helps allocate costs based on direct activity consumption, like labor or material?",
+        "o": [
+            "Activity-Based Costing",
+            "Cost Center Allocation",
+            "Internal Order Settlement",
+            "Overhead Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which function helps in tracking and allocating costs for a project or specific task using internal orders?",
+        "o": [
+            "Internal Order Allocation",
+            "Cost Center Accounting",
+            "Activity-Based Costing",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for transferring costs from internal orders to profit centers?",
+        "o": [
+            "KSU2",
+            "KSV3",
+            "KSV1",
+            "KO88"
+        ]
+    },
+    {
+        "q": "In SAP CO, which method helps in allocating overhead costs using statistical key figures?",
+        "o": [
+            "Statistical Key Figures Allocation",
+            "Cost Center Distribution",
+            "Activity-Based Costing",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used to settle costs from cost centers to profit centers?",
+        "o": [
+            "KSU1",
+            "KSV2",
+            "KSU3",
+            "S_ALR_87013612"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report allows tracking cost distribution for a specific period across various cost centers?",
+        "o": [
+            "S_ALR_87013558",
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality enables tracking and allocation of costs for services within internal orders?",
+        "o": [
+            "Internal Order Accounting",
+            "Cost Center Accounting",
+            "Activity-Based Costing",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for transferring fixed costs from one cost object to another?",
+        "o": [
+            "KSV1",
+            "KSU2",
+            "KSU5",
+            "KO88"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature allows cost planning based on the consumption of defined activity types?",
+        "o": [
+            "Activity-Based Costing",
+            "Internal Order Allocation",
+            "Cost Center Accounting",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality helps in allocating costs based on fixed criteria such as headcount or square footage?",
+        "o": [
+            "Cost Distribution",
+            "Activity-Based Costing",
+            "Fixed Cost Allocation",
+            "Internal Order Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to assign internal orders to cost centers for detailed tracking?",
+        "o": [
+            "KO02",
+            "KO01",
+            "KO22",
+            "KO31"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report helps track and analyze the variance between planned and actual costs for cost centers?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013558",
+            "S_ALR_87013611"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used for planning costs in an internal order?",
+        "o": [
+            "KO21",
+            "KO22",
+            "KO23",
+            "KO24"
+        ]
+    },
+    {
+        "q": "In SAP CO, which method allows allocating indirect costs to profit centers based on activity rates?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Center Allocation",
+            "Fixed Cost Allocation",
+            "Internal Order Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature allows tracking and allocating costs related to multiple products or services in different profit centers?",
+        "o": [
+            "Profit Center Accounting",
+            "Internal Order Accounting",
+            "Activity-Based Costing",
+            "Cost Center Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction helps in allocating activity costs to cost objects based on usage?",
+        "o": [
+            "KSV1",
+            "KSV2",
+            "KSU5",
+            "KO88"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report allows you to analyze cost center costs for a specific period?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013558"
+        ]
+    },
+    {
+        "q": "In SAP CO, which functionality allows you to manage and allocate fixed costs from one object to another?",
+        "o": [
+            "Fixed Cost Allocation",
+            "Internal Order Accounting",
+            "Activity-Based Costing",
+            "Cost Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality enables cost allocation based on the consumption of activities such as machine hours or labor?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Center Accounting",
+            "Internal Order Allocation",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used to create a cost center master record?",
+        "o": [
+            "KS01",
+            "KS02",
+            "KS03",
+            "KSB1"
+        ]
+    },
+    {
+        "q": "Which SAP CO report allows you to view the detailed variance analysis between actual and planned costs for internal orders?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013613",
+            "S_ALR_87013611",
+            "S_ALR_87013558"
+        ]
+    },
+    {
+        "q": "In SAP CO, which function helps in determining the cost element and cost center for a particular activity?",
+        "o": [
+            "Cost Element Accounting",
+            "Activity-Based Costing",
+            "Internal Order Accounting",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to track the actual versus planned costs for cost centers?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013611",
+            "S_ALR_87013613",
+            "S_ALR_87013558"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature helps in the allocation of overhead costs to various cost objects?",
+        "o": [
+            "Overhead Allocation",
+            "Activity-Based Costing",
+            "Cost Center Accounting",
+            "Internal Order Settlement"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used to create and manage internal orders for cost tracking?",
+        "o": [
+            "KO01",
+            "KO02",
+            "KO03",
+            "KO04"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows you to define and track budgets for cost centers and internal orders?",
+        "o": [
+            "Budgeting & Forecasting",
+            "Activity-Based Costing",
+            "Cost Center Accounting",
+            "Profit Center Accounting"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report is used to track the budget consumption for internal orders?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013611",
+            "S_ALR_87013558",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to allocate and track costs for the production of a product or service?",
+        "o": [
+            "Activity-Based Costing",
+            "Internal Order Accounting",
+            "Cost Center Allocation",
+            "Fixed Cost Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction helps in monitoring and adjusting the activity rates used for allocation?",
+        "o": [
+            "KSV2",
+            "KSV1",
+            "KSU5",
+            "KO88"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report allows the analysis of actual cost allocation for internal orders against the planned costs?",
+        "o": [
+            "S_ALR_87013611",
+            "S_ALR_87013612",
+            "S_ALR_87013558",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature helps in allocating costs from one cost center to another based on certain predefined rules?",
+        "o": [
+            "Cost Center Distribution",
+            "Internal Order Allocation",
+            "Activity-Based Costing",
+            "Profit Center Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to allocate overhead costs to different cost centers?",
+        "o": [
+            "KSV1",
+            "KSU2",
+            "KSU3",
+            "KO88"
+        ]
+    },
+    {
+        "q": "In SAP CO, which functionality enables cost allocation based on predefined activity rates?",
+        "o": [
+            "Activity-Based Costing",
+            "Cost Center Accounting",
+            "Internal Order Accounting",
+            "Fixed Cost Allocation"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality allows tracking of costs for a specific project or activity, such as construction or research?",
+        "o": [
+            "Internal Order Accounting",
+            "Cost Center Accounting",
+            "Activity-Based Costing",
+            "Profit Center Accounting"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report shows a detailed analysis of cost center performance against budgeted values?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013558"
+        ]
+    },
+    {
+        "q": "In SAP CO, which functionality helps in allocating direct and indirect costs to specific products or services?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Center Accounting",
+            "Profit Center Accounting",
+            "Internal Order Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to plan and forecast costs for cost centers over a specific period?",
+        "o": [
+            "KP06",
+            "KP26",
+            "KSB1",
+            "S_ALR_87013612"
+        ]
+    },
+    {
+        "q": "In SAP CO, which functionality enables the allocation of expenses from multiple cost centers to a central one?",
+        "o": [
+            "Cost Center Allocation",
+            "Internal Order Settlement",
+            "Activity-Based Costing",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, what is the main use of the transaction 'S_ALR_87013612'?",
+        "o": [
+            "Cost center budget consumption report",
+            "Internal order cost analysis",
+            "Cost element allocation report",
+            "Activity-based costing overview"
+        ]
+    },
+    {
+        "q": "Which SAP CO feature allows you to allocate costs based on the consumption of activities like machine hours or labor?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Center Accounting",
+            "Internal Order Accounting",
+            "Profit Center Accounting"
+        ]
+    },
+    {
+        "q": "In SAP CO, which functionality is used to manage the allocation of indirect costs across various cost centers or internal orders?",
+        "o": [
+            "Overhead Cost Allocation",
+            "Cost Center Distribution",
+            "Activity-Based Costing",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "Which report in SAP CO provides a detailed comparison between planned and actual costs for internal orders?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013611",
+            "S_ALR_87013558",
+            "S_ALR_87013612"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used to define the structure of a cost center?",
+        "o": [
+            "KS01",
+            "KS02",
+            "KS03",
+            "KSB1"
+        ]
+    },
+    {
+        "q": "Which report in SAP CO shows the activity cost rates for internal orders or cost centers?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013558"
+        ]
+    },
+    {
+        "q": "In SAP CO, which functionality allows you to plan costs for internal orders over multiple periods?",
+        "o": [
+            "Internal Order Planning",
+            "Cost Center Budgeting",
+            "Activity-Based Costing",
+            "Profit Center Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which transaction is used for internal order settlement and transfer of costs?",
+        "o": [
+            "KO88",
+            "KO02",
+            "KO01",
+            "S_ALR_87013612"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report helps to monitor the status of cost allocation for internal orders?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013558"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction is used to manage budget planning and forecasting for cost centers?",
+        "o": [
+            "KP06",
+            "KP26",
+            "KSB1",
+            "S_ALR_87013612"
+        ]
+    },
+    {
+        "q": "In SAP CO, what is the main purpose of the 'Activity-Based Costing (ABC)' method?",
+        "o": [
+            "Allocating costs based on activities performed",
+            "Allocating overhead costs to cost centers",
+            "Tracking costs for internal orders",
+            "Budgeting costs for profit centers"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality supports the management and tracking of fixed costs such as rent and depreciation?",
+        "o": [
+            "Fixed Cost Allocation",
+            "Activity-Based Costing",
+            "Cost Center Accounting",
+            "Profit Center Accounting"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report is used to compare actual and planned costs for activity types?",
+        "o": [
+            "S_ALR_87013615",
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013558"
+        ]
+    },
+    {
+        "q": "In SAP CO, which method is used for allocating costs based on activity consumption like labor or machine hours?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Center Accounting",
+            "Profit Center Accounting",
+            "Internal Order Accounting"
+        ]
+    },
+    {
+        "q": "In SAP CO, which functionality allows you to track revenues and expenses for a specific product line or market?",
+        "o": [
+            "Profit Center Accounting",
+            "Cost Center Accounting",
+            "Internal Order Accounting",
+            "Activity-Based Costing"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps in analyzing the profitability of cost centers and internal orders?",
+        "o": [
+            "S_ALR_87013616",
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report is used to display the planned and actual cost comparison for activity allocation?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013614",
+            "S_ALR_87013615",
+            "S_ALR_87013613"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature allows the collection of indirect costs based on actual activity performed?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Center Accounting",
+            "Profit Center Accounting",
+            "Internal Order Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP CO report is used to track and analyze cost elements by internal orders?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013615",
+            "S_ALR_87013612",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "Which SAP CO functionality is used to perform an overall assessment of profitability for a cost center or internal order?",
+        "o": [
+            "Profitability Analysis (CO-PA)",
+            "Cost Center Accounting",
+            "Internal Order Accounting",
+            "Activity-Based Costing (ABC)"
+        ]
+    },
+    {
+        "q": "In SAP CO, which method helps in distributing costs to multiple cost centers based on predefined criteria?",
+        "o": [
+            "Cost Center Distribution",
+            "Activity-Based Costing (ABC)",
+            "Profit Center Allocation",
+            "Internal Order Allocation"
+        ]
+    },
+    {
+        "q": "In SAP CO, which functionality allows detailed planning and allocation of costs to various internal activities?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Center Accounting",
+            "Profit Center Accounting",
+            "Internal Order Accounting"
+        ]
+    },
+    {
+        "q": "In SAP CO, which feature allows you to control and analyze budget performance at both cost center and profit center levels?",
+        "o": [
+            "Budgeting and Forecasting",
+            "Activity-Based Costing",
+            "Internal Order Accounting",
+            "Cost Center Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP CO transaction allows you to plan and control costs associated with cost centers and internal orders?",
+        "o": [
+            "KP06",
+            "KP26",
+            "S_ALR_87013612",
+            "S_ALR_87013615"
+        ]
+    },
+    {
+        "q": "Which report in SAP CO helps to monitor actual and planned costs for internal orders and cost centers?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013615"
+        ]
+    },
+    {
+        "q": "In SAP CO, which functionality helps in allocating costs to various cost centers based on the type of activity or resource consumed?",
+        "o": [
+            "Activity-Based Costing (ABC)",
+            "Cost Center Accounting",
+            "Profit Center Accounting",
+            "Internal Order Accounting"
+        ]
+    },
+    {
+        "q": "Which SAP CO report helps you to assess the performance of cost centers in relation to planned expenses?",
+        "o": [
+            "S_ALR_87013613",
+            "S_ALR_87013615",
+            "S_ALR_87013612",
+            "S_ALR_87013614"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report provides an overview of the distribution and allocation of costs among different cost centers?",
+        "o": [
+            "S_ALR_87013612",
+            "S_ALR_87013613",
+            "S_ALR_87013614",
+            "S_ALR_87013615"
+        ]
+    },
+    {
+        "q": "In SAP CO, which functionality is used to plan and distribute costs of activities across different internal orders or cost centers?",
+        "o": [
+            "Cost Distribution",
+            "Activity-Based Costing",
+            "Internal Order Accounting",
+            "Cost Center Accounting"
+        ]
+    },
+    {
+        "q": "In SAP CO, which report helps you to compare the actual cost of activities with the planned cost in terms of cost elements?",
+        "o": [
+            "S_ALR_87013614",
+            "S_ALR_87013613",
+            "S_ALR_87013615",
+            "S_ALR_87013612"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of Cost Element Accounting in SAP CO?", 
+        "o": [
+            "To track and manage costs by type",
+            "To allocate costs to cost centers",
+            "To calculate product costs",
+            "To manage internal orders"
+        ]
+    },
+    {
+        "q": "Which of the following is a key function of Cost Center Accounting?", 
+        "o": [
+            "To monitor and control overhead costs",
+            "To calculate activity rates",
+            "To manage profit center performance",
+            "To allocate budgets to internal orders"
+        ]
+    },
+    {
+        "q": "What is the main purpose of Internal Orders in SAP CO?", 
+        "o": [
+            "To track costs for specific tasks or projects",
+            "To allocate costs to profit centers",
+            "To calculate activity-based costs",
+            "To manage budgeting and forecasting"
+        ]
+    },
+    {
+        "q": "Which of the following best describes Profit Center Accounting?", 
+        "o": [
+            "To evaluate the profitability of business segments",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity rates"
+        ]
+    },
+    {
+        "q": "What is the primary goal of Budgeting in SAP CO?", 
+        "o": [
+            "To plan and control expenditures",
+            "To allocate costs to cost elements",
+            "To calculate product costs",
+            "To manage internal orders"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Forecasting in SAP CO?", 
+        "o": [
+            "To predict future costs and revenues",
+            "To allocate costs to cost centers",
+            "To calculate activity-based costs",
+            "To manage profit center performance"
+        ]
+    },
+    {
+        "q": "What is the primary objective of Activity-Based Costing (ABC) in SAP CO?", 
+        "o": [
+            "To allocate overhead costs based on activities",
+            "To track costs for internal orders",
+            "To manage profit center accounting",
+            "To calculate product costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key benefit of using Activity-Based Costing (ABC)?", 
+        "o": [
+            "Improved accuracy in cost allocation",
+            "Simplified budgeting process",
+            "Better management of internal orders",
+            "Enhanced profit center reporting"
+        ]
+    },
+    {
+        "q": "In SAP CO, which master data is essential for Cost Center Accounting?", 
+        "o": [
+            "Cost Center Master Data",
+            "Profit Center Master Data",
+            "Internal Order Master Data",
+            "Activity Type Master Data"
+        ]
+    },
+    {
+        "q": "What is the role of Activity Types in SAP CO?", 
+        "o": [
+            "To define the types of activities performed in a cost center",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate product costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a characteristic of a Statistical Key Figure in SAP CO?", 
+        "o": [
+            "It is used for non-monetary data in cost allocation",
+            "It is used to calculate activity rates",
+            "It is used to track internal order costs",
+            "It is used for profit center reporting"
+        ]
+    },
+    {
+        "q": "What is the purpose of Assessment Cycles in SAP CO?", 
+        "o": [
+            "To allocate primary costs from sender to receiver cost centers",
+            "To calculate activity-based costs",
+            "To manage internal orders",
+            "To track profit center performance"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Internal Order Settlement in SAP CO?", 
+        "o": [
+            "It allocates costs from internal orders to cost objects",
+            "It calculates activity rates for cost centers",
+            "It manages profit center accounting",
+            "It tracks budgeting and forecasting"
+        ]
+    },
+    {
+        "q": "What is the primary use of Profitability Analysis (CO-PA) in SAP CO?", 
+        "o": [
+            "To analyze revenue and costs by market segments",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key component of Budgeting in SAP CO?", 
+        "o": [
+            "Budget Availability Control",
+            "Activity Type Planning",
+            "Cost Element Allocation",
+            "Profit Center Reporting"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Planning Layout in SAP CO?", 
+        "o": [
+            "To define the structure for planning data entry",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity rates"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Activity-Based Costing (ABC) in SAP CO?", 
+        "o": [
+            "It identifies cost drivers for activities",
+            "It allocates costs to profit centers",
+            "It manages internal orders",
+            "It tracks budgeting and forecasting"
+        ]
+    },
+    {
+        "q": "What is the role of a Cost Driver in Activity-Based Costing (ABC)?", 
+        "o": [
+            "To measure the frequency and intensity of activities",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate product costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key benefit of Profit Center Accounting?", 
+        "o": [
+            "It provides a clear view of profitability by business units",
+            "It simplifies cost center allocation",
+            "It manages internal orders",
+            "It calculates activity-based costs"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Distribution Cycle in SAP CO?", 
+        "o": [
+            "To allocate primary costs based on fixed percentages",
+            "To calculate activity rates",
+            "To manage internal orders",
+            "To track profit center performance"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Cost Element Accounting in SAP CO?", 
+        "o": [
+            "It categorizes costs by their nature (e.g., material, labor)",
+            "It allocates costs to cost centers",
+            "It manages internal orders",
+            "It calculates product costs"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of a Template in SAP CO Planning?", 
+        "o": [
+            "To standardize the planning process for cost centers",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Internal Order Budgeting?", 
+        "o": [
+            "It ensures costs do not exceed the allocated budget",
+            "It calculates activity rates",
+            "It manages profit center accounting",
+            "It tracks product costs"
+        ]
+    },
+    {
+        "q": "What is the role of a Primary Cost Element in SAP CO?", 
+        "o": [
+            "To track costs originating from external accounting (FI)",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key purpose of a Secondary Cost Element in SAP CO?", 
+        "o": [
+            "To track internal cost allocations",
+            "To manage profit center accounting",
+            "To calculate product costs",
+            "To track budgeting and forecasting"
+        ]
+    },
+    {
+        "q": "What is the primary use of a Cost Center Hierarchy in SAP CO?", 
+        "o": [
+            "To organize cost centers into a structured format",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Activity Price Calculation in SAP CO?", 
+        "o": [
+            "It determines the cost of activities based on activity rates",
+            "It allocates costs to profit centers",
+            "It manages internal orders",
+            "It tracks budgeting and forecasting"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Plan Assessment in SAP CO?", 
+        "o": [
+            "To allocate planned costs from sender to receiver cost centers",
+            "To calculate actual activity rates",
+            "To manage internal orders",
+            "To track profit center performance"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Cost Center Planning?", 
+        "o": [
+            "It involves forecasting costs and activities for cost centers",
+            "It allocates costs to profit centers",
+            "It manages internal orders",
+            "It calculates product costs"
+        ]
+    },
+    {
+        "q": "What is the role of a Commitment in SAP CO Budgeting?", 
+        "o": [
+            "To track future liabilities and reservations",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Internal Order Types in SAP CO?", 
+        "o": [
+            "They define the purpose and functionality of internal orders",
+            "They allocate costs to profit centers",
+            "They calculate activity rates",
+            "They manage cost center accounting"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Profit Center Standard Hierarchy in SAP CO?", 
+        "o": [
+            "To organize profit centers into a structured format",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Activity-Based Costing (ABC) in SAP CO?", 
+        "o": [
+            "It uses cost drivers to allocate overhead costs",
+            "It manages internal orders",
+            "It tracks profit center performance",
+            "It calculates product costs"
+        ]
+    },
+    {
+        "q": "What is the role of a Cost Object in SAP CO?", 
+        "o": [
+            "To track costs for specific products, services, or projects",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity rates"
+        ]
+    },
+    {
+        "q": "Which of the following is a key purpose of a Planning Package in SAP CO?", 
+        "o": [
+            "To group planning data for easier processing",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "What is the primary use of a Cost Center Group in SAP CO?", 
+        "o": [
+            "To simplify reporting and planning for multiple cost centers",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate activity rates"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Actual Assessment in SAP CO?", 
+        "o": [
+            "It allocates actual costs from sender to receiver cost centers",
+            "It calculates planned activity rates",
+            "It manages internal orders",
+            "It tracks profit center performance"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Statistical Internal Order in SAP CO?", 
+        "o": [
+            "To track non-relevant costs for reporting purposes",
+            "To allocate costs to cost centers",
+            "To manage profit center accounting",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Profitability Analysis (CO-PA)?", 
+        "o": [
+            "It provides detailed insights into revenue and cost structures",
+            "It allocates costs to cost centers",
+            "It manages internal orders",
+            "It calculates activity rates"
+        ]
+    },
+    {
+        "q": "What is the role of a Planning Version in SAP CO?", 
+        "o": [
+            "To store different sets of planning data for comparison",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Cost Center Allocation in SAP CO?", 
+        "o": [
+            "It distributes costs from sender to receiver cost centers",
+            "It calculates product costs",
+            "It manages internal orders",
+            "It tracks profit center performance"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Cost Element Group in SAP CO?", 
+        "o": [
+            "To simplify reporting and analysis of cost elements",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate activity rates"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Internal Order Settlement Rules?", 
+        "o": [
+            "They define how costs are allocated to receiver objects",
+            "They calculate activity rates",
+            "They manage profit center accounting",
+            "They track budgeting and forecasting"
+        ]
+    },
+    {
+        "q": "What is the role of a Planning Profile in SAP CO?", 
+        "o": [
+            "To define the parameters for planning activities",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Activity Input Planning in SAP CO?", 
+        "o": [
+            "It involves planning the consumption of activities by cost centers",
+            "It allocates costs to profit centers",
+            "It manages internal orders",
+            "It tracks product costs"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Cost Center Report in SAP CO?", 
+        "o": [
+            "To analyze costs and activities for cost centers",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Profit Center Planning?", 
+        "o": [
+            "It involves forecasting revenues and costs for profit centers",
+            "It allocates costs to cost centers",
+            "It manages internal orders",
+            "It calculates activity rates"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Cost Center Standard Hierarchy in SAP CO?", 
+        "o": [
+            "To organize cost centers into a structured format for reporting and planning",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Primary Cost Planning in SAP CO?", 
+        "o": [
+            "It involves planning costs that originate from external accounting (FI)",
+            "It allocates costs to profit centers",
+            "It manages internal orders",
+            "It calculates activity rates"
+        ]
+    },
+    {
+        "q": "What is the role of a Cost Element Hierarchy in SAP CO?", 
+        "o": [
+            "To group cost elements for structured reporting and analysis",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Internal Order Budget Carryforward?", 
+        "o": [
+            "It allows unused budget amounts to be carried forward to the next fiscal year",
+            "It calculates activity rates",
+            "It manages profit center accounting",
+            "It tracks product costs"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Profit Center Report in SAP CO?", 
+        "o": [
+            "To analyze revenues and costs for profit centers",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Activity Output Planning in SAP CO?", 
+        "o": [
+            "It involves planning the output of activities for cost centers",
+            "It allocates costs to profit centers",
+            "It manages internal orders",
+            "It tracks product costs"
+        ]
+    },
+    {
+        "q": "What is the role of a Statistical Key Figure in Cost Center Planning?", 
+        "o": [
+            "To include non-monetary data (e.g., headcount) in planning",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key purpose of a Cost Center Assessment Cycle?", 
+        "o": [
+            "To allocate primary costs from sender to receiver cost centers",
+            "To calculate activity rates",
+            "To manage internal orders",
+            "To track profit center performance"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Planning Hierarchy in SAP CO?", 
+        "o": [
+            "To structure planning data for cost centers or profit centers",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Internal Order Settlement to Profit Centers?", 
+        "o": [
+            "It allocates costs from internal orders to profit centers",
+            "It calculates activity rates",
+            "It manages cost center accounting",
+            "It tracks product costs"
+        ]
+    },
+    {
+        "q": "What is the role of a Cost Element in Activity-Based Costing (ABC)?", 
+        "o": [
+            "To categorize costs for allocation based on activities",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate product costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Profit Center Actual Postings?", 
+        "o": [
+            "It records actual revenues and costs for profit centers",
+            "It allocates costs to cost centers",
+            "It manages internal orders",
+            "To calculate activity rates"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Cost Center Distribution Cycle?", 
+        "o": [
+            "To allocate primary costs based on fixed percentages or keys",
+            "To calculate activity rates",
+            "To manage internal orders",
+            "To track profit center performance"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Internal Order Budgeting with Funds Management?", 
+        "o": [
+            "It integrates budgeting with funds availability checks",
+            "It calculates activity rates",
+            "It manages profit center accounting",
+            "It tracks product costs"
+        ]
+    },
+    {
+        "q": "What is the role of a Cost Center Activity Type in SAP CO?", 
+        "o": [
+            "To define the types of activities performed in a cost center",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To calculate product costs"
+        ]
+    },
+    {
+        "q": "Which of the following is a key purpose of a Profit Center Planning Layout?", 
+        "o": [
+            "To define the structure for profit center planning data entry",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Cost Center Activity Rate Calculation?", 
+        "o": [
+            "To determine the cost of activities based on planned costs and activity quantities",
+            "To allocate costs to profit centers",
+            "To manage internal orders",
+            "To track product costs"
+        ]
+    },
+    {
+        "q": "Which of the following is true about Internal Order Budget Monitoring?", 
+        "o": [
+            "It ensures costs do not exceed the allocated budget",
+            "It calculates activity rates",
+            "It manages profit center accounting",
+            "It tracks product costs"
+        ]
+    },
+    {
+        "q": "What is the role of a Profit Center Group in SAP CO?", 
+        "o": [
+            "To simplify reporting and planning for multiple profit centers",
+            "To allocate costs to cost centers",
+            "To manage internal orders",
+            "To calculate activity-based costs"
+        ]
+    }
+]

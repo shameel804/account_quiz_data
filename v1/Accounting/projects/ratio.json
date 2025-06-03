@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Liquidity Ratios - Current Ratio",
+    "ques": "What does the Current Ratio indicate, and how is it calculated?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The Current Ratio measures a company's ability to pay short-term obligations. It is calculated as:\n\n```Current Ratio = Current Assets / Current Liabilities```"
+    },
+    "explanation": "The ***Current Ratio*** is a key ***liquidity ratio*** that evaluates a company's short-term financial health.\n\n- The formula for the Current Ratio is:\n  ```Current Ratio = Current Assets / Current Liabilities```\n- ***Current Assets*** include cash, accounts receivable, and inventory.\n- ***Current Liabilities*** include accounts payable, short-term debt, and other obligations due within a year.\n- A ***higher ratio*** suggests a better ability to cover short-term debts, while a ***lower ratio*** may indicate liquidity issues."
+  },
+  {
+    "title": "Liquidity Ratios - Quick Ratio",
+    "ques": "How does the Quick Ratio differ from the Current Ratio, and why is it important?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The Quick Ratio, also known as the Acid-Test Ratio, measures liquidity without relying on inventory. It is calculated as:\n\n```Quick Ratio = (Current Assets - Inventory) / Current Liabilities```"
+    },
+    "explanation": "The ***Quick Ratio*** provides a stricter measure of liquidity compared to the ***Current Ratio***.\n\n- The formula is:\n  ```Quick Ratio = (Current Assets - Inventory) / Current Liabilities```\n- It excludes ***inventory*** because inventory may not be quickly converted into cash.\n- A ***higher Quick Ratio*** indicates strong short-term financial health, while a ***low ratio*** may signal liquidity problems."
+  },
+  {
+    "title": "Profitability Ratios - ROA",
+    "ques": "What does Return on Assets (ROA) measure, and how is it calculated?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "ROA measures a company's efficiency in using assets to generate profit. It is calculated as:\n\n```ROA = Net Income / Total Assets```"
+    },
+    "explanation": "The ***Return on Assets (ROA)*** ratio helps assess how effectively a company uses its assets to generate profit.\n\n- The formula is:\n  ```ROA = Net Income / Total Assets```\n- ***Net Income*** represents the company's total earnings after expenses.\n- ***Total Assets*** include everything the company owns, such as cash, inventory, and property.\n- A ***higher ROA*** indicates better efficiency in utilizing assets for profit generation."
+  },
+  {
+    "title": "Profitability Ratios - ROE",
+    "ques": "What does Return on Equity (ROE) indicate, and how is it calculated?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "ROE measures a company's profitability relative to shareholders' equity. It is calculated as:\n\n```ROE = Net Income / Shareholders' Equity```"
+    },
+    "explanation": "The ***Return on Equity (ROE)*** ratio evaluates profitability from shareholders' perspective.\n\n- The formula is:\n  ```ROE = Net Income / Shareholders' Equity```\n- ***Net Income*** represents the company's profit after expenses.\n- ***Shareholders' Equity*** includes retained earnings and contributed capital.\n- A ***higher ROE*** means the company is efficiently using shareholders' investments to generate profit."
+  },
+  {
+    "title": "Profitability Ratios - Gross Margin",
+    "ques": "How is Gross Margin calculated, and why is it important?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Gross Margin represents the percentage of revenue remaining after deducting the cost of goods sold (COGS). It is calculated as:\n\n```Gross Margin = (Revenue - COGS) / Revenue * 100```"
+    },
+    "explanation": "The ***Gross Margin*** ratio indicates how efficiently a company produces goods and services.\n\n- The formula is:\n  ```Gross Margin = (Revenue - COGS) / Revenue * 100```\n- ***Revenue*** is the total income from sales.\n- ***COGS (Cost of Goods Sold)*** includes direct costs like materials and labor.\n- A ***higher Gross Margin*** means the company retains more profit per dollar of revenue."
+  },
+  {
+    "title": "Solvency Ratios - Debt-to-Equity",
+    "ques": "What does the Debt-to-Equity Ratio indicate, and how is it calculated?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The Debt-to-Equity Ratio measures financial leverage and risk. It is calculated as:\n\n```Debt-to-Equity Ratio = Total Liabilities / Shareholders' Equity```"
+    },
+    "explanation": "The ***Debt-to-Equity Ratio*** shows how much debt a company uses relative to shareholders' equity.\n\n- The formula is:\n  ```Debt-to-Equity Ratio = Total Liabilities / Shareholders' Equity```\n- ***Total Liabilities*** include all company debts.\n- ***Shareholders' Equity*** represents owners' investments and retained earnings.\n- A ***higher ratio*** indicates greater financial risk, while a ***lower ratio*** suggests a more stable financial position."
+  },
+  {
+    "title": "Efficiency Ratios - Asset Turnover",
+    "ques": "What does the Asset Turnover Ratio measure, and how is it calculated?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Asset Turnover measures how efficiently a company uses assets to generate sales. It is calculated as:\n\n```Asset Turnover Ratio = Net Sales / Total Assets```"
+    },
+    "explanation": "The ***Asset Turnover Ratio*** assesses how effectively a company utilizes assets to generate revenue.\n\n- The formula is:\n  ```Asset Turnover Ratio = Net Sales / Total Assets```\n- ***Net Sales*** represent revenue after returns and discounts.\n- ***Total Assets*** include all company-owned resources.\n- A ***higher ratio*** indicates better asset utilization for revenue generation."
+  },
+  {
+    "title": "Liquidity Ratios - Current Ratio Interpretation",
+    "ques": "A company has current assets worth $120,000 and current liabilities of $80,000. What is its Current Ratio, and what does it indicate?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The Current Ratio is calculated as:\n\n```Current Ratio = Current Assets / Current Liabilities```\n```Current Ratio = 120,000 / 80,000 = 1.5```"
+    },
+    "explanation": "The ***Current Ratio*** measures a company's short-term liquidity.\n\n- Applying the formula:\n  ```Current Ratio = 120,000 / 80,000 = 1.5```\n- A ***Current Ratio of 1.5*** means the company has $1.50 in current assets for every $1.00 in liabilities.\n- Generally, a ratio above ***1.0*** is good, but too high a ratio may indicate inefficient asset utilization."
+  },
+  {
+    "title": "Liquidity Ratios - Quick Ratio Scenario",
+    "ques": "A company has the following financial data:\n- Current Assets: $200,000\n- Inventory: $50,000\n- Current Liabilities: $120,000\nWhat is its Quick Ratio?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The Quick Ratio is calculated as:\n\n```Quick Ratio = (Current Assets - Inventory) / Current Liabilities```\n```Quick Ratio = (200,000 - 50,000) / 120,000 = 1.25```"
+    },
+    "explanation": "The ***Quick Ratio*** removes inventory to assess liquid assets.\n\n- Using the formula:\n  ```Quick Ratio = (200,000 - 50,000) / 120,000 = 1.25```\n- A ***Quick Ratio of 1.25*** means the company has $1.25 in liquid assets per $1.00 in short-term liabilities.\n- A ratio above ***1.0*** is usually considered healthy, as it shows the company can meet obligations without selling inventory."
+  },
+  {
+    "title": "Profitability Ratios - ROA Comparison",
+    "ques": "Company A has a net income of $50,000 and total assets of $500,000. Company B has a net income of $75,000 and total assets of $900,000. Which company has a higher Return on Assets (ROA)?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "ROA is calculated as:\n\n```ROA = Net Income / Total Assets```\n\nCompany A:\n```ROA = 50,000 / 500,000 = 0.10 (10%)```\n\nCompany B:\n```ROA = 75,000 / 900,000 = 0.083 (8.3%)```\n\nCompany A has a higher ROA (10%) compared to Company B (8.3%)."
+    },
+    "explanation": "The ***Return on Assets (ROA)*** shows how efficiently a company uses assets.\n\n- Calculating for Company A:\n  ```ROA = 50,000 / 500,000 = 0.10 (10%)```\n- Calculating for Company B:\n  ```ROA = 75,000 / 900,000 = 0.083 (8.3%)```\n- Since ***Company A has a higher ROA (10%)***, it generates more profit per dollar of assets compared to ***Company B (8.3%)***."
+  },
+  {
+    "title": "Profitability Ratios - ROE Analysis",
+    "ques": "A company reports a net income of $120,000 and shareholders' equity of $600,000. What is its Return on Equity (ROE), and what does it indicate?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "ROE is calculated as:\n\n```ROE = Net Income / Shareholders' Equity```\n```ROE = 120,000 / 600,000 = 0.20 (20%)```"
+    },
+    "explanation": "The ***Return on Equity (ROE)*** measures profitability relative to equity.\n\n- Using the formula:\n  ```ROE = 120,000 / 600,000 = 0.20 (20%)```\n- A ***ROE of 20%*** means the company earns $0.20 for every $1.00 invested by shareholders.\n- A ***higher ROE*** suggests strong profitability and efficient use of equity."
+  },
+  {
+    "title": "Solvency Ratios - Debt-to-Equity Calculation",
+    "ques": "A company has total liabilities of $400,000 and shareholders' equity of $800,000. Calculate its Debt-to-Equity Ratio and interpret the result.",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The Debt-to-Equity Ratio is calculated as:\n\n```Debt-to-Equity Ratio = Total Liabilities / Shareholders' Equity```\n```Debt-to-Equity Ratio = 400,000 / 800,000 = 0.5```"
+    },
+    "explanation": "The ***Debt-to-Equity Ratio*** measures a company's leverage.\n\n- Using the formula:\n  ```Debt-to-Equity Ratio = 400,000 / 800,000 = 0.5```\n- A ***Debt-to-Equity Ratio of 0.5*** means the company has $0.50 of debt for every $1.00 of equity.\n- A ***lower ratio*** indicates lower financial risk, while a ***higher ratio*** may signal over-reliance on debt."
+  },
+  {
+    "title": "Efficiency Ratios - Asset Turnover Application",
+    "ques": "A company's total sales revenue is $1,000,000, and total assets are $500,000. What is its Asset Turnover Ratio, and what does it indicate?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The Asset Turnover Ratio is calculated as:\n\n```Asset Turnover Ratio = Net Sales / Total Assets```\n```Asset Turnover Ratio = 1,000,000 / 500,000 = 2.0```"
+    },
+    "explanation": "The ***Asset Turnover Ratio*** shows how efficiently a company uses its assets.\n\n- Using the formula:\n  ```Asset Turnover Ratio = 1,000,000 / 500,000 = 2.0```\n- A ***ratio of 2.0*** means the company generates $2.00 in sales per $1.00 of assets.\n- A ***higher ratio*** suggests efficient asset utilization, while a ***lower ratio*** may indicate underutilization."
+  },
+  {
+    "title": "Liquidity Ratios - Current Ratio Benchmarking",
+    "ques": "Company A has a Current Ratio of 2.5, while Company B has a Current Ratio of 1.2. Which company is in a better liquidity position, and why?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Company A has a better liquidity position because its Current Ratio of 2.5 indicates that it has more current assets relative to its liabilities compared to Company B, which has a Current Ratio of 1.2."
+    },
+    "explanation": "The ***Current Ratio*** measures a company’s ability to cover short-term liabilities.\n\n- Company A: ```Current Ratio = 2.5``` (Strong liquidity)\n- Company B: ```Current Ratio = 1.2``` (Lower liquidity, but still above 1.0)\n- A ***higher ratio*** is usually favorable, but a ratio too high (above 3) may indicate inefficient asset usage."
+  },
+  {
+    "title": "Liquidity Ratios - Quick Ratio vs. Current Ratio",
+    "ques": "A company has a Current Ratio of 1.8 and a Quick Ratio of 0.9. What does this indicate about its reliance on inventory for short-term liquidity?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Since the Quick Ratio (0.9) is significantly lower than the Current Ratio (1.8), this indicates that a large portion of the company's current assets is tied up in inventory, making it less liquid."
+    },
+    "explanation": "The ***Quick Ratio*** excludes inventory from current assets.\n\n- ***Current Ratio (1.8)*** includes all current assets, suggesting good liquidity.\n- ***Quick Ratio (0.9)*** is much lower, indicating that without inventory, the company may struggle to pay liabilities.\n- If a company has a much lower ***Quick Ratio*** than its ***Current Ratio***, it is ***heavily reliant on inventory*** for liquidity."
+  },
+  {
+    "title": "Profitability Ratios - Gross Margin Calculation",
+    "ques": "A company reports total revenue of $500,000 and cost of goods sold (COGS) of $300,000. Calculate the Gross Margin Ratio.",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The Gross Margin Ratio is calculated as:\n\n```Gross Margin Ratio = (Revenue - COGS) / Revenue```\n```Gross Margin Ratio = (500,000 - 300,000) / 500,000 = 0.40 (40%)```"
+    },
+    "explanation": "The ***Gross Margin Ratio*** measures profitability after accounting for production costs.\n\n- Using the formula:\n  ```Gross Margin Ratio = (500,000 - 300,000) / 500,000 = 0.40 (40%)```\n- A ***40% Gross Margin*** means the company retains $0.40 from every $1.00 of sales after covering production costs.\n- Higher ***gross margins*** indicate efficient cost control and profitability."
+  },
+  {
+    "title": "Profitability Ratios - ROE vs. ROA",
+    "ques": "Company X has an ROE of 15%, while Company Y has an ROE of 10%. However, Company Y has a higher ROA than Company X. What could explain this difference?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The difference may be due to Company X having higher financial leverage (more debt), which increases ROE but reduces ROA due to higher liabilities reducing asset efficiency."
+    },
+    "explanation": "The ***Return on Equity (ROE)*** and ***Return on Assets (ROA)*** measure profitability from different perspectives.\n\n- ***ROE (15%)*** for Company X suggests strong profitability for shareholders.\n- ***ROE (10%)*** for Company Y is lower, but it has a higher ***ROA***.\n- If ROA is higher in Company Y, it likely has ***lower debt levels***, meaning it relies less on leverage than Company X.\n- Higher debt boosts ***ROE*** but can ***reduce ROA*** due to higher liabilities."
+  },
+  {
+    "title": "Solvency Ratios - Debt-to-Equity Ratio Comparison",
+    "ques": "Company A has a Debt-to-Equity Ratio of 2.0, while Company B has a Debt-to-Equity Ratio of 0.5. Which company has higher financial risk and why?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Company A has a higher financial risk because its Debt-to-Equity Ratio of 2.0 means it has $2.00 of debt for every $1.00 of equity, indicating high reliance on borrowed funds."
+    },
+    "explanation": "The ***Debt-to-Equity Ratio*** shows how much debt a company uses compared to equity.\n\n- Company A: ```Debt-to-Equity = 2.0``` (High debt, higher financial risk)\n- Company B: ```Debt-to-Equity = 0.5``` (Low debt, lower financial risk)\n- A ***higher ratio*** indicates ***higher financial leverage***, increasing risk, especially if earnings fluctuate.\n- A ***lower ratio*** suggests ***more conservative financial management***."
+  },
+  {
+    "title": "Efficiency Ratios - Asset Turnover Trend",
+    "ques": "A company's Asset Turnover Ratio decreased from 2.5 to 1.8 over three years. What could be possible reasons for this decline?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Possible reasons for the decline:\n1. Increase in total assets without a corresponding increase in sales.\n2. Decline in sales revenue due to market conditions.\n3. Inefficient utilization of assets, leading to underperformance."
+    },
+    "explanation": "The ***Asset Turnover Ratio*** measures how efficiently a company uses assets to generate revenue.\n\n- A decline from ***2.5 to 1.8*** suggests reduced efficiency.\n- ***Possible causes:***\n  - If ***total assets increased*** but revenue did not, efficiency dropped.\n  - If ***sales revenue fell***, asset turnover would decline.\n  - Inefficient asset utilization could mean ***excess inventory, underused equipment, or expansion without sufficient sales growth***."
+  },
+  {
+    "title": "Efficiency Ratios - Inventory Turnover Interpretation",
+    "ques": "Company A has an Inventory Turnover Ratio of 8, while Company B has a ratio of 3. Which company manages inventory more efficiently, and why?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Company A manages inventory more efficiently because its Inventory Turnover Ratio of 8 means it sells and replaces inventory more frequently compared to Company B, which has a ratio of 3."
+    },
+    "explanation": "The ***Inventory Turnover Ratio*** shows how many times inventory is sold and replaced in a period.\n\n- Company A: ```Inventory Turnover = 8``` (Sells inventory 8 times per year, efficient management)\n- Company B: ```Inventory Turnover = 3``` (Sells inventory only 3 times per year, slower turnover)\n- ***Higher turnover*** suggests efficient inventory management, reducing storage costs.\n- ***Lower turnover*** may indicate slow-moving stock or excess inventory."
+  }
+]

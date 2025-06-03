@@ -1,0 +1,102 @@
+[
+  {
+    "title": "General Ledger Posting",
+    "ques": "What is the purpose of the General Ledger (GL) in SAP Financial Accounting?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The General Ledger (GL) serves as the central repository for all financial transactions in SAP, ensuring accurate financial reporting and compliance."
+    },
+    "explanation": "***General Ledger (GL)*** is a core component of SAP FI that records all financial transactions in a structured manner.\n\n- ***Purpose***: It ensures proper financial reporting by maintaining complete and accurate records of all transactions.\n- ***Components***: Includes chart of accounts, company codes, and posting periods.\n- ***Integration***: GL integrates with AP, AR, and other SAP modules for seamless accounting operations."
+  },
+  {
+    "title": "Accounts Payable Process",
+    "ques": "What are the key steps involved in processing an Accounts Payable (AP) invoice in SAP?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The key steps in processing an AP invoice in SAP include: Invoice Entry, Invoice Verification, Payment Processing, and Reporting."
+    },
+    "explanation": "- ***Invoice Entry***: Vendors submit invoices, and they are entered using `FB60` (without PO) or `MIRO` (with PO).\n- ***Invoice Verification***: System checks for discrepancies between invoice, purchase order, and goods receipt.\n- ***Payment Processing***: Payments are scheduled using transaction `F110` for automatic payments.\n- ***Reporting***: AP reports are generated for audit and compliance purposes."
+  },
+  {
+    "title": "Accounts Receivable Aging Report",
+    "ques": "How can you generate an Accounts Receivable Aging Report in SAP?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "You can generate an AR Aging Report in SAP using transaction code `S_ALR_87012168`."
+    },
+    "explanation": "- ***AR Aging Report*** provides an overview of outstanding customer invoices categorized by aging periods (e.g., 30 days, 60 days, 90 days).\n- ***Transaction Code***: Run `S_ALR_87012168` to generate the report.\n- ***Filters***: You can filter by company code, customer, and due date.\n- ***Use Case***: Helps in credit control and cash flow management."
+  },
+  {
+    "title": "Asset Depreciation Calculation",
+    "ques": "How is asset depreciation calculated in SAP Asset Accounting (AA)?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP calculates asset depreciation using predefined depreciation keys, considering factors like useful life and asset value."
+    },
+    "explanation": "- ***Depreciation Calculation*** is based on the asset's acquisition cost, useful life, and depreciation method.\n- ***Transaction Code***: Depreciation run is executed using `AFAB`.\n- ***Depreciation Keys***: Define the calculation method (e.g., straight-line, declining balance).\n- ***Reporting***: Depreciation values are posted in the GL for financial reporting."
+  },
+  {
+    "title": "Bank Reconciliation Process",
+    "ques": "How do you perform bank reconciliation in SAP?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Bank reconciliation in SAP is performed using transaction code `FF67` (manual) or `FEBA` (electronic)."
+    },
+    "explanation": "- ***Bank Reconciliation*** ensures that bank statements match SAP financial records.\n- ***Manual Entry (`FF67`)***: Users manually enter bank statements and match them with SAP records.\n- ***Electronic Bank Reconciliation (`FEBA`)***: Automated process using bank statement uploads.\n- ***Clearing Transactions***: System automatically clears matched items and highlights discrepancies."
+  },
+  {
+    "title": "GL Document Splitting",
+    "ques": "What is document splitting in SAP General Ledger (GL) Accounting, and why is it used?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Document splitting in SAP GL ensures financial statements are properly balanced at the segment or profit center level by automatically breaking down accounting entries."
+    },
+    "explanation": "- ***Document Splitting*** allows detailed financial reporting by ensuring that line items are divided across different dimensions (e.g., cost centers, profit centers).\n- ***Transaction Code***: Configuration is done in `SPRO` under GL settings.\n- ***Use Case***: Helps in segment reporting for legal compliance and business analysis."
+  },
+  {
+    "title": "Withholding Tax in Accounts Payable",
+    "ques": "How does SAP handle withholding tax in Accounts Payable transactions?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP calculates and deducts withholding tax at the time of invoice posting or payment using tax codes defined in the vendor master."
+    },
+    "explanation": "- ***Withholding Tax (WHT)*** is applied when payments are made to vendors, based on tax laws.\n- ***Configuration***: WHT codes and rates are set in `SPRO`.\n- ***Invoice Posting***: SAP automatically calculates WHT when an invoice is entered (`FB60`, `MIRO`).\n- ***Reporting***: Tax amounts are reported using `S_ALR_87012357`."
+  },
+  {
+    "title": "Automatic Clearing in Accounts Receivable",
+    "ques": "How does SAP handle automatic clearing of open items in Accounts Receivable?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP automatically clears open AR items when matching payments are received using transaction code `F.13`."
+    },
+    "explanation": "- ***Automatic Clearing*** helps in reducing manual reconciliation efforts by matching incoming payments with open invoices.\n- ***Transaction Code***: `F.13` is used for automatic clearing based on predefined criteria (customer, amount, due date).\n- ***Preconditions***: Open items must have clear assignment fields (e.g., reference, invoice number).\n- ***Advantages***: Reduces outstanding receivables and improves financial accuracy."
+  },
+  {
+    "title": "Asset Retirement in Asset Accounting",
+    "ques": "How do you record the retirement of a fixed asset in SAP Asset Accounting?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "An asset retirement is posted in SAP using transaction code `ABAVN` (without revenue) or `ABAON` (with revenue)."
+    },
+    "explanation": "- ***Asset Retirement*** is recorded when an asset is sold, scrapped, or transferred.\n- ***Transaction Codes***:\n  - `ABAVN`: Retirement without revenue (scrapping).\n  - `ABAON`: Retirement with revenue (sale of asset).\n- ***Effect***: The asset's value is removed from the balance sheet, and any revenue/loss is posted in GL.\n- ***Reporting***: Asset disposal reports can be viewed in `S_ALR_87011990`."
+  },
+  {
+    "title": "Bank Statement Processing in SAP",
+    "ques": "What are the different types of bank statement processing methods available in SAP?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP provides manual (`FF67`), electronic (`FEBA`), and automatic (`FEBAN`) bank statement processing methods."
+    },
+    "explanation": "- ***Bank Statement Processing*** is used to reconcile bank transactions with SAP financial records.\n- ***Methods***:\n  - `FF67`: Manual bank statement entry.\n  - `FEBA`: Electronic bank statement processing (MT940 format).\n  - `FEBAN`: Automatic bank statement reconciliation.\n- ***Advantages***: Reduces manual effort, ensures accuracy, and improves financial reporting."
+  }
+]
