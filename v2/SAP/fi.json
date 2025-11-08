@@ -1,0 +1,3683 @@
+[
+    {
+        "q": "What is the main purpose of General Ledger (GL) Accounting in SAP?",
+        "o": [
+            "To record all business transactions",
+            "To manage customer invoices",
+            "To track asset depreciation",
+            "To process vendor payments"
+        ]
+    },
+    {
+        "q": "Which document type is commonly used for general ledger postings?",
+        "o": [
+            "SA",
+            "KR",
+            "DZ",
+            "AB"
+        ]
+    },
+    {
+        "q": "What is the purpose of the reconciliation account in Accounts Payable (AP)?",
+        "o": [
+            "To summarize transactions for the general ledger",
+            "To process payments to vendors",
+            "To manage incoming customer payments",
+            "To track asset values"
+        ]
+    },
+    {
+        "q": "In Accounts Receivable (AR), which transaction is used to clear open customer invoices?",
+        "o": [
+            "F-28",
+            "F-53",
+            "FB50",
+            "F-02"
+        ]
+    },
+    {
+        "q": "What does Asset Accounting (AA) primarily focus on?",
+        "o": [
+            "Tracking fixed assets",
+            "Managing customer invoices",
+            "Recording bank transactions",
+            "Processing vendor payments"
+        ]
+    },
+    {
+        "q": "Which transaction code is used for asset acquisition in SAP?",
+        "o": [
+            "F-90",
+            "FB60",
+            "F-28",
+            "F-48"
+        ]
+    },
+    {
+        "q": "What is the purpose of bank reconciliation in SAP?",
+        "o": [
+            "To match bank statements with SAP records",
+            "To process vendor payments",
+            "To record fixed asset values",
+            "To generate financial statements"
+        ]
+    },
+    {
+        "q": "Which transaction is used for manual bank reconciliation in SAP?",
+        "o": [
+            "FF67",
+            "F-53",
+            "F-28",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP module is integrated with General Ledger (GL) for financial reporting?",
+        "o": [
+            "Controlling (CO)",
+            "Materials Management (MM)",
+            "Sales and Distribution (SD)",
+            "Production Planning (PP)"
+        ]
+    },
+    {
+        "q": "What type of account is a reconciliation account in SAP?",
+        "o": [
+            "Balance sheet account",
+            "Profit and loss account",
+            "Statistical account",
+            "Clearing account"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to display General Ledger (GL) balances?",
+        "o": [
+            "FS10N",
+            "FB50",
+            "F-02",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which document type is used for customer invoices in Accounts Receivable (AR)?",
+        "o": [
+            "DR",
+            "DZ",
+            "KR",
+            "SA"
+        ]
+    },
+    {
+        "q": "What is the purpose of the FBL1N transaction in SAP?",
+        "o": [
+            "To display vendor line items",
+            "To create a customer invoice",
+            "To post a bank payment",
+            "To manage asset depreciation"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for automatic payment runs in Accounts Payable (AP)?",
+        "o": [
+            "F110",
+            "FB60",
+            "F-53",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which depreciation method is commonly used in SAP Asset Accounting (AA)?",
+        "o": [
+            "Straight-line depreciation",
+            "Double-declining balance",
+            "Sum-of-the-years' digits",
+            "Units of production"
+        ]
+    },
+    {
+        "q": "Which transaction is used to retire an asset in SAP Asset Accounting (AA)?",
+        "o": [
+            "ABAVN",
+            "F-90",
+            "AS01",
+            "FB60"
+        ]
+    },
+    {
+        "q": "What is the purpose of a House Bank in SAP Bank Accounting?",
+        "o": [
+            "To define bank accounts used by the company",
+            "To process vendor payments",
+            "To reconcile customer payments",
+            "To manage petty cash transactions"
+        ]
+    },
+    {
+        "q": "Which transaction is used to display a bank statement in SAP?",
+        "o": [
+            "FF67",
+            "FBL1N",
+            "FS10N",
+            "F110"
+        ]
+    },
+    {
+        "q": "What is the key purpose of the Financial Statement Version (FSV) in SAP?",
+        "o": [
+            "To structure financial reports",
+            "To process payments",
+            "To manage fixed assets",
+            "To handle customer invoices"
+        ]
+    },
+    {
+        "q": "Which SAP module is tightly integrated with Asset Accounting (AA)?",
+        "o": [
+            "Plant Maintenance (PM)",
+            "Sales and Distribution (SD)",
+            "Materials Management (MM)",
+            "Warehouse Management (WM)"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to view Accounts Payable (AP) balances?",
+        "o": [
+            "FBL1N",
+            "FBL5N",
+            "FS10N",
+            "FB50"
+        ]
+    },
+    {
+        "q": "What is the main function of Automatic Account Determination in SAP?",
+        "o": [
+            "To assign correct GL accounts for transactions",
+            "To create financial statements",
+            "To process depreciation",
+            "To generate customer invoices"
+        ]
+    },
+    {
+        "q": "Which transaction is used to define a new asset master record in SAP?",
+        "o": [
+            "AS01",
+            "F-90",
+            "FB60",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'F-53' transaction in SAP?",
+        "o": [
+            "To post a manual vendor payment",
+            "To create a customer invoice",
+            "To process asset depreciation",
+            "To generate financial reports"
+        ]
+    },
+    {
+        "q": "Which SAP component is responsible for managing intercompany transactions?",
+        "o": [
+            "General Ledger (GL)",
+            "Accounts Payable (AP)",
+            "Asset Accounting (AA)",
+            "Bank Accounting"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to post a general ledger document in SAP?",
+        "o": [
+            "FB50",
+            "FBL3N",
+            "F-53",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which field in SAP General Ledger (GL) defines whether an account is a balance sheet or a profit and loss account?",
+        "o": [
+            "Account Group",
+            "Chart of Accounts",
+            "Document Type",
+            "Company Code"
+        ]
+    },
+    {
+        "q": "Which report is used to analyze open and cleared items for a vendor in SAP?",
+        "o": [
+            "FBL1N",
+            "FBL5N",
+            "F-28",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for credit memo processing in Accounts Payable (AP)?",
+        "o": [
+            "FB65",
+            "F-53",
+            "F-02",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP component is used to manage foreign currency valuation for open items?",
+        "o": [
+            "General Ledger (GL)",
+            "Accounts Payable (AP)",
+            "Accounts Receivable (AR)",
+            "Bank Accounting"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to manage recurring entries in SAP GL Accounting?",
+        "o": [
+            "FBD1",
+            "FB60",
+            "F110",
+            "FS10N"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Special G/L transaction in SAP?",
+        "o": [
+            "To track advance payments and down payments",
+            "To post bank reconciliation entries",
+            "To create financial statements",
+            "To manage fixed asset acquisitions"
+        ]
+    },
+    {
+        "q": "Which transaction is used to create a customer master record in SAP?",
+        "o": [
+            "FD01",
+            "FK01",
+            "FS10N",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which document type is used for vendor credit memos in SAP Accounts Payable?",
+        "o": [
+            "KG",
+            "KR",
+            "SA",
+            "DZ"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post depreciation in Asset Accounting (AA)?",
+        "o": [
+            "AFAB",
+            "F-90",
+            "FB60",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which type of account is required for bank reconciliation in SAP?",
+        "o": [
+            "Clearing account",
+            "Reconciliation account",
+            "Cost element account",
+            "Profit and loss account"
+        ]
+    },
+    {
+        "q": "Which SAP module is used for managing direct and indirect cash flows?",
+        "o": [
+            "Treasury Management",
+            "Asset Accounting",
+            "General Ledger",
+            "Accounts Payable"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to reverse a document in SAP?",
+        "o": [
+            "FB08",
+            "F-28",
+            "F-53",
+            "FS10N"
+        ]
+    },
+    {
+        "q": "What is the function of the OBYC transaction in SAP?",
+        "o": [
+            "Automatic account determination for MM transactions",
+            "Vendor invoice processing",
+            "Customer payment processing",
+            "Bank statement reconciliation"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to perform automatic clearing of open items?",
+        "o": [
+            "F.13",
+            "F110",
+            "FBL1N",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which table stores General Ledger (GL) master data in SAP?",
+        "o": [
+            "SKA1",
+            "BSEG",
+            "BKPF",
+            "LFA1"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to display line items for a General Ledger account?",
+        "o": [
+            "FBL3N",
+            "FS10N",
+            "FB60",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which key field is used to group vendors under a common category in SAP?",
+        "o": [
+            "Account Group",
+            "Company Code",
+            "Reconciliation Account",
+            "Document Type"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for defining payment terms for vendors?",
+        "o": [
+            "OBB8",
+            "FB60",
+            "F-53",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP component ensures that all financial transactions are recorded in real time?",
+        "o": [
+            "New General Ledger (New GL)",
+            "Accounts Receivable (AR)",
+            "Bank Accounting",
+            "Asset Accounting (AA)"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a vendor invoice?",
+        "o": [
+            "FB60",
+            "F-53",
+            "FBL1N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which type of account is assigned to a vendor in SAP Accounts Payable?",
+        "o": [
+            "Reconciliation account",
+            "Clearing account",
+            "Asset account",
+            "Expense account"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for manual bank statement processing?",
+        "o": [
+            "FF67",
+            "F-28",
+            "F110",
+            "FB08"
+        ]
+    },
+    {
+        "q": "Which SAP transaction code is used to perform an automatic payment run?",
+        "o": [
+            "F110",
+            "F-53",
+            "FB50",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which document type is used for customer payments in SAP?",
+        "o": [
+            "DZ",
+            "DR",
+            "KR",
+            "KG"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to process a customer incoming payment?",
+        "o": [
+            "F-28",
+            "FB60",
+            "F-53",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which table stores vendor master data in SAP?",
+        "o": [
+            "LFA1",
+            "BSEG",
+            "SKA1",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to clear open items manually?",
+        "o": [
+            "F-44",
+            "FB50",
+            "F110",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which field is used to define the posting key for a financial transaction in SAP?",
+        "o": [
+            "Document type",
+            "Account group",
+            "Reconciliation account",
+            "Chart of accounts"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display an asset master record?",
+        "o": [
+            "AS03",
+            "AS01",
+            "F-90",
+            "AFAB"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to transfer assets between company codes?",
+        "o": [
+            "ABT1N",
+            "F-90",
+            "AFAB",
+            "FB08"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used for automatic depreciation posting?",
+        "o": [
+            "AFAB",
+            "F-90",
+            "AS03",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reconcile bank statements?",
+        "o": [
+            "FEBA",
+            "F-28",
+            "FB08",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a bank master record?",
+        "o": [
+            "FI01",
+            "F110",
+            "FF67",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP table stores asset master records?",
+        "o": [
+            "ANLA",
+            "LFA1",
+            "SKA1",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "Which SAP report provides an overview of depreciation for fixed assets?",
+        "o": [
+            "S_ALR_87011990",
+            "FBL3N",
+            "FB08",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which document type is used for posting customer invoices in SAP?",
+        "o": [
+            "DR",
+            "DZ",
+            "KR",
+            "KG"
+        ]
+    },
+    {
+        "q": "Which transaction is used to perform automatic clearing of open vendor and customer items?",
+        "o": [
+            "F.13",
+            "FB50",
+            "F-28",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process a manual outgoing payment?",
+        "o": [
+            "F-53",
+            "F110",
+            "FB60",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which field in the bank master record stores the bank key in SAP?",
+        "o": [
+            "Bank Key (BANKL)",
+            "Company Code",
+            "Chart of Accounts",
+            "Account Group"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a general ledger master record?",
+        "o": [
+            "FS00",
+            "FBL3N",
+            "F-02",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which table stores general ledger account master data in SAP?",
+        "o": [
+            "SKA1",
+            "LFA1",
+            "BSEG",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "Which transaction is used to display a general ledger account balance?",
+        "o": [
+            "FS10N",
+            "FBL3N",
+            "FB50",
+            "F-02"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display open items for a vendor?",
+        "o": [
+            "FBL1N",
+            "FBL3N",
+            "FB60",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display open items for a customer?",
+        "o": [
+            "FBL5N",
+            "FBL1N",
+            "FB50",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display open items for a general ledger account?",
+        "o": [
+            "FBL3N",
+            "FBL1N",
+            "FS00",
+            "F-02"
+        ]
+    },
+    {
+        "q": "Which transaction is used to reset and reverse a cleared document in SAP?",
+        "o": [
+            "FBRA",
+            "FB08",
+            "F-32",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which transaction is used for foreign currency valuation in SAP?",
+        "o": [
+            "F.05",
+            "F110",
+            "FB50",
+            "F-02"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure the automatic payment program?",
+        "o": [
+            "FBZP",
+            "F110",
+            "F-53",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to write off accounts receivable items?",
+        "o": [
+            "F-32",
+            "F-28",
+            "FB60",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a recurring entry?",
+        "o": [
+            "FBD1",
+            "F.13",
+            "F110",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process an incoming bank statement?",
+        "o": [
+            "FF67",
+            "FEBA",
+            "F-28",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post an acquisition of a fixed asset?",
+        "o": [
+            "F-90",
+            "ABT1N",
+            "AFAB",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which document type is used for vendor credit memos in SAP?",
+        "o": [
+            "KG",
+            "KR",
+            "SA",
+            "DR"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a manual customer invoice?",
+        "o": [
+            "FB70",
+            "F-32",
+            "F-53",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which transaction is used to view financial statements in SAP?",
+        "o": [
+            "F.01",
+            "FS10N",
+            "FBL3N",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which table stores financial document header data in SAP?",
+        "o": [
+            "BKPF",
+            "BSEG",
+            "SKA1",
+            "LFA1"
+        ]
+    },
+    {
+        "q": "Which table stores line item details for financial transactions in SAP?",
+        "o": [
+            "BSEG",
+            "BKPF",
+            "SKB1",
+            "FS10N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure bank reconciliation settings?",
+        "o": [
+            "OT83",
+            "F110",
+            "FF67",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to perform asset retirement?",
+        "o": [
+            "ABAVN",
+            "F-90",
+            "AS03",
+            "AFAB"
+        ]
+    },
+    {
+        "q": "Which transaction is used to carry forward general ledger balances to the next fiscal year?",
+        "o": [
+            "F.16",
+            "F.05",
+            "F110",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process an automatic payment run?",
+        "o": [
+            "F110",
+            "F-53",
+            "FB60",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which document type is used for customer invoices in SAP?",
+        "o": [
+            "DR",
+            "KR",
+            "KG",
+            "SA"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reverse a posted document?",
+        "o": [
+            "FB08",
+            "FBL3N",
+            "F110",
+            "F-32"
+        ]
+    },
+    {
+        "q": "Which transaction is used to generate a depreciation run in SAP Asset Accounting?",
+        "o": [
+            "AFAB",
+            "ABAVN",
+            "F-90",
+            "AS03"
+        ]
+    },
+    {
+        "q": "Which transaction is used to create a one-time vendor in SAP?",
+        "o": [
+            "FK01",
+            "FBL1N",
+            "F110",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to change a vendor master record?",
+        "o": [
+            "FK02",
+            "FB60",
+            "FBL1N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to clear vendor open items?",
+        "o": [
+            "F-44",
+            "FBL1N",
+            "FB60",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which table stores customer master data in SAP?",
+        "o": [
+            "KNA1",
+            "LFA1",
+            "BKPF",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to clear open items in the general ledger?",
+        "o": [
+            "F-03",
+            "FBL3N",
+            "FB50",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a credit memo for a vendor?",
+        "o": [
+            "FB65",
+            "F-44",
+            "FB60",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display a list of parked documents?",
+        "o": [
+            "FBV3",
+            "FB03",
+            "FBL3N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reconcile bank statements manually?",
+        "o": [
+            "FEBA",
+            "FF67",
+            "F110",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define bank accounts?",
+        "o": [
+            "FI12",
+            "F110",
+            "FF67",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define house banks?",
+        "o": [
+            "FI12",
+            "FBZP",
+            "F110",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure automatic account determination?",
+        "o": [
+            "OBYC",
+            "FB50",
+            "F110",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which table stores bank master data in SAP?",
+        "o": [
+            "BNKA",
+            "LFA1",
+            "BSEG",
+            "BKPF"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process manual bank statements?",
+        "o": [
+            "FF67",
+            "FEBA",
+            "F110",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which transaction is used to configure financial statement versions?",
+        "o": [
+            "OB58",
+            "FBL3N",
+            "F.01",
+            "F-02"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to run the foreign currency revaluation program?",
+        "o": [
+            "F.05",
+            "F110",
+            "FB50",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which transaction is used to change a customer master record in SAP?",
+        "o": [
+            "XD02",
+            "FBL5N",
+            "FB70",
+            "F-32"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to park a financial document?",
+        "o": [
+            "F-65",
+            "F-90",
+            "FB08",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process an automatic clearing?",
+        "o": [
+            "F.13",
+            "F110",
+            "FBL3N",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to execute a payment proposal before an actual payment run?",
+        "o": [
+            "F110",
+            "FBZP",
+            "FBL1N",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to view customer line items?",
+        "o": [
+            "FBL5N",
+            "FBL3N",
+            "FB70",
+            "F-32"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a residual payment for a customer?",
+        "o": [
+            "F-32",
+            "F-28",
+            "FB70",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define a new chart of accounts?",
+        "o": [
+            "OB13",
+            "FS00",
+            "FSP0",
+            "OB52"
+        ]
+    },
+    {
+        "q": "Which table stores general ledger (G/L) master data in SAP?",
+        "o": [
+            "SKA1",
+            "LFA1",
+            "KNA1",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a recurring entry in the general ledger?",
+        "o": [
+            "FBD1",
+            "FB50",
+            "F-02",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to check the consistency of financial statements?",
+        "o": [
+            "F.01",
+            "OB58",
+            "F110",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a cost center in SAP FI?",
+        "o": [
+            "KS01",
+            "KA01",
+            "KSH1",
+            "KE51"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post an incoming payment from a customer?",
+        "o": [
+            "F-28",
+            "FB70",
+            "F-32",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure payment terms?",
+        "o": [
+            "OBB8",
+            "FB60",
+            "FBL1N",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure automatic posting for bank reconciliation?",
+        "o": [
+            "FF.5",
+            "FEBA",
+            "FF67",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which table stores document header data for financial accounting in SAP?",
+        "o": [
+            "BKPF",
+            "BSEG",
+            "LFA1",
+            "KNA1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create an asset master record?",
+        "o": [
+            "AS01",
+            "ABAVN",
+            "AFAB",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to manually post an asset acquisition?",
+        "o": [
+            "F-90",
+            "ABZON",
+            "AS01",
+            "AFAB"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to retire an asset?",
+        "o": [
+            "ABAVN",
+            "F-90",
+            "AS01",
+            "AFAB"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display the asset explorer?",
+        "o": [
+            "AW01N",
+            "AS03",
+            "F-90",
+            "AFAB"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a manual depreciation?",
+        "o": [
+            "ABAON",
+            "AFAB",
+            "ABAVN",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a house bank?",
+        "o": [
+            "FI12",
+            "F110",
+            "FBZP",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display an open items report for vendors?",
+        "o": [
+            "FBL1N",
+            "FBL3N",
+            "FBL5N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process a down payment request for a vendor?",
+        "o": [
+            "F-47",
+            "F-48",
+            "FB60",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure document types?",
+        "o": [
+            "OBA7",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a customer master record?",
+        "o": [
+            "XD01",
+            "XD02",
+            "XD03",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure fiscal year variants?",
+        "o": [
+            "OB29",
+            "OB52",
+            "OBY6",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to change an asset master record?",
+        "o": [
+            "AS02",
+            "AS01",
+            "AW01N",
+            "ABAVN"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display vendor balances?",
+        "o": [
+            "FK10N",
+            "FBL1N",
+            "F-44",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display customer balances?",
+        "o": [
+            "FD10N",
+            "FBL5N",
+            "F-32",
+            "FB70"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to generate financial reports like balance sheets and profit & loss statements?",
+        "o": [
+            "F.01",
+            "FBL3N",
+            "FB50",
+            "OB58"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define reconciliation accounts?",
+        "o": [
+            "OBXR",
+            "F110",
+            "FB60",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a special ledger?",
+        "o": [
+            "GCL1",
+            "FB50",
+            "F110",
+            "F-02"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post an outgoing payment to a vendor?",
+        "o": [
+            "F-53",
+            "F-28",
+            "FB60",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display customer line items?",
+        "o": [
+            "FBL5N",
+            "FBL1N",
+            "FB70",
+            "F-32"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure exchange rate types?",
+        "o": [
+            "OB08",
+            "FB60",
+            "F110",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tolerance groups for employees?",
+        "o": [
+            "OBA4",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure automatic payment program?",
+        "o": [
+            "FBZP",
+            "F110",
+            "FBL1N",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which table stores line item details in SAP Financial Accounting?",
+        "o": [
+            "BSEG",
+            "BKPF",
+            "LFA1",
+            "KNA1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reverse a financial document?",
+        "o": [
+            "FB08",
+            "F-02",
+            "FB50",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define field status groups?",
+        "o": [
+            "OBC4",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a bank reconciliation statement?",
+        "o": [
+            "FF67",
+            "FF.5",
+            "FEBA",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to run the depreciation program?",
+        "o": [
+            "AFAB",
+            "AS01",
+            "ABAVN",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure asset classes?",
+        "o": [
+            "OAOA",
+            "AS01",
+            "ABAVN",
+            "AFAB"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define posting keys?",
+        "o": [
+            "OB41",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure dunning procedures?",
+        "o": [
+            "FBMP",
+            "F150",
+            "F-28",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display a financial statement version?",
+        "o": [
+            "OB58",
+            "F.01",
+            "FBL3N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define tax codes?",
+        "o": [
+            "FTXP",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post incoming invoices?",
+        "o": [
+            "FB60",
+            "F-43",
+            "F110",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a vendor credit memo?",
+        "o": [
+            "FB65",
+            "FB60",
+            "F-44",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define a fiscal year variant?",
+        "o": [
+            "OB29",
+            "OB52",
+            "OBY6",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to assign company code to chart of accounts?",
+        "o": [
+            "OB62",
+            "OB13",
+            "FS00",
+            "OBA7"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure dunning levels?",
+        "o": [
+            "FBMP",
+            "F150",
+            "FBL5N",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure interest calculation?",
+        "o": [
+            "OB81",
+            "FINT",
+            "F-28",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a new business area?",
+        "o": [
+            "OX03",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define number ranges for financial documents?",
+        "o": [
+            "FBN1",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure exchange rate differences?",
+        "o": [
+            "OB09",
+            "OB08",
+            "FB60",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to execute an automatic clearing process?",
+        "o": [
+            "F.13",
+            "F110",
+            "FB50",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to run the foreign currency valuation?",
+        "o": [
+            "F.05",
+            "OB08",
+            "F110",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post parked documents?",
+        "o": [
+            "FBV0",
+            "FBV2",
+            "F-02",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process an electronic bank statement?",
+        "o": [
+            "FEBA",
+            "FF67",
+            "FF.5",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post an asset revaluation?",
+        "o": [
+            "ABAW",
+            "ABAVN",
+            "AS01",
+            "AFAB"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display an asset history sheet?",
+        "o": [
+            "S_ALR_87011990",
+            "AW01N",
+            "AS03",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to maintain house banks?",
+        "o": [
+            "FI12",
+            "FBZP",
+            "F110",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure vendor account groups?",
+        "o": [
+            "OBD3",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define tolerance groups for customers?",
+        "o": [
+            "OBA3",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to clear customer open items?",
+        "o": [
+            "F-32",
+            "F-28",
+            "FB60",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure payment terms?",
+        "o": [
+            "OBB8",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to maintain exchange rates?",
+        "o": [
+            "OB08",
+            "OB09",
+            "F110",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process a down payment request?",
+        "o": [
+            "F-37",
+            "F-47",
+            "FB60",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display vendor balances?",
+        "o": [
+            "FBL1N",
+            "FBL5N",
+            "F-53",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display customer balances?",
+        "o": [
+            "FBL5N",
+            "FBL1N",
+            "F-32",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure cash discount settings?",
+        "o": [
+            "OBB8",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define interest calculation indicators?",
+        "o": [
+            "OB82",
+            "OB81",
+            "F110",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define fiscal year variants?",
+        "o": [
+            "OB29",
+            "OB52",
+            "OBY6",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax jurisdiction codes?",
+        "o": [
+            "OBCO",
+            "OB40",
+            "FTXP",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure customer account groups?",
+        "o": [
+            "OBD2",
+            "OBD3",
+            "OB52",
+            "OB13"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure withholding tax settings?",
+        "o": [
+            "OBWT",
+            "OBY6",
+            "FTXP",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure number ranges for vendor accounts?",
+        "o": [
+            "XKN1",
+            "FBN1",
+            "OB52",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure number ranges for customer accounts?",
+        "o": [
+            "XDN1",
+            "FBN1",
+            "OB52",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure field status variants?",
+        "o": [
+            "OBC4",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to assign a chart of accounts to a company code?",
+        "o": [
+            "OB62",
+            "OB13",
+            "FBN1",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define document splitting characteristics?",
+        "o": [
+            "GSP_RD",
+            "FBN1",
+            "OB52",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process an asset retirement?",
+        "o": [
+            "ABAVN",
+            "ABAW",
+            "AS01",
+            "AFAB"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define parallel currencies?",
+        "o": [
+            "OB22",
+            "OB08",
+            "OB09",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define a controlling area?",
+        "o": [
+            "OKKP",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure valuation methods?",
+        "o": [
+            "OBBS",
+            "OB09",
+            "OB08",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure lockboxes?",
+        "o": [
+            "FLB1",
+            "FB60",
+            "F-28",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process an incoming bank statement?",
+        "o": [
+            "FEBA",
+            "FF67",
+            "FF.5",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define payment methods?",
+        "o": [
+            "FBZP",
+            "F110",
+            "OB52",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define dunning charges?",
+        "o": [
+            "OBD5",
+            "FBMP",
+            "F150",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process a recurring document?",
+        "o": [
+            "F.14",
+            "F.13",
+            "FB50",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display the asset explorer?",
+        "o": [
+            "AW01N",
+            "AS03",
+            "ABAVN",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure additional ledgers?",
+        "o": [
+            "GCX2",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process automatic payment runs?",
+        "o": [
+            "F110",
+            "FBZP",
+            "F-53",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reverse a posted document?",
+        "o": [
+            "FB08",
+            "F-44",
+            "FB50",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display parked documents?",
+        "o": [
+            "FBV3",
+            "FBV2",
+            "FBV4",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display customer line items?",
+        "o": [
+            "FBL5N",
+            "FBL1N",
+            "F-32",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define credit control areas?",
+        "o": [
+            "OB45",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tolerance limits for automatic payment?",
+        "o": [
+            "OBBZ",
+            "OB52",
+            "F110",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process a vendor payment manually?",
+        "o": [
+            "F-53",
+            "F110",
+            "F-28",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure dunning levels?",
+        "o": [
+            "FBMP",
+            "F150",
+            "OBD5",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure interest calculation settings?",
+        "o": [
+            "OB81",
+            "OB82",
+            "FBZP",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to manage cash journal entries?",
+        "o": [
+            "FBCJ",
+            "FB60",
+            "F110",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process a down payment clearing?",
+        "o": [
+            "F-54",
+            "F-47",
+            "FB60",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define a company code in SAP?",
+        "o": [
+            "OX02",
+            "OBY6",
+            "OB52",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to assign a company code to a controlling area?",
+        "o": [
+            "OKKP",
+            "OX02",
+            "OBY6",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define the document types in SAP?",
+        "o": [
+            "OBA7",
+            "OB52",
+            "OB13",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure the financial statement version?",
+        "o": [
+            "OB58",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process an asset transfer?",
+        "o": [
+            "ABUMN",
+            "AS91",
+            "ABAVN",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure depreciation keys?",
+        "o": [
+            "AFAMA",
+            "OAYZ",
+            "AW01N",
+            "AS01"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to close the fiscal year in Asset Accounting?",
+        "o": [
+            "AJAB",
+            "F.05",
+            "AFAB",
+            "OB29"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a credit memo for a vendor?",
+        "o": [
+            "FB65",
+            "FB60",
+            "F-53",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to check the foreign currency valuation?",
+        "o": [
+            "F.05",
+            "OB08",
+            "OB09",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process bank reconciliation?",
+        "o": [
+            "FF67",
+            "FEBA",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define House Banks?",
+        "o": [
+            "FI12",
+            "FBZP",
+            "F110",
+            "FBL1N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure special G/L transactions?",
+        "o": [
+            "OBXR",
+            "OB52",
+            "F110",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to maintain interest indicators?",
+        "o": [
+            "OB82",
+            "OB81",
+            "FBZP",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to perform asset revaluation?",
+        "o": [
+            "ABAON",
+            "ABAVN",
+            "ABUMN",
+            "AW01N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process manual bank statement entries?",
+        "o": [
+            "FF67",
+            "FEBA",
+            "F110",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure posting keys?",
+        "o": [
+            "OB41",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure payment blocks?",
+        "o": [
+            "OBB8",
+            "FBZP",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process a mass reversal of documents?",
+        "o": [
+            "F.80",
+            "FB08",
+            "F-44",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure residual payment settings?",
+        "o": [
+            "OBBR",
+            "OB52",
+            "OB13",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reset cleared items?",
+        "o": [
+            "FBRA",
+            "F-32",
+            "F-28",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to manage recurring entries?",
+        "o": [
+            "FBD1",
+            "F110",
+            "FB60",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to clear open customer and vendor items manually?",
+        "o": [
+            "F-32",
+            "F-44",
+            "F-28",
+            "FB08"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define fiscal year variants?",
+        "o": [
+            "OB29",
+            "OB52",
+            "FS00",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure automatic account determination?",
+        "o": [
+            "OBYC",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display financial statement reports?",
+        "o": [
+            "S_ALR_87012284",
+            "FBL3N",
+            "FS00",
+            "F-01"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tolerance groups for employees?",
+        "o": [
+            "OBA4",
+            "OBBZ",
+            "OB45",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure asset depreciation runs?",
+        "o": [
+            "AFAB",
+            "AW01N",
+            "AS01",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post goods receipt in SAP FI?",
+        "o": [
+            "MIGO",
+            "MIRO",
+            "FB60",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to generate a dunning proposal?",
+        "o": [
+            "F150",
+            "FBMP",
+            "FBL5N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a credit memo for a customer?",
+        "o": [
+            "FB75",
+            "FB60",
+            "F-28",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display vendor balances?",
+        "o": [
+            "FK10N",
+            "FBL1N",
+            "F110",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure lockboxes in SAP?",
+        "o": [
+            "OB10",
+            "FBZP",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display open item aging reports?",
+        "o": [
+            "S_ALR_87012178",
+            "FBL1N",
+            "F110",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to maintain exchange rates?",
+        "o": [
+            "OB08",
+            "OB09",
+            "F.05",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure field status groups?",
+        "o": [
+            "OBC4",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to view general ledger balances?",
+        "o": [
+            "FAGLB03",
+            "FS10N",
+            "F110",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure bank determination settings?",
+        "o": [
+            "FBZP",
+            "F110",
+            "OBBZ",
+            "OB45"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reconcile bank statements?",
+        "o": [
+            "FEBA",
+            "FF67",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process incoming payments automatically?",
+        "o": [
+            "F110",
+            "F-28",
+            "FBL5N",
+            "FB08"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure vendor payment terms?",
+        "o": [
+            "OBB8",
+            "OB52",
+            "OB13",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display asset balances?",
+        "o": [
+            "AW01N",
+            "FBL1N",
+            "FS10N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure asset classes?",
+        "o": [
+            "OAOA",
+            "AW01N",
+            "AS91",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to perform an asset sale?",
+        "o": [
+            "F-92",
+            "ABAVN",
+            "ABAON",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to assign a chart of accounts to a company code?",
+        "o": [
+            "OB62",
+            "OX02",
+            "OBY6",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure document splitting?",
+        "o": [
+            "FAGL_SPLIT",
+            "FB50",
+            "F110",
+            "FB08"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display parked vendor invoices?",
+        "o": [
+            "FBV3",
+            "FBV2",
+            "FBL1N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post vendor invoices?",
+        "o": [
+            "FB60",
+            "F-43",
+            "F-53",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure cross-company code transactions?",
+        "o": [
+            "OBYA",
+            "OX02",
+            "OBY6",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define tax codes?",
+        "o": [
+            "FTXP",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to manage parked documents?",
+        "o": [
+            "FBV2",
+            "FB60",
+            "F-44",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display line items for general ledger accounts?",
+        "o": [
+            "FBL3N",
+            "FBL1N",
+            "FBL5N",
+            "FS10N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define payment terms for customers?",
+        "o": [
+            "OBB8",
+            "OBB9",
+            "OBY6",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure tax procedures?",
+        "o": [
+            "OBYZ",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a recurring entry template?",
+        "o": [
+            "FBD1",
+            "F-02",
+            "F110",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reverse a posted document?",
+        "o": [
+            "FB08",
+            "F-32",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to run the depreciation program?",
+        "o": [
+            "AFAB",
+            "AS92",
+            "AS93",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process manual bank statements?",
+        "o": [
+            "FF67",
+            "FEBA",
+            "F110",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to generate customer account statements?",
+        "o": [
+            "FBL5N",
+            "FBL1N",
+            "FS10N",
+            "F-32"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display the asset explorer?",
+        "o": [
+            "AW01N",
+            "FAGLB03",
+            "FBL3N",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure number ranges for accounting documents?",
+        "o": [
+            "FBN1",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to settle assets under construction?",
+        "o": [
+            "AIAB",
+            "ABUMN",
+            "F-90",
+            "AW01N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to transfer balances from one account to another?",
+        "o": [
+            "F-04",
+            "F-32",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display vendor open items?",
+        "o": [
+            "FBL1N",
+            "FBL3N",
+            "FBL5N",
+            "FS10N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure automatic clearing settings?",
+        "o": [
+            "OB74",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process customer payments manually?",
+        "o": [
+            "F-28",
+            "F-32",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define the chart of accounts?",
+        "o": [
+            "OB13",
+            "OB52",
+            "OBBZ",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure bank master data?",
+        "o": [
+            "FI01",
+            "FBZP",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure house banks?",
+        "o": [
+            "FI12",
+            "FBZP",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process outgoing payments?",
+        "o": [
+            "F-53",
+            "F-28",
+            "F110",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a cash journal entry?",
+        "o": [
+            "FBCJ",
+            "FB50",
+            "F110",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a manual asset acquisition?",
+        "o": [
+            "F-90",
+            "AS01",
+            "AS92",
+            "AW01N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display posted invoices?",
+        "o": [
+            "FB03",
+            "FB60",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to view financial document changes?",
+        "o": [
+            "FB03",
+            "FS10N",
+            "F110",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure document types?",
+        "o": [
+            "OBA7",
+            "OB52",
+            "OB13",
+            "FS00"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process incoming checks?",
+        "o": [
+            "F-36",
+            "F-28",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to generate balance sheets?",
+        "o": [
+            "S_ALR_87012284",
+            "FBL3N",
+            "FS00",
+            "F-01"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to transfer assets between company codes?",
+        "o": [
+            "ABT1N",
+            "ABUMN",
+            "F-90",
+            "AW01N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to manage bank statement processing?",
+        "o": [
+            "FF67",
+            "FEBA",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process automatic depreciation posting?",
+        "o": [
+            "AFAB",
+            "AW01N",
+            "AS91",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define tolerance groups for G/L accounts?",
+        "o": [
+            "OBA0",
+            "OB52",
+            "OB13",
+            "FBN1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a customer master record?",
+        "o": [
+            "XD01",
+            "XD03",
+            "FD01",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display a list of parked documents?",
+        "o": [
+            "FBV3",
+            "FBV2",
+            "FBL3N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process dunning for overdue invoices?",
+        "o": [
+            "F150",
+            "F-28",
+            "F110",
+            "F-32"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display a trial balance?",
+        "o": [
+            "S_ALR_87012277",
+            "FS00",
+            "FBL3N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define a fiscal year variant?",
+        "o": [
+            "OB29",
+            "OB52",
+            "OBY6",
+            "FBN1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to manage account assignment models?",
+        "o": [
+            "FKMT",
+            "FB50",
+            "F110",
+            "F-02"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to clear open vendor items?",
+        "o": [
+            "F-44",
+            "FBL1N",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure payment methods?",
+        "o": [
+            "FBZP",
+            "F110",
+            "FI12",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a credit memo for a vendor?",
+        "o": [
+            "FB65",
+            "FB60",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post a credit memo for a customer?",
+        "o": [
+            "FB75",
+            "FB70",
+            "F110",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define the posting periods?",
+        "o": [
+            "OB52",
+            "OBY6",
+            "OB13",
+            "FBN1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to run a foreign currency valuation?",
+        "o": [
+            "F.05",
+            "F110",
+            "FBL3N",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display vendor balances?",
+        "o": [
+            "FK10N",
+            "FBL1N",
+            "FBL3N",
+            "FS10N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display customer balances?",
+        "o": [
+            "FD10N",
+            "FBL5N",
+            "FBL1N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to maintain recurring entry documents?",
+        "o": [
+            "FBD2",
+            "FBD1",
+            "FB50",
+            "F-02"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to execute a financial statement version?",
+        "o": [
+            "OB58",
+            "F.01",
+            "F110",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure field status variants?",
+        "o": [
+            "OBC4",
+            "OB52",
+            "OB13",
+            "FBN1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define tax codes?",
+        "o": [
+            "FTXP",
+            "OBYZ",
+            "FBZP",
+            "FBN1"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post an incoming invoice?",
+        "o": [
+            "FB60",
+            "F-43",
+            "F-53",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to transfer balances in asset accounting?",
+        "o": [
+            "ABF1",
+            "ABUMN",
+            "AW01N",
+            "F-90"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reclassify payables and receivables?",
+        "o": [
+            "F.13",
+            "F110",
+            "F-32",
+            "F-44"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post outgoing payments using checks?",
+        "o": [
+            "F-58",
+            "F-53",
+            "F-28",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define bank reconciliation settings?",
+        "o": [
+            "OBEB",
+            "FBZP",
+            "F110",
+            "FI12"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process manual check payments?",
+        "o": [
+            "FCH5",
+            "F110",
+            "F-58",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to settle internal orders to assets?",
+        "o": [
+            "KO88",
+            "F-90",
+            "ABT1N",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure payment blocks?",
+        "o": [
+            "OB27",
+            "OB52",
+            "F110",
+            "FBZP"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to reverse an asset transaction?",
+        "o": [
+            "AB08",
+            "ABUMN",
+            "F-90",
+            "AW01N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to transfer open items between customers?",
+        "o": [
+            "F-32",
+            "F-28",
+            "FBL5N",
+            "FB75"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post depreciation in Asset Accounting?",
+        "o": [
+            "AFAB",
+            "ABAON",
+            "AW01N",
+            "F-92"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process automatic payment runs?",
+        "o": [
+            "F110",
+            "F111",
+            "FBZP",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to change the reconciliation account for a vendor?",
+        "o": [
+            "FK02",
+            "OB52",
+            "FB50",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to perform a cash journal entry?",
+        "o": [
+            "FBCJ",
+            "F-02",
+            "F110",
+            "FB60"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to configure financial statement versions?",
+        "o": [
+            "OB58",
+            "F.01",
+            "FBL3N",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display line item reports for G/L accounts?",
+        "o": [
+            "FBL3N",
+            "FS10N",
+            "F.01",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to transfer customer open items between accounts?",
+        "o": [
+            "F-32",
+            "F-28",
+            "F110",
+            "FB75"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process recurring entry documents?",
+        "o": [
+            "FBD1",
+            "FBD2",
+            "FBL3N",
+            "FB50"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define exchange rate types?",
+        "o": [
+            "OB08",
+            "OB52",
+            "FBZP",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to clear bank reconciliation open items?",
+        "o": [
+            "FF67",
+            "F110",
+            "F-53",
+            "FBZP"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display financial document changes?",
+        "o": [
+            "FB02",
+            "FBL3N",
+            "FB50",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define dunning procedures?",
+        "o": [
+            "FBMP",
+            "F150",
+            "F110",
+            "F-32"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to generate balance confirmations for customers?",
+        "o": [
+            "F.17",
+            "FBL5N",
+            "FD10N",
+            "F-28"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define number ranges for financial documents?",
+        "o": [
+            "FBN1",
+            "OBY6",
+            "FB50",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post asset acquisitions?",
+        "o": [
+            "F-90",
+            "ABZON",
+            "AW01N",
+            "ABUMN"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display a list of automatic payment proposals?",
+        "o": [
+            "F110",
+            "FBZP",
+            "FBL1N",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to display document balances in a G/L account?",
+        "o": [
+            "FS10N",
+            "FBL3N",
+            "FB50",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to define a new house bank?",
+        "o": [
+            "FI12",
+            "FBZP",
+            "F110",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to adjust exchange rate differences?",
+        "o": [
+            "F.05",
+            "F110",
+            "FB50",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to create a vendor invoice?",
+        "o": [
+            "FB60",
+            "F-43",
+            "F-53",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to post an asset retirement?",
+        "o": [
+            "AB08",
+            "F-90",
+            "AW01N",
+            "ABUMN"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to process incoming payments automatically?",
+        "o": [
+            "F110",
+            "F-28",
+            "FB60",
+            "F-53"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to change customer master data?",
+        "o": [
+            "XD02",
+            "XD01",
+            "FD10N",
+            "FBL5N"
+        ]
+    },
+    {
+        "q": "Which SAP transaction is used to view vendor balances?",
+        "o": [
+            "FK10N",
+            "FBL1N",
+            "FBL3N",
+            "FS10N"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of General Ledger (GL) Accounting in SAP FI?", 
+        "o": [
+            "To record all financial transactions in a centralized system",
+            "To manage vendor invoices",
+            "To track fixed assets",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to display the General Ledger (GL) account balance in SAP?", 
+        "o": [
+            "FBL3N",
+            "FB03",
+            "FS10N",
+            "FD10N"
+        ]
+    },
+    {
+        "q": "What is the key function of Accounts Payable (AP) in SAP FI?", 
+        "o": [
+            "To manage vendor invoices and payments",
+            "To record customer payments",
+            "To track fixed asset depreciation",
+            "To reconcile bank accounts"
+        ]
+    },
+    {
+        "q": "Which of the following is a standard report for Accounts Receivable (AR) in SAP?", 
+        "o": [
+            "Customer Balance Display (FD10N)",
+            "Vendor Line Item Display (FB03)",
+            "Asset Explorer (AW01N)",
+            "Bank Statement (FF67)"
+        ]
+    },
+    {
+        "q": "What is the purpose of Asset Accounting (AA) in SAP FI?", 
+        "o": [
+            "To manage and track fixed assets",
+            "To process vendor invoices",
+            "To handle customer payments",
+            "To reconcile bank transactions"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to create an asset master record in SAP?", 
+        "o": [
+            "AS01",
+            "FB01",
+            "F-02",
+            "FS00"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of Bank Accounting in SAP FI?", 
+        "o": [
+            "To manage bank transactions and reconciliation",
+            "To track vendor invoices",
+            "To handle customer receivables",
+            "To manage fixed assets"
+        ]
+    },
+    {
+        "q": "Which of the following is used for automatic bank reconciliation in SAP?", 
+        "o": [
+            "Electronic Bank Statement (EBS)",
+            "Manual Bank Statement",
+            "Asset Explorer (AW01N)",
+            "Customer Balance Display (FD10N)"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of General Ledger (GL) Accounting in SAP FI?", 
+        "o": [
+            "Real-time updating of financial data",
+            "Tracking vendor credit limits",
+            "Managing customer down payments",
+            "Calculating asset depreciation"
+        ]
+    },
+    {
+        "q": "What is the purpose of a reconciliation account in SAP FI?", 
+        "o": [
+            "To link sub-ledgers (e.g., AR/AP) with the General Ledger",
+            "To track fixed asset values",
+            "To manage bank statement processing",
+            "To record customer invoices"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to post a vendor invoice in SAP FI?", 
+        "o": [
+            "FB60",
+            "FB70",
+            "F-02",
+            "F-28"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Parked Document' in SAP FI?", 
+        "o": [
+            "To save an incomplete document for later posting",
+            "To reconcile bank statements",
+            "To track asset acquisitions",
+            "To manage customer credit limits"
+        ]
+    },
+    {
+        "q": "Which of the following is a key function of Accounts Receivable (AR) in SAP FI?", 
+        "o": [
+            "To manage customer invoices and payments",
+            "To process vendor payments",
+            "To track fixed asset depreciation",
+            "To reconcile bank accounts"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Dunning' process in SAP FI?", 
+        "o": [
+            "To remind customers of overdue payments",
+            "To reconcile vendor invoices",
+            "To manage asset retirement",
+            "To process bank statements"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to display an asset balance in SAP FI?", 
+        "o": [
+            "AW01N",
+            "FB03",
+            "FBL1N",
+            "FS00"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Depreciation Area' in Asset Accounting (AA)?", 
+        "o": [
+            "To calculate and track depreciation for different purposes",
+            "To manage vendor payments",
+            "To reconcile customer accounts",
+            "To process bank transactions"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Bank Accounting in SAP FI?", 
+        "o": [
+            "Electronic Bank Statement (EBS) processing",
+            "Tracking customer credit limits",
+            "Managing vendor down payments",
+            "Calculating asset useful life"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'House Bank' in SAP FI?", 
+        "o": [
+            "To define and manage bank accounts for the company",
+            "To track customer invoices",
+            "To manage vendor credit limits",
+            "To calculate asset depreciation"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to post a manual bank statement in SAP FI?", 
+        "o": [
+            "FF67",
+            "FB01",
+            "F-02",
+            "FS00"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Clearing' process in SAP FI?", 
+        "o": [
+            "To match open items (e.g., invoices and payments)",
+            "To track fixed asset acquisitions",
+            "To manage customer credit limits",
+            "To reconcile vendor accounts"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Accounts Payable (AP) in SAP FI?", 
+        "o": [
+            "Automatic payment program for vendor payments",
+            "Tracking customer invoices",
+            "Managing asset depreciation",
+            "Reconciling bank statements"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Vendor Master Record' in SAP FI?", 
+        "o": [
+            "To store vendor-related information for transactions",
+            "To track customer payments",
+            "To manage fixed asset values",
+            "To reconcile bank accounts"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to display open customer items in SAP FI?", 
+        "o": [
+            "FBL5N",
+            "FB03",
+            "FS10N",
+            "FD10N"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Credit Control Area' in SAP FI?", 
+        "o": [
+            "To manage and monitor customer credit limits",
+            "To track vendor payments",
+            "To calculate asset depreciation",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of Asset Accounting (AA) in SAP FI?", 
+        "o": [
+            "Depreciation posting and calculation",
+            "Vendor invoice processing",
+            "Customer payment tracking",
+            "Bank statement reconciliation"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Chart of Accounts' in SAP FI?", 
+        "o": [
+            "To define the structure of General Ledger (GL) accounts",
+            "To manage vendor master data",
+            "To track customer invoices",
+            "To reconcile bank transactions"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to post a customer payment in SAP FI?", 
+        "o": [
+            "F-28",
+            "FB60",
+            "F-02",
+            "FS00"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Payment Terms' in SAP FI?", 
+        "o": [
+            "To define due dates and cash discount terms for invoices",
+            "To track fixed asset acquisitions",
+            "To manage vendor credit limits",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Document Type' in SAP FI?", 
+        "o": [
+            "To classify and differentiate accounting documents",
+            "To track vendor credit limits",
+            "To manage customer down payments",
+            "To calculate asset depreciation"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to create a customer master record in SAP FI?", 
+        "o": [
+            "FD01",
+            "FK01",
+            "FS00",
+            "FB01"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Posting Key' in SAP FI?", 
+        "o": [
+            "To determine whether a line item is a debit or credit",
+            "To track vendor invoices",
+            "To manage customer credit limits",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of the 'Automatic Payment Program' in SAP FI?", 
+        "o": [
+            "It processes vendor payments in bulk",
+            "It tracks customer invoices",
+            "It calculates asset depreciation",
+            "It reconciles bank accounts"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Tolerance Group' in SAP FI?", 
+        "o": [
+            "To define limits for payment differences and discounts",
+            "To manage vendor master data",
+            "To track customer payments",
+            "To reconcile bank transactions"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to display vendor line items in SAP FI?", 
+        "o": [
+            "FBL1N",
+            "FB03",
+            "FS10N",
+            "FD10N"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Special GL Indicator' in SAP FI?", 
+        "o": [
+            "To manage special transactions like down payments and guarantees",
+            "To track vendor credit limits",
+            "To calculate asset depreciation",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of 'Bank Reconciliation' in SAP FI?", 
+        "o": [
+            "Matching bank statement transactions with SAP records",
+            "Tracking customer invoices",
+            "Managing vendor payments",
+            "Calculating asset useful life"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Fiscal Year Variant' in SAP FI?", 
+        "o": [
+            "To define the structure of the fiscal year for posting periods",
+            "To manage vendor master data",
+            "To track customer payments",
+            "To reconcile bank transactions"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to post a manual journal entry in SAP FI?", 
+        "o": [
+            "F-02",
+            "FB01",
+            "FS00",
+            "FB60"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Open Item Management' feature in SAP FI?", 
+        "o": [
+            "To track and clear unpaid invoices and payments",
+            "To manage vendor credit limits",
+            "To calculate asset depreciation",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of 'Asset Under Construction (AUC)' in SAP FI?", 
+        "o": [
+            "To track costs of assets during the construction phase",
+            "To manage vendor invoices",
+            "To track customer payments",
+            "To reconcile bank accounts"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Payment Block' in SAP FI?", 
+        "o": [
+            "To prevent payments for specific invoices or vendors",
+            "To track customer credit limits",
+            "To calculate asset depreciation",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to display the asset history sheet in SAP FI?", 
+        "o": [
+            "AW01N",
+            "FB03",
+            "FBL1N",
+            "FS00"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Tax Code' in SAP FI?", 
+        "o": [
+            "To calculate and post taxes on transactions",
+            "To manage vendor master data",
+            "To track customer payments",
+            "To reconcile bank transactions"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of 'Down Payment Management' in SAP FI?", 
+        "o": [
+            "To manage advance payments from customers or to vendors",
+            "To track vendor credit limits",
+            "To calculate asset depreciation",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Account Group' in SAP FI?", 
+        "o": [
+            "To define the structure and fields for master records (e.g., vendor/customer)",
+            "To manage vendor invoices",
+            "To track customer payments",
+            "To reconcile bank transactions"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to post a credit memo for a customer in SAP FI?", 
+        "o": [
+            "FB75",
+            "FB60",
+            "F-02",
+            "FS00"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Payment Method' in SAP FI?", 
+        "o": [
+            "To define how payments are made (e.g., check, wire transfer)",
+            "To track vendor credit limits",
+            "To calculate asset depreciation",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of 'Recurring Entries' in SAP FI?", 
+        "o": [
+            "To automate periodic postings (e.g., rent, utilities)",
+            "To manage vendor invoices",
+            "To track customer payments",
+            "To reconcile bank transactions"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Field Status Group' in SAP FI?", 
+        "o": [
+            "To control which fields are required, optional, or hidden in master records",
+            "To track vendor credit limits",
+            "To manage customer down payments",
+            "To calculate asset depreciation"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to display the vendor balance in SAP FI?", 
+        "o": [
+            "FK10N",
+            "FB03",
+            "FS10N",
+            "FD10N"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Clearing Account' in SAP FI?", 
+        "o": [
+            "To temporarily hold amounts during the clearing process",
+            "To track vendor invoices",
+            "To manage customer credit limits",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of 'Intercompany Postings' in SAP FI?", 
+        "o": [
+            "To record transactions between two company codes",
+            "To track customer invoices",
+            "To calculate asset depreciation",
+            "To reconcile bank accounts"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Vendor Line Item Display' in SAP FI?", 
+        "o": [
+            "To view detailed transactions for a specific vendor",
+            "To manage customer payments",
+            "To track fixed asset acquisitions",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to post a debit memo for a vendor in SAP FI?", 
+        "o": [
+            "FB65",
+            "FB60",
+            "F-02",
+            "FS00"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Customer Line Item Display' in SAP FI?", 
+        "o": [
+            "To view detailed transactions for a specific customer",
+            "To manage vendor invoices",
+            "To track fixed asset depreciation",
+            "To reconcile bank accounts"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of 'Parallel Accounting' in SAP FI?", 
+        "o": [
+            "To maintain multiple ledgers for different accounting principles",
+            "To track vendor credit limits",
+            "To manage customer down payments",
+            "To calculate asset depreciation"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Document Splitting' feature in SAP FI?", 
+        "o": [
+            "To split accounting documents by specific dimensions (e.g., profit center)",
+            "To manage vendor invoices",
+            "To track customer payments",
+            "To reconcile bank transactions"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to display the customer balance in SAP FI?", 
+        "o": [
+            "FD10N",
+            "FB03",
+            "FS10N",
+            "FK10N"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Vendor Account Group' in SAP FI?", 
+        "o": [
+            "To classify vendors based on business needs and control master data fields",
+            "To track customer invoices",
+            "To manage fixed asset values",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of 'Credit Management' in SAP FI?", 
+        "o": [
+            "To monitor and control customer credit limits",
+            "To track vendor payments",
+            "To calculate asset depreciation",
+            "To reconcile bank accounts"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Account Assignment Model' in SAP FI?", 
+        "o": [
+            "To simplify recurring postings with predefined account assignments",
+            "To manage vendor invoices",
+            "To track customer payments",
+            "To reconcile bank transactions"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to post a customer invoice in SAP FI?", 
+        "o": [
+            "FB70",
+            "FB60",
+            "F-02",
+            "FS00"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Vendor Reconciliation Account' in SAP FI?", 
+        "o": [
+            "To link vendor sub-ledger transactions to the General Ledger",
+            "To track customer invoices",
+            "To manage fixed asset values",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of 'Lockbox Processing' in SAP FI?", 
+        "o": [
+            "To automate the processing of customer payments received via banks",
+            "To track vendor invoices",
+            "To calculate asset depreciation",
+            "To reconcile bank accounts"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Customer Reconciliation Account' in SAP FI?", 
+        "o": [
+            "To link customer sub-ledger transactions to the General Ledger",
+            "To manage vendor invoices",
+            "To track fixed asset values",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to post a vendor credit memo in SAP FI?", 
+        "o": [
+            "FB65",
+            "FB60",
+            "F-02",
+            "FS00"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Payment Difference' in SAP FI?", 
+        "o": [
+            "To handle variances between invoice amounts and payments",
+            "To track customer credit limits",
+            "To calculate asset depreciation",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of 'Bank Master Data' in SAP FI?", 
+        "o": [
+            "To store bank details for payment processing",
+            "To track vendor invoices",
+            "To manage customer payments",
+            "To calculate asset depreciation"
+        ]
+    }
+]

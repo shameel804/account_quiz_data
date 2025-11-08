@@ -1,0 +1,82 @@
+[
+  {
+    "title": "GST/VAT Configuration in SAP",
+    "ques": "How do you configure GST/VAT settings in SAP for a company operating in multiple tax jurisdictions?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "To configure GST/VAT in SAP, you need to define tax codes, assign them to tax procedures, and link them to company codes."
+    },
+    "explanation": "***Step 1: Define Tax Codes***\nGo to `SPRO` -> `Financial Accounting` -> `Tax on Sales/Purchases` -> `Define Tax Codes for Sales and Purchases`.\n\n***Step 2: Assign Tax Procedure***\nNavigate to `Define Tax Determination Rules` and link the tax procedure to the country.\n\n***Step 3: Link to Company Code***\nEnsure the tax procedure is assigned to the company code in `Financial Accounting` settings."
+  },
+  {
+    "title": "Withholding Tax & TDS in SAP",
+    "ques": "What is the role of Withholding Tax (TDS) in SAP, and how do you configure it?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Withholding Tax (TDS) in SAP is used to deduct tax at the source before making vendor payments. It is configured using the Extended Withholding Tax module."
+    },
+    "explanation": "***Step 1: Activate Withholding Tax***\nEnable withholding tax in `SPRO` -> `Financial Accounting` -> `Withholding Tax` -> `Activate Withholding Tax`.\n\n***Step 2: Define Withholding Tax Type and Codes***\nConfigure tax types and tax codes under `Define Withholding Tax Type`.\n\n***Step 3: Assign Withholding Tax to Vendors***\nGo to `Vendor Master Data` -> `Withholding Tax Tab` and assign the relevant tax type and code."
+  },
+  {
+    "title": "SAP Payroll & Tax Deductions",
+    "ques": "How does SAP handle payroll tax deductions, and what configuration steps are required?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP Payroll processes tax deductions using payroll schemas and tax calculation rules, which are configured based on country-specific requirements."
+    },
+    "explanation": "***Step 1: Define Tax Calculation Rules***\nUse `SPRO` -> `Payroll` -> `Taxation` to configure country-specific tax rules.\n\n***Step 2: Configure Payroll Schema***\nModify the payroll schema using `PE01` transaction to include tax deduction calculations.\n\n***Step 3: Assign Tax Codes to Employee Master Data***\nGo to `PA30` -> `Infotype 065` and assign the applicable tax codes to employees."
+  },
+  {
+    "title": "SAP Financial Reports & Compliance",
+    "ques": "What financial compliance reports can be generated in SAP for taxation purposes?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP provides multiple financial reports such as VAT reports, TDS reports, and statutory financial statements."
+    },
+    "explanation": "***VAT Reports***\nUse transaction `S_ALR_87012357` to generate VAT reporting.\n\n***TDS Reports***\nNavigate to `J1INQEFILE` for withholding tax reports.\n\n***Statutory Financial Statements***\nGenerate reports like Balance Sheets and Profit & Loss statements using `F.01`."
+  },
+  {
+    "title": "Input and Output Tax Posting in SAP",
+    "ques": "How does SAP handle input and output tax posting in financial transactions?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP records input tax on purchases and output tax on sales using tax codes assigned to financial transactions."
+    },
+    "explanation": "***Step 1: Define Tax Accounts***\nGo to `FS00` and create GL accounts for input and output tax.\n\n***Step 2: Assign Tax Codes to Transactions***\nUse `OB40` to link tax codes to the relevant GL accounts.\n\n***Step 3: Post Transactions with Tax***\nDuring sales and purchase transactions (`FB60`, `FB70`), SAP automatically calculates and posts input/output tax."
+  },
+  {
+    "title": "Reverse Charge Mechanism (RCM) in SAP GST",
+    "ques": "What is the Reverse Charge Mechanism (RCM) in SAP GST, and how is it configured?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The Reverse Charge Mechanism (RCM) in SAP GST requires the buyer to pay tax directly to the government instead of the seller."
+    },
+    "explanation": "***Step 1: Activate RCM Tax Code***\nDefine RCM tax codes in `FTXP` and assign relevant percentage.\n\n***Step 2: Configure Tax Procedure***\nIn `OBYZ`, ensure the tax procedure supports RCM calculation.\n\n***Step 3: Implement GL Adjustments***\nUse `FB60` to manually adjust tax postings when reverse charge applies."
+  },
+  {
+    "title": "Intercompany Tax Transactions in SAP",
+    "ques": "How does SAP manage taxation for intercompany transactions?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "SAP uses tax jurisdiction codes and intercompany billing to manage taxation between affiliated companies."
+    },
+    "explanation": "***Step 1: Define Tax Jurisdiction Codes***\nGo to `OBCL` and configure tax jurisdiction codes for each company.\n\n***Step 2: Set Up Intercompany Billing***\nUse `VF01` for intercompany invoicing and ensure correct tax codes are applied.\n\n***Step 3: Monitor Tax Reporting***\nGenerate intercompany tax reports using `S_ALR_87012357`."
+  },
+  {
+    "title": "GST Reconciliation in SAP",
+    "ques": "How can GST reconciliation be performed in SAP to ensure compliance?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "GST reconciliation in SAP involves matching the GST liability with tax invoices and filing reports."
+    },
+    "explanation": "***Step 1: Extract GST Reports***\nUse `J1INQEFILE` or `S_ALR_87012357` to generate GST data.\n\n***Step 2: Match Purchase and Sales Data***\nCompare vendor invoices with input tax credit using `MIRO` and `FBL3N`.\n\n***Step 3: File GST Returns***\nUpload reconciled GST data to the government portal via SAP-generated reports."
+  }
+]
