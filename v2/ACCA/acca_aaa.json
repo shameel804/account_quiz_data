@@ -1,92 +1,5319 @@
 [
     {
-        "q": "What is the scope of 'Post-Issuance' review?",
+        "q": "What is the primary objective of an audit of financial statements?",
+        "type": "mcq",
         "o": [
-            "Reviewing audit work after the report has been issued (e.g., cold review)",
-            "Planning the audit",
-            "Signing the audit report",
-            "Meeting the client"
+            "To express an opinion on truth and fairness",
+            "To detect all frauds and errors",
+            "To prepare the financial statements",
+            "To guarantee future viability"
         ]
     },
     {
-        "q": "What is a 'transnational audit'?",
+        "q": "Which body issues International Standards on Auditing (ISAs)?",
+        "type": "mcq",
         "o": [
-            "An audit of financial statements which may be relied upon outside the audited entity's home jurisdiction",
-            "An audit of a local shop",
-            "An internal audit",
-            "A tax audit"
+            "IAASB",
+            "IASB",
+            "IFAC",
+            "ACCA"
         ]
     },
     {
-        "q": "What is 'money laundering'?",
-        "o": [
-            "The process of making dirty money look clean",
-            "Washing banknotes",
-            "Printing fake money",
-            "Saving money in a bank"
+        "q": "The fundamental principles of the ACCA Code of Ethics include Integrity, Objectivity, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Confidentiality"
+        ],
+        "other_options": [
+            "Honesty",
+            "Secrecy",
+            "Privacy"
         ]
     },
     {
-        "q": "In a group audit, who is responsible for the overall group opinion?",
-        "o": [
-            "The Group Engagement Partner",
-            "The component auditor",
-            "The subsidiary's management",
-            "The shareholders"
+        "q": "Match the fundamental ethical principle with its specific definition:",
+        "type": "match",
+        "left": [
+            "Integrity",
+            "Objectivity",
+            "Professional Competence",
+            "Confidentiality"
+        ],
+        "right": [
+            "Straightforward and honest",
+            "No bias or conflict of interest",
+            "Maintain knowledge and skill",
+            "Respect privacy of information"
         ]
     },
     {
-        "q": "What is 'Due Diligence'?",
-        "o": [
-            "An investigation of a business or person prior to signing a contract (e.g., acquisition)",
-            "Assuming everything is correct",
-            "Trusting the seller blindly",
-            "A quick glance at the accounts"
+        "q": "External auditors are responsible for preventing fraud in a company.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Rearrange the levels of assurance from highest to lowest:",
+        "type": "rearrange",
+        "words": [
+            "Reasonable Assurance",
+            "Limited Assurance",
+            "No Assurance"
         ]
     },
     {
-        "q": "What is 'Professional Skepticism'?",
+        "q": "Which threat arises when an auditor has a financial interest in a client?",
+        "type": "mcq",
         "o": [
-            "A questioning mind and critical assessment of audit evidence",
-            "Disbelieving everything",
-            "Accepting everything at face value",
-            "Being rude to the client"
+            "Self-interest threat",
+            "Self-review threat",
+            "Advocacy threat",
+            "Intimidation threat"
         ]
     },
     {
-        "q": "What is a 'prospective financial information' (PFI) engagement?",
+        "q": "Reviewing your own work performed in a previous service creates a ______ threat.",
+        "type": "fill_blank",
+        "answers": [
+            "self-review"
+        ],
+        "other_options": [
+            "self-interest",
+            "familiarity",
+            "advocacy"
+        ]
+    },
+    {
+        "q": "Advocacy threat occurs when an auditor promotes a client's position.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the ethical threat with an example scenario:",
+        "type": "match",
+        "left": [
+            "Familiarity",
+            "Intimidation",
+            "Self-interest",
+            "Advocacy"
+        ],
+        "right": [
+            "Long association with client",
+            "Threat of dismissal",
+            "Owning shares in client",
+            "Promoting client shares"
+        ]
+    },
+    {
+        "q": "Auditors must be independent in mind and in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "appearance"
+        ],
+        "other_options": [
+            "thought",
+            "action",
+            "paper"
+        ]
+    },
+    {
+        "q": "Which ISA deals with 'Quality Management for an Audit of Financial Statements'?",
+        "type": "mcq",
         "o": [
-            "Reporting on future financial projections (e.g., forecasts)",
-            "Auditing past financial statements",
-            "Tax consulting",
+            "ISA 220",
+            "ISA 200",
+            "ISA 315",
+            "ISA 500"
+        ]
+    },
+    {
+        "q": "Professional skepticism is an attitude that includes a questioning mind.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the stages of the money laundering process:",
+        "type": "rearrange",
+        "words": [
+            "Placement",
+            "Layering",
+            "Integration"
+        ]
+    },
+    {
+        "q": "What is the first stage of money laundering?",
+        "type": "mcq",
+        "o": [
+            "Placement",
+            "Layering",
+            "Integration",
+            "Concealment"
+        ]
+    },
+    {
+        "q": "Tipping off a client about a money laundering investigation is a criminal offence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Auditors should report money laundering suspicions to the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "MLRO"
+        ],
+        "other_options": [
+            "CEO",
+            "CFO",
+            "Shareholders"
+        ]
+    },
+    {
+        "q": "MLRO stands for Money Laundering ______ Officer.",
+        "type": "fill_blank",
+        "answers": [
+            "Reporting"
+        ],
+        "other_options": [
+            "Review",
+            "Regulatory",
+            "Risk"
+        ]
+    },
+    {
+        "q": "Which section of the auditor's report states the auditor's opinion?",
+        "type": "mcq",
+        "o": [
+            "Opinion paragraph",
+            "Basis for opinion",
+            "Key audit matters",
+            "Other information"
+        ]
+    },
+    {
+        "q": "A limitation on the scope of the audit may lead to a modified opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the type of audit opinion with its meaning:",
+        "type": "match",
+        "left": [
+            "Unmodified",
+            "Qualified",
+            "Adverse",
+            "Disclaimer"
+        ],
+        "right": [
+            "Standard clean report",
+            "Except for a specific matter",
+            "Pervasive material misstatement",
+            "Unable to obtain evidence"
+        ]
+    },
+    {
+        "q": "Materiality depends on the ______ and nature of the misstatement.",
+        "type": "fill_blank",
+        "answers": [
+            "size"
+        ],
+        "other_options": [
+            "source",
+            "time",
+            "cause"
+        ]
+    },
+    {
+        "q": "Performance materiality is set ______ materiality for the financial statements as a whole.",
+        "type": "fill_blank",
+        "answers": [
+            "lower than"
+        ],
+        "other_options": [
+            "higher than",
+            "equal to",
+            "regardless of"
+        ]
+    },
+    {
+        "q": "What does 'TCWG' stand for in auditing?",
+        "type": "mcq",
+        "o": [
+            "Those Charged With Governance",
+            "The Company Working Group",
+            "Total Compliance Work Group",
+            "Technical Committee Working Group"
+        ]
+    },
+    {
+        "q": "The engagement letter is sent before the audit begins.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the audit process steps:",
+        "type": "rearrange",
+        "words": [
+            "Acceptance",
+            "Planning",
+            "Evidence",
+            "Reporting"
+        ]
+    },
+    {
+        "q": "Audit risk is the risk that the auditor expresses an inappropriate opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Audit Risk = Inherent Risk x Control Risk x ______ Risk.",
+        "type": "fill_blank",
+        "answers": [
+            "Detection"
+        ],
+        "other_options": [
+            "Business",
+            "Fraud",
+            "Sampling"
+        ]
+    },
+    {
+        "q": "Which risk is under the direct control of the auditor?",
+        "type": "mcq",
+        "o": [
+            "Detection risk",
+            "Inherent risk",
+            "Control risk",
+            "Business risk"
+        ]
+    },
+    {
+        "q": "Inherent risk and control risk together are known as the Risk of Material ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Misstatement"
+        ],
+        "other_options": [
+            "Mistake",
+            "Malpractice",
+            "Manipulation"
+        ]
+    },
+    {
+        "q": "Match the risk type with its description:",
+        "type": "match",
+        "left": [
+            "Inherent Risk",
+            "Control Risk",
+            "Detection Risk"
+        ],
+        "right": [
+            "Susceptibility before controls",
+            "Controls fail to prevent error",
+            "Auditor fails to find error"
+        ]
+    },
+    {
+        "q": "Analytical procedures are mandatory at the planning stage.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which assertion relates to 'transactions and events'?",
+        "type": "mcq",
+        "o": [
+            "Occurrence",
+            "Existence",
+            "Rights and obligations",
+            "Valuation"
+        ]
+    },
+    {
+        "q": "Which assertion relates to 'account balances' at period end?",
+        "type": "mcq",
+        "o": [
+            "Existence",
+            "Occurrence",
+            "Cut-off",
+            "Accuracy"
+        ]
+    },
+    {
+        "q": "Cut-off assertion ensures transactions are recorded in the correct ______.",
+        "type": "fill_blank",
+        "answers": [
+            "period"
+        ],
+        "other_options": [
+            "account",
+            "currency",
+            "journal"
+        ]
+    },
+    {
+        "q": "Rearrange the hierarchy of audit evidence reliability (High to Low):",
+        "type": "rearrange",
+        "words": [
+            "External",
+            "Auditor developed",
+            "Internal",
+            "Oral"
+        ]
+    },
+    {
+        "q": "Audit documentation is also known as working papers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Working papers must be retained for at least ______ years (ISA recommendation).",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "3",
+            "7",
+            "10"
+        ]
+    },
+    {
+        "q": "Who owns the audit working papers?",
+        "type": "mcq",
+        "o": [
+            "The Auditor",
+            "The Client",
+            "The Shareholders",
+            "The Government"
+        ]
+    },
+    {
+        "q": "Which ISA covers 'The Auditor's Responsibilities Relating to Fraud'?",
+        "type": "mcq",
+        "o": [
+            "ISA 240",
+            "ISA 200",
+            "ISA 300",
+            "ISA 500"
+        ]
+    },
+    {
+        "q": "The two types of fraud are fraudulent financial reporting and misappropriation of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "assets"
+        ],
+        "other_options": [
+            "cash",
+            "equity",
+            "income"
+        ]
+    },
+    {
+        "q": "What is the 'fraud triangle' component that relates to the mindset?",
+        "type": "mcq",
+        "o": [
+            "Rationalization",
+            "Opportunity",
+            "Incentive",
+            "Pressure"
+        ]
+    },
+    {
+        "q": "Match the fraud risk factor:",
+        "type": "match",
+        "left": [
+            "Incentive",
+            "Opportunity",
+            "Rationalization"
+        ],
+        "right": [
+            "Pressure to meet targets",
+            "Weak internal controls",
+            "Justifying the action"
+        ]
+    },
+    {
+        "q": "Auditors are responsible for guaranteeing that the company is a going concern.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "ISA 570 deals with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Going Concern"
+        ],
+        "other_options": [
+            "Fraud",
+            "Inventory",
+            "Receivables"
+        ]
+    },
+    {
+        "q": "If going concern is appropriate but a material uncertainty exists, the auditor adds a key audit matter or separate section.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the structure of an auditor's report (standard):",
+        "type": "rearrange",
+        "words": [
+            "Opinion",
+            "Basis for Opinion",
+            "Key Audit Matters",
+            "Responsibilities"
+        ]
+    },
+    {
+        "q": "What is the threshold for a 'self-interest' threat regarding total fees from one client (listed entity)?",
+        "type": "mcq",
+        "o": [
+            "15%",
+            "10%",
+            "5%",
+            "20%"
+        ]
+    },
+    {
+        "q": "An auditor cannot accept gifts from a client unless they are ______ in value.",
+        "type": "fill_blank",
+        "answers": [
+            "trivial"
+        ],
+        "other_options": [
+            "significant",
+            "monetary",
+            "personal"
+        ]
+    },
+    {
+        "q": "Confidentiality can be overridden if there is a legal duty to disclose.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which standard addresses the 'Quality Management for Firms that Perform Audits'?",
+        "type": "mcq",
+        "o": [
+            "ISQM 1",
+            "ISA 220",
+            "ISA 700",
+            "IFRS 9"
+        ]
+    },
+    {
+        "q": "The objective of ISQM 1 is to manage quality at the ______ level.",
+        "type": "fill_blank",
+        "answers": [
+            "firm"
+        ],
+        "other_options": [
+            "engagement",
+            "partner",
+            "manager"
+        ]
+    },
+    {
+        "q": "Match the component of ISQM 1:",
+        "type": "match",
+        "left": [
+            "Governance",
+            "Ethical Requirements",
+            "Acceptance",
+            "Resources"
+        ],
+        "right": [
+            "leadership responsibility",
+            "integrity and objectivity",
+            "client relationship",
+            "human and technological"
+        ]
+    },
+    {
+        "q": "Root cause analysis is required when deficiencies in quality are identified.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "An Engagement Quality Review (EQR) is mandatory for audits of ______ entities.",
+        "type": "fill_blank",
+        "answers": [
+            "listed"
+        ],
+        "other_options": [
+            "private",
+            "small",
+            "charity"
+        ]
+    },
+    {
+        "q": "The Engagement Quality Reviewer must be part of the engagement team.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Rearrange the risk assessment process in ISQM 1:",
+        "type": "rearrange",
+        "words": [
+            "Identify objective",
+            "Identify risk",
+            "Design response",
+            "Monitor"
+        ]
+    },
+    {
+        "q": "Auditor liability to third parties is generally limited unless a 'duty of care' is proven.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The 'Caparo' decision established criteria for duty of care: foreseeability, proximity, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "fairness"
+        ],
+        "other_options": [
+            "payment",
+            "contract",
+            "justice"
+        ]
+    },
+    {
+        "q": "Auditors can limit liability by incorporating as a Limited Liability Partnership (LLP).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A 'Bannerman' paragraph in an audit report attempts to ______ liability to third parties.",
+        "type": "fill_blank",
+        "answers": [
+            "exclude"
+        ],
+        "other_options": [
+            "accept",
+            "increase",
+            "transfer"
+        ]
+    },
+    {
+        "q": "Match the legal concept:",
+        "type": "match",
+        "left": [
+            "Negligence",
+            "Breach of Contract",
+            "Fraud"
+        ],
+        "right": [
+            "Lack of reasonable care",
+            "Failure to fulfill terms",
+            "Intentional deception"
+        ]
+    },
+    {
+        "q": "In the UK, auditors of listed companies may enter into Liability Limitation Agreements (LLAs).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which ISA deals with 'Agreeing the Terms of Audit Engagements'?",
+        "type": "mcq",
+        "o": [
+            "ISA 210",
+            "ISA 220",
+            "ISA 230",
+            "ISA 240"
+        ]
+    },
+    {
+        "q": "The preconditions for an audit include the use of an acceptable ______ reporting framework.",
+        "type": "fill_blank",
+        "answers": [
+            "financial"
+        ],
+        "other_options": [
+            "audit",
+            "internal",
+            "tax"
+        ]
+    },
+    {
+        "q": "Management must acknowledge responsibility for internal control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If management imposes a scope limitation before acceptance that leads to a disclaimer, the auditor should ______ the engagement.",
+        "type": "fill_blank",
+        "answers": [
+            "decline"
+        ],
+        "other_options": [
+            "accept",
+            "defer",
+            "ignore"
+        ]
+    },
+    {
+        "q": "Rearrange the steps for a new audit appointment:",
+        "type": "rearrange",
+        "words": [
+            "Obtain permission",
+            "Contact old auditor",
+            "Review response",
+            "Accept"
+        ]
+    },
+    {
+        "q": "Professional clearance from the predecessor auditor is primarily to check for ______ reasons behind the change.",
+        "type": "fill_blank",
+        "answers": [
+            "professional"
+        ],
+        "other_options": [
+            "financial",
+            "personal",
+            "legal"
+        ]
+    },
+    {
+        "q": "If the outgoing auditor does not reply, the new auditor cannot accept the appointment.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Conflicts of interest should be managed by notifying all relevant parties and obtaining ______.",
+        "type": "fill_blank",
+        "answers": [
+            "consent"
+        ],
+        "other_options": [
+            "permission",
+            "approval",
+            "waiver"
+        ]
+    },
+    {
+        "q": "Chinese Walls are used to manage conflicts of interest within a firm.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is NOT a measure for Chinese Walls?",
+        "type": "mcq",
+        "o": [
+            "Sharing all data files",
+            "Physical separation",
+            "Separate teams",
+            "Password protection"
+        ]
+    },
+    {
+        "q": "Match the laundering offence:",
+        "type": "match",
+        "left": [
+            "Acquisition",
+            "Use",
+            "Possession"
+        ],
+        "right": [
+            "Obtaining criminal property",
+            "Using criminal property",
+            "Having criminal property"
+        ]
+    },
+    {
+        "q": "Identifying the 'Beneficial Owner' is part of KYC (Know Your Client) procedures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Customer Due Diligence (CDD) should be performed ______ the business relationship is established.",
+        "type": "fill_blank",
+        "answers": [
+            "before"
+        ],
+        "other_options": [
+            "after",
+            "during",
+            "never"
+        ]
+    },
+    {
+        "q": "Enhanced Due Diligence (EDD) is required for PEPS. What does PEP stand for?",
+        "type": "mcq",
+        "o": [
+            "Politically Exposed Person",
+            "Public Entity Person",
+            "Private Equity Partner",
+            "Personal Estate Planner"
+        ]
+    },
+    {
+        "q": "Auditors are protected from breach of confidentiality suits if they report money laundering in good faith.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which ISA deals with 'Consideration of Laws and Regulations'?",
+        "type": "mcq",
+        "o": [
+            "ISA 250",
+            "ISA 240",
+            "ISA 260",
+            "ISA 265"
+        ]
+    },
+    {
+        "q": "Auditors are responsible for preventing non-compliance with all laws.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Auditors must detect non-compliance regarding laws that have a ______ effect on financial statements.",
+        "type": "fill_blank",
+        "answers": [
+            "direct"
+        ],
+        "other_options": [
+            "indirect",
+            "remote",
+            "possible"
+        ]
+    },
+    {
+        "q": "If an auditor suspects non-compliance, they should first discuss it with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "management"
+        ],
+        "other_options": [
+            "police",
+            "shareholders",
+            "press"
+        ]
+    },
+    {
+        "q": "NOCLAR stands for Non-Compliance with Laws and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Regulations"
+        ],
+        "other_options": [
+            "Rules",
+            "Requirements",
+            "Restrictions"
+        ]
+    },
+    {
+        "q": "Under NOCLAR, a professional accountant may have a right or duty to override confidentiality.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the 'expectations gap'?",
+        "type": "mcq",
+        "o": [
+            "Difference between public and auditor understanding",
+            "Difference between profit and loss",
+            "Difference between audit fee and cost",
+            "Difference between management and auditor"
+        ]
+    },
+    {
+        "q": "The auditor's report explains responsibilities to reduce the expectations gap.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the ISQM 2 requirement:",
+        "type": "match",
+        "left": [
+            "Appointment",
+            "Performance",
+            "Documentation"
+        ],
+        "right": [
+            "Select reviewer",
+            "Review work",
+            "Record review"
+        ]
+    },
+    {
+        "q": "Lowballing is the practice of setting a low audit fee to win a client.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Lowballing creates a ______ threat to competence and due care.",
+        "type": "fill_blank",
+        "answers": [
+            "self-interest"
+        ],
+        "other_options": [
+            "intimidation",
+            "familiarity",
+            "advocacy"
+        ]
+    },
+    {
+        "q": "Contingent fees for audit services are generally permitted.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which body oversees the regulation of auditors in the UK (as an example)?",
+        "type": "mcq",
+        "o": [
+            "FRC",
+            "SEC",
+            "HMRC",
+            "FCA"
+        ]
+    },
+    {
+        "q": "Auditors of Public Interest Entities (PIEs) face stricter ethical rules.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Key Audit Partners for PIEs must rotate every ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "7"
+        ],
+        "other_options": [
+            "5",
+            "10",
+            "3"
+        ]
+    },
+    {
+        "q": "The cooling-off period for a key audit partner (PIE) is usually ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "2",
+            "1",
+            "10"
+        ]
+    },
+    {
+        "q": "Rearrange the hierarchy of audit firms structure:",
+        "type": "rearrange",
+        "words": [
+            "Partner",
+            "Manager",
+            "Senior",
+            "Junior"
+        ]
+    },
+    {
+        "q": "Joint audits involve two or more audit firms signing the report.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Peer review involves one audit firm reviewing another's quality control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an example of an 'Other Assurance Assignment'?",
+        "type": "mcq",
+        "o": [
+            "Review of interim financial info",
+            "Statutory audit",
+            "Tax return preparation",
+            "Payroll processing"
+        ]
+    },
+    {
+        "q": "Review engagements provide reasonable assurance.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Review engagements provide ______ assurance.",
+        "type": "fill_blank",
+        "answers": [
+            "limited"
+        ],
+        "other_options": [
+            "absolute",
+            "no",
+            "high"
+        ]
+    },
+    {
+        "q": "Advertising by professional accountants is permitted if it is not misleading.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is PROHIBITED in auditor advertising?",
+        "type": "mcq",
+        "o": [
+            "Comparison with other firms",
+            "Listing services offered",
+            "Stating fees",
+            "Contact details"
+        ]
+    },
+    {
+        "q": "Auditors are allowed to claim they are 'the best' in their advertising.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "When tendering for a new audit, the firm proposes a fee and outlines its ______.",
+        "type": "fill_blank",
+        "answers": [
+            "approach"
+        ],
+        "other_options": [
+            "history",
+            "profit",
+            "debts"
+        ]
+    },
+    {
+        "q": "Referral fees for recommending a client to another professional are generally allowed with safeguards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If an auditor receives a referral fee, they must disclose it to the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "client"
+        ],
+        "other_options": [
+            "government",
+            "police",
+            "public"
+        ]
+    },
+    {
+        "q": "Match the term related to fees:",
+        "type": "match",
+        "left": [
+            "Lowballing",
+            "Contingent Fee",
+            "Referral Fee"
+        ],
+        "right": [
+            "Underpricing to win",
+            "Based on outcome",
+            "For recommendation"
+        ]
+    },
+    {
+        "q": "Professional Indemnity Insurance (PII) protects the auditor against claims of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "negligence"
+        ],
+        "other_options": [
+            "fraud",
+            "theft",
+            "bankruptcy"
+        ]
+    },
+    {
+        "q": "PII is mandatory for all ACCA members in public practice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is 'run-off' cover in PII?",
+        "type": "mcq",
+        "o": [
+            "Cover after ceasing practice",
+            "Cover for car accidents",
+            "Cover for running costs",
+            "Cover for employees only"
+        ]
+    },
+    {
+        "q": "An auditor should hold PII for at least ______ years after ceasing practice.",
+        "type": "fill_blank",
+        "answers": [
+            "6"
+        ],
+        "other_options": [
+            "2",
+            "10",
+            "1"
+        ]
+    },
+    {
+        "q": "Which ISA generally covers 'Special Considerations - Audits of Group Financial Statements'?",
+        "type": "mcq",
+        "o": [
+            "ISA 600",
+            "ISA 500",
+            "ISA 700",
+            "ISA 200"
+        ]
+    },
+    {
+        "q": "The 'Group Engagement Partner' is responsible for the direction, supervision, and performance of the group audit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A 'component' in a group audit is an entity whose financial information is included in the group financial statements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the group audit role:",
+        "type": "match",
+        "left": [
+            "Group Auditor",
+            "Component Auditor"
+        ],
+        "right": [
+            "Responsible for group opinion",
+            "Audits a subsidiary"
+        ]
+    },
+    {
+        "q": "The group auditor is solely responsible for the group audit opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The group auditor can refer to the component auditor in their report to split responsibility.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which type of component is 'financially significant' to the group?",
+        "type": "mcq",
+        "o": [
+            "Significant component",
+            "Minor component",
+            "Dormant component",
+            "External component"
+        ]
+    },
+    {
+        "q": "For a significant component, the group auditor (or component auditor) must perform a ______ audit.",
+        "type": "fill_blank",
+        "answers": [
+            "full"
+        ],
+        "other_options": [
+            "partial",
+            "limited",
+            "quick"
+        ]
+    },
+    {
+        "q": "The materiality for a component must be ______ than the group materiality.",
+        "type": "fill_blank",
+        "answers": [
+            "lower"
+        ],
+        "other_options": [
+            "higher",
+            "equal",
+            "unrelated"
+        ]
+    },
+    {
+        "q": "Component materiality is set by the ______ auditor.",
+        "type": "fill_blank",
+        "answers": [
+            "group"
+        ],
+        "other_options": [
+            "component",
+            "internal",
+            "tax"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in a group audit planning:",
+        "type": "rearrange",
+        "words": [
+            "Understand group",
+            "Determine materiality",
+            "Identify components",
+            "Instruct component auditors"
+        ]
+    },
+    {
+        "q": "If a component is not significant, the group auditor only needs to perform ______ procedures at group level.",
+        "type": "fill_blank",
+        "answers": [
+            "analytical"
+        ],
+        "other_options": [
+            "audit",
+            "testing",
+            "verification"
+        ]
+    },
+    {
+        "q": "Which document does the group auditor send to the component auditor?",
+        "type": "mcq",
+        "o": [
+            "Instructions",
+            "Invoice",
+            "CV",
+            "Marketing brochure"
+        ]
+    },
+    {
+        "q": "The group auditor must evaluate the competence and independence of the component auditor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A Joint Audit involves two auditors auditing the same client together.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a main advantage of a joint audit?",
+        "type": "mcq",
+        "o": [
+            "Shared resources and expertise",
+            "Lower cost",
+            "Faster completion",
+            "Less documentation"
+        ]
+    },
+    {
+        "q": "What is a main disadvantage of a joint audit?",
+        "type": "mcq",
+        "o": [
+            "Potential for conflict disputes",
+            "Increased fees",
+            "Duplication of work",
+            "All of the above"
+        ]
+    },
+    {
+        "q": "Transnational audits involve reporting across multiple ______.",
+        "type": "fill_blank",
+        "answers": [
+            "jurisdictions"
+        ],
+        "other_options": [
+            "currencies",
+            "languages",
+            "continents"
+        ]
+    },
+    {
+        "q": "Which is a challenge in transnational audits?",
+        "type": "mcq",
+        "o": [
+            "Different accounting standards",
+            "Same language everywhere",
+            "Single currency",
+            "Uniform laws"
+        ]
+    },
+    {
+        "q": "ISA 540 deals with Auditing Accounting ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Estimates"
+        ],
+        "other_options": [
+            "Entries",
+            "Errors",
+            "Expenses"
+        ]
+    },
+    {
+        "q": "Accounting estimates often involve a high degree of measurement ______.",
+        "type": "fill_blank",
+        "answers": [
+            "uncertainty"
+        ],
+        "other_options": [
+            "accuracy",
+            "precision",
+            "certainty"
+        ]
+    },
+    {
+        "q": "Auditors must review the outcome of accounting estimates made in the ______ period.",
+        "type": "fill_blank",
+        "answers": [
+            "prior"
+        ],
+        "other_options": [
+            "future",
+            "current",
+            "next"
+        ]
+    },
+    {
+        "q": "Management bias is a significant risk in accounting estimates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the audit approach for estimates:",
+        "type": "rearrange",
+        "words": [
+            "Risk assessment",
+            "Test controls",
+            "Substantive tests",
+            "Evaluate reasonableness"
+        ]
+    },
+    {
+        "q": "Which is an example of a fair value estimate?",
+        "type": "mcq",
+        "o": [
+            "Share-based payments",
+            "Cash balance",
+            "Loan interest rate",
+            "Rent expense"
+        ]
+    },
+    {
+        "q": "ISA 550 deals with ______ Parties.",
+        "type": "fill_blank",
+        "answers": [
+            "Related"
+        ],
+        "other_options": [
+            "External",
+            "Third",
+            "Internal"
+        ]
+    },
+    {
+        "q": "Related party transactions have a higher risk of fraud.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Who is responsible for identifying related parties?",
+        "type": "mcq",
+        "o": [
+            "Management",
+            "Auditor",
+            "Shareholders",
+            "Government"
+        ]
+    },
+    {
+        "q": "The auditor should inspect the minutes of shareholder meetings to identify related parties.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If a related party transaction is outside the normal course of business, the auditor should inspect ______.",
+        "type": "fill_blank",
+        "answers": [
+            "contracts"
+        ],
+        "other_options": [
+            "invoices",
+            "emails",
+            "building"
+        ]
+    },
+    {
+        "q": "Using the work of an auditor's expert is covered by ISA ______.",
+        "type": "fill_blank",
+        "answers": [
+            "620"
+        ],
+        "other_options": [
+            "610",
+            "600",
+            "500"
+        ]
+    },
+    {
+        "q": "The auditor must evaluate the expert's competence, capabilities, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "objectivity"
+        ],
+        "other_options": [
+            "wealth",
+            "age",
+            "salary"
+        ]
+    },
+    {
+        "q": "The auditor should reference the expert in an unmodified opinion.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Internal Audit is an independent appraisal function within an organization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which ISA covers 'Using the Work of Internal Auditors'?",
+        "type": "mcq",
+        "o": [
+            "ISA 610",
+            "ISA 620",
+            "ISA 600",
+            "ISA 500"
+        ]
+    },
+    {
+        "q": "External auditors can use internal auditors to provide ______ assistance.",
+        "type": "fill_blank",
+        "answers": [
+            "direct"
+        ],
+        "other_options": [
+            "indirect",
+            "full",
+            "no"
+        ]
+    },
+    {
+        "q": "Direct assistance is prohibited in some jurisdictions (e.g., UK).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Internal auditors are responsible to the external auditor.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the audit type:",
+        "type": "match",
+        "left": [
+            "External Audit",
+            "Internal Audit"
+        ],
+        "right": [
+            "Statutory requirement",
+            "Management tool"
+        ]
+    },
+    {
+        "q": "Which ISA deals with 'Audit Documentation'?",
+        "type": "mcq",
+        "o": [
+            "ISA 230",
+            "ISA 220",
+            "ISA 240",
+            "ISA 500"
+        ]
+    },
+    {
+        "q": "Audit documentation must be sufficient to enable an experienced auditor to understand the work performed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The auditor must assemble the final audit file within ______ days of the audit report date.",
+        "type": "fill_blank",
+        "answers": [
+            "60"
+        ],
+        "other_options": [
+            "30",
+            "90",
+            "45"
+        ]
+    },
+    {
+        "q": "After the assembly period, the auditor can delete audit documentation.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Changes to audit documentation after the assembly period must be documented with reasons.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISA 315 requires the auditor to identify risks of material misstatement through understanding the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "entity"
+        ],
+        "other_options": [
+            "bank",
+            "market",
+            "future"
+        ]
+    },
+    {
+        "q": "Rearrange the components of internal control (COSO):",
+        "type": "rearrange",
+        "words": [
+            "Control Environment",
+            "Risk Assessment",
+            "Control Activities",
+            "Information System",
+            "Monitoring"
+        ]
+    },
+    {
+        "q": "Which component is the 'foundation' of internal control?",
+        "type": "mcq",
+        "o": [
+            "Control Environment",
+            "Monitoring",
+            "Risk Assessment",
+            "Control Activities"
+        ]
+    },
+    {
+        "q": "Match the control activity type:",
+        "type": "match",
+        "left": [
+            "Authorization",
+            "Segregation of Duties",
+            "Physical Controls"
+        ],
+        "right": [
+            "Approval of transactions",
+            "Splitting tasks",
+            "Locks and safes"
+        ]
+    },
+    {
+        "q": "Segregation of duties prevents one person from perpetrating and ______ fraud.",
+        "type": "fill_blank",
+        "answers": [
+            "concealing"
+        ],
+        "other_options": [
+            "detecting",
+            "reporting",
+            "planning"
+        ]
+    },
+    {
+        "q": "Which ISA covers 'The Auditor's Responses to Assessed Risks'?",
+        "type": "mcq",
+        "o": [
+            "ISA 330",
+            "ISA 315",
+            "ISA 320",
+            "ISA 450"
+        ]
+    },
+    {
+        "q": "Tests of controls are mandatory if the auditor relies on the operating effectiveness of controls.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Substantive procedures are required for each material class of transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the audit procedure:",
+        "type": "match",
+        "left": [
+            "Inspection",
+            "Observation",
+            "Inquiry",
+            "Recalculation"
+        ],
+        "right": [
+            "Examining records",
+            "Watching a process",
+            "Asking questions",
+            "Checking math"
+        ]
+    },
+    {
+        "q": "Which procedure provides the highest reliability?",
+        "type": "mcq",
+        "o": [
+            "Inspection of external documents",
+            "Inquiry of management",
+            "Observation of inventory count",
+            "Analytical procedures"
+        ]
+    },
+    {
+        "q": "External confirmation is covered by ISA ______.",
+        "type": "fill_blank",
+        "answers": [
+            "505"
+        ],
+        "other_options": [
+            "500",
+            "501",
+            "520"
+        ]
+    },
+    {
+        "q": "A positive confirmation request asks the party to reply in all cases.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A negative confirmation request asks the party to reply only if they ______.",
+        "type": "fill_blank",
+        "answers": [
+            "disagree"
+        ],
+        "other_options": [
+            "agree",
+            "receive",
+            "pay"
+        ]
+    },
+    {
+        "q": "Negative confirmations provide stronger evidence than positive ones.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Analytical procedures used as substantive tests are called Substantive Analytical Procedures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISA 520 states that analytical procedures must be used at the ______ stage.",
+        "type": "fill_blank",
+        "answers": [
+            "planning"
+        ],
+        "other_options": [
+            "execution",
+            "reporting",
+            "internal"
+        ]
+    },
+    {
+        "q": "They must also be used at the ______ review stage.",
+        "type": "fill_blank",
+        "answers": [
+            "final"
+        ],
+        "other_options": [
+            "initial",
+            "interim",
+            "risk"
+        ]
+    },
+    {
+        "q": "Sampling risk is the risk that the auditor's conclusion based on a sample may differ from the entire population.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which ISA deals with 'Audit Sampling'?",
+        "type": "mcq",
+        "o": [
+            "ISA 530",
+            "ISA 500",
+            "ISA 550",
+            "ISA 580"
+        ]
+    },
+    {
+        "q": "Match the sampling method:",
+        "type": "match",
+        "left": [
+            "Random Selection",
+            "Systematic Selection",
+            "Haphazard Selection"
+        ],
+        "right": [
+            "Chance based (tables)",
+            "Interval based",
+            "No structured technique"
+        ]
+    },
+    {
+        "q": "Monetary Unit Sampling (MUS) gives higher chance of selection to ______ items.",
+        "type": "fill_blank",
+        "answers": [
+            "larger"
+        ],
+        "other_options": [
+            "smaller",
+            "average",
+            "random"
+        ]
+    },
+    {
+        "q": "Written representations are covered by ISA ______.",
+        "type": "fill_blank",
+        "answers": [
+            "580"
+        ],
+        "other_options": [
+            "570",
+            "560",
+            "500"
+        ]
+    },
+    {
+        "q": "Written representations from management are sufficient audit evidence on their own.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "If management refuses to provide a written representation, the auditor should issue a ______ opinion.",
+        "type": "fill_blank",
+        "answers": [
+            "disclaimer"
+        ],
+        "other_options": [
+            "qualified",
+            "adverse",
+            "standard"
+        ]
+    },
+    {
+        "q": "ISA 450 deals with 'Evaluation of ______ Identified during the Audit'.",
+        "type": "fill_blank",
+        "answers": [
+            "Misstatements"
+        ],
+        "other_options": [
+            "Risks",
+            "Frauds",
+            "Errors"
+        ]
+    },
+    {
+        "q": "The auditor must communicate all uncorrected misstatements to TCWG.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Trivial misstatements do not need to be accumulated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a factor in identifying a significant deficiency in internal control?",
+        "type": "mcq",
+        "o": [
+            "Likelihood of misstatement",
+            "Cost of correction",
+            "Age of the control",
+            "Complexity of software"
+        ]
+    },
+    {
+        "q": "Significant deficiencies must be communicated to TCWG in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "writing"
+        ],
+        "other_options": [
+            "person",
+            "meetings",
+            "phone"
+        ]
+    },
+    {
+        "q": "The management letter contains suggestions for improving ______ control.",
+        "type": "fill_blank",
+        "answers": [
+            "internal"
+        ],
+        "other_options": [
+            "quality",
+            "stock",
+            "cash"
+        ]
+    },
+    {
+        "q": "Service Organizations are covered by ISA ______.",
+        "type": "fill_blank",
+        "answers": [
+            "402"
+        ],
+        "other_options": [
+            "400",
+            "450",
+            "500"
+        ]
+    },
+    {
+        "q": "A Type 1 report for a service organization covers the ______ of controls.",
+        "type": "fill_blank",
+        "answers": [
+            "design"
+        ],
+        "other_options": [
+            "effectiveness",
+            "cost",
+            "future"
+        ]
+    },
+    {
+        "q": "A Type 2 report covers design and operating ______.",
+        "type": "fill_blank",
+        "answers": [
+            "effectiveness"
+        ],
+        "other_options": [
+            "efficiency",
+            "economy",
+            "errors"
+        ]
+    },
+    {
+        "q": "The auditor can rely on a Type 1 report for tests of controls.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "ISA 501 covers specific considerations for Inventory, Litigation, and ______ Information.",
+        "type": "fill_blank",
+        "answers": [
+            "Segment"
+        ],
+        "other_options": [
+            "Sales",
+            "Staff",
+            "Supplier"
+        ]
+    },
+    {
+        "q": "If inventory is material, the auditor must attend the physical inventory counting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the inventory count procedures:",
+        "type": "rearrange",
+        "words": [
+            "Evaluate instructions",
+            "Observe count",
+            "Inspect items",
+            "Test count"
+        ]
+    },
+    {
+        "q": "Cut-off testing at inventory count prevents double counting or omission.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "For litigation and claims, the auditor should inquire of management and external legal counsel.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If management refuses to permit inquiry of legal counsel, the auditor modifies the opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is 'prospective financial information' (PFI)?",
+        "type": "mcq",
+        "o": [
+            "Forecasts and projections",
+            "Historical financial statements",
+            "Tax returns",
+            "Payroll records"
+        ]
+    },
+    {
+        "q": "ISAE 3400 covers the examination of PFI.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A forecast is based on ______ assumptions.",
+        "type": "fill_blank",
+        "answers": [
+            "best-estimate"
+        ],
+        "other_options": [
+            "hypothetical",
+            "random",
+            "worst-case"
+        ]
+    },
+    {
+        "q": "A projection is based on ______ assumptions.",
+        "type": "fill_blank",
+        "answers": [
+            "hypothetical"
+        ],
+        "other_options": [
+            "actual",
+            "proven",
+            "legal"
+        ]
+    },
+    {
+        "q": "The auditor gives negative assurance on PFI assumptions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Goodwill in a group audit is a high-risk area due to valuation subjectivity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is an intra-group transaction that must be eliminated?",
+        "type": "mcq",
+        "o": [
+            "Sale of goods between parent and subsidiary",
+            "Sale of goods to external customer",
+            "Payment of tax to government",
+            "Purchase of assets from supplier"
+        ]
+    },
+    {
+        "q": "Unrealized profile on intra-group inventory must be added back to the group inventory balance.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "It must be ______ from the group inventory balance.",
+        "type": "fill_blank",
+        "answers": [
+            "eliminated"
+        ],
+        "other_options": [
+            "added",
+            "ignored",
+            "doubled"
+        ]
+    },
+    {
+        "q": "A foreign subsidiary's financial statements must be translated into the group's ______ currency.",
+        "type": "fill_blank",
+        "answers": [
+            "presentation"
+        ],
+        "other_options": [
+            "functional",
+            "local",
+            "audit"
+        ]
+    },
+    {
+        "q": "ISA 600 applies even if the group auditor is the auditor of all components.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If the group auditor cannot get sufficient evidence on a component, they should issue a ______ opinion.",
+        "type": "fill_blank",
+        "answers": [
+            "qualified"
+        ],
+        "other_options": [
+            "standard",
+            "clean",
+            "favorable"
+        ]
+    },
+    {
+        "q": "Rearrange the consolidation audit steps:",
+        "type": "rearrange",
+        "words": [
+            "Agree underlying data",
+            "Check usage of standard policies",
+            "Verify eliminations",
+            "Check translation"
+        ]
+    },
+    {
+        "q": "Forensic auditing is primarily performed to detect and investigate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "fraud"
+        ],
+        "other_options": [
+            "errors",
+            "waste",
+            "tax"
+        ]
+    },
+    {
+        "q": "Forensic auditors must always assume the suspect is guilty.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which is a common application of forensic auditing?",
+        "type": "mcq",
+        "o": [
+            "Insurance claims",
+            "Annual statutory audit",
+            "Budget preparation",
+            "Marketing analysis"
+        ]
+    },
+    {
+        "q": "Match the forensic term:",
+        "type": "match",
+        "left": [
+            "Asset Tracing",
+            "Expert Witness",
+            "Data Mining"
+        ],
+        "right": [
+            "Locating stolen funds",
+            "Testifying in court",
+            "Analyzing huge data"
+        ]
+    },
+    {
+        "q": "Due diligence is typically performed before a ______ or acquisition.",
+        "type": "fill_blank",
+        "answers": [
+            "merger"
+        ],
+        "other_options": [
+            "audit",
+            "sale",
+            "closure"
+        ]
+    },
+    {
+        "q": "The scope of due diligence is defined by the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "client"
+        ],
+        "other_options": [
+            "law",
+            "auditor",
+            "public"
+        ]
+    },
+    {
+        "q": "Due diligence provides a higher level of assurance than a statutory audit.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Due diligence focuses on valuation, commercial viability, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risks"
+        ],
+        "other_options": [
+            "ethics",
+            "format",
+            "fonts"
+        ]
+    },
+    {
+        "q": "Match the type of due diligence:",
+        "type": "match",
+        "left": [
+            "Financial",
+            "Commercial",
+            "Operational"
+        ],
+        "right": [
+            "Reviewing accounts",
+            "Reviewing market pos",
+            "Reviewing processes"
+        ]
+    },
+    {
+        "q": "Social and Environmental auditing is mandatory for all companies.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "ISAE 3000 deals with assurance engagements other than audits or reviews of ______ financial information.",
+        "type": "fill_blank",
+        "answers": [
+            "historical"
+        ],
+        "other_options": [
+            "future",
+            "projected",
+            "estimated"
+        ]
+    },
+    {
+        "q": "Which is a challenge in auditing social performance?",
+        "type": "mcq",
+        "o": [
+            "Quantification difficulty",
+            "Lack of interest",
+            "Clear laws",
+            "Defined standards"
+        ]
+    },
+    {
+        "q": "Environmental liabilities (e.g., clean-up costs) must be recognized under IAS ______.",
+        "type": "fill_blank",
+        "answers": [
+            "37"
+        ],
+        "other_options": [
+            "16",
+            "10",
+            "38"
+        ]
+    },
+    {
+        "q": "Rearrange the levels of environmental audit:",
+        "type": "rearrange",
+        "words": [
+            "Policy development",
+            "Target setting",
+            "Performance monitoring",
+            "Reporting"
+        ]
+    },
+    {
+        "q": "An 'assurance report on controls at a service organization' is an example of an ISAE 3402 engagement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the sustainability term:",
+        "type": "match",
+        "left": [
+            "Triple Bottom Line",
+            "Carbon Footprint",
+            "Greenwashing"
+        ],
+        "right": [
+            "People Planet Profit",
+            "Emission measure",
+            "Misleading eco-claims"
+        ]
+    },
+    {
+        "q": "Public Sector audits focus on Value for Money (VFM).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The '3 Es' of VFM are Economy, Efficiency, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Effectiveness"
+        ],
+        "other_options": [
+            "Equity",
+            "Earning",
+            "Estimation"
+        ]
+    },
+    {
+        "q": "Performance auditing in the public sector is purely financial.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which ISA deals with 'Specific Considerations - Audit of Financial Statements Prepared in Accordance with Special Purpose Frameworks'?",
+        "type": "mcq",
+        "o": [
+            "ISA 800",
+            "ISA 700",
+            "ISA 600",
+            "ISA 200"
+        ]
+    },
+    {
+        "q": "ISA 805 deals with audits of single financial statements or specific ______.",
+        "type": "fill_blank",
+        "answers": [
+            "elements"
+        ],
+        "other_options": [
+            "users",
+            "periods",
+            "laws"
+        ]
+    },
+    {
+        "q": "Summary Financial Statements assurance is covered by ISA ______.",
+        "type": "fill_blank",
+        "answers": [
+            "810"
+        ],
+        "other_options": [
+            "800",
+            "700",
+            "200"
+        ]
+    },
+    {
+        "q": "The auditor must verify that summary financial statements are consistent with the audited financial statements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the structure of an assurance report (ISAE 3000):",
+        "type": "rearrange",
+        "words": [
+            "Subject Matter",
+            "Criteria",
+            "Procedures",
+            "Conclusion"
+        ]
+    },
+    {
+        "q": "Intangible assets like 'brand name' are easily verified by physical inspection.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "For intangible assets, the auditor focuses on valuation and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "impairment"
+        ],
+        "other_options": [
+            "location",
+            "color",
+            "weight"
+        ]
+    },
+    {
+        "q": "Research costs must always be capitalized.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Development costs must be capitalized if they meet the criteria in IAS ______.",
+        "type": "fill_blank",
+        "answers": [
+            "38"
+        ],
+        "other_options": [
+            "16",
+            "2",
+            "40"
+        ]
+    },
+    {
+        "q": "Which criteria is NOT for capitalizing development costs (PIRATE)?",
+        "type": "mcq",
+        "o": [
+            "Immediate profit",
+            "Intention to complete",
+            "Resources available",
+            "Technical feasibility"
+        ]
+    },
+    {
+        "q": "Financial instruments audit involves high risk of valuation, especially for Level ______ inputs.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "1",
+            "2",
+            "0"
+        ]
+    },
+    {
+        "q": "Match the fair value hierarchy level:",
+        "type": "match",
+        "left": [
+            "Level 1",
+            "Level 2",
+            "Level 3"
+        ],
+        "right": [
+            "Quoted prices",
+            "Observable inputs",
+            "Unobservable inputs"
+        ]
+    },
+    {
+        "q": "Derivatives must be measured at fair value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an audit risk for financial instruments?",
+        "type": "mcq",
+        "o": [
+            "Complex valuation",
+            "Simple calculation",
+            "Cash basis",
+            "No risk"
+        ]
+    },
+    {
+        "q": "Auditors often need an auditor's expert for valuing complex financial instruments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In auditing payroll, the auditor checks for 'ghost employees'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A ghost employee is a fictional employee on the payroll system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the payroll audit tests:",
+        "type": "rearrange",
+        "words": [
+            "Verify existence",
+            "Check rates",
+            "Recalculate deductions",
+            "Agree net pay"
+        ]
+    },
+    {
+        "q": "Share-based payments (IFRS 2) valuation depends on the ______ model.",
+        "type": "fill_blank",
+        "answers": [
+            "option pricing"
+        ],
+        "other_options": [
+            "linear",
+            "gravity",
+            "random"
+        ]
+    },
+    {
+        "q": "The grant date is irrelevant for equity-settled share-based payments.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which vesting condition relates to the employee working for a specified period?",
+        "type": "mcq",
+        "o": [
+            "Service condition",
+            "Performance condition",
+            "Market condition",
+            "Price condition"
+        ]
+    },
+    {
+        "q": "Cash-settled share-based payments create a liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Defined Benefit pension schemes involve actuarial assumptions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The 'Opinion' section must be the first section of the auditor's report.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Key Audit Matters (KAM) are selected from matters communicated to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "TCWG"
+        ],
+        "other_options": [
+            "shareholders",
+            "media",
+            "employees"
+        ]
+    },
+    {
+        "q": "KAMs are required for audits of all listed entities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the audit report paragraph:",
+        "type": "match",
+        "left": [
+            "Emphasis of Matter",
+            "Other Matter",
+            "Material Uncertainty Related to Going Concern"
+        ],
+        "right": [
+            "Fundamental to understanding statements",
+            "Relevant to understanding audit",
+            "Doubt on ability to continue"
+        ]
+    },
+    {
+        "q": "An Emphasis of Matter paragraph is used to report a modified opinion.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "ISA 720 requires the auditor to read 'Other Information' for material ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inconsistency"
+        ],
+        "other_options": [
+            "fraud",
+            "errors",
+            "omissions"
+        ]
+    },
+    {
+        "q": "If other information is inconsistent and management refuses to correct it, the auditor should describe it in the ______ section.",
+        "type": "fill_blank",
+        "answers": [
+            "Other Information"
+        ],
+        "other_options": [
+            "Opinion",
+            "KAM",
+            "Basis for Opinion"
+        ]
+    },
+    {
+        "q": "Which is an indicator of going concern problems?",
+        "type": "mcq",
+        "o": [
+            "Net liability position",
+            "High profit margin",
+            "Launching new product",
+            "Paying dividends"
+        ]
+    },
+    {
+        "q": "Rearrange the going concern assessment timeline:",
+        "type": "rearrange",
+        "words": [
+            "Management assessment",
+            "Auditor evaluation",
+            "Perform procedures",
+            "Conclude"
+        ]
+    },
+    {
+        "q": "Management must assess going concern for at least ______ months from the reporting date.",
+        "type": "fill_blank",
+        "answers": [
+            "12"
+        ],
+        "other_options": [
+            "6",
+            "18",
+            "24"
+        ]
+    },
+    {
+        "q": "If financial statements are prepared on a liquidation basis (correctly), the auditor gives an unmodified opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Subsequent events occur between the reporting date and the date of the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "auditor's report"
+        ],
+        "other_options": [
+            "issue of shares",
+            "AGM",
+            "tax return"
+        ]
+    },
+    {
+        "q": "Adjusting events provide evidence of conditions that existed at the reporting date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-adjusting events are indicative of conditions that arose ______ the reporting date.",
+        "type": "fill_blank",
+        "answers": [
+            "after"
+        ],
+        "other_options": [
+            "before",
+            "during",
+            "within"
+        ]
+    },
+    {
+        "q": "Which is an adjusting event?",
+        "type": "mcq",
+        "o": [
+            "Bankruptcy of a customer (confirmed bad debt)",
+            "Fire destroying assets after year-end",
+            "Major merger announcement",
+            "Share issue after year-end"
+        ]
+    },
+    {
+        "q": "Which is a non-adjusting event?",
+        "type": "mcq",
+        "o": [
+            "Fire destroying inventory after year-end",
+            "Sale of inventory below cost (NRV evidence)",
+            "Court case settlement confirming liability",
+            "Discovery of fraud from the year"
+        ]
+    },
+    {
+        "q": "Match the date:",
+        "type": "match",
+        "left": [
+            "Reporting Date",
+            " Auditor's Report Date",
+            "Issue Date"
+        ],
+        "right": [
+            "Year end",
+            "Auditor signs off",
+            "Statements available to public"
+        ]
+    },
+    {
+        "q": "The auditor has an active duty to identify subsequent events until the date of the auditor's report.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "After the audit report date but before issue, the auditor has a ______ duty.",
+        "type": "fill_blank",
+        "answers": [
+            "passive"
+        ],
+        "other_options": [
+            "active",
+            "full",
+            "no"
+        ]
+    },
+    {
+        "q": "If facts become known after the report date that would have caused an amendment, the auditor may need to issue a new report.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Opening balances audit (ISA 510) is critical for initial engagements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If opening balances contain a material misstatement not corrected, the auditor qualifies the current opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Comparative information can be 'Corresponding Figures' or 'Comparative Financial Statements'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the sequence of events review:",
+        "type": "rearrange",
+        "words": [
+            "Enquire management",
+            "Read minutes",
+            "Review interim accounts"
+        ]
+    },
+    {
+        "q": "Written representations are required for all audits.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The date of the written representation should be as near as practicable to the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "auditor's report date"
+        ],
+        "other_options": [
+            "reporting date",
+            "AGM date",
+            "tax date"
+        ]
+    },
+    {
+        "q": "Representations can substitute for other reasonably available audit evidence.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Who signs the written representation letter?",
+        "type": "mcq",
+        "o": [
+            "CEO and CFO",
+            "Auditor",
+            "Audit Committee",
+            "Internal Auditor"
+        ]
+    },
+    {
+        "q": "If representations are inconsistent with other evidence, the auditor should investigate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which ISA deals with 'Related Parties'?",
+        "type": "mcq",
+        "o": [
+            "ISA 550",
+            "ISA 500",
+            "ISA 600",
+            "ISA 240"
+        ]
+    },
+    {
+        "q": "Related party transactions must be disclosed unless they are immaterial.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Related party disclosures are material by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "nature"
+        ],
+        "other_options": [
+            "size",
+            "volume",
+            "frequency"
+        ]
+    },
+    {
+        "q": "The auditor should obtain a written representation regarding the completeness of related party content.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which implies higher assurance?",
+        "type": "mcq",
+        "o": [
+            "Positive Assurance",
+            "Negative Assurance",
+            "Review Engagement",
+            "Compilation Engagement"
+        ]
+    },
+    {
+        "q": "Agreed-Upon Procedures (ISR 4400) result in a report of ______ findings.",
+        "type": "fill_blank",
+        "answers": [
+            "factual"
+        ],
+        "other_options": [
+            "audit",
+            "review",
+            "opinion"
+        ]
+    },
+    {
+        "q": "No assurance is expressed in an Agreed-Upon Procedures engagement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Compilations (ISR 4410) involve assisting management with preparation of financial information.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Users derive assurance from a compilation engagement.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the engagement type with the standard:",
+        "type": "match",
+        "left": [
+            "Review",
+            "Agreed-Upon Procedures",
+            "Compilation"
+        ],
+        "right": [
+            "ISRE 2400",
+            "ISR 4400",
+            "ISR 4410"
+        ]
+    },
+    {
+        "q": "PFI engagements check if assumptions are not unreasonable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which period comes after the reporting period?",
+        "type": "mcq",
+        "o": [
+            "Subsequent period",
+            "Prior period",
+            "Interim period",
+            "Audit period"
+        ]
+    },
+    {
+        "q": "Audit risk includes the risk that the auditor fails to detect a material misstatement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the audit completion steps:",
+        "type": "rearrange",
+        "words": [
+            "Review work",
+            "Evaluate misstatements",
+            "Obtain representations",
+            "Issue report"
+        ]
+    },
+    {
+        "q": "The 'hot review' is another name for the Engagement Quality Review.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The 'cold review' takes place ______ the audit report is signed.",
+        "type": "fill_blank",
+        "answers": [
+            "after"
+        ],
+        "other_options": [
+            "before",
+            "during",
+            "while"
+        ]
+    },
+    {
+        "q": "Cold reviews are part of the firm's monitoring process.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does EQCR stand for?",
+        "type": "mcq",
+        "o": [
+            "Engagement Quality Control Review",
+            "External Quality Compliance Review",
+            "Economic Quality Check Report",
+            "Engagement Query Control Record"
+        ]
+    },
+    {
+        "q": "Analytical procedures in the overall review stage help corroborate conclusions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If the auditor cannot obtain sufficient appropriate audit evidence, a qualified or ______ opinion is issued.",
+        "type": "fill_blank",
+        "answers": [
+            "disclaimer"
+        ],
+        "other_options": [
+            "adverse",
+            "unmodified",
+            "clean"
+        ]
+    },
+    {
+        "q": "If the financial statements are materially misstated, a qualified or ______ opinion is issued.",
+        "type": "fill_blank",
+        "answers": [
+            "adverse"
+        ],
+        "other_options": [
+            "disclaimer",
+            "unmodified",
+            "standard"
+        ]
+    },
+    {
+        "q": "In a Step Acquisition, the previously held equity interest is remeasured at fair value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The gain or loss on remeasurement in a step acquisition is recognized in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit or loss"
+        ],
+        "other_options": [
+            "equity",
+            "OCI",
+            "assets"
+        ]
+    },
+    {
+        "q": "When a subsidiary is disposed of, the group auditor verifies the deconsolidation date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The profit on disposal of a subsidiary is calculated as Sale Proceeds less Net Assets less ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Goodwill"
+        ],
+        "other_options": [
+            "Cash",
+            "Liabilities",
+            "Revenue"
+        ]
+    },
+    {
+        "q": "Which ISA deals with 'Initial Audit Engagements - Opening Balances'?",
+        "type": "mcq",
+        "o": [
+            "ISA 510",
+            "ISA 500",
+            "ISA 520",
+            "ISA 530"
+        ]
+    },
+    {
+        "q": "Insolvency refers to the inability to pay debts as they fall due.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the insolvency procedure:",
+        "type": "match",
+        "left": [
+            "Liquidation",
+            "Administration",
+            "Receivership"
+        ],
+        "right": [
+            "Winding up company",
+            "Rescuing company",
+            "Secured creditor action"
+        ]
+    },
+    {
+        "q": "An auditor of a company entering insolvency must considers the ______ basis of accounting.",
+        "type": "fill_blank",
+        "answers": [
+            "break-up"
+        ],
+        "other_options": [
+            "going concern",
+            "accrual",
+            "cash"
+        ]
+    },
+    {
+        "q": "The break-up basis values assets at their ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "realizable"
+        ],
+        "other_options": [
+            "historical",
+            "book",
+            "replacement"
+        ]
+    },
+    {
+        "q": "Fraudulent trading implies an intent to defraud creditors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Wrongful trading involves continuing to trade when the director knew there was no prospect of avoiding ______.",
+        "type": "fill_blank",
+        "answers": [
+            "insolvency"
+        ],
+        "other_options": [
+            "loss",
+            "audit",
+            "tax"
+        ]
+    },
+    {
+        "q": "Auditors have a duty to report wrongful trading directly to the police immediately.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which is a 'Current Issue' in auditing?",
+        "type": "mcq",
+        "o": [
+            "Audit quality in remote working",
+            "Double entry bookkeeping",
+            "Manual ledgers",
+            "Paper documentation"
+        ]
+    },
+    {
+        "q": "Data Analytics allows testing of ______% of transactions.",
+        "type": "fill_blank",
+        "answers": [
+            "100"
+        ],
+        "other_options": [
+            "10",
+            "50",
+            "5"
+        ]
+    },
+    {
+        "q": "Blockchain technology acts as a distributed ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ledger"
+        ],
+        "other_options": [
+            "audit",
+            "bank",
+            "currency"
+        ]
+    },
+    {
+        "q": "Auditing cryptocurrency assets involves high ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "inherent"
+        ],
+        "other_options": [
+            "control",
+            "detection",
+            "low"
+        ]
+    },
+    {
+        "q": "Rearrange the data analytics process:",
+        "type": "rearrange",
+        "words": [
+            "Data extraction",
+            "Data cleaning",
+            "Validation",
+            "Analysis"
+        ]
+    },
+    {
+        "q": "Climate-related risks are not relevant to financial statement audits.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The TCFD stands for Task Force on Climate-related ______ Disclosures.",
+        "type": "fill_blank",
+        "answers": [
+            "Financial"
+        ],
+        "other_options": [
+            "Future",
+            "Forecast",
+            "Foreign"
+        ]
+    },
+    {
+        "q": "Robotic Process Automation (RPA) can automate repetitive audit tasks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Transnational audits may require the auditor to report under multiple frameworks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which body issues IFRS?",
+        "type": "mcq",
+        "o": [
+            "IASB",
+            "IAASB",
+            "IFAC",
+            "FASB"
+        ]
+    },
+    {
+        "q": "ISRE 2410 applies to reviews of interim financial info performed by the entity's independent auditor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "An interim review is primarily based on ______ and analytical procedures.",
+        "type": "fill_blank",
+        "answers": [
+            "inquiries"
+        ],
+        "other_options": [
+            "inspections",
+            "confirmations",
+            "recalculations"
+        ]
+    },
+    {
+        "q": "Match the review type:",
+        "type": "match",
+        "left": [
+            "ISRE 2400",
+            "ISRE 2410"
+        ],
+        "right": [
+            "Practitioner not auditor",
+            "Entity's auditor"
+        ]
+    },
+    {
+        "q": "Joint and Several Liability means each defendant can be liable for the full damages.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Proportionate Liability means a defendant is only liable for their share of the blame.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Auditors generally prefer Joint and Several Liability.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "A 'comfort letter' is often provided to underwriters in a securities offering.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Comfort letters provide ______ assurance.",
+        "type": "fill_blank",
+        "answers": [
+            "negative"
+        ],
+        "other_options": [
+            "positive",
+            "absolute",
+            "reasonable"
+        ]
+    },
+    {
+        "q": "Which helps prevent 'expectation gap' regarding fraud detection?",
+        "type": "mcq",
+        "o": [
+            "Engagement letter",
+            "Audit fee",
+            "Audit plan",
+            "Working papers"
+        ]
+    },
+    {
+        "q": "The 'Post-Issuance' review is part of the monitoring process in ISQM 1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Root Cause Analysis (RCA) asks 'Why' multiple times to find the underlying issue.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the RCA steps:",
+        "type": "rearrange",
+        "words": [
+            "Identify deficiency",
+            "Gather data",
+            "Determine root cause",
+            "Implement action"
+        ]
+    },
+    {
+        "q": "Professional skepticism involves being critical of audit evidence that contradicts other evidence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a threat to professional skepticism?",
+        "type": "mcq",
+        "o": [
+            "Time pressure",
+            "New client",
+            "Complex transaction",
+            "High fee"
+        ]
+    },
+    {
+        "q": "Cognitive biases (e.g., confirmation bias) can impair auditor judgment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Automation bias is relying too much on ______ outputs.",
+        "type": "fill_blank",
+        "answers": [
+            "system"
+        ],
+        "other_options": [
+            "human",
+            "manual",
+            "client"
+        ]
+    },
+    {
+        "q": "ISA 260 requires communication with TCWG on widespread control deficiencies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Significant matters arising from the audit should be communicated to TCWG ______.",
+        "type": "fill_blank",
+        "answers": [
+            "on a timely basis"
+        ],
+        "other_options": [
+            "after 1 year",
+            "never",
+            "if asked"
+        ]
+    },
+    {
+        "q": "Match the term:",
+        "type": "match",
+        "left": [
+            "TCWG",
+            "Management"
+        ],
+        "right": [
+            "Oversight role",
+            "Executive role"
+        ]
+    },
+    {
+        "q": "Internal audit function external quality assessment must happen at least every ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "1",
+            "3",
+            "10"
+        ]
+    },
+    {
+        "q": "The Chief Internal Auditor should report functionally to the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Audit Committee"
+        ],
+        "other_options": [
+            "CEO",
+            "CFO",
+            "HR Manager"
+        ]
+    },
+    {
+        "q": "The Audit Committee should be comprised of ______ Non-Executive Directors.",
+        "type": "fill_blank",
+        "answers": [
+            "independent"
+        ],
+        "other_options": [
+            "dependent",
+            "executive",
+            "retired"
+        ]
+    },
+    {
+        "q": "At least one member of the Audit Committee should have recent and relevant ______ experience.",
+        "type": "fill_blank",
+        "answers": [
+            "financial"
+        ],
+        "other_options": [
+            "legal",
+            "marketing",
+            "sales"
+        ]
+    },
+    {
+        "q": "The Audit Committee is responsible for appointing the external auditor.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The Audit Committee ______ the appointment of the external auditor to shareholders.",
+        "type": "fill_blank",
+        "answers": [
+            "recommends"
+        ],
+        "other_options": [
+            "decides",
+            "force",
+            "rejects"
+        ]
+    },
+    {
+        "q": "Whistleblowing procedures are overseen by the Audit Committee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "UK Corporate Governance Code applies to all companies.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "It applies to companies with a ______ listing.",
+        "type": "fill_blank",
+        "answers": [
+            "premium"
+        ],
+        "other_options": [
+            "standard",
+            "private",
+            "foreign"
+        ]
+    },
+    {
+        "q": "Data Protection laws (like GDPR) can conflict with audit access rights.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The auditor must comply with data protection laws when handling client data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the penalty for 'Tipping Off' (in UK law context)?",
+        "type": "mcq",
+        "o": [
+            "Unlimited fine / Imprisonment",
+            "Small fine",
+            "Warning only",
+            "Loss of client"
+        ]
+    },
+    {
+        "q": "An auditor can tip off a client if it helps the investigation.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the term:",
+        "type": "match",
+        "left": [
+            "Tipping Off",
+            "Failure to Report",
+            "Prejudicing Investigation"
+        ],
+        "right": [
+            "Warning the suspect",
+            "Not telling MLRO",
+            "Destroying evidence"
+        ]
+    },
+    {
+        "q": "Which is a defence against a 'Failure to Report' charge?",
+        "type": "mcq",
+        "o": [
+            "Reasonable excuse (e.g., threat)",
+            "Too busy",
+            "Did not know law",
+            "Client is important"
+        ]
+    },
+    {
+        "q": "Auditors have criminal liability for insider dealing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Auditors are liable for misstatements caused by fraud if they failed to conduct the audit in accordance with ISAs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Contributory negligence means the plaintiff (client) also contributed to the loss.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If contributory negligence is proven, the auditor's liability may be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "reduced"
+        ],
+        "other_options": [
+            "increased",
+            "eliminated",
+            "doubled"
+        ]
+    },
+    {
+        "q": "Rearrange the steps to avoid liability:",
+        "type": "rearrange",
+        "words": [
+            "Client screening",
+            "Engagement letter",
+            "Quality control",
+            "Documentation"
+        ]
+    },
+    {
+        "q": "Which is NOT a quality management objective?",
+        "type": "mcq",
+        "o": [
+            "Maximizing profit per audit",
+            "Compliance with standards",
+            "Compliance with laws",
+            "Appropriate reports"
+        ]
+    },
+    {
+        "q": "The firm must establish a monitoring process for its system of quality management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Who has ultimate responsibility for the firm's system of quality management?",
+        "type": "mcq",
+        "o": [
+            "Firm leadership (CEO/Managing Partner)",
+            "HR Manager",
+            "IT Director",
+            "Interns"
+        ]
+    },
+    {
+        "q": "The 'tone at the top' influences the firm's culture regarding quality.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISA 250A differentiates between laws with direct effect and other laws.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "For 'other laws' (e.g., environmental), the auditor's responsibility is limited to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inspection and inquiry"
+        ],
+        "other_options": [
+            "full testing",
+            "recalculation",
+            "observation"
+        ]
+    },
+    {
+        "q": "The auditor must obtain sufficient appropriate evidence regarding compliance with direct effect laws.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-compliance with laws may indicate a lack of ______ integrity.",
+        "type": "fill_blank",
+        "answers": [
+            "management"
+        ],
+        "other_options": [
+            "employee",
+            "customer",
+            "supplier"
+        ]
+    },
+    {
+        "q": "Rearrange the actions on discovering non-compliance:",
+        "type": "rearrange",
+        "words": [
+            "Understand nature",
+            "Evaluate effect",
+            "Discuss with management",
+            "Legal advice"
+        ]
+    },
+    {
+        "q": "If the auditor cannot obtain sufficient evidence about non-compliance, they should issue a disclaimer or qualified opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A 'modified opinion' includes Qualified, Adverse, and Disclaimer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A 'qualified opinion' is expressed when misstatements are material but NOT ______.",
+        "type": "fill_blank",
+        "answers": [
+            "pervasive"
+        ],
+        "other_options": [
+            "significant",
+            "large",
+            "small"
+        ]
+    },
+    {
+        "q": "Which opinion is used for pervasive material misstatements?",
+        "type": "mcq",
+        "o": [
+            "Adverse",
+            "Qualified",
+            "Disclaimer",
+            "Unmodified"
+        ]
+    },
+    {
+        "q": "Which opinion is used for pervasive inability to obtain evidence?",
+        "type": "mcq",
+        "o": [
+            "Disclaimer",
+            "Adverse",
+            "Qualified",
+            "Unmodified"
+        ]
+    },
+    {
+        "q": "Match the opinion to the situation:",
+        "type": "match",
+        "left": [
+            "Except for (Material)",
+            "Do not present fairly (Pervasive)",
+            "Do not express opinion (Pervasive scope)"
+        ],
+        "right": [
+            "Qualified",
+            "Adverse",
+            "Disclaimer"
+        ]
+    },
+    {
+        "q": "The 'Basis for Opinion' paragraph must state the auditor is independent.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The auditor's signature must be in the name of the audit firm (usually).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If the financial statements are not prepared on a going concern basis and this is appropriate, the auditor adds an ______ paragraph.",
+        "type": "fill_blank",
+        "answers": [
+            "Emphasis of Matter"
+        ],
+        "other_options": [
+            "Other Matter",
+            "Qualification",
+            "Disclaimer"
+        ]
+    },
+    {
+        "q": "Materiality judgments are affected by the auditor's perception of the financial information needs of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "users"
+        ],
+        "other_options": [
+            "managers",
+            "directors",
+            "regulators"
+        ]
+    },
+    {
+        "q": "Benchmarks for materiality: Profit before tax is typically ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "1",
+            "10",
+            "20"
+        ]
+    },
+    {
+        "q": "Benchmarks for materiality: Revenue is typically ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "0.5 to 1"
+        ],
+        "other_options": [
+            "5 to 10",
+            "10 to 20",
+            "0"
+        ]
+    },
+    {
+        "q": "Benchmarks for materiality: Total Assets is typically ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "1 to 2"
+        ],
+        "other_options": [
+            "5 to 10",
+            "10 to 20",
+            "50"
+        ]
+    },
+    {
+        "q": "Materiality is solely a quantitative measure.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Qualitative materiality includes reporting to regulators or related party moves.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Performance Materiality reduces the probability that aggregate uncorrected misstatements exceed materiality.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which risk is assessed at the financial statement level?",
+        "type": "mcq",
+        "o": [
+            "Management override",
+            "Depreciation error",
+            "Pricing error",
+            "Invoice error"
+        ]
+    },
+    {
+        "q": "Risk of management override is present in all entities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which procedure addresses management override?",
+        "type": "mcq",
+        "o": [
+            "Testing journal entries",
+            "Counting cash",
+            "Reviewing bank statement",
+            "Checking supplier list"
+        ]
+    },
+    {
+        "q": "Significant risks require special audit consideration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Revenue recognition is presumed to be a fraud risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If revenue recognition is not a fraud risk, the auditor must document the reason.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the fraud risk response:",
+        "type": "rearrange",
+        "words": [
+            "Assign experienced staff",
+            "Evaluate accounting policies",
+            "Incorporate unpredictability"
+        ]
+    },
+    {
+        "q": "Unpredictability in audit procedures makes it harder for management to conceal fraud.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Examples of unpredictability include testing items below materiality or visiting unexpected locations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Audit strategy sets the scope, timing, and ______ of the audit.",
+        "type": "fill_blank",
+        "answers": [
+            "direction"
+        ],
+        "other_options": [
+            "fee",
+            "team",
+            "location"
+        ]
+    },
+    {
+        "q": "The audit plan is more detailed than the audit strategy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The audit plan includes the nature, timing, and extent of procedures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Significant changes to the audit plan during the audit do not need documentation.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Interim audits are performed before the year-end.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pervasive effects are those not confined to specific elements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If misstatements are material and pervasive, the opinion is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Adverse"
+        ],
+        "other_options": [
+            "Qualified",
+            "Disclaimer",
+            "Unmodified"
+        ]
+    },
+    {
+        "q": "If inability to obtain evidence is material and pervasive, the opinion is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Disclaimer"
+        ],
+        "other_options": [
+            "Adverse",
+            "Qualified",
+            "Unmodified"
+        ]
+    },
+    {
+        "q": "A 'material' but 'not pervasive' misstatement leads to a ______ opinion.",
+        "type": "fill_blank",
+        "answers": [
+            "Qualified"
+        ],
+        "other_options": [
+            "Adverse",
+            "Disclaimer",
+            "Clean"
+        ]
+    },
+    {
+        "q": "A Key Audit Matter (KAM) is a matter of most significance in the audit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "KAMs substitute for a modified opinion.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which is likely a KAM?",
+        "type": "mcq",
+        "o": [
+            "Impairment of goodwill",
+            "Petty cash count",
+            "Routine payroll",
+            "utility bill"
+        ]
+    },
+    {
+        "q": "If a matter is a KAM, it cannot be in the Emphasis of Matter paragraph.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Emphasis of Matter draws attention to a matter ______ disclosed in the financial statements.",
+        "type": "fill_blank",
+        "answers": [
+            "correctly"
+        ],
+        "other_options": [
+            "incorrectly",
+            "partially",
+            "not"
+        ]
+    },
+    {
+        "q": "Other Matter paragraph refers to matters NOT disclosed in the financial statements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which situation requires an Emphasis of Matter?",
+        "type": "mcq",
+        "o": [
+            "Major catastrophe (e.g., fire)",
+            "Material fraud found",
+            "Loss of a key client (undisclosed)",
+            "Change in audit fee"
+        ]
+    },
+    {
+        "q": "Going concern issues usually require a KAM or a separate section.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If management refuses to extend their going concern assessment, the auditor issues a ______ opinion.",
+        "type": "fill_blank",
+        "answers": [
+            "qualified or disclaimer"
+        ],
+        "other_options": [
+            "adverse",
+            "unmodified",
+            "standard"
+        ]
+    },
+    {
+        "q": "Auditors must obtain written representations about plans for future actions regarding going concern.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the going concern indicator:",
+        "type": "match",
+        "left": [
+            "Financial",
+            "Operating",
+            "Other"
+        ],
+        "right": [
+            "Negative cash flow",
+            "Loss of key management",
+            "Legal proceedings"
+        ]
+    },
+    {
+        "q": "ISA 720 requires the auditor to correct the 'Other Information' themselves.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "If the financial statements are correct but 'Other Information' is wrong, the auditor opinions on the ______ are unaffected.",
+        "type": "fill_blank",
+        "answers": [
+            "financial statements"
+        ],
+        "other_options": [
+            "other information",
+            "directors report",
+            "chairman statement"
+        ]
+    },
+    {
+        "q": "However, the auditor includes a section on 'Other Information' describing the inconsistency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A 'significant component' is one that is individually ______ financially to the group.",
+        "type": "fill_blank",
+        "answers": [
+            "significant"
+        ],
+        "other_options": [
+            "immaterial",
+            "irrelevant",
+            "minor"
+        ]
+    },
+    {
+        "q": "Or a significant component includes significant ______ of material misstatement.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "amount",
+            "history",
+            "volume"
+        ]
+    },
+    {
+        "q": "For a significant component, the group auditor (or component auditor) must perform a full audit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "For non-significant components, ______ procedures at group level are often sufficient.",
+        "type": "fill_blank",
+        "answers": [
+            "analytical"
+        ],
+        "other_options": [
+            "full audit",
+            "detailed",
+            "forensic"
+        ]
+    },
+    {
+        "q": "Which is an audit risk for defined benefit pension schemes?",
+        "type": "mcq",
+        "o": [
+            "Valuation of liabilities",
+            "Existence of cash",
+            "Ownership of building",
+            "Rights to inventory"
+        ]
+    },
+    {
+        "q": "The auditor should assess the competence and objectivity of the actuary.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Hedge accounting requires formal documentation at inception.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If hedge effectiveness is not tested, hedge accounting can still be used.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Cybersecurity risk is solely an IT issue, not an audit issue.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "A cyber breach can affect the ______ of the company.",
+        "type": "fill_blank",
+        "answers": [
+            "going concern"
+        ],
+        "other_options": [
+            "location",
+            "logo",
+            "name"
+        ]
+    },
+    {
+        "q": "Big Data in audit allows for analysis of ______ populations.",
+        "type": "fill_blank",
+        "answers": [
+            "entire"
+        ],
+        "other_options": [
+            "sample",
+            "small",
+            "random"
+        ]
+    },
+    {
+        "q": "Social media evidence is always reliable.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Rearrange the sequence of reliance on expert:",
+        "type": "rearrange",
+        "words": [
+            "Assess competence",
+            "Obtain understanding",
+            "Evaluate work",
+            "Conclude"
+        ]
+    },
+    {
+        "q": "An auditor's expert is an individual or organization possessing expertise in a field other than ______.",
+        "type": "fill_blank",
+        "answers": [
+            "accounting or auditing"
+        ],
+        "other_options": [
+            "law",
+            "engineering",
+            "science"
+        ]
+    },
+    {
+        "q": "Internal auditors can be used to provide direct assistance to the external auditor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Direct assistance is prohibited in some jurisdictions (e.g. UK for listed companies).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The external auditor must direct, supervise, and ______ the work of internal auditors providing direct assistance.",
+        "type": "fill_blank",
+        "answers": [
+            "review"
+        ],
+        "other_options": [
+            "ignore",
+            "copy",
+            "file"
+        ]
+    },
+    {
+        "q": "Using the work of internal audit function (ISA 610) reduces the external auditor's responsibility.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the internal audit activity:",
+        "type": "match",
+        "left": [
+            "Compliance Audit",
+            "Operational Audit",
+            "VFM Audit"
+        ],
+        "right": [
+            "Laws and regulations",
+            "Efficiency and effectiveness",
+            "Economy efficiency effectiveness"
+        ]
+    },
+    {
+        "q": "Outsourcing internal audit to the external audit firm creates a ______ threat.",
+        "type": "fill_blank",
+        "answers": [
+            "self-review"
+        ],
+        "other_options": [
+            "advocacy",
+            "familiarity",
+            "intimidation"
+        ]
+    },
+    {
+        "q": "This is strictly prohibited for public interest entities (PIEs).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Integrated Reporting (<IR>) focuses on value creation over time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a 'Capital' in Integrated Reporting?",
+        "type": "mcq",
+        "o": [
+            "Human Capital",
+            "Political Capital",
+            "Legal Capital",
+            "Audit Capital"
+        ]
+    },
+    {
+        "q": "Match the capital:",
+        "type": "match",
+        "left": [
+            "Intellectual Capital",
+            "Social Capital",
+            "Natural Capital"
+        ],
+        "right": [
+            "Knowledge and IP",
+            "Relationships and trust",
+            "Environmental resources"
+        ]
+    },
+    {
+        "q": "Auditing <IR> is mandatory.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "KPI stands for ______ Performance Indicator.",
+        "type": "fill_blank",
+        "answers": [
+            "Key"
+        ],
+        "other_options": [
+            "Known",
+            "Knowledge",
+            "Keep"
+        ]
+    },
+    {
+        "q": "Non-financial KPIs are irrelevant to the auditor.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The 'Expectation Gap' is the difference between what the public expects and what the auditor ______.",
+        "type": "fill_blank",
+        "answers": [
+            "does"
+        ],
+        "other_options": [
+            "wants",
+            "charges",
+            "knows"
+        ]
+    },
+    {
+        "q": "Reducing the expectation gap helps public confidence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which helps reduce the detection gap?",
+        "type": "mcq",
+        "o": [
+            "Better audit techniques",
+            "More advertising",
+            "Lower fees",
+            "Faster reports"
+        ]
+    },
+    {
+        "q": "The 'Performance Gap' is part of the expectation gap.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Joint Audits involve two or more audit firms signing the report.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Mandatory audit firm rotation is designed to reduce the ______ threat.",
+        "type": "fill_blank",
+        "answers": [
+            "familiarity"
+        ],
+        "other_options": [
+            "advocacy",
+            "self-interest",
+            " intimidation"
+        ]
+    },
+    {
+        "q": "In the EU, the maximum duration for an audit engagement (without tender) is typically ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "5",
+            "20",
+            "7"
+        ]
+    },
+    {
+        "q": "Joint audits increase the cost of the audit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Joint audits allow smaller firms to gain experience with large clients.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Audit reform proposals often include splitting audit and ______ services.",
+        "type": "fill_blank",
+        "answers": [
+            "consultancy"
+        ],
+        "other_options": [
+            "tax",
+            "legal",
+            "admin"
+        ]
+    },
+    {
+        "q": "Regarding IFRS 15, the auditor must verify the identification of ______ obligations.",
+        "type": "fill_blank",
+        "answers": [
+            "performance"
+        ],
+        "other_options": [
+            "legal",
+            "cash",
+            "future"
+        ]
+    },
+    {
+        "q": "Revenue is recognized when control is transferred.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the IFRS 15 steps:",
+        "type": "rearrange",
+        "words": [
+            "Identify contract",
+            "Identify obligations",
+            "Determine price",
+            "Allocate price",
+            "Recognize revenue"
+        ]
+    },
+    {
+        "q": "Under IFRS 16, lessees recognize a Right-of-Use Asset and a Lease ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Liability"
+        ],
+        "other_options": [
+            "Expense",
+            "Income",
+            "Equity"
+        ]
+    },
+    {
+        "q": "Auditors must verify the discount rate used in lease calculations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Short-term leases (less than 12 months) can be expensed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Investment Property (IAS 40) can be measured at Cost or ______ Value.",
+        "type": "fill_blank",
+        "answers": [
+            "Fair"
+        ],
+        "other_options": [
+            "Net",
+            "Realizable",
+            "Future"
+        ]
+    },
+    {
+        "q": "Gains on fair value of investment property go to OCI.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "They go to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Profit or Loss"
+        ],
+        "other_options": [
+            "OCI",
+            "Equity",
+            "Reserves"
+        ]
+    },
+    {
+        "q": "A restructuring provision (IAS 37) requires a valid expectation to be raised in those affected.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A detailed formal plan is not required for a restructuring provision.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Deferred Tax Assets (IAS 12) should only be recognized if ______ profits are probable.",
+        "type": "fill_blank",
+        "answers": [
+            "taxable"
+        ],
+        "other_options": [
+            "accounting",
+            "future",
+            "past"
+        ]
+    },
+    {
+        "q": "Auditors must test the reasonableness of profit forecasts for DTA recognition.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IFRS 9 uses an Expected Credit Loss (ECL) model.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ECL requires looking at historical data only.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "ECL requires forward-looking information.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the IFRS 9 classification:",
+        "type": "match",
+        "left": [
+            "Amortized Cost",
+            "FVTOCI",
+            "FVTPL"
+        ],
+        "right": [
+            "Hold to collect flows",
+            "Hold to collect and sell",
+            "Trading"
+        ]
+    },
+    {
+        "q": "Government Grants (IAS 20) related to assets are recognized over the useful life of the asset.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a 'Non-Adjusting' post balance sheet event?",
+        "type": "mcq",
+        "o": [
+            "Dividends declared after year-end",
+            "Customer bankruptcy (pre-existing condition)",
+            "Sale of inventory (pre-existing condition)",
+            "Court case settlement (pre-existing condition)"
+        ]
+    },
+    {
+        "q": "Dividends declared after the reporting date are not a liability at the reporting date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Earnings Per Share (IAS 33) audit involves verifying the weighted average number of shares.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Diluted EPS considers the impact of convertible instruments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The auditor must evaluate whether the financial statements achieve 'fair presentation'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fair presentation may require disclosures beyond those specifically required by IFRS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISA 265 deals with communicating deficiencies in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "internal control"
+        ],
+        "other_options": [
+            "financial statements",
+            "audit plan",
+            "ethics"
+        ]
+    },
+    {
+        "q": "A deficiency in internal control exists when a control is missing or ineffective.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The auditor must communicate significant deficiencies in writing to TCWG.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Within ______ days of the audit report date is a common deadline for the final audit file.",
+        "type": "fill_blank",
+        "answers": [
+            "60"
+        ],
+        "other_options": [
+            "30",
+            "90",
+            "45"
+        ]
+    },
+    {
+        "q": "Auditors should document discussions of significant matters with management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If the auditor uses an external confirmation, they must maintain control over the process.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Negative confirmations are less persuasive than positive confirmations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an example of an analytical procedure?",
+        "type": "mcq",
+        "o": [
+            "Ratio analysis",
+            "Vouching an invoice",
+            "Counting stock",
+            "Reading minutes"
+        ]
+    },
+    {
+        "q": "Substantive analytical procedures are generally suitable for large volumes of predictable transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "For a first-time audit, the auditor must obtain sufficient evidence regarding ______ balances.",
+        "type": "fill_blank",
+        "answers": [
+            "opening"
+        ],
+        "other_options": [
+            "closing",
+            "future",
+            "budget"
+        ]
+    },
+    {
+        "q": "If the prior period was audited by another auditor, the current auditor can review their working papers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The current auditor is responsible for the opening balances opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Agreeing the opening balances to the prior year's audited financial statements is a mandatory procedure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISA 560: The auditor has no obligation to perform procedures after the audit report date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "However, if a fact becomes known that would have amended the report, they must act.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Dual dating of the audit report is restricted in many jurisdictions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In a group audit, the group auditor issues the opinion on the ______ financial statements.",
+        "type": "fill_blank",
+        "answers": [
+            "consolidated"
+        ],
+        "other_options": [
+            "parent",
+            "single",
+            "subsidiary"
+        ]
+    },
+    {
+        "q": "The component auditor issues an opinion on the component for the group auditor's use.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Is the statement above False? (Clarification: Component auditor reports findings/opinion to group auditor, not a public opinion).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The group auditor is responsible for the group opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The group audit team must evaluate the component auditor's ______.",
+        "type": "fill_blank",
+        "answers": [
+            "competence"
+        ],
+        "other_options": [
+            "fee",
+            "size",
+            "location"
+        ]
+    },
+    {
+        "q": "The 'cooling-off' period for an Engagement Quality Reviewer is typically ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "2"
+        ],
+        "other_options": [
+            "1",
+            "5",
+            "0"
+        ]
+    },
+    {
+        "q": "An Engagement Quality Review is required for all audits of listed entities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Overdue fees from a client can create a ______ threat effectively like a loan.",
+        "type": "fill_blank",
+        "answers": [
+            "self-interest"
+        ],
+        "other_options": [
+            "advocacy",
+            "familiarity",
+            "intimidation"
+        ]
+    },
+    {
+        "q": "If fees are significantly overdue, the auditor may need to resign.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Accepting custody of client assets (e.g., money) is generally prohibited.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Staff on secondment to a client can make management decisions.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Secondments create a ______ threat.",
+        "type": "fill_blank",
+        "answers": [
+            "self-review"
+        ],
+        "other_options": [
+            "intimidation",
+            "advocacy",
+            "self-interest"
+        ]
+    },
+    {
+        "q": "A 'Letter of Support' from a parent company is sufficient evidence of going concern for a subsidiary.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The auditor must verify the parent company's ability to provide the support.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Related party transactions are assumed to be at arm's length.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "If management asserts transactions are at arm's length, the auditor must obtain sufficient evidence to support this.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IFRS 5: Assets held for sale are not depreciated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "They are measured at the lower of Carrying Amount and Fair Value less ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs to sell"
+        ],
+        "other_options": [
+            "value in use",
+            "future cash",
+            "selling price"
+        ]
+    },
+    {
+        "q": "IAS 36: Impairment Loss = Carrying Amount - ______ Amount.",
+        "type": "fill_blank",
+        "answers": [
+            "Recoverable"
+        ],
+        "other_options": [
+            "Fair",
+            "Net",
+            "Residual"
+        ]
+    },
+    {
+        "q": "Recoverable Amount is the higher of Fair Value less costs to sell and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Value in Use"
+        ],
+        "other_options": [
+            "Net Assets",
+            "Cost",
+            "Market Price"
+        ]
+    },
+    {
+        "q": "Value in Use is based on discounted future cash flows.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Goodwill impairment can be reversed in future periods.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Impairment of other assets can be reversed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IFRS 3: Provisional values for business combinations can be adjusted for ______ months.",
+        "type": "fill_blank",
+        "answers": [
+            "12"
+        ],
+        "other_options": [
+            "6",
+            "24",
+            "3"
+        ]
+    },
+    {
+        "q": "Restructuring provisions must not include costs of retraining staff.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Retraining staff is an ongoing business cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Window dressing involves manipulating transactions near year-end to improve appearance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Teeming and Lading (Lapping) involves delaying recording of ______ receipts.",
+        "type": "fill_blank",
+        "answers": [
+            "cash"
+        ],
+        "other_options": [
+            "sales",
+            "inventory",
+            "expense"
+        ]
+    },
+    {
+        "q": "Rolling inventory counts require the auditor to verify the records are perpetually updated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If rolling counts are used, the auditor acts as if it is a year-end count for those specific items.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The auditor must evaluate whether rolling counts cover all items at least once a year.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the audit assertion for inventory:",
+        "type": "match",
+        "left": [
+            "Existence",
+            "Completeness",
+            "Valuation"
+        ],
+        "right": [
+            "Floor to Sheet",
+            "Sheet to Floor",
+            "Cost vs NRV"
+        ]
+    },
+    {
+        "q": "Is the matching above correct? (Clarification: 'Floor to Sheet' tests Completeness, 'Sheet to Floor' tests Existence).",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Sheet to Floor tests ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Existence"
+        ],
+        "other_options": [
+            "Completeness",
+            "Valuation",
+            "Rights"
+        ]
+    },
+    {
+        "q": "Floor to Sheet tests ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Completeness"
+        ],
+        "other_options": [
+            "Existence",
+            "Accuracy",
+            "Cut off"
+        ]
+    },
+    {
+        "q": "In a computerized system, 'General IT Controls' apply to all applications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a General IT Control?",
+        "type": "mcq",
+        "o": [
+            "Password policy",
+            "Sales invoice number sequence",
+            "Credit limit check",
+            "Field validation"
+        ]
+    },
+    {
+        "q": "Which is an Application Control?",
+        "type": "mcq",
+        "o": [
+            "Batch total check",
+            "Backup procedure",
+            "Disaster recovery",
+            "Anti-virus update"
+        ]
+    },
+    {
+        "q": "Test Data involves the auditor entering dummy data into the client's system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Audit Software acts as an interrogation tool on client data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Embedded Audit Facilities allow continuous monitoring.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the sequence dealing with a service organization:",
+        "type": "rearrange",
+        "words": [
+            "Obtain understanding",
+            "Assess risk",
+            "Obtain Type 1/2 report",
+            "Perform substantive tests"
+        ]
+    },
+    {
+        "q": "Written representations are required for accounting estimates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Estimation uncertainty is higher for fair value estimates than historical cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Management bias in estimates is a fraud risk factor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The auditor reviews the outcome of prior period accounting estimates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "This is to evaluate the effectiveness of management's estimation process.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IAS 10: Dividends received after year-end (accrued before) are an adjusting event.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Clarification: Dividends *declared* by the entity are non-adjusting. Dividends *receivable* from a sub? (Actually, usually dividends are recognized when right to receive is established).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A contingent liability is disclosed unless the probability is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "remote"
+        ],
+        "other_options": [
+            "possible",
+            "probable",
+            "certain"
+        ]
+    },
+    {
+        "q": "A contingent asset is recognized when inflow is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "virtually certain"
+        ],
+        "other_options": [
+            "probable",
+            "possible",
+            "remote"
+        ]
+    },
+    {
+        "q": "If inflow is probable, a contingent asset is disclosed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If inflow is possible, a contingent asset is ignored.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Borrowing costs (IAS 23) must be capitalized for qualifying assets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A qualifying asset is one that takes a substantial period of time to get ready.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISAE 3410 deals with assurance engagements on ______ statements.",
+        "type": "fill_blank",
+        "answers": [
+            "Greenhouse Gas"
+        ],
+        "other_options": [
+            "Financial",
+            "Cash Flow",
+            "Director"
+        ]
+    },
+    {
+        "q": "In a GHG assurance engagement, the practitioner can provide reasonable or limited assurance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The '15% rule' for fees from a single client applies to ______ entities.",
+        "type": "fill_blank",
+        "answers": [
+            "public interest"
+        ],
+        "other_options": [
+            "private",
+            "small",
+            "all"
+        ]
+    },
+    {
+        "q": "If fees exceed 15% for two consecutive years, the auditor must disclose this to TCWG.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "And a pre-issuance review (EQCR) is required.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If fees remain high, the auditor may need to reduce reliance or resign.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Contingent fees for audit services are generally ______.",
+        "type": "fill_blank",
+        "answers": [
+            "prohibited"
+        ],
+        "other_options": [
+            "allowed",
+            "preferred",
+            "mandatory"
+        ]
+    },
+    {
+        "q": "A component can be 'significant' due to its nature, even if small financially.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a 'significant component by nature'?",
+        "type": "mcq",
+        "o": [
+            "Small sub trading in derivatives",
+            "Large sub with routine sales",
+            "Sub with 50% of assets",
+            "Sub with 50% of profit"
+        ]
+    },
+    {
+        "q": "KAM descriptions in the audit report should be generic and boilerplate.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "KAM descriptions must explain why the matter was significant and how it was addressed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Suspicion of money laundering is sufficient to trigger a SAR (Suspicious Activity Report).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Actual knowledge of money laundering is required to report.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The 'de minimis' limit for money laundering reporting is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "zero"
+        ],
+        "other_options": [
+            "1000",
+            "10000",
+            "materiality"
+        ]
+    },
+    {
+        "q": "Clarification: Some jurisdictions have a de minimis, but generally assume zero for exam purposes unless stated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "INTOSAI issues standards for ______ sector auditing.",
+        "type": "fill_blank",
+        "answers": [
+            "public"
+        ],
+        "other_options": [
+            "private",
+            "charity",
+            "bank"
+        ]
+    },
+    {
+        "q": "ISSAIs are International Standards of Supreme Audit Institutions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Performance Audits in public sector look for Economy, Efficiency, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Effectiveness"
+        ],
+        "other_options": [
+            "Equity",
+            "Earnings",
+            "Environment"
+        ]
+    },
+    {
+        "q": "Match the 3 Es:",
+        "type": "match",
+        "left": [
+            "Economy",
+            "Efficiency",
+            "Effectiveness"
+        ],
+        "right": [
+            "Spending less",
+            "Spending well",
+            "Spending wisely (achieving goal)"
+        ]
+    },
+    {
+        "q": "Generally Accepted Auditing Standards (GAAS) are local standards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISAs are International Standards on Auditing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If local laws conflict with ISAs, the auditor generally follows ______.",
+        "type": "fill_blank",
+        "answers": [
+            "local laws"
+        ],
+        "other_options": [
+            "ISAs",
+            "IFRS",
+            "Client"
+        ]
+    },
+    {
+        "q": "But the auditor cannot claim compliance with ISAs if they don't comply with all ISAs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an 'Other' Assignment?",
+        "type": "mcq",
+        "o": [
+            "Review of interim financial information",
+            "Statutory audit",
+            "Tax return",
             "Bookkeeping"
         ]
     },
     {
-        "q": "What is the auditor's responsibility regarding 'Going Concern'?",
-        "o": [
-            "To obtain sufficient appropriate evidence about the appropriateness of management's use of the going concern assumption",
-            "To guarantee the company will survive",
-            "To fund the company",
-            "To manage the company"
+        "q": "Negative assurance is expressed as 'Nothing has come to our attention'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Positive assurance is expressed as 'In our opinion...'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A review engagement provides ______ assurance.",
+        "type": "fill_blank",
+        "answers": [
+            "limited"
+        ],
+        "other_options": [
+            "reasonable",
+            "absolute",
+            "no"
         ]
     },
     {
-        "q": "What is an 'emphasis of matter' paragraph?",
-        "o": [
-            "A paragraph drawing attention to a matter properly disclosed in the financial statements",
-            "A qualification of the opinion",
-            "A report on fraud",
-            "A disclaimer of opinion"
+        "q": "An audit provides ______ assurance.",
+        "type": "fill_blank",
+        "answers": [
+            "reasonable"
+        ],
+        "other_options": [
+            "limited",
+            "absolute",
+            "guaranteed"
         ]
     },
     {
-        "q": "What are 'social and environmental audits'?",
+        "q": "Absolute assurance is possible in auditing.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Why is absolute assurance not possible?",
+        "type": "mcq",
         "o": [
-            "Auditing the company's social and environmental impact and reporting",
-            "Auditing the staff party",
-            "Checking the weather",
-            "Auditing only financial numbers"
+            "Inherent limitations of audit",
+            "Auditors are lazy",
+            "Computers are slow",
+            "Fees are low"
         ]
+    },
+    {
+        "q": "Which is an inherent limitation?",
+        "type": "mcq",
+        "o": [
+            "Use of sampling",
+            "Lack of training",
+            "Poor planning",
+            "Independence breach"
+        ]
+    },
+    {
+        "q": "Rearrange the components of audit risk:",
+        "type": "rearrange",
+        "words": [
+            "Inherent Risk",
+            "Control Risk",
+            "Detection Risk"
+        ]
+    },
+    {
+        "q": "Detection risk has two components: Sampling risk and ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "Non-sampling"
+        ],
+        "other_options": [
+            "Business",
+            "Fraud",
+            "Credit"
+        ]
+    },
+    {
+        "q": "Non-sampling risk includes the auditor selecting inappropriate procedures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Analytical procedures used near the end of the audit form an overall conclusion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Subsequent events review covers the period from year-end to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "date of auditor's report"
+        ],
+        "other_options": [
+            "AGM",
+            "publication",
+            "filing"
+        ]
+    },
+    {
+        "q": "If management amends the financial statements for a subsequent event, the auditor must audit the amendment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "And the auditor usually extends the subsequent events review to the new date of the report.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The concept of 'Double Materiality' in sustainability reporting refers to Impact Materiality and ______ Materiality.",
+        "type": "fill_blank",
+        "answers": [
+            "Financial"
+        ],
+        "other_options": [
+            "Social",
+            "Legal",
+            "Operational"
+        ]
+    },
+    {
+        "q": "Social Audit standards (like SA8000) focus on ______ rights.",
+        "type": "fill_blank",
+        "answers": [
+            "labor"
+        ],
+        "other_options": [
+            "shareholder",
+            "customer",
+            "animal"
+        ]
+    },
+    {
+        "q": "Forensic auditors follow chain of custody rules for evidence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Chain of custody documents who held the evidence and when.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Data mining techniques are crucial in forensic accountancy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Benford's Law is often used to detect made-up numbers in data sets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Benford's Law predicts the frequency of the ______ digit.",
+        "type": "fill_blank",
+        "answers": [
+            "first"
+        ],
+        "other_options": [
+            "last",
+            "middle",
+            "second"
+        ]
+    },
+    {
+        "q": "In a natural dataset, the digit '1' appears as the first digit about ______% of the time.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "10",
+            "50",
+            "90"
+        ]
+    },
+    {
+        "q": "Related services include compilation and ______ procedures.",
+        "type": "fill_blank",
+        "answers": [
+            "agreed-upon"
+        ],
+        "other_options": [
+            "audit",
+            "review",
+            "assurance"
+        ]
+    },
+    {
+        "q": "An engagement letter is required for agreed-upon procedures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The report for agreed-upon procedures is restricted to those who agreed to the procedures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Integrated Reporting aims to explain how the organization creates ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "profit",
+            "cash",
+            "products"
+        ]
+    },
+    {
+        "q": "Evaluating an audit partner based on their success in selling non-audit services to an audit client is prohibited.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "This prohibition is to prevent a ______ threat.",
+        "type": "fill_blank",
+        "answers": [
+            "self-interest"
+        ],
+        "other_options": [
+            "familiarity",
+            "advocacy",
+            "intimidation"
+        ]
+    },
+    {
+        "q": "An expert witness has an overriding duty to the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "court"
+        ],
+        "other_options": [
+            "client",
+            "audit firm",
+            "police"
+        ]
+    },
+    {
+        "q": "An expert witness opinion must be independent and objective.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "An 'Other Matter' paragraph can restricted the distribution of the auditor's report.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If joint auditors disagree, they must issue separate audit reports.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "They usually issue a single report that includes the disagreement in the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "opinion"
+        ],
+        "other_options": [
+            "basis for opinion",
+            "other matter",
+            "introduction"
+        ]
+    },
+    {
+        "q": "Clarification: Joint auditors sign one report typically. If they fundamentally disagree, it's a complex legal area, but usually they must agree or resign.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Final analytical procedures are mandatory under ISA 520.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The purpose of final analytical procedures is to corroborate the auditor's conclusions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "They also help identify any previously unrecognized ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "misstatement"
+        ],
+        "other_options": [
+            "audit",
+            "business",
+            "credit"
+        ]
+    },
+    {
+        "q": "Dual dating of an audit report occurs when a subsequent event is audited after the original report date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IAS 1 requires disclosure of 'significant judgments' and 'sources of estimation uncertainty'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A 'Close Call' regarding going concern requires disclosure even if going concern is appropriate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISA 701 (KAM) applies to audits of listed entities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Does ISA 701 apply to unlisted entities voluntarily?",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which helps primarily to bridge the 'Information Gap'?",
+        "type": "mcq",
+        "o": [
+            "Key Audit Matters (KAM)",
+            "Audit Fee disclosure",
+            "Partner signature",
+            "Firm location"
+        ]
+    },
+    {
+        "q": "Auditors are responsible for the prevention and detection of non-compliance with all laws.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Auditors are responsible for obtaining reasonable assurance that statements are free from material misstatement due to non-compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Professional judgment is required in planning and performing an audit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Professional judgment needs to be documented.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is NOT a fundamental principle of ethics?",
+        "type": "mcq",
+        "o": [
+            "Profitability",
+            "Integrity",
+            "Objectivity",
+            "Confidentiality"
+        ]
+    },
+    {
+        "q": "Auditor liability limitation agreements are valid in all jurisdictions.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "In the UK, liability limitation agreements must be approved by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "shareholders"
+        ],
+        "other_options": [
+            "directors",
+            "management",
+            "regulators"
+        ]
+    },
+    {
+        "q": "Transnational audits involve reporting across national borders.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The 'Bannerman' case highlights the risk of liability to ______ parties.",
+        "type": "fill_blank",
+        "answers": [
+            "third"
+        ],
+        "other_options": [
+            "related",
+            "internal",
+            "unknown"
+        ]
+    },
+    {
+        "q": "A 'Bannerman disclaimer' attempts to restrict the duty of care to the addressees.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Auditing accounting estimates involves testing the operating effectiveness of controls over the estimate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Or dealing with the estimate using substantive procedures (e.g. developing a point estimate).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Developing an auditor's point estimate is an effective way to test management's estimate.",
+        "type": "true_false",
+        "correct": "True"
     }
 ]

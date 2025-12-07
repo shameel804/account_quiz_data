@@ -1,92 +1,6798 @@
 [
     {
-        "q": "What is the 'Modigliani and Miller' proposition (with tax) regarding capital structure?",
+        "q": "What does NPV stand for in investment appraisal?",
+        "type": "mcq",
         "o": [
-            "Debt financing increases firm value due to the tax shield",
-            "Capital structure is irrelevant",
-            "Equity financing is always cheaper",
-            "Debt is always risky"
+            "Net Present Value",
+            "Net Profit Value",
+            "New Project Value",
+            "Nominal Present Value"
         ]
     },
     {
-        "q": "What is 'APV' in investment appraisal?",
+        "q": "What does IRR stand for?",
+        "type": "mcq",
+        "o": [
+            "Internal Rate of Return",
+            "Interest Rate Ratio",
+            "Investment Return Rate",
+            "Internal Revenue Rate"
+        ]
+    },
+    {
+        "q": "A positive NPV indicates that a project should be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "accepted"
+        ],
+        "other_options": [
+            "rejected",
+            "delayed",
+            "reconsidered"
+        ]
+    },
+    {
+        "q": "The time value of money means that money today is worth more than the same amount in the future.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary goal of financial management?",
+        "type": "mcq",
+        "o": [
+            "Maximize shareholder wealth",
+            "Minimize costs",
+            "Maximize sales",
+            "Reduce debt"
+        ]
+    },
+    {
+        "q": "Which of the following is a capital budgeting technique?",
+        "type": "mcq",
+        "o": [
+            "Payback Period",
+            "Ratio Analysis",
+            "Cash Budget",
+            "Income Statement"
+        ]
+    },
+    {
+        "q": "A merger occurs when two companies combine to form a ______ entity.",
+        "type": "fill_blank",
+        "answers": [
+            "new"
+        ],
+        "other_options": [
+            "separate",
+            "temporary",
+            "subsidiary"
+        ]
+    },
+    {
+        "q": "Match the term with its definition:",
+        "type": "match",
+        "left": [
+            "NPV",
+            "IRR",
+            "Payback",
+            "ARR"
+        ],
+        "right": [
+            "Present value of cash flows minus investment",
+            "Discount rate where NPV equals zero",
+            "Time to recover initial investment",
+            "Accounting profit as percentage of investment"
+        ]
+    },
+    {
+        "q": "What does WACC stand for?",
+        "type": "mcq",
+        "o": [
+            "Weighted Average Cost of Capital",
+            "Whole Average Capital Cost",
+            "Working Asset Capital Cost",
+            "Weighted Asset Cost Calculation"
+        ]
+    },
+    {
+        "q": "Treasury management involves managing cash and ______ risks.",
+        "type": "fill_blank",
+        "answers": [
+            "financial"
+        ],
+        "other_options": [
+            "operational",
+            "strategic",
+            "legal"
+        ]
+    },
+    {
+        "q": "A hostile takeover is one that is welcomed by the target company's board.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which ratio measures a company's ability to pay short-term obligations?",
+        "type": "mcq",
+        "o": [
+            "Current ratio",
+            "Debt-to-equity ratio",
+            "Return on equity",
+            "Gross profit margin"
+        ]
+    },
+    {
+        "q": "Rearrange the investment appraisal process:",
+        "type": "rearrange",
+        "words": [
+            "Identify opportunities",
+            "Evaluate options",
+            "Select project",
+            "Implement",
+            "Monitor"
+        ]
+    },
+    {
+        "q": "What is the discount rate used in NPV calculations typically called?",
+        "type": "mcq",
+        "o": [
+            "Cost of capital",
+            "Interest rate",
+            "Inflation rate",
+            "Growth rate"
+        ]
+    },
+    {
+        "q": "Corporate reconstruction involves restructuring a company's ______ or operations.",
+        "type": "fill_blank",
+        "answers": [
+            "finances"
+        ],
+        "other_options": [
+            "marketing",
+            "products",
+            "location"
+        ]
+    },
+    {
+        "q": "Ethics in finance includes maintaining transparency and honesty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is an example of systematic risk?",
+        "type": "mcq",
+        "o": [
+            "Market risk",
+            "Project-specific risk",
+            "Management risk",
+            "Operational risk"
+        ]
+    },
+    {
+        "q": "What type of synergy reduces combined costs after a merger?",
+        "type": "mcq",
+        "o": [
+            "Cost synergy",
+            "Revenue synergy",
+            "Financial synergy",
+            "Operational synergy"
+        ]
+    },
+    {
+        "q": "The payback period ignores ______ flows after the payback date.",
+        "type": "fill_blank",
+        "answers": [
+            "cash"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "cost"
+        ]
+    },
+    {
+        "q": "Match the risk type with its description:",
+        "type": "match",
+        "left": [
+            "Currency risk",
+            "Interest rate risk",
+            "Credit risk",
+            "Liquidity risk"
+        ],
+        "right": [
+            "Exchange rate fluctuations",
+            "Changes in borrowing costs",
+            "Counterparty default",
+            "Inability to meet obligations"
+        ]
+    },
+    {
+        "q": "What does APV stand for in investment appraisal?",
+        "type": "mcq",
         "o": [
             "Adjusted Present Value",
             "Average Present Value",
-            "Annual Profit Value",
-            "Actual Project Value"
+            "Annual Present Value",
+            "Actual Present Value"
         ]
     },
     {
-        "q": "Which of the following is a defense against a hostile takeover?",
-        "o": [
-            "White Knight",
-            "Red Flag",
-            "Blue Ocean",
-            "Green Field"
+        "q": "A leveraged buyout uses significant amounts of ______ to acquire a company.",
+        "type": "fill_blank",
+        "answers": [
+            "debt"
+        ],
+        "other_options": [
+            "equity",
+            "cash",
+            "assets"
         ]
     },
     {
-        "q": "What is 'VaR' used for?",
+        "q": "Diversification can eliminate all types of investment risk.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which hedging instrument gives the right but not obligation to buy or sell?",
+        "type": "mcq",
         "o": [
-            "Value at Risk - measuring the maximum likely loss",
-            "Variable at Rate",
-            "Value and Return",
-            "Variance at Risk"
+            "Option",
+            "Forward contract",
+            "Future contract",
+            "Swap"
         ]
     },
     {
-        "q": "What is a 'currency swap'?",
+        "q": "What is the term for spreading investments across different assets?",
+        "type": "mcq",
         "o": [
-            "An agreement to exchange currency principal and interest payments",
-            "Exchanging coins at a bank",
-            "Buying foreign currency for travel",
-            "Betting on exchange rates"
-        ]
-    },
-    {
-        "q": "In a merger, what is 'synergy'?",
-        "o": [
-            "The additional value created by combining two companies (2+2=5)",
-            "The cost of the merger",
-            "The loss of jobs",
-            "The legal fees"
-        ]
-    },
-    {
-        "q": "What is the primary role of the treasury function?",
-        "o": [
-            "Managing liquidity, funding, and financial risk",
-            "Managing human resources",
-            "Managing production lines",
-            "Managing sales teams"
-        ]
-    },
-    {
-        "q": "What is 'Islamic Finance' generally based on?",
-        "o": [
-            "Prohibition of interest (Riba) and risk sharing",
-            "Maximize interest income",
+            "Diversification",
+            "Concentration",
             "Speculation",
-            "Ignoring ethical guidelines"
+            "Arbitrage"
         ]
     },
     {
-        "q": "What is a 'derivative'?",
-        "o": [
-            "A financial instrument deriving its value from an underlying asset",
-            "A second-hand asset",
-            "A subsidiary company",
-            "A type of tax"
+        "q": "Rearrange the M&A process steps:",
+        "type": "rearrange",
+        "words": [
+            "Target identification",
+            "Due diligence",
+            "Valuation",
+            "Negotiation",
+            "Integration"
         ]
     },
     {
-        "q": "What is 'transfer pricing' in multinational companies primarily used for?",
-        "o": [
-            "To price goods transferred between divisions, often for tax efficiency",
-            "To sell goods to customers",
-            "To pay suppliers",
-            "To calculate employee bonuses"
+        "q": "The beta coefficient measures ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "systematic"
+        ],
+        "other_options": [
+            "unsystematic",
+            "total",
+            "operational"
         ]
+    },
+    {
+        "q": "Match the valuation method with its basis:",
+        "type": "match",
+        "left": [
+            "DCF",
+            "P/E multiple",
+            "Asset-based",
+            "Dividend model"
+        ],
+        "right": [
+            "Future cash flows",
+            "Earnings comparison",
+            "Net asset value",
+            "Expected dividends"
+        ]
+    },
+    {
+        "q": "What is the main advantage of sensitivity analysis?",
+        "type": "mcq",
+        "o": [
+            "Identifies critical variables",
+            "Eliminates all uncertainty",
+            "Guarantees project success",
+            "Reduces project costs"
+        ]
+    },
+    {
+        "q": "Insider trading is considered an ethical practice in financial markets.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of these is a method of corporate reconstruction?",
+        "type": "mcq",
+        "o": [
+            "Debt restructuring",
+            "Product launch",
+            "Marketing campaign",
+            "Staff training"
+        ]
+    },
+    {
+        "q": "A forward contract is traded on an ______ exchange.",
+        "type": "fill_blank",
+        "answers": [
+            "over-the-counter"
+        ],
+        "other_options": [
+            "organized",
+            "regulated",
+            "public"
+        ]
+    },
+    {
+        "q": "What does CAPM stand for?",
+        "type": "mcq",
+        "o": [
+            "Capital Asset Pricing Model",
+            "Cost Analysis Profit Model",
+            "Capital Allocation Pricing Method",
+            "Cash Asset Portfolio Model"
+        ]
+    },
+    {
+        "q": "Rearrange the capital structure hierarchy:",
+        "type": "rearrange",
+        "words": [
+            "Senior debt",
+            "Subordinated debt",
+            "Preferred stock",
+            "Common equity"
+        ]
+    },
+    {
+        "q": "A swap is an agreement to exchange ______ flows.",
+        "type": "fill_blank",
+        "answers": [
+            "cash"
+        ],
+        "other_options": [
+            "asset",
+            "equity",
+            "debt"
+        ]
+    },
+    {
+        "q": "Match the financing source with its characteristic:",
+        "type": "match",
+        "left": [
+            "Equity",
+            "Bonds",
+            "Bank loan",
+            "Retained earnings"
+        ],
+        "right": [
+            "Ownership stake",
+            "Fixed interest payments",
+            "Negotiated terms",
+            "Internal funding"
+        ]
+    },
+    {
+        "q": "Which of the following increases financial risk?",
+        "type": "mcq",
+        "o": [
+            "Higher leverage",
+            "Lower debt",
+            "More equity",
+            "Reduced gearing"
+        ]
+    },
+    {
+        "q": "Ethical behavior in finance includes avoiding conflicts of interest.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of due diligence in M&A?",
+        "type": "mcq",
+        "o": [
+            "To investigate the target company thoroughly",
+            "To reduce the purchase price",
+            "To delay the transaction",
+            "To increase synergies"
+        ]
+    },
+    {
+        "q": "The risk-free rate is typically based on ______ securities.",
+        "type": "fill_blank",
+        "answers": [
+            "government"
+        ],
+        "other_options": [
+            "corporate",
+            "municipal",
+            "private"
+        ]
+    },
+    {
+        "q": "Which type of efficiency means prices reflect all public information?",
+        "type": "mcq",
+        "o": [
+            "Semi-strong form",
+            "Weak form",
+            "Strong form",
+            "Perfect form"
+        ]
+    },
+    {
+        "q": "Scenario analysis considers multiple ______ simultaneously.",
+        "type": "fill_blank",
+        "answers": [
+            "variables"
+        ],
+        "other_options": [
+            "projects",
+            "companies",
+            "markets"
+        ]
+    },
+    {
+        "q": "A spin-off creates a new independent company from an existing division.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the hedging strategy with its purpose:",
+        "type": "match",
+        "left": [
+            "Forward",
+            "Option",
+            "Future",
+            "Swap"
+        ],
+        "right": [
+            "Lock in future rate",
+            "Right to buy/sell",
+            "Standardized exchange contract",
+            "Exchange payment streams"
+        ]
+    },
+    {
+        "q": "What is the main disadvantage of the payback method?",
+        "type": "mcq",
+        "o": [
+            "Ignores time value of money",
+            "Too complex to calculate",
+            "Requires too much data",
+            "Cannot be compared across projects"
+        ]
+    },
+    {
+        "q": "Rearrange the risk management process:",
+        "type": "rearrange",
+        "words": [
+            "Identify risks",
+            "Assess risks",
+            "Develop response",
+            "Implement",
+            "Monitor"
+        ]
+    },
+    {
+        "q": "A put option gives the holder the right to ______ an asset.",
+        "type": "fill_blank",
+        "answers": [
+            "sell"
+        ],
+        "other_options": [
+            "buy",
+            "hold",
+            "exchange"
+        ]
+    },
+    {
+        "q": "Which analysis technique uses probability distributions?",
+        "type": "mcq",
+        "o": [
+            "Monte Carlo simulation",
+            "Sensitivity analysis",
+            "Payback analysis",
+            "Break-even analysis"
+        ]
+    },
+    {
+        "q": "Horizontal merger combines companies in the same industry.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does EVA stand for?",
+        "type": "mcq",
+        "o": [
+            "Economic Value Added",
+            "Equity Value Analysis",
+            "Expected Value Assessment",
+            "Earnings Variation Analysis"
+        ]
+    },
+    {
+        "q": "The cost of equity is typically ______ than the cost of debt.",
+        "type": "fill_blank",
+        "answers": [
+            "higher"
+        ],
+        "other_options": [
+            "lower",
+            "equal",
+            "unrelated"
+        ]
+    },
+    {
+        "q": "Match the reconstruction type with its description:",
+        "type": "match",
+        "left": [
+            "Divestiture",
+            "Liquidation",
+            "Demerger",
+            "Administration"
+        ],
+        "right": [
+            "Selling business units",
+            "Closing and selling assets",
+            "Splitting into separate companies",
+            "Formal insolvency process"
+        ]
+    },
+    {
+        "q": "Which factor increases the value of a call option?",
+        "type": "mcq",
+        "o": [
+            "Higher volatility",
+            "Lower stock price",
+            "Shorter time to expiry",
+            "Higher strike price"
+        ]
+    },
+    {
+        "q": "Fiduciary duty requires managers to act in the best interest of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "shareholders"
+        ],
+        "other_options": [
+            "employees",
+            "customers",
+            "suppliers"
+        ]
+    },
+    {
+        "q": "A vertical merger combines companies at different stages of the supply chain.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the valuation steps:",
+        "type": "rearrange",
+        "words": [
+            "Forecast cash flows",
+            "Determine discount rate",
+            "Calculate present value",
+            "Estimate terminal value",
+            "Sum values"
+        ]
+    },
+    {
+        "q": "What is translation exposure also known as?",
+        "type": "mcq",
+        "o": [
+            "Accounting exposure",
+            "Transaction exposure",
+            "Economic exposure",
+            "Operating exposure"
+        ]
+    },
+    {
+        "q": "The profitability index is calculated by dividing PV of inflows by initial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "investment"
+        ],
+        "other_options": [
+            "revenue",
+            "profit",
+            "expenses"
+        ]
+    },
+    {
+        "q": "Match the ethical principle with its meaning:",
+        "type": "match",
+        "left": [
+            "Integrity",
+            "Objectivity",
+            "Confidentiality",
+            "Professional competence"
+        ],
+        "right": [
+            "Being honest and straightforward",
+            "Not being biased",
+            "Protecting information",
+            "Maintaining knowledge and skill"
+        ]
+    },
+    {
+        "q": "Which of the following is a defensive tactic against hostile takeovers?",
+        "type": "mcq",
+        "o": [
+            "Poison pill",
+            "Due diligence",
+            "Synergy analysis",
+            "Integration planning"
+        ]
+    },
+    {
+        "q": "A call option gives the holder the right to ______ an asset.",
+        "type": "fill_blank",
+        "answers": [
+            "buy"
+        ],
+        "other_options": [
+            "sell",
+            "hold",
+            "exchange"
+        ]
+    },
+    {
+        "q": "Operating leverage measures the sensitivity of operating profit to sales changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the main purpose of transfer pricing?",
+        "type": "mcq",
+        "o": [
+            "Allocate costs between divisions",
+            "Reduce total company costs",
+            "Increase sales revenue",
+            "Minimize workforce"
+        ]
+    },
+    {
+        "q": "Rearrange acquisition financing options from least to most risky:",
+        "type": "rearrange",
+        "words": [
+            "Cash",
+            "Senior debt",
+            "Mezzanine",
+            "Equity"
+        ]
+    },
+    {
+        "q": "The MIRR adjusts IRR for more realistic ______ assumptions.",
+        "type": "fill_blank",
+        "answers": [
+            "reinvestment"
+        ],
+        "other_options": [
+            "discount",
+            "growth",
+            "inflation"
+        ]
+    },
+    {
+        "q": "Match the synergy type with its source:",
+        "type": "match",
+        "left": [
+            "Revenue synergy",
+            "Cost synergy",
+            "Financial synergy",
+            "Tax synergy"
+        ],
+        "right": [
+            "Cross-selling opportunities",
+            "Elimination of duplicates",
+            "Lower cost of capital",
+            "Loss carryforwards"
+        ]
+    },
+    {
+        "q": "Which risk cannot be diversified away?",
+        "type": "mcq",
+        "o": [
+            "Systematic risk",
+            "Unsystematic risk",
+            "Company-specific risk",
+            "Project risk"
+        ]
+    },
+    {
+        "q": "Corporate governance ensures companies are directed and ______ properly.",
+        "type": "fill_blank",
+        "answers": [
+            "controlled"
+        ],
+        "other_options": [
+            "financed",
+            "marketed",
+            "expanded"
+        ]
+    },
+    {
+        "q": "A conglomerate merger combines unrelated businesses.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the exercise price of an option also called?",
+        "type": "mcq",
+        "o": [
+            "Strike price",
+            "Market price",
+            "Premium",
+            "Intrinsic value"
+        ]
+    },
+    {
+        "q": "Transaction exposure relates to outstanding ______ currency obligations.",
+        "type": "fill_blank",
+        "answers": [
+            "foreign"
+        ],
+        "other_options": [
+            "domestic",
+            "local",
+            "regional"
+        ]
+    },
+    {
+        "q": "Rearrange the due diligence areas by typical priority:",
+        "type": "rearrange",
+        "words": [
+            "Financial",
+            "Legal",
+            "Commercial",
+            "Operational",
+            "Environmental"
+        ]
+    },
+    {
+        "q": "Match the option term with its meaning:",
+        "type": "match",
+        "left": [
+            "Premium",
+            "Strike price",
+            "Expiry date",
+            "Underlying asset"
+        ],
+        "right": [
+            "Cost of the option",
+            "Agreed exercise price",
+            "Last exercise date",
+            "Asset being bought/sold"
+        ]
+    },
+    {
+        "q": "Which method values a company based on expected future dividends?",
+        "type": "mcq",
+        "o": [
+            "Dividend growth model",
+            "P/E ratio",
+            "Asset valuation",
+            "Book value"
+        ]
+    },
+    {
+        "q": "The term premium in finance refers to extra return for holding riskier assets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A golden parachute protects ______ during takeovers.",
+        "type": "fill_blank",
+        "answers": [
+            "executives"
+        ],
+        "other_options": [
+            "shareholders",
+            "employees",
+            "creditors"
+        ]
+    },
+    {
+        "q": "Which of the following is an internal funding source?",
+        "type": "mcq",
+        "o": [
+            "Retained earnings",
+            "Bank loans",
+            "Bond issuance",
+            "Share issuance"
+        ]
+    },
+    {
+        "q": "What does NPV equal zero indicate about IRR?",
+        "type": "mcq",
+        "o": [
+            "IRR equals the discount rate used",
+            "Project should be rejected",
+            "Infinite return on investment",
+            "No cash flows expected"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of corporate decline:",
+        "type": "rearrange",
+        "words": [
+            "Blinded",
+            "Inactive",
+            "Faulty action",
+            "Crisis",
+            "Dissolution"
+        ]
+    },
+    {
+        "q": "Economic exposure affects long-term ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "company"
+        ],
+        "other_options": [
+            "market",
+            "share",
+            "book"
+        ]
+    },
+    {
+        "q": "Match the interest rate term with its description:",
+        "type": "match",
+        "left": [
+            "LIBOR",
+            "Base rate",
+            "Yield curve",
+            "Term structure"
+        ],
+        "right": [
+            "Interbank lending rate",
+            "Central bank rate",
+            "Graph of rates vs maturity",
+            "Pattern of rates over time"
+        ]
+    },
+    {
+        "q": "Which ratio indicates financial gearing?",
+        "type": "mcq",
+        "o": [
+            "Debt-to-equity ratio",
+            "Current ratio",
+            "Quick ratio",
+            "Gross margin"
+        ]
+    },
+    {
+        "q": "Whistle-blowing is an important ethical mechanism in organizations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A white knight is a friendly ______ in a hostile takeover situation.",
+        "type": "fill_blank",
+        "answers": [
+            "acquirer"
+        ],
+        "other_options": [
+            "competitor",
+            "regulator",
+            "advisor"
+        ]
+    },
+    {
+        "q": "What is the purpose of a rights issue?",
+        "type": "mcq",
+        "o": [
+            "Raise equity from existing shareholders",
+            "Issue debt to bondholders",
+            "Buy back shares from the market",
+            "Distribute dividends to shareholders"
+        ]
+    },
+    {
+        "q": "Real options analysis applies option theory to ______ investments.",
+        "type": "fill_blank",
+        "answers": [
+            "capital"
+        ],
+        "other_options": [
+            "financial",
+            "short-term",
+            "liquid"
+        ]
+    },
+    {
+        "q": "Rearrange the pecking order theory preference:",
+        "type": "rearrange",
+        "words": [
+            "Internal funds",
+            "Debt",
+            "Hybrid securities",
+            "Equity"
+        ]
+    },
+    {
+        "q": "Match the currency risk type with its hedge:",
+        "type": "match",
+        "left": [
+            "Transaction risk",
+            "Translation risk",
+            "Economic risk",
+            "Pre-transaction risk"
+        ],
+        "right": [
+            "Forward contracts",
+            "Balance sheet hedging",
+            "Operating policies",
+            "Currency clauses"
+        ]
+    },
+    {
+        "q": "Which of the following increases the value of an option?",
+        "type": "mcq",
+        "o": [
+            "Longer time to expiration",
+            "Lower volatility",
+            "Higher interest rates for puts",
+            "Lower strike price for puts"
+        ]
+    },
+    {
+        "q": "Agency costs arise from conflicts between principals and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "agents"
+        ],
+        "other_options": [
+            "regulators",
+            "customers",
+            "suppliers"
+        ]
+    },
+    {
+        "q": "A management buyout involves existing management acquiring the company.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is basis risk in hedging?",
+        "type": "mcq",
+        "o": [
+            "Risk that hedge does not perfectly offset exposure",
+            "Risk of counterparty default",
+            "Risk of interest rate changes",
+            "Risk of currency fluctuations"
+        ]
+    },
+    {
+        "q": "The ______ rate is the forward rate implied by current spot rates.",
+        "type": "fill_blank",
+        "answers": [
+            "implied"
+        ],
+        "other_options": [
+            "historical",
+            "projected",
+            "average"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of a leveraged buyout:",
+        "type": "rearrange",
+        "words": [
+            "Target selection",
+            "Financing arrangement",
+            "Acquisition",
+            "Restructuring",
+            "Exit"
+        ]
+    },
+    {
+        "q": "Match the valuation multiple with its calculation:",
+        "type": "match",
+        "left": [
+            "P/E ratio",
+            "EV/EBITDA",
+            "P/B ratio",
+            "Dividend yield"
+        ],
+        "right": [
+            "Price per earnings",
+            "Enterprise value per cash profit",
+            "Price per book value",
+            "Dividend per price"
+        ]
+    },
+    {
+        "q": "Which scenario analysis outcome represents the worst case?",
+        "type": "mcq",
+        "o": [
+            "Pessimistic scenario",
+            "Optimistic scenario",
+            "Base case scenario",
+            "Expected scenario"
+        ]
+    },
+    {
+        "q": "Unbundling a company involves selling off ______ businesses.",
+        "type": "fill_blank",
+        "answers": [
+            "non-core"
+        ],
+        "other_options": [
+            "profitable",
+            "growing",
+            "international"
+        ]
+    },
+    {
+        "q": "Interest rate parity links spot rates, forward rates, and interest differentials.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the term for a company that acquires other companies?",
+        "type": "mcq",
+        "o": [
+            "Acquirer",
+            "Target",
+            "Vendor",
+            "Subsidiary"
+        ]
+    },
+    {
+        "q": "The weighted average cost of capital uses market value ______.",
+        "type": "fill_blank",
+        "answers": [
+            "weights"
+        ],
+        "other_options": [
+            "prices",
+            "returns",
+            "premiums"
+        ]
+    },
+    {
+        "q": "Rearrange the capital rationing process:",
+        "type": "rearrange",
+        "words": [
+            "Identify projects",
+            "Calculate NPV/PI",
+            "Rank projects",
+            "Allocate capital",
+            "Select projects"
+        ]
+    },
+    {
+        "q": "Match the type of share buyback with its method:",
+        "type": "match",
+        "left": [
+            "Open market",
+            "Tender offer",
+            "Dutch auction",
+            "Direct negotiation"
+        ],
+        "right": [
+            "Buy shares at market price",
+            "Fixed price offer to all",
+            "Range of prices offered",
+            "Private purchase from holder"
+        ]
+    },
+    {
+        "q": "Which financial instrument obligation must be fulfilled on the settlement date?",
+        "type": "mcq",
+        "o": [
+            "Forward contract",
+            "Call option",
+            "Put option",
+            "Warrant"
+        ]
+    },
+    {
+        "q": "Market timing attempts to buy low and sell ______.",
+        "type": "fill_blank",
+        "answers": [
+            "high"
+        ],
+        "other_options": [
+            "low",
+            "equal",
+            "average"
+        ]
+    },
+    {
+        "q": "The Modigliani-Miller theorem suggests capital structure irrelevance in perfect markets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of a collar strategy?",
+        "type": "mcq",
+        "o": [
+            "Limit both upside and downside risk",
+            "Maximize potential gains",
+            "Eliminate all currency risk",
+            "Increase leverage"
+        ]
+    },
+    {
+        "q": "Goodwill in acquisitions represents the premium over ______ asset value.",
+        "type": "fill_blank",
+        "answers": [
+            "fair"
+        ],
+        "other_options": [
+            "book",
+            "market",
+            "historical"
+        ]
+    },
+    {
+        "q": "Rearrange the strategic planning hierarchy:",
+        "type": "rearrange",
+        "words": [
+            "Mission",
+            "Objectives",
+            "Strategy",
+            "Tactics",
+            "Operations"
+        ]
+    },
+    {
+        "q": "Match the financing characteristic with the source:",
+        "type": "match",
+        "left": [
+            "Permanent capital",
+            "Medium-term",
+            "Short-term",
+            "Off-balance sheet"
+        ],
+        "right": [
+            "Equity shares",
+            "Term loans",
+            "Overdraft",
+            "Operating lease"
+        ]
+    },
+    {
+        "q": "Which approach adjusts cash flows for risk before discounting?",
+        "type": "mcq",
+        "o": [
+            "Certainty equivalent method",
+            "Risk-adjusted discount rate",
+            "Sensitivity analysis",
+            "Scenario planning"
+        ]
+    },
+    {
+        "q": "Earnings management that misleads investors is considered ______.",
+        "type": "fill_blank",
+        "answers": [
+            "unethical"
+        ],
+        "other_options": [
+            "acceptable",
+            "normal",
+            "required"
+        ]
+    },
+    {
+        "q": "A reverse takeover occurs when a smaller company acquires a larger one.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does EBITDA stand for?",
+        "type": "mcq",
+        "o": [
+            "Earnings Before Interest, Taxes, Depreciation, and Amortization",
+            "Equity Before Interest, Taxes, Debt, and Assets",
+            "Earnings Before Investment, Trading, Dividends, and Allocation",
+            "Expected Benefit Including Tax Deductible Amounts"
+        ]
+    },
+    {
+        "q": "Purchasing power parity relates exchange rates to ______ levels.",
+        "type": "fill_blank",
+        "answers": [
+            "price"
+        ],
+        "other_options": [
+            "interest",
+            "income",
+            "growth"
+        ]
+    },
+    {
+        "q": "Rearrange the international investment process:",
+        "type": "rearrange",
+        "words": [
+            "Opportunity assessment",
+            "Political risk analysis",
+            "Currency risk analysis",
+            "Valuation",
+            "Decision"
+        ]
+    },
+    {
+        "q": "Match the M&A term with its meaning:",
+        "type": "match",
+        "left": [
+            "Earnout",
+            "Escrow",
+            "Break fee",
+            "Standstill"
+        ],
+        "right": [
+            "Contingent payment",
+            "Funds held by third party",
+            "Penalty for withdrawal",
+            "Agreement not to acquire more"
+        ]
+    },
+    {
+        "q": "Which type of synergy comes from combining sales forces?",
+        "type": "mcq",
+        "o": [
+            "Revenue synergy",
+            "Cost synergy",
+            "Financial synergy",
+            "Management synergy"
+        ]
+    },
+    {
+        "q": "The asset beta removes the effect of ______ from equity beta.",
+        "type": "fill_blank",
+        "answers": [
+            "gearing"
+        ],
+        "other_options": [
+            "risk",
+            "return",
+            "growth"
+        ]
+    },
+    {
+        "q": "A straddle involves buying both a call and put with the same strike price.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the main purpose of working capital management?",
+        "type": "mcq",
+        "o": [
+            "Ensure liquidity while maximizing profitability",
+            "Minimize all current assets",
+            "Maximize accounts payable",
+            "Eliminate inventory holdings"
+        ]
+    },
+    {
+        "q": "The ______ spread measures the difference between bid and ask prices.",
+        "type": "fill_blank",
+        "answers": [
+            "bid-ask"
+        ],
+        "other_options": [
+            "credit",
+            "yield",
+            "term"
+        ]
+    },
+    {
+        "q": "Fisher Effect relates nominal interest rates to real rates and inflation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which dividend policy maintains a constant payout ratio?",
+        "type": "mcq",
+        "o": [
+            "Constant payout policy",
+            "Stable dividend policy",
+            "Residual dividend policy",
+            "Zero dividend policy"
+        ]
+    },
+    {
+        "q": "Match the treasury function with its role:",
+        "type": "match",
+        "left": [
+            "Cash management",
+            "Funding",
+            "Currency management",
+            "Risk management"
+        ],
+        "right": [
+            "Optimize liquidity",
+            "Raise capital",
+            "Handle FX exposure",
+            "Identify and mitigate risks"
+        ]
+    },
+    {
+        "q": "A share repurchase increases earnings per share if the P/E is above the ______ yield.",
+        "type": "fill_blank",
+        "answers": [
+            "earnings"
+        ],
+        "other_options": [
+            "dividend",
+            "interest",
+            "growth"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of financial distress:",
+        "type": "rearrange",
+        "words": [
+            "Cash flow problems",
+            "Insolvency",
+            "Bankruptcy filing",
+            "Reorganization",
+            "Resolution"
+        ]
+    },
+    {
+        "q": "Which theory suggests managers have more information than shareholders?",
+        "type": "mcq",
+        "o": [
+            "Information asymmetry",
+            "Agency theory",
+            "Signaling theory",
+            "Stakeholder theory"
+        ]
+    },
+    {
+        "q": "A strangle differs from a straddle by using ______ strike prices.",
+        "type": "fill_blank",
+        "answers": [
+            "different"
+        ],
+        "other_options": [
+            "same",
+            "average",
+            "median"
+        ]
+    },
+    {
+        "q": "Enterprise value equals equity value plus debt minus cash.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the real option with its type:",
+        "type": "match",
+        "left": [
+            "Delay investment",
+            "Expand operations",
+            "Abandon project",
+            "Switch production"
+        ],
+        "right": [
+            "Option to wait",
+            "Growth option",
+            "Put option",
+            "Flexibility option"
+        ]
+    },
+    {
+        "q": "What is the purpose of transfer pricing regulations?",
+        "type": "mcq",
+        "o": [
+            "Prevent tax avoidance between related parties",
+            "Maximize company profits",
+            "Reduce compliance costs",
+            "Increase revenue"
+        ]
+    },
+    {
+        "q": "The ______ model values companies with stable dividend growth.",
+        "type": "fill_blank",
+        "answers": [
+            "Gordon"
+        ],
+        "other_options": [
+            "Black-Scholes",
+            "CAPM",
+            "APT"
+        ]
+    },
+    {
+        "q": "Rearrange the corporate restructuring options by severity:",
+        "type": "rearrange",
+        "words": [
+            "Cost cutting",
+            "Asset sales",
+            "Debt restructuring",
+            "Administration",
+            "Liquidation"
+        ]
+    },
+    {
+        "q": "Which type of acquisition involves purchasing target company shares?",
+        "type": "mcq",
+        "o": [
+            "Share acquisition",
+            "Asset acquisition",
+            "Merger",
+            "Consolidation"
+        ]
+    },
+    {
+        "q": "Netting reduces the number and value of ______ currency transactions.",
+        "type": "fill_blank",
+        "answers": [
+            "inter-company"
+        ],
+        "other_options": [
+            "external",
+            "large",
+            "small"
+        ]
+    },
+    {
+        "q": "A company with high operating leverage has higher business risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the capital structure theory with its key assumption:",
+        "type": "match",
+        "left": [
+            "Modigliani-Miller",
+            "Trade-off theory",
+            "Pecking order",
+            "Signaling theory"
+        ],
+        "right": [
+            "Perfect markets",
+            "Tax benefits vs bankruptcy costs",
+            "Information asymmetry",
+            "Debt signals confidence"
+        ]
+    },
+    {
+        "q": "What does OPM stand for in option valuation?",
+        "type": "mcq",
+        "o": [
+            "Option Pricing Model",
+            "Operational Performance Metric",
+            "Optimal Portfolio Management",
+            "Outstanding Principal Method"
+        ]
+    },
+    {
+        "q": "The Black-Scholes model assumes stock prices follow a ______ distribution.",
+        "type": "fill_blank",
+        "answers": [
+            "lognormal"
+        ],
+        "other_options": [
+            "normal",
+            "uniform",
+            "binomial"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in a typical M&A transaction:",
+        "type": "rearrange",
+        "words": [
+            "Strategy",
+            "Search",
+            "Screen",
+            "Contact",
+            "Negotiate",
+            "Close"
+        ]
+    },
+    {
+        "q": "Which method of project appraisal considers flexibility value?",
+        "type": "mcq",
+        "o": [
+            "Real options analysis",
+            "Traditional NPV",
+            "Payback period",
+            "Accounting rate of return"
+        ]
+    },
+    {
+        "q": "A leading strategy involves settling foreign currency ______ earlier.",
+        "type": "fill_blank",
+        "answers": [
+            "payables"
+        ],
+        "other_options": [
+            "receivables",
+            "inventory",
+            "assets"
+        ]
+    },
+    {
+        "q": "Weighted marginal cost of capital considers the cost of new capital raised.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the type of efficiency with the information reflected:",
+        "type": "match",
+        "left": [
+            "Weak form",
+            "Semi-strong form",
+            "Strong form",
+            "Allocational"
+        ],
+        "right": [
+            "Historical prices",
+            "All public information",
+            "All information including private",
+            "Resources to best use"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of asset-liability management?",
+        "type": "mcq",
+        "o": [
+            "Match asset and liability characteristics",
+            "Maximize short-term profits",
+            "Minimize all liabilities",
+            "Increase asset turnover"
+        ]
+    },
+    {
+        "q": "Duration measures a bonds sensitivity to ______ rate changes.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "exchange",
+            "inflation",
+            "growth"
+        ]
+    },
+    {
+        "q": "Rearrange the elements of investment policy statement:",
+        "type": "rearrange",
+        "words": [
+            "Objectives",
+            "Constraints",
+            "Asset allocation",
+            "Selection",
+            "Monitoring"
+        ]
+    },
+    {
+        "q": "Which hedging technique matches foreign assets with foreign liabilities?",
+        "type": "mcq",
+        "o": [
+            "Balance sheet hedging",
+            "Forward hedging",
+            "Option hedging",
+            "Natural hedging"
+        ]
+    },
+    {
+        "q": "Greenfield investment involves building new ______ from scratch.",
+        "type": "fill_blank",
+        "answers": [
+            "facilities"
+        ],
+        "other_options": [
+            "products",
+            "strategies",
+            "markets"
+        ]
+    },
+    {
+        "q": "The terminal value often represents the majority of a companies DCF value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the credit term with its meaning:",
+        "type": "match",
+        "left": [
+            "2/10 net 30",
+            "FOB shipping",
+            "COD",
+            "Letter of credit"
+        ],
+        "right": [
+            "2% discount if paid in 10 days",
+            "Buyer pays shipping",
+            "Payment on delivery",
+            "Bank guarantee of payment"
+        ]
+    },
+    {
+        "q": "What is the purpose of a fairness opinion in M&A?",
+        "type": "mcq",
+        "o": [
+            "Provide independent view on transaction value",
+            "Guarantee transaction success",
+            "Reduce acquisition costs",
+            "Speed up due diligence"
+        ]
+    },
+    {
+        "q": "The Hamada equation adjusts beta for different ______ levels.",
+        "type": "fill_blank",
+        "answers": [
+            "gearing"
+        ],
+        "other_options": [
+            "risk",
+            "return",
+            "growth"
+        ]
+    },
+    {
+        "q": "Rearrange the sources of finance from cheapest to most expensive:",
+        "type": "rearrange",
+        "words": [
+            "Retained earnings",
+            "Bank debt",
+            "Bonds",
+            "Preferred shares",
+            "Equity"
+        ]
+    },
+    {
+        "q": "Which defensive measure increases shares outstanding if triggered?",
+        "type": "mcq",
+        "o": [
+            "Poison pill",
+            "Golden parachute",
+            "White knight",
+            "Crown jewel defense"
+        ]
+    },
+    {
+        "q": "Delta measures the change in option value for a unit change in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "underlying"
+        ],
+        "other_options": [
+            "volatility",
+            "time",
+            "interest"
+        ]
+    },
+    {
+        "q": "An interest rate swap exchanges fixed payments for floating payments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the option Greek with what it measures:",
+        "type": "match",
+        "left": [
+            "Delta",
+            "Gamma",
+            "Theta",
+            "Vega"
+        ],
+        "right": [
+            "Price sensitivity",
+            "Delta sensitivity",
+            "Time decay",
+            "Volatility sensitivity"
+        ]
+    },
+    {
+        "q": "What is the purpose of due diligence in acquisitions?",
+        "type": "mcq",
+        "o": [
+            "Verify information and identify risks",
+            "Negotiate purchase price",
+            "Arrange financing",
+            "Plan integration"
+        ]
+    },
+    {
+        "q": "Convexity measures the change in ______ as yields change.",
+        "type": "fill_blank",
+        "answers": [
+            "duration"
+        ],
+        "other_options": [
+            "price",
+            "coupon",
+            "maturity"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of a typical IPO:",
+        "type": "rearrange",
+        "words": [
+            "Preparation",
+            "Due diligence",
+            "Roadshow",
+            "Pricing",
+            "Trading begins"
+        ]
+    },
+    {
+        "q": "Which method allocates joint venture profits based on contribution?",
+        "type": "mcq",
+        "o": [
+            "Equity method",
+            "Proportional consolidation",
+            "Full consolidation",
+            "Cost method"
+        ]
+    },
+    {
+        "q": "A participation agreement gives the lender a share of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profits"
+        ],
+        "other_options": [
+            "losses",
+            "assets",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "Behavioral finance suggests investors are always rational.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the type of foreign investment with its characteristic:",
+        "type": "match",
+        "left": [
+            "FDI",
+            "Portfolio investment",
+            "Joint venture",
+            "Licensing"
+        ],
+        "right": [
+            "Control stake",
+            "No management control",
+            "Shared ownership",
+            "Rights transfer"
+        ]
+    },
+    {
+        "q": "What does LIBOR stand for?",
+        "type": "mcq",
+        "o": [
+            "London Interbank Offered Rate",
+            "Limited Interest Base Offering Rate",
+            "Long-term Investment Bond Offering Rate",
+            "Liquid Interbank Operating Rate"
+        ]
+    },
+    {
+        "q": "Moral hazard occurs when one party takes risks because another party bears the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "consequences"
+        ],
+        "other_options": [
+            "benefits",
+            "profits",
+            "investments"
+        ]
+    },
+    {
+        "q": "Rearrange the components of cost of capital calculation:",
+        "type": "rearrange",
+        "words": [
+            "Identify sources",
+            "Calculate individual costs",
+            "Determine weights",
+            "Calculate WACC"
+        ]
+    },
+    {
+        "q": "Which statement best describes transaction exposure?",
+        "type": "mcq",
+        "o": [
+            "Risk from outstanding foreign currency transactions",
+            "Risk from translating foreign subsidiaries",
+            "Long-term competitive position risk",
+            "Risk from interest rate changes"
+        ]
+    },
+    {
+        "q": "The perpetuity growth model assumes growth continues ______.",
+        "type": "fill_blank",
+        "answers": [
+            "forever"
+        ],
+        "other_options": [
+            "temporarily",
+            "cyclically",
+            "randomly"
+        ]
+    },
+    {
+        "q": "A demerger separates a company into multiple independent entities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the risk management strategy with its approach:",
+        "type": "match",
+        "left": [
+            "Avoidance",
+            "Reduction",
+            "Transfer",
+            "Retention"
+        ],
+        "right": [
+            "Eliminate exposure",
+            "Minimize impact",
+            "Shift to third party",
+            "Accept and absorb"
+        ]
+    },
+    {
+        "q": "What is the impact of high financial leverage on ROE?",
+        "type": "mcq",
+        "o": [
+            "Amplifies both gains and losses",
+            "Only increases returns",
+            "Only increases risk",
+            "Has no effect"
+        ]
+    },
+    {
+        "q": "Country risk includes political, economic, and ______ risks.",
+        "type": "fill_blank",
+        "answers": [
+            "sovereign"
+        ],
+        "other_options": [
+            "corporate",
+            "individual",
+            "local"
+        ]
+    },
+    {
+        "q": "Rearrange the value creation drivers:",
+        "type": "rearrange",
+        "words": [
+            "Revenue growth",
+            "Operating margin",
+            "Tax efficiency",
+            "Working capital",
+            "Capital expenditure"
+        ]
+    },
+    {
+        "q": "Which factor does NOT affect the value of a call option?",
+        "type": "mcq",
+        "o": [
+            "Dividend policy of the writer",
+            "Current stock price",
+            "Strike price",
+            "Time to expiration"
+        ]
+    },
+    {
+        "q": "A warrant is similar to a call option but issued by the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "company"
+        ],
+        "other_options": [
+            "exchange",
+            "investor",
+            "bank"
+        ]
+    },
+    {
+        "q": "Stakeholder theory suggests firms should only maximize shareholder wealth.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the performance metric with its focus:",
+        "type": "match",
+        "left": [
+            "ROE",
+            "ROCE",
+            "EVA",
+            "MVA"
+        ],
+        "right": [
+            "Shareholder returns",
+            "All capital returns",
+            "Value above cost of capital",
+            "Market vs book value"
+        ]
+    },
+    {
+        "q": "What is the main benefit of a currency swap?",
+        "type": "mcq",
+        "o": [
+            "Access to foreign currency at lower cost",
+            "Eliminate all currency risk",
+            "Guarantee future exchange rates",
+            "Reduce principal amounts"
+        ]
+    },
+    {
+        "q": "The binomial model values options using ______ steps.",
+        "type": "fill_blank",
+        "answers": [
+            "discrete"
+        ],
+        "other_options": [
+            "continuous",
+            "random",
+            "fixed"
+        ]
+    },
+    {
+        "q": "Rearrange the financial planning process:",
+        "type": "rearrange",
+        "words": [
+            "Set objectives",
+            "Analyze position",
+            "Develop strategy",
+            "Implement",
+            "Review"
+        ]
+    },
+    {
+        "q": "Which valuation approach uses comparable company multiples?",
+        "type": "mcq",
+        "o": [
+            "Relative valuation",
+            "DCF valuation",
+            "Asset-based valuation",
+            "Residual income valuation"
+        ]
+    },
+    {
+        "q": "The adjusted present value separates base NPV from financing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "effects"
+        ],
+        "other_options": [
+            "costs",
+            "sources",
+            "terms"
+        ]
+    },
+    {
+        "q": "A dual class share structure gives different voting rights to share classes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the integration approach with its characteristic:",
+        "type": "match",
+        "left": [
+            "Absorption",
+            "Preservation",
+            "Symbiotic",
+            "Holding"
+        ],
+        "right": [
+            "Full integration",
+            "Keep separate",
+            "Gradual blending",
+            "Minimal interaction"
+        ]
+    },
+    {
+        "q": "What does the bid-offer spread indicate?",
+        "type": "mcq",
+        "o": [
+            "Liquidity and transaction costs",
+            "Asset quality",
+            "Future price direction",
+            "Volatility level"
+        ]
+    },
+    {
+        "q": "Rho measures option sensitivity to ______ rates.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "exchange",
+            "dividend",
+            "inflation"
+        ]
+    },
+    {
+        "q": "Rearrange the credit analysis steps:",
+        "type": "rearrange",
+        "words": [
+            "Character",
+            "Capacity",
+            "Capital",
+            "Collateral",
+            "Conditions"
+        ]
+    },
+    {
+        "q": "Which theory explains why firms issue equity when stock prices are high?",
+        "type": "mcq",
+        "o": [
+            "Market timing theory",
+            "Trade-off theory",
+            "Pecking order theory",
+            "Agency theory"
+        ]
+    },
+    {
+        "q": "A synthetic forward combines a call and put with the same ______.",
+        "type": "fill_blank",
+        "answers": [
+            "strike"
+        ],
+        "other_options": [
+            "premium",
+            "expiry",
+            "underlying"
+        ]
+    },
+    {
+        "q": "Zero-based budgeting requires justification for all expenses each period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the business valuation purpose with its focus:",
+        "type": "match",
+        "left": [
+            "Acquisition",
+            "IPO",
+            "Litigation",
+            "Tax planning"
+        ],
+        "right": [
+            "Control premium",
+            "Liquidity discount",
+            "Fair market value",
+            "Estate value"
+        ]
+    },
+    {
+        "q": "What is the purpose of earnout provisions in M&A?",
+        "type": "mcq",
+        "o": [
+            "Bridge valuation gaps with contingent payments",
+            "Reduce upfront payment",
+            "Avoid taxes",
+            "Delay closing"
+        ]
+    },
+    {
+        "q": "Modified duration adjusts duration for ______ frequency.",
+        "type": "fill_blank",
+        "answers": [
+            "compounding"
+        ],
+        "other_options": [
+            "payment",
+            "maturity",
+            "coupon"
+        ]
+    },
+    {
+        "q": "Rearrange the components of enterprise value calculation:",
+        "type": "rearrange",
+        "words": [
+            "Market cap",
+            "Add total debt",
+            "Add preferred stock",
+            "Subtract cash",
+            "Final EV"
+        ]
+    },
+    {
+        "q": "Which approach values a company based on replacement cost of assets?",
+        "type": "mcq",
+        "o": [
+            "Asset-based valuation",
+            "Income approach",
+            "Market approach",
+            "Option approach"
+        ]
+    },
+    {
+        "q": "Arbitrage involves exploiting price differences without taking ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "profit",
+            "position",
+            "time"
+        ]
+    },
+    {
+        "q": "A letter of intent is a legally binding agreement in M&A.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the covenant type with its restriction:",
+        "type": "match",
+        "left": [
+            "Affirmative",
+            "Negative",
+            "Financial",
+            "Incurrence"
+        ],
+        "right": [
+            "Actions required",
+            "Actions prohibited",
+            "Ratio maintenance",
+            "Triggered by events"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of financial restructuring?",
+        "type": "mcq",
+        "o": [
+            "Improve capital structure and reduce distress",
+            "Increase sales revenue",
+            "Enter new markets",
+            "Hire new management"
+        ]
+    },
+    {
+        "q": "The spot rate is the exchange rate for ______ delivery.",
+        "type": "fill_blank",
+        "answers": [
+            "immediate"
+        ],
+        "other_options": [
+            "future",
+            "forward",
+            "deferred"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in sensitivity analysis:",
+        "type": "rearrange",
+        "words": [
+            "Identify variable",
+            "Set base case",
+            "Change variable",
+            "Calculate impact",
+            "Analyze results"
+        ]
+    },
+    {
+        "q": "Which technique uses decision trees for investment analysis?",
+        "type": "mcq",
+        "o": [
+            "Real options analysis",
+            "Sensitivity analysis",
+            "Scenario analysis",
+            "Break-even analysis"
+        ]
+    },
+    {
+        "q": "Value at Risk measures the maximum loss at a given ______ level.",
+        "type": "fill_blank",
+        "answers": [
+            "confidence"
+        ],
+        "other_options": [
+            "probability",
+            "volatility",
+            "correlation"
+        ]
+    },
+    {
+        "q": "Frontrunning is an ethical practice permitted in financial markets.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the international finance term with its meaning:",
+        "type": "match",
+        "left": [
+            "Spot rate",
+            "Forward rate",
+            "Cross rate",
+            "Effective rate"
+        ],
+        "right": [
+            "Current exchange rate",
+            "Future exchange rate",
+            "Rate between non-USD pairs",
+            "Overall return"
+        ]
+    },
+    {
+        "q": "What is the main purpose of invoice discounting?",
+        "type": "mcq",
+        "o": [
+            "Accelerate cash collection",
+            "Reduce invoice amounts",
+            "Delay payments to suppliers",
+            "Avoid bad debts"
+        ]
+    },
+    {
+        "q": "Gap analysis measures the difference between rate-sensitive assets and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "liabilities"
+        ],
+        "other_options": [
+            "income",
+            "capital",
+            "reserves"
+        ]
+    },
+    {
+        "q": "Rearrange the financial ratio categories by liquidity focus:",
+        "type": "rearrange",
+        "words": [
+            "Liquidity",
+            "Activity",
+            "Leverage",
+            "Profitability",
+            "Market"
+        ]
+    },
+    {
+        "q": "Which method spreads currency exposure over time?",
+        "type": "mcq",
+        "o": [
+            "Layering strategy",
+            "Full hedge",
+            "No hedge",
+            "Natural hedge"
+        ]
+    },
+    {
+        "q": "Net investment hedging protects the value of foreign ______.",
+        "type": "fill_blank",
+        "answers": [
+            "subsidiaries"
+        ],
+        "other_options": [
+            "products",
+            "customers",
+            "suppliers"
+        ]
+    },
+    {
+        "q": "The cost of preference shares is tax-deductible like debt interest.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the exit strategy with its description:",
+        "type": "match",
+        "left": [
+            "Trade sale",
+            "IPO",
+            "Secondary buyout",
+            "Recapitalization"
+        ],
+        "right": [
+            "Sell to competitor",
+            "Public listing",
+            "Sell to another PE firm",
+            "Change capital structure"
+        ]
+    },
+    {
+        "q": "What is the impact of diversification on portfolio risk?",
+        "type": "mcq",
+        "o": [
+            "Reduces unsystematic risk",
+            "Eliminates all risk",
+            "Increases systematic risk",
+            "Has no effect on risk"
+        ]
+    },
+    {
+        "q": "The equity risk premium compensates investors for ______ market risk.",
+        "type": "fill_blank",
+        "answers": [
+            "bearing"
+        ],
+        "other_options": [
+            "avoiding",
+            "transferring",
+            "ignoring"
+        ]
+    },
+    {
+        "q": "Rearrange the capital budgeting process:",
+        "type": "rearrange",
+        "words": [
+            "Proposal",
+            "Screening",
+            "Evaluation",
+            "Selection",
+            "Implementation"
+        ]
+    },
+    {
+        "q": "Which investment appraisal method considers the time value of money?",
+        "type": "mcq",
+        "o": [
+            "Net Present Value",
+            "Payback period",
+            "Accounting rate of return",
+            "Return on investment"
+        ]
+    },
+    {
+        "q": "A step-up acquisition involves buying shares in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "stages"
+        ],
+        "other_options": [
+            "bulk",
+            "secret",
+            "pairs"
+        ]
+    },
+    {
+        "q": "The efficient frontier shows portfolios with the best risk-return trade-off.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the bond type with its characteristic:",
+        "type": "match",
+        "left": [
+            "Zero coupon",
+            "Convertible",
+            "Callable",
+            "Floating rate"
+        ],
+        "right": [
+            "No periodic payments",
+            "Exchange for shares",
+            "Early redemption option",
+            "Variable interest"
+        ]
+    },
+    {
+        "q": "What is the main disadvantage of internal rate of return?",
+        "type": "mcq",
+        "o": [
+            "May give multiple rates for non-conventional cash flows",
+            "Too simple to calculate",
+            "Ignores project size",
+            "Cannot compare different projects"
+        ]
+    },
+    {
+        "q": "Swaption gives the holder the right to enter a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "swap"
+        ],
+        "other_options": [
+            "forward",
+            "futures",
+            "option"
+        ]
+    },
+    {
+        "q": "Rearrange the phases of post-acquisition integration:",
+        "type": "rearrange",
+        "words": [
+            "Planning",
+            "Stabilization",
+            "Integration",
+            "Optimization",
+            "Value capture"
+        ]
+    },
+    {
+        "q": "Which factor increases the systematic risk of a company?",
+        "type": "mcq",
+        "o": [
+            "Higher operating leverage",
+            "Product diversification",
+            "Geographic diversification",
+            "Customer diversification"
+        ]
+    },
+    {
+        "q": "The ex-dividend date is when the shares trade ______ the dividend.",
+        "type": "fill_blank",
+        "answers": [
+            "without"
+        ],
+        "other_options": [
+            "with",
+            "including",
+            "plus"
+        ]
+    },
+    {
+        "q": "Marking to market is a feature of exchange-traded futures contracts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the credit rating with its meaning:",
+        "type": "match",
+        "left": [
+            "AAA",
+            "BBB",
+            "BB",
+            "D"
+        ],
+        "right": [
+            "Highest quality",
+            "Investment grade minimum",
+            "Speculative grade",
+            "Default"
+        ]
+    },
+    {
+        "q": "What is the relationship between bond prices and yields?",
+        "type": "mcq",
+        "o": [
+            "Inverse relationship",
+            "Direct relationship",
+            "No relationship",
+            "Random relationship"
+        ]
+    },
+    {
+        "q": "Regulatory capital requirements affect banks ability to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "lend"
+        ],
+        "other_options": [
+            "invest",
+            "trade",
+            "merge"
+        ]
+    },
+    {
+        "q": "Which technique values growth opportunities as embedded options?",
+        "type": "mcq",
+        "o": [
+            "Real options valuation",
+            "DCF analysis",
+            "Comparable multiples",
+            "Book value method"
+        ]
+    },
+    {
+        "q": "A ______ cap limits the maximum interest rate payable on floating rate debt.",
+        "type": "fill_blank",
+        "answers": [
+            "interest rate"
+        ],
+        "other_options": [
+            "exchange rate",
+            "credit",
+            "dividend"
+        ]
+    },
+    {
+        "q": "APT assumes returns are driven by multiple systematic factors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the derivative with its settlement:",
+        "type": "match",
+        "left": [
+            "Futures",
+            "Options",
+            "Swaps",
+            "Forwards"
+        ],
+        "right": [
+            "Daily settlement",
+            "Optional exercise",
+            "Periodic exchange",
+            "At maturity"
+        ]
+    },
+    {
+        "q": "What is the primary risk in a leveraged buyout?",
+        "type": "mcq",
+        "o": [
+            "High debt levels reducing financial flexibility",
+            "Lack of management skills",
+            "Too much cash available",
+            "Excessive diversification"
+        ]
+    },
+    {
+        "q": "The cost of financial distress includes direct and ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "indirect"
+        ],
+        "other_options": [
+            "fixed",
+            "variable",
+            "sunk"
+        ]
+    },
+    {
+        "q": "Rearrange the Black-Scholes model inputs:",
+        "type": "rearrange",
+        "words": [
+            "Stock price",
+            "Strike price",
+            "Time to expiry",
+            "Risk-free rate",
+            "Volatility"
+        ]
+    },
+    {
+        "q": "Which ratio measures interest coverage?",
+        "type": "mcq",
+        "o": [
+            "EBIT divided by interest expense",
+            "Net income divided by revenue",
+            "Current assets divided by current liabilities",
+            "Debt divided by equity"
+        ]
+    },
+    {
+        "q": "A lagging strategy involves delaying foreign currency ______.",
+        "type": "fill_blank",
+        "answers": [
+            "payments"
+        ],
+        "other_options": [
+            "receipts",
+            "investments",
+            "borrowings"
+        ]
+    },
+    {
+        "q": "Synergies in mergers are always easily achievable after the deal closes.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the treasury risk with its management tool:",
+        "type": "match",
+        "left": [
+            "FX transaction risk",
+            "Interest rate risk",
+            "Liquidity risk",
+            "Counterparty risk"
+        ],
+        "right": [
+            "Forward contracts",
+            "Interest rate swaps",
+            "Cash forecasting",
+            "Credit derivatives"
+        ]
+    },
+    {
+        "q": "What does the profitability index represent?",
+        "type": "mcq",
+        "o": [
+            "Value created per unit of investment",
+            "Total project value",
+            "Time to payback",
+            "Accounting return"
+        ]
+    },
+    {
+        "q": "The pecking order theory suggests equity is the ______ resort financing option.",
+        "type": "fill_blank",
+        "answers": [
+            "last"
+        ],
+        "other_options": [
+            "first",
+            "preferred",
+            "only"
+        ]
+    },
+    {
+        "q": "Rearrange the working capital cycle:",
+        "type": "rearrange",
+        "words": [
+            "Purchase materials",
+            "Produce goods",
+            "Hold inventory",
+            "Sell goods",
+            "Collect cash"
+        ]
+    },
+    {
+        "q": "Which method is used to value options with American-style exercise?",
+        "type": "mcq",
+        "o": [
+            "Binomial model",
+            "Black-Scholes model",
+            "Monte Carlo only",
+            "Historical simulation"
+        ]
+    },
+    {
+        "q": "A pac-man defense involves the target making a ______ bid for the acquirer.",
+        "type": "fill_blank",
+        "answers": [
+            "counter"
+        ],
+        "other_options": [
+            "joint",
+            "friendly",
+            "subsidiary"
+        ]
+    },
+    {
+        "q": "Interest rate futures can be used to hedge against rising rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the bankruptcy chapter with its purpose:",
+        "type": "match",
+        "left": [
+            "Chapter 7",
+            "Chapter 11",
+            "Administration UK",
+            "Pre-pack"
+        ],
+        "right": [
+            "Liquidation",
+            "Reorganization",
+            "Rescue process",
+            "Quick asset sale"
+        ]
+    },
+    {
+        "q": "What is the purpose of stress testing in risk management?",
+        "type": "mcq",
+        "o": [
+            "Evaluate impact of extreme scenarios",
+            "Calculate normal day-to-day losses",
+            "Predict exact future losses",
+            "Eliminate all risks"
+        ]
+    },
+    {
+        "q": "The ______ yield curve indicates expected interest rate decreases.",
+        "type": "fill_blank",
+        "answers": [
+            "inverted"
+        ],
+        "other_options": [
+            "normal",
+            "flat",
+            "steep"
+        ]
+    },
+    {
+        "q": "Rearrange the private equity investment stages:",
+        "type": "rearrange",
+        "words": [
+            "Sourcing",
+            "Due diligence",
+            "Investment",
+            "Value creation",
+            "Exit"
+        ]
+    },
+    {
+        "q": "Which approach considers multiple scenarios with assigned probabilities?",
+        "type": "mcq",
+        "o": [
+            "Expected NPV approach",
+            "Single point estimate",
+            "Payback method",
+            "ARR method"
+        ]
+    },
+    {
+        "q": "Economic Value Added equals NOPAT minus capital charge where capital charge is WACC times ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capital employed"
+        ],
+        "other_options": [
+            "revenue",
+            "profit",
+            "assets"
+        ]
+    },
+    {
+        "q": "A floor agreement sets a minimum interest rate for floating rate investments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the investment criterion with its decision rule:",
+        "type": "match",
+        "left": [
+            "NPV",
+            "IRR",
+            "Payback",
+            "PI"
+        ],
+        "right": [
+            "Accept if positive",
+            "Accept if exceeds hurdle",
+            "Accept if within target",
+            "Accept if greater than 1"
+        ]
+    },
+    {
+        "q": "What is the effect of call protection on bond value?",
+        "type": "mcq",
+        "o": [
+            "Increases value by reducing call risk",
+            "Decreases value",
+            "No effect on value",
+            "Makes bond worthless"
+        ]
+    },
+    {
+        "q": "A stapled financing package is provided by the ______ banks to M&A buyers.",
+        "type": "fill_blank",
+        "answers": [
+            "sellers"
+        ],
+        "other_options": [
+            "buyers",
+            "regulators",
+            "auditors"
+        ]
+    },
+    {
+        "q": "Rearrange the debt collection process:",
+        "type": "rearrange",
+        "words": [
+            "Invoice issue",
+            "Payment reminder",
+            "Collection call",
+            "Legal action",
+            "Write-off"
+        ]
+    },
+    {
+        "q": "Which factor reduces the value of a put option?",
+        "type": "mcq",
+        "o": [
+            "Higher underlying asset price",
+            "Higher volatility",
+            "Longer time to expiry",
+            "Higher strike price"
+        ]
+    },
+    {
+        "q": "An ethics committee provides oversight of business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "conduct"
+        ],
+        "other_options": [
+            "profits",
+            "growth",
+            "competition"
+        ]
+    },
+    {
+        "q": "The net stable funding ratio is a Basel III liquidity requirement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the financial distress signal with its indicator:",
+        "type": "match",
+        "left": [
+            "Z-score",
+            "Altman model",
+            "Cash flow",
+            "Working capital"
+        ],
+        "right": [
+            "Bankruptcy prediction",
+            "Distress probability",
+            "Operating capability",
+            "Short-term solvency"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of a lock-up agreement?",
+        "type": "mcq",
+        "o": [
+            "Prevent insiders from selling shares immediately after IPO",
+            "Lock in acquisition price",
+            "Secure debt covenants",
+            "Freeze asset sales"
+        ]
+    },
+    {
+        "q": "The ______ premium compensates investors for lack of marketability.",
+        "type": "fill_blank",
+        "answers": [
+            "illiquidity"
+        ],
+        "other_options": [
+            "risk",
+            "growth",
+            "size"
+        ]
+    },
+    {
+        "q": "Rearrange the corporate governance hierarchy:",
+        "type": "rearrange",
+        "words": [
+            "Shareholders",
+            "Board of directors",
+            "Audit committee",
+            "CEO",
+            "Management"
+        ]
+    },
+    {
+        "q": "Which method adjusts the discount rate for project-specific risk?",
+        "type": "mcq",
+        "o": [
+            "Risk-adjusted discount rate method",
+            "Certainty equivalent method",
+            "Simple payback method",
+            "Accounting rate method"
+        ]
+    },
+    {
+        "q": "A butterfly spread involves buying and selling options at ______ different strike prices.",
+        "type": "fill_blank",
+        "answers": [
+            "three"
+        ],
+        "other_options": [
+            "two",
+            "four",
+            "five"
+        ]
+    },
+    {
+        "q": "Credit Default Swaps transfer default risk to a third party.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the M&A advisor role with their function:",
+        "type": "match",
+        "left": [
+            "Investment bank",
+            "Legal counsel",
+            "Accounting firm",
+            "Strategy consultant"
+        ],
+        "right": [
+            "Deal structuring",
+            "Contract drafting",
+            "Due diligence",
+            "Synergy analysis"
+        ]
+    },
+    {
+        "q": "What is the purpose of asset stripping?",
+        "type": "mcq",
+        "o": [
+            "Sell undervalued assets to realize value",
+            "Acquire more companies",
+            "Increase operational efficiency",
+            "Improve customer relations"
+        ]
+    },
+    {
+        "q": "The money market hedge uses ______ currency borrowing and lending.",
+        "type": "fill_blank",
+        "answers": [
+            "foreign"
+        ],
+        "other_options": [
+            "domestic",
+            "synthetic",
+            "virtual"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of hostile takeover defense:",
+        "type": "rearrange",
+        "words": [
+            "Shark repellent",
+            "Poison pill",
+            "White knight",
+            "Pac-man",
+            "Litigation"
+        ]
+    },
+    {
+        "q": "Which valuation adjustment reduces value for minority shareholdings?",
+        "type": "mcq",
+        "o": [
+            "Minority discount",
+            "Control premium",
+            "Liquidity premium",
+            "Size premium"
+        ]
+    },
+    {
+        "q": "Regulatory arbitrage exploits differences in rules across ______.",
+        "type": "fill_blank",
+        "answers": [
+            "jurisdictions"
+        ],
+        "other_options": [
+            "products",
+            "customers",
+            "suppliers"
+        ]
+    },
+    {
+        "q": "The expectations theory suggests forward rates predict future spot rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the cash management technique with its benefit:",
+        "type": "match",
+        "left": [
+            "Cash pooling",
+            "Notional pooling",
+            "Zero balancing",
+            "In-house banking"
+        ],
+        "right": [
+            "Physical concentration",
+            "Interest optimization",
+            "Automatic transfers",
+            "Internal treasury"
+        ]
+    },
+    {
+        "q": "What is the main advantage of project finance?",
+        "type": "mcq",
+        "o": [
+            "Ring-fences project risk from sponsor",
+            "Reduces total project cost",
+            "Eliminates all project risks",
+            "Speeds up project completion"
+        ]
+    },
+    {
+        "q": "The ______ rate swap exchanges floating rate payments in different currencies.",
+        "type": "fill_blank",
+        "answers": [
+            "cross-currency"
+        ],
+        "other_options": [
+            "interest",
+            "basis",
+            "total return"
+        ]
+    },
+    {
+        "q": "Rearrange the order of creditor priority in liquidation:",
+        "type": "rearrange",
+        "words": [
+            "Secured creditors",
+            "Employee claims",
+            "Unsecured creditors",
+            "Subordinated debt",
+            "Equity holders"
+        ]
+    },
+    {
+        "q": "Which factor increases effective annual rate compared to stated rate?",
+        "type": "mcq",
+        "o": [
+            "More frequent compounding",
+            "Less frequent compounding",
+            "Lower nominal rate",
+            "Longer maturity"
+        ]
+    },
+    {
+        "q": "A ______ clause allows early repayment under certain conditions.",
+        "type": "fill_blank",
+        "answers": [
+            "make-whole"
+        ],
+        "other_options": [
+            "break",
+            "exit",
+            "force"
+        ]
+    },
+    {
+        "q": "The tax shield from debt reduces the overall cost of capital.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the financing structure with its characteristic:",
+        "type": "match",
+        "left": [
+            "Senior debt",
+            "Mezzanine",
+            "PIK notes",
+            "Equity kicker"
+        ],
+        "right": [
+            "First claim",
+            "Subordinated",
+            "Interest capitalized",
+            "Upside participation"
+        ]
+    },
+    {
+        "q": "What is the purpose of covenant-lite loans?",
+        "type": "mcq",
+        "o": [
+            "Provide borrowers with more flexibility",
+            "Protect lenders better",
+            "Increase interest rates",
+            "Shorten loan terms"
+        ]
+    },
+    {
+        "q": "Monte Carlo simulation uses ______ sampling to model uncertainty.",
+        "type": "fill_blank",
+        "answers": [
+            "random"
+        ],
+        "other_options": [
+            "systematic",
+            "stratified",
+            "regular"
+        ]
+    },
+    {
+        "q": "Rearrange the discounted cash flow valuation steps:",
+        "type": "rearrange",
+        "words": [
+            "Project free cash flows",
+            "Estimate WACC",
+            "Discount cash flows",
+            "Add terminal value",
+            "Subtract net debt"
+        ]
+    },
+    {
+        "q": "Which risk measure captures tail risk better than VaR?",
+        "type": "mcq",
+        "o": [
+            "Expected Shortfall",
+            "Standard deviation",
+            "Variance",
+            "Beta"
+        ]
+    },
+    {
+        "q": "A ______ corporate structure creates a new holding company above existing company.",
+        "type": "fill_blank",
+        "answers": [
+            "top-hat"
+        ],
+        "other_options": [
+            "bottom-up",
+            "side-car",
+            "parallel"
+        ]
+    },
+    {
+        "q": "Capital rationing restricts the total investment budget available.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the ethical principle with the finance application:",
+        "type": "match",
+        "left": [
+            "Transparency",
+            "Accountability",
+            "Fairness",
+            "Independence"
+        ],
+        "right": [
+            "Full disclosure",
+            "Responsible decisions",
+            "Equal treatment",
+            "Objective advice"
+        ]
+    },
+    {
+        "q": "What is the purpose of triangular arbitrage?",
+        "type": "mcq",
+        "o": [
+            "Exploit mispricing between three currencies",
+            "Hedge against three risks",
+            "Invest in three assets",
+            "Borrow from three sources"
+        ]
+    },
+    {
+        "q": "The ______ model extends CAPM by adding size and value factors.",
+        "type": "fill_blank",
+        "answers": [
+            "Fama-French"
+        ],
+        "other_options": [
+            "Black-Scholes",
+            "Binomial",
+            "Markowitz"
+        ]
+    },
+    {
+        "q": "Rearrange the factors in the Fama-French three-factor model by discovery order:",
+        "type": "rearrange",
+        "words": [
+            "Market risk",
+            "Size effect",
+            "Value effect"
+        ]
+    },
+    {
+        "q": "Which type of real option allows abandonment of a failing project?",
+        "type": "mcq",
+        "o": [
+            "Option to abandon",
+            "Option to expand",
+            "Option to defer",
+            "Option to switch"
+        ]
+    },
+    {
+        "q": "Diluted EPS adjusts for ______ securities.",
+        "type": "fill_blank",
+        "answers": [
+            "convertible"
+        ],
+        "other_options": [
+            "senior",
+            "secured",
+            "floating"
+        ]
+    },
+    {
+        "q": "A tracking stock separates the economic performance of a division.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the financial engineering technique with its application:",
+        "type": "match",
+        "left": [
+            "Securitization",
+            "Synthetic CDO",
+            "Asset swap",
+            "Total return swap"
+        ],
+        "right": [
+            "Pool assets into securities",
+            "Transfer credit risk",
+            "Convert bond cash flows",
+            "Transfer total return"
+        ]
+    },
+    {
+        "q": "What is the main characteristic of distressed debt investing?",
+        "type": "mcq",
+        "o": [
+            "Buying debt of troubled companies at a discount",
+            "Investing only in AAA-rated bonds",
+            "Lending to startup companies",
+            "Short-term government securities"
+        ]
+    },
+    {
+        "q": "The ______ hypothesis suggests markets quickly incorporate new information.",
+        "type": "fill_blank",
+        "answers": [
+            "efficient market"
+        ],
+        "other_options": [
+            "random walk",
+            "mean reversion",
+            "momentum"
+        ]
+    },
+    {
+        "q": "Rearrange the valuation multiples from equity to enterprise basis:",
+        "type": "rearrange",
+        "words": [
+            "P/E ratio",
+            "P/B ratio",
+            "EV/Revenue",
+            "EV/EBITDA",
+            "EV/EBIT"
+        ]
+    },
+    {
+        "q": "Which strategy involves betting on merger deal completion?",
+        "type": "mcq",
+        "o": [
+            "Merger arbitrage",
+            "Convertible arbitrage",
+            "Statistical arbitrage",
+            "Index arbitrage"
+        ]
+    },
+    {
+        "q": "A dead hand poison pill can only be removed by ______ directors.",
+        "type": "fill_blank",
+        "answers": [
+            "continuing"
+        ],
+        "other_options": [
+            "new",
+            "independent",
+            "outside"
+        ]
+    },
+    {
+        "q": "Basel III requires higher quality capital than Basel II.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the derivative pricing model with its underlying assumption:",
+        "type": "match",
+        "left": [
+            "Black-Scholes",
+            "Binomial",
+            "Monte Carlo",
+            "GARCH"
+        ],
+        "right": [
+            "Continuous price movement",
+            "Discrete price steps",
+            "Multiple random paths",
+            "Time-varying volatility"
+        ]
+    },
+    {
+        "q": "What is the purpose of a fairness opinion in M&A?",
+        "type": "mcq",
+        "o": [
+            "Provide board with independent valuation view",
+            "Guarantee transaction completion",
+            "Set the exact transaction price",
+            "Replace due diligence"
+        ]
+    },
+    {
+        "q": "Exchange rate pass-through measures how import prices change with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "currency movements"
+        ],
+        "other_options": [
+            "inflation",
+            "interest rates",
+            "GDP growth"
+        ]
+    },
+    {
+        "q": "Rearrange the cash conversion cycle components:",
+        "type": "rearrange",
+        "words": [
+            "Inventory period",
+            "Plus receivables period",
+            "Minus payables period",
+            "Equals CCC"
+        ]
+    },
+    {
+        "q": "Which technique values managerial flexibility in investment decisions?",
+        "type": "mcq",
+        "o": [
+            "Real options analysis",
+            "Traditional NPV",
+            "Payback period analysis",
+            "Simple IRR"
+        ]
+    },
+    {
+        "q": "Credit enhancement improves the ______ of securitized assets.",
+        "type": "fill_blank",
+        "answers": [
+            "rating"
+        ],
+        "other_options": [
+            "return",
+            "volume",
+            "duration"
+        ]
+    },
+    {
+        "q": "The Gordon growth model requires growth to be less than the cost of equity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the corporate action with its shareholder impact:",
+        "type": "match",
+        "left": [
+            "Rights issue",
+            "Stock split",
+            "Buyback",
+            "Special dividend"
+        ],
+        "right": [
+            "Dilution risk",
+            "No value change",
+            "Value transfer",
+            "Cash distribution"
+        ]
+    },
+    {
+        "q": "What is the primary concern with related party transactions?",
+        "type": "mcq",
+        "o": [
+            "Potential conflicts of interest",
+            "Increased transaction costs",
+            "Slower execution",
+            "Higher taxes"
+        ]
+    },
+    {
+        "q": "Capital structure irrelevance holds in ______ capital markets.",
+        "type": "fill_blank",
+        "answers": [
+            "perfect"
+        ],
+        "other_options": [
+            "efficient",
+            "complete",
+            "liquid"
+        ]
+    },
+    {
+        "q": "Rearrange the sources of value in M&A:",
+        "type": "rearrange",
+        "words": [
+            "Revenue synergies",
+            "Cost synergies",
+            "Financial synergies",
+            "Tax benefits"
+        ]
+    },
+    {
+        "q": "Which approach to treasury management centralizes all financial functions?",
+        "type": "mcq",
+        "o": [
+            "In-house bank",
+            "Decentralized treasury",
+            "Regional treasury centers",
+            "Outsourced treasury"
+        ]
+    },
+    {
+        "q": "The term structure of interest rates shows yields against ______.",
+        "type": "fill_blank",
+        "answers": [
+            "maturity"
+        ],
+        "other_options": [
+            "credit quality",
+            "coupon rate",
+            "issuer type"
+        ]
+    },
+    {
+        "q": "Convertible bonds have lower yields than straight bonds due to conversion option.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the ratio analysis category with its focus:",
+        "type": "match",
+        "left": [
+            "DuPont analysis",
+            "Altman Z",
+            "Springate",
+            "Ohlson"
+        ],
+        "right": [
+            "ROE decomposition",
+            "Bankruptcy prediction",
+            "Failure prediction",
+            "Probability model"
+        ]
+    },
+    {
+        "q": "What is the effect of operating leverage on profit sensitivity?",
+        "type": "mcq",
+        "o": [
+            "Higher fixed costs increase profit sensitivity to sales",
+            "Lower fixed costs increase sensitivity",
+            "No relationship exists",
+            "Only variable costs matter"
+        ]
+    },
+    {
+        "q": "A ______ currency invoice eliminates exchange rate risk for the invoicing party.",
+        "type": "fill_blank",
+        "answers": [
+            "domestic"
+        ],
+        "other_options": [
+            "foreign",
+            "third",
+            "basket"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of receivables factoring:",
+        "type": "rearrange",
+        "words": [
+            "Invoice issued",
+            "Factor advance",
+            "Customer pays factor",
+            "Balance remitted"
+        ]
+    },
+    {
+        "q": "Which valuation approach is most appropriate for loss-making companies?",
+        "type": "mcq",
+        "o": [
+            "Asset-based or revenue multiples",
+            "P/E ratio",
+            "Dividend discount model",
+            "Residual income model"
+        ]
+    },
+    {
+        "q": "Political risk insurance protects against ______ actions affecting investments.",
+        "type": "fill_blank",
+        "answers": [
+            "government"
+        ],
+        "other_options": [
+            "competitor",
+            "customer",
+            "supplier"
+        ]
+    },
+    {
+        "q": "The weighted average life of debt is affected by amortization schedule.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the swap type with its exchange:",
+        "type": "match",
+        "left": [
+            "Interest rate swap",
+            "Currency swap",
+            "Equity swap",
+            "Commodity swap"
+        ],
+        "right": [
+            "Fixed for floating",
+            "Principal and interest",
+            "Returns for fixed payments",
+            "Commodity for cash"
+        ]
+    },
+    {
+        "q": "What factor primarily drives synergy value realization timing?",
+        "type": "mcq",
+        "o": [
+            "Integration speed and execution",
+            "Deal announcement date",
+            "Financing structure",
+            "Regulatory approval"
+        ]
+    },
+    {
+        "q": "Agency costs include monitoring costs and ______ loss.",
+        "type": "fill_blank",
+        "answers": [
+            "residual"
+        ],
+        "other_options": [
+            "capital",
+            "revenue",
+            "operating"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of hostile takeover bid:",
+        "type": "rearrange",
+        "words": [
+            "Bear hug letter",
+            "Public announcement",
+            "Tender offer",
+            "Proxy fight",
+            "Completion"
+        ]
+    },
+    {
+        "q": "Which metric measures value creation above cost of capital?",
+        "type": "mcq",
+        "o": [
+            "Economic Value Added",
+            "Return on Assets",
+            "Gross Margin",
+            "Operating Margin"
+        ]
+    },
+    {
+        "q": "A MAC clause allows termination for ______ adverse change.",
+        "type": "fill_blank",
+        "answers": [
+            "material"
+        ],
+        "other_options": [
+            "minor",
+            "temporary",
+            "expected"
+        ]
+    },
+    {
+        "q": "Implied volatility is derived from market option prices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the corporate restructuring type with its method:",
+        "type": "match",
+        "left": [
+            "Spin-off",
+            "Carve-out",
+            "Split-up",
+            "Equity carve-out"
+        ],
+        "right": [
+            "Distribute subsidiary shares",
+            "Sell minority stake",
+            "Divide into multiple entities",
+            "Partial IPO"
+        ]
+    },
+    {
+        "q": "Which hedge ratio indicates perfect correlation between hedge and exposure?",
+        "type": "mcq",
+        "o": [
+            "One-to-one ratio",
+            "Two-to-one ratio",
+            "Zero ratio",
+            "Negative ratio"
+        ]
+    },
+    {
+        "q": "Mean reversion in volatility assumes volatility returns to ______ over time.",
+        "type": "fill_blank",
+        "answers": [
+            "long-term average"
+        ],
+        "other_options": [
+            "zero",
+            "maximum",
+            "minimum"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in option replication:",
+        "type": "rearrange",
+        "words": [
+            "Calculate delta",
+            "Buy underlying",
+            "Borrow at risk-free",
+            "Adjust dynamically"
+        ]
+    },
+    {
+        "q": "Which form of market efficiency is easiest to violate?",
+        "type": "mcq",
+        "o": [
+            "Weak form",
+            "Semi-strong form",
+            "Strong form",
+            "All forms equally"
+        ]
+    },
+    {
+        "q": "The volatility smile shows that implied volatility varies with ______ price.",
+        "type": "fill_blank",
+        "answers": [
+            "strike"
+        ],
+        "other_options": [
+            "spot",
+            "forward",
+            "futures"
+        ]
+    },
+    {
+        "q": "Negative covenants restrict what borrowers can do.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the acquisition premium with its driver:",
+        "type": "match",
+        "left": [
+            "Control premium",
+            "Synergy premium",
+            "Strategic premium",
+            "Scarcity premium"
+        ],
+        "right": [
+            "Takeover control rights",
+            "Cost savings expected",
+            "Competitive advantage",
+            "Limited target availability"
+        ]
+    },
+    {
+        "q": "What is the main purpose of debt capacity analysis?",
+        "type": "mcq",
+        "o": [
+            "Determine maximum sustainable debt levels",
+            "Calculate exact debt amounts",
+            "Eliminate all debt",
+            "Increase equity financing"
+        ]
+    },
+    {
+        "q": "An inverse floater pays ______ when reference rates rise.",
+        "type": "fill_blank",
+        "answers": [
+            "less"
+        ],
+        "other_options": [
+            "more",
+            "nothing",
+            "fixed"
+        ]
+    },
+    {
+        "q": "Rearrange the components of free cash flow to firm:",
+        "type": "rearrange",
+        "words": [
+            "EBIT",
+            "Less taxes",
+            "Plus depreciation",
+            "Less CapEx",
+            "Less working capital change"
+        ]
+    },
+    {
+        "q": "Which approach adjusts cash flows directly for risk?",
+        "type": "mcq",
+        "o": [
+            "Certainty equivalent",
+            "Risk-adjusted discount rate",
+            "Monte Carlo",
+            "Sensitivity analysis"
+        ]
+    },
+    {
+        "q": "Cross-default provisions link defaults across different ______ agreements.",
+        "type": "fill_blank",
+        "answers": [
+            "loan"
+        ],
+        "other_options": [
+            "equity",
+            "lease",
+            "supply"
+        ]
+    },
+    {
+        "q": "The no-arbitrage principle underlies derivative pricing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the VaR calculation method with its approach:",
+        "type": "match",
+        "left": [
+            "Historical simulation",
+            "Variance-covariance",
+            "Monte Carlo VaR",
+            "Parametric"
+        ],
+        "right": [
+            "Past data",
+            "Normal distribution",
+            "Random simulation",
+            "Assume distribution"
+        ]
+    },
+    {
+        "q": "What is the purpose of an interest rate collar?",
+        "type": "mcq",
+        "o": [
+            "Limit both upside and downside rate movements",
+            "Eliminate all interest rate risk",
+            "Maximize rate exposure",
+            "Convert fixed to floating only"
+        ]
+    },
+    {
+        "q": "Debt overhang prevents companies from taking ______ NPV projects.",
+        "type": "fill_blank",
+        "answers": [
+            "positive"
+        ],
+        "other_options": [
+            "negative",
+            "zero",
+            "risky"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of financial crisis:",
+        "type": "rearrange",
+        "words": [
+            "Credit expansion",
+            "Asset bubble",
+            "Market crash",
+            "Deleveraging",
+            "Recovery"
+        ]
+    },
+    {
+        "q": "Which beta adjustment method accounts for mean reversion?",
+        "type": "mcq",
+        "o": [
+            "Bloomberg or Blume adjustment",
+            "Hamada equation",
+            "Ungearing formula",
+            "CAPM calculation"
+        ]
+    },
+    {
+        "q": "A ______ warrant gives the holder right to sell shares to the issuer.",
+        "type": "fill_blank",
+        "answers": [
+            "put"
+        ],
+        "other_options": [
+            "call",
+            "covered",
+            "naked"
+        ]
+    },
+    {
+        "q": "Information ratio measures excess return per unit of tracking error.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the hedge accounting term with its purpose:",
+        "type": "match",
+        "left": [
+            "Fair value hedge",
+            "Cash flow hedge",
+            "Net investment hedge",
+            "Cross hedge"
+        ],
+        "right": [
+            "Offset asset value changes",
+            "Offset variable cash flows",
+            "Protect foreign subsidiary",
+            "Imperfect hedge instrument"
+        ]
+    },
+    {
+        "q": "What does the asset turnover ratio measure?",
+        "type": "mcq",
+        "o": [
+            "Efficiency of asset utilization",
+            "Asset profitability",
+            "Asset liquidity",
+            "Asset age"
+        ]
+    },
+    {
+        "q": "A dragalong right forces minority shareholders to sell in an ______.",
+        "type": "fill_blank",
+        "answers": [
+            "acquisition"
+        ],
+        "other_options": [
+            "IPO",
+            "dividend",
+            "split"
+        ]
+    },
+    {
+        "q": "Rearrange the M&A synergy recognition timeline:",
+        "type": "rearrange",
+        "words": [
+            "Quick wins",
+            "Medium-term gains",
+            "Revenue synergies",
+            "Full integration benefits"
+        ]
+    },
+    {
+        "q": "Which technique is used to determine the optimal hedge ratio?",
+        "type": "mcq",
+        "o": [
+            "Regression analysis",
+            "Break-even analysis",
+            "Payback calculation",
+            "NPV ranking"
+        ]
+    },
+    {
+        "q": "Window dressing improves financial statements at ______ end.",
+        "type": "fill_blank",
+        "answers": [
+            "period"
+        ],
+        "other_options": [
+            "year",
+            "quarter",
+            "month"
+        ]
+    },
+    {
+        "q": "Leveraged recapitalization replaces equity with debt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the restructuring motive with its objective:",
+        "type": "match",
+        "left": [
+            "Financial restructuring",
+            "Operational restructuring",
+            "Portfolio restructuring",
+            "Management restructuring"
+        ],
+        "right": [
+            "Fix capital structure",
+            "Improve efficiency",
+            "Refocus business",
+            "Change leadership"
+        ]
+    },
+    {
+        "q": "What is the key assumption of risk-neutral valuation?",
+        "type": "mcq",
+        "o": [
+            "Investors are indifferent to risk for pricing purposes",
+            "All investors hate risk",
+            "Risk does not exist",
+            "Returns are certain"
+        ]
+    },
+    {
+        "q": "The ______ ratio compares quick assets to current liabilities.",
+        "type": "fill_blank",
+        "answers": [
+            "acid test"
+        ],
+        "other_options": [
+            "current",
+            "cash",
+            "working capital"
+        ]
+    },
+    {
+        "q": "Rearrange the bond credit analysis factors:",
+        "type": "rearrange",
+        "words": [
+            "Industry outlook",
+            "Company position",
+            "Financial strength",
+            "Management quality",
+            "Covenant protection"
+        ]
+    },
+    {
+        "q": "Which factor is NOT considered in traditional NPV?",
+        "type": "mcq",
+        "o": [
+            "Managerial flexibility",
+            "Time value of money",
+            "Risk-adjusted discount rate",
+            "Expected cash flows"
+        ]
+    },
+    {
+        "q": "A performance pricing clause adjusts interest rates based on financial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ratios"
+        ],
+        "other_options": [
+            "statements",
+            "reports",
+            "audits"
+        ]
+    },
+    {
+        "q": "Solvency II is the insurance regulatory framework in Europe.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the derivative use with its purpose:",
+        "type": "match",
+        "left": [
+            "Hedging",
+            "Speculation",
+            "Arbitrage",
+            "Market making"
+        ],
+        "right": [
+            "Risk reduction",
+            "Profit from view",
+            "Exploit mispricing",
+            "Provide liquidity"
+        ]
+    },
+    {
+        "q": "What is the purpose of clawback provisions in private equity?",
+        "type": "mcq",
+        "o": [
+            "Return excess carry to limited partners",
+            "Increase management fees",
+            "Reduce investor returns",
+            "Accelerate distributions"
+        ]
+    },
+    {
+        "q": "Duration matching immunizes a portfolio against small ______ rate changes.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "exchange",
+            "growth",
+            "inflation"
+        ]
+    },
+    {
+        "q": "Rearrange the typical acquisition financing sources:",
+        "type": "rearrange",
+        "words": [
+            "Revolving credit",
+            "Term loan A",
+            "Term loan B",
+            "High yield bonds",
+            "Mezzanine"
+        ]
+    },
+    {
+        "q": "Which type of option can only be exercised at expiry?",
+        "type": "mcq",
+        "o": [
+            "European option",
+            "American option",
+            "Bermudan option",
+            "Asian option"
+        ]
+    },
+    {
+        "q": "Pro forma financial statements project ______ performance.",
+        "type": "fill_blank",
+        "answers": [
+            "future"
+        ],
+        "other_options": [
+            "past",
+            "current",
+            "audited"
+        ]
+    },
+    {
+        "q": "Rolling hedge strategies involve regularly replacing expiring hedge positions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the risk type with its measurement:",
+        "type": "match",
+        "left": [
+            "Market risk",
+            "Credit risk",
+            "Operational risk",
+            "Liquidity risk"
+        ],
+        "right": [
+            "VaR",
+            "PD and LGD",
+            "Loss events",
+            "Bid-ask spread"
+        ]
+    },
+    {
+        "q": "What is the purpose of a contingent value right in M&A?",
+        "type": "mcq",
+        "o": [
+            "Provide additional payment if targets are met",
+            "Reduce purchase price",
+            "Guarantee deal completion",
+            "Avoid regulatory approval"
+        ]
+    },
+    {
+        "q": "Replicating portfolio recreates payoff of derivative using ______ assets.",
+        "type": "fill_blank",
+        "answers": [
+            "underlying"
+        ],
+        "other_options": [
+            "synthetic",
+            "virtual",
+            "abstract"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of management buyout:",
+        "type": "rearrange",
+        "words": [
+            "Management proposal",
+            "PE backing",
+            "Bank financing",
+            "Deal execution",
+            "Value creation"
+        ]
+    },
+    {
+        "q": "Which measure of central tendency is most affected by outliers?",
+        "type": "mcq",
+        "o": [
+            "Arithmetic mean",
+            "Median",
+            "Mode",
+            "Geometric mean"
+        ]
+    },
+    {
+        "q": "Break funding costs compensate lenders for lost ______ when loans are repaid early.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "principal",
+            "fees",
+            "costs"
+        ]
+    },
+    {
+        "q": "The market risk premium is the expected return above the risk-free rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the option strategy with its expected market view:",
+        "type": "match",
+        "left": [
+            "Long straddle",
+            "Bull spread",
+            "Bear spread",
+            "Protective put"
+        ],
+        "right": [
+            "High volatility",
+            "Moderately bullish",
+            "Moderately bearish",
+            "Downside protection"
+        ]
+    },
+    {
+        "q": "What is the primary benefit of asset securitization for the originator?",
+        "type": "mcq",
+        "o": [
+            "Transfer assets off balance sheet",
+            "Increase asset risk",
+            "Reduce liquidity",
+            "Increase regulatory capital"
+        ]
+    },
+    {
+        "q": "Toehold acquisition involves buying a ______ stake before announcing bid.",
+        "type": "fill_blank",
+        "answers": [
+            "small"
+        ],
+        "other_options": [
+            "large",
+            "controlling",
+            "majority"
+        ]
+    },
+    {
+        "q": "Rearrange the components of weighted average cost of capital:",
+        "type": "rearrange",
+        "words": [
+            "Cost of equity weight",
+            "Cost of debt weight",
+            "Tax adjustment",
+            "Equals WACC"
+        ]
+    },
+    {
+        "q": "Which approach values flexibility to wait before investing?",
+        "type": "mcq",
+        "o": [
+            "Option to defer",
+            "Option to expand",
+            "Option to abandon",
+            "Option to switch"
+        ]
+    },
+    {
+        "q": "Credit spreads widen during periods of economic ______.",
+        "type": "fill_blank",
+        "answers": [
+            "uncertainty"
+        ],
+        "other_options": [
+            "growth",
+            "stability",
+            "prosperity"
+        ]
+    },
+    {
+        "q": "The Sharpe ratio measures risk-adjusted return using total risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the credit derivative with its function:",
+        "type": "match",
+        "left": [
+            "CDS",
+            "CDO",
+            "CLO",
+            "Total return swap"
+        ],
+        "right": [
+            "Default protection",
+            "Pool and tranche",
+            "Loan pool security",
+            "Economic exposure transfer"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of a waterfall structure in securitization?",
+        "type": "mcq",
+        "o": [
+            "Prioritize cash flow distribution",
+            "Increase total returns",
+            "Eliminate all risk",
+            "Simplify structure"
+        ]
+    },
+    {
+        "q": "Internal capital markets allocate resources within a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "conglomerate"
+        ],
+        "other_options": [
+            "industry",
+            "market",
+            "economy"
+        ]
+    },
+    {
+        "q": "Rearrange the capital allocation decision process:",
+        "type": "rearrange",
+        "words": [
+            "Set strategy",
+            "Identify projects",
+            "Evaluate returns",
+            "Allocate capital",
+            "Monitor performance"
+        ]
+    },
+    {
+        "q": "Which method handles multiple IRR problem?",
+        "type": "mcq",
+        "o": [
+            "Modified Internal Rate of Return",
+            "Simple IRR",
+            "Payback period",
+            "Accounting rate of return"
+        ]
+    },
+    {
+        "q": "Bid premium in hostile takeovers typically ______ over time.",
+        "type": "fill_blank",
+        "answers": [
+            "increases"
+        ],
+        "other_options": [
+            "decreases",
+            "remains constant",
+            "disappears"
+        ]
+    },
+    {
+        "q": "Kurtosis measures the fatness of distribution tails.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the benchmark rate with its market:",
+        "type": "match",
+        "left": [
+            "SOFR",
+            "SONIA",
+            "EURIBOR",
+            "TIBOR"
+        ],
+        "right": [
+            "US",
+            "UK",
+            "Eurozone",
+            "Japan"
+        ]
+    },
+    {
+        "q": "What is the effect of negative gearing on beta?",
+        "type": "mcq",
+        "o": [
+            "Not possible - gearing cannot be negative",
+            "Reduces beta",
+            "Increases beta",
+            "No effect on beta"
+        ]
+    },
+    {
+        "q": "Subordination in securitization protects ______ tranches from losses.",
+        "type": "fill_blank",
+        "answers": [
+            "senior"
+        ],
+        "other_options": [
+            "junior",
+            "equity",
+            "mezzanine"
+        ]
+    },
+    {
+        "q": "Rearrange the international investment decision factors:",
+        "type": "rearrange",
+        "words": [
+            "Market opportunity",
+            "Political risk",
+            "Currency risk",
+            "Tax considerations",
+            "Entry mode"
+        ]
+    },
+    {
+        "q": "Which real option values the ability to change production inputs?",
+        "type": "mcq",
+        "o": [
+            "Option to switch",
+            "Option to expand",
+            "Option to abandon",
+            "Option to defer"
+        ]
+    },
+    {
+        "q": "Overconfidence bias leads managers to ______ project success.",
+        "type": "fill_blank",
+        "answers": [
+            "overestimate"
+        ],
+        "other_options": [
+            "underestimate",
+            "correctly estimate",
+            "ignore"
+        ]
+    },
+    {
+        "q": "Counterparty risk is highest for OTC derivatives.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the merger type with regulatory concern:",
+        "type": "match",
+        "left": [
+            "Horizontal",
+            "Vertical",
+            "Conglomerate",
+            "Concentric"
+        ],
+        "right": [
+            "Market concentration",
+            "Foreclosure",
+            "Portfolio power",
+            "Market extension"
+        ]
+    },
+    {
+        "q": "What does the enterprise multiple EV/EBITDA indicate?",
+        "type": "mcq",
+        "o": [
+            "Business value relative to operating cash earnings",
+            "Share price relative to earnings",
+            "Asset value relative to liabilities",
+            "Dividend yield"
+        ]
+    },
+    {
+        "q": "The term loan amortization schedule affects loan ______.",
+        "type": "fill_blank",
+        "answers": [
+            "duration"
+        ],
+        "other_options": [
+            "rate",
+            "covenants",
+            "security"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of corporate turnaround:",
+        "type": "rearrange",
+        "words": [
+            "Management change",
+            "Stabilization",
+            "Strategic focus",
+            "Return to growth"
+        ]
+    },
+    {
+        "q": "Which valuation approach is most appropriate for real estate?",
+        "type": "mcq",
+        "o": [
+            "Income capitalization approach",
+            "P/E multiple",
+            "Dividend discount model",
+            "Intangible asset valuation"
+        ]
+    },
+    {
+        "q": "Early termination provisions allow swap cancellation before ______.",
+        "type": "fill_blank",
+        "answers": [
+            "maturity"
+        ],
+        "other_options": [
+            "start",
+            "reset",
+            "payment"
+        ]
+    },
+    {
+        "q": "Basis swaps exchange two floating rate payments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the financial statement with its key analysis:",
+        "type": "match",
+        "left": [
+            "Income statement",
+            "Balance sheet",
+            "Cash flow statement",
+            "Notes"
+        ],
+        "right": [
+            "Profitability trends",
+            "Financial position",
+            "Cash generation",
+            "Accounting policies"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of covenant compliance testing?",
+        "type": "mcq",
+        "o": [
+            "Monitor borrower adherence to loan terms",
+            "Calculate interest payments",
+            "Determine repayment schedule",
+            "Set credit rating"
+        ]
+    },
+    {
+        "q": "The bootstrap method creates ______ rate curves from bond prices.",
+        "type": "fill_blank",
+        "answers": [
+            "zero-coupon"
+        ],
+        "other_options": [
+            "coupon",
+            "forward",
+            "yield"
+        ]
+    },
+    {
+        "q": "Rearrange the components of Altman Z-score:",
+        "type": "rearrange",
+        "words": [
+            "Working capital ratio",
+            "Retained earnings ratio",
+            "EBIT ratio",
+            "Market to book",
+            "Sales ratio"
+        ]
+    },
+    {
+        "q": "Which hedge effectiveness test compares changes in hedge and exposure?",
+        "type": "mcq",
+        "o": [
+            "Dollar offset method",
+            "Regression analysis",
+            "Correlation test",
+            "Duration matching"
+        ]
+    },
+    {
+        "q": "Regulatory capital is higher than ______ capital requirements.",
+        "type": "fill_blank",
+        "answers": [
+            "economic"
+        ],
+        "other_options": [
+            "accounting",
+            "market",
+            "historical"
+        ]
+    },
+    {
+        "q": "Skewness measures the asymmetry of return distributions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the corporate event with its share price impact:",
+        "type": "match",
+        "left": [
+            "Dividend increase",
+            "Debt issue",
+            "Equity issue",
+            "Share buyback"
+        ],
+        "right": [
+            "Positive signal",
+            "Neutral to negative",
+            "Often negative",
+            "Often positive"
+        ]
+    },
+    {
+        "q": "What is the purpose of residual value in terminal value calculation?",
+        "type": "mcq",
+        "o": [
+            "Capture value beyond explicit forecast period",
+            "Calculate initial investment",
+            "Determine working capital needs",
+            "Estimate depreciation"
+        ]
+    },
+    {
+        "q": "Convenience yield reflects benefits of holding physical ______.",
+        "type": "fill_blank",
+        "answers": [
+            "commodities"
+        ],
+        "other_options": [
+            "securities",
+            "currencies",
+            "bonds"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in translation exposure measurement:",
+        "type": "rearrange",
+        "words": [
+            "Identify foreign assets",
+            "Determine functional currency",
+            "Apply exchange rate",
+            "Calculate exposure"
+        ]
+    },
+    {
+        "q": "Which factor creates positive correlation between credit spreads?",
+        "type": "mcq",
+        "o": [
+            "Systematic default risk",
+            "Idiosyncratic factors",
+            "Company-specific events",
+            "Random coincidence"
+        ]
+    },
+    {
+        "q": "A ______ provision requires borrower to maintain minimum equity levels.",
+        "type": "fill_blank",
+        "answers": [
+            "net worth"
+        ],
+        "other_options": [
+            "interest",
+            "principal",
+            "collateral"
+        ]
+    },
+    {
+        "q": "Delta-neutral positions eliminate first-order price sensitivity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the M&A finance structure with its characteristic:",
+        "type": "match",
+        "left": [
+            "Stock deal",
+            "Cash deal",
+            "Mixed deal",
+            "Leveraged buyout"
+        ],
+        "right": [
+            "Share exchange",
+            "Full cash payment",
+            "Combination",
+            "Debt-financed"
+        ]
+    },
+    {
+        "q": "What is the purpose of anti-dilution provisions in convertible bonds?",
+        "type": "mcq",
+        "o": [
+            "Protect conversion value from equity dilution",
+            "Increase coupon payments",
+            "Accelerate maturity",
+            "Reduce principal amount"
+        ]
+    },
+    {
+        "q": "Default correlation affects the pricing of ______ credit derivatives.",
+        "type": "fill_blank",
+        "answers": [
+            "basket"
+        ],
+        "other_options": [
+            "single-name",
+            "vanilla",
+            "plain"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in Monte Carlo option pricing:",
+        "type": "rearrange",
+        "words": [
+            "Model parameters",
+            "Generate paths",
+            "Calculate payoffs",
+            "Average results",
+            "Discount"
+        ]
+    },
+    {
+        "q": "Which approach values intellectual property and other intangibles?",
+        "type": "mcq",
+        "o": [
+            "Relief from royalty method",
+            "P/E ratio",
+            "Book value",
+            "Replacement cost"
+        ]
+    },
+    {
+        "q": "Gamma trading profits from actual volatility ______ implied volatility.",
+        "type": "fill_blank",
+        "answers": [
+            "exceeding"
+        ],
+        "other_options": [
+            "matching",
+            "below",
+            "equaling"
+        ]
+    },
+    {
+        "q": "The Black model adapts Black-Scholes for interest rate derivatives.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the credit risk component with its meaning:",
+        "type": "match",
+        "left": [
+            "PD",
+            "LGD",
+            "EAD",
+            "Expected loss"
+        ],
+        "right": [
+            "Likelihood of default",
+            "Loss severity",
+            "Amount at risk",
+            "PD times LGD times EAD"
+        ]
+    },
+    {
+        "q": "What is the main challenge in valuing early-stage companies?",
+        "type": "mcq",
+        "o": [
+            "Uncertain cash flows and high failure rates",
+            "Too much historical data",
+            "Excessive profitability",
+            "Low growth potential"
+        ]
+    },
+    {
+        "q": "Hybrid securities combine features of debt and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "equity"
+        ],
+        "other_options": [
+            "derivatives",
+            "options",
+            "futures"
+        ]
+    },
+    {
+        "q": "Rearrange the debt capacity indicators by importance:",
+        "type": "rearrange",
+        "words": [
+            "Interest coverage",
+            "Debt to EBITDA",
+            "Debt to equity",
+            "Cash flow coverage"
+        ]
+    },
+    {
+        "q": "Which regulatory requirement focuses on liquidity coverage?",
+        "type": "mcq",
+        "o": [
+            "LCR under Basel III",
+            "Tier 1 capital ratio",
+            "Risk-weighted assets",
+            "Leverage ratio"
+        ]
+    },
+    {
+        "q": "Correlation breakdown during crises increases ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "portfolio"
+        ],
+        "other_options": [
+            "individual",
+            "specific",
+            "operational"
+        ]
+    },
+    {
+        "q": "Vega is highest for at-the-money options.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the treasury operation with its function:",
+        "type": "match",
+        "left": [
+            "Front office",
+            "Middle office",
+            "Back office",
+            "Treasury accounting"
+        ],
+        "right": [
+            "Dealing",
+            "Risk management",
+            "Settlement",
+            "Reporting"
+        ]
+    },
+    {
+        "q": "What is the purpose of excess spread in securitization?",
+        "type": "mcq",
+        "o": [
+            "Absorb losses before affecting investors",
+            "Increase investor returns",
+            "Reduce transaction costs",
+            "Speed up repayment"
+        ]
+    },
+    {
+        "q": "Management entrenchment occurs when managers prioritize job security over ______.",
+        "type": "fill_blank",
+        "answers": [
+            "shareholder value"
+        ],
+        "other_options": [
+            "employee welfare",
+            "customer satisfaction",
+            "environmental goals"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of structured finance transaction:",
+        "type": "rearrange",
+        "words": [
+            "Asset pool formation",
+            "SPV creation",
+            "Credit enhancement",
+            "Tranche structuring",
+            "Issuance"
+        ]
+    },
+    {
+        "q": "Which principle requires that hedging gains and losses offset exposure changes?",
+        "type": "mcq",
+        "o": [
+            "Hedge effectiveness",
+            "Mark-to-market",
+            "Fair value accounting",
+            "Revenue recognition"
+        ]
+    },
+    {
+        "q": "A quanto option pays in a ______ different from the underlying currency.",
+        "type": "fill_blank",
+        "answers": [
+            "currency"
+        ],
+        "other_options": [
+            "asset",
+            "market",
+            "country"
+        ]
+    },
+    {
+        "q": "Wrong-way risk occurs when exposure increases as counterparty credit deteriorates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the exotic option with its feature:",
+        "type": "match",
+        "left": [
+            "Barrier option",
+            "Asian option",
+            "Lookback option",
+            "Chooser option"
+        ],
+        "right": [
+            "Activated at price level",
+            "Average price payoff",
+            "Best price during life",
+            "Choose call or put later"
+        ]
+    },
+    {
+        "q": "What is the primary function of a special purpose vehicle in securitization?",
+        "type": "mcq",
+        "o": [
+            "Legally isolate assets from originator",
+            "Increase asset risk",
+            "Reduce investor returns",
+            "Simplify accounting"
+        ]
+    },
+    {
+        "q": "The Hull-White model allows for mean-reverting ______ rates.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "exchange",
+            "dividend",
+            "inflation"
+        ]
+    },
+    {
+        "q": "Rearrange the components of risk-adjusted performance:",
+        "type": "rearrange",
+        "words": [
+            "Calculate return",
+            "Measure risk",
+            "Compute ratio",
+            "Compare benchmark"
+        ]
+    },
+    {
+        "q": "Which valuation method is most appropriate for cyclical businesses?",
+        "type": "mcq",
+        "o": [
+            "Normalized earnings approach",
+            "Trailing P/E",
+            "Current book value",
+            "Last month revenue"
+        ]
+    },
+    {
+        "q": "Funding valuation adjustment accounts for the cost of ______ collateral.",
+        "type": "fill_blank",
+        "answers": [
+            "posting"
+        ],
+        "other_options": [
+            "receiving",
+            "trading",
+            "selling"
+        ]
+    },
+    {
+        "q": "CoCo bonds convert to equity when capital ratios fall below triggers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the valuation adjustment with its purpose:",
+        "type": "match",
+        "left": [
+            "CVA",
+            "DVA",
+            "FVA",
+            "KVA"
+        ],
+        "right": [
+            "Credit value adjustment",
+            "Debit value adjustment",
+            "Funding value adjustment",
+            "Capital value adjustment"
+        ]
+    },
+    {
+        "q": "What is the purpose of stress VaR in regulatory capital calculation?",
+        "type": "mcq",
+        "o": [
+            "Capture risk during extreme market conditions",
+            "Replace normal VaR entirely",
+            "Reduce capital requirements",
+            "Simplify risk measurement"
+        ]
+    },
+    {
+        "q": "A ______ process describes random walk with drift.",
+        "type": "fill_blank",
+        "answers": [
+            "geometric Brownian motion"
+        ],
+        "other_options": [
+            "binomial",
+            "trinomial",
+            "lattice"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of credit risk modeling:",
+        "type": "rearrange",
+        "words": [
+            "PD estimation",
+            "LGD modeling",
+            "EAD calculation",
+            "Expected loss",
+            "Unexpected loss"
+        ]
+    },
+    {
+        "q": "Which technique handles path-dependent option pricing?",
+        "type": "mcq",
+        "o": [
+            "Monte Carlo simulation",
+            "Black-Scholes formula",
+            "Simple binomial tree",
+            "Closed-form solution"
+        ]
+    },
+    {
+        "q": "The Merton model treats equity as a ______ on firm assets.",
+        "type": "fill_blank",
+        "answers": [
+            "call option"
+        ],
+        "other_options": [
+            "put option",
+            "forward",
+            "swap"
+        ]
+    },
+    {
+        "q": "IFRS 9 requires expected credit losses rather than incurred losses.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the interest rate model with its characteristic:",
+        "type": "match",
+        "left": [
+            "Vasicek",
+            "CIR",
+            "HJM",
+            "LMM"
+        ],
+        "right": [
+            "Mean-reverting normal",
+            "Square-root diffusion",
+            "Forward rate model",
+            "LIBOR market model"
+        ]
+    },
+    {
+        "q": "What determines the value of real options in staged investments?",
+        "type": "mcq",
+        "o": [
+            "Flexibility to proceed or abandon based on information",
+            "Fixed commitment regardless of outcomes",
+            "Predetermined exit points",
+            "Guaranteed returns"
+        ]
+    },
+    {
+        "q": "Jump diffusion models capture sudden ______ movements in asset prices.",
+        "type": "fill_blank",
+        "answers": [
+            "discontinuous"
+        ],
+        "other_options": [
+            "continuous",
+            "linear",
+            "gradual"
+        ]
+    },
+    {
+        "q": "Rearrange the components of comprehensive income:",
+        "type": "rearrange",
+        "words": [
+            "Net income",
+            "FX translation",
+            "Cash flow hedges",
+            "Pension adjustments",
+            "Total comprehensive"
+        ]
+    },
+    {
+        "q": "Which approach models volatility as time-varying?",
+        "type": "mcq",
+        "o": [
+            "GARCH model",
+            "Historical volatility",
+            "Implied volatility",
+            "Constant variance"
+        ]
+    },
+    {
+        "q": "Copula functions model ______ between credit defaults.",
+        "type": "fill_blank",
+        "answers": [
+            "dependence"
+        ],
+        "other_options": [
+            "independence",
+            "correlation",
+            "causation"
+        ]
+    },
+    {
+        "q": "Recovery rate is typically estimated based on asset type and seniority.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the hedge fund strategy with its approach:",
+        "type": "match",
+        "left": [
+            "Long/short equity",
+            "Global macro",
+            "Event-driven",
+            "Relative value"
+        ],
+        "right": [
+            "Stock selection",
+            "Economic themes",
+            "Corporate events",
+            "Price discrepancies"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of central clearing for derivatives?",
+        "type": "mcq",
+        "o": [
+            "Reduce counterparty risk through mutualization",
+            "Increase transaction costs",
+            "Eliminate need for collateral",
+            "Reduce transparency"
+        ]
+    },
+    {
+        "q": "Stochastic volatility models allow volatility to change ______.",
+        "type": "fill_blank",
+        "answers": [
+            "randomly"
+        ],
+        "other_options": [
+            "linearly",
+            "constantly",
+            "predictably"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in credit portfolio modeling:",
+        "type": "rearrange",
+        "words": [
+            "Individual PDs",
+            "Correlation matrix",
+            "Joint default",
+            "Portfolio loss",
+            "Capital requirement"
+        ]
+    },
+    {
+        "q": "Which model captures the volatility smile better than Black-Scholes?",
+        "type": "mcq",
+        "o": [
+            "Local volatility model",
+            "Constant volatility model",
+            "Simple binomial",
+            "Historical simulation"
+        ]
+    },
+    {
+        "q": "Credit migration measures changes in credit ______ over time.",
+        "type": "fill_blank",
+        "answers": [
+            "rating"
+        ],
+        "other_options": [
+            "balance",
+            "limit",
+            "exposure"
+        ]
+    },
+    {
+        "q": "XVA adjustments are now required for fair value derivative accounting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the capital requirement with its risk type:",
+        "type": "match",
+        "left": [
+            "Pillar 1",
+            "Pillar 2",
+            "Pillar 3",
+            "Stress testing"
+        ],
+        "right": [
+            "Minimum capital",
+            "Supervisory review",
+            "Market discipline",
+            "Scenario analysis"
+        ]
+    },
+    {
+        "q": "What is the purpose of a variance swap?",
+        "type": "mcq",
+        "o": [
+            "Trade realized volatility against implied volatility",
+            "Exchange fixed for floating rates",
+            "Convert equity to debt",
+            "Hedge currency exposure"
+        ]
+    },
+    {
+        "q": "Principal component analysis reduces dimensionality of ______ curves.",
+        "type": "fill_blank",
+        "answers": [
+            "yield"
+        ],
+        "other_options": [
+            "equity",
+            "credit",
+            "volatility"
+        ]
+    },
+    {
+        "q": "Rearrange the components of economic capital framework:",
+        "type": "rearrange",
+        "words": [
+            "Risk identification",
+            "Risk quantification",
+            "Aggregation",
+            "Capital allocation",
+            "Performance measurement"
+        ]
+    },
+    {
+        "q": "Which technique values exotics with complex payoff structures?",
+        "type": "mcq",
+        "o": [
+            "Finite difference methods",
+            "Simple closed-form",
+            "Basic binomial tree",
+            "Historical average"
+        ]
+    },
+    {
+        "q": "Concentration risk arises from large exposures to ______ counterparties.",
+        "type": "fill_blank",
+        "answers": [
+            "single"
+        ],
+        "other_options": [
+            "many",
+            "diverse",
+            "small"
+        ]
+    },
+    {
+        "q": "FRTB fundamentally revises market risk capital requirements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the term with its definition in structured products:",
+        "type": "match",
+        "left": [
+            "Tranche",
+            "Waterfall",
+            "Credit enhancement",
+            "Overcollateralization"
+        ],
+        "right": [
+            "Slice of risk",
+            "Payment priority",
+            "Credit protection",
+            "Excess collateral"
+        ]
+    },
+    {
+        "q": "What is the main challenge in modeling operational risk?",
+        "type": "mcq",
+        "o": [
+            "Low frequency high severity events",
+            "Too much data available",
+            "Simple distribution fit",
+            "Constant risk levels"
+        ]
+    },
+    {
+        "q": "The Li copula model was widely used for ______ pricing before 2008.",
+        "type": "fill_blank",
+        "answers": [
+            "CDO"
+        ],
+        "other_options": [
+            "CDS",
+            "swap",
+            "bond"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in counterparty credit risk management:",
+        "type": "rearrange",
+        "words": [
+            "Exposure measurement",
+            "PFE calculation",
+            "Netting benefits",
+            "Collateral impact",
+            "Capital charge"
+        ]
+    },
+    {
+        "q": "Which adjustment captures the benefit of own default in derivative pricing?",
+        "type": "mcq",
+        "o": [
+            "DVA",
+            "CVA",
+            "FVA",
+            "MVA"
+        ]
+    },
+    {
+        "q": "Fat tails in return distributions indicate higher probability of ______ events.",
+        "type": "fill_blank",
+        "answers": [
+            "extreme"
+        ],
+        "other_options": [
+            "normal",
+            "average",
+            "expected"
+        ]
+    },
+    {
+        "q": "Wrong-way risk is difficult to model due to correlation with credit quality.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the regulatory framework with its focus:",
+        "type": "match",
+        "left": [
+            "Basel III",
+            "MiFID II",
+            "EMIR",
+            "Dodd-Frank"
+        ],
+        "right": [
+            "Bank capital",
+            "Investor protection",
+            "Derivatives clearing",
+            "Systemic risk"
+        ]
+    },
+    {
+        "q": "What is the main purpose of initial margin in derivatives clearing?",
+        "type": "mcq",
+        "o": [
+            "Cover potential future exposure",
+            "Pay current settlement",
+            "Reduce trading fees",
+            "Increase leverage"
+        ]
+    },
+    {
+        "q": "Model risk arises from using ______ or incorrectly implemented models.",
+        "type": "fill_blank",
+        "answers": [
+            "inappropriate"
+        ],
+        "other_options": [
+            "perfect",
+            "simple",
+            "standard"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of comprehensive valuation framework:",
+        "type": "rearrange",
+        "words": [
+            "Risk-free value",
+            "Credit adjustment",
+            "Funding adjustment",
+            "Capital adjustment",
+            "Final price"
+        ]
+    },
+    {
+        "q": "Which approach handles American options with early exercise features?",
+        "type": "mcq",
+        "o": [
+            "Least squares Monte Carlo",
+            "Standard Black-Scholes",
+            "Simple forward pricing",
+            "Historical average"
+        ]
+    },
+    {
+        "q": "Heston model assumes volatility follows a ______ process.",
+        "type": "fill_blank",
+        "answers": [
+            "mean-reverting"
+        ],
+        "other_options": [
+            "random walk",
+            "constant",
+            "linear"
+        ]
+    },
+    {
+        "q": "TLAC requirements ensure banks have sufficient loss-absorbing capacity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the risk measure with its regulatory application:",
+        "type": "match",
+        "left": [
+            "VaR",
+            "Expected Shortfall",
+            "Stress VaR",
+            "IRC"
+        ],
+        "right": [
+            "Market risk capital",
+            "Tail risk",
+            "Crisis periods",
+            "Credit migration"
+        ]
+    },
+    {
+        "q": "What creates a liquidity premium in bond yields?",
+        "type": "mcq",
+        "o": [
+            "Difficulty selling the bond quickly at fair value",
+            "High trading volumes",
+            "Strong credit rating",
+            "Short maturity"
+        ]
+    },
+    {
+        "q": "SABR model allows for ______ dependent volatility dynamics.",
+        "type": "fill_blank",
+        "answers": [
+            "forward rate"
+        ],
+        "other_options": [
+            "spot rate",
+            "dividend",
+            "credit"
+        ]
+    },
+    {
+        "q": "Rearrange the components of integrated risk management:",
+        "type": "rearrange",
+        "words": [
+            "Enterprise risk",
+            "Operational risk",
+            "Market risk",
+            "Credit risk",
+            "Liquidity risk"
+        ]
+    },
+    {
+        "q": "Which derivative valuation requires solving partial differential equations?",
+        "type": "mcq",
+        "o": [
+            "American option finite difference",
+            "Simple European option",
+            "Forward contract",
+            "Plain vanilla swap"
+        ]
+    },
+    {
+        "q": "Procyclicality in capital requirements amplifies ______ cycles.",
+        "type": "fill_blank",
+        "answers": [
+            "economic"
+        ],
+        "other_options": [
+            "seasonal",
+            "random",
+            "political"
+        ]
+    },
+    {
+        "q": "Central bank stress tests assess bank resilience to severe scenarios.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the option pricing input with sensitivity measure:",
+        "type": "match",
+        "left": [
+            "Stock price",
+            "Volatility",
+            "Time",
+            "Interest rate"
+        ],
+        "right": [
+            "Delta",
+            "Vega",
+            "Theta",
+            "Rho"
+        ]
+    },
+    {
+        "q": "What is the primary driver of credit valuation adjustment?",
+        "type": "mcq",
+        "o": [
+            "Counterparty credit spread and expected exposure",
+            "Market volatility only",
+            "Interest rate levels",
+            "Equity prices"
+        ]
+    },
+    {
+        "q": "Backtesting compares model predictions with ______ outcomes.",
+        "type": "fill_blank",
+        "answers": [
+            "actual"
+        ],
+        "other_options": [
+            "theoretical",
+            "expected",
+            "average"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in derivative pricing validation:",
+        "type": "rearrange",
+        "words": [
+            "Model specification",
+            "Calibration",
+            "Pricing",
+            "Backtesting",
+            "Documentation"
+        ]
+    },
+    {
+        "q": "Which factor most significantly impacts deep in-the-money option delta?",
+        "type": "mcq",
+        "o": [
+            "Delta approaches one as option goes deeper in-the-money",
+            "Volatility primarily drives delta",
+            "Time value determines delta",
+            "Interest rates control delta"
+        ]
+    },
+    {
+        "q": "Integration of ESG factors in valuation is called ______ investing.",
+        "type": "fill_blank",
+        "answers": [
+            "sustainable"
+        ],
+        "other_options": [
+            "speculative",
+            "traditional",
+            "passive"
+        ]
+    },
+    {
+        "q": "Negative interest rates challenge traditional option pricing models.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the term structure shape with market expectation:",
+        "type": "match",
+        "left": [
+            "Normal upward",
+            "Inverted",
+            "Flat",
+            "Humped"
+        ],
+        "right": [
+            "Higher future rates",
+            "Lower future rates",
+            "Stable rates",
+            "Rising then falling"
+        ]
+    },
+    {
+        "q": "What is the main advantage of factor-based risk models?",
+        "type": "mcq",
+        "o": [
+            "Reduce dimensionality while capturing systematic risk",
+            "Increase model complexity",
+            "Require more data",
+            "Eliminate all risk"
+        ]
+    },
+    {
+        "q": "Machine learning is increasingly used for ______ detection in finance.",
+        "type": "fill_blank",
+        "answers": [
+            "fraud"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "growth"
+        ]
+    },
+    {
+        "q": "Rearrange the complexity levels of financial instruments:",
+        "type": "rearrange",
+        "words": [
+            "Vanilla bonds",
+            "Structured notes",
+            "Exotic options",
+            "Credit derivatives",
+            "Multi-asset products"
+        ]
+    },
+    {
+        "q": "Which regulatory change addresses too-big-to-fail concerns?",
+        "type": "mcq",
+        "o": [
+            "Resolution planning and TLAC requirements",
+            "Reduced capital requirements",
+            "Less supervision",
+            "Increased leverage limits"
+        ]
+    },
+    {
+        "q": "Transition from LIBOR to alternative reference rates creates ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "basis"
+        ],
+        "other_options": [
+            "credit",
+            "market",
+            "operational"
+        ]
+    },
+    {
+        "q": "Climate risk is now incorporated into financial stability assessments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the fintech application with its function:",
+        "type": "match",
+        "left": [
+            "Blockchain",
+            "AI/ML",
+            "APIs",
+            "Cloud computing"
+        ],
+        "right": [
+            "Distributed ledger",
+            "Pattern recognition",
+            "Connectivity",
+            "Scalable infrastructure"
+        ]
+    },
+    {
+        "q": "What is the purpose of scenario analysis in climate risk assessment?",
+        "type": "mcq",
+        "o": [
+            "Evaluate impact of different climate pathways on portfolios",
+            "Predict exact climate outcomes",
+            "Eliminate climate risk",
+            "Ignore transition risks"
+        ]
+    },
+    {
+        "q": "Net-zero commitments require alignment of portfolios with ______ goals.",
+        "type": "fill_blank",
+        "answers": [
+            "Paris Agreement"
+        ],
+        "other_options": [
+            "short-term profit",
+            "quarterly earnings",
+            "market timing"
+        ]
+    },
+    {
+        "q": "Rearrange the sustainability integration stages:",
+        "type": "rearrange",
+        "words": [
+            "ESG screening",
+            "Thematic investing",
+            "Impact measurement",
+            "Engagement",
+            "Reporting"
+        ]
+    },
+    {
+        "q": "Which metric measures portfolio alignment with climate targets?",
+        "type": "mcq",
+        "o": [
+            "Carbon footprint and temperature alignment",
+            "Only financial returns",
+            "Market capitalization",
+            "Trading volume"
+        ]
+    },
+    {
+        "q": "Green bonds finance projects with positive ______ impact.",
+        "type": "fill_blank",
+        "answers": [
+            "environmental"
+        ],
+        "other_options": [
+            "financial",
+            "social",
+            "political"
+        ]
+    },
+    {
+        "q": "Stranded assets risk affects companies in carbon-intensive industries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the sustainable finance term with its focus:",
+        "type": "match",
+        "left": [
+            "Green bonds",
+            "Social bonds",
+            "Sustainability-linked",
+            "Transition bonds"
+        ],
+        "right": [
+            "Environmental projects",
+            "Social outcomes",
+            "KPI-linked",
+            "High-carbon transition"
+        ]
+    },
+    {
+        "q": "What is the purpose of TCFD recommendations?",
+        "type": "mcq",
+        "o": [
+            "Standardize climate-related financial disclosures",
+            "Reduce reporting requirements",
+            "Eliminate climate risks",
+            "Increase carbon emissions"
+        ]
+    },
+    {
+        "q": "Physical climate risk includes damage from extreme ______ events.",
+        "type": "fill_blank",
+        "answers": [
+            "weather"
+        ],
+        "other_options": [
+            "market",
+            "credit",
+            "operational"
+        ]
+    },
+    {
+        "q": "Rearrange the TCFD pillars:",
+        "type": "rearrange",
+        "words": [
+            "Governance",
+            "Strategy",
+            "Risk management",
+            "Metrics and targets"
+        ]
+    },
+    {
+        "q": "Which framework provides guidance for identifying material ESG factors?",
+        "type": "mcq",
+        "o": [
+            "SASB materiality map",
+            "Traditional GAAP",
+            "Historical cost accounting",
+            "Cash basis reporting"
+        ]
+    },
+    {
+        "q": "Transition risk arises from policy changes affecting ______ assets.",
+        "type": "fill_blank",
+        "answers": [
+            "carbon-intensive"
+        ],
+        "other_options": [
+            "renewable",
+            "sustainable",
+            "green"
+        ]
+    },
+    {
+        "q": "Double materiality considers both financial and societal impacts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the ESG factor with its category:",
+        "type": "match",
+        "left": [
+            "Carbon emissions",
+            "Employee safety",
+            "Board diversity",
+            "Data privacy"
+        ],
+        "right": [
+            "Environmental",
+            "Social",
+            "Governance",
+            "Social"
+        ]
+    },
+    {
+        "q": "What challenge exists in comparing ESG ratings across providers?",
+        "type": "mcq",
+        "o": [
+            "Significant methodology and score divergence",
+            "Complete standardization exists",
+            "All ratings are identical",
+            "No differences in approach"
+        ]
+    },
+    {
+        "q": "Integration of biodiversity risk into investment analysis is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "emerging"
+        ],
+        "other_options": [
+            "complete",
+            "unnecessary",
+            "finished"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of sustainable investing evolution:",
+        "type": "rearrange",
+        "words": [
+            "Negative screening",
+            "ESG integration",
+            "Thematic",
+            "Impact",
+            "Systemic change"
+        ]
+    },
+    {
+        "q": "Which approach actively uses ownership rights to drive corporate change?",
+        "type": "mcq",
+        "o": [
+            "Active ownership and engagement",
+            "Passive index following",
+            "Complete divestment",
+            "Short-term trading"
+        ]
+    },
+    {
+        "q": "The EU Taxonomy defines environmentally ______ economic activities.",
+        "type": "fill_blank",
+        "answers": [
+            "sustainable"
+        ],
+        "other_options": [
+            "harmful",
+            "neutral",
+            "excluded"
+        ]
+    },
+    {
+        "q": "Greenwashing misrepresents the environmental credentials of investments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the regulatory initiative with its jurisdiction:",
+        "type": "match",
+        "left": [
+            "EU Taxonomy",
+            "SFDR",
+            "SEC climate rules",
+            "ISSB standards"
+        ],
+        "right": [
+            "EU classification",
+            "EU disclosure",
+            "US disclosure",
+            "Global baseline"
+        ]
+    },
+    {
+        "q": "What is the purpose of science-based targets in corporate finance?",
+        "type": "mcq",
+        "o": [
+            "Align emissions reduction with climate science",
+            "Ignore scientific evidence",
+            "Maximize short-term profits",
+            "Avoid all commitments"
+        ]
+    },
+    {
+        "q": "Scope 3 emissions cover the company's entire ______ chain.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "supply",
+            "demand",
+            "cost"
+        ]
+    },
+    {
+        "q": "Rearrange the carbon accounting scopes:",
+        "type": "rearrange",
+        "words": [
+            "Scope 1 direct",
+            "Scope 2 electricity",
+            "Scope 3 value chain"
+        ]
+    },
+    {
+        "q": "Which financial instrument provides incentive to meet sustainability targets?",
+        "type": "mcq",
+        "o": [
+            "Sustainability-linked loan with margin step-up or step-down",
+            "Traditional fixed-rate loan",
+            "Standard equity investment",
+            "Cash deposit"
+        ]
+    },
+    {
+        "q": "Nature-related financial risks are addressed by the ______ framework.",
+        "type": "fill_blank",
+        "answers": [
+            "TNFD"
+        ],
+        "other_options": [
+            "TCFD",
+            "GRI",
+            "CDP"
+        ]
+    },
+    {
+        "q": "Carbon pricing mechanisms include emissions trading and carbon taxes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the measurement approach with its application:",
+        "type": "match",
+        "left": [
+            "Carbon footprint",
+            "WACI",
+            "Temperature alignment",
+            "Transition score"
+        ],
+        "right": [
+            "Absolute emissions",
+            "Weighted average intensity",
+            "Degree warming potential",
+            "Readiness assessment"
+        ]
+    },
+    {
+        "q": "What distinguishes impact investing from traditional ESG integration?",
+        "type": "mcq",
+        "o": [
+            "Intentionality and measurable impact alongside returns",
+            "Focus only on financial returns",
+            "Exclusion strategy",
+            "Short-term trading"
+        ]
+    },
+    {
+        "q": "Just transition considers the social dimensions of moving to a ______ economy.",
+        "type": "fill_blank",
+        "answers": [
+            "low-carbon"
+        ],
+        "other_options": [
+            "high-carbon",
+            "traditional",
+            "current"
+        ]
+    },
+    {
+        "q": "Rearrange the net-zero implementation steps:",
+        "type": "rearrange",
+        "words": [
+            "Baseline measurement",
+            "Target setting",
+            "Reduction actions",
+            "Offsetting",
+            "Reporting"
+        ]
+    },
+    {
+        "q": "Which approach combines financial optimization with impact constraints?",
+        "type": "mcq",
+        "o": [
+            "Impact-weighted portfolio construction",
+            "Traditional mean-variance only",
+            "Ignoring non-financial factors",
+            "Random selection"
+        ]
+    },
+    {
+        "q": "Circular economy principles aim to eliminate ______ and pollution.",
+        "type": "fill_blank",
+        "answers": [
+            "waste"
+        ],
+        "other_options": [
+            "profit",
+            "growth",
+            "innovation"
+        ]
+    },
+    {
+        "q": "Stewardship codes set expectations for investor engagement responsibilities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the engagement topic with its stakeholder concern:",
+        "type": "match",
+        "left": [
+            "Climate strategy",
+            "Human capital",
+            "Executive pay",
+            "Tax transparency"
+        ],
+        "right": [
+            "Environmental",
+            "Employees",
+            "Shareholders",
+            "Society"
+        ]
+    },
+    {
+        "q": "What is the primary challenge in measuring social impact?",
+        "type": "mcq",
+        "o": [
+            "Defining and quantifying intangible outcomes",
+            "Too much data available",
+            "Simple standardized metrics",
+            "Universal agreement on measurement"
+        ]
+    },
+    {
+        "q": "Blended finance combines public and ______ capital for development.",
+        "type": "fill_blank",
+        "answers": [
+            "private"
+        ],
+        "other_options": [
+            "government",
+            "NGO",
+            "charity"
+        ]
+    },
+    {
+        "q": "Rearrange the impact measurement steps:",
+        "type": "rearrange",
+        "words": [
+            "Theory of change",
+            "Output tracking",
+            "Outcome assessment",
+            "Impact verification",
+            "Reporting"
+        ]
+    },
+    {
+        "q": "Which approach ensures alignment between investment beliefs and holdings?",
+        "type": "mcq",
+        "o": [
+            "Values-based portfolio alignment",
+            "Ignoring investment policy",
+            "Random stock selection",
+            "Pure momentum trading"
+        ]
+    },
+    {
+        "q": "SDG alignment maps investments to ______ development goals.",
+        "type": "fill_blank",
+        "answers": [
+            "sustainable"
+        ],
+        "other_options": [
+            "financial",
+            "political",
+            "regional"
+        ]
+    },
+    {
+        "q": "Additionality measures whether investment creates new positive outcomes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which approach integrates sustainability into core investment process?",
+        "type": "mcq",
+        "o": [
+            "ESG integration",
+            "Pure exclusion",
+            "Traditional analysis only",
+            "Short-term trading"
+        ]
+    },
+    {
+        "q": "Biodiversity credits are an emerging mechanism for ______ conservation.",
+        "type": "fill_blank",
+        "answers": [
+            "nature"
+        ],
+        "other_options": [
+            "profit",
+            "growth",
+            "trading"
+        ]
+    },
+    {
+        "q": "Rearrange the corporate sustainability journey:",
+        "type": "rearrange",
+        "words": [
+            "Compliance",
+            "Efficiency",
+            "Strategic",
+            "Purpose-driven"
+        ]
+    },
+    {
+        "q": "Match the sustainability reporting standard with its focus:",
+        "type": "match",
+        "left": [
+            "GRI",
+            "SASB",
+            "CDP",
+            "ISSB"
+        ],
+        "right": [
+            "Stakeholder impact",
+            "Investor materiality",
+            "Climate disclosure",
+            "Global standards"
+        ]
+    },
+    {
+        "q": "System-level investing considers portfolio impact on entire ______.",
+        "type": "fill_blank",
+        "answers": [
+            "economic system"
+        ],
+        "other_options": [
+            "company",
+            "sector",
+            "industry"
+        ]
+    },
+    {
+        "q": "Universal ownership recognizes large investors exposure to economy-wide risks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of a probability-weighted NPV approach?",
+        "type": "mcq",
+        "o": [
+            "Account for multiple scenarios with different likelihoods",
+            "Use only best case projections",
+            "Ignore uncertainty entirely",
+            "Focus on worst case only"
+        ]
+    },
+    {
+        "q": "Credit value adjustment represents the cost of counterparty ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "default"
+        ],
+        "other_options": [
+            "market",
+            "liquidity",
+            "operational"
+        ]
+    },
+    {
+        "q": "Which capital budgeting technique handles mutually exclusive projects best?",
+        "type": "mcq",
+        "o": [
+            "NPV comparison",
+            "Payback comparison",
+            "IRR comparison always",
+            "ARR comparison"
+        ]
+    },
+    {
+        "q": "Rearrange the capital budgeting decision hierarchy:",
+        "type": "rearrange",
+        "words": [
+            "Strategic fit",
+            "Financial viability",
+            "Risk assessment",
+            "Implementation plan"
+        ]
+    },
+    {
+        "q": "Match the project type with its evaluation challenge:",
+        "type": "match",
+        "left": [
+            "Expansion",
+            "Replacement",
+            "R&D",
+            "Compliance"
+        ],
+        "right": [
+            "Revenue forecasting",
+            "Incremental analysis",
+            "Uncertain outcomes",
+            "Mandatory investment"
+        ]
+    },
+    {
+        "q": "A company with higher asset beta faces more ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "business"
+        ],
+        "other_options": [
+            "financial",
+            "liquidity",
+            "regulatory"
+        ]
+    },
+    {
+        "q": "Post-completion audits compare actual outcomes against project forecasts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the main limitation of accounting rate of return?",
+        "type": "mcq",
+        "o": [
+            "Ignores time value of money",
+            "Too complex to calculate",
+            "Requires too much data",
+            "Cannot be compared across projects"
+        ]
+    },
+    {
+        "q": "The discount rate for evaluating overseas projects should include ______ premium.",
+        "type": "fill_blank",
+        "answers": [
+            "country risk"
+        ],
+        "other_options": [
+            "size",
+            "growth",
+            "dividend"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of international project evaluation:",
+        "type": "rearrange",
+        "words": [
+            "Local currency NPV",
+            "Convert to home currency",
+            "Adjust for political risk",
+            "Make decision"
+        ]
+    },
+    {
+        "q": "Which factor increases the hurdle rate for riskier projects?",
+        "type": "mcq",
+        "o": [
+            "Risk premium addition",
+            "Lower discount rate",
+            "Shorter payback requirement",
+            "Higher accounting return"
+        ]
+    },
+    {
+        "q": "Match the market imperfection with its impact on capital structure:",
+        "type": "match",
+        "left": [
+            "Taxes",
+            "Bankruptcy costs",
+            "Agency costs",
+            "Asymmetric information"
+        ],
+        "right": [
+            "Tax shield benefit",
+            "Limit optimal debt",
+            "Monitoring expenses",
+            "Pecking order"
+        ]
+    },
+    {
+        "q": "Soft capital rationing is imposed ______ by management.",
+        "type": "fill_blank",
+        "answers": [
+            "internally"
+        ],
+        "other_options": [
+            "externally",
+            "legally",
+            "regulatorily"
+        ]
+    },
+    {
+        "q": "The profitability index is particularly useful under capital rationing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of a control premium in acquisition valuation?",
+        "type": "mcq",
+        "o": [
+            "Value of controlling stake above minority value",
+            "Discount for lack of control",
+            "Penalty for acquiring control",
+            "Tax benefit of acquisition"
+        ]
+    },
+    {
+        "q": "Hostile acquisitions typically require ______ premiums than friendly deals.",
+        "type": "fill_blank",
+        "answers": [
+            "higher"
+        ],
+        "other_options": [
+            "lower",
+            "equal",
+            "zero"
+        ]
+    },
+    {
+        "q": "Rearrange the M&A value drivers by timing:",
+        "type": "rearrange",
+        "words": [
+            "Day one synergies",
+            "Quick wins",
+            "Medium-term value",
+            "Long-term transformation"
+        ]
+    },
+    {
+        "q": "Which valuation approach is least appropriate for distressed companies?",
+        "type": "mcq",
+        "o": [
+            "P/E multiple of comparable companies",
+            "Liquidation value",
+            "Asset-based valuation",
+            "Restructured cash flows"
+        ]
+    },
+    {
+        "q": "Match the takeover defense with its mechanism:",
+        "type": "match",
+        "left": [
+            "Staggered board",
+            "Supermajority provision",
+            "Fair price amendment",
+            "Shark repellent"
+        ],
+        "right": [
+            "Gradual director replacement",
+            "High approval threshold",
+            "Minimum offer price",
+            "Charter amendments"
+        ]
+    },
+    {
+        "q": "Integration planning should begin ______ deal announcement.",
+        "type": "fill_blank",
+        "answers": [
+            "before"
+        ],
+        "other_options": [
+            "after",
+            "during",
+            "without"
+        ]
+    },
+    {
+        "q": "Culture clash is a major reason for post-merger integration failure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of a confidentiality agreement in M&A?",
+        "type": "mcq",
+        "o": [
+            "Protect sensitive information during due diligence",
+            "Guarantee deal completion",
+            "Set purchase price",
+            "Define integration approach"
+        ]
+    },
+    {
+        "q": "Break-up fees compensate for ______ if deal fails.",
+        "type": "fill_blank",
+        "answers": [
+            "costs incurred"
+        ],
+        "other_options": [
+            "future profits",
+            "past investments",
+            "competitor actions"
+        ]
+    },
+    {
+        "q": "Rearrange the scheme of arrangement steps:",
+        "type": "rearrange",
+        "words": [
+            "Court meeting",
+            "Shareholder vote",
+            "Court sanction",
+            "Effective date"
+        ]
+    },
+    {
+        "q": "Which financing structure gives acquirer most flexibility?",
+        "type": "mcq",
+        "o": [
+            "Cash from existing resources",
+            "100% debt financed",
+            "Highly structured terms",
+            "Contingent payment only"
+        ]
+    },
+    {
+        "q": "Match the type of consideration with its advantage:",
+        "type": "match",
+        "left": [
+            "Cash",
+            "Shares",
+            "Loan notes",
+            "Earnout"
+        ],
+        "right": [
+            "Certainty of value",
+            "Tax deferral",
+            "Deferred payment",
+            "Risk sharing"
+        ]
+    },
+    {
+        "q": "Vendor due diligence is commissioned by the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "seller"
+        ],
+        "other_options": [
+            "buyer",
+            "regulator",
+            "advisor"
+        ]
+    },
+    {
+        "q": "Representations and warranties allocate risk between buyer and seller.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the main purpose of a locked box mechanism?",
+        "type": "mcq",
+        "o": [
+            "Fix economic transfer date before completion",
+            "Lock in financing terms",
+            "Secure target assets",
+            "Prevent regulatory review"
+        ]
+    },
+    {
+        "q": "Completion accounts adjust price for changes between signing and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "closing"
+        ],
+        "other_options": [
+            "announcement",
+            "approval",
+            "integration"
+        ]
+    },
+    {
+        "q": "Rearrange the distressed M&A process:",
+        "type": "rearrange",
+        "words": [
+            "Identify distress",
+            "Engage stakeholders",
+            "Develop options",
+            "Execute transaction"
+        ]
+    },
+    {
+        "q": "Which corporate reconstruction method maintains going concern value?",
+        "type": "mcq",
+        "o": [
+            "Debt restructuring with operational turnaround",
+            "Immediate liquidation",
+            "Asset stripping only",
+            "Management departure"
+        ]
+    },
+    {
+        "q": "Match the turnaround stage with its focus:",
+        "type": "match",
+        "left": [
+            "Emergency",
+            "Stabilization",
+            "Return to growth",
+            "Exit"
+        ],
+        "right": [
+            "Cash conservation",
+            "Break-even",
+            "Value creation",
+            "Ownership transition"
+        ]
+    },
+    {
+        "q": "A scheme of arrangement requires court ______.",
+        "type": "fill_blank",
+        "answers": [
+            "approval"
+        ],
+        "other_options": [
+            "rejection",
+            "delay",
+            "opposition"
+        ]
+    },
+    {
+        "q": "Cramdown forces dissenting creditors to accept restructuring terms.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of debtor-in-possession financing?",
+        "type": "mcq",
+        "o": [
+            "Provide working capital during bankruptcy proceedings",
+            "Replace existing debt entirely",
+            "Pay shareholders immediately",
+            "Fund acquisitions"
+        ]
+    },
+    {
+        "q": "Intercreditor agreements define priority among different ______ classes.",
+        "type": "fill_blank",
+        "answers": [
+            "lender"
+        ],
+        "other_options": [
+            "shareholder",
+            "customer",
+            "employee"
+        ]
+    },
+    {
+        "q": "Rearrange the insolvency process steps:",
+        "type": "rearrange",
+        "words": [
+            "Filing",
+            "Moratorium",
+            "Plan development",
+            "Creditor vote",
+            "Implementation"
+        ]
+    },
+    {
+        "q": "Which stakeholder typically has priority in liquidation?",
+        "type": "mcq",
+        "o": [
+            "Secured creditors",
+            "Ordinary shareholders",
+            "Preference shareholders",
+            "Unsecured bondholders"
+        ]
+    },
+    {
+        "q": "Match the restructuring professional with their role:",
+        "type": "match",
+        "left": [
+            "Administrator",
+            "Receiver",
+            "Liquidator",
+            "CRO"
+        ],
+        "right": [
+            "Rescue company",
+            "Enforce security",
+            "Wind up company",
+            "Interim management"
+        ]
+    },
+    {
+        "q": "A pre-pack sale is arranged ______ formal insolvency appointment.",
+        "type": "fill_blank",
+        "answers": [
+            "before"
+        ],
+        "other_options": [
+            "after",
+            "during",
+            "without"
+        ]
+    },
+    {
+        "q": "Absolute priority rule determines distribution order in bankruptcy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of an exclusivity period in restructuring?",
+        "type": "mcq",
+        "o": [
+            "Allow debtor time to propose plan without competing offers",
+            "Exclude certain creditors from process",
+            "Prevent any negotiation",
+            "Lock in purchase price"
+        ]
+    },
+    {
+        "q": "Haircuts in debt restructuring represent percentage ______ accepted by lenders.",
+        "type": "fill_blank",
+        "answers": [
+            "reductions"
+        ],
+        "other_options": [
+            "increases",
+            "delays",
+            "extensions"
+        ]
+    },
+    {
+        "q": "Rearrange the informal workout stages:",
+        "type": "rearrange",
+        "words": [
+            "Standstill agreement",
+            "Information sharing",
+            "Proposal development",
+            "Consensual agreement"
+        ]
+    },
+    {
+        "q": "Which treasury risk involves mismatched asset and liability maturities?",
+        "type": "mcq",
+        "o": [
+            "Liquidity gap risk",
+            "Credit spread risk",
+            "Basis risk",
+            "Translation risk"
+        ]
+    },
+    {
+        "q": "Match the treasury policy element with its purpose:",
+        "type": "match",
+        "left": [
+            "Limits",
+            "Benchmarks",
+            "Reporting",
+            "Controls"
+        ],
+        "right": [
+            "Constrain exposures",
+            "Measure performance",
+            "Monitor activity",
+            "Prevent fraud"
+        ]
+    },
+    {
+        "q": "Centralized treasury provides better ______ management across the group.",
+        "type": "fill_blank",
+        "answers": [
+            "cash"
+        ],
+        "other_options": [
+            "product",
+            "customer",
+            "employee"
+        ]
+    },
+    {
+        "q": "Treasury management systems automate transaction processing and risk measurement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the main advantage of bilateral netting?",
+        "type": "mcq",
+        "o": [
+            "Reduces gross payment amounts between two parties",
+            "Increases transaction costs",
+            "Complicates settlement",
+            "Adds counterparty risk"
+        ]
+    },
+    {
+        "q": "Cash concentration moves funds from subsidiaries to ______ account.",
+        "type": "fill_blank",
+        "answers": [
+            "central"
+        ],
+        "other_options": [
+            "local",
+            "individual",
+            "separate"
+        ]
+    },
+    {
+        "q": "Rearrange the foreign exchange risk management process:",
+        "type": "rearrange",
+        "words": [
+            "Identify exposure",
+            "Quantify risk",
+            "Select strategy",
+            "Implement hedge",
+            "Monitor"
+        ]
+    },
+    {
+        "q": "Which derivative is most appropriate for hedging known future cash flows?",
+        "type": "mcq",
+        "o": [
+            "Forward contract",
+            "Vanilla option only",
+            "Exotic option",
+            "Variance swap"
+        ]
+    },
+    {
+        "q": "Match the interest rate product with its use:",
+        "type": "match",
+        "left": [
+            "FRA",
+            "Cap",
+            "Floor",
+            "Collar"
+        ],
+        "right": [
+            "Lock in forward rate",
+            "Maximum rate protection",
+            "Minimum rate guarantee",
+            "Range of rates"
+        ]
+    },
+    {
+        "q": "A natural hedge uses operational activities to reduce ______ exposure.",
+        "type": "fill_blank",
+        "answers": [
+            "currency"
+        ],
+        "other_options": [
+            "interest",
+            "credit",
+            "equity"
+        ]
+    },
+    {
+        "q": "Over-hedging creates speculative rather than protective positions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of mark-to-market in risk management?",
+        "type": "mcq",
+        "o": [
+            "Value positions at current market prices",
+            "Use historical cost only",
+            "Ignore market changes",
+            "Fix values permanently"
+        ]
+    },
+    {
+        "q": "Stress testing scenarios should include ______ but plausible events.",
+        "type": "fill_blank",
+        "answers": [
+            "extreme"
+        ],
+        "other_options": [
+            "normal",
+            "average",
+            "expected"
+        ]
+    },
+    {
+        "q": "Rearrange the ethical decision-making framework:",
+        "type": "rearrange",
+        "words": [
+            "Identify issue",
+            "Consider stakeholders",
+            "Evaluate options",
+            "Make decision",
+            "Review outcome"
+        ]
+    },
+    {
+        "q": "Which ethical principle requires treating all stakeholders equitably?",
+        "type": "mcq",
+        "o": [
+            "Fairness",
+            "Confidentiality",
+            "Professional competence",
+            "Professional behavior"
+        ]
+    },
+    {
+        "q": "Match the ethical threat with its description:",
+        "type": "match",
+        "left": [
+            "Self-interest",
+            "Self-review",
+            "Advocacy",
+            "Familiarity"
+        ],
+        "right": [
+            "Personal gain",
+            "Checking own work",
+            "Promoting position",
+            "Close relationships"
+        ]
+    },
+    {
+        "q": "Conflicts of interest should be ______ to affected parties.",
+        "type": "fill_blank",
+        "answers": [
+            "disclosed"
+        ],
+        "other_options": [
+            "hidden",
+            "ignored",
+            "promoted"
+        ]
+    },
+    {
+        "q": "Insider dealing uses non-public information for personal trading advantage.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of Chinese walls in financial institutions?",
+        "type": "mcq",
+        "o": [
+            "Prevent information flow between conflicting departments",
+            "Increase information sharing",
+            "Reduce compliance costs",
+            "Simplify organizational structure"
+        ]
+    },
+    {
+        "q": "Professional skepticism requires maintaining ______ mind.",
+        "type": "fill_blank",
+        "answers": [
+            "questioning"
+        ],
+        "other_options": [
+            "closed",
+            "accepting",
+            "passive"
+        ]
+    },
+    {
+        "q": "Rearrange the compliance framework elements:",
+        "type": "rearrange",
+        "words": [
+            "Policies",
+            "Procedures",
+            "Training",
+            "Monitoring",
+            "Reporting"
+        ]
+    },
+    {
+        "q": "Which body sets international auditing standards?",
+        "type": "mcq",
+        "o": [
+            "IAASB",
+            "FASB",
+            "SEC",
+            "FRC"
+        ]
+    },
+    {
+        "q": "Match the governance body with its function:",
+        "type": "match",
+        "left": [
+            "Board",
+            "Audit committee",
+            "Risk committee",
+            "Remuneration committee"
+        ],
+        "right": [
+            "Strategic oversight",
+            "Financial reporting",
+            "Risk appetite",
+            "Executive pay"
+        ]
+    },
+    {
+        "q": "Agency theory explains conflicts between ______ and agents.",
+        "type": "fill_blank",
+        "answers": [
+            "principals"
+        ],
+        "other_options": [
+            "competitors",
+            "customers",
+            "suppliers"
+        ]
+    },
+    {
+        "q": "Good corporate governance adds value through better decision-making and oversight.",
+        "type": "true_false",
+        "correct": "True"
     }
 ]

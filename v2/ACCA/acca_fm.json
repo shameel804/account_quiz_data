@@ -1,92 +1,6291 @@
 [
     {
         "q": "What is the primary financial objective of a company?",
+        "type": "mcq",
         "o": [
-            "To maximize shareholder wealth",
-            "To maximize market share",
-            "To minimize tax",
-            "To maximize employee salaries"
+            "Maximizing shareholder wealth",
+            "Maximizing profit",
+            "Minimizing costs",
+            "Maximizing revenue"
         ]
     },
     {
-        "q": "What is 'working capital'?",
-        "o": [
-            "Current Assets - Current Liabilities",
-            "Total Assets - Total Liabilities",
-            "Cash and Bank balances only",
-            "Inventory + Receivables"
+        "q": "The finance function is responsible for ______ decisions.",
+        "type": "fill_blank",
+        "answers": [
+            "investment"
+        ],
+        "other_options": [
+            "marketing",
+            "production",
+            "legal"
         ]
     },
     {
-        "q": "Which method of investment appraisal considers the time value of money?",
+        "q": "Financial management involves planning, organizing, and controlling financial resources.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is NOT a role of the financial manager?",
+        "type": "mcq",
+        "o": [
+            "Product design and development",
+            "Investment decisions",
+            "Financing decisions",
+            "Dividend decisions"
+        ]
+    },
+    {
+        "q": "Working capital is defined as:",
+        "type": "mcq",
+        "o": [
+            "Current assets minus current liabilities",
+            "Fixed assets minus long-term liabilities",
+            "Total assets minus total liabilities",
+            "Cash minus short-term debt"
+        ]
+    },
+    {
+        "q": "Match the financial decision with its description:",
+        "type": "match",
+        "left": [
+            "Investment decision",
+            "Financing decision",
+            "Dividend decision",
+            "Working capital decision"
+        ],
+        "right": [
+            "Capital allocation to projects",
+            "Choosing debt or equity",
+            "Profit distribution to shareholders",
+            "Managing short-term assets"
+        ]
+    },
+    {
+        "q": "NPV stands for Net ______ Value.",
+        "type": "fill_blank",
+        "answers": [
+            "Present"
+        ],
+        "other_options": [
+            "Profit",
+            "Principal",
+            "Periodic"
+        ]
+    },
+    {
+        "q": "A positive NPV indicates a project should be accepted.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is the most theoretically correct method of investment appraisal?",
+        "type": "mcq",
         "o": [
             "Net Present Value (NPV)",
             "Payback Period",
-            "Accounting Rate of Return (ARR)",
-            "Return on Capital Employed (ROCE)"
+            "Accounting Rate of Return",
+            "Profitability Index"
         ]
     },
     {
-        "q": "What is the 'Weighted Average Cost of Capital' (WACC)?",
+        "q": "What does WACC stand for?",
+        "type": "mcq",
         "o": [
-            "The average cost of financing a company's assets",
-            "The interest rate on bank loans",
-            "The return expected by shareholders",
-            "The cost of issuing new shares"
+            "Weighted Average Cost of Capital",
+            "Working Asset Capital Cost",
+            "Weighted Annual Capital Cost",
+            "Working Average Cost of Credit"
         ]
     },
     {
-        "q": "What does a positive NPV indicate?",
-        "o": [
-            "The project is expected to add value to the company",
-            "The project will make a loss",
-            "The project covers its costs exactly",
-            "The project should be rejected"
+        "q": "Rearrange the steps of the investment appraisal process:",
+        "type": "rearrange",
+        "words": [
+            "Identify opportunities",
+            "Estimate cash flows",
+            "Calculate NPV",
+            "Make decision"
         ]
     },
     {
-        "q": "What is 'factoring'?",
+        "q": "The payback period measures the time taken to recover the initial investment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Risk in financial management refers to:",
+        "type": "mcq",
         "o": [
-            "Selling accounts receivable to a third party for immediate cash",
-            "Manufacturing goods in a factory",
-            "Breaking down costs into factors",
-            "Calculating the factors of production"
+            "Uncertainty of future outcomes",
+            "Guaranteed losses",
+            "Past performance only",
+            "Fixed interest rates"
         ]
     },
     {
-        "q": "Which of the following is a source of long-term finance?",
-        "o": [
-            "Issuing Equity Shares",
-            "Bank Overdraft",
-            "Trade Credit",
-            "Factoring"
+        "q": "Currency risk is also known as ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "exchange rate"
+        ],
+        "other_options": [
+            "interest rate",
+            "credit",
+            "liquidity"
         ]
     },
     {
-        "q": "What is 'hedging' used for?",
+        "q": "Hedging is a strategy to eliminate or reduce risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a source of short-term finance?",
+        "type": "mcq",
         "o": [
-            "To reduce or manage financial risk",
-            "To increase speculation",
-            "To beautify the company premises",
-            "To ignore exchange rate fluctuations"
+            "Bank overdraft",
+            "Debentures",
+            "Ordinary shares",
+            "Retained earnings"
         ]
     },
     {
-        "q": "What is the 'EOQ' model used for?",
-        "o": [
-            "To determine the optimal order quantity to minimize inventory costs",
-            "To calculate the best selling price",
-            "To determine the economic life of an asset",
-            "To evaluate employee performance"
+        "q": "The cost of equity is typically ______ than the cost of debt.",
+        "type": "fill_blank",
+        "answers": [
+            "higher"
+        ],
+        "other_options": [
+            "lower",
+            "equal",
+            "unrelated"
         ]
     },
     {
-        "q": "What does 'gearing' (leverage) measure?",
-        "o": [
-            "The proportion of debt to equity in the capital structure",
-            "The speed of production",
-            "The efficiency of machinery",
-            "The growth rate of sales"
+        "q": "Match the term with its definition:",
+        "type": "match",
+        "left": [
+            "Liquidity",
+            "Profitability",
+            "Gearing",
+            "Efficiency"
+        ],
+        "right": [
+            "Ability to meet short-term obligations",
+            "Ability to generate returns",
+            "Proportion of debt financing",
+            "Effective use of resources"
         ]
+    },
+    {
+        "q": "IRR stands for Internal Rate of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Return"
+        ],
+        "other_options": [
+            "Revenue",
+            "Risk",
+            "Ratio"
+        ]
+    },
+    {
+        "q": "The IRR is the discount rate that makes NPV equal to zero.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which ratio measures a company's ability to pay short-term debts?",
+        "type": "mcq",
+        "o": [
+            "Current ratio",
+            "Debt-to-equity ratio",
+            "Return on equity",
+            "Price-earnings ratio"
+        ]
+    },
+    {
+        "q": "Trade receivables are an example of:",
+        "type": "mcq",
+        "o": [
+            "Current assets",
+            "Non-current assets",
+            "Current liabilities",
+            "Equity"
+        ]
+    },
+    {
+        "q": "The quick ratio excludes ______ from current assets.",
+        "type": "fill_blank",
+        "answers": [
+            "inventory"
+        ],
+        "other_options": [
+            "cash",
+            "receivables",
+            "prepayments"
+        ]
+    },
+    {
+        "q": "Match the working capital component with its example:",
+        "type": "match",
+        "left": [
+            "Cash",
+            "Receivables",
+            "Inventory",
+            "Payables"
+        ],
+        "right": [
+            "Bank balance",
+            "Customer owing money",
+            "Goods for resale",
+            "Supplier owed money"
+        ]
+    },
+    {
+        "q": "Overtrading occurs when a business expands too quickly without adequate financing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the formula for the current ratio?",
+        "type": "mcq",
+        "o": [
+            "Current assets / Current liabilities",
+            "Current liabilities / Current assets",
+            "Total assets / Total liabilities",
+            "Quick assets / Current liabilities"
+        ]
+    },
+    {
+        "q": "Opportunity cost is the benefit foregone from the next best alternative.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is NOT a characteristic of relevant cash flows?",
+        "type": "mcq",
+        "o": [
+            "Sunk costs",
+            "Future cash flows",
+            "Incremental cash flows",
+            "Opportunity costs"
+        ]
+    },
+    {
+        "q": "The time value of money concept states that money received today is worth ______ than money received in the future.",
+        "type": "fill_blank",
+        "answers": [
+            "more"
+        ],
+        "other_options": [
+            "less",
+            "the same",
+            "nothing"
+        ]
+    },
+    {
+        "q": "Discounting is the reverse of compounding.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What discount factor should be used for Year 0 cash flows?",
+        "type": "mcq",
+        "o": [
+            "1.000",
+            "0.909",
+            "0.826",
+            "0.500"
+        ]
+    },
+    {
+        "q": "A perpetuity is an annuity that continues ______.",
+        "type": "fill_blank",
+        "answers": [
+            "forever"
+        ],
+        "other_options": [
+            "for 10 years",
+            "for 5 years",
+            "for 20 years"
+        ]
+    },
+    {
+        "q": "Match the capital budgeting method with its advantage:",
+        "type": "match",
+        "left": [
+            "NPV",
+            "IRR",
+            "Payback",
+            "ARR"
+        ],
+        "right": [
+            "Considers time value and all cash flows",
+            "Provides a percentage return",
+            "Simple and focuses on liquidity",
+            "Uses accounting profits"
+        ]
+    },
+    {
+        "q": "The accounting rate of return uses accounting ______ rather than cash flows.",
+        "type": "fill_blank",
+        "answers": [
+            "profits"
+        ],
+        "other_options": [
+            "losses",
+            "revenues",
+            "expenses"
+        ]
+    },
+    {
+        "q": "Depreciation is a cash flow and should be included in NPV calculations.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which type of risk can be diversified away?",
+        "type": "mcq",
+        "o": [
+            "Unsystematic risk",
+            "Systematic risk",
+            "Market risk",
+            "Interest rate risk"
+        ]
+    },
+    {
+        "q": "Systematic risk is also called ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "market"
+        ],
+        "other_options": [
+            "specific",
+            "unique",
+            "diversifiable"
+        ]
+    },
+    {
+        "q": "Beta measures the sensitivity of a security's returns to market returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A beta of 1.5 means the stock is:",
+        "type": "mcq",
+        "o": [
+            "50% more volatile than the market",
+            "50% less volatile than the market",
+            "Equal to market volatility",
+            "Not correlated with the market"
+        ]
+    },
+    {
+        "q": "The CAPM formula calculates the required return on ______.",
+        "type": "fill_blank",
+        "answers": [
+            "equity"
+        ],
+        "other_options": [
+            "debt",
+            "assets",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "Rearrange the elements of the CAPM formula:",
+        "type": "rearrange",
+        "words": [
+            "Risk-free rate",
+            "Plus",
+            "Beta",
+            "Times",
+            "Market premium"
+        ]
+    },
+    {
+        "q": "What is the risk-free rate typically based on?",
+        "type": "mcq",
+        "o": [
+            "Government bond yields",
+            "Corporate bond yields",
+            "Stock market returns",
+            "Bank lending rates"
+        ]
+    },
+    {
+        "q": "The market risk premium is the difference between market return and risk-free rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a source of long-term finance?",
+        "type": "mcq",
+        "o": [
+            "Ordinary share capital",
+            "Trade payables",
+            "Bank overdraft",
+            "Accrued expenses"
+        ]
+    },
+    {
+        "q": "Preference shares have a ______ dividend rate.",
+        "type": "fill_blank",
+        "answers": [
+            "fixed"
+        ],
+        "other_options": [
+            "variable",
+            "zero",
+            "negative"
+        ]
+    },
+    {
+        "q": "Match the source of finance with its characteristic:",
+        "type": "match",
+        "left": [
+            "Ordinary shares",
+            "Preference shares",
+            "Debentures",
+            "Bank loan"
+        ],
+        "right": [
+            "Variable dividends",
+            "Fixed dividends",
+            "Interest payments",
+            "Secured borrowing"
+        ]
+    },
+    {
+        "q": "Debenture holders are creditors of the company.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following has the highest risk for investors?",
+        "type": "mcq",
+        "o": [
+            "Ordinary shares",
+            "Preference shares",
+            "Debentures",
+            "Government bonds"
+        ]
+    },
+    {
+        "q": "Gearing measures the proportion of ______ in the capital structure.",
+        "type": "fill_blank",
+        "answers": [
+            "debt"
+        ],
+        "other_options": [
+            "equity",
+            "cash",
+            "assets"
+        ]
+    },
+    {
+        "q": "High gearing increases financial risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is financial leverage?",
+        "type": "mcq",
+        "o": [
+            "Use of fixed-cost financing",
+            "Use of variable-cost financing",
+            "Reduction of all debt",
+            "Elimination of equity"
+        ]
+    },
+    {
+        "q": "The dividend valuation model values shares based on expected future ______.",
+        "type": "fill_blank",
+        "answers": [
+            "dividends"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "assets"
+        ]
+    },
+    {
+        "q": "Gordon's growth model assumes dividends grow at a constant rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In the dividend growth model, if g exceeds r, the model:",
+        "type": "mcq",
+        "o": [
+            "Breaks down and cannot be used",
+            "Gives a higher share value",
+            "Gives zero share value",
+            "Works normally"
+        ]
+    },
+    {
+        "q": "Match the cost of capital component with its formula basis:",
+        "type": "match",
+        "left": [
+            "Cost of equity",
+            "Cost of debt",
+            "Cost of preference shares",
+            "WACC"
+        ],
+        "right": [
+            "CAPM or DVM",
+            "Interest rate adjusted for tax",
+            "Fixed dividend / market price",
+            "Weighted average of all sources"
+        ]
+    },
+    {
+        "q": "The cost of debt is usually calculated ______ of tax.",
+        "type": "fill_blank",
+        "answers": [
+            "net"
+        ],
+        "other_options": [
+            "gross",
+            "before",
+            "regardless"
+        ]
+    },
+    {
+        "q": "Interest on debt is tax deductible, creating a tax shield.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the tax shield on interest payments?",
+        "type": "mcq",
+        "o": [
+            "Interest x Tax rate",
+            "Interest / Tax rate",
+            "Principal x Tax rate",
+            "Profit x Tax rate"
+        ]
+    },
+    {
+        "q": "WACC should be used as the discount rate when project risk equals company risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the steps to calculate WACC:",
+        "type": "rearrange",
+        "words": [
+            "Calculate Ke",
+            "Calculate Kd",
+            "Find weights",
+            "Apply formula"
+        ]
+    },
+    {
+        "q": "Which method of valuation uses market values of debt and equity?",
+        "type": "mcq",
+        "o": [
+            "WACC calculation",
+            "Book value method",
+            "Historical cost method",
+            "Replacement cost method"
+        ]
+    },
+    {
+        "q": "The operating cycle is also known as the ______ cycle.",
+        "type": "fill_blank",
+        "answers": [
+            "cash"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "sales"
+        ]
+    },
+    {
+        "q": "The cash operating cycle is the time from paying suppliers to receiving cash from customers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is included in calculating the cash operating cycle?",
+        "type": "mcq",
+        "o": [
+            "Inventory days + Receivables days - Payables days",
+            "Inventory days - Receivables days + Payables days",
+            "Receivables days only",
+            "Payables days only"
+        ]
+    },
+    {
+        "q": "A shorter cash operating cycle generally indicates better working capital management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the working capital policy with its characteristic:",
+        "type": "match",
+        "left": [
+            "Aggressive",
+            "Conservative",
+            "Moderate",
+            "Matching"
+        ],
+        "right": [
+            "Low liquidity high profitability",
+            "High liquidity low profitability",
+            "Balance of both",
+            "Match asset and liability duration"
+        ]
+    },
+    {
+        "q": "EOQ stands for Economic ______ Quantity.",
+        "type": "fill_blank",
+        "answers": [
+            "Order"
+        ],
+        "other_options": [
+            "Optimal",
+            "Operating",
+            "Original"
+        ]
+    },
+    {
+        "q": "The EOQ model minimizes total inventory costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which costs does the EOQ model consider?",
+        "type": "mcq",
+        "o": [
+            "Ordering costs and holding costs",
+            "Purchase costs only",
+            "Selling costs only",
+            "Production costs only"
+        ]
+    },
+    {
+        "q": "The reorder level is calculated as lead time demand plus ______ stock.",
+        "type": "fill_blank",
+        "answers": [
+            "safety"
+        ],
+        "other_options": [
+            "minimum",
+            "maximum",
+            "average"
+        ]
+    },
+    {
+        "q": "JIT inventory management aims for zero inventory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does JIT stand for?",
+        "type": "mcq",
+        "o": [
+            "Just In Time",
+            "Just In Transit",
+            "Joint Investment Trust",
+            "Junior Investment Team"
+        ]
+    },
+    {
+        "q": "Trade credit is a source of ______ finance.",
+        "type": "fill_blank",
+        "answers": [
+            "short-term"
+        ],
+        "other_options": [
+            "long-term",
+            "permanent",
+            "external"
+        ]
+    },
+    {
+        "q": "Factoring involves selling receivables to a third party.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is NOT a benefit of factoring?",
+        "type": "mcq",
+        "o": [
+            "Increased customer loyalty",
+            "Improved cash flow",
+            "Credit management outsourcing",
+            "Protection against bad debts"
+        ]
+    },
+    {
+        "q": "Match the credit management term with its definition:",
+        "type": "match",
+        "left": [
+            "Credit period",
+            "Cash discount",
+            "Credit limit",
+            "Collection period"
+        ],
+        "right": [
+            "Time allowed for payment",
+            "Reduction for early payment",
+            "Maximum credit allowed",
+            "Average time to collect"
+        ]
+    },
+    {
+        "q": "Invoice discounting maintains the company's ______ over credit control.",
+        "type": "fill_blank",
+        "answers": [
+            "control"
+        ],
+        "other_options": [
+            "loss",
+            "confusion",
+            "ignorance"
+        ]
+    },
+    {
+        "q": "Forward contracts fix the exchange rate for a future transaction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a derivative instrument used for hedging?",
+        "type": "mcq",
+        "o": [
+            "Options",
+            "Ordinary shares",
+            "Preference shares",
+            "Retained earnings"
+        ]
+    },
+    {
+        "q": "A call option gives the holder the right to ______ an asset.",
+        "type": "fill_blank",
+        "answers": [
+            "buy"
+        ],
+        "other_options": [
+            "sell",
+            "lease",
+            "destroy"
+        ]
+    },
+    {
+        "q": "A put option gives the holder the right to sell an asset.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the option term with its meaning:",
+        "type": "match",
+        "left": [
+            "Call option",
+            "Put option",
+            "Strike price",
+            "Premium"
+        ],
+        "right": [
+            "Right to buy",
+            "Right to sell",
+            "Exercise price",
+            "Cost of option"
+        ]
+    },
+    {
+        "q": "Futures contracts are standardized and traded on ______.",
+        "type": "fill_blank",
+        "answers": [
+            "exchanges"
+        ],
+        "other_options": [
+            "streets",
+            "websites",
+            "banks"
+        ]
+    },
+    {
+        "q": "Forward contracts are traded on organized exchanges.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the main difference between forwards and futures?",
+        "type": "mcq",
+        "o": [
+            "Futures are standardized and exchange-traded",
+            "Forwards are standardized and exchange-traded",
+            "There is no difference",
+            "Futures are always cheaper"
+        ]
+    },
+    {
+        "q": "Interest rate swaps exchange ______ for floating rate interest.",
+        "type": "fill_blank",
+        "answers": [
+            "fixed"
+        ],
+        "other_options": [
+            "zero",
+            "negative",
+            "variable"
+        ]
+    },
+    {
+        "q": "Currency swaps involve exchanging principal and interest in different currencies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Transaction exposure relates to:",
+        "type": "mcq",
+        "o": [
+            "Committed cash flows in foreign currency",
+            "Translation of foreign subsidiaries",
+            "Long-term competitive position",
+            "Domestic sales only"
+        ]
+    },
+    {
+        "q": "Translation exposure affects the ______ value of foreign subsidiaries.",
+        "type": "fill_blank",
+        "answers": [
+            "book"
+        ],
+        "other_options": [
+            "market",
+            "real",
+            "hidden"
+        ]
+    },
+    {
+        "q": "Economic exposure affects long-term competitive position.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the type of foreign exchange exposure with its description:",
+        "type": "match",
+        "left": [
+            "Transaction",
+            "Translation",
+            "Economic",
+            "Operating"
+        ],
+        "right": [
+            "Short-term cash flow",
+            "Accounting consolidation",
+            "Long-term competitive",
+            "Day-to-day operations"
+        ]
+    },
+    {
+        "q": "Rearrange the hierarchy of financial objectives:",
+        "type": "rearrange",
+        "words": [
+            "Mission",
+            "Objectives",
+            "Strategy",
+            "Tactics"
+        ]
+    },
+    {
+        "q": "Which is NOT a stakeholder of a company?",
+        "type": "mcq",
+        "o": [
+            "Competitors seeking to destroy the company",
+            "Shareholders",
+            "Employees",
+            "Customers"
+        ]
+    },
+    {
+        "q": "Agency theory addresses conflicts between ______ and managers.",
+        "type": "fill_blank",
+        "answers": [
+            "shareholders"
+        ],
+        "other_options": [
+            "employees",
+            "customers",
+            "suppliers"
+        ]
+    },
+    {
+        "q": "Agency costs arise from the separation of ownership and control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an example of an agency cost?",
+        "type": "mcq",
+        "o": [
+            "Monitoring costs",
+            "Raw material costs",
+            "Direct labor costs",
+            "Utility costs"
+        ]
+    },
+    {
+        "q": "Corporate governance ensures accountability and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transparency"
+        ],
+        "other_options": [
+            "secrecy",
+            "complexity",
+            "confusion"
+        ]
+    },
+    {
+        "q": "The board of directors represents shareholder interests.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the dividend policy considerations from most to least important:",
+        "type": "rearrange",
+        "words": [
+            "Legal constraints",
+            "Liquidity",
+            "Growth opportunities",
+            "Shareholder preferences"
+        ]
+    },
+    {
+        "q": "Which dividend policy pays a stable amount per share?",
+        "type": "mcq",
+        "o": [
+            "Constant dividend policy",
+            "Residual dividend policy",
+            "Progressive dividend policy",
+            "Zero dividend policy"
+        ]
+    },
+    {
+        "q": "The residual dividend theory suggests dividends are paid from ______ earnings.",
+        "type": "fill_blank",
+        "answers": [
+            "leftover"
+        ],
+        "other_options": [
+            "all",
+            "borrowed",
+            "projected"
+        ]
+    },
+    {
+        "q": "Miller and Modigliani argued that dividend policy is irrelevant in a perfect market.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a scrip dividend?",
+        "type": "mcq",
+        "o": [
+            "Dividend paid in shares instead of cash",
+            "Dividend paid in bonds",
+            "Dividend paid to preferred shareholders only",
+            "Dividend paid quarterly"
+        ]
+    },
+    {
+        "q": "A share buyback reduces the number of shares in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "circulation"
+        ],
+        "other_options": [
+            "value",
+            "profit",
+            "dividend"
+        ]
+    },
+    {
+        "q": "Match the dividend concept with its description:",
+        "type": "match",
+        "left": [
+            "Ex-dividend date",
+            "Record date",
+            "Payment date",
+            "Declaration date"
+        ],
+        "right": [
+            "Share trades without dividend",
+            "Shareholders on register",
+            "Dividend distributed",
+            "Board announces dividend"
+        ]
+    },
+    {
+        "q": "The bird-in-hand theory suggests investors prefer current dividends over future capital gains.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Dividend cover is calculated as:",
+        "type": "mcq",
+        "o": [
+            "Earnings per share / Dividend per share",
+            "Dividend per share / Earnings per share",
+            "Net profit / Total dividends",
+            "Dividends / Net assets"
+        ]
+    },
+    {
+        "q": "A high dividend cover indicates the company can easily afford its dividend payments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The signaling effect of dividends refers to information conveyed to the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "market"
+        ],
+        "other_options": [
+            "board",
+            "employees",
+            "suppliers"
+        ]
+    },
+    {
+        "q": "Which factor does NOT influence a company's dividend policy?",
+        "type": "mcq",
+        "o": [
+            "Competitor's product quality",
+            "Legal restrictions",
+            "Liquidity position",
+            "Future investment needs"
+        ]
+    },
+    {
+        "q": "Rearrange the steps of paying a dividend:",
+        "type": "rearrange",
+        "words": [
+            "Declaration",
+            "Ex-dividend",
+            "Record date",
+            "Payment"
+        ]
+    },
+    {
+        "q": "A bonus issue increases the number of shares but not the total value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the ex-rights price?",
+        "type": "mcq",
+        "o": [
+            "Theoretical share price after a rights issue",
+            "Price before the rights issue",
+            "Price of rights sold separately",
+            "Original issue price"
+        ]
+    },
+    {
+        "q": "Rights issues allow existing shareholders to buy new shares at a ______ price.",
+        "type": "fill_blank",
+        "answers": [
+            "discounted"
+        ],
+        "other_options": [
+            "premium",
+            "market",
+            "fixed"
+        ]
+    },
+    {
+        "q": "Match the share issue type with its feature:",
+        "type": "match",
+        "left": [
+            "Rights issue",
+            "Bonus issue",
+            "IPO",
+            "Private placement"
+        ],
+        "right": [
+            "Discounted to existing holders",
+            "Free shares from reserves",
+            "First public offering",
+            "Sold to selected investors"
+        ]
+    },
+    {
+        "q": "Convertible bonds can be converted into ______ shares.",
+        "type": "fill_blank",
+        "answers": [
+            "ordinary"
+        ],
+        "other_options": [
+            "preference",
+            "treasury",
+            "deferred"
+        ]
+    },
+    {
+        "q": "Warrants give the holder the right, but not obligation, to buy shares.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an advantage of leasing over purchasing?",
+        "type": "mcq",
+        "o": [
+            "Preserves cash and borrowing capacity",
+            "Always cheaper than buying",
+            "No maintenance required",
+            "Ownership of asset"
+        ]
+    },
+    {
+        "q": "An operating lease is typically ______ than a finance lease.",
+        "type": "fill_blank",
+        "answers": [
+            "shorter"
+        ],
+        "other_options": [
+            "longer",
+            "cheaper",
+            "riskier"
+        ]
+    },
+    {
+        "q": "Under a finance lease, the lessee bears most of the risks and rewards of ownership.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is venture capital?",
+        "type": "mcq",
+        "o": [
+            "Funding for high-growth startups in exchange for equity",
+            "Government grants for small businesses",
+            "Bank loans for established companies",
+            "Bond issuance for expansion"
+        ]
+    },
+    {
+        "q": "Match the financing source with its typical user:",
+        "type": "match",
+        "left": [
+            "Bank overdraft",
+            "Venture capital",
+            "Bonds",
+            "Trade credit"
+        ],
+        "right": [
+            "Short-term cash needs",
+            "Early-stage startups",
+            "Large corporations",
+            "Routine purchases"
+        ]
+    },
+    {
+        "q": "Crowdfunding raises capital from many small ______.",
+        "type": "fill_blank",
+        "answers": [
+            "investors"
+        ],
+        "other_options": [
+            "banks",
+            "governments",
+            "competitors"
+        ]
+    },
+    {
+        "q": "Islamic finance prohibits interest payments (riba).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a Sukuk?",
+        "type": "mcq",
+        "o": [
+            "Islamic bond representing ownership in assets",
+            "Conventional corporate bond",
+            "Government treasury bill",
+            "Short-term money market instrument"
+        ]
+    },
+    {
+        "q": "Sensitivitiy analysis tests the effect of changing ______ variable at a time.",
+        "type": "fill_blank",
+        "answers": [
+            "one"
+        ],
+        "other_options": [
+            "all",
+            "no",
+            "two"
+        ]
+    },
+    {
+        "q": "Sensitivity analysis helps identify which variables most affect project viability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does scenario analysis examine?",
+        "type": "mcq",
+        "o": [
+            "Effect of simultaneous changes in multiple variables",
+            "Effect of changing one variable only",
+            "Historical project outcomes",
+            "Competitor analysis"
+        ]
+    },
+    {
+        "q": "Match the risk analysis technique with its description:",
+        "type": "match",
+        "left": [
+            "Sensitivity analysis",
+            "Scenario analysis",
+            "Simulation",
+            "Decision trees"
+        ],
+        "right": [
+            "Change one variable",
+            "Multiple variable changes",
+            "Monte Carlo method",
+            "Sequential decisions"
+        ]
+    },
+    {
+        "q": "Monte Carlo simulation uses ______ sampling to model uncertainty.",
+        "type": "fill_blank",
+        "answers": [
+            "random"
+        ],
+        "other_options": [
+            "fixed",
+            "biased",
+            "systematic"
+        ]
+    },
+    {
+        "q": "Expected value is calculated as probability times outcome, summed across all possibilities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A decision tree helps visualize:",
+        "type": "mcq",
+        "o": [
+            "Sequential decisions and their outcomes",
+            "Historical financial data",
+            "Balance sheet structure",
+            "Cash flow timing only"
+        ]
+    },
+    {
+        "q": "The coefficient of variation is the ratio of standard deviation to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "mean"
+        ],
+        "other_options": [
+            "median",
+            "mode",
+            "variance"
+        ]
+    },
+    {
+        "q": "Rearrange the steps of decision tree analysis:",
+        "type": "rearrange",
+        "words": [
+            "Draw tree",
+            "Assign probabilities",
+            "Calculate EV",
+            "Select best path"
+        ]
+    },
+    {
+        "q": "Standard deviation measures the dispersion of returns around the mean.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Variance is the square of:",
+        "type": "mcq",
+        "o": [
+            "Standard deviation",
+            "Mean",
+            "Median",
+            "Mode"
+        ]
+    },
+    {
+        "q": "The breakeven point in investment appraisal is where NPV equals ______.",
+        "type": "fill_blank",
+        "answers": [
+            "zero"
+        ],
+        "other_options": [
+            "maximum",
+            "minimum",
+            "infinity"
+        ]
+    },
+    {
+        "q": "Sensitivity margin shows how much a variable can change before NPV becomes negative.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which represents the highest level of business risk?",
+        "type": "mcq",
+        "o": [
+            "High operating leverage with variable demand",
+            "Low operating leverage with stable demand",
+            "No fixed costs",
+            "Government contracts"
+        ]
+    },
+    {
+        "q": "Operating leverage relates to the proportion of ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "fixed"
+        ],
+        "other_options": [
+            "variable",
+            "total",
+            "marginal"
+        ]
+    },
+    {
+        "q": "High operating leverage amplifies changes in profit due to sales changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the leverage type with its driver:",
+        "type": "match",
+        "left": [
+            "Operating leverage",
+            "Financial leverage",
+            "Combined leverage",
+            "Degree of leverage"
+        ],
+        "right": [
+            "Fixed operating costs",
+            "Fixed financing costs",
+            "Both operating and financial",
+            "Percentage change measure"
+        ]
+    },
+    {
+        "q": "The degree of operating leverage is calculated at a specific ______ level.",
+        "type": "fill_blank",
+        "answers": [
+            "sales"
+        ],
+        "other_options": [
+            "cost",
+            "profit",
+            "asset"
+        ]
+    },
+    {
+        "q": "Financial distress costs increase with higher levels of debt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the trade-off theory of capital structure?",
+        "type": "mcq",
+        "o": [
+            "Balancing tax benefits of debt against bankruptcy costs",
+            "Choosing only equity financing",
+            "Minimizing all forms of financing",
+            "Ignoring capital structure effects"
+        ]
+    },
+    {
+        "q": "According to MM with taxes, the optimal capital structure is ______ debt.",
+        "type": "fill_blank",
+        "answers": [
+            "100%"
+        ],
+        "other_options": [
+            "0%",
+            "50%",
+            "25%"
+        ]
+    },
+    {
+        "q": "Pecking order theory suggests companies prefer internal financing first.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the pecking order of financing preferences:",
+        "type": "rearrange",
+        "words": [
+            "Retained earnings",
+            "Debt",
+            "Equity"
+        ]
+    },
+    {
+        "q": "Which is NOT a capital structure theory?",
+        "type": "mcq",
+        "o": [
+            "Efficient market hypothesis",
+            "Traditional theory",
+            "MM with taxes",
+            "Pecking order theory"
+        ]
+    },
+    {
+        "q": "Asset beta measures business risk without the effects of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "gearing"
+        ],
+        "other_options": [
+            "sales",
+            "costs",
+            "taxes"
+        ]
+    },
+    {
+        "q": "Equity beta is higher than asset beta when there is financial gearing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the formula to ungear beta?",
+        "type": "mcq",
+        "o": [
+            "Beta asset = Beta equity x E / (E + D(1-T))",
+            "Beta asset = Beta equity x D / E",
+            "Beta asset = Beta equity + Debt ratio",
+            "Beta asset = Beta equity / Gearing"
+        ]
+    },
+    {
+        "q": "When using CAPM for project appraisal with different risk, you should use the project's ______ beta.",
+        "type": "fill_blank",
+        "answers": [
+            "asset"
+        ],
+        "other_options": [
+            "equity",
+            "market",
+            "debt"
+        ]
+    },
+    {
+        "q": "Match the beta adjustment with its purpose:",
+        "type": "match",
+        "left": [
+            "Ungearing",
+            "Regearing",
+            "Risk adjustment",
+            "WACC calculation"
+        ],
+        "right": [
+            "Remove financial risk",
+            "Add financial risk",
+            "Account for project risk",
+            "Weighted cost"
+        ]
+    },
+    {
+        "q": "The Miller-Orr model is used for cash management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does the Miller-Orr model determine?",
+        "type": "mcq",
+        "o": [
+            "Upper and lower cash limits for investing or borrowing",
+            "Optimal inventory levels",
+            "Credit policy parameters",
+            "Share valuation"
+        ]
+    },
+    {
+        "q": "The Baumol model treats cash as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inventory"
+        ],
+        "other_options": [
+            "debt",
+            "equity",
+            "profit"
+        ]
+    },
+    {
+        "q": "The Baumol model assumes cash flows are predictable and constant.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the cash management model with its assumption:",
+        "type": "match",
+        "left": [
+            "Baumol model",
+            "Miller-Orr model",
+            "Stone model",
+            "Simple target balance"
+        ],
+        "right": [
+            "Certain cash flows",
+            "Uncertain cash flows",
+            "Look-ahead feature",
+            "Fixed cash level"
+        ]
+    },
+    {
+        "q": "Treasury management includes managing ______, funding, and risk.",
+        "type": "fill_blank",
+        "answers": [
+            "cash"
+        ],
+        "other_options": [
+            "inventory",
+            "payroll",
+            "marketing"
+        ]
+    },
+    {
+        "q": "Centralized treasury provides better control but may reduce local responsiveness.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is netting in treasury management?",
+        "type": "mcq",
+        "o": [
+            "Offsetting receivables and payables between group companies",
+            "Calculating net profit",
+            "Finding net asset value",
+            "Measuring net cash flow"
+        ]
+    },
+    {
+        "q": "Pooling concentrates group cash balances in a ______ account.",
+        "type": "fill_blank",
+        "answers": [
+            "central"
+        ],
+        "other_options": [
+            "separate",
+            "foreign",
+            "dormant"
+        ]
+    },
+    {
+        "q": "Rearrange the treasury functions by hierarchy:",
+        "type": "rearrange",
+        "words": [
+            "Policy setting",
+            "Cash forecasting",
+            "Daily operations",
+            "Reporting"
+        ]
+    },
+    {
+        "q": "The yield curve shows the relationship between interest rates and:",
+        "type": "mcq",
+        "o": [
+            "Time to maturity",
+            "Credit risk",
+            "Currency type",
+            "Inflation rate"
+        ]
+    },
+    {
+        "q": "A normal yield curve is upward ______.",
+        "type": "fill_blank",
+        "answers": [
+            "sloping"
+        ],
+        "other_options": [
+            "flat",
+            "inverted",
+            "curved"
+        ]
+    },
+    {
+        "q": "An inverted yield curve often predicts an economic recession.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the yield curve shape with its economic implication:",
+        "type": "match",
+        "left": [
+            "Normal",
+            "Flat",
+            "Inverted",
+            "Humped"
+        ],
+        "right": [
+            "Economic growth expected",
+            "Uncertainty about direction",
+            "Recession expected",
+            "Mixed expectations"
+        ]
+    },
+    {
+        "q": "The expectations theory suggests long-term rates reflect expected future ______ rates.",
+        "type": "fill_blank",
+        "answers": [
+            "short-term"
+        ],
+        "other_options": [
+            "long-term",
+            "fixed",
+            "zero"
+        ]
+    },
+    {
+        "q": "Liquidity preference theory adds a premium for holding longer-term bonds.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the spot rate?",
+        "type": "mcq",
+        "o": [
+            "Rate for immediate delivery",
+            "Rate for future delivery",
+            "Average historical rate",
+            "Central bank rate"
+        ]
+    },
+    {
+        "q": "The forward rate is the rate agreed today for a transaction in the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "future"
+        ],
+        "other_options": [
+            "past",
+            "present",
+            "never"
+        ]
+    },
+    {
+        "q": "Interest rate parity links forward rates to interest rate differentials between countries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the foreign exchange concept with its definition:",
+        "type": "match",
+        "left": [
+            "Spot rate",
+            "Forward rate",
+            "Cross rate",
+            "Bid-ask spread"
+        ],
+        "right": [
+            "Current exchange rate",
+            "Future exchange rate",
+            "Rate between two non-USD currencies",
+            "Difference between buy and sell rates"
+        ]
+    },
+    {
+        "q": "Purchasing power parity (PPP) links exchange rates to relative ______ levels.",
+        "type": "fill_blank",
+        "answers": [
+            "price"
+        ],
+        "other_options": [
+            "income",
+            "tax",
+            "interest"
+        ]
+    },
+    {
+        "q": "According to PPP, currencies of countries with higher inflation will depreciate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The Fisher effect relates nominal interest rates to:",
+        "type": "mcq",
+        "o": [
+            "Real interest rates and inflation",
+            "Exchange rates only",
+            "GDP growth",
+            "Unemployment rates"
+        ]
+    },
+    {
+        "q": "The international Fisher effect combines the Fisher effect with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "PPP"
+        ],
+        "other_options": [
+            "CAPM",
+            "NPV",
+            "IRR"
+        ]
+    },
+    {
+        "q": "Rearrange the parity relationships from domestic to international:",
+        "type": "rearrange",
+        "words": [
+            "Fisher effect",
+            "PPP",
+            "IRP",
+            "IFE"
+        ]
+    },
+    {
+        "q": "Leading payment means paying early to benefit from exchange rate movements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is lagging in foreign exchange management?",
+        "type": "mcq",
+        "o": [
+            "Delaying payments to benefit from expected exchange rate changes",
+            "Speeding up payments",
+            "Hedging with options",
+            "Using forward contracts"
+        ]
+    },
+    {
+        "q": "Matching assets and liabilities in the same currency is a form of ______ hedging.",
+        "type": "fill_blank",
+        "answers": [
+            "natural"
+        ],
+        "other_options": [
+            "artificial",
+            "derivative",
+            "complex"
+        ]
+    },
+    {
+        "q": "A money market hedge uses borrowing and lending to hedge currency exposure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the hedging technique with its mechanism:",
+        "type": "match",
+        "left": [
+            "Forward contract",
+            "Money market hedge",
+            "Currency option",
+            "Natural hedge"
+        ],
+        "right": [
+            "Lock in future rate",
+            "Borrow and lend",
+            "Right but not obligation",
+            "Match currency flows"
+        ]
+    },
+    {
+        "q": "An in-the-money call option has a strike price ______ than the market price.",
+        "type": "fill_blank",
+        "answers": [
+            "lower"
+        ],
+        "other_options": [
+            "higher",
+            "equal",
+            "unrelated"
+        ]
+    },
+    {
+        "q": "An out-of-the-money put option has a strike price below the market price.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the intrinsic value of an option?",
+        "type": "mcq",
+        "o": [
+            "Difference between market price and strike price if in the money",
+            "Total premium paid",
+            "Time value only",
+            "Transaction cost"
+        ]
+    },
+    {
+        "q": "Time value of an option is highest when the option is at the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "money"
+        ],
+        "other_options": [
+            "start",
+            "end",
+            "margin"
+        ]
+    },
+    {
+        "q": "European options can only be exercised at expiration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "American options can be exercised:",
+        "type": "mcq",
+        "o": [
+            "At any time before or at expiration",
+            "Only at expiration",
+            "Never",
+            "Only in America"
+        ]
+    },
+    {
+        "q": "Match the option type with its exercise feature:",
+        "type": "match",
+        "left": [
+            "European",
+            "American",
+            "Bermudan",
+            "Asian"
+        ],
+        "right": [
+            "Expiry only",
+            "Anytime",
+            "Specific dates",
+            "Average price"
+        ]
+    },
+    {
+        "q": "A collar strategy combines buying a put and selling a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "call"
+        ],
+        "other_options": [
+            "bond",
+            "share",
+            "warrant"
+        ]
+    },
+    {
+        "q": "A cap limits the maximum interest rate a borrower will pay.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a floor in interest rate management?",
+        "type": "mcq",
+        "o": [
+            "Minimum interest rate received by a lender",
+            "Maximum interest rate paid",
+            "Average interest rate",
+            "Fixed interest rate"
+        ]
+    },
+    {
+        "q": "Rearrange the components of option premium:",
+        "type": "rearrange",
+        "words": [
+            "Intrinsic value",
+            "Plus",
+            "Time value"
+        ]
+    },
+    {
+        "q": "An interest rate swap involves exchanging fixed for ______ rate payments.",
+        "type": "fill_blank",
+        "answers": [
+            "floating"
+        ],
+        "other_options": [
+            "zero",
+            "negative",
+            "compound"
+        ]
+    },
+    {
+        "q": "The notional principal in a swap is actually exchanged between parties.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is a FRA (Forward Rate Agreement)?",
+        "type": "mcq",
+        "o": [
+            "Agreement to fix interest rate for a future period",
+            "Agreement to buy shares",
+            "Foreign currency contract",
+            "Stock option agreement"
+        ]
+    },
+    {
+        "q": "A basis swap involves exchanging two ______ rate benchmarks.",
+        "type": "fill_blank",
+        "answers": [
+            "floating"
+        ],
+        "other_options": [
+            "fixed",
+            "zero",
+            "negative"
+        ]
+    },
+    {
+        "q": "Match the interest rate derivative with its use:",
+        "type": "match",
+        "left": [
+            "FRA",
+            "Interest rate swap",
+            "Cap",
+            "Swaption"
+        ],
+        "right": [
+            "Lock in future rate",
+            "Exchange fixed for floating",
+            "Limit maximum rate",
+            "Option on a swap"
+        ]
+    },
+    {
+        "q": "A swaption gives the right to enter into an interest rate swap.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is NOT a benefit of using derivatives?",
+        "type": "mcq",
+        "o": [
+            "Guaranteed elimination of all risk",
+            "Risk management flexibility",
+            "Cost-effective hedging",
+            "Customization of exposure"
+        ]
+    },
+    {
+        "q": "Basis risk occurs when the hedge instrument and underlying exposure are not perfectly ______.",
+        "type": "fill_blank",
+        "answers": [
+            "correlated"
+        ],
+        "other_options": [
+            "matched",
+            "timed",
+            "priced"
+        ]
+    },
+    {
+        "q": "Over-hedging can create speculative positions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the main disadvantage of forward contracts compared to futures?",
+        "type": "mcq",
+        "o": [
+            "Counterparty risk",
+            "Standardization",
+            "Exchange trading",
+            "Daily settlement"
+        ]
+    },
+    {
+        "q": "Margin is required when trading ______ contracts.",
+        "type": "fill_blank",
+        "answers": [
+            "futures"
+        ],
+        "other_options": [
+            "forward",
+            "spot",
+            "cash"
+        ]
+    },
+    {
+        "q": "Marking to market adjusts futures positions daily based on price changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the derivative characteristic with the instrument:",
+        "type": "match",
+        "left": [
+            "Standardized",
+            "Customizable",
+            "Exchange-traded",
+            "OTC"
+        ],
+        "right": [
+            "Futures",
+            "Forwards",
+            "Futures",
+            "Forwards"
+        ]
+    },
+    {
+        "q": "The tick size is the minimum price movement in a ______ contract.",
+        "type": "fill_blank",
+        "answers": [
+            "futures"
+        ],
+        "other_options": [
+            "spot",
+            "equity",
+            "bond"
+        ]
+    },
+    {
+        "q": "A company should hedge 100% of all exposures at all times.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which factor should influence the hedging decision?",
+        "type": "mcq",
+        "o": [
+            "Cost-benefit analysis of hedging",
+            "Always hedge everything",
+            "Never hedge anything",
+            "Ignore risk entirely"
+        ]
+    },
+    {
+        "q": "A 3x6 FRA covers a period starting in ______ months for 3 months.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "6",
+            "9",
+            "12"
+        ]
+    },
+    {
+        "q": "The settlement amount of a FRA is paid at the start of the interest period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of discounting the FRA settlement amount?",
+        "type": "mcq",
+        "o": [
+            "Because settlement occurs at start of period rather than end",
+            "To increase the payment amount",
+            "For tax purposes",
+            "To match accounting periods"
+        ]
+    },
+    {
+        "q": "A company borrowing at LIBOR + 2% can hedge using a FRA that fixes ______.",
+        "type": "fill_blank",
+        "answers": [
+            "LIBOR"
+        ],
+        "other_options": [
+            "the spread",
+            "total rate",
+            "margin"
+        ]
+    },
+    {
+        "q": "Match the FRA notation with its meaning:",
+        "type": "match",
+        "left": [
+            "3x6",
+            "6x9",
+            "1x4",
+            "6x12"
+        ],
+        "right": [
+            "Starts month 3, 3-month period",
+            "Starts month 6, 3-month period",
+            "Starts month 1, 3-month period",
+            "Starts month 6, 6-month period"
+        ]
+    },
+    {
+        "q": "Interest rate futures are standardized contracts traded on exchanges.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The contract size for short sterling futures is:",
+        "type": "mcq",
+        "o": [
+            "500,000 pounds",
+            "1,000,000 pounds",
+            "100,000 pounds",
+            "250,000 pounds"
+        ]
+    },
+    {
+        "q": "Futures prices are quoted as 100 minus the ______ rate.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "exchange",
+            "inflation",
+            "growth"
+        ]
+    },
+    {
+        "q": "A borrower wanting to hedge rising interest rates should sell interest rate futures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the steps of a futures hedge:",
+        "type": "rearrange",
+        "words": [
+            "Calculate contracts",
+            "Open position",
+            "Wait for exposure",
+            "Close position"
+        ]
+    },
+    {
+        "q": "The number of futures contracts needed is exposure divided by contract size.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does closing out a futures position mean?",
+        "type": "mcq",
+        "o": [
+            "Taking an opposite position to offset the original",
+            "Holding until physical delivery",
+            "Defaulting on the contract",
+            "Transferring to another party"
+        ]
+    },
+    {
+        "q": "The efficiency of a futures hedge depends on the presence of ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "basis"
+        ],
+        "other_options": [
+            "market",
+            "credit",
+            "operational"
+        ]
+    },
+    {
+        "q": "Match the hedge action with the interest rate view:",
+        "type": "match",
+        "left": [
+            "Buy futures",
+            "Sell futures",
+            "Buy call option",
+            "Buy put option"
+        ],
+        "right": [
+            "Rates will fall",
+            "Rates will rise",
+            "Rates will rise",
+            "Rates will fall"
+        ]
+    },
+    {
+        "q": "A cap is equivalent to a series of ______ on interest rates.",
+        "type": "fill_blank",
+        "answers": [
+            "call options"
+        ],
+        "other_options": [
+            "put options",
+            "futures",
+            "forwards"
+        ]
+    },
+    {
+        "q": "A caplet is a single option within a cap structure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the relationship between a collar, cap, and floor?",
+        "type": "mcq",
+        "o": [
+            "Collar = buying a cap and selling a floor (or vice versa)",
+            "They are completely unrelated instruments",
+            "A collar replaces both cap and floor",
+            "Floor and cap cannot be combined"
+        ]
+    },
+    {
+        "q": "Zero-cost collars are achieved by matching cap and floor ______.",
+        "type": "fill_blank",
+        "answers": [
+            "premiums"
+        ],
+        "other_options": [
+            "rates",
+            "sizes",
+            "dates"
+        ]
+    },
+    {
+        "q": "A borrower benefits from a floor when interest rates fall below the floor rate.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the interest rate strategy with its payoff profile:",
+        "type": "match",
+        "left": [
+            "Cap only",
+            "Floor only",
+            "Collar",
+            "Naked position"
+        ],
+        "right": [
+            "Protection above strike",
+            "Protection below strike",
+            "Range bound",
+            "Full exposure"
+        ]
+    },
+    {
+        "q": "Duration measures the sensitivity of bond price to interest rate changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Macaulay duration is expressed in:",
+        "type": "mcq",
+        "o": [
+            "Years",
+            "Percentage",
+            "Currency units",
+            "Basis points"
+        ]
+    },
+    {
+        "q": "Modified duration adjusts Macaulay duration for the ______ rate.",
+        "type": "fill_blank",
+        "answers": [
+            "yield"
+        ],
+        "other_options": [
+            "coupon",
+            "face",
+            "market"
+        ]
+    },
+    {
+        "q": "A bond with higher duration is more sensitive to interest rate changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The duration of a zero-coupon bond equals its ______.",
+        "type": "fill_blank",
+        "answers": [
+            "maturity"
+        ],
+        "other_options": [
+            "yield",
+            "price",
+            "coupon"
+        ]
+    },
+    {
+        "q": "What is convexity in bond analysis?",
+        "type": "mcq",
+        "o": [
+            "Measure of curvature in price-yield relationship",
+            "Linear measure of price sensitivity",
+            "Average bond price",
+            "Yield spread measure"
+        ]
+    },
+    {
+        "q": "Match the duration concept with its use:",
+        "type": "match",
+        "left": [
+            "Macaulay",
+            "Modified",
+            "Effective",
+            "Dollar"
+        ],
+        "right": [
+            "Weighted average time",
+            "Price sensitivity",
+            "Callable bonds",
+            "Absolute price change"
+        ]
+    },
+    {
+        "q": "Immunization matches the duration of assets and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "liabilities"
+        ],
+        "other_options": [
+            "income",
+            "expenses",
+            "equity"
+        ]
+    },
+    {
+        "q": "A barbell portfolio combines short and long duration bonds.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A project with an NPV of 50,000 and investment of 200,000 has a profitability index of:",
+        "type": "mcq",
+        "o": [
+            "1.25",
+            "0.25",
+            "4.00",
+            "0.80"
+        ]
+    },
+    {
+        "q": "The profitability index is calculated as NPV plus initial investment, divided by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "initial investment"
+        ],
+        "other_options": [
+            "NPV",
+            "total cash flows",
+            "working capital"
+        ]
+    },
+    {
+        "q": "PI greater than 1 indicates an acceptable project.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the capital rationing decision process:",
+        "type": "rearrange",
+        "words": [
+            "Identify constraints",
+            "Calculate PI",
+            "Rank projects",
+            "Select combination"
+        ]
+    },
+    {
+        "q": "Hard capital rationing is imposed by external sources.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What causes soft capital rationing?",
+        "type": "mcq",
+        "o": [
+            "Internal management decisions to limit investment",
+            "Bank lending restrictions",
+            "Government regulations",
+            "Stock market conditions"
+        ]
+    },
+    {
+        "q": "Single-period capital rationing assumes funds are limited in ______ period(s).",
+        "type": "fill_blank",
+        "answers": [
+            "one"
+        ],
+        "other_options": [
+            "multiple",
+            "all",
+            "no"
+        ]
+    },
+    {
+        "q": "Match the capital rationing type with its source:",
+        "type": "match",
+        "left": [
+            "Hard rationing",
+            "Soft rationing",
+            "Single-period",
+            "Multi-period"
+        ],
+        "right": [
+            "External constraints",
+            "Internal decisions",
+            "One year limit",
+            "Multiple year limits"
+        ]
+    },
+    {
+        "q": "Linear programming can solve multi-period capital rationing problems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "With divisible projects, you should rank by PI and invest until funds are exhausted.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Indivisible projects require:",
+        "type": "mcq",
+        "o": [
+            "Trial and error or integer programming",
+            "Simple PI ranking",
+            "NPV ranking only",
+            "IRR comparison"
+        ]
+    },
+    {
+        "q": "Mutually exclusive projects are those where selecting one ______ the others.",
+        "type": "fill_blank",
+        "answers": [
+            "excludes"
+        ],
+        "other_options": [
+            "includes",
+            "requires",
+            "complements"
+        ]
+    },
+    {
+        "q": "Replacement analysis determines the optimal time to replace an existing asset.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The equivalent annual cost (EAC) is used when comparing projects with:",
+        "type": "mcq",
+        "o": [
+            "Different lifespans",
+            "Same initial investment",
+            "Identical cash flows",
+            "Equal risk levels"
+        ]
+    },
+    {
+        "q": "EAC converts NPV into an annual ______ basis.",
+        "type": "fill_blank",
+        "answers": [
+            "equivalent"
+        ],
+        "other_options": [
+            "average",
+            "maximum",
+            "minimum"
+        ]
+    },
+    {
+        "q": "Match the project comparison method with its use:",
+        "type": "match",
+        "left": [
+            "NPV",
+            "IRR",
+            "EAC",
+            "PI"
+        ],
+        "right": [
+            "Absolute value",
+            "Percentage return",
+            "Unequal lives",
+            "Capital rationing"
+        ]
+    },
+    {
+        "q": "The lowest common multiple approach is an alternative to EAC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the replacement decision steps:",
+        "type": "rearrange",
+        "words": [
+            "Estimate costs",
+            "Calculate EAC",
+            "Compare alternatives",
+            "Make decision"
+        ]
+    },
+    {
+        "q": "Inflation affects investment appraisal through:",
+        "type": "mcq",
+        "o": [
+            "Both cash flows and discount rate",
+            "Only cash flows",
+            "Only discount rate",
+            "Neither"
+        ]
+    },
+    {
+        "q": "Nominal cash flows should be discounted at the ______ discount rate.",
+        "type": "fill_blank",
+        "answers": [
+            "nominal"
+        ],
+        "other_options": [
+            "real",
+            "average",
+            "historical"
+        ]
+    },
+    {
+        "q": "Real cash flows should be discounted at the real discount rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The Fisher equation links real rate, nominal rate, and:",
+        "type": "mcq",
+        "o": [
+            "Inflation rate",
+            "Exchange rate",
+            "Interest rate",
+            "Growth rate"
+        ]
+    },
+    {
+        "q": "Match the cash flow type with the appropriate discount rate:",
+        "type": "match",
+        "left": [
+            "Nominal cash flows",
+            "Real cash flows",
+            "Tax cash flows",
+            "Foreign cash flows"
+        ],
+        "right": [
+            "Nominal rate",
+            "Real rate",
+            "Post-tax rate",
+            "Foreign currency rate"
+        ]
+    },
+    {
+        "q": "Specific inflation affects different items at different rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "General inflation is measured by the ______ price index.",
+        "type": "fill_blank",
+        "answers": [
+            "retail"
+        ],
+        "other_options": [
+            "wholesale",
+            "producer",
+            "housing"
+        ]
+    },
+    {
+        "q": "Tax relief on depreciation is affected by:",
+        "type": "mcq",
+        "o": [
+            "The original cost of the asset, not inflated value",
+            "Inflated replacement cost",
+            "Current market value",
+            "Future expected value"
+        ]
+    },
+    {
+        "q": "Working capital requirements typically increase with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inflation"
+        ],
+        "other_options": [
+            "deflation",
+            "recession",
+            "taxation"
+        ]
+    },
+    {
+        "q": "Rearrange the steps of inflation-adjusted NPV calculation:",
+        "type": "rearrange",
+        "words": [
+            "Estimate real flows",
+            "Inflate cash flows",
+            "Discount at nominal",
+            "Calculate NPV"
+        ]
+    },
+    {
+        "q": "Taxation timing is important because tax is usually paid in arrears.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Capital allowances provide tax relief on:",
+        "type": "mcq",
+        "o": [
+            "Capital expenditure on qualifying assets",
+            "Revenue expenditure only",
+            "Dividend payments",
+            "Interest payments"
+        ]
+    },
+    {
+        "q": "The writing down allowance is typically ______% per annum on a reducing balance.",
+        "type": "fill_blank",
+        "answers": [
+            "18"
+        ],
+        "other_options": [
+            "25",
+            "10",
+            "20"
+        ]
+    },
+    {
+        "q": "Balancing allowance arises when sale proceeds are less than written down value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the tax term with its effect:",
+        "type": "match",
+        "left": [
+            "Capital allowance",
+            "Balancing allowance",
+            "Balancing charge",
+            "Writing down allowance"
+        ],
+        "right": [
+            "Tax relief on assets",
+            "Relief on disposal loss",
+            "Tax on disposal gain",
+            "Annual depreciation relief"
+        ]
+    },
+    {
+        "q": "A balancing charge increases taxable ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit"
+        ],
+        "other_options": [
+            "loss",
+            "allowance",
+            "relief"
+        ]
+    },
+    {
+        "q": "First year allowances provide accelerated relief in the year of purchase.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax exhaustion occurs when a company has:",
+        "type": "mcq",
+        "o": [
+            "Losses that cannot be immediately offset",
+            "Excess profits",
+            "Too many allowances",
+            "High dividend payments"
+        ]
+    },
+    {
+        "q": "Tax losses can be carried forward to offset future ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profits"
+        ],
+        "other_options": [
+            "losses",
+            "dividends",
+            "expenses"
+        ]
+    },
+    {
+        "q": "Leasing may be beneficial when the lessee cannot use tax allowances.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a lease versus buy decision primarily based on?",
+        "type": "mcq",
+        "o": [
+            "Comparing NPV of each option",
+            "Always choosing to buy",
+            "Always choosing to lease",
+            "Ignoring tax implications"
+        ]
+    },
+    {
+        "q": "The discount rate for lease versus buy should reflect the borrowing cost because leasing is a form of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "financing"
+        ],
+        "other_options": [
+            "investment",
+            "operation",
+            "expense"
+        ]
+    },
+    {
+        "q": "Match the lease type with its accounting treatment:",
+        "type": "match",
+        "left": [
+            "Finance lease",
+            "Operating lease",
+            "Sale and leaseback",
+            "Hire purchase"
+        ],
+        "right": [
+            "Capitalize asset",
+            "Expense payments",
+            "Sale then lease",
+            "Eventual ownership"
+        ]
+    },
+    {
+        "q": "A project financed entirely by debt should use the after-tax cost of debt as discount rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the lease vs buy analysis steps:",
+        "type": "rearrange",
+        "words": [
+            "Identify cash flows",
+            "Apply tax effects",
+            "Discount at borrowing rate",
+            "Compare NPVs"
+        ]
+    },
+    {
+        "q": "Adjusted Present Value (APV) separates base case NPV from:",
+        "type": "mcq",
+        "o": [
+            "Financing side effects",
+            "Operating costs",
+            "Revenue estimates",
+            "Tax calculations"
+        ]
+    },
+    {
+        "q": "The base case NPV in APV uses the ______ cost of capital.",
+        "type": "fill_blank",
+        "answers": [
+            "ungeared"
+        ],
+        "other_options": [
+            "geared",
+            "weighted",
+            "average"
+        ]
+    },
+    {
+        "q": "APV is useful when project financing differs significantly from company average.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the APV component with its calculation:",
+        "type": "match",
+        "left": [
+            "Base case NPV",
+            "Tax shield",
+            "Issue costs",
+            "Subsidized loan benefit"
+        ],
+        "right": [
+            "Discount at ungeared Ke",
+            "PV of tax savings",
+            "Reduce APV",
+            "PV of interest savings"
+        ]
+    },
+    {
+        "q": "The tax shield on debt is the ______ of tax savings from interest deductibility.",
+        "type": "fill_blank",
+        "answers": [
+            "present value"
+        ],
+        "other_options": [
+            "future value",
+            "annual amount",
+            "total sum"
+        ]
+    },
+    {
+        "q": "APV equals base case NPV plus PV of financing side effects.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Issue costs should be:",
+        "type": "mcq",
+        "o": [
+            "Subtracted from APV as they reduce value",
+            "Added to APV",
+            "Ignored in APV",
+            "Capitalized and amortized"
+        ]
+    },
+    {
+        "q": "A subsidized loan creates value because the interest rate is ______ market rates.",
+        "type": "fill_blank",
+        "answers": [
+            "below"
+        ],
+        "other_options": [
+            "above",
+            "equal to",
+            "unrelated to"
+        ]
+    },
+    {
+        "q": "Rearrange the APV calculation steps:",
+        "type": "rearrange",
+        "words": [
+            "Calculate base NPV",
+            "Add tax shield",
+            "Subtract issue costs",
+            "Determine APV"
+        ]
+    },
+    {
+        "q": "Real options recognise managerial flexibility in investment decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is NOT a type of real option?",
+        "type": "mcq",
+        "o": [
+            "Dividend option",
+            "Option to delay",
+            "Option to expand",
+            "Option to abandon"
+        ]
+    },
+    {
+        "q": "The option to delay a project has value when there is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "uncertainty"
+        ],
+        "other_options": [
+            "certainty",
+            "profitability",
+            "urgency"
+        ]
+    },
+    {
+        "q": "Match the real option with its strategic value:",
+        "type": "match",
+        "left": [
+            "Delay",
+            "Expand",
+            "Abandon",
+            "Switch"
+        ],
+        "right": [
+            "Wait for information",
+            "Scale up success",
+            "Exit losing project",
+            "Change inputs/outputs"
+        ]
+    },
+    {
+        "q": "Traditional NPV may undervalue projects with significant embedded options.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The Black-Scholes model can be adapted to value real options.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A follow-on investment is an example of:",
+        "type": "mcq",
+        "o": [
+            "Growth option",
+            "Abandonment option",
+            "Delay option",
+            "Switch option"
+        ]
+    },
+    {
+        "q": "The option to abandon limits the ______ loss on a project.",
+        "type": "fill_blank",
+        "answers": [
+            "downside"
+        ],
+        "other_options": [
+            "upside",
+            "average",
+            "total"
+        ]
+    },
+    {
+        "q": "Match the option terminology with its meaning:",
+        "type": "match",
+        "left": [
+            "Underlying asset",
+            "Exercise price",
+            "Time to expiry",
+            "Volatility"
+        ],
+        "right": [
+            "Project value",
+            "Investment cost",
+            "Decision deadline",
+            "Value uncertainty"
+        ]
+    },
+    {
+        "q": "Embedded options are more valuable when volatility is higher.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the real options valuation process:",
+        "type": "rearrange",
+        "words": [
+            "Identify option",
+            "Map parameters",
+            "Apply model",
+            "Interpret result"
+        ]
+    },
+    {
+        "q": "The receivables collection period is calculated as receivables divided by credit sales times:",
+        "type": "mcq",
+        "o": [
+            "365 days",
+            "12 months",
+            "52 weeks",
+            "4 quarters"
+        ]
+    },
+    {
+        "q": "A longer collection period indicates slower ______ collection.",
+        "type": "fill_blank",
+        "answers": [
+            "cash"
+        ],
+        "other_options": [
+            "profit",
+            "sales",
+            "credit"
+        ]
+    },
+    {
+        "q": "The payables payment period should ideally be longer than the collection period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the working capital ratio with what it measures:",
+        "type": "match",
+        "left": [
+            "Inventory days",
+            "Receivables days",
+            "Payables days",
+            "Cash cycle"
+        ],
+        "right": [
+            "Stock holding period",
+            "Credit given to customers",
+            "Credit taken from suppliers",
+            "Net cash timing"
+        ]
+    },
+    {
+        "q": "Inventory turnover ratio is cost of sales divided by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "average inventory"
+        ],
+        "other_options": [
+            "sales",
+            "purchases",
+            "closing inventory"
+        ]
+    },
+    {
+        "q": "A higher inventory turnover is generally better as it indicates efficiency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which factor would NOT typically affect a company's credit policy?",
+        "type": "mcq",
+        "o": [
+            "Competitor's product features",
+            "Industry norms",
+            "Customer creditworthiness",
+            "Company's liquidity"
+        ]
+    },
+    {
+        "q": "The cost of offering a 2% discount for payment in 10 days versus 30 days is approximately ______% per annum.",
+        "type": "fill_blank",
+        "answers": [
+            "37"
+        ],
+        "other_options": [
+            "24",
+            "12",
+            "50"
+        ]
+    },
+    {
+        "q": "Rearrange the credit control process:",
+        "type": "rearrange",
+        "words": [
+            "Credit check",
+            "Set limit",
+            "Monitor account",
+            "Chase payment"
+        ]
+    },
+    {
+        "q": "Aging analysis categorizes receivables by:",
+        "type": "mcq",
+        "o": [
+            "Length of time outstanding",
+            "Customer name",
+            "Invoice amount",
+            "Product type"
+        ]
+    },
+    {
+        "q": "The expected cost of a discount can be compared to the benefit of earlier ______ receipt.",
+        "type": "fill_blank",
+        "answers": [
+            "cash"
+        ],
+        "other_options": [
+            "profit",
+            "sales",
+            "invoice"
+        ]
+    },
+    {
+        "q": "Match the receivables management technique with its purpose:",
+        "type": "match",
+        "left": [
+            "Credit limit",
+            "Cash discount",
+            "Factoring",
+            "Credit insurance"
+        ],
+        "right": [
+            "Control exposure",
+            "Accelerate payment",
+            "Outsource collection",
+            "Protect against default"
+        ]
+    },
+    {
+        "q": "Non-recourse factoring transfers the risk of bad debts to the factor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit insurance protects against the risk of customer ______.",
+        "type": "fill_blank",
+        "answers": [
+            "default"
+        ],
+        "other_options": [
+            "fraud",
+            "returns",
+            "complaints"
+        ]
+    },
+    {
+        "q": "The 5 Cs of credit include Character, Capacity, Capital, Collateral, and:",
+        "type": "mcq",
+        "o": [
+            "Conditions",
+            "Credit",
+            "Cash",
+            "Company"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of the credit decision:",
+        "type": "rearrange",
+        "words": [
+            "Gather information",
+            "Analyse risk",
+            "Set terms",
+            "Monitor account"
+        ]
+    },
+    {
+        "q": "Just-in-time inventory reduces holding costs but increases ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "stockout"
+        ],
+        "other_options": [
+            "obsolescence",
+            "damage",
+            "theft"
+        ]
+    },
+    {
+        "q": "ABC analysis classifies inventory by value, with A items being:",
+        "type": "mcq",
+        "o": [
+            "High value, low quantity",
+            "Low value, high quantity",
+            "Medium value, medium quantity",
+            "Equal value and quantity"
+        ]
+    },
+    {
+        "q": "Match the inventory control system with its feature:",
+        "type": "match",
+        "left": [
+            "EOQ",
+            "JIT",
+            "ABC analysis",
+            "Perpetual system"
+        ],
+        "right": [
+            "Optimal order size",
+            "Zero inventory target",
+            "Value classification",
+            "Continuous tracking"
+        ]
+    },
+    {
+        "q": "Buffer stock is held to protect against demand or supply ______.",
+        "type": "fill_blank",
+        "answers": [
+            "uncertainty"
+        ],
+        "other_options": [
+            "changes",
+            "costs",
+            "prices"
+        ]
+    },
+    {
+        "q": "Quantity discounts may make it optimal to order more than the EOQ.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "When evaluating quantity discounts, the total annual cost includes purchase cost, ordering cost, and:",
+        "type": "mcq",
+        "o": [
+            "Holding cost",
+            "Marketing cost",
+            "Labour cost",
+            "Depreciation"
+        ]
+    },
+    {
+        "q": "The reorder level formula includes lead time multiplied by ______ demand.",
+        "type": "fill_blank",
+        "answers": [
+            "daily"
+        ],
+        "other_options": [
+            "weekly",
+            "monthly",
+            "annual"
+        ]
+    },
+    {
+        "q": "Maximum inventory level equals reorder level minus minimum usage during lead time plus EOQ.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the inventory level with its calculation:",
+        "type": "match",
+        "left": [
+            "Reorder level",
+            "Maximum stock",
+            "Minimum stock",
+            "Average stock"
+        ],
+        "right": [
+            "Maximum usage x Maximum lead time",
+            "Reorder level + EOQ - Min usage x Min lead time",
+            "Reorder level - Average usage x Average lead time",
+            "Minimum stock + EOQ/2"
+        ]
+    },
+    {
+        "q": "Slow-moving inventory should be reviewed for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "obsolescence"
+        ],
+        "other_options": [
+            "reordering",
+            "expansion",
+            "promotion"
+        ]
+    },
+    {
+        "q": "Rearrange the inventory management priorities using ABC analysis:",
+        "type": "rearrange",
+        "words": [
+            "A items",
+            "B items",
+            "C items"
+        ]
+    },
+    {
+        "q": "The optimal cash balance according to Miller-Orr model returns to the ______ point.",
+        "type": "fill_blank",
+        "answers": [
+            "return"
+        ],
+        "other_options": [
+            "upper",
+            "lower",
+            "maximum"
+        ]
+    },
+    {
+        "q": "In Miller-Orr model, the spread is calculated as 3 times the cube root of a formula.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The return point in Miller-Orr equals lower limit plus spread divided by:",
+        "type": "mcq",
+        "o": [
+            "3",
+            "2",
+            "4",
+            "1"
+        ]
+    },
+    {
+        "q": "Match the Miller-Orr parameter with its definition:",
+        "type": "match",
+        "left": [
+            "Upper limit",
+            "Lower limit",
+            "Return point",
+            "Spread"
+        ],
+        "right": [
+            "Trigger investment",
+            "Trigger borrowing",
+            "Target cash balance",
+            "Range of cash"
+        ]
+    },
+    {
+        "q": "The variance of daily cash flows is used in the Miller-Orr ______.",
+        "type": "fill_blank",
+        "answers": [
+            "formula"
+        ],
+        "other_options": [
+            "table",
+            "chart",
+            "graph"
+        ]
+    },
+    {
+        "q": "When cash reaches the upper limit in Miller-Orr, the company should invest the excess.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The transaction cost in Baumol model represents the cost of:",
+        "type": "mcq",
+        "o": [
+            "Converting investments to cash",
+            "Holding cash",
+            "Paying interest",
+            "Making payments"
+        ]
+    },
+    {
+        "q": "Baumol's optimal cash balance formula involves the square root of 2 x annual cash needs x transaction cost divided by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "holding cost rate"
+        ],
+        "other_options": [
+            "interest rate",
+            "inflation rate",
+            "discount rate"
+        ]
+    },
+    {
+        "q": "Rearrange the cash management decision hierarchy:",
+        "type": "rearrange",
+        "words": [
+            "Determine cash needs",
+            "Choose model",
+            "Set parameters",
+            "Monitor levels"
+        ]
+    },
+    {
+        "q": "A company with 10 million pounds of debt at 6% interest has an annual interest cost of:",
+        "type": "mcq",
+        "o": [
+            "600,000 pounds",
+            "60,000 pounds",
+            "6,000,000 pounds",
+            "166,667 pounds"
+        ]
+    },
+    {
+        "q": "The after-tax cost of 8% debt with a 25% tax rate is ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "6"
+        ],
+        "other_options": [
+            "2",
+            "10",
+            "8"
+        ]
+    },
+    {
+        "q": "Irredeemable debt has no maturity date and pays interest forever.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the bond term with its meaning:",
+        "type": "match",
+        "left": [
+            "Coupon rate",
+            "Yield to maturity",
+            "Par value",
+            "Market value"
+        ],
+        "right": [
+            "Stated interest rate",
+            "Total return if held to maturity",
+            "Face value at redemption",
+            "Current trading price"
+        ]
+    },
+    {
+        "q": "A bond trading at a premium has a market price ______ its par value.",
+        "type": "fill_blank",
+        "answers": [
+            "above"
+        ],
+        "other_options": [
+            "below",
+            "equal to",
+            "unrelated to"
+        ]
+    },
+    {
+        "q": "A bond trading at a discount indicates that market interest rates are higher than the coupon rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "For a redeemable bond, the cost of debt is found by calculating the:",
+        "type": "mcq",
+        "o": [
+            "IRR of the cash flows from the bond",
+            "Simple average of interest payments",
+            "Coupon rate only",
+            "Discount rate only"
+        ]
+    },
+    {
+        "q": "The cost of preference shares is calculated as annual dividend divided by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "market price"
+        ],
+        "other_options": [
+            "par value",
+            "book value",
+            "issue price"
+        ]
+    },
+    {
+        "q": "Rearrange the steps to calculate cost of redeemable debt:",
+        "type": "rearrange",
+        "words": [
+            "Identify cash flows",
+            "Set up equation",
+            "Calculate IRR",
+            "Adjust for tax"
+        ]
+    },
+    {
+        "q": "Using CAPM, if risk-free rate is 4%, beta is 1.2, and market return is 12%, the cost of equity is:",
+        "type": "mcq",
+        "o": [
+            "13.6%",
+            "14.4%",
+            "12%",
+            "9.6%"
+        ]
+    },
+    {
+        "q": "The market risk premium in CAPM is market return minus the ______ rate.",
+        "type": "fill_blank",
+        "answers": [
+            "risk-free"
+        ],
+        "other_options": [
+            "inflation",
+            "real",
+            "nominal"
+        ]
+    },
+    {
+        "q": "If a company pays a dividend of 2 per share with 5% growth and share price is 40, the cost of equity using DVM is:",
+        "type": "mcq",
+        "o": [
+            "10.25%",
+            "5%",
+            "10%",
+            "7.5%"
+        ]
+    },
+    {
+        "q": "Match the cost of capital model with its input requirement:",
+        "type": "match",
+        "left": [
+            "CAPM",
+            "DVM",
+            "Bond yield plus premium",
+            "Earnings yield"
+        ],
+        "right": [
+            "Beta and market return",
+            "Dividend and growth rate",
+            "Company bond yield",
+            "EPS and share price"
+        ]
+    },
+    {
+        "q": "The earnings retention model estimates growth as retention rate times ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ROE"
+        ],
+        "other_options": [
+            "ROA",
+            "ROCE",
+            "EPS"
+        ]
+    },
+    {
+        "q": "Geometric mean is more accurate than arithmetic mean for calculating historical dividend growth.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A company with 60% equity at 15% and 40% debt at 6% after-tax has a WACC of:",
+        "type": "mcq",
+        "o": [
+            "11.4%",
+            "10.5%",
+            "9%",
+            "12%"
+        ]
+    },
+    {
+        "q": "WACC calculation should use ______ values for equity and debt proportions.",
+        "type": "fill_blank",
+        "answers": [
+            "market"
+        ],
+        "other_options": [
+            "book",
+            "historical",
+            "par"
+        ]
+    },
+    {
+        "q": "Rearrange the WACC calculation formula components:",
+        "type": "rearrange",
+        "words": [
+            "Ke x E/(E+D)",
+            "Plus",
+            "Kd(1-T) x D/(E+D)"
+        ]
+    },
+    {
+        "q": "The marginal cost of capital is the cost of raising one additional unit of capital.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If new debt financing increases gearing, the cost of equity will typically:",
+        "type": "mcq",
+        "o": [
+            "Increase due to higher financial risk",
+            "Decrease due to tax benefits",
+            "Stay the same",
+            "Become negative"
+        ]
+    },
+    {
+        "q": "Modigliani and Miller without taxes concluded that capital structure is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "irrelevant"
+        ],
+        "other_options": [
+            "critical",
+            "optimal",
+            "complex"
+        ]
+    },
+    {
+        "q": "Match the MM proposition with its statement:",
+        "type": "match",
+        "left": [
+            "MM Proposition I (no tax)",
+            "MM Proposition II (no tax)",
+            "MM with tax",
+            "Trade-off theory"
+        ],
+        "right": [
+            "Value is independent of gearing",
+            "Ke rises linearly with gearing",
+            "Debt creates tax shield value",
+            "Optimal gearing exists"
+        ]
+    },
+    {
+        "q": "The traditional view suggests there is an optimal capital structure that minimizes ______.",
+        "type": "fill_blank",
+        "answers": [
+            "WACC"
+        ],
+        "other_options": [
+            "profit",
+            "risk",
+            "growth"
+        ]
+    },
+    {
+        "q": "At very high gearing levels, the cost of debt increases due to increased default risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Financial distress costs include:",
+        "type": "mcq",
+        "o": [
+            "Legal and administrative costs of bankruptcy",
+            "Dividend payments",
+            "Interest tax shield",
+            "Share price appreciation"
+        ]
+    },
+    {
+        "q": "Agency costs of debt include the monitoring costs imposed by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "lenders"
+        ],
+        "other_options": [
+            "shareholders",
+            "managers",
+            "employees"
+        ]
+    },
+    {
+        "q": "Rearrange the factors in the trade-off theory from benefit to cost:",
+        "type": "rearrange",
+        "words": [
+            "Tax shield benefit",
+            "Financial distress",
+            "Bankruptcy cost"
+        ]
+    },
+    {
+        "q": "A project with cash flows of -100, 40, 50, 60 at years 0-3 has an NPV at 10% of approximately:",
+        "type": "mcq",
+        "o": [
+            "23",
+            "50",
+            "10",
+            "-7"
+        ]
+    },
+    {
+        "q": "The discount factor for year 3 at 12% is approximately ______.",
+        "type": "fill_blank",
+        "answers": [
+            "0.712"
+        ],
+        "other_options": [
+            "0.893",
+            "0.797",
+            "0.636"
+        ]
+    },
+    {
+        "q": "An annuity factor for 5 years at 10% is approximately 3.791.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the discount table with its use:",
+        "type": "match",
+        "left": [
+            "Single discount factor",
+            "Annuity factor",
+            "Perpetuity",
+            "Growing perpetuity"
+        ],
+        "right": [
+            "One-off cash flow",
+            "Equal annual cash flows",
+            "Constant forever",
+            "Constant growth forever"
+        ]
+    },
+    {
+        "q": "The perpetuity formula for a constant stream of 1000 per year at 8% gives a value of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "12500"
+        ],
+        "other_options": [
+            "8000",
+            "10000",
+            "15000"
+        ]
+    },
+    {
+        "q": "A delayed annuity starting in year 3 requires discounting the annuity value back to year 0.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The formula for growing perpetuity is Cash Flow divided by (r minus g) where g is:",
+        "type": "mcq",
+        "o": [
+            "Growth rate",
+            "Gross return",
+            "Gearing ratio",
+            "Government rate"
+        ]
+    },
+    {
+        "q": "A project with NPV of 1000 at 10% and NPV of -200 at 15% has an IRR of approximately ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "14.2"
+        ],
+        "other_options": [
+            "12.5",
+            "10",
+            "15"
+        ]
+    },
+    {
+        "q": "Rearrange the IRR interpolation formula components:",
+        "type": "rearrange",
+        "words": [
+            "Lower rate",
+            "Plus",
+            "Positive NPV",
+            "Divided by",
+            "Range"
+        ]
+    },
+    {
+        "q": "Multiple IRRs can occur when cash flows change sign more than once.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The modified IRR (MIRR) addresses the reinvestment assumption by assuming reinvestment at:",
+        "type": "mcq",
+        "o": [
+            "The cost of capital",
+            "The calculated IRR",
+            "Zero percent",
+            "Inflation rate"
+        ]
+    },
+    {
+        "q": "Match the investment appraisal issue with its solution:",
+        "type": "match",
+        "left": [
+            "Multiple IRRs",
+            "Scale differences",
+            "Different lives",
+            "Mutually exclusive"
+        ],
+        "right": [
+            "Use NPV or MIRR",
+            "Use profitability index",
+            "Use equivalent annual cost",
+            "Compare NPVs"
+        ]
+    },
+    {
+        "q": "The discounted payback period uses ______ cash flows.",
+        "type": "fill_blank",
+        "answers": [
+            "discounted"
+        ],
+        "other_options": [
+            "nominal",
+            "real",
+            "average"
+        ]
+    },
+    {
+        "q": "ARR is calculated as average annual profit divided by average investment times 100%.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Average investment in ARR typically equals initial investment plus residual value divided by:",
+        "type": "mcq",
+        "o": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ]
+    },
+    {
+        "q": "A project with investment of 100,000 and average profit of 15,000 has an ARR of ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "7.5",
+            "50"
+        ]
+    },
+    {
+        "q": "Rearrange the steps of evaluating a project with all methods:",
+        "type": "rearrange",
+        "words": [
+            "Calculate NPV",
+            "Find IRR",
+            "Determine payback",
+            "Calculate ARR"
+        ]
+    },
+    {
+        "q": "Sensitivity analysis on sales volume shows that a 20% reduction makes NPV zero. This indicates:",
+        "type": "mcq",
+        "o": [
+            "Sales volume can fall by 20% before the project becomes unviable",
+            "Sales must increase by 20%",
+            "The project should be rejected",
+            "Cost of capital is wrong"
+        ]
+    },
+    {
+        "q": "The sensitivity margin is calculated as NPV divided by present value of the ______ item.",
+        "type": "fill_blank",
+        "answers": [
+            "variable"
+        ],
+        "other_options": [
+            "fixed",
+            "total",
+            "average"
+        ]
+    },
+    {
+        "q": "A variable with a smaller sensitivity margin is more critical to project success.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the risk analysis output with its meaning:",
+        "type": "match",
+        "left": [
+            "Low sensitivity margin",
+            "High coefficient of variation",
+            "Negative expected NPV",
+            "Wide probability distribution"
+        ],
+        "right": [
+            "Critical variable",
+            "High risk",
+            "Reject project",
+            "Uncertain outcome"
+        ]
+    },
+    {
+        "q": "If there are three scenarios with NPVs of 50, 100, 150 and probabilities of 0.3, 0.5, 0.2, the expected NPV is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "95"
+        ],
+        "other_options": [
+            "100",
+            "85",
+            "110"
+        ]
+    },
+    {
+        "q": "A risk-averse investor would choose a project with lower expected value but also lower variance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The coefficient of variation allows comparison of risk across projects with different:",
+        "type": "mcq",
+        "o": [
+            "Expected values",
+            "Lifespans",
+            "Initial investments",
+            "Discount rates"
+        ]
+    },
+    {
+        "q": "Simulation runs hundreds of scenarios by randomly selecting values from ______ distributions.",
+        "type": "fill_blank",
+        "answers": [
+            "probability"
+        ],
+        "other_options": [
+            "normal",
+            "fixed",
+            "historical"
+        ]
+    },
+    {
+        "q": "Rearrange the simulation process steps:",
+        "type": "rearrange",
+        "words": [
+            "Define distributions",
+            "Generate random values",
+            "Calculate NPV",
+            "Analyse results"
+        ]
+    },
+    {
+        "q": "A decision tree node with a square represents a decision point.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A circular node in a decision tree represents:",
+        "type": "mcq",
+        "o": [
+            "A chance event with probabilities",
+            "A final outcome",
+            "A decision point",
+            "The starting point"
+        ]
+    },
+    {
+        "q": "Working backwards through a decision tree is called ______ analysis.",
+        "type": "fill_blank",
+        "answers": [
+            "rollback"
+        ],
+        "other_options": [
+            "forward",
+            "sequential",
+            "parallel"
+        ]
+    },
+    {
+        "q": "Match the decision tree component with its function:",
+        "type": "match",
+        "left": [
+            "Square node",
+            "Circle node",
+            "Branch",
+            "Terminal node"
+        ],
+        "right": [
+            "Decision point",
+            "Chance event",
+            "Alternative path",
+            "Final outcome"
+        ]
+    },
+    {
+        "q": "The expected value at a decision node equals the highest expected value of its branches.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In forex, the bid rate is the rate at which the bank will:",
+        "type": "mcq",
+        "o": [
+            "Buy the base currency from you",
+            "Sell the base currency to you",
+            "Set the exchange rate",
+            "Calculate interest"
+        ]
+    },
+    {
+        "q": "The offer rate is also called the ______ rate.",
+        "type": "fill_blank",
+        "answers": [
+            "ask"
+        ],
+        "other_options": [
+            "bid",
+            "spot",
+            "forward"
+        ]
+    },
+    {
+        "q": "If GBP/USD is quoted as 1.25-1.27, a UK company buying dollars will use the 1.25 rate.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the forex transaction with the rate to use:",
+        "type": "match",
+        "left": [
+            "Selling USD for GBP",
+            "Buying USD with GBP",
+            "Receiving foreign currency",
+            "Paying foreign currency"
+        ],
+        "right": [
+            "Bank buys USD - Bid",
+            "Bank sells USD - Offer",
+            "Bank buys foreign - Bid",
+            "Bank sells foreign - Offer"
+        ]
+    },
+    {
+        "q": "A forward rate at a premium means the foreign currency is expected to ______ against the domestic currency.",
+        "type": "fill_blank",
+        "answers": [
+            "appreciate"
+        ],
+        "other_options": [
+            "depreciate",
+            "stabilize",
+            "fluctuate"
+        ]
+    },
+    {
+        "q": "Rearrange the steps of a money market hedge for a future receipt:",
+        "type": "rearrange",
+        "words": [
+            "Borrow foreign currency",
+            "Convert at spot",
+            "Invest domestically",
+            "Repay with receipt"
+        ]
+    },
+    {
+        "q": "A money market hedge for a future payment requires:",
+        "type": "mcq",
+        "o": [
+            "Buying foreign currency now and investing it",
+            "Selling foreign currency now",
+            "Borrowing domestic currency",
+            "Ignoring the exposure"
+        ]
+    },
+    {
+        "q": "The forward premium or discount is calculated from the ______ rate differential.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "inflation",
+            "exchange",
+            "growth"
+        ]
+    },
+    {
+        "q": "Interest rate parity states that forward premium = (domestic rate - foreign rate) / (1 + foreign rate).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the parity condition with its linking variables:",
+        "type": "match",
+        "left": [
+            "PPP",
+            "IRP",
+            "Fisher effect",
+            "IFE"
+        ],
+        "right": [
+            "Inflation and spot rates",
+            "Interest and forward rates",
+            "Inflation and interest",
+            "Interest and spot rates"
+        ]
+    },
+    {
+        "q": "If UK interest is 5% and US interest is 3%, the forward rate for USD/GBP will show a USD ______.",
+        "type": "fill_blank",
+        "answers": [
+            "premium"
+        ],
+        "other_options": [
+            "discount",
+            "parity",
+            "spread"
+        ]
+    },
+    {
+        "q": "Currency options provide the right but not obligation to exchange at a specified rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A UK company expecting to receive USD should buy a:",
+        "type": "mcq",
+        "o": [
+            "Put option on USD (or call on GBP)",
+            "Call option on USD",
+            "Put option on GBP",
+            "Forward contract to buy USD"
+        ]
+    },
+    {
+        "q": "Options are more flexible than forwards but have a higher ______ cost.",
+        "type": "fill_blank",
+        "answers": [
+            "premium"
+        ],
+        "other_options": [
+            "margin",
+            "interest",
+            "transaction"
+        ]
+    },
+    {
+        "q": "Rearrange the currency option decision process:",
+        "type": "rearrange",
+        "words": [
+            "Identify exposure",
+            "Choose strike",
+            "Pay premium",
+            "Exercise if favorable"
+        ]
+    },
+    {
+        "q": "Currency futures are standardized by contract size, delivery date, and:",
+        "type": "mcq",
+        "o": [
+            "Currency pairs available",
+            "Premium amount",
+            "Customer name",
+            "Interest rate"
+        ]
+    },
+    {
+        "q": "The initial margin on a currency futures contract is typically ______ of contract value.",
+        "type": "fill_blank",
+        "answers": [
+            "5-10%"
+        ],
+        "other_options": [
+            "50%",
+            "100%",
+            "1%"
+        ]
+    },
+    {
+        "q": "Match the forex hedging instrument with its characteristic:",
+        "type": "match",
+        "left": [
+            "Forward",
+            "Future",
+            "Option",
+            "Swap"
+        ],
+        "right": [
+            "Customized OTC",
+            "Standardized exchange",
+            "Flexibility with premium",
+            "Exchange of cash flows"
+        ]
+    },
+    {
+        "q": "Netting reduces the volume of intercompany payments and associated ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "transaction"
+        ],
+        "other_options": [
+            "operating",
+            "capital",
+            "production"
+        ]
+    },
+    {
+        "q": "Bilateral netting involves two parties while multilateral netting involves more than two.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A reinvoicing center is a subsidiary that:",
+        "type": "mcq",
+        "o": [
+            "Invoices all intercompany transactions in a common currency",
+            "Produces goods for export",
+            "Provides IT services",
+            "Manages employee payroll"
+        ]
+    },
+    {
+        "q": "Leading and lagging are most effective when exchange rates are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "volatile"
+        ],
+        "other_options": [
+            "stable",
+            "fixed",
+            "regulated"
+        ]
+    },
+    {
+        "q": "Rearrange the internal hedging techniques by complexity:",
+        "type": "rearrange",
+        "words": [
+            "Matching",
+            "Netting",
+            "Leading/lagging",
+            "Reinvoicing"
+        ]
+    },
+    {
+        "q": "An interest rate guarantee is another name for:",
+        "type": "mcq",
+        "o": [
+            "Interest rate option",
+            "Interest rate swap",
+            "Forward rate agreement",
+            "Interest rate future"
+        ]
+    },
+    {
+        "q": "A borrower cap has a strike rate that represents the ______ interest rate.",
+        "type": "fill_blank",
+        "answers": [
+            "maximum"
+        ],
+        "other_options": [
+            "minimum",
+            "average",
+            "fixed"
+        ]
+    },
+    {
+        "q": "A lender would buy a floor to protect against falling interest rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the interest rate position with the appropriate hedge:",
+        "type": "match",
+        "left": [
+            "Borrower fears rise",
+            "Borrower fears fall",
+            "Lender fears rise",
+            "Lender fears fall"
+        ],
+        "right": [
+            "Buy cap",
+            "No immediate concern",
+            "No immediate concern",
+            "Buy floor"
+        ]
+    },
+    {
+        "q": "The premium for an at-the-money option is ______ than out-of-the-money.",
+        "type": "fill_blank",
+        "answers": [
+            "higher"
+        ],
+        "other_options": [
+            "lower",
+            "equal",
+            "zero"
+        ]
+    },
+    {
+        "q": "Rearrange the factors affecting option premium from most to least impact:",
+        "type": "rearrange",
+        "words": [
+            "Volatility",
+            "Time to expiry",
+            "Strike vs spot",
+            "Interest rates"
+        ]
+    },
+    {
+        "q": "A plain vanilla swap involves exchanging fixed for floating interest payments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In an interest rate swap, the notional principal amount is:",
+        "type": "mcq",
+        "o": [
+            "Used only for calculating interest amounts, not exchanged",
+            "Exchanged at the start of the swap",
+            "Exchanged at the end of the swap",
+            "Exchanged quarterly"
+        ]
+    },
+    {
+        "q": "A company paying floating rate debt can convert to fixed rate by entering a swap as the ______ payer.",
+        "type": "fill_blank",
+        "answers": [
+            "fixed"
+        ],
+        "other_options": [
+            "floating",
+            "variable",
+            "blended"
+        ]
+    },
+    {
+        "q": "Match the swap type with its cash flow exchange:",
+        "type": "match",
+        "left": [
+            "Interest rate swap",
+            "Currency swap",
+            "Basis swap",
+            "Asset swap"
+        ],
+        "right": [
+            "Fixed for floating same currency",
+            "Principal and interest different currencies",
+            "Two floating rates",
+            "Bond cash flows for floating"
+        ]
+    },
+    {
+        "q": "The swap rate is the fixed rate that makes the swap have zero initial value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Comparative advantage in swaps arises when parties have different ______ differentials.",
+        "type": "fill_blank",
+        "answers": [
+            "borrowing"
+        ],
+        "other_options": [
+            "lending",
+            "investing",
+            "trading"
+        ]
+    },
+    {
+        "q": "If Company A borrows fixed at 6% and floating at LIBOR+1%, while Company B borrows fixed at 8% and floating at LIBOR+2%, the potential saving from a swap is:",
+        "type": "mcq",
+        "o": [
+            "1% to be shared",
+            "2% to be shared",
+            "3% to be shared",
+            "No saving possible"
+        ]
+    },
+    {
+        "q": "Rearrange the swap arrangement steps:",
+        "type": "rearrange",
+        "words": [
+            "Identify comparative advantage",
+            "Calculate potential saving",
+            "Negotiate split",
+            "Document agreement"
+        ]
+    },
+    {
+        "q": "Counterparty risk in swaps is the risk that the other party will ______.",
+        "type": "fill_blank",
+        "answers": [
+            "default"
+        ],
+        "other_options": [
+            "profit",
+            "succeed",
+            "expand"
+        ]
+    },
+    {
+        "q": "Credit default swaps transfer the risk of default from the protection buyer to the seller.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Value at Risk (VaR) measures the maximum potential loss over a given period at a specified:",
+        "type": "mcq",
+        "o": [
+            "Confidence level",
+            "Interest rate",
+            "Exchange rate",
+            "Profit margin"
+        ]
+    },
+    {
+        "q": "A 95% VaR of 1 million means there is a ______% chance that losses will exceed 1 million.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "95",
+            "50",
+            "1"
+        ]
+    },
+    {
+        "q": "VaR can be calculated using historical simulation, variance-covariance, or Monte Carlo methods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the VaR method with its approach:",
+        "type": "match",
+        "left": [
+            "Historical simulation",
+            "Variance-covariance",
+            "Monte Carlo",
+            "Parametric"
+        ],
+        "right": [
+            "Uses past data",
+            "Assumes normal distribution",
+            "Random scenario generation",
+            "Statistical parameters"
+        ]
+    },
+    {
+        "q": "The main limitation of VaR is that it does not indicate the size of losses ______ the VaR threshold.",
+        "type": "fill_blank",
+        "answers": [
+            "beyond"
+        ],
+        "other_options": [
+            "within",
+            "at",
+            "before"
+        ]
+    },
+    {
+        "q": "Stress testing examines portfolio performance under extreme market conditions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A bank with a beta of 1.8 and a risk-free rate of 3% in a market returning 11% has a cost of equity of:",
+        "type": "mcq",
+        "o": [
+            "17.4%",
+            "22.8%",
+            "14.4%",
+            "11%"
+        ]
+    },
+    {
+        "q": "The WACC for a company with 70% equity at 14% and 30% debt at 5% after-tax is ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "11.3"
+        ],
+        "other_options": [
+            "19",
+            "9.5",
+            "7"
+        ]
+    },
+    {
+        "q": "Rearrange the steps of calculating WACC for a new project:",
+        "type": "rearrange",
+        "words": [
+            "Estimate Ke",
+            "Calculate Kd after tax",
+            "Determine weights",
+            "Compute WACC"
+        ]
+    },
+    {
+        "q": "When a project has significantly different risk from the company, the discount rate should be:",
+        "type": "mcq",
+        "o": [
+            "Adjusted to reflect project-specific risk",
+            "Always equal to WACC",
+            "Set to zero",
+            "Ignored"
+        ]
+    },
+    {
+        "q": "A proxy company beta is used when we cannot directly observe the target project's ______.",
+        "type": "fill_blank",
+        "answers": [
+            "beta"
+        ],
+        "other_options": [
+            "cash flows",
+            "costs",
+            "revenues"
+        ]
+    },
+    {
+        "q": "Match the project type with the appropriate beta treatment:",
+        "type": "match",
+        "left": [
+            "Same industry same gearing",
+            "Same industry different gearing",
+            "Different industry",
+            "International project"
+        ],
+        "right": [
+            "Use company beta",
+            "Ungear and regear proxy beta",
+            "Find proxy and adjust",
+            "Add country risk premium"
+        ]
+    },
+    {
+        "q": "Country risk premium is added when investing in emerging markets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Political risk includes the risk of expropriation, changes in tax laws, and currency controls.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "OPIC and MIGA provide:",
+        "type": "mcq",
+        "o": [
+            "Political risk insurance",
+            "Currency hedging",
+            "Equity financing",
+            "Tax advice"
+        ]
+    },
+    {
+        "q": "Transfer pricing affects the taxation of ______ transactions.",
+        "type": "fill_blank",
+        "answers": [
+            "intercompany"
+        ],
+        "other_options": [
+            "customer",
+            "supplier",
+            "competitor"
+        ]
+    },
+    {
+        "q": "Rearrange the international investment appraisal steps:",
+        "type": "rearrange",
+        "words": [
+            "Estimate foreign flows",
+            "Adjust for remittance",
+            "Convert to home currency",
+            "Apply discount rate"
+        ]
+    },
+    {
+        "q": "Blocked funds in foreign countries represent a significant risk because:",
+        "type": "mcq",
+        "o": [
+            "Profits cannot be repatriated to the parent",
+            "Profits increase value",
+            "Exchange rates improve",
+            "Taxes are reduced"
+        ]
+    },
+    {
+        "q": "A project should be evaluated from both the parent and ______ perspective.",
+        "type": "fill_blank",
+        "answers": [
+            "subsidiary"
+        ],
+        "other_options": [
+            "competitor",
+            "customer",
+            "regulator"
+        ]
+    },
+    {
+        "q": "Match the international finance term with its meaning:",
+        "type": "match",
+        "left": [
+            "Remittance",
+            "Withholding tax",
+            "Double taxation",
+            "Tax treaty"
+        ],
+        "right": [
+            "Sending profits home",
+            "Tax on dividends paid abroad",
+            "Taxed in both countries",
+            "Agreement to avoid double tax"
+        ]
+    },
+    {
+        "q": "The arm's length principle requires intercompany transactions to be priced as if between independent parties.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Thin capitalization rules limit the amount of ______ a subsidiary can have.",
+        "type": "fill_blank",
+        "answers": [
+            "debt"
+        ],
+        "other_options": [
+            "equity",
+            "cash",
+            "assets"
+        ]
+    },
+    {
+        "q": "Economic Value Added (EVA) measures value creation by calculating:",
+        "type": "mcq",
+        "o": [
+            "Operating profit after tax minus capital charge",
+            "Revenue minus costs",
+            "Net profit only",
+            "Cash flow only"
+        ]
+    },
+    {
+        "q": "EVA equals NOPAT minus (capital invested times ______).",
+        "type": "fill_blank",
+        "answers": [
+            "WACC"
+        ],
+        "other_options": [
+            "ROE",
+            "IRR",
+            "NPV"
+        ]
+    },
+    {
+        "q": "A positive EVA indicates the company is creating shareholder value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the performance measure with its focus:",
+        "type": "match",
+        "left": [
+            "EVA",
+            "ROCE",
+            "EPS",
+            "MVA"
+        ],
+        "right": [
+            "Economic profit",
+            "Return on capital",
+            "Profit per share",
+            "Market value added"
+        ]
+    },
+    {
+        "q": "MVA is the difference between market value and ______ invested.",
+        "type": "fill_blank",
+        "answers": [
+            "capital"
+        ],
+        "other_options": [
+            "debt",
+            "equity",
+            "assets"
+        ]
+    },
+    {
+        "q": "Rearrange the EVA improvement strategies:",
+        "type": "rearrange",
+        "words": [
+            "Increase NOPAT",
+            "Reduce capital",
+            "Lower WACC"
+        ]
+    },
+    {
+        "q": "Shareholder Value Analysis (SVA) focuses on maximizing:",
+        "type": "mcq",
+        "o": [
+            "Long-term cash flows discounted at cost of capital",
+            "Short-term earnings only",
+            "Accounting profits",
+            "Revenue growth"
+        ]
+    },
+    {
+        "q": "The value drivers in SVA include sales growth, operating margin, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "asset efficiency"
+        ],
+        "other_options": [
+            "employee count",
+            "building size",
+            "inventory age"
+        ]
+    },
+    {
+        "q": "Total Shareholder Return (TSR) includes both dividends and capital gains.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the valuation approach with its basis:",
+        "type": "match",
+        "left": [
+            "DCF",
+            "Comparables",
+            "Asset-based",
+            "Earnings-based"
+        ],
+        "right": [
+            "Present value of cash flows",
+            "Market multiples",
+            "Net asset value",
+            "PE ratio"
+        ]
+    },
+    {
+        "q": "Enterprise value equals equity value plus debt minus ______.",
+        "type": "fill_blank",
+        "answers": [
+            "cash"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "inventory"
+        ]
+    },
+    {
+        "q": "The PE ratio is calculated as share price divided by earnings per share.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A company with a share price of 50 and EPS of 5 has a PE ratio of:",
+        "type": "mcq",
+        "o": [
+            "10",
+            "5",
+            "50",
+            "55"
+        ]
+    },
+    {
+        "q": "The earnings yield is the ______ of the PE ratio.",
+        "type": "fill_blank",
+        "answers": [
+            "reciprocal"
+        ],
+        "other_options": [
+            "multiple",
+            "sum",
+            "product"
+        ]
+    },
+    {
+        "q": "Rearrange the valuation methods from simplest to most complex:",
+        "type": "rearrange",
+        "words": [
+            "Asset value",
+            "PE multiple",
+            "DCF model",
+            "Real options"
+        ]
+    },
+    {
+        "q": "A company valued at 10 times EBITDA of 5 million has an enterprise value of:",
+        "type": "mcq",
+        "o": [
+            "50 million",
+            "500 million",
+            "5 million",
+            "15 million"
+        ]
+    },
+    {
+        "q": "EV/EBITDA multiple is useful because it is capital structure ______.",
+        "type": "fill_blank",
+        "answers": [
+            "neutral"
+        ],
+        "other_options": [
+            "dependent",
+            "positive",
+            "negative"
+        ]
+    },
+    {
+        "q": "Match the multiple with the most appropriate sector:",
+        "type": "match",
+        "left": [
+            "PE ratio",
+            "EV/EBITDA",
+            "Price/Book",
+            "Revenue multiple"
+        ],
+        "right": [
+            "Profitable companies",
+            "Capital intensive",
+            "Banks and financials",
+            "Early stage tech"
+        ]
+    },
+    {
+        "q": "Book value per share equals equity divided by number of shares.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A company trading below book value may be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "undervalued"
+        ],
+        "other_options": [
+            "overvalued",
+            "profitable",
+            "growing"
+        ]
+    },
+    {
+        "q": "The free cash flow to the firm equals operating cash flow minus capital expenditure plus net working capital change.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "FCFF is discounted at WACC while FCFE is discounted at:",
+        "type": "mcq",
+        "o": [
+            "Cost of equity",
+            "Cost of debt",
+            "Average rate",
+            "Risk-free rate"
+        ]
+    },
+    {
+        "q": "Terminal value in DCF represents the value of cash flows ______ the forecast period.",
+        "type": "fill_blank",
+        "answers": [
+            "beyond"
+        ],
+        "other_options": [
+            "within",
+            "before",
+            "during"
+        ]
+    },
+    {
+        "q": "Match the DCF component with its calculation:",
+        "type": "match",
+        "left": [
+            "FCFF",
+            "Terminal value",
+            "Present value",
+            "Enterprise value"
+        ],
+        "right": [
+            "Operating cash less capex",
+            "Perpetuity formula",
+            "Discounted cash flows",
+            "PV of forecasts plus terminal"
+        ]
+    },
+    {
+        "q": "The Gordon growth model for terminal value uses a perpetual ______ rate.",
+        "type": "fill_blank",
+        "answers": [
+            "growth"
+        ],
+        "other_options": [
+            "discount",
+            "inflation",
+            "interest"
+        ]
+    },
+    {
+        "q": "Rearrange the DCF valuation steps:",
+        "type": "rearrange",
+        "words": [
+            "Forecast cash flows",
+            "Calculate terminal value",
+            "Discount to present",
+            "Sum to get EV"
+        ]
+    },
+    {
+        "q": "A bid premium in an acquisition is typically:",
+        "type": "mcq",
+        "o": [
+            "20-40% above current share price",
+            "0-5% above share price",
+            "Equal to book value",
+            "Below market price"
+        ]
+    },
+    {
+        "q": "Synergies in M&A include cost savings and ______ enhancements.",
+        "type": "fill_blank",
+        "answers": [
+            "revenue"
+        ],
+        "other_options": [
+            "debt",
+            "risk",
+            "tax"
+        ]
+    },
+    {
+        "q": "The winner's curse in acquisitions refers to overpaying due to competitive bidding.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the acquisition type with its characteristic:",
+        "type": "match",
+        "left": [
+            "Horizontal",
+            "Vertical",
+            "Conglomerate",
+            "Reverse takeover"
+        ],
+        "right": [
+            "Same industry",
+            "Supply chain integration",
+            "Unrelated business",
+            "Smaller acquires larger"
+        ]
+    },
+    {
+        "q": "Due diligence is the investigation process before completing an ______.",
+        "type": "fill_blank",
+        "answers": [
+            "acquisition"
+        ],
+        "other_options": [
+            "IPO",
+            "dividend",
+            "audit"
+        ]
+    },
+    {
+        "q": "Defence mechanisms against hostile takeovers include poison pills, white knights, and PAC-Man defence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A leveraged buyout (LBO) is financed primarily with:",
+        "type": "mcq",
+        "o": [
+            "Debt",
+            "Equity",
+            "Cash reserves",
+            "Government grants"
+        ]
+    },
+    {
+        "q": "Management buyout involves the ______ team acquiring the company.",
+        "type": "fill_blank",
+        "answers": [
+            "management"
+        ],
+        "other_options": [
+            "sales",
+            "customer",
+            "supplier"
+        ]
+    },
+    {
+        "q": "Rearrange the M&A process stages:",
+        "type": "rearrange",
+        "words": [
+            "Target identification",
+            "Valuation",
+            "Negotiation",
+            "Integration"
+        ]
+    },
+    {
+        "q": "Earnouts link part of the acquisition price to future performance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A share-for-share exchange offer is also called a paper bid because:",
+        "type": "mcq",
+        "o": [
+            "No cash changes hands, only shares are issued",
+            "Documents are printed on paper",
+            "It involves paper assets",
+            "Contracts are signed on paper"
+        ]
+    },
+    {
+        "q": "Match the M&A financing with its impact:",
+        "type": "match",
+        "left": [
+            "Cash offer",
+            "Share offer",
+            "Mixed offer",
+            "LBO"
+        ],
+        "right": [
+            "Reduces acquirer cash",
+            "Dilutes ownership",
+            "Combination of both",
+            "Increases debt"
+        ]
+    },
+    {
+        "q": "Post-acquisition integration is crucial for realizing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "synergies"
+        ],
+        "other_options": [
+            "losses",
+            "taxes",
+            "disputes"
+        ]
+    },
+    {
+        "q": "Corporate restructuring includes divestiture, spin-offs, and carve-outs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A spin-off creates a new independent company by distributing shares to:",
+        "type": "mcq",
+        "o": [
+            "Existing shareholders",
+            "New investors",
+            "Employees only",
+            "Creditors"
+        ]
+    },
+    {
+        "q": "A carve-out involves selling a minority stake in a subsidiary to the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "public"
+        ],
+        "other_options": [
+            "employees",
+            "managers",
+            "competitors"
+        ]
+    },
+    {
+        "q": "Match the restructuring type with its description:",
+        "type": "match",
+        "left": [
+            "Spin-off",
+            "Carve-out",
+            "Split-off",
+            "Divestiture"
+        ],
+        "right": [
+            "Distribute subsidiary shares",
+            "IPO of subsidiary",
+            "Exchange parent for subsidiary",
+            "Sell business unit"
+        ]
+    },
+    {
+        "q": "Financial distress occurs when a company cannot meet its debt obligations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Chapter 11 in the US allows companies to ______ while restructuring.",
+        "type": "fill_blank",
+        "answers": [
+            "continue operating"
+        ],
+        "other_options": [
+            "shut down",
+            "liquidate",
+            "sell assets"
+        ]
+    },
+    {
+        "q": "Rearrange the financial distress stages:",
+        "type": "rearrange",
+        "words": [
+            "Cash flow problems",
+            "Covenant breach",
+            "Restructuring",
+            "Resolution"
+        ]
+    },
+    {
+        "q": "A debt-for-equity swap involves creditors exchanging debt for:",
+        "type": "mcq",
+        "o": [
+            "Ownership stake in the company",
+            "More debt",
+            "Cash payment",
+            "Assets"
+        ]
+    },
+    {
+        "q": "Altman's Z-score predicts the probability of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "bankruptcy"
+        ],
+        "other_options": [
+            "profit",
+            "growth",
+            "success"
+        ]
+    },
+    {
+        "q": "A Z-score below 1.81 indicates a high probability of bankruptcy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the Z-score range with its interpretation:",
+        "type": "match",
+        "left": [
+            "Below 1.81",
+            "1.81 to 2.99",
+            "Above 2.99",
+            "Negative"
+        ],
+        "right": [
+            "Distress zone",
+            "Grey zone",
+            "Safe zone",
+            "Very high risk"
+        ]
+    },
+    {
+        "q": "Working capital finance options include bank overdraft, factoring, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "invoice discounting"
+        ],
+        "other_options": [
+            "share issue",
+            "bonds",
+            "retained earnings"
+        ]
+    },
+    {
+        "q": "An asset-based lending facility uses receivables and inventory as collateral.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supply chain finance benefits:",
+        "type": "mcq",
+        "o": [
+            "Both the buyer and supplier through extended payment terms and early payment",
+            "Only the buyer",
+            "Only the supplier",
+            "Only the bank"
+        ]
+    },
+    {
+        "q": "Reverse factoring is initiated by the ______ rather than the supplier.",
+        "type": "fill_blank",
+        "answers": [
+            "buyer"
+        ],
+        "other_options": [
+            "bank",
+            "factor",
+            "insurer"
+        ]
+    },
+    {
+        "q": "Match the working capital finance source with its feature:",
+        "type": "match",
+        "left": [
+            "Overdraft",
+            "Term loan",
+            "Invoice finance",
+            "Trade credit"
+        ],
+        "right": [
+            "Flexible short-term",
+            "Fixed repayment schedule",
+            "Based on receivables",
+            "Supplier-provided"
+        ]
+    },
+    {
+        "q": "Rearrange the cost of different financing sources from lowest to highest (typically):",
+        "type": "rearrange",
+        "words": [
+            "Trade credit",
+            "Bank overdraft",
+            "Factoring",
+            "Equity"
+        ]
+    },
+    {
+        "q": "A committed facility guarantees availability of funds for a fee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The Annual Percentage Rate (APR) provides the true cost of borrowing including:",
+        "type": "mcq",
+        "o": [
+            "All fees and compounding effects",
+            "Interest only",
+            "Principal only",
+            "Inflation"
+        ]
+    },
+    {
+        "q": "The effective annual rate converts nominal rates with different compounding periods to an ______ equivalent.",
+        "type": "fill_blank",
+        "answers": [
+            "annual"
+        ],
+        "other_options": [
+            "monthly",
+            "daily",
+            "weekly"
+        ]
+    },
+    {
+        "q": "A nominal rate of 12% compounded monthly has an effective annual rate of approximately 12.68%.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the interest rate concept with its definition:",
+        "type": "match",
+        "left": [
+            "Nominal rate",
+            "Effective rate",
+            "Real rate",
+            "Risk-free rate"
+        ],
+        "right": [
+            "Stated rate",
+            "True annual cost",
+            "Adjusted for inflation",
+            "Government bond yield"
+        ]
+    },
+    {
+        "q": "A loan with quarterly payments will have a higher EAR than one with annual payments at the same nominal rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The dividend growth model requires that the growth rate g must be ______ than the required return r.",
+        "type": "fill_blank",
+        "answers": [
+            "less"
+        ],
+        "other_options": [
+            "greater",
+            "equal",
+            "unrelated"
+        ]
+    },
+    {
+        "q": "If a company's dividend is 3 pounds, growth is 4%, and required return is 12%, the share value is:",
+        "type": "mcq",
+        "o": [
+            "39 pounds",
+            "25 pounds",
+            "50 pounds",
+            "75 pounds"
+        ]
+    },
+    {
+        "q": "Rearrange the components of the dividend growth model formula:",
+        "type": "rearrange",
+        "words": [
+            "D0(1+g)",
+            "Divided by",
+            "(r - g)"
+        ]
+    },
+    {
+        "q": "The two-stage dividend growth model is used when dividends grow at different rates in different periods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the share valuation scenario with the appropriate model:",
+        "type": "match",
+        "left": [
+            "Constant growth forever",
+            "High growth then stable",
+            "No dividends",
+            "Declining business"
+        ],
+        "right": [
+            "Gordon growth model",
+            "Two-stage model",
+            "Cash flow or relative",
+            "Asset-based"
+        ]
+    },
+    {
+        "q": "A rights issue at 80 pence when the current price is 100 pence with 1-for-4 terms gives a theoretical ex-rights price of ______ pence.",
+        "type": "fill_blank",
+        "answers": [
+            "96"
+        ],
+        "other_options": [
+            "90",
+            "85",
+            "100"
+        ]
+    },
+    {
+        "q": "The value of a nil-paid right is the difference between the theoretical ex-rights price and:",
+        "type": "mcq",
+        "o": [
+            "The subscription price",
+            "The current share price",
+            "Par value",
+            "Book value"
+        ]
+    },
+    {
+        "q": "Shareholders who do not take up their rights can sell them in the market.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the rights issue term with its meaning:",
+        "type": "match",
+        "left": [
+            "Subscription price",
+            "TERP",
+            "Nil-paid rights",
+            "Renounceable"
+        ],
+        "right": [
+            "Price to buy new shares",
+            "Ex-rights share price",
+            "Value of the right itself",
+            "Can be sold"
+        ]
+    },
+    {
+        "q": "In a 2-for-5 rights issue, for every 5 shares owned, the shareholder can buy ______ new shares.",
+        "type": "fill_blank",
+        "answers": [
+            "2"
+        ],
+        "other_options": [
+            "5",
+            "7",
+            "3"
+        ]
+    },
+    {
+        "q": "Rearrange the steps of evaluating a rights issue as a shareholder:",
+        "type": "rearrange",
+        "words": [
+            "Calculate TERP",
+            "Find value of right",
+            "Compare to cost",
+            "Decide to take up or sell"
+        ]
+    },
+    {
+        "q": "Convertible bonds give the holder the option to convert debt into equity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The conversion ratio is the number of shares received per bond upon conversion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The conversion premium is the percentage by which the conversion price exceeds the current:",
+        "type": "mcq",
+        "o": [
+            "Share price",
+            "Bond price",
+            "Par value",
+            "Interest rate"
+        ]
+    },
+    {
+        "q": "Match the convertible bond term with its definition:",
+        "type": "match",
+        "left": [
+            "Conversion ratio",
+            "Conversion price",
+            "Floor value",
+            "Conversion premium"
+        ],
+        "right": [
+            "Shares per bond",
+            "Bond value / ratio",
+            "Minimum bond value",
+            "Premium over share price"
+        ]
+    },
+    {
+        "q": "The floor value of a convertible is the higher of its bond value and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "conversion value"
+        ],
+        "other_options": [
+            "par value",
+            "issue price",
+            "market price"
+        ]
+    },
+    {
+        "q": "Companies issue convertibles because they typically have a lower coupon than straight debt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A warrant is similar to a call option but is issued by the company itself.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "When warrants are exercised, new shares are issued causing:",
+        "type": "mcq",
+        "o": [
+            "Dilution of existing shareholders",
+            "No effect on shares",
+            "Share buyback",
+            "Dividend payment"
+        ]
+    },
+    {
+        "q": "Rearrange the convertible bond holder's decision process:",
+        "type": "rearrange",
+        "words": [
+            "Monitor share price",
+            "Compare to conversion price",
+            "Decide to convert",
+            "Receive shares"
+        ]
+    },
+    {
+        "q": "Call provisions allow the company to force early redemption of convertible bonds.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the hybrid security with its key feature:",
+        "type": "match",
+        "left": [
+            "Convertible bond",
+            "Warrant",
+            "Preferred stock",
+            "Mezzanine debt"
+        ],
+        "right": [
+            "Debt to equity option",
+            "Standalone option",
+            "Fixed dividends",
+            "Subordinated with equity kicker"
+        ]
+    },
+    {
+        "q": "Financial engineering combines different securities to create ______ risk-return profiles.",
+        "type": "fill_blank",
+        "answers": [
+            "customized"
+        ],
+        "other_options": [
+            "standard",
+            "random",
+            "fixed"
+        ]
+    },
+    {
+        "q": "Structured products are pre-packaged investment strategies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Asset securitization involves pooling assets and issuing:",
+        "type": "mcq",
+        "o": [
+            "Securities backed by those assets",
+            "New shares",
+            "Dividends",
+            "Trade credit"
+        ]
+    },
+    {
+        "q": "MBS stands for Mortgage-______ Securities.",
+        "type": "fill_blank",
+        "answers": [
+            "Backed"
+        ],
+        "other_options": [
+            "Based",
+            "Bonded",
+            "Balanced"
+        ]
+    },
+    {
+        "q": "Match the structured product with its underlying assets:",
+        "type": "match",
+        "left": [
+            "MBS",
+            "ABS",
+            "CDO",
+            "CLO"
+        ],
+        "right": [
+            "Mortgages",
+            "Various assets",
+            "Debt obligations",
+            "Loans"
+        ]
+    },
+    {
+        "q": "Tranching in securitization creates different risk levels from the same asset pool.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the securitization process:",
+        "type": "rearrange",
+        "words": [
+            "Pool assets",
+            "Create SPV",
+            "Issue tranches",
+            "Distribute cash flows"
+        ]
+    },
+    {
+        "q": "Corporate governance ensures companies are run in the interests of:",
+        "type": "mcq",
+        "o": [
+            "Shareholders and stakeholders",
+            "Managers only",
+            "Government only",
+            "Competitors"
+        ]
+    },
+    {
+        "q": "The UK Corporate Governance Code operates on a comply or ______ basis.",
+        "type": "fill_blank",
+        "answers": [
+            "explain"
+        ],
+        "other_options": [
+            "reject",
+            "ignore",
+            "accept"
+        ]
+    },
+    {
+        "q": "Non-executive directors provide independent oversight of the board.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the governance committee with its primary function:",
+        "type": "match",
+        "left": [
+            "Audit committee",
+            "Remuneration committee",
+            "Nomination committee",
+            "Risk committee"
+        ],
+        "right": [
+            "Financial reporting oversight",
+            "Executive pay",
+            "Board appointments",
+            "Risk management"
+        ]
+    },
+    {
+        "q": "Executive share options align management interests with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "shareholders"
+        ],
+        "other_options": [
+            "employees",
+            "creditors",
+            "customers"
+        ]
+    },
+    {
+        "q": "Environmental, Social, and Governance (ESG) factors are increasingly important in investment decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the governance principles by importance:",
+        "type": "rearrange",
+        "words": [
+            "Leadership",
+            "Accountability",
+            "Transparency",
+            "Sustainability"
+        ]
+    },
+    {
+        "q": "Integrated reporting combines financial and non-financial information for stakeholders.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The cost of poor governance can include:",
+        "type": "mcq",
+        "o": [
+            "Lower share price and higher cost of capital",
+            "Higher profits",
+            "Better credit rating",
+            "Tax benefits"
+        ]
+    },
+    {
+        "q": "Stakeholder theory suggests companies should consider all parties affected by their ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decisions"
+        ],
+        "other_options": [
+            "profits",
+            "products",
+            "employees"
+        ]
+    },
+    {
+        "q": "Match the ethical approach with its focus:",
+        "type": "match",
+        "left": [
+            "Shareholder theory",
+            "Stakeholder theory",
+            "CSR",
+            "Ethics codes"
+        ],
+        "right": [
+            "Maximize owner wealth",
+            "Balance all interests",
+            "Social responsibility",
+            "Behavioral guidelines"
+        ]
+    },
+    {
+        "q": "Long-term sustainable value creation requires balancing profit with purpose.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A company with EBIT of 5 million and interest of 1 million has an interest cover of:",
+        "type": "mcq",
+        "o": [
+            "5 times",
+            "4 times",
+            "6 times",
+            "1 time"
+        ]
+    },
+    {
+        "q": "Interest cover measures a company's ability to meet its ______ obligations.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "dividend",
+            "capital",
+            "operating"
+        ]
+    },
+    {
+        "q": "A declining interest cover ratio may indicate increasing financial risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the financial ratio with its interpretation:",
+        "type": "match",
+        "left": [
+            "Interest cover",
+            "Gearing ratio",
+            "Current ratio",
+            "ROE"
+        ],
+        "right": [
+            "Ability to pay interest",
+            "Level of debt",
+            "Short-term liquidity",
+            "Return to shareholders"
+        ]
+    },
+    {
+        "q": "The optimal level of gearing depends on the company's industry, stability, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk tolerance"
+        ],
+        "other_options": [
+            "share price",
+            "dividend",
+            "location"
+        ]
+    },
+    {
+        "q": "A company in a cyclical industry should typically have lower gearing than one in a stable industry.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Operating gearing measures the ratio of fixed costs to:",
+        "type": "mcq",
+        "o": [
+            "Variable costs or total costs",
+            "Revenue only",
+            "Profit only",
+            "Assets only"
+        ]
+    },
+    {
+        "q": "Combined gearing equals operating gearing multiplied by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "financial gearing"
+        ],
+        "other_options": [
+            "revenue",
+            "profit",
+            "assets"
+        ]
+    },
+    {
+        "q": "Rearrange the gearing concepts from operating to combined:",
+        "type": "rearrange",
+        "words": [
+            "Operating gearing",
+            "Financial gearing",
+            "Combined gearing"
+        ]
+    },
+    {
+        "q": "Debt covenants are conditions attached to loan agreements that restrict company actions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A negative covenant typically ______ certain actions by the borrower.",
+        "type": "fill_blank",
+        "answers": [
+            "restricts"
+        ],
+        "other_options": [
+            "requires",
+            "allows",
+            "encourages"
+        ]
+    },
+    {
+        "q": "Match the covenant type with its example:",
+        "type": "match",
+        "left": [
+            "Financial covenant",
+            "Affirmative covenant",
+            "Negative covenant",
+            "Incurrence covenant"
+        ],
+        "right": [
+            "Maintain interest cover",
+            "Provide audited accounts",
+            "No additional secured debt",
+            "Tested on new debt"
+        ]
+    },
+    {
+        "q": "Breaching a debt covenant can trigger:",
+        "type": "mcq",
+        "o": [
+            "Acceleration of debt repayment",
+            "Automatic dividend increase",
+            "Share price increase",
+            "Tax reduction"
+        ]
+    },
+    {
+        "q": "A waiver is obtained from lenders when a covenant is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "breached"
+        ],
+        "other_options": [
+            "met",
+            "improved",
+            "ignored"
+        ]
+    },
+    {
+        "q": "Rearrange the covenant breach process:",
+        "type": "rearrange",
+        "words": [
+            "Breach identified",
+            "Notify lender",
+            "Request waiver",
+            "Negotiate terms"
+        ]
+    },
+    {
+        "q": "Project finance involves using the project's cash flows as the primary source of repayment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SPV stands for Special ______ Vehicle.",
+        "type": "fill_blank",
+        "answers": [
+            "Purpose"
+        ],
+        "other_options": [
+            "Project",
+            "Payment",
+            "Performance"
+        ]
+    },
+    {
+        "q": "Non-recourse lending means lenders have claims only on:",
+        "type": "mcq",
+        "o": [
+            "Project assets and cash flows",
+            "Parent company assets",
+            "All shareholder assets",
+            "Government guarantees"
+        ]
+    },
+    {
+        "q": "Match the project finance term with its meaning:",
+        "type": "match",
+        "left": [
+            "SPV",
+            "Non-recourse",
+            "Debt service cover",
+            "Step-in rights"
+        ],
+        "right": [
+            "Legal entity for project",
+            "No parent guarantee",
+            "Cash flow vs debt payments",
+            "Lender can take control"
+        ]
+    },
+    {
+        "q": "Infrastructure projects are often financed using project finance because of their long ______ periods.",
+        "type": "fill_blank",
+        "answers": [
+            "payback"
+        ],
+        "other_options": [
+            "growth",
+            "profit",
+            "loss"
+        ]
+    },
+    {
+        "q": "PPP stands for Public-Private Partnership.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In a BOT (Build-Operate-Transfer) project, ownership transfers to the government after the:",
+        "type": "mcq",
+        "o": [
+            "Concession period",
+            "Construction phase",
+            "First year",
+            "Financing period"
+        ]
+    },
+    {
+        "q": "Rearrange the BOT project phases:",
+        "type": "rearrange",
+        "words": [
+            "Build",
+            "Operate",
+            "Transfer"
+        ]
+    },
+    {
+        "q": "Completion risk in project finance relates to the project being finished on time and budget.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the project risk with its mitigation:",
+        "type": "match",
+        "left": [
+            "Completion risk",
+            "Operating risk",
+            "Market risk",
+            "Political risk"
+        ],
+        "right": [
+            "Fixed-price EPC contract",
+            "O&M agreement",
+            "Offtake contract",
+            "Government guarantee"
+        ]
+    },
+    {
+        "q": "An offtake agreement guarantees a ______ for project output.",
+        "type": "fill_blank",
+        "answers": [
+            "buyer"
+        ],
+        "other_options": [
+            "seller",
+            "price",
+            "volume"
+        ]
+    },
+    {
+        "q": "Working capital management aims to balance liquidity with profitability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Holding excess cash is costly because of the ______ cost.",
+        "type": "fill_blank",
+        "answers": [
+            "opportunity"
+        ],
+        "other_options": [
+            "transaction",
+            "holding",
+            "fixed"
+        ]
+    },
+    {
+        "q": "Match the cash management objective with its trade-off:",
+        "type": "match",
+        "left": [
+            "Liquidity",
+            "Profitability",
+            "Safety",
+            "Efficiency"
+        ],
+        "right": [
+            "Lower returns",
+            "Higher risk",
+            "Lower returns",
+            "Higher complexity"
+        ]
+    },
+    {
+        "q": "Cash budgeting helps forecast:",
+        "type": "mcq",
+        "o": [
+            "Future cash surpluses and deficits",
+            "Historical profits only",
+            "Asset values only",
+            "Share prices"
+        ]
+    },
+    {
+        "q": "A cash budget is prepared by adding cash ______ and subtracting cash payments.",
+        "type": "fill_blank",
+        "answers": [
+            "receipts"
+        ],
+        "other_options": [
+            "profits",
+            "assets",
+            "debts"
+        ]
+    },
+    {
+        "q": "Rearrange the cash budget preparation steps:",
+        "type": "rearrange",
+        "words": [
+            "Estimate receipts",
+            "Estimate payments",
+            "Calculate net flow",
+            "Determine financing"
+        ]
+    },
+    {
+        "q": "Seasonal businesses often need more working capital finance during peak periods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Permanent working capital is the minimum level needed for ongoing operations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The matching principle suggests permanent assets should be financed with ______ finance.",
+        "type": "fill_blank",
+        "answers": [
+            "long-term"
+        ],
+        "other_options": [
+            "short-term",
+            "no",
+            "flexible"
+        ]
+    },
+    {
+        "q": "Match the working capital level with its appropriate financing:",
+        "type": "match",
+        "left": [
+            "Permanent working capital",
+            "Seasonal working capital",
+            "Emergency needs",
+            "Growth investment"
+        ],
+        "right": [
+            "Long-term debt or equity",
+            "Short-term bank facilities",
+            "Cash reserves or overdraft",
+            "Retained earnings or equity"
+        ]
+    },
+    {
+        "q": "An aggressive working capital strategy uses more short-term finance and carries higher:",
+        "type": "mcq",
+        "o": [
+            "Liquidity risk",
+            "Profitability",
+            "Safety",
+            "Growth"
+        ]
+    },
+    {
+        "q": "Rearrange working capital policies from conservative to aggressive:",
+        "type": "rearrange",
+        "words": [
+            "Conservative",
+            "Moderate",
+            "Aggressive"
+        ]
+    },
+    {
+        "q": "Float in cash management is the time between payment and ______ of funds.",
+        "type": "fill_blank",
+        "answers": [
+            "receipt"
+        ],
+        "other_options": [
+            "loss",
+            "investment",
+            "deposit"
+        ]
+    },
+    {
+        "q": "Collection float can be reduced by using electronic payments instead of checks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the float type with its description:",
+        "type": "match",
+        "left": [
+            "Disbursement float",
+            "Collection float",
+            "Mail float",
+            "Processing float"
+        ],
+        "right": [
+            "Time from payment to debit",
+            "Time from receipt to credit",
+            "Postal delay",
+            "Bank processing time"
+        ]
+    },
+    {
+        "q": "SWIFT is an international network for:",
+        "type": "mcq",
+        "o": [
+            "Secure financial messaging between banks",
+            "Share trading",
+            "Foreign exchange speculation",
+            "Credit rating"
+        ]
+    },
+    {
+        "q": "Real-time gross settlement (RTGS) provides ______ and final payment.",
+        "type": "fill_blank",
+        "answers": [
+            "immediate"
+        ],
+        "other_options": [
+            "delayed",
+            "partial",
+            "conditional"
+        ]
+    },
+    {
+        "q": "CHAPS is the UK's high-value same-day payment system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange payment methods from fastest to slowest:",
+        "type": "rearrange",
+        "words": [
+            "RTGS",
+            "Electronic transfer",
+            "Check"
+        ]
+    },
+    {
+        "q": "Target2 is the RTGS system used in the:",
+        "type": "mcq",
+        "o": [
+            "Eurozone",
+            "United States",
+            "United Kingdom",
+            "Japan"
+        ]
+    },
+    {
+        "q": "Match the payment system with its region:",
+        "type": "match",
+        "left": [
+            "CHAPS",
+            "Fedwire",
+            "Target2",
+            "SWIFT"
+        ],
+        "right": [
+            "UK",
+            "USA",
+            "Eurozone",
+            "Global"
+        ]
+    },
+    {
+        "q": "Cross-border payments typically take longer due to multiple correspondent banks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Nostro accounts are held by a bank in ______ banks.",
+        "type": "fill_blank",
+        "answers": [
+            "foreign"
+        ],
+        "other_options": [
+            "domestic",
+            "central",
+            "local"
+        ]
+    },
+    {
+        "q": "A vostro account is the same account from the receiving bank's perspective.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the treasury term with its meaning:",
+        "type": "match",
+        "left": [
+            "Nostro",
+            "Vostro",
+            "Correspondent",
+            "In-house bank"
+        ],
+        "right": [
+            "Our account at your bank",
+            "Your account at our bank",
+            "Partner bank abroad",
+            "Internal treasury center"
+        ]
+    },
+    {
+        "q": "Treasury centralization can achieve benefits through economies of scale and better risk management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the treasury structure options from most to least centralized:",
+        "type": "rearrange",
+        "words": [
+            "Fully centralized",
+            "Regional centers",
+            "Decentralized"
+        ]
+    },
+    {
+        "q": "An in-house bank provides banking services to group companies internally.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Notional pooling allows interest offset without physical movement of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "funds"
+        ],
+        "other_options": [
+            "accounts",
+            "banks",
+            "statements"
+        ]
+    },
+    {
+        "q": "Zero-balancing sweeps all subsidiary balances to a central account daily.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the cash pooling technique with its feature:",
+        "type": "match",
+        "left": [
+            "Physical pooling",
+            "Notional pooling",
+            "Target balancing",
+            "Sweeping"
+        ],
+        "right": [
+            "Actual fund movement",
+            "Virtual offset only",
+            "Maintain set balance",
+            "Automatic transfers"
+        ]
+    },
+    {
+        "q": "Bank relationship management involves maintaining good relationships with ______ banks.",
+        "type": "fill_blank",
+        "answers": [
+            "core"
+        ],
+        "other_options": [
+            "all",
+            "new",
+            "foreign"
+        ]
+    },
+    {
+        "q": "Bank fees can be negotiated based on the overall relationship value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the bank service with its typical fee structure:",
+        "type": "match",
+        "left": [
+            "Account maintenance",
+            "Payments",
+            "Cash handling",
+            "FX trading"
+        ],
+        "right": [
+            "Monthly fee",
+            "Per transaction",
+            "Volume-based",
+            "Spread"
+        ]
+    },
+    {
+        "q": "KYC stands for Know Your ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Customer"
+        ],
+        "other_options": [
+            "Capital",
+            "Company",
+            "Credit"
+        ]
+    },
+    {
+        "q": "AML regulations require banks to verify the identity of customers and monitor transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the bank account opening process:",
+        "type": "rearrange",
+        "words": [
+            "Submit documentation",
+            "Complete KYC",
+            "Sign mandates",
+            "Account activated"
+        ]
+    },
+    {
+        "q": "Treasury management systems (TMS) automate cash management and reporting functions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "API connectivity allows real-time integration between treasury systems and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "banks"
+        ],
+        "other_options": [
+            "customers",
+            "suppliers",
+            "regulators"
+        ]
+    },
+    {
+        "q": "Match the treasury technology with its function:",
+        "type": "match",
+        "left": [
+            "TMS",
+            "ERP",
+            "SWIFT",
+            "eBAM"
+        ],
+        "right": [
+            "Cash and risk management",
+            "Overall business processes",
+            "Secure messaging",
+            "Electronic bank account management"
+        ]
+    },
+    {
+        "q": "Bank statement reconciliation matches the company's records with the bank's records.",
+        "type": "true_false",
+        "correct": "True"
     }
 ]

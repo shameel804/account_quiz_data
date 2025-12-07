@@ -1,92 +1,5069 @@
 [
-    {
-        "q": "What is the main focus of Strategic Business Reporting (SBR)?",
-        "o": [
-            "Applying reporting principles to complex situations",
-            "Basic bookkeeping",
-            "Calculating simple tax returns",
-            "Memorizing accounting standards numbers"
-        ]
-    },
-    {
-        "q": "Which ethical principle is often threatened by pressure to manipulate results?",
-        "o": [
-            "Integrity",
-            "Confidentiality",
-            "Professional Competence",
-            "Objectivity"
-        ]
-    },
-    {
-        "q": "Under IFRS 10, when is consolidation required?",
-        "o": [
-            "When an investor controls an investee",
-            "When an investor owns 10% of shares",
-            "When companies have the same name",
-            "When they are in the same country"
-        ]
-    },
-    {
-        "q": "What is 'fair value' according to IFRS 13?",
-        "o": [
-            "The price to sell an asset in an orderly transaction between market participants",
-            "The cost to buy the asset originally",
-            "The value the CEO assesses",
-            "The tax value of the asset"
-        ]
-    },
-    {
-        "q": "Which standard deals with 'Financial Instruments'?",
-        "o": [
-            "IFRS 9",
-            "IAS 2",
-            "IAS 16",
-            "IAS 38"
-        ]
-    },
-    {
-        "q": "What is the treatment for a change in accounting estimate?",
-        "o": [
-            "Prospective application",
-            "Retrospective application",
-            "Restating prior year financials",
-            "Ignoring the change"
-        ]
-    },
-    {
-        "q": "What is 'integrated reporting'?",
-        "o": [
-            "Communication about how strategy, governance, and performance create value",
-            "Combining the balance sheet and income statement",
-            "Reporting in multiple languages",
-            "Reporting everyday"
-        ]
-    },
-    {
-        "q": "Under IAS 19, what is a 'defined benefit plan'?",
-        "o": [
-            "A pension plan where the employer guarantees a specific retirement benefit",
-            "A plan where the employee makes all decisions",
-            "A savings account",
-            "A defined contribution plan"
-        ]
-    },
-    {
-        "q": "What is a 'crypto-asset' generally classified as under current IFRS guidance?",
-        "o": [
-            "Intangible Asset or Inventory (depending on business model)",
-            "Cash",
-            "Financial Asset (Equity)",
-            "Property, Plant and Equipment"
-        ]
-    },
-    {
-        "q": "What is the 'Conceptual Framework'?",
-        "o": [
-            "A set of concepts for financial reporting",
-            "A strict law",
-            "A software for accounting",
-            "A tax rule book"
-        ]
-    }
+  {
+    "q": "What is the primary objective of general purpose financial reporting?",
+    "type": "mcq",
+    "o": [
+      "To provide information useful to existing and potential investors, lenders and other creditors",
+      "To report the company's taxable income to the government",
+      "To show the liquidation value of the entity's assets",
+      "To provide a valuation of the entity for marketing purposes"
+    ]
+  },
+  {
+    "q": "Which body issues International Financial Reporting Standards (IFRS)?",
+    "type": "mcq",
+    "o": [
+      "International Accounting Standards Board (IASB)",
+      "Financial Accounting Standards Board (FASB)",
+      "International Valuation Standards Council (IVSC)",
+      "Securities and Exchange Commission (SEC)"
+    ]
+  },
+  {
+    "q": "The Conceptual Framework is an IFRS Standard.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Match the fundamental qualitative characteristic with its description:",
+    "type": "match",
+    "left": [
+      "Relevance",
+      "Faithful Representation",
+      "Materiality",
+      "Neutrality"
+    ],
+    "right": [
+      "Capable of making a difference in decisions",
+      "Complete, neutral and free from error",
+      "Omission could influence decisions",
+      "Without bias in selection or presentation"
+    ]
+  },
+  {
+    "q": "Under the Conceptual Framework, an asset is a present ______ resource controlled by the entity as a result of past events.",
+    "type": "fill_blank",
+    "answers": [
+      "economic"
+    ],
+    "other_options": [
+      "financial",
+      "physical",
+      "tangible"
+    ]
+  },
+  {
+    "q": "Which of the following is NOT an enhancing qualitative characteristic?",
+    "type": "mcq",
+    "o": [
+      "Prudence",
+      "Comparability",
+      "Verifiability",
+      "Timeliness"
+    ]
+  },
+  {
+    "q": "Rearrange the steps in the IFRS standard-setting process:",
+    "type": "rearrange",
+    "words": [
+      "Research program",
+      "Discussion Paper",
+      "Exposure Draft",
+      "Issued Standard"
+    ]
+  },
+  {
+    "q": "Accrual accounting depicts the effects of transactions closer to when they occur rather than when cash is paid.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "What does 'going concern' imply?",
+    "type": "mcq",
+    "o": [
+      "The entity will continue in operation for the foreseeable future",
+      "The entity will liquidate within 12 months",
+      "The entity is profitable",
+      "The entity has no debt"
+    ]
+  },
+  {
+    "q": "Which fundamental principle involves being straightforward and honest in all professional and business relationships?",
+    "type": "mcq",
+    "o": [
+      "Integrity",
+      "Objectivity",
+      "Confidentiality",
+      "Professional Behaviour"
+    ]
+  },
+  {
+    "q": "The principle of ______ requires a professional accountant not to compromise professional usage because of bias or conflict of interest.",
+    "type": "fill_blank",
+    "answers": [
+      "objectivity"
+    ],
+    "other_options": [
+      "integrity",
+      "competence",
+      "secrecy"
+    ]
+  },
+  {
+    "q": "Match the threat to compliance with fundamental principles to its definition:",
+    "type": "match",
+    "left": [
+      "Self-interest threat",
+      "Self-review threat",
+      "Advocacy threat",
+      "Familiarity threat"
+    ],
+    "right": [
+      "Financial or other interest influences judgment",
+      "Evaluating results of previous own work",
+      "Promoting a client's position to compromise objectivity",
+      "Sympathetic to client interests due to long relationship"
+    ]
+  },
+  {
+    "q": "Professional skepticism is only required for external auditors, not for accountants preparing financial statements.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "What is the correct treatment for a change in accounting policy?",
+    "type": "mcq",
+    "o": [
+      "Retrospective application",
+      "Prospective application",
+      "Current year adjustment only",
+      "Future year adjustment only"
+    ]
+  },
+  {
+    "q": "What is the correct treatment for a change in accounting estimate?",
+    "type": "mcq",
+    "o": [
+      "Prospective application",
+      "Retrospective application",
+      "Restatement of prior years",
+      "Adjustment to opening retained earnings"
+    ]
+  },
+  {
+    "q": "Rearrange the hierarchy of guidance for selecting accounting policies (IAS 8):",
+    "type": "rearrange",
+    "words": [
+      "IFRS Standards",
+      "Similar IFRS Standards",
+      "Conceptual Framework",
+      "Other standard setters"
+    ]
+  },
+  {
+    "q": "Which measurement basis measures assets at the amount of cash or cash equivalents that would have to be paid if the same or an equivalent asset was acquired currently?",
+    "type": "mcq",
+    "o": [
+      "Current cost",
+      "Historical cost",
+      "Fair value",
+      "Value in use"
+    ]
+  },
+  {
+    "q": "Fair value is an entity-specific measurement.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Fair value is the price that would be received to sell an asset in an ______ transaction between market participants.",
+    "type": "fill_blank",
+    "answers": [
+      "orderly"
+    ],
+    "other_options": [
+      "forced",
+      "urgent",
+      "private"
+    ]
+  },
+  {
+    "q": "Level 1 inputs in the fair value hierarchy are:",
+    "type": "mcq",
+    "o": [
+      "Quoted prices in active markets for identical assets",
+      "Quoted prices for similar assets",
+      "Unobservable inputs",
+      "Inputs based on internal models"
+    ]
+  },
+  {
+    "q": "Which IFRS standard deals with Fair Value Measurement?",
+    "type": "mcq",
+    "o": [
+      "IFRS 13",
+      "IFRS 9",
+      "IAS 16",
+      "IFRS 15"
+    ]
+  },
+  {
+    "q": "Match the element of financial statements with its definition source:",
+    "type": "match",
+    "left": [
+      "Asset",
+      "Liability",
+      "Equity",
+      "Income"
+    ],
+    "right": [
+      "Economic resource controlled by entity",
+      "Present obligation to transfer economic resource",
+      "Residual interest in assets after deducting liabilities",
+      "Increases in assets or decreases in liabilities"
+    ]
+  },
+  {
+    "q": "A 'constructive obligation' arises from a contract or legislation.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Recognition is the process of capturing, for inclusion in the statement of financial position or statement(s) of financial performance, an item that meets the definition of an element.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Derecognition is the removal of all or part of a recognised asset or ______ from an entity's statement of financial position.",
+    "type": "fill_blank",
+    "answers": [
+      "liability"
+    ],
+    "other_options": [
+      "equity",
+      "provision",
+      "reserve"
+    ]
+  },
+  {
+    "q": "Rearrange the order of sections in a typical Statement of Profit or Loss:",
+    "type": "rearrange",
+    "words": [
+      "Revenue",
+      "Operating Profit",
+      "Profit before Tax",
+      "Profit for the period"
+    ]
+  },
+  {
+    "q": "Which of these is NOT considered 'Other Comprehensive Income' (OCI)?",
+    "type": "mcq",
+    "o": [
+      "Dividends received",
+      "Revaluation surplus gains",
+      "Actuarial gains on defined benefit plans",
+      "Gains from translating foreign operations"
+    ]
+  },
+  {
+    "q": "IAS 1 requires a complete set of financial statements to be presented at least:",
+    "type": "mcq",
+    "o": [
+      "Annually",
+      "Quarterly",
+      "Biannually",
+      "Monthly"
+    ]
+  },
+  {
+    "q": "Materiality depends on the ______ and nature of the omission or misstatement.",
+    "type": "fill_blank",
+    "answers": [
+      "size"
+    ],
+    "other_options": [
+      "timing",
+      "color",
+      "origin"
+    ]
+  },
+  {
+    "q": "Which standard covers 'Events After the Reporting Period'?",
+    "type": "mcq",
+    "o": [
+      "IAS 10",
+      "IAS 37",
+      "IAS 8",
+      "IFRS 9"
+    ]
+  },
+  {
+    "q": "Adjusting events provide evidence of conditions that existed at the end of the reporting period.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is a non-adjusting event?",
+    "type": "mcq",
+    "o": [
+      "Major fire destroying plant after year-end",
+      "Bankruptcy of customer confirming bad debt existed at year-end",
+      "Sale of inventory below cost providing evidence of NRV",
+      "Discovery of fraud showing errors in statements"
+    ]
+  },
+  {
+    "q": "Match the related party type with the example:",
+    "type": "match",
+    "left": [
+      "Parent",
+      "Variable Interest Entity",
+      "Key Management Personnel",
+      "Associate"
+    ],
+    "right": [
+      "Entity that controls the reporting entity",
+      "Structured entity controlled by reporting entity",
+      "Directors and senior executives",
+      "Entity with significant influence"
+    ]
+  },
+  {
+    "q": "Related party disclosures are required because related party relationships can effect profit and loss and financial position.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Revenue under IFRS 15 is recognised when the entity satisfies a ______ obligation.",
+    "type": "fill_blank",
+    "answers": [
+      "performance"
+    ],
+    "other_options": [
+      "contractual",
+      "legal",
+      "written"
+    ]
+  },
+  {
+    "q": "Rearrange the 5 steps of IFRS 15 Revenue Recognition:",
+    "type": "rearrange",
+    "words": [
+      "Identify contract",
+      "Identify performance obligations",
+      "Determine transaction price",
+      "Allocate price",
+      "Recognise revenue"
+    ]
+  },
+  {
+    "q": "A contract asset represents an entity's right to consideration that is conditional on something other than the passage of time.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If a customer pays consideration before the entity transfers a good or service, the entity presents the contract as a:",
+    "type": "mcq",
+    "o": [
+      "Contract liability",
+      "Contract asset",
+      "Trade receivable",
+      "Refund liability"
+    ]
+  },
+  {
+    "q": "Variable consideration should be estimated using either the expected value or the ______ amount.",
+    "type": "fill_blank",
+    "answers": [
+      "most likely"
+    ],
+    "other_options": [
+      "least likely",
+      "average",
+      "median"
+    ]
+  },
+  {
+    "q": "Under IFRS 15, control of an asset refers to the ability to direct the use of, and obtain substantially all of the remaining benefits from, the asset.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which indicates that control has transferred over time?",
+    "type": "mcq",
+    "o": [
+      "Customer simultaneously receives and consumes benefits",
+      "Entity has a present right to payment",
+      "Customer has legal title",
+      "Customer has accepted the asset"
+    ]
+  },
+  {
+    "q": "Match the category of asset to the applicable standard:",
+    "type": "match",
+    "left": [
+      "Inventory",
+      "PPE",
+      "Intangible Assets",
+      "Investment Property"
+    ],
+    "right": [
+      "IAS 2",
+      "IAS 16",
+      "IAS 38",
+      "IAS 40"
+    ]
+  },
+  {
+    "q": "Inventories should be measured at the lower of cost and ______.",
+    "type": "fill_blank",
+    "answers": [
+      "net realisable value"
+    ],
+    "other_options": [
+      "fair value",
+      "market price",
+      "present value"
+    ]
+  },
+  {
+    "q": "Which cost formula is NOT permitted under IAS 2?",
+    "type": "mcq",
+    "o": [
+      "LIFO (Last-In, First-Out)",
+      "FIFO (First-In, First-Out)",
+      "Weighted Average",
+      "Specific Identification"
+    ]
+  },
+  {
+    "q": "Property, Plant and Equipment are tangible items held for use in production or supply of goods or services, for rental, or for administration.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which model does IAS 16 permit for subsequent measurement of PPE?",
+    "type": "mcq",
+    "o": [
+      "Cost model or Revaluation model",
+      "Cost model only",
+      "Fair value model only",
+      "Present value model only"
+    ]
+  },
+  {
+    "q": "If an asset's carrying amount is increased as a result of revaluation, the increase is recognised in:",
+    "type": "mcq",
+    "o": [
+      "Other Comprehensive Income",
+      "Profit or Loss",
+      "Retained Earnings directly",
+      "Share Premium"
+    ]
+  },
+  {
+    "q": "Rearrange the components of the cost of an item of PPE:",
+    "type": "rearrange",
+    "words": [
+      "Purchase price",
+      "Import duties",
+      "Directly attributable costs",
+      "Dismantling costs"
+    ]
+  },
+  {
+    "q": "Depreciation begins when the asset is available for use.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Land usually has an indefinite useful life and is therefore not: ",
+    "type": "mcq",
+    "o": [
+      "depreciated",
+      "revalued",
+      "impaired",
+      "recognised"
+    ]
+  },
+  {
+    "q": "Borrowing costs that are directly attributable to the acquisition, construction or production of a qualifying asset form part of the cost of that asset.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is a 'qualifying asset' under IAS 23?",
+    "type": "mcq",
+    "o": [
+      "Asset that takes a substantial period to get ready for use",
+      "Financial asset",
+      "Inventory produced over a short period",
+      "Asset measured at fair value"
+    ]
+  },
+  {
+    "q": "Government grants related to assets can be presented by deducting the grant from the carrying amount of the asset.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Match the type of government grant with its accounting treatment:",
+    "type": "match",
+    "left": [
+      "Grant related to income",
+      "Grant related to assets",
+      "Repayment of grant",
+      "Forgivable loan"
+    ],
+    "right": [
+      "Recognised in P&L over periods to match costs",
+      "Deferred income or deduction from asset",
+      "Change in accounting estimate",
+      "Treated as government grant if conditions met"
+    ]
+  },
+  {
+    "q": "Investment property is held to earn ______ or for capital appreciation or both.",
+    "type": "fill_blank",
+    "answers": [
+      "rentals"
+    ],
+    "other_options": [
+      "profits",
+      "wages",
+      "interest"
+    ]
+  },
+  {
+    "q": "Under the fair value model for investment property, gains or losses arising from changes in fair value are recognised in:",
+    "type": "mcq",
+    "o": [
+      "Profit or Loss",
+      "Other Comprehensive Income",
+      "Revaluation Surplus",
+      "Retained Earnings"
+    ]
+  },
+  {
+    "q": "Which of the following is an Intangible Asset?",
+    "type": "mcq",
+    "o": [
+      "Software license",
+      "Computer hardware",
+      "Office building",
+      "Inventory stock"
+    ]
+  },
+  {
+    "q": "Internally generated goodwill is recognised as an asset.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Research costs must be expensed as incurred.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the criteria for capitalising development costs (PIRATE):",
+    "type": "rearrange",
+    "words": [
+      "Technical feasibility",
+      "Intention to complete",
+      "Ability to use/sell",
+      "Generate economic benefits",
+      "Reliable measurement"
+    ]
+  },
+  {
+    "q": "An intangible asset with an indefinite useful life is not amortised but is tested for ______ annually.",
+    "type": "fill_blank",
+    "answers": [
+      "impairment"
+    ],
+    "other_options": [
+      "depreciation",
+      "amortisation",
+      "revaluation"
+    ]
+  },
+  {
+    "q": "Impairment of assets (IAS 36) applies to which of the following?",
+    "type": "mcq",
+    "o": [
+      "Goodwill",
+      "Inventories",
+      "Deferred tax assets",
+      "Financial assets"
+    ]
+  },
+  {
+    "q": "An impairment loss is the amount by which the carrying amount of an asset exceeds its:",
+    "type": "mcq",
+    "o": [
+      "Recoverable amount",
+      "Fair value",
+      "Value in use",
+      "Net realisable value"
+    ]
+  },
+  {
+    "q": "Recoverable amount is the higher of Fair Value Less Costs of Disposal and ______.",
+    "type": "fill_blank",
+    "answers": [
+      "value in use"
+    ],
+    "other_options": [
+      "carrying amount",
+      "historical cost",
+      "replacement cost"
+    ]
+  },
+  {
+    "q": "Value in use is calculated using:",
+    "type": "mcq",
+    "o": [
+      "Discounted future cash flows",
+      "Current market price",
+      "Undiscounted future cash flows",
+      "Historical cost adjusted for inflation"
+    ]
+  },
+  {
+    "q": "When allocating an impairment loss to a Cash Generating Unit (CGU), which asset is reduced first?",
+    "type": "mcq",
+    "o": [
+      "Goodwill",
+      "Intangible assets",
+      "Inventory",
+      "Land and Building"
+    ]
+  },
+  {
+    "q": "An impairment loss for goodwill can be reversed in a subsequent period.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Assets Held for Sale (IFRS 5) are measured at the lower of carrying amount and:",
+    "type": "mcq",
+    "o": [
+      "Fair value less costs to sell",
+      "Fair value",
+      "Value in use",
+      "Net realisable value"
+    ]
+  },
+  {
+    "q": "Assets classified as held for sale are not depreciated.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the conditions for 'Held for Sale' classification:",
+    "type": "rearrange",
+    "words": [
+      "Management commitment",
+      "Active program to locate buyer",
+      "Active marketing at reasonable price",
+      "Sale probable within 1 year"
+    ]
+  },
+  {
+    "q": "A 'Discontinued Operation' is a component of an entity that represents a separate major line of business or geographical area of operations.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Discontinued operations are presented:",
+    "type": "mcq",
+    "o": [
+      "Separately on the face of the SPL",
+      "In the notes only",
+      "As part of operating expenses",
+      "In the statement of changes in equity"
+    ]
+  },
+  {
+    "q": "Which standard deals with Leases?",
+    "type": "mcq",
+    "o": [
+      "IFRS 16",
+      "IAS 17",
+      "IFRS 15",
+      "IAS 32"
+    ]
+  },
+  {
+    "q": "Under IFRS 16, a lessee recognises a ______ asset and a lease liability.",
+    "type": "fill_blank",
+    "answers": [
+      "right-of-use"
+    ],
+    "other_options": [
+      "leased",
+      "fixed",
+      "tangible"
+    ]
+  },
+  {
+    "q": "Lessor accounting under IFRS 16 classifies leases as either finance leases or ______ leases.",
+    "type": "fill_blank",
+    "answers": [
+      "operating"
+    ],
+    "other_options": [
+      "capital",
+      "service",
+      "renting"
+    ]
+  },
+  {
+    "q": "A short-term lease is a lease that has a lease term of ______ months or less.",
+    "type": "fill_blank",
+    "answers": [
+      "12"
+    ],
+    "other_options": [
+      "6",
+      "24",
+      "3"
+    ]
+  },
+  {
+    "q": "Which is NOT a component of the initial measurement of the lease liability?",
+    "type": "mcq",
+    "o": [
+      "Costs to dismantle and remove the asset",
+      "Fixed payments",
+      "Variable payments linked to an index/rate",
+      "Exercise price of purchase option reasonably certain"
+    ]
+  },
+  {
+    "q": "For a finance lease, the lessor recognises:",
+    "type": "mcq",
+    "o": [
+      "A receivable equal to the net investment",
+      "The underlying asset",
+      "Rental income on a straight-line basis",
+      "Depreciation of the asset"
+    ]
+  },
+  {
+    "q": "Provisions are liabilities of uncertain timing or amount.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the criteria to recognise a provision (IAS 37):",
+    "type": "rearrange",
+    "words": [
+      "Present obligation",
+      "Probable outflow of resources",
+      "Reliable estimate"
+    ]
+  },
+  {
+    "q": "A contingent liability is recognised in the financial statements.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "If an outflow of resources is 'possible' but not 'probable', the entity should:",
+    "type": "mcq",
+    "o": [
+      "Disclose as a contingent liability",
+      "Recognise a provision",
+      "Do nothing",
+      "Recognise a liability"
+    ]
+  },
+  {
+    "q": "Match the probability term with its approximate percentage:",
+    "type": "match",
+    "left": [
+      "Virtually certain",
+      "Probable",
+      "Possible",
+      "Remote"
+    ],
+    "right": [
+      "> 95%",
+      "> 50%",
+      "< 50% but not remote",
+      "< 5-10%"
+    ]
+  },
+  {
+    "q": "An onerous contract is one where the unavoidable costs of meeting the obligations exceed the:",
+    "type": "mcq",
+    "o": [
+      "Economic benefits expected to be received",
+      "Penalties for non-performance",
+      "Fixed costs",
+      "Revenue"
+    ]
+  },
+  {
+    "q": "Restructuring provisions can include costs for retraining or relocating continuing staff.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Deferred tax is accounted for using which approach?",
+    "type": "mcq",
+    "o": [
+      "Balance sheet liability method",
+      "Income statement liability method",
+      "Deferral method",
+      "Flow-through method"
+    ]
+  },
+  {
+    "q": "Temporary differences are differences between the carrying amount of an asset/liability and its:",
+    "type": "mcq",
+    "o": [
+      "Tax base",
+      "Fair value",
+      "Recoverable amount",
+      "Cost"
+    ]
+  },
+  {
+    "q": "A deferred tax liability is generally recognised for all ______ temporary differences.",
+    "type": "fill_blank",
+    "answers": [
+      "taxable"
+    ],
+    "other_options": [
+      "deductible",
+      "permanent",
+      "reversing"
+    ]
+  },
+  {
+    "q": "Deferred tax assets are recognised for deductible temporary differences to the extent that taxable profit will be available.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Deferred tax assets and liabilities are always classified as:",
+    "type": "mcq",
+    "o": [
+      "Non-current",
+      "Current",
+      "Equity",
+      "Operating"
+    ]
+  },
+  {
+    "q": "Which standard covers 'Employee Benefits'?",
+    "type": "mcq",
+    "o": [
+      "IAS 19",
+      "IFRS 2",
+      "IAS 26",
+      "IAS 37"
+    ]
+  },
+  {
+    "q": "In a defined contribution plan, the entity's legal or constructive obligation is limited to the amount that it agrees to contribute to the fund.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Actuarial gains and losses on defined benefit plans are recognised in:",
+    "type": "mcq",
+    "o": [
+      "Other Comprehensive Income",
+      "Profit or Loss",
+      "Retained earnings directly",
+      "Employee benefit liability"
+    ]
+  },
+  {
+    "q": "Service cost (current and past) is recognised in:",
+    "type": "mcq",
+    "o": [
+      "Profit or Loss",
+      "OCI",
+      "Equity",
+      "Assets"
+    ]
+  },
+  {
+    "q": "Net interest on the net defined benefit liability is calculated by multiplying the net liability by the ______ rate.",
+    "type": "fill_blank",
+    "answers": [
+      "discount"
+    ],
+    "other_options": [
+      "inflation",
+      "interest",
+      "growth"
+    ]
+  },
+  {
+    "q": "Share-based payment transactions can be equity-settled or ______-settled.",
+    "type": "fill_blank",
+    "answers": [
+      "cash"
+    ],
+    "other_options": [
+      "debt",
+      "asset",
+      "liability"
+    ]
+  },
+  {
+    "q": "For equity-settled share-based payments with employees, fair value is measured at:",
+    "type": "mcq",
+    "o": [
+      "Grant date",
+      "Vesting date",
+      "Exercise date",
+      "Reporting date"
+    ]
+  },
+  {
+    "q": "For cash-settled share-based payments, the liability is remeasured at fair value at each reporting date.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Vesting conditions can be service conditions or ______ conditions.",
+    "type": "fill_blank",
+    "answers": [
+      "performance"
+    ],
+    "other_options": [
+      "market",
+      "non-market",
+      "financial"
+    ]
+  },
+  {
+    "q": "Market conditions (e.g. share price target) are taken into account when estimating the fair value at grant date.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Basic Earnings Per Share (EPS) is calculated as profit attributable to ordinary shareholders divided by:",
+    "type": "mcq",
+    "o": [
+      "Weighted average number of shares",
+      "Total shares at year end",
+      "Authorised shares",
+      "Issued shares"
+    ]
+  },
+  {
+    "q": "Diluted EPS adjusts for the effects of all dilutive potential ordinary shares.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is a potential ordinary share?",
+    "type": "mcq",
+    "o": [
+      "Convertible debt",
+      "Preference shares (non-convertible)",
+      "Bank loan",
+      "Trade payable"
+    ]
+  },
+  {
+    "q": "Financial instruments are addressed primarily by IAS 32, IFRS 7 and ______.",
+    "type": "fill_blank",
+    "answers": [
+      "IFRS 9"
+    ],
+    "other_options": [
+      "IAS 39",
+      "IFRS 15",
+      "IAS 36"
+    ]
+  },
+  {
+    "q": "A financial asset is measured at Amortised Cost if it is held to collect contractual cash flows and the cash flows are solely payments of principal and ______.",
+    "type": "fill_blank",
+    "answers": [
+      "interest"
+    ],
+    "other_options": [
+      "dividends",
+      "gains",
+      "fees"
+    ]
+  },
+  {
+    "q": "Equity instruments held for trading must be measured at:",
+    "type": "mcq",
+    "o": [
+      "FVTPL",
+      "FVTOCI",
+      "Amortised Cost",
+      "Cost"
+    ]
+  },
+  {
+    "q": "An entity can make an irrevocable election to present changes in fair value of an equity investment not held for trading in OCI.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Expected Credit Losses (ECL) model applies to financial assets measured at:",
+    "type": "mcq",
+    "o": [
+      "Amortised Cost and FVTOCI (debt)",
+      "FVTPL only",
+      "Equity instruments",
+      "All assets"
+    ]
+  },
+  {
+    "q": "Stage 1 of the ECL model requires recognition of:",
+    "type": "mcq",
+    "o": [
+      "12-month expected credit losses",
+      "Lifetime expected credit losses",
+      "Incurred losses only",
+      "No provision"
+    ]
+  },
+  {
+    "q": "Match the hedge type with its description:",
+    "type": "match",
+    "left": [
+      "Fair value hedge",
+      "Cash flow hedge",
+      "Net investment hedge"
+    ],
+    "right": [
+      "Hedge of exposure to changes in fair value",
+      "Hedge of exposure to variability in cash flows",
+      "Hedge of net investment in foreign op"
+    ]
+  },
+  {
+    "q": "In a cash flow hedge, the effective portion of the gain or loss on the hedging instrument is recognised in:",
+    "type": "mcq",
+    "o": [
+      "Other Comprehensive Income",
+      "Profit or Loss",
+      "Retained Earnings",
+      "Share Premium"
+    ]
+  },
+  {
+    "q": "Which standard deals with 'The Effects of Changes in Foreign Exchange Rates'?",
+    "type": "mcq",
+    "o": [
+      "IAS 21",
+      "IAS 24",
+      "IFRS 9",
+      "IAS 29"
+    ]
+  },
+  {
+    "q": "Functional currency is the currency of the primary ______ environment in which the entity operates.",
+    "type": "fill_blank",
+    "answers": [
+      "economic"
+    ],
+    "other_options": [
+      "political",
+      "legal",
+      "social"
+    ]
+  },
+  {
+    "q": "Monetary items in foreign currency are translated at the reporting date using the:",
+    "type": "mcq",
+    "o": [
+      "Closing rate",
+      "Historical rate",
+      "Average rate",
+      "Forward rate"
+    ]
+  },
+  {
+    "q": "Non-monetary items measured at historical cost are translated using the exchange rate at the date of the transaction.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Exchange differences on monetary items are generally recognised in:",
+    "type": "mcq",
+    "o": [
+      "Profit or Loss",
+      "OCI",
+      "Equity",
+      "Translation Reserve"
+    ]
+  },
+  {
+    "q": "Presentation currency is the currency in which the financial statements are presented.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Agriculture (IAS 41) requires biological assets to be measured at:",
+    "type": "mcq",
+    "o": [
+      "Fair value less costs to sell",
+      "Cost less depreciation",
+      "Net realisable value",
+      "Value in use"
+    ]
+  },
+  {
+    "q": "Match the biological asset to its category:",
+    "type": "match",
+    "left": [
+      "Sheep",
+      "Trees in a plantation",
+      "Dairy Cattle",
+      "Vines"
+    ],
+    "right": [
+      "Wool",
+      "Logs",
+      "Milk",
+      "Grapes"
+    ]
+  },
+  {
+    "q": "Exploration and Evaluation Assets (IFRS 6) are initially measured at cost.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Integrated Reporting <IR> focuses on value creation over time.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the capitals in the <IR> Framework:",
+    "type": "rearrange",
+    "words": [
+      "Financial",
+      "Manufactured",
+      "Intellectual",
+      "Human",
+      "Social",
+      "Natural"
+    ]
+  },
+  {
+    "q": "The Management Commentary provides context for the financial statements.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is NOT a principle of the Global Reporting Initiative (GRI)?",
+    "type": "mcq",
+    "o": [
+      "Profit maximization",
+      "Stakeholder inclusiveness",
+      "Sustainability context",
+      "Materiality"
+    ]
+  },
+  {
+    "q": "Sustainability reporting includes Environmental, ______, and Governance (ESG) factors.",
+    "type": "fill_blank",
+    "answers": [
+      "Social"
+    ],
+    "other_options": [
+      "Strategic",
+      "Structural",
+      "Systemic"
+    ]
+  },
+  {
+    "q": "Small and Medium-sized Entities (SMEs) can use the IFRS for SMEs Standard.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IFRS for SMEs omits earnings per share and segment reporting.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "First-time Adoption of IFRS is covered by:",
+    "type": "mcq",
+    "o": [
+      "IFRS 1",
+      "IFRS 15",
+      "IAS 8",
+      "IFRS 3"
+    ]
+  },
+  {
+    "q": "IFRS 1 requires an entity to prepare an opening IFRS statement of financial position at the date of transition.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Identify the standard: 'Business Combinations'",
+    "type": "mcq",
+    "o": [
+      "IFRS 3",
+      "IFRS 10",
+      "IAS 28",
+      "IAS 27"
+    ]
+  },
+  {
+    "q": "Goodwill is calculated as Consideration transferred + NCI + FV of previous interest - ______.",
+    "type": "fill_blank",
+    "answers": [
+      "Net identifiable assets"
+    ],
+    "other_options": [
+      "Total assets",
+      "Share capital",
+      "Liabilities"
+    ]
+  },
+  {
+    "q": "NCI can be measured at fair value or at the proportionate share of net identifiable assets.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Acquisition-related costs (e.g., legal fees) in a business combination are:",
+    "type": "mcq",
+    "o": [
+      "Expensed in the period incurred",
+      "Capitalised to Goodwill",
+      "Deducted from Equity",
+      "Added to Investment cost"
+    ]
+  },
+  {
+    "q": "Control is defined in IFRS 10.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the 3 elements of control:",
+    "type": "rearrange",
+    "words": [
+      "Power over investee",
+      "Exposure/rights to variable returns",
+      "Ability to use power to affect returns"
+    ]
+  },
+  {
+    "q": "An investor controls an investee if it has only one of the three elements.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Consolidated financial statements present the assets, liabilities, equity, income, expenses and cash flows of a parent and its subsidiaries as those of a single economic entity.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Intragroup balances and transactions must be eliminated in full on consolidation.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Unrealised profits on intragroup trading are eliminated from inventory and:",
+    "type": "mcq",
+    "o": [
+      "Group Retained Earnings",
+      "Share Capital",
+      "Goodwill",
+      "NCI only"
+    ]
+  },
+  {
+    "q": "Which of the following is NOT a requirement for an asset to be classified as Property, Plant and Equipment (IAS 16)?",
+    "type": "mcq",
+    "o": [
+      "Held for sale in the ordinary course of business",
+      "Held for use in production or supply of goods/services",
+      "Held for rental to others",
+      "Expected to be used for more than one period"
+    ]
+  },
+  {
+    "q": "Under the revaluation model (IAS 16), revaluations must be made with sufficient ______ to ensure carrying amount does not differ materially from fair value.",
+    "type": "fill_blank",
+    "answers": [
+      "regularity"
+    ],
+    "other_options": [
+      "accuracy",
+      "detail",
+      "speed"
+    ]
+  },
+  {
+    "q": "When an asset is revalued, accumulated depreciation is eliminated against the gross carrying amount of the asset.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If a revaluation results in a decrease in value (loss), it is recognised in Profit or Loss unless:",
+    "type": "mcq",
+    "o": [
+      "There is a revaluation surplus for the same asset",
+      "The asset is land",
+      "The loss is temporary",
+      "The asset is investment property"
+    ]
+  },
+  {
+    "q": "Match the depreciation method with its description:",
+    "type": "match",
+    "left": [
+      "Straight-line",
+      "Diminishing balance",
+      "Units of production"
+    ],
+    "right": [
+      "Constant charge over useful life",
+      "Decreasing charge over useful life",
+      "Charge based on expected use or output"
+    ]
+  },
+  {
+    "q": "The residual value and useful life of an asset must be reviewed at least at each ______ year-end.",
+    "type": "fill_blank",
+    "answers": [
+      "financial"
+    ],
+    "other_options": [
+      "calendar",
+      "tax",
+      "quarterly"
+    ]
+  },
+  {
+    "q": "Transfer from Investment Property (fair value model) to Owner-occupied property uses the fair value at date of change as the deemed cost.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Under IAS 23, which is NOT a borrowing cost?",
+    "type": "mcq",
+    "o": [
+      "Dividends paid to shareholders",
+      "Interest on bank overdrafts",
+      "Finance charges on leases",
+      "Exchange differences regarded as interest adjustment"
+    ]
+  },
+  {
+    "q": "Capitalisation of borrowing costs must commence when expenditure is incurred, borrowing costs are incurred, and activities to prepare the asset are in progress.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the events for ceasing capitalisation of borrowing costs:",
+    "type": "rearrange",
+    "words": [
+      "Substantially all activities",
+      "To prepare asset",
+      "For intended use",
+      "Are complete"
+    ]
+  },
+  {
+    "q": "In an exchange of assets, if the transaction lacks commercial substance, the acquired asset is measured at:",
+    "type": "mcq",
+    "o": [
+      "Carrying amount of asset given up",
+      "Fair value of asset given up",
+      "Fair value of asset received",
+      "Nil"
+    ]
+  },
+  {
+    "q": "IAS 38 Intangible Assets applies to:",
+    "type": "mcq",
+    "o": [
+      "Patents and Trademarks",
+      "Financial Assets",
+      "Mineral Rights",
+      "Goodwill acquired in business combination"
+    ]
+  },
+  {
+    "q": "An intangible asset must be identifiable, which means it is separable or arises from ______ rights.",
+    "type": "fill_blank",
+    "answers": [
+      "contractual"
+    ],
+    "other_options": [
+      "legal",
+      "statutory",
+      "ownership"
+    ]
+  },
+  {
+    "q": "Customer lists generated internally can be capitalised as intangible assets.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Which expenditure can be capitalised as an intangible asset?",
+    "type": "mcq",
+    "o": [
+      "Cost of testing a new software prototype",
+      "Staff training costs",
+      "Advertising costs",
+      "Start-up costs"
+    ]
+  },
+  {
+    "q": "Revaluation of intangible assets requires an ______ market.",
+    "type": "fill_blank",
+    "answers": [
+      "active"
+    ],
+    "other_options": [
+      "open",
+      "liquid",
+      "public"
+    ]
+  },
+  {
+    "q": "Amortisation of an intangible asset with a finite useful life usually begins when the asset is available for use.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Match the asset type to its amortization/depreciation rule:",
+    "type": "match",
+    "left": [
+      "Indefinite life intangible",
+      "Finite life intangible",
+      "Goodwill",
+      "Land"
+    ],
+    "right": [
+      "No amortization, annual impairment test",
+      "Amortized over useful life",
+      "No amortization, annual impairment test",
+      "Not depreciated (generally)"
+    ]
+  },
+  {
+    "q": "Impairment Loss = Carrying Amount - ______.",
+    "type": "fill_blank",
+    "answers": [
+      "Recoverable Amount"
+    ],
+    "other_options": [
+      "Fair Value",
+      "Selling Price",
+      "Cost"
+    ]
+  },
+  {
+    "q": "Which is an external indicator of impairment?",
+    "type": "mcq",
+    "o": [
+      "Significant decline in market value",
+      "Obsolescence or physical damage",
+      "Asset is idle",
+      "Internal reporting shows worse performance"
+    ]
+  },
+  {
+    "q": "When calculating Value in Use, cash flow projections should cover a maximum period of usually ______ years.",
+    "type": "fill_blank",
+    "answers": [
+      "5"
+    ],
+    "other_options": [
+      "10",
+      "3",
+      "20"
+    ]
+  },
+  {
+    "q": "Rearrange the order of assets to allocate impairment loss in a CGU:",
+    "type": "rearrange",
+    "words": [
+      "Specific impaired assets",
+      "Goodwill",
+      "Other assets pro-rata"
+    ]
+  },
+  {
+    "q": "Corporate assets (e.g., HQ building) do not generate independent cash inflows.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "A Cash Generating Unit (CGU) is the ______ identifiable group of assets that generates independent cash inflows.",
+    "type": "fill_blank",
+    "answers": [
+      "smallest"
+    ],
+    "other_options": [
+      "largest",
+      "combined",
+      "primary"
+    ]
+  },
+  {
+    "q": "IFRS 5: A subsidiary acquired exclusively with a view to resale is classified as held for sale.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "When a non-current asset is classified as held for sale, it is presented in the Statement of Financial Position:",
+    "type": "mcq",
+    "o": [
+      "Separately under current assets",
+      "Under non-current assets",
+      "Net of liabilities",
+      "As an equity deduction"
+    ]
+  },
+  {
+    "q": "IFRS 16: A contract contains a lease if it conveys the right to ______ the use of an identified asset for a period of time in exchange for consideration.",
+    "type": "fill_blank",
+    "answers": [
+      "control"
+    ],
+    "other_options": [
+      "own",
+      "manage",
+      "borrow"
+    ]
+  },
+  {
+    "q": "An asset is 'identified' in a lease if it is explicitly specified or implicitly specified.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is NOT a practical expedient for lessees under IFRS 16?",
+    "type": "mcq",
+    "o": [
+      "Leases of high-value assets",
+      "Short-term leases",
+      "Leases of low-value assets",
+      "Portfolio application"
+    ]
+  },
+  {
+    "q": "Low-value assets are assessed based on the value of the asset when ______.",
+    "type": "fill_blank",
+    "answers": [
+      "new"
+    ],
+    "other_options": [
+      "second-hand",
+      "sold",
+      "retired"
+    ]
+  },
+  {
+    "q": "For a lessee, interest expense on lease liability is recognised in:",
+    "type": "mcq",
+    "o": [
+      "Finance costs",
+      "Operating expenses",
+      "Depreciation",
+      "Cost of sales"
+    ]
+  },
+  {
+    "q": "A sale and leaseback transaction requires the transfer of the asset to be a sale under IFRS 15.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If the transfer is NOT a sale in a sale and leaseback, the seller-lessee accounts for the proceeds as:",
+    "type": "mcq",
+    "o": [
+      "A financial liability",
+      "Deferred income",
+      "Revenue",
+      "Equity"
+    ]
+  },
+  {
+    "q": "Which standard applies to 'Investment in Associates'?",
+    "type": "mcq",
+    "o": [
+      "IAS 28",
+      "IFRS 10",
+      "IFRS 11",
+      "IAS 27"
+    ]
+  },
+  {
+    "q": "Significant influence is presumed if the investor holds ______% or more of the voting power.",
+    "type": "fill_blank",
+    "answers": [
+      "20"
+    ],
+    "other_options": [
+      "50",
+      "10",
+      "5"
+    ]
+  },
+  {
+    "q": "Under the equity method, the investment is initially recognised at ______.",
+    "type": "fill_blank",
+    "answers": [
+      "cost"
+    ],
+    "other_options": [
+      "fair value",
+      "market value",
+      "par value"
+    ]
+  },
+  {
+    "q": "Dividends received from an associate reduce the carrying amount of the investment.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the equity method calculation:",
+    "type": "rearrange",
+    "words": [
+      "Cost of investment",
+      "Add: Share of post-acquisition profit",
+      "Less: Dividends received",
+      "Less: Impairment losses"
+    ]
+  },
+  {
+    "q": "IFRS 11 Joint Arrangements classifies arrangements as either Joint Operations or Joint ______.",
+    "type": "fill_blank",
+    "answers": [
+      "Ventures"
+    ],
+    "other_options": [
+      "Enterprises",
+      "Projects",
+      "Entities"
+    ]
+  },
+  {
+    "q": "A Joint Venture is accounted for using:",
+    "type": "mcq",
+    "o": [
+      "Equity method",
+      "Proportionate consolidation",
+      "Fair value method",
+      "Cost method"
+    ]
+  },
+  {
+    "q": "In a Joint Operation, the operator recognises its share of assets, liabilities, revenue and expenses.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IAS 40: Investment property under construction is covered by IAS 16.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Which is correct regarding Investment Property?",
+    "type": "mcq",
+    "o": [
+      "Fair value model requires all investment properties to be measured at FV",
+      "Cost model is not permitted",
+      "Fair value gains go to OCI",
+      "Depreciation is required under Fair Value model"
+    ]
+  },
+  {
+    "q": "Match the IFRS standard to its title:",
+    "type": "match",
+    "left": [
+      "IFRS 9",
+      "IFRS 15",
+      "IFRS 16",
+      "IAS 32"
+    ],
+    "right": [
+      "Financial Instruments",
+      "Revenue from Contracts with Customers",
+      "Leases",
+      "Financial Instruments: Presentation"
+    ]
+  },
+  {
+    "q": "Financial Liability vs Equity: A mandatory redeemable preference share is a:",
+    "type": "mcq",
+    "o": [
+      "Financial Liability",
+      "Equity Instrument",
+      "Compound Instrument",
+      "Derivative"
+    ]
+  },
+  {
+    "q": "Compound financial instruments (e.g. convertible bonds) are split into liability and equity components.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the steps to account for a compound instrument:",
+    "type": "rearrange",
+    "words": [
+      "Calculate FV of liability component",
+      "Deduct from total proceeds",
+      "Residual is equity component"
+    ]
+  },
+  {
+    "q": "Transaction costs for FVTPL financial assets are:",
+    "type": "mcq",
+    "o": [
+      "Expensed immediately",
+      "Capitalised",
+      "Deducted from equity",
+      "Added to liability"
+    ]
+  },
+  {
+    "q": "Transaction costs for Amortised Cost financial assets are added to the fair value at initial recognition.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is a 'derivative' characteristic?",
+    "type": "mcq",
+    "o": [
+      "Value changes with an underlying variable",
+      "Requires large initial net investment",
+      "Settled at a past date",
+      "Fixed value"
+    ]
+  },
+  {
+    "q": "Derivatives are always measured at:",
+    "type": "mcq",
+    "o": [
+      "Fair Value",
+      "Amortised Cost",
+      "Cost",
+      "Lower of cost and market"
+    ]
+  },
+  {
+    "q": "Embedded derivatives must be separated from the host contract if the host is a financial asset under IFRS 9.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "If the host is a financial liability, an embedded derivative might need separation.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Match the level of input to the Fair Value Hierarchy:",
+    "type": "match",
+    "left": [
+      "Level 1",
+      "Level 2",
+      "Level 3"
+    ],
+    "right": [
+      "Quoted prices in active markets",
+      "Observable inputs other than quoted prices",
+      "Unobservable inputs"
+    ]
+  },
+  {
+    "q": "Which is the most reliable evidence of fair value?",
+    "type": "mcq",
+    "o": [
+      "Level 1 inputs",
+      "Level 2 inputs",
+      "Level 3 inputs",
+      "Management estimate"
+    ]
+  },
+  {
+    "q": "Functional currency is determined by:",
+    "type": "mcq",
+    "o": [
+      "Currency that influences sales prices",
+      "Currency of the country where HQ is located",
+      "Currency of tax payments",
+      "Currency shareholders prefer"
+    ]
+  },
+  {
+    "q": "Foreign currency transactions are initially recorded at the ______ rate.",
+    "type": "fill_blank",
+    "answers": [
+      "spot"
+    ],
+    "other_options": [
+      "closing",
+      "average",
+      "forward"
+    ]
+  },
+  {
+    "q": "Exchange differences on a monetary item that forms part of a net investment in a foreign operation are recognised in:",
+    "type": "mcq",
+    "o": [
+      "OCI in consolidated statements",
+      "Profit or Loss in consolidated statements",
+      "Retained Earnings",
+      "NCI"
+    ]
+  },
+  {
+    "q": "When a foreign operation is disposed of, the cumulative amount in the translation reserve is reclassified to Profit or Loss.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Hyperinflationary economies (IAS 29) require financial statements to be restated in terms of the measuring unit current at the ______ date.",
+    "type": "fill_blank",
+    "answers": [
+      "reporting"
+    ],
+    "other_options": [
+      "transaction",
+      "acquisition",
+      "start"
+    ]
+  },
+  {
+    "q": "IAS 29 is applied when cumulative inflation over three years approaches or exceeds ______%.",
+    "type": "fill_blank",
+    "answers": [
+      "100"
+    ],
+    "other_options": [
+      "50",
+      "20",
+      "10"
+    ]
+  },
+  {
+    "q": "Gain or loss on the net monetary position in hyperinflation is recognised in:",
+    "type": "mcq",
+    "o": [
+      "Profit or Loss",
+      "OCI",
+      "Equity",
+      "Reserves"
+    ]
+  },
+  {
+    "q": "Match the sustainability term:",
+    "type": "match",
+    "left": [
+      "Greenwashing",
+      "Carbon footprint",
+      "Triple bottom line"
+    ],
+    "right": [
+      "Misleading environmental claims",
+      "Total greenhouse gas emissions",
+      "People, Planet, Profit"
+    ]
+  },
+  {
+    "q": "The ISSB stands for:",
+    "type": "mcq",
+    "o": [
+      "International Sustainability Standards Board",
+      "International Standard Setting Board",
+      "Integrated Sustainability System Board",
+      "Internal Social Standard Board"
+    ]
+  },
+  {
+    "q": "IFRS S1 sets out general requirements for disclosure of sustainability-related financial information.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IFRS S2 specifically covers:",
+    "type": "mcq",
+    "o": [
+      "Climate-related disclosures",
+      "Social-related disclosures",
+      "Governance disclosures",
+      "Biodiversity"
+    ]
+  },
+  {
+    "q": "Scope 1 emissions are:",
+    "type": "mcq",
+    "o": [
+      "Direct emissions from owned sources",
+      "Indirect emissions from purchased energy",
+      "All other indirect emissions in value chain",
+      "Emissions from employee commuting"
+    ]
+  },
+  {
+    "q": "Scope 3 emissions include both upstream and ______ emissions.",
+    "type": "fill_blank",
+    "answers": [
+      "downstream"
+    ],
+    "other_options": [
+      "internal",
+      "direct",
+      "local"
+    ]
+  },
+  {
+    "q": "Rearrange the 4 pillars of TCFD (Task Force on Climate-related Financial Disclosures):",
+    "type": "rearrange",
+    "words": [
+      "Governance",
+      "Strategy",
+      "Risk Management",
+      "Metrics and Targets"
+    ]
+  },
+  {
+    "q": "Exploration for and Evaluation of Mineral Resources (IFRS 6) permits entities to develop their own accounting policy for exploration assets without fully applying the IAS 8 hierarchy.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Under IFRS 6, impairment testing is required only when facts and circumstances suggest the carrying amount may exceed recoverable amount.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is NOT an example of an Exploration and Evaluation expenditure?",
+    "type": "mcq",
+    "o": [
+      "Development of the mine after technical feasibility is proven",
+      "Acquisition of rights to explore",
+      "Topographical studies",
+      "Exploratory drilling"
+    ]
+  },
+  {
+    "q": "Biological assets are generally measured at fair value less costs to sell.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "A bearer plant (e.g. grape vine) is accounted for under:",
+    "type": "mcq",
+    "o": [
+      "IAS 16 (PPE)",
+      "IAS 41 (Agriculture)",
+      "IAS 2 (Inventory)",
+      "IAS 40 (Investment Property)"
+    ]
+  },
+  {
+    "q": "Produce growing on a bearer plant is accounted for under:",
+    "type": "mcq",
+    "o": [
+      "IAS 41 (Agriculture)",
+      "IAS 16 (PPE)",
+      "IAS 2 (Inventory)",
+      "IAS 38"
+    ]
+  },
+  {
+    "q": "Government grants related to biological assets measured at FV less costs to sell are recognised in P&L when:",
+    "type": "mcq",
+    "o": [
+      "The grant becomes receivable",
+      "Wait until conditions are met",
+      "Amortised over life",
+      "Capitalised"
+    ]
+  },
+  {
+    "q": "Service Concession Arrangements are covered by:",
+    "type": "mcq",
+    "o": [
+      "IFRIC 12",
+      "IFRS 15",
+      "IFRS 16",
+      "IAS 20"
+    ]
+  },
+  {
+    "q": "Under IFRIC 12, the operator does NOT recognise the infrastructure as its PPE.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "The operator recognises revenue for construction or upgrade services in accordance with IFRS 15.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Consideration for instruction services in a service concession can be a financial asset or an ______ asset model.",
+    "type": "fill_blank",
+    "answers": [
+      "intangible"
+    ],
+    "other_options": [
+      "physical",
+      "fixed",
+      "current"
+    ]
+  },
+  {
+    "q": "Match the accounting issue to the interpretation:",
+    "type": "match",
+    "left": [
+      "IFRIC 1",
+      "IFRIC 12",
+      "SIC 32",
+      "IFRIC 22"
+    ],
+    "right": [
+      "Changes in Existing Decommissioning Liabilities",
+      "Service Concession Arrangements",
+      "Intangible Assets - Web Site Costs",
+      "Foreign Currency Transactions and Advance Consideration"
+    ]
+  },
+  {
+    "q": "Revenue Pre-production: Proceeds from selling items produced while bringing an asset to location/condition (testing) are:",
+    "type": "mcq",
+    "o": [
+      "Recognised in Profit or Loss",
+      "Deducted from cost of asset",
+      "Recognised in OCI",
+      "Deferred"
+    ]
+  },
+  {
+    "q": "Cryptocurrencies held for sale in the ordinary course of business are accounted for under:",
+    "type": "mcq",
+    "o": [
+      "IAS 2 (Inventory)",
+      "IAS 38 (Intangible Assets)",
+      "IFRS 9 (Financial Instruments)",
+      "IAS 16 (PPE)"
+    ]
+  },
+  {
+    "q": "Cryptocurrencies not held for sale are generally accounted for as Intangible Assets.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which best describes 'Materiality' in the context of SBR?",
+    "type": "mcq",
+    "o": [
+      "Information is material if omitting it could influence decisions",
+      "Information is material if it exceeds 5% of profit",
+      "Information is material only if it involves cash",
+      "Information is material if regulators say so"
+    ]
+  },
+  {
+    "q": "Management Commentary should provide management's view of the entity's performance, position and progress.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Ethics: If a professional accountant identifies non-compliance with laws and regulations (NOCLAR), they may need to override confidentiality.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the steps professional accountants should take when facing an ethical conflict:",
+    "type": "rearrange",
+    "words": [
+      "Gather facts",
+      "Identify ethical issues",
+      "Evaluate significance of threats",
+      "Identify safeguards",
+      "Take action"
+    ]
+  },
+  {
+    "q": "A 'Creative accounting' approach that prioritises form over substance is ethical.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Off-balance sheet financing is often designed to improve:",
+    "type": "mcq",
+    "o": [
+      "Gearing (Leverage) ratios",
+      "Profit margins",
+      "Sales revenue",
+      "Cash flow from operations"
+    ]
+  },
+  {
+    "q": "Which is a valid reason for NOT consolidating a subsidiary?",
+    "type": "mcq",
+    "o": [
+      "Control is lost",
+      "Subsidiary operates in different industry",
+      "Subsidiary is loss-making",
+      "Subsidiary is located overseas"
+    ]
+  },
+  {
+    "q": "Investment Entities (IFRS 10 exception) measure subsidiaries at:",
+    "type": "mcq",
+    "o": [
+      "FVTPL",
+      "Cost",
+      "Equity Method",
+      "Amortised Cost"
+    ]
+  },
+  {
+    "q": "An investment entity is an entity that obtains funds from one or more investors for the purpose of providing investment management services.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the consolidation process:",
+    "type": "rearrange",
+    "words": [
+      "Add assets and liabilities line by line",
+      "Eliminate intragroup balances",
+      "Eliminate carrying amount of investment",
+      "Calculate NCI",
+      "Calculate Goodwill"
+    ]
+  },
+  {
+    "q": "Negative goodwill (bargain purchase gain) is recognised in:",
+    "type": "mcq",
+    "o": [
+      "Profit or Loss immediately",
+      "OCI",
+      "Deferred income",
+      "Reduce non-current assets"
+    ]
+  },
+  {
+    "q": "If a parent sells a subsidiary but retains an associate interest, the retained interest is remeasured at ______ at the date control is lost.",
+    "type": "fill_blank",
+    "answers": [
+      "fair value"
+    ],
+    "other_options": [
+      "cost",
+      "carrying amount",
+      "book value"
+    ]
+  },
+  {
+    "q": "Step acquisition: When control is obtained, the previously held equity interest is remeasured to fair value with gain/loss in P&L.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Changes in ownership interest without loss of control are accounted for as:",
+    "type": "mcq",
+    "o": [
+      "Equity transactions",
+      "Disposals",
+      "Acquisitions",
+      "P&L items"
+    ]
+  },
+  {
+    "q": "Goodwill allocated to a foreign operation must be translated at the ______ rate.",
+    "type": "fill_blank",
+    "answers": [
+      "closing"
+    ],
+    "other_options": [
+      "historical",
+      "average",
+      "opening"
+    ]
+  },
+  {
+    "q": "A specific borrowing for a qualifying asset is repaid, but the asset is not ready. The funds are now general borrowings.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is NOT a financial instrument?",
+    "type": "mcq",
+    "o": [
+      "Gold bullion",
+      "Cash",
+      "Trade receivable",
+      "Share in another entity"
+    ]
+  },
+  {
+    "q": "Prepayments are financial assets.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "The 'Business Model Test' and 'SPPI Test' are used to classify financial ______.",
+    "type": "fill_blank",
+    "answers": [
+      "assets"
+    ],
+    "other_options": [
+      "liabilities",
+      "instruments",
+      "derivatives"
+    ]
+  },
+  {
+    "q": "SPPI stands for Solely Payments of Principal and ______.",
+    "type": "fill_blank",
+    "answers": [
+      "Interest"
+    ],
+    "other_options": [
+      "Income",
+      "Investment",
+      "Insurance"
+    ]
+  },
+  {
+    "q": "IFRS 9: Reclassification of financial assets is required only when:",
+    "type": "mcq",
+    "o": [
+      "The entity changes its business model",
+      "Management decides to",
+      "Market conditions change",
+      "Asset value drops"
+    ]
+  },
+  {
+    "q": "Reclassification of financial liabilities is permitted.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Offsetting a financial asset and financial liability is permitted only when there is a legally enforceable right and intention to settle net.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Factoring of receivables with recourse usually results in:",
+    "type": "mcq",
+    "o": [
+      "Derecognition fails, liability recognised",
+      "Derecognition of receivables",
+      "Partial derecognition",
+      "Recognition of revenue"
+    ]
+  },
+  {
+    "q": "Servicing assets (retained rights to collect cash flows) are recognised as separate assets.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Match the term to the definition:",
+    "type": "match",
+    "left": [
+      "Credit risk",
+      "Liquidity risk",
+      "Market risk"
+    ],
+    "right": [
+      "Risk counterparty fails to discharge obligation",
+      "Risk entity cannot meet financial obligations",
+      "Risk fair value fluctuates due to market prices"
+    ]
+  },
+  {
+    "q": "IFRS 7 requires qualitative and ______ disclosures about risks arising from financial instruments.",
+    "type": "fill_blank",
+    "answers": [
+      "quantitative"
+    ],
+    "other_options": [
+      "historical",
+      "estimated",
+      "subjective"
+    ]
+  },
+  {
+    "q": "Sensitivity analysis is a required disclosure for market risk.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Transfers of assets from customers (IFRIC 18, now IFRS 15) usually result in revenue recognition.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Revenue: A warranty that provides a service in addition to assurance is a separate ______ obligation.",
+    "type": "fill_blank",
+    "answers": [
+      "performance"
+    ],
+    "other_options": [
+      "legal",
+      "contract",
+      "financial"
+    ]
+  },
+  {
+    "q": "Bill-and-hold arrangements: Revenue is recognised when control transfers, which requires:",
+    "type": "mcq",
+    "o": [
+      "Product must be identified separately and ready",
+      "Product is delivered",
+      "Payment is received",
+      "Contract is signed"
+    ]
+  },
+  {
+    "q": "Consignment arrangements: Revenue is recognised when the product is delivered to the dealer.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Repurchase agreements (Call option): If the entity has a right/obligation to repurchase, the customer does not obtain control.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If repurchase price > original selling price, the transaction is a:",
+    "type": "mcq",
+    "o": [
+      "Financing arrangement",
+      "Lease",
+      "Sale with right of return",
+      "Consignment"
+    ]
+  },
+  {
+    "q": "Non-refundable upfront fees are generally recognised as revenue when the goods/services are provided.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IFRS 3 Business Combinations applies to the acquisition of:",
+    "type": "mcq",
+    "o": [
+      "A business",
+      "An asset only",
+      "A joint venturer interest",
+      "An associate interest"
+    ]
+  },
+  {
+    "q": "The acquisition method requires identifying the ______.",
+    "type": "fill_blank",
+    "answers": [
+      "acquirer"
+    ],
+    "other_options": [
+      "target",
+      "seller",
+      "agent"
+    ]
+  },
+  {
+    "q": "The acquisition date is the date on which the acquirer obtains ______ of the acquiree.",
+    "type": "fill_blank",
+    "answers": [
+      "control"
+    ],
+    "other_options": [
+      "shares",
+      "assets",
+      "ownership"
+    ]
+  },
+  {
+    "q": "Contingent consideration is measured at fair value at the acquisition date.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Changes in the fair value of contingent consideration that classified as a liability are recognised in:",
+    "type": "mcq",
+    "o": [
+      "Profit or Loss",
+      "Goodwill",
+      "OCI",
+      "Retained Earnings"
+    ]
+  },
+  {
+    "q": "Goodwill is tested for impairment annually, or more frequently if indications exist.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Gain on a bargain purchase is recognised in OCI.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Measurement period adjustments (provisional amounts) can be made retrospectively for up to ______ months from acquisition date.",
+    "type": "fill_blank",
+    "answers": [
+      "12"
+    ],
+    "other_options": [
+      "6",
+      "3",
+      "24"
+    ]
+  },
+  {
+    "q": "Rearrange the calculation of Goodwill:",
+    "type": "rearrange",
+    "words": [
+      "Consideration transferred",
+      "Add: Non-controlling interest",
+      "Add: FV of previously held interest",
+      "Less: Net identifiable assets acquired"
+    ]
+  },
+  {
+    "q": "If NCI is measured at proportionate share of net assets, the goodwill calculated is:",
+    "type": "mcq",
+    "o": [
+      "Partial goodwill (Parent's share only)",
+      "Full goodwill",
+      "Gross goodwill",
+      "Net goodwill"
+    ]
+  },
+  {
+    "q": "If NCI is measured at fair value, the goodwill calculated is:",
+    "type": "mcq",
+    "o": [
+      "Full goodwill",
+      "Partial goodwill",
+      "Parent's goodwill",
+      "Acquiree's goodwill"
+    ]
+  },
+  {
+    "q": "Intragroup sales of inventory: Unrealised profit is eliminated from Group Inventory and:",
+    "type": "mcq",
+    "o": [
+      "Group Profit or Loss (Cost of Sales)",
+      "Group Revenue",
+      "Controlling Interest",
+      "Non-Controlling Interest"
+    ]
+  },
+  {
+    "q": "If the subsidiary sold goods to the parent (upstream), the unrealised profit elimination is allocated between Parent and NCI.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If the parent sold goods to the subsidiary (downstream), the unrealised profit elimination is charged fully to the Parent.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Intragroup dividends are eliminated on consolidation.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Fair value adjustments to assets at acquisition date must be depreciated based on the remaining useful life.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Deferred tax liability is recognised on fair value adjustments that increase the carrying amount of assets above their tax base.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Match the term to its definition in group accounts:",
+    "type": "match",
+    "left": [
+      "Subsidiary",
+      "Associate",
+      "Joint Venture",
+      "Investment Entity"
+    ],
+    "right": [
+      "Controlled entity",
+      "Entity with significant influence",
+      "Joint control, rights to net assets",
+      "Measures investments at FVTPL"
+    ]
+  },
+  {
+    "q": "Pre-acquisition profits of a subsidiary are included in consolidated retained earnings.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Which rate is used to translate the assets and liabilities of a foreign subsidiary?",
+    "type": "mcq",
+    "o": [
+      "Closing rate",
+      "Average rate",
+      "Historical rate",
+      "Forward rate"
+    ]
+  },
+  {
+    "q": "Income and expenses of a foreign subsidiary are translated at:",
+    "type": "mcq",
+    "o": [
+      "Average rate for the period",
+      "Closing rate",
+      "Opening rate",
+      "Year-end rate"
+    ]
+  },
+  {
+    "q": "Exchange differences arising on translation of a foreign subsidiary are recognised in:",
+    "type": "mcq",
+    "o": [
+      "Other Comprehensive Income",
+      "Profit or Loss",
+      "Goodwill",
+      "Share Capital"
+    ]
+  },
+  {
+    "q": "Rearrange the order of priority for currency translation:",
+    "type": "rearrange",
+    "words": [
+      "Determine functional currency",
+      "Translate to functional currency",
+      "Translate to presentation currency"
+    ]
+  },
+  {
+    "q": "A change in functional currency is accounted for:",
+    "type": "mcq",
+    "o": [
+      "Prospectively",
+      "Retrospectively",
+      "By restating comparatives",
+      "By adjusting retained earnings"
+    ]
+  },
+  {
+    "q": "Hyperinflation: Non-monetary items are restated using the ______ index.",
+    "type": "fill_blank",
+    "answers": [
+      "general price"
+    ],
+    "other_options": [
+      "consumer price",
+      "retail price",
+      "inflation"
+    ]
+  },
+  {
+    "q": "Disposal of a subsidiary (loss of control): Any retained interest is measured at fair value.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Gain/Loss on disposal of subsidiary = Proceeds + FV of Retained Interest + NCI - ______.",
+    "type": "fill_blank",
+    "answers": [
+      "Net Assets at disposal (incl Goodwill)"
+    ],
+    "other_options": [
+      "Total Assets",
+      "Original Cost",
+      "Share Capital"
+    ]
+  },
+  {
+    "q": "Partial disposal of a subsidiary (control retained) results in a gain or loss in P&L.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Acquisition of additional shares in a subsidiary (control already held) is an equity transaction.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Match the transaction type to the accounting treatment:",
+    "type": "match",
+    "left": [
+      "Acquire control",
+      "Acquire more shares (control kept)",
+      "Lose control (retain influence)",
+      "Lose control (no interest)"
+    ],
+    "right": [
+      "Business Combination (IFRS 3)",
+      "Equity Transaction",
+      "De-consolidate, Recognise Associate",
+      "De-consolidate fully"
+    ]
+  },
+  {
+    "q": "Structured entities are often created to achieve a narrow, well-defined objective.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "An entity must consolidate a structured entity if it Controls it.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "NCI is presented in the Consolidated Statement of Financial Position within:",
+    "type": "mcq",
+    "o": [
+      "Equity, separate from parent s equity",
+      "Non-current liabilities",
+      "Current liabilities",
+      "Net assets"
+    ]
+  },
+  {
+    "q": "Total Comprehensive Income is attributed to both Owners of the parent and NCI.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IFRS 12 requires disclosure of valid judgements and assumptions made in determining control.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the composition of 'Cost of Investment' in a subsidiary:",
+    "type": "rearrange",
+    "words": [
+      "Cash paid",
+      "Fair value of shares issued",
+      "Fair value of contingent consideration",
+      "Fair value of deferred consideration"
+    ]
+  },
+  {
+    "q": "Deferred consideration is discounted to present value at acquisition.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Unwinding of the discount on deferred consideration is recognised as:",
+    "type": "mcq",
+    "o": [
+      "Finance cost",
+      "Goodwill adjustment",
+      "Investment cost",
+      "Dividend"
+    ]
+  },
+  {
+    "q": "Transaction costs for issuing equity instruments to acquire a subsidiary are deducted from:",
+    "type": "mcq",
+    "o": [
+      "Equity (Share Premium)",
+      "Profit or Loss",
+      "Goodwill",
+      "Investment cost"
+    ]
+  },
+  {
+    "q": "Impairment of Goodwill: The recoverable amount is compared with the carrying amount of the ______.",
+    "type": "fill_blank",
+    "answers": [
+      "Cash Generating Unit (CGU)"
+    ],
+    "other_options": [
+      "Subsidiary",
+      "Parent",
+      "Group"
+    ]
+  },
+  {
+    "q": "If Goodwill is partial, the impairment loss must be grossed up to calculated total impairment.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Wait, for Partial Goodwill method, the impairment calculation requires a 'notional' gross up of goodwill to test the whole CGU.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Under IFRS 11, a joint arrangement structured through a separate vehicle is always a joint venture.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "If the parties have rights to the assets and obligations for the liabilities of the separate vehicle, it is a:",
+    "type": "mcq",
+    "o": [
+      "Joint Operation",
+      "Joint Venture",
+      "Subsidiary",
+      "Associate"
+    ]
+  },
+  {
+    "q": "If the parties have rights to the net assets of the separate vehicle, it is a:",
+    "type": "mcq",
+    "o": [
+      "Joint Venture",
+      "Joint Operation",
+      "Branch",
+      "Agency"
+    ]
+  },
+  {
+    "q": "Separate Financial Statements (IAS 27) are those presented by a parent (or investor with joint control/significant influence) in which investments are accounted for at cost, fair value, or equity method.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "In separate financial statements, dividends from subsidiaries are recognised in P&L when the right to receive is established.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Associate: Significant influence is lost when the investor loses the power to participate in financial and operating policy decisions.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If an associate becomes a subsidiary, the initial investment is remeasured to FV and the gain is recognised in P&L.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Equity method: If an investor's share of losses exceeds its interest in the associate, the investor discontinues recognising its share of further losses.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Unless the investor has incurred legal or constructive ______ on behalf of the associate.",
+    "type": "fill_blank",
+    "answers": [
+      "obligations"
+    ],
+    "other_options": [
+      "debts",
+      "payments",
+      "guarantees"
+    ]
+  },
+  {
+    "q": "Upstream sale (Associate to Investor): The investor's share of unrealised profit is eliminated against the:",
+    "type": "mcq",
+    "o": [
+      "Investment in Associate",
+      "Inventory",
+      "Revenue",
+      "Cost of Sales"
+    ]
+  },
+  {
+    "q": "Downstream sale (Investor to Associate): The investor's share of unrealised profit is eliminated against the investment.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Correction: In downstream sales, profit is eliminated against the carrying amount of the investment?",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Wait, let's clarify. Downstream (Inv -> Assoc). Profit is in Investor's accounts. Investor eliminates its share of profit. Usually deducted from Investee carrying value? No, usually deducted from 'Investment in Associate' (credit) and P&L (debit).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Impairment of associate investment is tested as a single asset under IAS 36.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is NOT a related party to a reporting entity?",
+    "type": "mcq",
+    "o": [
+      "A customer with whom the entity transacts a significant volume",
+      "A person having control over the entity",
+      "An associate of the entity",
+      "A member of Key Management Personnel"
+    ]
+  },
+  {
+    "q": "Government-related entities are exempt from all related party disclosures.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Operating segments (IFRS 8) are identified based on internal reports reviewed by the:",
+    "type": "mcq",
+    "o": [
+      "Chief Operating Decision Maker (CODM)",
+      "Board of Directors",
+      "External Auditors",
+      "Shareholders"
+    ]
+  },
+  {
+    "q": "An operating segment must have revenue to be identified.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Quantitative thresholds for reportable segments: 10% of Revenue, Profit/Loss, or ______.",
+    "type": "fill_blank",
+    "answers": [
+      "Assets"
+    ],
+    "other_options": [
+      "Liabilities",
+      "Equity",
+      "Cash flow"
+    ]
+  },
+  {
+    "q": "If total external revenue of reportable segments is less than ______% of total entity revenue, additional segments must be identified.",
+    "type": "fill_blank",
+    "answers": [
+      "75"
+    ],
+    "other_options": [
+      "50",
+      "90",
+      "60"
+    ]
+  },
+  {
+    "q": "Match the IFRS 8 disclosure requirement:",
+    "type": "match",
+    "left": [
+      "General information",
+      "Profit or Loss",
+      "Assets/Liabilities",
+      "Reconciliations"
+    ],
+    "right": [
+      "Factors used to identify segments",
+      "Measure of segment result",
+      "Measure of segment assets/liabilities",
+      "Total segment revenue to entity revenue"
+    ]
+  },
+  {
+    "q": "Adjusted EBITDA is a common Non-GAAP measure.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Earnings per share (IAS 33) applies to:",
+    "type": "mcq",
+    "o": [
+      "Entities whose ordinary shares or potential ordinary shares are publicly traded",
+      "All entities",
+      "Private companies",
+      "Small entities"
+    ]
+  },
+  {
+    "q": "For EPS, a bonus issue is treated as if it occurred at the beginning of the earliest period presented.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "In Diluted EPS, convertible bonds are assumed to be converted at the beginning of the period (or issue date if later).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Antidilutive potential ordinary shares are ignored in the calculation of Diluted EPS.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Financial instruments: A regular way purchase or sale is recognised using either trade date or ______ date accounting.",
+    "type": "fill_blank",
+    "answers": [
+      "settlement"
+    ],
+    "other_options": [
+      "delivery",
+      "payment",
+      "invoice"
+    ]
+  },
+  {
+    "q": "Which is an example of an Embedded Derivative?",
+    "type": "mcq",
+    "o": [
+      "A lease with payments linked to CPI",
+      "A standard bank loan",
+      "Trade receivable",
+      "Cash"
+    ]
+  },
+  {
+    "q": "A lease with payments linked to CPI is generally not separated because it is considered 'closely related'.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Foreign currency embedded derivative in a contract for goods/services is closely related if the currency is the functional currency of one party.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Puttable financial instruments are generally classified as financial liabilities unless they meet specific exemption criteria to be equity.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IFRIC 19 Extinguishing Financial Liabilities with Equity Instruments: The equity instruments issued are measured at:",
+    "type": "mcq",
+    "o": [
+      "Fair value",
+      "Carrying amount of liability",
+      "Par value",
+      "Zero"
+    ]
+  },
+  {
+    "q": "If the fair value of equity instruments cannot be reliably measured, use the fair value of the financial liability extinguished.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Difference between carrying amount of liability extinguished and fair value of equity issued is recognised in:",
+    "type": "mcq",
+    "o": [
+      "Profit or Loss",
+      "OCI",
+      "Equity",
+      "Share Premium"
+    ]
+  },
+  {
+    "q": "Interim Financial Reporting (IAS 34) mandates which companies must publish interim reports.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "IAS 34 prescribes the content of an interim financial report.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Interim reports must include a full set of financial statements.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Condensed financial statements include headings and ______ from the most recent annual statements.",
+    "type": "fill_blank",
+    "answers": [
+      "subtotals"
+    ],
+    "other_options": [
+      "notes",
+      "details",
+      "policies"
+    ]
+  },
+  {
+    "q": "Income tax expense in interim periods is accrued using the ______ weighted average annual income tax rate.",
+    "type": "fill_blank",
+    "answers": [
+      "best estimate"
+    ],
+    "other_options": [
+      "last year's",
+      "statutory",
+      "marginal"
+    ]
+  },
+  {
+    "q": "Rearrange the components of a 'Statement of Cash Flows':",
+    "type": "rearrange",
+    "words": [
+      "Operating activities",
+      "Investing activities",
+      "Financing activities",
+      "Net increase/decrease in cash"
+    ]
+  },
+  {
+    "q": "Interest paid can be classified as Operating or ______ activities.",
+    "type": "fill_blank",
+    "answers": [
+      "Financing"
+    ],
+    "other_options": [
+      "Investing",
+      "Trading",
+      "Other"
+    ]
+  },
+  {
+    "q": "Dividends received can be classified as Operating or ______ activities.",
+    "type": "fill_blank",
+    "answers": [
+      "Investing"
+    ],
+    "other_options": [
+      "Financing",
+      "Banking",
+      "Operating"
+    ]
+  },
+  {
+    "q": "Non-cash transactions (e.g. acquiring asset by assuming debt) are excluded from the Statement of Cash Flows.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Management Commentary (Practice Statement): Which is NOT a recommended element?",
+    "type": "mcq",
+    "o": [
+      "Detailed audit procedures",
+      "Nature of the business",
+      "Objectives and strategies",
+      "Principal risks and uncertainties"
+    ]
+  },
+  {
+    "q": "Forward-looking information in Management Commentary is encouraged.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Ethics: 'Intimidation threat' occurs when a professional accountant may be deterred from acting objectively because of pressures.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Creating a 'cookie jar' reserve to smooth profits is an example of:",
+    "type": "mcq",
+    "o": [
+      "Unethical earnings management",
+      "Prudent accounting",
+      "Good financial management",
+      "Strategic planning"
+    ]
+  },
+  {
+    "q": "Disclosure of 'Judgements' refers to judgements made in applying accounting ______.",
+    "type": "fill_blank",
+    "answers": [
+      "policies"
+    ],
+    "other_options": [
+      "estimates",
+      "standards",
+      "laws"
+    ]
+  },
+  {
+    "q": "Disclosure of 'Estimation Uncertainty' refers to assumptions about the future.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Match the concept to the standard:",
+    "type": "match",
+    "left": [
+      "Performance Obligation",
+      "ECL",
+      "Right-of-use Asset",
+      "Vesting Conditions"
+    ],
+    "right": [
+      "IFRS 15",
+      "IFRS 9",
+      "IFRS 16",
+      "IFRS 2"
+    ]
+  },
+  {
+    "q": "Integrated Reporting: 'Connectivity of information' means showing a holistic picture of the combination, interrelatedness and dependencies.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "A 'Material' matter in <IR> is one that substantively affects the organization's ability to create value.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is NOT a 'Capital' in <IR>?",
+    "type": "mcq",
+    "o": [
+      "Political Capital",
+      "Financial Capital",
+      "Natural Capital",
+      "Social and Relationship Capital"
+    ]
+  },
+  {
+    "q": "Cryptocurrency mining activities: If mined for own account, inventory (IAS 2). If miner acts as validator for fee, revenue (IFRS 15).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Defined Benefit Plan: The 'Asset Ceiling' is the present value of any economic benefits available in the form of refunds or reductions in future contributions.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Remeasurement of the net defined benefit liability includes:",
+    "type": "mcq",
+    "o": [
+      "Actuarial gains/losses and Return on plan assets",
+      "Service cost",
+      "Net interest",
+      "Contributions"
+    ]
+  },
+  {
+    "q": "IFRS 13 Fair Value: The 'Unit of Account' is determined by:",
+    "type": "mcq",
+    "o": [
+      "The standard that requires the fair value measurement",
+      "IFRS 13",
+      "Management",
+      "The valuer"
+    ]
+  },
+  {
+    "q": "Premise of value for non-financial assets: Highest and ______ Use.",
+    "type": "fill_blank",
+    "answers": [
+      "Best"
+    ],
+    "other_options": [
+      "Most",
+      "Single",
+      "Current"
+    ]
+  },
+  {
+    "q": "Highest and best use takes into account: physically possible, legally permissible, and ______ feasible.",
+    "type": "fill_blank",
+    "answers": [
+      "financially"
+    ],
+    "other_options": [
+      "socially",
+      "environmentally",
+      "politically"
+    ]
+  },
+  {
+    "q": "Transport costs are deducted when determining fair value if location is a characteristic of the asset.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Transaction costs are deducted when determining fair value.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Principal market is the market with the greatest volume and level of activity for the asset.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If there is no principal market, use the ______ advantageous market.",
+    "type": "fill_blank",
+    "answers": [
+      "most"
+    ],
+    "other_options": [
+      "least",
+      "average",
+      "local"
+    ]
+  },
+  {
+    "q": "Deferred Tax: Initial recognition exemption applies to:",
+    "type": "mcq",
+    "o": [
+      "Asset/Liability not in business combination affecting neither accounting nor taxable profit",
+      "Business Combinations",
+      "Goodwill",
+      "Finance Leases (for lessee)"
+    ]
+  },
+  {
+    "q": "Is deferred tax recognised on the initial recognition of Goodwill?",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Deferred tax is measured using tax rates enacted or ______ enacted at the reporting date.",
+    "type": "fill_blank",
+    "answers": [
+      "substantively"
+    ],
+    "other_options": [
+      "partially",
+      "possibly",
+      "fully"
+    ]
+  },
+  {
+    "q": "Discounting of deferred tax assets/liabilities is permitted.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Current tax is the amount of income taxes payable (recoverable) in respect of the taxable profit (tax loss) for a period.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which standard deals with 'Property, Plant and Equipment'?",
+    "type": "mcq",
+    "o": [
+      "IAS 16",
+      "IAS 38",
+      "IAS 40",
+      "IFRS 5"
+    ]
+  },
+  {
+    "q": "A change in depreciation method is a change in accounting ______.",
+    "type": "fill_blank",
+    "answers": [
+      "estimate"
+    ],
+    "other_options": [
+      "policy",
+      "principle",
+      "standard"
+    ]
+  },
+  {
+    "q": "Rearrange the components of Equity:",
+    "type": "rearrange",
+    "words": [
+      "Share capital",
+      "Share premium",
+      "Retained earnings",
+      "Other reserves",
+      "Non-controlling interest"
+    ]
+  },
+  {
+    "q": "Treasury shares (own shares repurchased) are presented as:",
+    "type": "mcq",
+    "o": [
+      "Deduction from equity",
+      "Financial asset",
+      "Intangible asset",
+      "Liability"
+    ]
+  },
+  {
+    "q": "No gain or loss is recognised in P&L on the purchase, sale, issue or cancellation of an entity's own equity instruments.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Dividends classified as an expense?",
+    "type": "mcq",
+    "o": [
+      "On redeemable preference shares (liability)",
+      "On ordinary shares",
+      "On irredeemable preference shares",
+      "On treasury shares"
+    ]
+  },
+  {
+    "q": "IFRIC 2 Members' Shares in Co-operative Entities: Classification as equity or liability depends on the ______ to redeem.",
+    "type": "fill_blank",
+    "answers": [
+      "right"
+    ],
+    "other_options": [
+      "wish",
+      "intention",
+      "plan"
+    ]
+  },
+  {
+    "q": "The Conceptual Framework definition of a liability requires a 'present obligation'.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IFRS 10 Consolidated Financial Statements: Potential voting rights are considered only if they are ______.",
+    "type": "fill_blank",
+    "answers": [
+      "substantive"
+    ],
+    "other_options": [
+      "protective",
+      "legal",
+      "financial"
+    ]
+  },
+  {
+    "q": "Protective rights (e.g., franchise rights) give power to the holder.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "De facto control exists when an investor holds less than 50% of voting rights but has the practical ability to direct relevant activities unilaterally.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is an indicator of De Facto control?",
+    "type": "mcq",
+    "o": [
+      "Large shareholding relative to widely dispersed other holdings",
+      "Ability to appoint one director",
+      "Holding 20% of shares",
+      "Being the detailed supplier"
+    ]
+  },
+  {
+    "q": "Agency relationship: An agent is a party primarily engaged to act on behalf and for the benefit of another party (the principal).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If a decision maker is an agent, it does not control the investee.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the factors to determine if a decision maker is a principal or agent:",
+    "type": "rearrange",
+    "words": [
+      "Scope of authority",
+      "Rights held by others",
+      "Remuneration",
+      "Exposure to variability of returns"
+    ]
+  },
+  {
+    "q": "Consolidation of a foreign subsidiary: Goodwill is calculated in the functional currency of the ______.",
+    "type": "fill_blank",
+    "answers": [
+      "subsidiary"
+    ],
+    "other_options": [
+      "parent",
+      "group",
+      "presentation"
+    ]
+  },
+  {
+    "q": "When translating goodwill of a foreign subsidiary to presentation currency, use the ______ rate.",
+    "type": "fill_blank",
+    "answers": [
+      "closing"
+    ],
+    "other_options": [
+      "average",
+      "historical",
+      "spot"
+    ]
+  },
+  {
+    "q": "Exchange differences on goodwill of a foreign subsidiary are recognised in OCI.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Disposal of a foreign operation: The cumulative translation reserve (CTR) related to that operation is reclassified to:",
+    "type": "mcq",
+    "o": [
+      "Profit or Loss",
+      "Retained Earnings",
+      "NCI",
+      "Share Premium"
+    ]
+  },
+  {
+    "q": "Step acquisition of a foreign operation: The CTR related to the previously held interest is reclassified to P&L at the date control is obtained.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Correction: In a step acquisition achieving control, the previously held interest is remeasured, but CTR is NOT reclassified until disposal.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Partial disposal of a foreign subsidiary (control retained): A proportionate share of CTR is reattributed to NCI.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Joint Arrangements (IFRS 11): A joint operator accounts for its share of assets/liabilities. A joint venturer uses the ______ method.",
+    "type": "fill_blank",
+    "answers": [
+      "equity"
+    ],
+    "other_options": [
+      "cost",
+      "fair value",
+      "consolidation"
+    ]
+  },
+  {
+    "q": "Transactions between a joint operator and the joint operation: The operator recognises gains/losses only to the extent of the other parties' interests.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Associates: If an associate has net liabilities and the investor has stopped recognising losses, unrecognised losses must be disclosed.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Financial Instruments (IFRS 9): A 'modification' of a financial liability that is not substantial results in:",
+    "type": "mcq",
+    "o": [
+      "Gain/loss in P&L immediately",
+      "Adjustment to effective interest rate only",
+      "No change",
+      "Derecognition"
+    ]
+  },
+  {
+    "q": "A substantial modification (change in PV > 10%) results in derecognition of old liability and recognition of new one.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Hedge Accounting (IFRS 9): Which of the following can be a hedged item?",
+    "type": "mcq",
+    "o": [
+      "Forecast transaction that is highly probable",
+      "Pending lawsuit",
+      "General business risk",
+      "Possible future transaction"
+    ]
+  },
+  {
+    "q": "Rearrange the criteria for hedge accounting (qualifying criteria):",
+    "type": "rearrange",
+    "words": [
+      "Eligible instruments",
+      "Formal designation",
+      "Economic relationship",
+      "Credit risk not dominant",
+      "Hedge ratio"
+    ]
+  },
+  {
+    "q": "Fair Value Hedge: Gain/loss on hedging instrument is in P&L. Gain/loss on hedged item adjusts carrying amount and is in P&L.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If the hedged item in a Fair Value Hedge is an equity instrument at FVTOCI, the gain/loss on hedging instrument is in:",
+    "type": "mcq",
+    "o": [
+      "OCI",
+      "P&L",
+      "Equity",
+      "Reserves"
+    ]
+  },
+  {
+    "q": "Cash Flow Hedge: The ineffective portion of the gain/loss on the hedging instrument is recognised in:",
+    "type": "mcq",
+    "o": [
+      "Profit or Loss",
+      "OCI",
+      "Equity",
+      "Liability"
+    ]
+  },
+  {
+    "q": "Cash Flow Hedge Reserve is reclassified to P&L when the hedged cash flow affects P&L.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Share-based payments (IFRS 2): Group Cash-settled Share-based Payment Transactions. Parent grants rights to its own shares to employees of subsidiary.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "In the subsidiary's accounts, this transaction is treated as an ______-settled share-based payment.",
+    "type": "fill_blank",
+    "answers": [
+      "equity"
+    ],
+    "other_options": [
+      "cash",
+      "debt",
+      "hybrid"
+    ]
+  },
+  {
+    "q": "In the parent's accounts (consolidated), it is an equity-settled transaction.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If Parent pays cash to Subsidiary employees based on Subsidiary share price, Parent accounts for it as Cash-settled.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Subsidiary accounts for it as Equity-settled if it has no obligation to settle.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Employee Benefits (IAS 19): Asset Ceiling test. If a surplus exists, the asset recognised is limited to the present value of economic benefits available.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IFRIC 14 addresses the limit on a defined benefit asset, minimum funding requirements and their interaction.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If minimum funding contributions will create a surplus that is not recoverable, an additional liability must be recognised.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Revenue IFRS 15: Licensing. A license provides a right to access the entity's IP if the entity continues to support/maintain the IP.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Right to access IP revenue is recognised:",
+    "type": "mcq",
+    "o": [
+      "Over time",
+      "At a point in time",
+      "Upon payment",
+      "At contract end"
+    ]
+  },
+  {
+    "q": "Right to use IP (entity has no further obligation) revenue is recognised:",
+    "type": "mcq",
+    "o": [
+      "At a point in time",
+      "Over time",
+      "Straight line",
+      "Deferred"
+    ]
+  },
+  {
+    "q": "Match the license type to recognition:",
+    "type": "match",
+    "left": [
+      "Software license (static)",
+      "Franchise (ongoing support)",
+      "Music download"
+    ],
+    "right": [
+      "Point in time",
+      "Over time",
+      "Point in time"
+    ]
+  },
+  {
+    "q": "Leases IFRS 16: Lease modifications. A modification that increases the scope by adding the right to use one or more underlying assets is accounted for as a separate lease if price is commensurate with standalone price.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If not a separate lease, the lease liability is remeasured using a revised discount rate.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Deferred Tax IAS 12: Revaluation of a non-depreciable asset (Land). The tax base is determined by the expected manner of recovery (Sale).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If the tax rate on sale differs from the tax rate on use, use the ______ rate.",
+    "type": "fill_blank",
+    "answers": [
+      "sale"
+    ],
+    "other_options": [
+      "use",
+      "average",
+      "corporate"
+    ]
+  },
+  {
+    "q": "Uncertainty over Income Tax Treatments (IFRIC 23). If it is not probable that the tax authority will accept the treatment, reflect the uncertainty using expected value or ______ amount.",
+    "type": "fill_blank",
+    "answers": [
+      "most likely"
+    ],
+    "other_options": [
+      "fair value",
+      "lowest",
+      "highest"
+    ]
+  },
+  {
+    "q": "Current Developments: Management Performance Measures (MPMs) are proposed to be defined in the new Primary Financial Statements standard.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Examples of MPMs usually include:",
+    "type": "mcq",
+    "o": [
+      "Adjusted Profit",
+      "Revenue",
+      "Operating Profit",
+      "Cash Flow"
+    ]
+  },
+  {
+    "q": "Cryptocurrency accounting: There is no specific IFRS standard for crypto-assets yet.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the potential classifications for crypto-assets:",
+    "type": "rearrange",
+    "words": [
+      "Cash (rarely)",
+      "Financial Asset (if contract)",
+      "Inventory (if for sale)",
+      "Intangible Asset (default)"
+    ]
+  },
+  {
+    "q": "Sustainability Reporting: 'Double Materiality' refers to:",
+    "type": "mcq",
+    "o": [
+      "Impact of environment on company AND impact of company on environment",
+      "Materiality for P&L AND Balance Sheet",
+      "Financial and Non-financial materiality",
+      "Short term and Long term materiality"
+    ]
+  },
+  {
+    "q": "ISSB standards focus primarily on:",
+    "type": "mcq",
+    "o": [
+      "Enterprise value (Financial materiality)",
+      "Impact materiality only",
+      "Double materiality",
+      "Social justice"
+    ]
+  },
+  {
+    "q": "GRI standards focus on impact materiality (multi-stakeholder).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Professional Ethics: 'Conflicts of Interest'. A professional accountant shall not allow a conflict of interest to compromise professional or business judgment.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Inducements (Gifts and Hospitality). An accountant shall not accept an inducement if a third party would consider it ______.",
+    "type": "fill_blank",
+    "answers": [
+      "improper"
+    ],
+    "other_options": [
+      "generous",
+      "small",
+      "friendly"
+    ]
+  },
+  {
+    "q": "Which is a valid safeguard against self-review threat?",
+    "type": "mcq",
+    "o": [
+      "Using different teams",
+      "Disclosing the threat",
+      "Ignoring it",
+      "Resigning always"
+    ]
+  },
+  {
+    "q": "Related Part Disclosures IAS 24: Government-related entities. The reporting entity is exempt from disclosing the nature of the relationship.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Correction: Exempt from disclosing detailed transactions, but must disclose name of government and nature of relationship.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Events after the Reporting Period IAS 10: Going concern issues arising after year-end. If management determines after year-end that it intends to liquidate, the financial statements should NOT be prepared on a going concern basis.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "This applies even if the condition did not exist at the reporting date.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Operating Segments: Aggregation of segments is permitted if they have similar economic characteristics.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the similarity criteria for aggregation:",
+    "type": "rearrange",
+    "words": [
+      "Nature of products",
+      "Nature of production process",
+      "Type of customer",
+      "Distribution methods",
+      "Regulatory environment"
+    ]
+  },
+  {
+    "q": "Which is NOT an adjusting event?",
+    "type": "mcq",
+    "o": [
+      "Dividends declared after the reporting period",
+      "Settlement of court case confirming liability",
+      "Determination of bonus payment",
+      "Discovery of error"
+    ]
+  },
+  {
+    "q": "Earnings per share: A rights issue at less than fair value includes a bonus element.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "The bonus element requires retrospective adjustment of the weighted average number of shares.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Adjustment factor for rights issue = Fair value before exercise / ______.",
+    "type": "fill_blank",
+    "answers": [
+      "Theoretical ex-rights price"
+    ],
+    "other_options": [
+      "Issue price",
+      "Par value",
+      "Market price"
+    ]
+  },
+  {
+    "q": "Statement of Cash Flows: Dividends paid. IFRS permits classification as:",
+    "type": "mcq",
+    "o": [
+      "Operating or Financing",
+      "Investing or Financing",
+      "Operating only",
+      "Financing only"
+    ]
+  },
+  {
+    "q": "Taxes paid are usually classified as Operating unless specific to investing/financing.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Foreign currency cash flows are translated at the rate at the date of the cash flow.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Exchange gains/losses on cash held are presented separately in the reconciliation of cash.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Agriculture IAS 41: Government grants. Only applies to biological assets measured at ______.",
+    "type": "fill_blank",
+    "answers": [
+      "Fair value less costs to sell"
+    ],
+    "other_options": [
+      "Cost",
+      "NRV",
+      "Market value"
+    ]
+  },
+  {
+    "q": "Group accounts: Mid-year acquisition. Income and expenses are consolidated from the date of acquisition.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Piecemeal acquisition (Associate to Subsidiary): The gain on remeasurement of the associate is calculated as: FV of associate interest - ______.",
+    "type": "fill_blank",
+    "answers": [
+      "Carrying amount of associate"
+    ],
+    "other_options": [
+      "Cost of associate",
+      "Fair value of subsidiary",
+      "Net assets"
+    ]
+  },
+  {
+    "q": "Reverse acquisition: When the legal acquiree is the accounting acquirer.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "In a reverse acquisition, the consolidated financial statements are issued in the name of the legal parent, but describe the accounting acquirer.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Goodwill in reverse acquisition is based on the notional consideration the accounting acquirer would have paid.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Integrated Reporting: 'Conciseness'. An integrated report should be concise.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Reliability and Completeness: An integrated report should include all material matters, both positive and negative.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Consistency and Comparability: Consistency over time and comparability with other entities.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is a 'Content Element' of <IR>?",
+    "type": "mcq",
+    "o": [
+      "Business Model",
+      "Auditor's Report",
+      "Chairman's Statement",
+      "Detailed Notes"
+    ]
+  },
+  {
+    "q": "Rearrange the Content Elements of <IR>:",
+    "type": "rearrange",
+    "words": [
+      "Organizational overview",
+      "Governance",
+      "Business Model",
+      "Risks and Opportunities",
+      "Strategy and Allocation",
+      "Performance",
+      "Outlook"
+    ]
+  },
+  {
+    "q": "The 'Business Model' in <IR> draws on capitals as inputs and converts them to outputs and outcomes.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Outcomes are the internal and external consequences (positive and negative) for the capitals.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Alternative Performance Measures (APMs). Guidelines suggest APMs should be defined and reconciled to IFRS measures.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "APMs should be given more prominence than IFRS measures.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Provisions: Restructuring. A constructive obligation arises when management has a detailed formal plan and has raised a valid expectation.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Future operating losses can be provided for.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Onerous contract: The provision is the lower of the cost of fulfilling it and the ______.",
+    "type": "fill_blank",
+    "answers": [
+      "penalty"
+    ],
+    "other_options": [
+      "revenue",
+      "loss",
+      "profit"
+    ]
+  },
+  {
+    "q": "IFRS 15: Repurchase agreements. If entity has an obligation to repurchase at a price lower than selling price, it is a lease.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If entity has obligation to repurchase at price higher than selling price, it is a financing arrangement.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Revenue: Principal vs Agent. Classification depends on ______ of the specified good/service before transfer.",
+    "type": "fill_blank",
+    "answers": [
+      "control"
+    ],
+    "other_options": [
+      "ownership",
+      "possession",
+      "risk"
+    ]
+  },
+  {
+    "q": "An agent recognises revenue as the net fee or commission.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Consolidated Statement of Cash Flows: Dividends paid to NCI are presented in:",
+    "type": "mcq",
+    "o": [
+      "Financing activities",
+      "Operating activities",
+      "Investing activities",
+      "Statement of Changes in Equity"
+    ]
+  },
+  {
+    "q": "Acquisition of subsidiary (net of cash acquired) is presented in Investing activities.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Impairment Reversal for Individual Asset: Recognised in P&L, up to what the carrying amount would have been (depreciated historical cost).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Reversal of impairment loss on Revalued Asset is treated as a revaluation increase.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Inventory Valuation: Standard Cost method is allowed if it approximates cost.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Retail method is allowed for inventory valuation in retail industry.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Borrowing Costs: Investment income on temporary investment of specific borrowings is deducted from capitalised borrowing costs.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Is investment income on general borrowings deducted?",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Investment Property: If an entity occupies a significant portion of the property, it might need to be split between IAS 16 and IAS 40.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If it cannot be split, and the owner-occupied portion is insignificant, the whole property is Investment Property.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Share-based payment: Market conditions are not vesting conditions, but affect grant date fair value.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Non-vesting conditions are taken into account in grant date fair value.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If a non-vesting condition within control of entity is not met, it is treated as a ______.",
+    "type": "fill_blank",
+    "answers": [
+      "cancellation"
+    ],
+    "other_options": [
+      "forfeiture",
+      "lapse",
+      "expiry"
+    ]
+  },
+  {
+    "q": "Cancellation by entity is accounted for as an acceleration of vesting.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "SBR Topic: 'Current Issues'. Crypto assets, Natural disasters, Global events are relevant.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Are Initial Coin Offerings (ICOs) covered by a specific standard?",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Often ICO tokens are prepayment for services (IAS 15) or financial instruments (IAS 32/IFRS 9).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Crowdfunding revenue recognition depends on the specific terms (donation vs product vs equity).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Defined Benefit: Past Service Cost is recognised immediately in P&L.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Settlement of a defined benefit plan eliminates all further legal or constructive obligations.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Gain or loss on settlement is recognised in P&L.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Financial Instruments: Derecognition of Financial Asset. Test: Has the entity transferred the rights to receive cash flows?",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If rights transferred, determine if ______(s) and rewards of ownership are transferred.",
+    "type": "fill_blank",
+    "answers": [
+      "risks"
+    ],
+    "other_options": [
+      "benefits",
+      "costs",
+      "titles"
+    ]
+  },
+  {
+    "q": "Leases: Variable lease payments not dependent on index/rate are recognised in P&L as incurred.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Lessor Accounting: Initial Direct Costs are added to the net investment in a finance lease.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Manufacturer Dealer Lessor: Recognises selling profit/loss at commencement of lease.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IFRS 15 Revenue: Contract Modifications. A modification is a separate contract if it adds distinct goods/services at their standalone selling prices.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If not separate, and remaining goods are distinct, treat as termination of old and creation of new contract (prospective).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If not separate, and remaining goods are NOT distinct, treat as part of original contract (cumulative catch-up).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Customer Loyalty Programmes (Points): Points are a separate performance obligation.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Transaction price is allocated to points based on relative standalone selling prices.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "The IASB's Conceptual Framework (2018) re-introduced the concept of:",
+    "type": "mcq",
+    "o": [
+      "Prudence",
+      "Reliability",
+      "Matching",
+      "Conservatism"
+    ]
+  },
+  {
+    "q": "Prudence is defined as the exercise of caution when making judgments under conditions of uncertainty.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Stewardship is now explicitly discussed in the Conceptual Framework as an objective of financial reporting.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "What is the primary measurement basis for the statement of financial position in the Conceptual Framework?",
+    "type": "mcq",
+    "o": [
+      "Historical Cost",
+      "Current Value",
+      "Fair Value",
+      "Mixed Measurement"
+    ]
+  },
+  {
+    "q": "Which is NOT a 'Current Value' measurement basis?",
+    "type": "mcq",
+    "o": [
+      "Historical cost",
+      "Fair value",
+      "Value in use",
+      "Current cost"
+    ]
+  },
+  {
+    "q": "The IASB project 'Primary Financial Statements' proposes to replace IAS 1.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "The proposed new standard requires defined subtotals in the Statement of Profit or Loss, such as 'Operating Profit'.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Management Performance Measures (MPMs) must be reconciled to the most directly comparable IFRS subtotal.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Under proposed rules, 'integral' associates and joint ventures would be presented separately from 'non-integral' ones.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Cryptocurrency: If held for investment (capital appreciation), the most appropriate standard if not trading inventory is:",
+    "type": "mcq",
+    "o": [
+      "IAS 38 Intangible Assets",
+      "IAS 40 Investment Property",
+      "IFRS 9 Financial Instruments",
+      "IAS 2 Inventory"
+    ]
+  },
+  {
+    "q": "The IFRS Interpretations Committee (IFRIC) confirmed that cryptocurrencies are not financial assets (unless a contract exists) nor cash.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Intangible Assets: Cloud computing arrangements (SaaS). If the customer does not control the software, implementation costs are generally:",
+    "type": "mcq",
+    "o": [
+      "Expensed as incurred",
+      "Capitalised as intangible asset",
+      "Capitalised as PPE",
+      "Deferred"
+    ]
+  },
+  {
+    "q": "Unless the implementation service is distinct, costs are expensed over the term of the service contract.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Climate-related risks: While no specific standard exists, material climate risks must be disclosed under existing standards (e.g., IAS 1, IAS 36).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Impairment testing: Climate risks may affect cash flow projections and growth rates.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Useful lives of assets: Climate transition (e.g., ban on diesel engines) may shorten useful lives of relevant PPE.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Special Purpose Acquisition Companies (SPACs). Accounting for SPAC mergers often involves:",
+    "type": "mcq",
+    "o": [
+      "Reverse acquisition accounting (IFRS 3 or IFRS 2)",
+      "Standard business combination",
+      "Asset acquisition only",
+      "Equity method"
+    ]
+  },
+  {
+    "q": "If the SPAC (legal parent) is not a business, the transaction is accounted for as a share-based payment (Listing service) under IFRS 2.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Supplier Finance Arrangements (Reverse Factoring). IASB requires disclosure of the terms and conditions.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Reverse factoring might change the nature of trade payables to ______.",
+    "type": "fill_blank",
+    "answers": [
+      "borrowings"
+    ],
+    "other_options": [
+      "equity",
+      "provisions",
+      "income"
+    ]
+  },
+  {
+    "q": "Lack of Exchangeability (Amendments to IAS 21). Spot rate is estimated if currency is not exchangeable.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Pillar Two Model Rules (Global Minimum Tax). IAS 12 amendment provides a temporary exception to deferred tax accounting for Pillar Two taxes.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Entities must disclose their exposure to Pillar Two income taxes.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Sustainability: 'Connectivity' between financial statements and sustainability disclosures is a key requirement.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If a company claims 'Net Zero' targets in sustainability report, it should reflect any associated costs/liabilities in financial statements if criteria are met.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Green Bonds issued by an entity. If the interest rate is linked to ESG targets (Sustainability-Linked Bonds), the embedded feature must be assessed for separation.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Often ESG-linked features in bonds are considered 'closely related' to the host debt contract.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Digital Assets: Determining active market is crucial for using the ______ model.",
+    "type": "fill_blank",
+    "answers": [
+      "revaluation"
+    ],
+    "other_options": [
+      "cost",
+      "equity",
+      "fair value"
+    ]
+  },
+  {
+    "q": "IFRS 17 Insurance Contracts replaces IFRS 4.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IFRS 17 requires insurance obligations to be measured at current fulfillment value.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Contractual Service Margin (CSM) represents the unearned profit of the insurance contract.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IFRS 17 is relevant to SBR students primarily for its general principles of revenue recognition and liability measurement debates.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Ethics: Aggressive tax avoidance schemes. Professional accountants must consider the 'Public Interest'.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Disclosure Initiatives: The IASB encourages entities to avoid 'boiler-plate' disclosures.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Materiality Practice Statement 2: Materiality judgments apply to ______ information as well as quantitative.",
+    "type": "fill_blank",
+    "answers": [
+      "qualitative"
+    ],
+    "other_options": [
+      "financial",
+      "historic",
+      "numeric"
+    ]
+  },
+  {
+    "q": "Business Combinations under Common Control (BCUCC). Currently no specific IFRS standard.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Entities often choose between acquisition method (fair value) and ______ method (book value) for BCUCC.",
+    "type": "fill_blank",
+    "answers": [
+      "predecessor"
+    ],
+    "other_options": [
+      "successor",
+      "equity",
+      "cost"
+    ]
+  },
+  {
+    "q": "Discount Rates: In times of high inflation/volatility, appropriate discount rates are critical for impairment testing (IAS 36).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Negative interest rates: Can occur in some jurisdictions. Affects discount rates and fair values.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the steps in assessing a complex accounting issue:",
+    "type": "rearrange",
+    "words": [
+      "Identify the issue",
+      "Identify relevant standards",
+      "Apply principles to facts",
+      "Conclude on treatment",
+      "Consider disclosures"
+    ]
+  },
+  {
+    "q": "Integrated Reporting: 'Future Orientation'. <IR> should answer: 'Where is the organisation going?'",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Value creation is not just for shareholders but for all ______.",
+    "type": "fill_blank",
+    "answers": [
+      "stakeholders"
+    ],
+    "other_options": [
+      "employees",
+      "directors",
+      "auditors"
+    ]
+  },
+  {
+    "q": "Match the Integrated Reporting Principle:",
+    "type": "match",
+    "left": [
+      "Strategic focus",
+      "Connectivity",
+      "Stakeholder relationships",
+      "Materiality"
+    ],
+    "right": [
+      "Insight into strategy",
+      "Holistic picture",
+      "Nature and quality of relationships",
+      "Substantive effect on value"
+    ]
+  },
+  {
+    "q": "Ethics: Pressure to breach fundamental principles. 'Intimidation' is the threat.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Responding to NOCLAR (Non-Compliance with Laws and Regulations). Senior professional accountants have a greater responsibility to act.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Applying IFRS 9 to Intercompany Loans. Must distinguish between a loan and an equity contribution.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If a parent provides an interest-free loan to a sub, the 'saving' is an equity contribution (Invest in Sub).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "The subsidiary recognises the 'saving' as a capital contribution (Equity).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IFRS 15: Principle vs Agent in digital platforms. If platform controls the service before transfer to customer -> Principal.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If platform only connects driver and passenger -> Agent.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Gaming Industry: Virtual items purchased. Revenue recognition depends on whether item is consumed immediately or over time.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Leases of intangible assets: IFRS 16 allows option to apply lease accounting or not.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is NOT a criticism of the current impairment model (IAS 36)?",
+    "type": "mcq",
+    "o": [
+      "It is too objective and rules-based",
+      "It is too subjective (estimates)",
+      "It is 'too little too late' (recognition lag)",
+      "It is complex"
+    ]
+  },
+  {
+    "q": "Criticism of IFRS 3 Goodwill: 'Shielding effect'. Headroom in internally generated goodwill can shield acquired goodwill from impairment.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "IASB tentatively decided to retain the impairment-only model for goodwill (no amortization) but improve disclosures.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Classification of Liabilities as Current or Non-current (IAS 1 Update). Right to defer settlement must exist at ______ date.",
+    "type": "fill_blank",
+    "answers": [
+      "reporting"
+    ],
+    "other_options": [
+      "signing",
+      "settlement",
+      "authorization"
+    ]
+  },
+  {
+    "q": "Covenants compliant test: Covenants must be met on or before the reporting date to affect classification.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If covenant is breached at year-end, liability is Current unless waiver obtained before year-end.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Waiver obtained after year-end is a non-adjusting event.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the fair value hierarchy by subjectivity (least to most):",
+    "type": "rearrange",
+    "words": [
+      "Level 1 (Quoted prices)",
+      "Level 2 (Observable)",
+      "Level 3 (Unobservable)"
+    ]
+  },
+  {
+    "q": "Earnings Management vs Fraud. Earnings management is within GAAP but may be unethical. Fraud is illegal.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Big Bath Accounting: Taking large write-offs in a bad year to improve future profitability.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Is 'Big Bath' ethical?",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Professional Judgement is required when IFRS is principles-based.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Automated investment services (Robo-advisors): If entity acts as principal, it consolidates assets/liabilities.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Functional currency of a holding company. Usually the currency of the primary economic environment where it operates (or currency of dividends it receives).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Determining functional currency is a matter of fact, not choice.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Operating Segments: Matrix organisation. If entity reports to CODM by both product and geography, and both are significant, use criteria to identifying which set of components constitutes operating segments.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Usually the set of components based on products/services is selected if managers are responsible for them.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Disclosure of dependence on major customers (IFRS 8). Required if single customer revenue > ______% of total.",
+    "type": "fill_blank",
+    "answers": [
+      "10"
+    ],
+    "other_options": [
+      "5",
+      "20",
+      "50"
+    ]
+  },
+  {
+    "q": "Related Party: Two entities are not related simply because they have a director in common.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "But if that director has significant influence/control over both, they are related.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Correction: Entities controlled/jointly controlled by same person are related.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Associates of the same investor are NOT related to each other.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Joint ventures of the same investor ARE related to each other.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Correction: Reporting entity is related to a third entity if one is a JV of a third entity and the other is an associate of the third entity.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Share-based payment: Grading vesting. Options vest in installments. Each installment is treated as a separate share-based payment.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Deferred Tax: Recoverability of DTA. Assessed by looking at future taxable profits.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Reversal of DTA if no longer probable. Recognised in P&L.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Current Developments: Which is a key theme of the IASB's work plan?",
+    "type": "mcq",
+    "o": [
+      "Better communication in financial reporting",
+      "Eliminating all fair value",
+      "Removing all disclosures",
+      "Merger with FASB"
+    ]
+  },
+  {
+    "q": "Does IFRS Apply to Not-for-Profit entities? No specific 'IFRS for NFP' exists yet.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Generally NFPs apply IFRS with specific adaptations where local GAAP allows.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the lifecycle of an accounting standard:",
+    "type": "rearrange",
+    "words": [
+      "Agenda Consultation",
+      "Research Project",
+      "Standard-setting (Exposure Draft)",
+      "Standard Issuance",
+      "Post-implementation Review"
+    ]
+  },
+  {
+    "q": "Post-implementation Review (PIR) assesses if the standard is working as intended.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Final Question: Professional competence and due care encompasses a continuing duty to maintain professional knowledge and skill.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "SBR Exam Success requires both technical knowledge and ______ skills.",
+    "type": "fill_blank",
+    "answers": [
+      "professional"
+    ],
+    "other_options": [
+      "mathematical",
+      "artistic",
+      "coding"
+    ]
+  },
+  {
+    "q": "Match the professional skill with SBR exam requirement:",
+    "type": "match",
+    "left": [
+      "Communication",
+      "Analysis and Evaluation",
+      "Skepticism",
+      "Commercial Acumen"
+    ],
+    "right": [
+      "Clear expression",
+      "Assessing implications",
+      "Challenging management bias",
+      "Understanding business context"
+    ]
+  },
+  {
+    "q": "In SBR, linking the accounting issue to the 'Framework' (e.g., definitions of assets/liabilities) is often a key mark earner.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "The concept of 'Substance over Form' applies when legal form differs from economic reality.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Substance over Form is an explicit component of Faithful Representation in the 2018 Framework.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "Correction: It is not explicitly stated as a separate component but is implied/embedded in Faithful Representation.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Congratulations on completing the SBR Question Bank!",
+    "type": "mcq",
+    "o": [
+      "Thank you",
+      "Finally",
+      "Next subject",
+      "More please"
+    ]
+  },
+  {
+    "q": "What is the primary aim of the SBR exam?",
+    "type": "mcq",
+    "o": [
+      "To test strategic business reporting decisions",
+      "To test bookkeeping",
+      "To test tax calculation",
+      "To test auditing"
+    ]
+  },
+  {
+    "q": "Strategic Business Reporting requires understanding the ______ implications of accounting standards.",
+    "type": "fill_blank",
+    "answers": [
+      "business"
+    ],
+    "other_options": [
+      "legal",
+      "tax",
+      "ethical"
+    ]
+  },
+  {
+    "q": "Stakeholders are the primary users of ____.",
+    "type": "fill_blank",
+    "answers": [
+      "financial statements"
+    ],
+    "other_options": [
+      "tax returns",
+      "audit reports",
+      "management accounts"
+    ]
+  },
+  {
+    "q": "Ethical behavior is fundamental to the accountancy profession.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "When facing an ethical dilemma, you should always consult with:",
+    "type": "mcq",
+    "o": [
+      "Relevant professional body or legal counsel if necessary",
+      "The press",
+      "Family members",
+      "Competitors"
+    ]
+  },
+  {
+    "q": "Disclosure of confidential information is permitted if: ",
+    "type": "mcq",
+    "o": [
+      "Required by law",
+      "It benefits the company",
+      "It benefits the accountant",
+      "The client doesn't know"
+    ]
+  },
+  {
+    "q": "An accountant should maintain objectivity and be free from conflicts of interest.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Professional competence requires a commitment to lifelong learning.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "SBR also covers the reporting of non-financial information.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Integrated reporting connects financial and non-financial performance.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Current developments in reporting include sustainability and climate change.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "The SBR exam assesses your ability to explain accounting treatments to different stakeholders.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "You should use technical language appropriately but also explain clearly.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Good luck with your SBR studies!",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "The end.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is a valid reason for a change in accounting policy?",
+    "type": "mcq",
+    "o": [
+      "It makes the financial statements more relevant and reliable",
+      "It improves the profit figure",
+      "It reduces tax liability",
+      "It is easier to calculate"
+    ]
+  },
+  {
+    "q": "Omissions or misstatements of items are material if they could, individually or collectively, influence the ______ decisions of users.",
+    "type": "fill_blank",
+    "answers": [
+      "economic"
+    ],
+    "other_options": [
+      "political",
+      "social",
+      "management"
+    ]
+  },
+  {
+    "q": "A contingent asset is recognised in the financial statements.",
+    "type": "true_false",
+    "correct": "False"
+  },
+  {
+    "q": "A contingent asset is disclosed where an inflow of economic benefits is ______.",
+    "type": "fill_blank",
+    "answers": [
+      "probable"
+    ],
+    "other_options": [
+      "possible",
+      "remote",
+      "certain"
+    ]
+  },
+  {
+    "q": "IFRS 15: Contract Costs. Incremental costs of obtaining a contract are capitalised if recoverable.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Costs to fulfil a contract are capitalised if they relate directly to the contract, generate resources, and are recoverable.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Leases: The rate implicit in the lease is the rate that causes the PV of lease payments and unguaranteed residual value to equal the fair value of the underlying asset and ______.",
+    "type": "fill_blank",
+    "answers": [
+      "initial direct costs"
+    ],
+    "other_options": [
+      "selling price",
+      "margin",
+      "profit"
+    ]
+  },
+  {
+    "q": "IFRS 9: Financial Guarantee Contracts. Initially measured at fair value.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Subsequently measured at the higher of the loss allowance (ECL) and the amount initially recognised less income recognised.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Match the IFRS 9 classification to the default measurement:",
+    "type": "match",
+    "left": [
+      "Equity Investment (Trading)",
+      "Debt Investment (Hold to Collect)",
+      "Debt Investment (Hold to Collect & Sell)",
+      "Derivative (Asset)"
+    ],
+    "right": [
+      "FVTPL",
+      "Amortised Cost",
+      "FVTOCI",
+      "FVTPL"
+    ]
+  },
+  {
+    "q": "Ethics: Acceptance of gifts. A self-interest threat may be created.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If threats from gifts cannot be eliminated, the accountant must decline the offer.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Group Accounts: An associate can be an entity that is not a company (e.g. partnership).",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Investments in associates held by venture capital organisations can be measured at ______.",
+    "type": "fill_blank",
+    "answers": [
+      "FVTPL"
+    ],
+    "other_options": [
+      "cost",
+      "amortised cost",
+      "equity method"
+    ]
+  },
+  {
+    "q": "Deferred Tax: Tax base of a liability is carrying amount less any amount deductible for tax in future.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Tax base of revenue received in advance = Carrying amount - Revenue that will not be taxable in future.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the order of allocation of transaction price:",
+    "type": "rearrange",
+    "words": [
+      "Determine standalone selling prices",
+      "Allocate discount pro-rata",
+      "Allocate variable consideration"
+    ]
+  },
+  {
+    "q": "Segment Reporting: If a segment no longer meets thresholds, can it continue to be reported?",
+    "type": "mcq",
+    "o": [
+      "Yes, if management believes it is significant",
+      "No, strictly forbidden",
+      "Only if it was reported last year",
+      "Only if revenue > 5%"
+    ]
+  },
+  {
+    "q": "Share-based payment: Modification. If fair value increases, recognise incremental expense.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "If fair value decreases, ignore the decrease.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Which is a 'Fundamental' qualitative characteristic?",
+    "type": "mcq",
+    "o": [
+      "Faithful representation",
+      "Timeliness",
+      "Understandability",
+      "Verifiability"
+    ]
+  },
+  {
+    "q": "A reporting entity can be a single entity or a portion of an entity or more than one entity.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Combined financial statements are those of two or more entities not linked by a parent-subsidiary relationship.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Exchange of assets is a business combination if the acquired set of activities/assets meets the definition of a business.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Rearrange the inputs for the Black-Scholes model:",
+    "type": "rearrange",
+    "words": [
+      "Share price",
+      "Exercise price",
+      "Expected volatility",
+      "Expected life",
+      "Risk-free rate",
+      "Expected dividends"
+    ]
+  },
+  {
+    "q": "Defined Benefit Plan: Curtailment (significant reduction in employees) is treated as a past service cost.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Gain or loss on curtailment is recognised in P&L.",
+    "type": "true_false",
+    "correct": "True"
+  },
+  {
+    "q": "Borrowing costs: Foreign exchange differences are borrowing costs to the extent they occupy an adjustment to ______ cost.",
+    "type": "fill_blank",
+    "answers": [
+      "interest"
+    ],
+    "other_options": [
+      "capital",
+      "tax",
+      "labour"
+    ]
+  },
+  {
+    "q": "IFRS 13: Non-performance risk includes the entity's own ______ risk.",
+    "type": "fill_blank",
+    "answers": [
+      "credit"
+    ],
+    "other_options": [
+      "market",
+      "business",
+      "liquidity"
+    ]
+  },
+  {
+    "q": "Final verification: The financial statements are prepared on the accrual basis (except for Cash Flow).",
+    "type": "true_false",
+    "correct": "True"
+  }
 ]

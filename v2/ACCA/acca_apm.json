@@ -1,92 +1,5016 @@
 [
     {
-        "q": "What is 'Strategic Management Accounting'?",
+        "q": "What is the primary focus of strategic planning?",
+        "type": "mcq",
         "o": [
-            "Providing information to support strategic decisions",
-            "Basic bookkeeping",
-            "Calculating tax",
-            "Auditing financial statements"
+            "Long-term goals and direction",
+            "Day-to-day operations",
+            "Short-term problem solving",
+            "Employee disciplinary actions"
         ]
     },
     {
-        "q": "Which model analyzes the competitive environment?",
+        "q": "Which level of management is primarily responsible for strategic planning?",
+        "type": "mcq",
         "o": [
+            "Top-level management",
+            "Middle management",
+            "Operational staff",
+            "External auditors"
+        ]
+    },
+    {
+        "q": "Performance management systems aim to align employee activities with ______ goals.",
+        "type": "fill_blank",
+        "answers": [
+            "organisational"
+        ],
+        "other_options": [
+            "personal",
+            "competitor",
+            "political"
+        ]
+    },
+    {
+        "q": "SWOT analysis stands for Strengths, Weaknesses, Opportunities, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Threats"
+        ],
+        "other_options": [
+            "Targets",
+            "Tasks",
+            "Time"
+        ]
+    },
+    {
+        "q": "Match the PESTEL factor with its description:",
+        "type": "match",
+        "left": [
+            "Political",
+            "Economic",
+            "Social",
+            "Technological"
+        ],
+        "right": [
+            "Government policies",
+            "Inflation rates",
+            "Cultural trends",
+            "Automation advances"
+        ]
+    },
+    {
+        "q": "Big Data only refers to the volume of data available.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Cloud computing allows for remote access to data and applications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the steps in the strategic planning process:",
+        "type": "rearrange",
+        "words": [
+            "Mission definition",
+            "Environmental analysis",
+            "Strategy formulation",
+            "Implementation"
+        ]
+    },
+    {
+        "q": "Which of the following is a financial performance measure?",
+        "type": "mcq",
+        "o": [
+            "Return on Investment (ROI)",
+            "Customer satisfaction score",
+            "Employee turnover rate",
+            "Market share percentage"
+        ]
+    },
+    {
+        "q": "What does KPI stand for?",
+        "type": "mcq",
+        "o": [
+            "Key Performance Indicator",
+            "Key Process Index",
+            "Key Product Innovation",
+            "Key Personnel Information"
+        ]
+    },
+    {
+        "q": "Benchmarking involves comparing performance against ______ practices.",
+        "type": "fill_blank",
+        "answers": [
+            "best"
+        ],
+        "other_options": [
+            "worst",
+            "average",
+            "past"
+        ]
+    },
+    {
+        "q": "Mission statements define the organisation's reason for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "existence"
+        ],
+        "other_options": [
+            "profit",
+            "loss",
+            "failure"
+        ]
+    },
+    {
+        "q": "Operational planning covers a longer time horizon than strategic planning.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Budgeting is commonly used as a control mechanism.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the type of control with its timing:",
+        "type": "match",
+        "left": [
+            "Feedforward",
+            "Concurrent",
+            "Feedback"
+        ],
+        "right": [
+            "Before activity starts",
+            "During the activity",
+            "After activity ends"
+        ]
+    },
+    {
+        "q": "Rearrange the Porter's Five Forces:",
+        "type": "rearrange",
+        "words": [
+            "Supplier Power",
+            "Buyer Power",
+            "Threat of Substitutes",
+            "Threat of Entry",
+            "Competitive Rivalry"
+        ]
+    },
+    {
+        "q": "Which of these is an external influence on performance?",
+        "type": "mcq",
+        "o": [
+            "Competitor actions",
+            "Internal audit quality",
+            "Staff training levels",
+            "Management style"
+        ]
+    },
+    {
+        "q": "Stakeholders are individuals or groups interested in the organisation's success.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the 'learning curve' effect?",
+        "type": "mcq",
+        "o": [
+            "Efficiency improves with experience",
+            "Costs increase with volume",
+            "Learning stops after training",
+            "New products fail initially"
+        ]
+    },
+    {
+        "q": "Just-in-Time (JIT) systems aim to minimize ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inventory"
+        ],
+        "other_options": [
+            "sales",
+            "employees",
+            "profits"
+        ]
+    },
+    {
+        "q": "Porter's Value Chain classifies activities into Primary and ______ activities.",
+        "type": "fill_blank",
+        "answers": [
+            "Support"
+        ],
+        "other_options": [
+            "Secondary",
+            "Tertiary",
+            "Minor"
+        ]
+    },
+    {
+        "q": "Match the stakeholder category with an example:",
+        "type": "match",
+        "left": [
+            "Internal",
+            "Connected",
+            "External"
+        ],
+        "right": [
+            "Employees",
+            "Shareholders",
+            "Government"
+        ]
+    },
+    {
+        "q": "Rearrange the stages of the product life cycle:",
+        "type": "rearrange",
+        "words": [
+            "Introduction",
+            "Growth",
+            "Maturity",
+            "Decline"
+        ]
+    },
+    {
+        "q": "Which concept relates to 'meeting the needs of the present without compromising the future'?",
+        "type": "mcq",
+        "o": [
+            "Sustainability",
+            "Profitability",
+            "Liquidity",
+            "Elasticity"
+        ]
+    },
+    {
+        "q": "Balanced Scorecard includes Financial, Customer, Internal Process, and ______ perspectives.",
+        "type": "fill_blank",
+        "answers": [
+            "Learning and Growth"
+        ],
+        "other_options": [
+            "Sales",
+            "Marketing",
+            "Production"
+        ]
+    },
+    {
+        "q": "EVA stands for Economic Value ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Added"
+        ],
+        "other_options": [
+            "Assets",
+            "Analysis",
+            "Average"
+        ]
+    },
+    {
+        "q": "A high employee turnover rate is generally considered positive.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Zero Based Budgeting starts from the previous year's budget.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the IT system with its function:",
+        "type": "match",
+        "left": [
+            "TPS",
+            "MIS",
+            "DSS",
+            "EIS"
+        ],
+        "right": [
+            "Transaction processing",
+            "Management reporting",
+            "Decision support",
+            "Executive information"
+        ]
+    },
+    {
+        "q": "Which data characteristic ensures it is available when needed?",
+        "type": "mcq",
+        "o": [
+            "Timeliness",
+            "Accuracy",
+            "Completeness",
+            "Uniqueness"
+        ]
+    },
+    {
+        "q": "Critical Success Factors (CSFs) are areas where things must go right for success.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an example of a non-financial performance indicator?",
+        "type": "mcq",
+        "o": [
+            "Defect rate",
+            "Gross profit margin",
+            "Earnings per share",
+            "Dividend yield"
+        ]
+    },
+    {
+        "q": "Gap analysis compares actual performance with ______ performance.",
+        "type": "fill_blank",
+        "answers": [
+            "potential"
+        ],
+        "other_options": [
+            "past",
+            "worst",
+            "unrelated"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in a benchmarking exercise:",
+        "type": "rearrange",
+        "words": [
+            "Identify area",
+            "Select partner",
+            "Gather data",
+            "Implement changes"
+        ]
+    },
+    {
+        "q": "Kaizen costing focuses on continuous ______ improvement.",
+        "type": "fill_blank",
+        "answers": [
+            "small"
+        ],
+        "other_options": [
+            "large",
+            "rapid",
+            "random"
+        ]
+    },
+    {
+        "q": "Activity Based Costing (ABC) allocates overheads based on drivers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Target costing determines cost by subtracting desired profit from ______ price.",
+        "type": "fill_blank",
+        "answers": [
+            "selling"
+        ],
+        "other_options": [
+            "purchase",
+            "production",
+            "market"
+        ]
+    },
+    {
+        "q": "Match the risk attitude with its description:",
+        "type": "match",
+        "left": [
+            "Risk Averse",
+            "Risk Neutral",
+            "Risk Seeker"
+        ],
+        "right": [
+            "Avoids risk",
+            "Indifferent to risk",
+            "Enjoys risk"
+        ]
+    },
+    {
+        "q": "What is 'goal congruence'?",
+        "type": "mcq",
+        "o": [
+            "Alignment of individual and org goals",
+            "Setting identical goals for everyone",
+            "Agreement between competitors",
+            "Satisfying legal requirements"
+        ]
+    },
+    {
+        "q": "Transfer pricing affects divisional performance measurement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ROI can encourage managers to reject profitable projects if they lower the current average ROI.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Residual Income (RI) subtracts a capital charge from profit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a leading indicator?",
+        "type": "mcq",
+        "o": [
+            "Customer satisfaction survey",
+            "Financial statements",
+            "Historical sales data",
+            "Audit report"
+        ]
+    },
+    {
+        "q": "Lagging indicators measure past performance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The 'V's of Big Data include Volume, Velocity, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Variety"
+        ],
+        "other_options": [
+            "Victory",
+            "Virtual",
+            "Visual"
+        ]
+    },
+    {
+        "q": "Data mining discovers patterns in large datasets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the environmental uncertainty level:",
+        "type": "match",
+        "left": [
+            "Static",
+            "Dynamic"
+        ],
+        "right": [
+            "Slow change",
+            "Rapid change"
+        ]
+    },
+    {
+        "q": "What does ERP stand for?",
+        "type": "mcq",
+        "o": [
+            "Enterprise Resource Planning",
+            "Economic Recovery Plan",
+            "Entry Routing Protocol",
+            "Earned Revenue Projection"
+        ]
+    },
+    {
+        "q": "Six Sigma aims to reduce process ______.",
+        "type": "fill_blank",
+        "answers": [
+            "defects"
+        ],
+        "other_options": [
+            "speed",
+            "volume",
+            "costs"
+        ]
+    },
+    {
+        "q": "Rearrange the DMAIC cycle in Six Sigma:",
+        "type": "rearrange",
+        "words": [
+            "Define",
+            "Measure",
+            "Analyze",
+            "Improve",
+            "Control"
+        ]
+    },
+    {
+        "q": "A 'cash cow' in BCG matrix has high market share and low market growth.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which BCG category absorbs cash but generates little?",
+        "type": "mcq",
+        "o": [
+            "Question Mark",
+            "Star",
+            "Cash Cow",
+            "Dog"
+        ]
+    },
+    {
+        "q": "Ansoff's Matrix helps with ______ planning.",
+        "type": "fill_blank",
+        "answers": [
+            "growth"
+        ],
+        "other_options": [
+            "cost",
+            "HR",
+            "exit"
+        ]
+    },
+    {
+        "q": "Market Penetration involves selling existing products to existing markets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match Ansoff's strategy with its definition:",
+        "type": "match",
+        "left": [
+            "Market Development",
+            "Product Development",
+            "Diversification"
+        ],
+        "right": [
+            "New market, existing product",
+            "Existing market, new product",
+            "New market, new product"
+        ]
+    },
+    {
+        "q": "Value Analysis focuses on maintaining function while reducing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "cost"
+        ],
+        "other_options": [
+            "quality",
+            "utility",
+            "value"
+        ]
+    },
+    {
+        "q": "The primary goal of Not-for-Profit organizations is wealth maximization.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which 'E' is NOT part of the 3 Es of Value for Money?",
+        "type": "mcq",
+        "o": [
+            "Equity",
+            "Economy",
+            "Efficiency",
+            "Effectiveness"
+        ]
+    },
+    {
+        "q": "Economy relates to minimizing the cost of inputs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Efficiency relates to the ratio of ______ to inputs.",
+        "type": "fill_blank",
+        "answers": [
+            "outputs"
+        ],
+        "other_options": [
+            "costs",
+            "profits",
+            "debts"
+        ]
+    },
+    {
+        "q": "Effectiveness measures the achievement of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "objectives"
+        ],
+        "other_options": [
+            "budgets",
+            "tasks",
+            "inputs"
+        ]
+    },
+    {
+        "q": "Human Resource Management is a primary activity in Porter's Value Chain.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Procurement is a support activity in Porter's Value Chain.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which model analyzes the macro-environment?",
+        "type": "mcq",
+        "o": [
+            "PESTEL",
+            "SWOT",
+            "Portern's Five Forces",
+            "Value Chain"
+        ]
+    },
+    {
+        "q": "Corporate Governance refers to how companies are directed and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "controlled"
+        ],
+        "other_options": [
+            "funded",
+            "taxed",
+            "staffed"
+        ]
+    },
+    {
+        "q": "Agency theory defines the relationship between principals and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "agents"
+        ],
+        "other_options": [
+            "managers",
+            "customers",
+            "suppliers"
+        ]
+    },
+    {
+        "q": "In a company, shareholders are the agents.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the reward type:",
+        "type": "match",
+        "left": [
+            "Intrinsic",
+            "Extrinsic"
+        ],
+        "right": [
+            "Job satisfaction",
+            "Salary bonus"
+        ]
+    },
+    {
+        "q": "Maslow's hierarchy has Self-Actualization at the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "top"
+        ],
+        "other_options": [
+            "bottom",
+            "middle",
+            "side"
+        ]
+    },
+    {
+        "q": "Herzberg's theory divides factors into Hygiene and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Motivator"
+        ],
+        "other_options": [
+            "Safety",
+            "Social",
+            "Growth"
+        ]
+    },
+    {
+        "q": "Hygiene factors prevent dissatisfaction but do not motivate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rolling budgets are continuously updated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Beyond Budgeting advocates for ______ adaptiveness.",
+        "type": "fill_blank",
+        "answers": [
+            "more"
+        ],
+        "other_options": [
+            "less",
+            "zero",
+            "rigid"
+        ]
+    },
+    {
+        "q": "Fungibility is a key characteristic of cloud computing resources.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Scalability is a benefit of cloud systems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the cloud service model:",
+        "type": "match",
+        "left": [
+            "IaaS",
+            "PaaS",
+            "SaaS"
+        ],
+        "right": [
+            "Infrastructure",
+            "Platform",
+            "Software"
+        ]
+    },
+    {
+        "q": "Which is NOT a benefit of Big Data?",
+        "type": "mcq",
+        "o": [
+            "Guaranteed success",
+            "Better decision making",
+            "Customer insight",
+            "Process efficiency"
+        ]
+    },
+    {
+        "q": "Integrated Reporting (<IR>) focuses on value creation over time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which capital is part of Integrated Reporting?",
+        "type": "mcq",
+        "o": [
+            "Intellectual Capital",
+            "Political Capital",
+            "Historic Capital",
+            "Future Capital"
+        ]
+    },
+    {
+        "q": "Six Capitals of <IR> include Financial, Manufactured, Intellectual, Human, Social, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Natural"
+        ],
+        "other_options": [
+            "Digital",
+            "Virtual",
+            "Artificial"
+        ]
+    },
+    {
+        "q": "Standard costing is most effective in stable environments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Variance analysis explains the difference between budget and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "actual"
+        ],
+        "other_options": [
+            "standard",
+            "forecast",
+            "zero"
+        ]
+    },
+    {
+        "q": "A favorable variance increases profit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the steps in Life Cycle Costing:",
+        "type": "rearrange",
+        "words": [
+            "Design",
+            "Manufacture",
+            "Operation",
+            "Disposal"
+        ]
+    },
+    {
+        "q": "Environmental Management Accounting (EMA) identifies environment-related costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Activity Based Management (ABM) uses ABC data to improve ______.",
+        "type": "fill_blank",
+        "answers": [
+            "efficiency"
+        ],
+        "other_options": [
+            "sales",
+            "taxes",
+            "returns"
+        ]
+    },
+    {
+        "q": "TQM stands for Total ______ Management.",
+        "type": "fill_blank",
+        "answers": [
+            "Quality"
+        ],
+        "other_options": [
+            "Quantity",
+            "Quick",
+            "Quote"
+        ]
+    },
+    {
+        "q": "TQM focuses on customer satisfaction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Quality costs include Prevention, Appraisal, Internal Failure, and ______ Failure.",
+        "type": "fill_blank",
+        "answers": [
+            "External"
+        ],
+        "other_options": [
+            "Total",
+            "Major",
+            "Minor"
+        ]
+    },
+    {
+        "q": "Match the quality cost type:",
+        "type": "match",
+        "left": [
+            "Prevention",
+            "Appraisal",
+            "Internal Failure",
+            "External Failure"
+        ],
+        "right": [
+            "Training",
+            "Inspection",
+            "Rework",
+            "Warranty claims"
+        ]
+    },
+    {
+        "q": "Reward systems should be linked to strategic objectives.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A 'balanced' scorecard ensures only financial metrics are used.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Building Block Model is designed for ______ industries.",
+        "type": "fill_blank",
+        "answers": [
+            "service"
+        ],
+        "other_options": [
+            "manufacturing",
+            "agricultural",
+            "mining"
+        ]
+    },
+    {
+        "q": "Fitzgerald and Moon's model includes ______ and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Dimensions, Standards"
+        ],
+        "other_options": [
+            "Inputs, Outputs",
+            "Costs, Revenues",
+            "Assets, Liabilities"
+        ]
+    },
+    {
+        "q": "Performance Prism considers Stakeholder Satisfaction first.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the facets of Performance Prism:",
+        "type": "rearrange",
+        "words": [
+            "Stakeholder Satisfaction",
+            "Strategies",
+            "Processes",
+            "Capabilities",
+            "Stakeholder Contribution"
+        ]
+    },
+    {
+        "q": "Transfer prices should ideally be ______ to the selling division and ______ to the buying division.",
+        "type": "fill_blank",
+        "answers": [
+            "fair, fair"
+        ],
+        "other_options": [
+            "high, low",
+            "low, high",
+            "fixed, variable"
+        ]
+    },
+    {
+        "q": "Dual pricing allows different prices for buying and selling divisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Functional structures group employees by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "specialism"
+        ],
+        "other_options": [
+            "region",
+            "product",
+            "customer"
+        ]
+    },
+    {
+        "q": "Divisional structures can lead to duplication of functions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which model focuses on the link between strategy and operational effectiveness?",
+        "type": "mcq",
+        "o": [
+            "Lynch and Cross's Performance Pyramid",
             "Porter's Five Forces",
-            "Maslow's Hierarchy of Needs",
-            "The 4 Ps of Marketing",
-            "Double Entry Bookkeeping"
+            "Ansoff's Matrix",
+            "Maslow's Hierarchy"
         ]
     },
     {
-        "q": "What is 'Benchmarking'?",
-        "o": [
-            "Comparing performance against best practices or competitors",
-            "Setting a low target",
-            "Guessing future performance",
-            "Ignoring competitors"
+        "q": "The Performance Pyramid includes Corporate Vision, Business Units, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Departments"
+        ],
+        "other_options": [
+            "Government",
+            "Shareholders",
+            "Customers"
         ]
     },
     {
-        "q": "What is 'EVA'?",
-        "o": [
-            "Economic Value Added",
-            "Estimated Value Assessment",
-            "Earned Value Analysis",
-            "Early Value Adoption"
+        "q": "Match the Performance Pyramid level with its focus:",
+        "type": "match",
+        "left": [
+            "Level 1 (Top)",
+            "Level 2",
+            "Level 3",
+            "Level 4 (Bottom)"
+        ],
+        "right": [
+            "Corporate Vision",
+            "Market/Financial",
+            "Customer/Productivity",
+            "Operational indicators"
         ]
     },
     {
-        "q": "What is a major potential problem with using ROI as a performance measure?",
+        "q": "EVA is calculated as NOPAT minus (Capital Employed x WACC).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does NOPAT stand for?",
+        "type": "mcq",
         "o": [
-            "It may encourage short-termism",
-            "It is too difficult to calculate",
-            "It is not widely used",
-            "It focuses on cash flow"
+            "Net Operating Profit After Tax",
+            "Net Overall Profit And Tax",
+            "New Operating Process Audit Tool",
+            "Non-Operating Profit After Tax"
         ]
     },
     {
-        "q": "What is 'Big Data Analytics' useful for in performance management?",
-        "o": [
-            "Identifying trends and patterns to improve decision making",
-            "Storing old files",
-            "Creating simple spreadsheets",
-            "Printing reports"
+        "q": "If ROI > Cost of Capital, the project adds value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the steps to calculate EVA:",
+        "type": "rearrange",
+        "words": [
+            "Calculate NOPAT",
+            "Determine Capital Employed",
+            "Calculate WACC",
+            "Subtract Capital Charge"
         ]
     },
     {
-        "q": "What is the 'Performance Prism'?",
+        "q": "Which is NOT a valid adjustment for EVA?",
+        "type": "mcq",
         "o": [
-            "A multidimensional performance measurement framework",
-            "A type of glass object",
-            "A single financial ratio",
-            "A management style"
+            "Adding back depreciation",
+            "Capitalizing R&D",
+            "Adding back goodwill",
+            "Subtracting sales revenue"
         ]
     },
     {
-        "q": "What is 'Kaizen' costing?",
-        "o": [
-            "Focusing on continuous small improvements to reduce costs",
-            "A radical restructuring",
-            "Standard costing",
-            "Target costing"
+        "q": "Results and Determinants Framework isolates results from their ______.",
+        "type": "fill_blank",
+        "answers": [
+            "causes"
+        ],
+        "other_options": [
+            "effects",
+            "costs",
+            "budgets"
         ]
     },
     {
-        "q": "In a 'Not-for-Profit' organization, what is often a key performance challenge?",
-        "o": [
-            "Measuring non-financial objectives (e.g., social impact)",
-            "Maximizing profit",
-            "Paying dividends",
-            "Share price performance"
+        "q": "Determinants are the factors that influence results.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the Results/Determinants category:",
+        "type": "match",
+        "left": [
+            "Results",
+            "Determinants"
+        ],
+        "right": [
+            "Financial performance",
+            "Quality of service"
         ]
     },
     {
-        "q": "What is 'Lean Management'?",
+        "q": "Expected Values are used in decision making under ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "certainty",
+            "pressure",
+            "contract"
+        ]
+    },
+    {
+        "q": "Maximax criterion is used by risk-seeking decision makers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Maximin criterion selects the option with the 'best of the worst' outcome.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which criterion minimizes the maximum regret?",
+        "type": "mcq",
         "o": [
-            "Minimizing waste while maximizing value",
-            "Firing employees",
-            "Cutting corners on quality",
-            "Increasing inventory"
+            "Minimax Regret",
+            "Maximax",
+            "Maximin",
+            "Expected Value"
+        ]
+    },
+    {
+        "q": "Information overload can improve decision-making quality.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the information quality attribute:",
+        "type": "match",
+        "left": [
+            "Relevant",
+            "Reliable",
+            "Understandable"
+        ],
+        "right": [
+            "Applicable to decision",
+            "Trustworthy source",
+            "Clear format"
+        ]
+    },
+    {
+        "q": "Open systems interact with their environment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Closed systems are self-contained and do not interact externally.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the generic system components:",
+        "type": "rearrange",
+        "words": [
+            "Input",
+            "Process",
+            "Output",
+            "Feedback"
+        ]
+    },
+    {
+        "q": "Expert Systems simulate human ______.",
+        "type": "fill_blank",
+        "answers": [
+            "expertise"
+        ],
+        "other_options": [
+            "emotion",
+            "strength",
+            "sales"
+        ]
+    },
+    {
+        "q": "Neural networks are designed to mimic the human brain.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RFID stands for Radio Frequency ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Identification"
+        ],
+        "other_options": [
+            "Information",
+            "Integration",
+            "Intelligence"
+        ]
+    },
+    {
+        "q": "Which is a benefit of RFID?",
+        "type": "mcq",
+        "o": [
+            "Real-time tracking",
+            "Lower initial cost",
+            "Zero maintenance",
+            "Employee motivation"
+        ]
+    },
+    {
+        "q": "Unified Corporate Performance Management integrates strategy and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "execution"
+        ],
+        "other_options": [
+            "marketing",
+            "hiring",
+            "copying"
+        ]
+    },
+    {
+        "q": "Knowledge Management involves capturing and sharing organizational knowledge.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Explicit knowledge is easy to document and share.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tacit knowledge is personal and hard to formalize.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the type of knowledge:",
+        "type": "match",
+        "left": [
+            "Explicit",
+            "Tacit"
+        ],
+        "right": [
+            "Manuals/Files",
+            "Experience/Intuition"
+        ]
+    },
+    {
+        "q": "The 'V' model of software development emphasizes testing at each stage.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Porter's generic strategies include Cost Leadership, Differentiation, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Focus"
+        ],
+        "other_options": [
+            "Survival",
+            "Growth",
+            "Exit"
+        ]
+    },
+    {
+        "q": "differentiation strategy focuses on unique product features.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cost Leadership strategy aims to be the lowest cost producer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Crowdfunding raises small amounts of money from many people.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fintech refers to technology used in financial services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Blockchain is a decentralized ledger technology.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a characteristic of Blockchain?",
+        "type": "mcq",
+        "o": [
+            "Immutability",
+            "Centralization",
+            "Secrecy",
+            "Temporary storage"
+        ]
+    },
+    {
+        "q": "Cryptocurrency is a digital asset designed to work as a medium of exchange.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Robotic Process Automation (RPA) automates repetitive tasks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the digital technology:",
+        "type": "match",
+        "left": [
+            "AI",
+            "IoT",
+            "Cloud"
+        ],
+        "right": [
+            "Smart decision making",
+            "Connected devices",
+            "On-demand computing"
+        ]
+    },
+    {
+        "q": "Internet of Things (IoT) connects physical devices to the internet.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Lean production minimizes waste without sacrificing productivity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is one of the 7 wastes (Muda) in Lean?",
+        "type": "mcq",
+        "o": [
+            "Overproduction",
+            "Overpayment",
+            "Overthinking",
+            "Overeating"
+        ]
+    },
+    {
+        "q": "5S methodology organizes the workplace for efficiency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the 5S steps:",
+        "type": "rearrange",
+        "words": [
+            "Sort",
+            "Set in order",
+            "Shine",
+            "Standardize",
+            "Sustain"
+        ]
+    },
+    {
+        "q": "Business Process Re-engineering (BPR) involves radical redesign.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "BPR focuses on incremental improvements.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Servitization involves manufacturers offering services with their products.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-procurement uses the internet to purchase goods and services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Reverse auctions drive purchase prices ______.",
+        "type": "fill_blank",
+        "answers": [
+            "down"
+        ],
+        "other_options": [
+            "up",
+            "sideways",
+            "hidden"
+        ]
+    },
+    {
+        "q": "What is 'shrinkage' in retail?",
+        "type": "mcq",
+        "o": [
+            "Inventory loss via theft/error",
+            "Reduction in staff",
+            "Decrease in store size",
+            "Lower profit margins"
+        ]
+    },
+    {
+        "q": "Canibalization occurs when a new product eats into the sales of an existing product.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "McKinsey 7S Framework analyzes organizational effectiveness.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a 'Hard S' in McKinsey 7S?",
+        "type": "mcq",
+        "o": [
+            "Strategy",
+            "Style",
+            "Staff",
+            "Skills"
+        ]
+    },
+    {
+        "q": "Which is a 'Soft S' in McKinsey 7S?",
+        "type": "mcq",
+        "o": [
+            "Shared Values",
+            "Structure",
+            "Systems",
+            "Strategy"
+        ]
+    },
+    {
+        "q": "Hope and Fraser are associated with 'Beyond Budgeting'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Goodhart's Law states: 'When a measure becomes a target, it ceases to be a good ______'.",
+        "type": "fill_blank",
+        "answers": [
+            "measure"
+        ],
+        "other_options": [
+            "target",
+            "goal",
+            "profit"
+        ]
+    },
+    {
+        "q": "Gaming the system involves manipulating behavior to achieve targets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Myopia involves focusing on ______-term goals at the expense of long-term.",
+        "type": "fill_blank",
+        "answers": [
+            "short"
+        ],
+        "other_options": [
+            "long",
+            "mid",
+            "life"
+        ]
+    },
+    {
+        "q": "Suboptimization benefits the division but harms the organization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the dysfunction:",
+        "type": "match",
+        "left": [
+            "Tunnel Vision",
+            "Suboptimization",
+            "Myopia"
+        ],
+        "right": [
+            "Focus only on measured areas",
+            "Division over Company",
+            "Short-termism"
+        ]
+    },
+    {
+        "q": "Hopwood's styles of evaluation include Budget Constrained, Profit Conscious, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Non-Accounting"
+        ],
+        "other_options": [
+            "Loss Making",
+            "Audit Focused",
+            "Risk Averse"
+        ]
+    },
+    {
+        "q": "Budget Constrained style focuses rigidly on meeting the budget.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Profit Conscious style focuses on long-term effectiveness.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-Accounting style ignores financial implications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Benchmarking types include Internal, Competitive, Functional, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Generic"
+        ],
+        "other_options": [
+            "Specific",
+            "Secret",
+            "Public"
+        ]
+    },
+    {
+        "q": "Generic benchmarking compares processes against unrelated industries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a limitation of EBITDA?",
+        "type": "mcq",
+        "o": [
+            "Ignores capital expenditure",
+            "Ignores sales revenue",
+            "Includes too many taxes",
+            "Too complex to calculate"
+        ]
+    },
+    {
+        "q": "EBITDA stands for Earnings Before Interest, Tax, Depreciation, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Amortization"
+        ],
+        "other_options": [
+            "Assets",
+            "Allocations",
+            "Accounts"
+        ]
+    },
+    {
+        "q": "Liquidity ratios measure the ability to meet short-term obligations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Gearing ratios measure financial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "profit",
+            "sales",
+            "inventory"
+        ]
+    },
+    {
+        "q": "Interest Cover = Operating Profit / ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Interest Payable"
+        ],
+        "other_options": [
+            "Tax Payable",
+            "Dividends",
+            "Sales"
+        ]
+    },
+    {
+        "q": "Dividend Yield = Dividend per share / ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Market price per share"
+        ],
+        "other_options": [
+            "Earnings per share",
+            "Book value",
+            "Face value"
+        ]
+    },
+    {
+        "q": "P/E Ratio assesses market confidence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Z-score models predict corporate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "failure"
+        ],
+        "other_options": [
+            "success",
+            "merger",
+            "growth"
+        ]
+    },
+    {
+        "q": "Altman's Z-score uses how many ratios?",
+        "type": "mcq",
+        "o": [
+            "5",
+            "3",
+            "10",
+            "2"
+        ]
+    },
+    {
+        "q": "Argenti's A-score focuses on non-financial failure causes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an A-score defect?",
+        "type": "mcq",
+        "o": [
+            "One-man rule",
+            "High cash reserves",
+            "Diversified board",
+            "Low debt"
+        ]
+    },
+    {
+        "q": "Rearrange failure stages in A-score:",
+        "type": "rearrange",
+        "words": [
+            "Defects",
+            "Mistakes",
+            "Symptoms"
+        ]
+    },
+    {
+        "q": "Creative accounting involves manipulating figures to mislead.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Off-balance sheet financing hides ______.",
+        "type": "fill_blank",
+        "answers": [
+            "debt"
+        ],
+        "other_options": [
+            "profit",
+            "assets",
+            "equity"
+        ]
+    },
+    {
+        "q": "Sustainability reporting includes Environmental, Social, and ______ factors.",
+        "type": "fill_blank",
+        "answers": [
+            "Governance"
+        ],
+        "other_options": [
+            "Global",
+            "General",
+            "Growth"
+        ]
+    },
+    {
+        "q": "ESG stands for Environmental, Social, and Governance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GRI stands for Global Reporting ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Initiative"
+        ],
+        "other_options": [
+            "Index",
+            "Institute",
+            "International"
+        ]
+    },
+    {
+        "q": "Triple Bottom Line includes People, Planet, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Profit"
+        ],
+        "other_options": [
+            "Product",
+            "Price",
+            "Place"
+        ]
+    },
+    {
+        "q": "Match Triple Bottom Line component:",
+        "type": "match",
+        "left": [
+            "People",
+            "Planet",
+            "Profit"
+        ],
+        "right": [
+            "Social",
+            "Environmental",
+            "Economic"
+        ]
+    },
+    {
+        "q": "Material Flow Cost Accounting (MFCA) traces waste cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Intangible assets include patents and brand reputation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the sequence of strategy implementation:",
+        "type": "rearrange",
+        "words": [
+            "Strategic analysis",
+            "Choice",
+            "Implementation",
+            "Review"
+        ]
+    },
+    {
+        "q": "Complex environments make planning difficult.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Strategic drift occurs when strategy fails to keep up with environment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a sign of strategic drift?",
+        "type": "mcq",
+        "o": [
+            "Performance decline",
+            "Innovation boom",
+            "High employee morale",
+            "Market dominance"
+        ]
+    },
+    {
+        "q": "Change management is crucial for strategic success.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Lewin's 3-step change model: Unfreeze, Change, ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Refreeze"
+        ],
+        "other_options": [
+            "Repeat",
+            "Review",
+            "Reject"
+        ]
+    },
+    {
+        "q": "Force Field Analysis identifies driving and ______ forces.",
+        "type": "fill_blank",
+        "answers": [
+            "restraining"
+        ],
+        "other_options": [
+            "pulling",
+            "stopping",
+            "fast"
+        ]
+    },
+    {
+        "q": "Match Lewin's stage:",
+        "type": "match",
+        "left": [
+            "Unfreeze",
+            "Change",
+            "Refreeze"
+        ],
+        "right": [
+            "Prepare for change",
+            "Implement change",
+            "Embed change"
+        ]
+    },
+    {
+        "q": "Big Data Volume refers to the ______ of data.",
+        "type": "fill_blank",
+        "answers": [
+            "amount"
+        ],
+        "other_options": [
+            "speed",
+            "type",
+            "truth"
+        ]
+    },
+    {
+        "q": "Big Data Velocity refers to the speed of data generation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Big Data Veracity refers to data ______.",
+        "type": "fill_blank",
+        "answers": [
+            "trustworthiness"
+        ],
+        "other_options": [
+            "size",
+            "format",
+            "cost"
+        ]
+    },
+    {
+        "q": "Data visualization helps in interpreting complex data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which transfer pricing method ensures the selling division does not lose out on contribution?",
+        "type": "mcq",
+        "o": [
+            "Marginal cost plus opportunity cost",
+            "Full cost plus markup",
+            "Market price minus commission",
+            "Variable cost only"
+        ]
+    },
+    {
+        "q": "Opportunity cost represents the benefit foregone from the next best alternative.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If a selling division has spare capacity, the opportunity cost is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "zero"
+        ],
+        "other_options": [
+            "high",
+            "variable",
+            "infinite"
+        ]
+    },
+    {
+        "q": "Activity Based Budgeting (ABB) focuses on the costs of activities necessary to produce ______.",
+        "type": "fill_blank",
+        "answers": [
+            "output"
+        ],
+        "other_options": [
+            "input",
+            "errors",
+            "waste"
+        ]
+    },
+    {
+        "q": "Rearrange the ABB process:",
+        "type": "rearrange",
+        "words": [
+            "Estimate production/sales",
+            "Determine activities",
+            "Calculate resources",
+            "Finalize budget"
+        ]
+    },
+    {
+        "q": "Which budgeting method is most suitable for a rapidly changing high-tech firm?",
+        "type": "mcq",
+        "o": [
+            "Rolling Budget",
+            "Incremental Budget",
+            "Fixed Budget",
+            "Zero Based Budget"
+        ]
+    },
+    {
+        "q": "Incremental budgeting encourages efficiency.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Feedforward control predicts future problems to prevent them.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which data analysis technique groups similar data points?",
+        "type": "mcq",
+        "o": [
+            "Clustering",
+            "Regression",
+            "Classification",
+            "Summarization"
+        ]
+    },
+    {
+        "q": "Regression analysis estimates relationships among variables.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the data analytic type:",
+        "type": "match",
+        "left": [
+            "Descriptive",
+            "Diagnostic",
+            "Predictive",
+            "Prescriptive"
+        ],
+        "right": [
+            "What happened?",
+            "Why it happened?",
+            "What will happen?",
+            "How to make it happen?"
+        ]
+    },
+    {
+        "q": "Value Chain Analysis can be used to identify cost drivers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which involves outsourcing non-core activities?",
+        "type": "mcq",
+        "o": [
+            "Strategic Alliance",
+            "Vertical Integration",
+            "Horizontal Integration",
+            "Conglomerate Merger"
+        ]
+    },
+    {
+        "q": "Business Process Outsourcing (BPO) focuses on ______ functions.",
+        "type": "fill_blank",
+        "answers": [
+            "administrative"
+        ],
+        "other_options": [
+            "core",
+            "strategic",
+            "unique"
+        ]
+    },
+    {
+        "q": "Shared Service Centers consolidate support functions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a risk of outsourcing?",
+        "type": "mcq",
+        "o": [
+            "Loss of confidentiality",
+            "Reduced costs",
+            "Access to expertise",
+            "Focus on core business"
+        ]
+    },
+    {
+        "q": "Virtual organizations rely heavily on ______ technology.",
+        "type": "fill_blank",
+        "answers": [
+            "information"
+        ],
+        "other_options": [
+            "production",
+            "transport",
+            "farming"
+        ]
+    },
+    {
+        "q": "Hollow organizations outsource almost all functions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match organizational structure:",
+        "type": "match",
+        "left": [
+            "Functional",
+            "Divisional",
+            "Matrix"
+        ],
+        "right": [
+            "By skill/task",
+            "By product/region",
+            "Dual reporting lines"
+        ]
+    },
+    {
+        "q": "Matrix structures can lead to conflicting loyalties.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "JIT requires strong relationships with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "suppliers"
+        ],
+        "other_options": [
+            "competitors",
+            "banks",
+            "regulators"
+        ]
+    },
+    {
+        "q": "Kaizen costing is applied during the design phase.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Target costing is market-driven.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cost gap is the difference between specific cost and ______ cost.",
+        "type": "fill_blank",
+        "answers": [
+            "target"
+        ],
+        "other_options": [
+            "selling",
+            "market",
+            "fixed"
+        ]
+    },
+    {
+        "q": "Rearrange steps to close a cost gap:",
+        "type": "rearrange",
+        "words": [
+            "Review design",
+            "Negotiate with suppliers",
+            "Eliminate waste",
+            "Launch product"
+        ]
+    },
+    {
+        "q": "Environmental costs are often hidden in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "overheads"
+        ],
+        "other_options": [
+            "direct labor",
+            "materials",
+            "sales"
+        ]
+    },
+    {
+        "q": "Life Cycle Assessment (LCA) reviews environmental impact.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an internal failure cost?",
+        "type": "mcq",
+        "o": [
+            "Scrap",
+            "Product recalls",
+            "Quality training",
+            "Testing equipment"
+        ]
+    },
+    {
+        "q": "Which is a prevention cost?",
+        "type": "mcq",
+        "o": [
+            "Quality planning",
+            "Final testing",
+            "Reworking",
+            "Customer support"
+        ]
+    },
+    {
+        "q": "NPV assumes cash flows are reinvested at the cost of capital.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IRR is the discount rate where NPV is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "zero"
+        ],
+        "other_options": [
+            "positive",
+            "negative",
+            "one"
+        ]
+    },
+    {
+        "q": "MIRR addresses the reinvestment assumption of IRR.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match investment appraisal method:",
+        "type": "match",
+        "left": [
+            "NPV",
+            "Payback",
+            "ARR"
+        ],
+        "right": [
+            "Absolute value added",
+            "Time to recover cost",
+            "Accounting profit based"
+        ]
+    },
+    {
+        "q": "Real options analysis values the flexibility in decision making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a 'Real Option'?",
+        "type": "mcq",
+        "o": [
+            "Option to abandon",
+            "Put option on stock",
+            "Call option on bond",
+            "Futures contract"
+        ]
+    },
+    {
+        "q": "Balanced Scorecard connects strategy to daily activities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Strategy Maps visualize the cause-and-effect links in BSC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In BSC, 'Learning and Growth' drives 'Internal Processes'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange cause-and-effect chain in BSC:",
+        "type": "rearrange",
+        "words": [
+            "Learning/Growth",
+            "Internal Processes",
+            "Customer",
+            "Financial"
+        ]
+    },
+    {
+        "q": "Benchmarking establishes a standard of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "excellence"
+        ],
+        "other_options": [
+            "mediocrity",
+            "failure",
+            "average"
+        ]
+    },
+    {
+        "q": "Recession generally leads to lower demand.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Inflation erodes the purchasing power of money.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fiscal policy involves government spending and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "taxation"
+        ],
+        "other_options": [
+            "interest rates",
+            "printing money",
+            "imports"
+        ]
+    },
+    {
+        "q": "Monetary policy is controlled by the Central Bank.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match economic policy:",
+        "type": "match",
+        "left": [
+            "Fiscal",
+            "Monetary"
+        ],
+        "right": [
+            "Tax/Spend",
+            "Interest/Money Supply"
+        ]
+    },
+    {
+        "q": "Exchange rate fluctuations affect import/export prices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Transaction risk involves the effect of exchange rates on ______ obligations.",
+        "type": "fill_blank",
+        "answers": [
+            "contractual"
+        ],
+        "other_options": [
+            "future",
+            "imaginary",
+            "past"
+        ]
+    },
+    {
+        "q": "Economic risk affects the long-term competitive position.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Performance Prism is stakeholder-centric.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is NOT a facet of the Performance Prism?",
+        "type": "mcq",
+        "o": [
+            "Competitor Analysis",
+            "Strategies",
+            "Processes",
+            "Capabilities"
+        ]
+    },
+    {
+        "q": "Fitzgerald and Moon's model separates results and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "determinants"
+        ],
+        "other_options": [
+            "causes",
+            "effects",
+            "defects"
+        ]
+    },
+    {
+        "q": "Flexibility is a determinant in the Building Block model.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Resource utilization is a determinant in the Building Block model.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Competitiveness is a result in the Building Block model.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match Building Block dimension:",
+        "type": "match",
+        "left": [
+            "Financial Performance",
+            "Quality",
+            "Innovation"
+        ],
+        "right": [
+            "Result",
+            "Determinant",
+            "Determinant"
+        ]
+    },
+    {
+        "q": "Not-for-profit organizations have multiple, often conflicting, objectives.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Value for Money (VFM) is crucial for public sector auditing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "League tables compare performance of public sector bodies (e.g., schools).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "League tables can encourage 'teaching to the test'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a problem with league tables?",
+        "type": "mcq",
+        "o": [
+            "Ignores context",
+            "Increases transparency",
+            "Promotes competition",
+            "Provides data"
+        ]
+    },
+    {
+        "q": "Reward schemes should be fair and consistent.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Group bonuses encourage teamwork.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which may be a negative side effect of individual bonuses?",
+        "type": "mcq",
+        "o": [
+            "Reduced cooperation",
+            "Higher motivation",
+            "Increased focus",
+            "Retention of staff"
+        ]
+    },
+    {
+        "q": "Information System strategy should support business strategy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Lean Information Systems remove non-value adding data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Big Data involves structured and ______ data.",
+        "type": "fill_blank",
+        "answers": [
+            "unstructured"
+        ],
+        "other_options": [
+            "clean",
+            "small",
+            "old"
+        ]
+    },
+    {
+        "q": "Text analysis is used for unstructured data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match analytics technique:",
+        "type": "match",
+        "left": [
+            "Text mining",
+            "Image recognition",
+            "Sentiment analysis"
+        ],
+        "right": [
+            "Extracting keywords",
+            "Identifying objects",
+            "Detecting mood"
+        ]
+    },
+    {
+        "q": "Predictive analytics uses historical data to forecast.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Prescriptive analytics suggests actions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cloud computing reduces upfront capital expenditure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SaaS stands for Software as a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Service"
+        ],
+        "other_options": [
+            "System",
+            "Solution",
+            "Standard"
+        ]
+    },
+    {
+        "q": "Platform Business Models connect producers and consumers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Examples of Platform businesses include Uber and Airbnb.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Network effects mean value increases with more ______.",
+        "type": "fill_blank",
+        "answers": [
+            "users"
+        ],
+        "other_options": [
+            "servers",
+            "managers",
+            "costs"
+        ]
+    },
+    {
+        "q": "Freemium models offer basic services for free.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange stages of Big Data management:",
+        "type": "rearrange",
+        "words": [
+            "Capture",
+            "Store",
+            "Process",
+            "Analyze"
+        ]
+    },
+    {
+        "q": "Data privacy is a major concern in Big Data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GDPR protects data privacy in the EU.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cybersecurity protects systems from digital attacks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Phishing is a form of social engineering.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match cybersecurity term:",
+        "type": "match",
+        "left": [
+            "Firewall",
+            "Antivirus",
+            "Encryption"
+        ],
+        "right": [
+            "Network barrier",
+            "Malware detection",
+            "Data scrambling"
+        ]
+    },
+    {
+        "q": "Integrated Reporting promotes 'Integrated Thinking'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Integrated reports are primarily for tax authorities.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Conciseness is a guiding principle of <IR>.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "KPIs should be SMART: Specific, Measurable, Achievable, Relevant, ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Time-bound"
+        ],
+        "other_options": [
+            "Tested",
+            "Technical",
+            "True"
+        ]
+    },
+    {
+        "q": "A mission statement focuses on 'what business are we in'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A vision statement focuses on 'where do we want to be'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Corporate Social Responsibility (CSR) is voluntary.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an example of CSR?",
+        "type": "mcq",
+        "o": [
+            "Reducing carbon footprint",
+            "Paying mandatory taxes",
+            "Meeting legal safety standards",
+            "Maximizing shareholder dividends"
+        ]
+    },
+    {
+        "q": "Strategic Business Units (SBUs) have their own strategy and competitors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Transfer pricing based on full cost may lead to suboptimal decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Negotiated transfer pricing simulates a market environment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Divisional performance can be measured by ROI or RI.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ROI is a relative measure (percentage).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RI is an absolute measure (currency value).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which encourages asset retention beyond useful life?",
+        "type": "mcq",
+        "o": [
+            "ROI",
+            "RI",
+            "Sales growth",
+            "NPV"
+        ]
+    },
+    {
+        "q": "Which performance model links 'Competitiveness' directly to 'Results'?",
+        "type": "mcq",
+        "o": [
+            "Fitzgerald and Moon's Building Blocks",
+            "Porter's Value Chain",
+            "Ansoff's Matrix",
+            "SWOT Analysis"
+        ]
+    },
+    {
+        "q": "In the Building Block model, 'Innovation' is a determinant of future performance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The 'Standards' block in Fitzgerald and Moon includes Ownership, Achievability, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Equity"
+        ],
+        "other_options": [
+            "Excellence",
+            "Economy",
+            "Efficiency"
+        ]
+    },
+    {
+        "q": "Match the Building Block 'Standard' characteristic to its meaning:",
+        "type": "match",
+        "left": [
+            "Ownership",
+            "Achievability",
+            "Equity"
+        ],
+        "right": [
+            "Managers accept targets",
+            "Targets are possible",
+            "Targets are fair"
+        ]
+    },
+    {
+        "q": "Rewards in the Building Block model should be Clear, Motivating, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Controllable"
+        ],
+        "other_options": [
+            "Cash-based",
+            "Costly",
+            "Competitive"
+        ]
+    },
+    {
+        "q": "Performance Prism's 'Strategies' facet asks: 'What strategies do we need to satisfy ______?'",
+        "type": "fill_blank",
+        "answers": [
+            "stakeholders"
+        ],
+        "other_options": [
+            "managers",
+            "auditors",
+            "competitors"
+        ]
+    },
+    {
+        "q": "In Performance Prism, 'Processes' support 'Strategies'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Stakeholder Contribution asks what the organization needs *from* its stakeholders.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an example of Stakeholder Contribution?",
+        "type": "mcq",
+        "o": [
+            "Employee loyalty",
+            "Customer complaints",
+            "Tax audits",
+            "Competitor pricing"
+        ]
+    },
+    {
+        "q": "Rearrange the logical flow of Performance Prism (though it's interlinked):",
+        "type": "rearrange",
+        "words": [
+            "Stakeholder Wants",
+            "Company Strategy",
+            "Business Processes",
+            "Capabilities",
+            "Stakeholder Gives"
+        ]
+    },
+    {
+        "q": "Mendelow's Matrix maps stakeholders based on Power and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Interest"
+        ],
+        "other_options": [
+            "Wealth",
+            "Influence",
+            "Legitimacy"
+        ]
+    },
+    {
+        "q": "A stakeholder with High Power and High Interest should be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Managed Closely"
+        ],
+        "other_options": [
+            "Ignored",
+            "Kept Informed",
+            "Monitored"
+        ]
+    },
+    {
+        "q": "Low Power, High Interest stakeholders should be 'Kept Informed'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match Mendelow's strategy:",
+        "type": "match",
+        "left": [
+            "Low Power/Low Interest",
+            "High Power/Low Interest",
+            "High Power/High Interest"
+        ],
+        "right": [
+            "Minimal Effort",
+            "Keep Satisfied",
+            "Key Players"
+        ]
+    },
+    {
+        "q": "Value Based Management (VBM) aligns strategy, processes, and systems to maximize value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A key driver of shareholder value is the spread between ROI and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "WACC"
+        ],
+        "other_options": [
+            "Tax Rate",
+            "Inflation",
+            "Growth"
+        ]
+    },
+    {
+        "q": "Which is NOT a VBM driver?",
+        "type": "mcq",
+        "o": [
+            "Sales growth",
+            "Profit margin",
+            "Employee age",
+            "Tax rate"
+        ]
+    },
+    {
+        "q": "SVA stands for Shareholder Value ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Analysis"
+        ],
+        "other_options": [
+            "Accounting",
+            "Added",
+            "Assessment"
+        ]
+    },
+    {
+        "q": "Rappaport's SVA model uses 7 value drivers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange Rappaport's value drivers (select 4):",
+        "type": "rearrange",
+        "words": [
+            "Sales Growth",
+            "Operating Margin",
+            "Fixed Capital Investment",
+            "Cost of Capital"
+        ]
+    },
+    {
+        "q": "The planning horizon in SVA is usually perpetuity.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Terminal value assumes operations continue beyond the planning period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Benchmarking can lead to 'industrial tourism' with no real change.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Activity Based Management (ABM) classifies activities as Value-Added (VA) and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Non-Value-Added"
+        ],
+        "other_options": [
+            "Cost-Plus",
+            "Variable",
+            "Fixed"
+        ]
+    },
+    {
+        "q": "Non-value-added activities should be eliminated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the activity type:",
+        "type": "match",
+        "left": [
+            "Processing",
+            "Moving",
+            "Waiting",
+            "Inspecting"
+        ],
+        "right": [
+            "Value-Added (usually)",
+            "Non-Value-Added",
+            "Non-Value-Added",
+            "Non-Value-Added (ideally)"
+        ]
+    },
+    {
+        "q": "Customer Profitability Analysis (CPA) often reveals 80% of profit comes from 20% of customers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The Pareto Rule is also known as the ______ rule.",
+        "type": "fill_blank",
+        "answers": [
+            "80/20"
+        ],
+        "other_options": [
+            "50/50",
+            "90/10",
+            "60/40"
+        ]
+    },
+    {
+        "q": "Direct Product Profitability (DPP) is used primarily in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "retail"
+        ],
+        "other_options": [
+            "mining",
+            "banking",
+            "insurance"
+        ]
+    },
+    {
+        "q": "DPP allocates overheads like warehousing and transport to specific products.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Just-in-Time (JIT) production moves from a 'Push' to a '______' system.",
+        "type": "fill_blank",
+        "answers": [
+            "Pull"
+        ],
+        "other_options": [
+            "Drag",
+            "Lift",
+            "Hold"
+        ]
+    },
+    {
+        "q": "Kanban is a visual signaling system used in JIT.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Backflush accounting delays recording costs until goods are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "finished/sold"
+        ],
+        "other_options": [
+            "ordered",
+            "started",
+            "designed"
+        ]
+    },
+    {
+        "q": "Backflush accounting is suitable for JIT environments with low inventory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Throughput Accounting focuses on maximizing the rate of production through the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "bottleneck"
+        ],
+        "other_options": [
+            "warehouse",
+            "office",
+            "canteen"
+        ]
+    },
+    {
+        "q": "Theory of Constraints (TOC) aims to identify and elevate the bottleneck.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Throughput = Sales Revenue - ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Direct Material Cost"
+        ],
+        "other_options": [
+            "Total Cost",
+            "Fixed Cost",
+            "Labor Cost"
+        ]
+    },
+    {
+        "q": "In Throughput Accounting, labor is often considered a fixed cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Throughput Accounting Ratio (TPAR) = Return per factory hour / ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Cost per factory hour"
+        ],
+        "other_options": [
+            "Sales per hour",
+            "Wages per hour",
+            "Units per hour"
+        ]
+    },
+    {
+        "q": "A TPAR greater than 1 suggests the product is profitable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange steps in Theory of Constraints:",
+        "type": "rearrange",
+        "words": [
+            "Identify constraint",
+            "Exploit constraint",
+            "Subordinate others",
+            "Elevate constraint"
+        ]
+    },
+    {
+        "q": "Environmental Management Accounting is just about compliance.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Input-Output Analysis balances mass of inputs with mass of outputs and waste.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Flow Cost Accounting traces material flows through the organization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Quality Circles are groups of employees who meet to solve problems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Kaizen is a Japanese term for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "continuous improvement"
+        ],
+        "other_options": [
+            "inventory control",
+            "cost reduction",
+            "waste management"
+        ]
+    },
+    {
+        "q": "Business Ethics involves applying moral principles to business behavior.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an ethical threat?",
+        "type": "mcq",
+        "o": [
+            "Self-interest",
+            "Objectivity",
+            "Professionalism",
+            "Integrity"
+        ]
+    },
+    {
+        "q": "Match ethical threat:",
+        "type": "match",
+        "left": [
+            "Self-interest",
+            "Familiarity",
+            "Intimidation"
+        ],
+        "right": [
+            "Financial gain",
+            "Close relationship",
+            "Fear of repercussions"
+        ]
+    },
+    {
+        "q": "Integrated Reporting <IR> aims to show how an organization creates value over time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Risk Management allows an organization to ignore all risks.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Enterprise Risk Management (ERM) manages risk across the entire organization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TARA framework for risk response: Transfer, Avoid, Reduce, ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Accept"
+        ],
+        "other_options": [
+            "Attack",
+            "Analyze",
+            "Audit"
+        ]
+    },
+    {
+        "q": "Match risk response:",
+        "type": "match",
+        "left": [
+            "Transfer",
+            "Avoid",
+            "Reduce",
+            "Accept"
+        ],
+        "right": [
+            "Insurance/Hedging",
+            "Stop activity",
+            "Controls/Safety",
+            "Retain risk"
+        ]
+    },
+    {
+        "q": "COSO framework is widely used for internal control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The 'Control Environment' is the foundation of the COSO cube.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a component of internal control?",
+        "type": "mcq",
+        "o": [
+            "Risk Assessment",
+            "Market Analysis",
+            "Product Design",
+            "Customer Service"
+        ]
+    },
+    {
+        "q": "Information Asymmetry exists when one party has more information than another.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Moral Hazard occurs when a party takes risks because another bears the cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Adverse Selection occurs before a transaction takes place.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Using Big Data to target customers can raise ethical privacy issues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Predictive algorithms can reinforce bias.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Distributed Ledger Technology (DLT) is the broader category for Blockchain.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Smart Contracts execute automatically when conditions are met.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a potential benefit of Smart Contracts?",
+        "type": "mcq",
+        "o": [
+            "Reduced transaction costs",
+            "Human error",
+            "Slower processing",
+            "Ambiguity"
+        ]
+    },
+    {
+        "q": "Data Warehousing consolidates data from multiple sources.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A Data Lake stores data in its natural/raw format.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match data storage:",
+        "type": "match",
+        "left": [
+            "Data Warehouse",
+            "Data Lake"
+        ],
+        "right": [
+            "Structured/Processed",
+            "Raw/Unstructured"
+        ]
+    },
+    {
+        "q": "Hadoop is a framework for processing Big Data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "MapReduce is a programming model for Big Data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Descriptive statistics summarize data features.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Inferential statistics make predictions about a population.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The coefficient of correlation 'r' measures linear relationship strength.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "r = 1 implies a perfect negative correlation.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "r squared (r^2) is the coefficient of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "determination"
+        ],
+        "other_options": [
+            "deviation",
+            "distribution",
+            "division"
+        ]
+    },
+    {
+        "q": "Time series analysis separates trend, seasonal, cyclical, and ______ variations.",
+        "type": "fill_blank",
+        "answers": [
+            "random"
+        ],
+        "other_options": [
+            "fixed",
+            "linear",
+            "total"
+        ]
+    },
+    {
+        "q": "Moving averages smooth out short-term fluctuations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Exponential smoothing gives more weight to recent data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Scenario planning envisions different future environments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Delphi Method uses a panel of experts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The Delphi Method requires experts to meet face-to-face.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Sensitivity analysis changes one variable at a time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Simulation (e.g., Monte Carlo) changes multiple variables using probability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Game Theory analyzes strategic interactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Nash Equilibrium is a concept in Game Theory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Prisoner's Dilemma illustrates why cooperation is difficult.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which bias involves relying too much on the first piece of info?",
+        "type": "mcq",
+        "o": [
+            "Anchoring",
+            "Confirmation",
+            "Availability",
+            "Hindsight"
+        ]
+    },
+    {
+        "q": "Confirmation bias involves seeking info that confirms pre-existing beliefs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Sunk Cost Fallacy involves continuing a venture due to past investment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Groupthink discourages creativity and individual responsibility.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Escalation of commitment is increasing investment in a failing course of action.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the cognitive bias:",
+        "type": "match",
+        "left": [
+            "Anchoring",
+            "Confirmation Bias",
+            "Groupthink"
+        ],
+        "right": [
+            "First impression",
+            "Seeking agreement",
+            "Consensus pressure"
+        ]
+    },
+    {
+        "q": "Performance dashboards provide a visual display of KPIs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A good dashboard should be cluttered with every possible metric.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Drill-down capability allows users to see more detail.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Exception reporting highlights deviations from standard.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a benefit of a unified database?",
+        "type": "mcq",
+        "o": [
+            "Data consistency",
+            "Data duplication",
+            "Data isolation",
+            "Data loss"
+        ]
+    },
+    {
+        "q": "Cloud scalability allows systems to handle increased load.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cyber resilience is the ability to recover from attacks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Two-factor authentication (2FA) improves security.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "BYOD stands for Bring Your Own ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Device"
+        ],
+        "other_options": [
+            "Data",
+            "Desk",
+            "Dog"
+        ]
+    },
+    {
+        "q": "BYOD policies need to address security risks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Shadow IT refers to IT systems managed without official approval.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is NOT a difficulty in measuring performance in the service sector?",
+        "type": "mcq",
+        "o": [
+            "Inseparability",
+            "Intangibility",
+            "Homogeneity",
+            "Perishability"
+        ]
+    },
+    {
+        "q": "Services are often produced and consumed simultaneously (Simultaneity).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Heterogeneity means service quality is consistent and standardized.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Intangibility makes it hard to measure quality before consumption.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Perishability means services cannot be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "stored"
+        ],
+        "other_options": [
+            "sold",
+            "bought",
+            "used"
+        ]
+    },
+    {
+        "q": "Match service characteristic:",
+        "type": "match",
+        "left": [
+            "Intangibility",
+            "Heterogeneity",
+            "Perishability"
+        ],
+        "right": [
+            "No physical form",
+            "Variability",
+            "Cannot inventory"
+        ]
+    },
+    {
+        "q": "Servqual model measures service quality using 5 dimensions (RATER).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RATER stands for Reliability, Assurance, Tangibles, Empathy, ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Responsiveness"
+        ],
+        "other_options": [
+            "Respect",
+            "Resourcefulness",
+            "Reality"
+        ]
+    },
+    {
+        "q": "Rearrange RATER dimensions:",
+        "type": "rearrange",
+        "words": [
+            "Reliability",
+            "Assurance",
+            "Tangibles",
+            "Empathy",
+            "Responsiveness"
+        ]
+    },
+    {
+        "q": "Assurance refers to the knowledge and courtesy of employees.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Empathy refers to caring, individualized attention.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which transfer pricing issue arises in international divisions?",
+        "type": "mcq",
+        "o": [
+            "Tax rate differences",
+            "Language barriers",
+            "Time zones",
+            "Software compatibility"
+        ]
+    },
+    {
+        "q": "Multinationals may use transfer pricing to shift profits to ______ tax jurisdictions.",
+        "type": "fill_blank",
+        "answers": [
+            "low"
+        ],
+        "other_options": [
+            "high",
+            "medium",
+            "zero"
+        ]
+    },
+    {
+        "q": "Arm's Length Principle requires transfer prices to match market rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Divisional ROI can be distorted by the age of assets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Older assets usually have a lower Net Book Value, leading to artificially ______ ROI.",
+        "type": "fill_blank",
+        "answers": [
+            "higher"
+        ],
+        "other_options": [
+            "lower",
+            "stable",
+            "zero"
+        ]
+    },
+    {
+        "q": "Non-financial indicators are less susceptible to short-term manipulation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Activity Based Costing is always cost-beneficial.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Implementing ABC can be complex and expensive.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ABC is most useful when overheads are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "high"
+        ],
+        "other_options": [
+            "low",
+            "variable",
+            "zero"
+        ]
+    },
+    {
+        "q": "Pareto Analysis is used to prioritize problems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which chart is often used in Pareto Analysis?",
+        "type": "mcq",
+        "o": [
+            "Bar chart",
+            "Pie chart",
+            "Scatter plot",
+            "Radar chart"
+        ]
+    },
+    {
+        "q": "Cause-and-Effect diagrams are also known as ______ diagrams.",
+        "type": "fill_blank",
+        "answers": [
+            "Fishbone"
+        ],
+        "other_options": [
+            "Spider",
+            "Tree",
+            "Flow"
+        ]
+    },
+    {
+        "q": "Ishikawa diagrams identify potential causes of a problem.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The 5 Whys technique is used to find the ______ cause.",
+        "type": "fill_blank",
+        "answers": [
+            "root"
+        ],
+        "other_options": [
+            "symptom",
+            "surface",
+            "last"
+        ]
+    },
+    {
+        "q": "Value Chain Analysis can be applied to service organizations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In a value chain, Linkages exist between activities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Information systems can improve linkages between suppliers and the firm.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Benchmarking partners must be direct competitors.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Functional benchmarking compares specific functions (e.g., HR) with best-in-class.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a challenge of benchmarking?",
+        "type": "mcq",
+        "o": [
+            "Finding a willing partner",
+            "Reducing costs",
+            "improving quality",
+            "Setting standards"
+        ]
+    },
+    {
+        "q": "Corporate failure models are foolproof.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Qualitative factors are as important as quantitative in predicting failure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Liquidation is the process of selling assets to pay debts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Administration aims to rescue the company as a going concern.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match insolvency procedure:",
+        "type": "match",
+        "left": [
+            "Liquidation",
+            "Administration"
+        ],
+        "right": [
+            "Wind up company",
+            "Rescue company"
+        ]
+    },
+    {
+        "q": "Strategic Management Accounting (SMA) focuses on external and internal information.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Competitor Analysis is a key component of SMA.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which gives info on competitor costs?",
+        "type": "mcq",
+        "o": [
+            "Reverse engineering",
+            "Internal audit",
+            "Sales forecast",
+            "Budget"
+        ]
+    },
+    {
+        "q": "Monitoring brand value is part of SMA.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Brand equity refers to the value of a brand name.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Customer Lifetime Value (CLV) predicts net profit from a customer relationship.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CLV = Sum of discounted future cash flows from customer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange steps to calculate CLV:",
+        "type": "rearrange",
+        "words": [
+            "Estimate lifespan",
+            "Forecast revenues",
+            "Estimate costs",
+            "Discount cash flows"
+        ]
+    },
+    {
+        "q": "Activity Based Management involves Operational ABM and ______ ABM.",
+        "type": "fill_blank",
+        "answers": [
+            "Strategic"
+        ],
+        "other_options": [
+            "Financial",
+            "Tactical",
+            "External"
+        ]
+    },
+    {
+        "q": "Strategic ABM focuses on product mix and customer profitability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Operational ABM focuses on doing things right (efficiency).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Business Process Re-engineering starts with a blank sheet of paper.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "BPR results in incremental changes.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which represents 'incremental' change?",
+        "type": "mcq",
+        "o": [
+            "Kaizen",
+            "BPR",
+            "Restructuring",
+            "Merger"
+        ]
+    },
+    {
+        "q": "The Baldrige Award recognizes quality achievement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "EFQM Excellence Model uses Enablers and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Results"
+        ],
+        "other_options": [
+            "Causes",
+            "Effects",
+            "Processes"
+        ]
+    },
+    {
+        "q": "EFQM 'Enablers' include Leadership, People, and Strategy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Six Sigma 'Black Belts' are project leaders.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which indicates strict quality control?",
+        "type": "mcq",
+        "o": [
+            "3.4 defects per million",
+            "10% defect rate",
+            "Recall of products",
+            "Customer complaints"
+        ]
+    },
+    {
+        "q": "Lean Six Sigma combines waste reduction and defect reduction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "JIT purchasing requires frequent deliveries of small lots.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "JIT reduces storage costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a risk of JIT?",
+        "type": "mcq",
+        "o": [
+            "Supply chain disruption",
+            "High inventory cost",
+            "Obsolete stock",
+            "Large warehouse"
+        ]
+    },
+    {
+        "q": "Performance dashboards should allow distinct users to see relevant data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Gamification uses game elements in non-game contexts (e.g., work).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Gamification can increase employee engagement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Open Source software source code is available to public.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Proprietary software code is kept secret.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match software type:",
+        "type": "match",
+        "left": [
+            "Open Source",
+            "Proprietary"
+        ],
+        "right": [
+            "Free to modify",
+            "Restricted use"
+        ]
+    },
+    {
+        "q": "Cloud computing 'Elasticity' allows scaling up and down automatically.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a cloud deployment model?",
+        "type": "mcq",
+        "o": [
+            "Hybrid",
+            "Laptop",
+            "Local Server",
+            "USB"
+        ]
+    },
+    {
+        "q": "Public cloud is shared among multiple organizations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Private cloud is dedicated to a single organization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Big Data involves 'predictive modeling'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Regression analysis assumes the future will resemble the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "past"
+        ],
+        "other_options": [
+            "present",
+            "competitor",
+            "plan"
+        ]
+    },
+    {
+        "q": "Budgetary slack is underestimating revenue or overestimating costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Slack makes targets easier to achieve.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Zero Based Budgeting (ZBB) is time-consuming.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ZBB challenges every expense item.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Priority Based Budgeting ranks packages by benefit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rolling forecasts reduce the 'cliff edge' effect of annual budgets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Top-down budgeting is imposed by senior management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bottom-up budgeting involves participation of lower managers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which budgeting style increases buy-in?",
+        "type": "mcq",
+        "o": [
+            "Participative",
+            "Imposed",
+            "Rigid",
+            "Secret"
+        ]
+    },
+    {
+        "q": "Correlation does not imply ______.",
+        "type": "fill_blank",
+        "answers": [
+            "causation"
+        ],
+        "other_options": [
+            "relation",
+            "calculation",
+            "connection"
+        ]
+    },
+    {
+        "q": "Spurious correlation suggests a relationship where none exists.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Risk appetite is the amount of risk an organization is willing to accept.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Risk capacity is the amount of risk an organization can bear.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is higher: Risk Capacity or Risk Appetite (usually)?",
+        "type": "mcq",
+        "o": [
+            "Risk Capacity",
+            "Risk Appetite",
+            "They are equal",
+            "Risk Tolerance"
+        ]
+    },
+    {
+        "q": "Residual risk is risk remaining after controls.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Inherent risk is risk before any controls.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Internal Audit evaluates internal controls.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Internal Audit should be independent of operational management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Value measurement in NFP uses 3 Es.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Effectiveness is hard to measure in NFP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Proxy indicators are used when direct measurement is impossible.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Data integrity refers to the accuracy and consistency of data over its lifecycle.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Data snooping bias occurs when models are tuned to a specific dataset.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Selection bias occurs when the sample is not representative.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which sampling method gives every member an equal chance?",
+        "type": "mcq",
+        "o": [
+            "Random sampling",
+            "Quota sampling",
+            "Convenience sampling",
+            "Stratified sampling"
+        ]
+    },
+    {
+        "q": "Stratified sampling divides population into subgroups.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cluster sampling selects entire groups rather than individuals.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Systematic sampling selects every kth item.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match sampling method:",
+        "type": "match",
+        "left": [
+            "Random",
+            "Stratified",
+            "Systematic"
+        ],
+        "right": [
+            "Equal chance",
+            "Subgroups",
+            "Fixed interval"
+        ]
+    },
+    {
+        "q": "Type I error is calculating a false positive.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Type II error is a false negative.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In hypothesis testing, H0 usually represents 'no effect'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If p-value < alpha, we reject H0.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The balanced scorecard forces managers to look at the business from four perspectives.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Is 'Number of training hours' a Leading or Lagging indicator?",
+        "type": "mcq",
+        "o": [
+            "Leading",
+            "Lagging",
+            "Financial",
+            "Useless"
+        ]
+    },
+    {
+        "q": "Is 'Employee Satisfaction Score' a Leading or Lagging indicator for turnover?",
+        "type": "mcq",
+        "o": [
+            "Leading",
+            "Lagging",
+            "Neutral",
+            "Static"
+        ]
+    },
+    {
+        "q": "Is 'Profit for the year' a Leading or Lagging indicator?",
+        "type": "mcq",
+        "o": [
+            "Lagging",
+            "Leading",
+            "Predictive",
+            "Future"
+        ]
+    },
+    {
+        "q": "Benchmarking code of conduct includes confidentiality.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Reverse engineering implies tearing down a competitor's product.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Porter's 5 Forces: High barriers to entry make an industry ______ attractive.",
+        "type": "fill_blank",
+        "answers": [
+            "more"
+        ],
+        "other_options": [
+            "less",
+            "equally",
+            "never"
+        ]
+    },
+    {
+        "q": "High supplier power reduces industry profitability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Product differentiation reduces the threat of substitutes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Boston Box: Dog has low share and low growth.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Star has high share and high growth.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Question Mark has low share and high growth.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cash Cow has high share and low growth.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match Boston Box strategy:",
+        "type": "match",
+        "left": [
+            "Build",
+            "Hold",
+            "Harvest",
+            "Divest"
+        ],
+        "right": [
+            "Invest to grow",
+            "Maintain position",
+            "Milk cash",
+            "Sell/Close"
+        ]
+    },
+    {
+        "q": "Ansoff: Diversification is the riskiest strategy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Related diversification is less risky than unrelated diversification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Vertical integration involves moving up or down the supply chain.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Backward integration implies buying a supplier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Forward integration implies buying a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "distributor/customer"
+        ],
+        "other_options": [
+            "competitor",
+            "bank",
+            "government"
+        ]
+    },
+    {
+        "q": "Horizontal integration implies buying a competitor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Conglomerate diversification involves entering completely different industries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Synergy means 2 + 2 = ______.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "4",
+            "3",
+            "1"
+        ]
+    },
+    {
+        "q": "Operating synergy comes from economies of scale.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Financial synergy comes from lower cost of capital.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Transfer Pricing: General Rule = Marginal Cost + Opportunity Cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The maximum transfer price is the market price.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The minimum transfer price is the selling division's marginal cost (if spare capacity).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Behavioral aspects of performance management include stress and motivation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Role ambiguity occurs when job expectations are unclear.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Role conflict occurs when job demands are incompatible.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Job enrichment increases the depth of the job (more autonomy).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Job enlargement increases the number of tasks (same level).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match job design:",
+        "type": "match",
+        "left": [
+            "Enrichment",
+            "Enlargement",
+            "Rotation"
+        ],
+        "right": [
+            "Vertical expansion",
+            "Horizontal expansion",
+            "Moving betw tasks"
+        ]
+    },
+    {
+        "q": "McGregor's Theory X assumes employees dislike work.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "McGregor's Theory Y assumes employees are self-motivated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Theory X managers prefer strict control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Ouchi's Theory Z focuses on employee loyalty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Vroom's Expectancy Theory: Motivation = Valence x Expectancy x ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Instrumentality"
+        ],
+        "other_options": [
+            "Intelligence",
+            "Interest",
+            "Income"
+        ]
+    },
+    {
+        "q": "Instrumentality is the belief that performance leads to reward.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Valence is the value placed on the reward.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Locke's Goal Setting Theory states specific challenging goals lead to higher performance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Balanced Scorecard implementation can fail due to lack of executive support.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Having too many KPIs causes confusion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "KPIs should be aligned with CSF (Critical Success Factors).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What links CSFs to KPIs?",
+        "type": "mcq",
+        "o": [
+            "Measurement",
+            "Hope",
+            "Chance",
+            "Guess"
+        ]
+    },
+    {
+        "q": "Activity Based Management (ABM) can be used for cost reduction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a driver in ABC?",
+        "type": "mcq",
+        "o": [
+            "Number of setups",
+            "CEO salary",
+            "Market interest rate",
+            "Competitor price"
+        ]
+    },
+    {
+        "q": "Cost pools accumulate costs for specific activities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Volume-based costing under-costs low volume complex products.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ABC produces more accurate product costs than absorption costing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cost allocation is dividing cost pool by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "cost driver quantity"
+        ],
+        "other_options": [
+            "total sales",
+            "machine hours",
+            "labor hours"
+        ]
+    },
+    {
+        "q": "Life cycle costing includes disposal costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Locked-in costs are determined during the ______ stage.",
+        "type": "fill_blank",
+        "answers": [
+            "design"
+        ],
+        "other_options": [
+            "production",
+            "marketing",
+            "disposal"
+        ]
+    },
+    {
+        "q": "Most product costs are committed during the design phase.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Customer Profitability Analysis helps deciding whether to drop a customer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which customer is best?",
+        "type": "mcq",
+        "o": [
+            "High profit, low maintenance",
+            "Low profit, high maintenance",
+            "High revenue, negative margin",
+            "Low revenue, high cost"
+        ]
+    },
+    {
+        "q": "Big Data 'Variety' includes video and audio.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Collaborative filtering is used in recommendation engines (e.g., Netflix).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an application of Big Data?",
+        "type": "mcq",
+        "o": [
+            "Personalized marketing",
+            "Manual bookkeeping",
+            "Physical filing",
+            "Cash counting"
+        ]
+    },
+    {
+        "q": "A/B testing compares two versions to see which performs better.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unified databases eliminate data silos.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an intangible asset?",
+        "type": "mcq",
+        "o": [
+            "Customer list",
+            "Building",
+            "Machine",
+            "Cash"
+        ]
+    },
+    {
+        "q": "Intellectual capital includes Human, Structural, and ______ Capital.",
+        "type": "fill_blank",
+        "answers": [
+            "Relational"
+        ],
+        "other_options": [
+            "Financial",
+            "Physical",
+            "Liquid"
+        ]
+    },
+    {
+        "q": "Skandia Navigator is a model for measuring intellectual capital.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Human capital is the knowledge and skill of employees.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Structural capital remains in the firm when employees leave.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange Intellectual Capital components:",
+        "type": "rearrange",
+        "words": [
+            "Human Capital",
+            "Structural Capital",
+            "Relational Capital"
+        ]
+    },
+    {
+        "q": "Balanced Scorecard 'Financial Perspective' asks: 'How do we look to shareholders?'",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Balanced Scorecard 'Customer Perspective' asks: 'How do customers see us?'",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Strategic mapping is a visual representation of strategy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Performance Prism is more comprehensive than Balanced Scorecard.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Stakeholders include employees, customers, suppliers, and community.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Corporate failure can be caused by over-expansion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Overtrading is growing sales faster than funding allows.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which ratio warns of overtrading?",
+        "type": "mcq",
+        "o": [
+            "Rapid increase in sales/inventory",
+            "Stable current ratio",
+            "High cash balance",
+            "Decrease in debt"
+        ]
+    },
+    {
+        "q": "Z-score < 1.8 indicates high risk of failure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Z-score > 3 indicates the company is safe.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Argenti A-score Pass Mark is usually 25.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "High scores in A-score indicate failure risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Qualitative models rely on expert judgment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Business process re-engineering is often IT-enabled.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Simplification is a key goal of BPR.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Value Chain: Primary activities relate directly to physical creation/sale.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Service is a primary activity in the Value Chain.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Technology Development is a support activity in the Value Chain.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Infrastructure includes general management, planning, finance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match Value Chain Activity:",
+        "type": "match",
+        "left": [
+            "Inbound Logistics",
+            "Operations",
+            "Outbound Logistics",
+            "Marketing & Sales"
+        ],
+        "right": [
+            "Receiving goods",
+            "Manufacturing",
+            "Distributing goods",
+            "Advertising"
+        ]
+    },
+    {
+        "q": "Benchmarking shouldn't be a one-off exercise.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is a benefit of rolling budgets?",
+        "type": "mcq",
+        "o": [
+            "More realistic targets",
+            "Costs less to prepare",
+            "Required by law",
+            "Guarantees bonus"
+        ]
+    },
+    {
+        "q": "Kaizen costing is used in the ______ phase.",
+        "type": "fill_blank",
+        "answers": [
+            "manufacturing"
+        ],
+        "other_options": [
+            "design",
+            "research",
+            "disposal"
+        ]
+    },
+    {
+        "q": "Standard costing allows for management by exception.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In JIT, who inspects the quality?",
+        "type": "mcq",
+        "o": [
+            "The worker",
+            "A separate inspector",
+            "The customer",
+            "Government"
+        ]
+    },
+    {
+        "q": "Cultural issues can block change management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Mission statements should be quantifiable.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Objectives should be quantifiable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Strategic planning is unstructured compared to operational planning.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tactical planning is concerned with resource allocation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange management levels:",
+        "type": "rearrange",
+        "words": [
+            "Strategic",
+            "Tactical",
+            "Operational"
+        ]
+    },
+    {
+        "q": "Porter's 5 Forces evaluates industry ______.",
+        "type": "fill_blank",
+        "answers": [
+            "attractiveness"
+        ],
+        "other_options": [
+            "size",
+            "location",
+            "history"
+        ]
+    },
+    {
+        "q": "PESTEL is for ______ analysis.",
+        "type": "fill_blank",
+        "answers": [
+            "macro-environmental"
+        ],
+        "other_options": [
+            "internal",
+            "micro-environmental",
+            "financial"
+        ]
+    },
+    {
+        "q": "SWOT combines internal and external analysis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In SWOT, Strengths and Weaknesses are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Internal"
+        ],
+        "other_options": [
+            "External",
+            "Global",
+            "Future"
+        ]
+    },
+    {
+        "q": "In SWOT, Opportunities and Threats are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "External"
+        ],
+        "other_options": [
+            "Internal",
+            "Local",
+            "Past"
+        ]
+    },
+    {
+        "q": "Big Data 'Volatility' is sometimes added as a V.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cloud computing moves CapEx to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "OpEx"
+        ],
+        "other_options": [
+            "Revenue",
+            "Liability",
+            "Equity"
+        ]
+    },
+    {
+        "q": "OpEx stands for Operating Expenditure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CapEx stands for Capital Expenditure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match cost type:",
+        "type": "match",
+        "left": [
+            "CapEx",
+            "OpEx"
+        ],
+        "right": [
+            "Long-term assets",
+            "Day-to-day running"
+        ]
+    },
+    {
+        "q": "Balanced Scorecard causes managers to focus on long-term strategy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Economic Value Added (EVA) aligns with shareholder interests.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is an adjustment in EVA?",
+        "type": "mcq",
+        "o": [
+            "Add back Marketing costs (long term)",
+            "Deduct Marketing costs",
+            "Ignore Marketing",
+            "Double count Marketing"
+        ]
+    },
+    {
+        "q": "Non-financial performance measures are harder to verify.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fitzgerald and Moon's model is suitable for service industries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Performance Prism takes a broader stakeholder view.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Target costing is a feedforward cost control technique.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Life Cycle Costing gives a better view of long-term profitability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Input/Output Analysis in EMA measures physical flows.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Throughput Accounting assumes only variable costs are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "materials"
+        ],
+        "other_options": [
+            "labor",
+            "rent",
+            "power"
+        ]
+    },
+    {
+        "q": "A TPAR > 1 means the product returns more than it costs per bottleneck hour.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Risk mapping plots Likelihood vs ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Impact"
+        ],
+        "other_options": [
+            "Cost",
+            "Time",
+            "History"
+        ]
+    },
+    {
+        "q": "Match risk strategy:",
+        "type": "match",
+        "left": [
+            "Low Likelihood/High Impact",
+            "High Likelihood/Low Impact",
+            "High Likelihood/High Impact"
+        ],
+        "right": [
+            "Transfer (Insure)",
+            "Reduce (Control)",
+            "Avoid"
+        ]
+    },
+    {
+        "q": "Value at Risk (VaR) estimates potential loss over a time period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Expected Value = Sigma (Probability x Outcome).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Regression line equation: y = a + bx.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In y = a + bx, 'b' represents the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "slope"
+        ],
+        "other_options": [
+            "intercept",
+            "error",
+            "total"
+        ]
+    },
+    {
+        "q": "In y = a + bx, 'a' represents the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "intercept"
+        ],
+        "other_options": [
+            "slope",
+            "variable",
+            "average"
+        ]
+    },
+    {
+        "q": "Seasonal variations repeat at regular intervals.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cyclical variations are longer term waves (e.g. economic cycle).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Random variations are unpredictable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Additive model: Y = T + S + C + R.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Multiplicative model: Y = T x S x C x R.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Corporate Governance codes are often 'Comply or Explain'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-executive directors (NEDs) provide independent oversight.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Remuneration committees should be comprised of NEDs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Integrated Reporting <IR> is a principles-based approach.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Lean systems focus on flow.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Kaizen encourages 'bottom-up' improvement ideas.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Six Sigma uses statistical tools.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Business Process Re-engineering is fundamental rethinking.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Information systems can be a source of competitive advantage.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Big Data can lead to better customer segmentation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Privacy concerns are a barrier to Big Data adoption.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cybersecurity should be a board-level issue.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Phishing emails often look like legitimate communications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Ransomware locks data until a fee is paid.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Blockchain removes the need for a central intermediary.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Smart contracts are self-executing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fintech challenges traditional banking models.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cryptocurrencies are often volatile.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Artificial Intelligence involves machines learning from data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Machine Learning is a subset of AI.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Robotic Process Automation is best for high-volume, rule-based tasks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Strategic planning is a one-time event.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Strategy implementation is often harder than formulation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Performance measurement should encourage goal congruence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The ACG model stands for Attention, Concern, ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Action"
+        ],
+        "other_options": [
+            "Goal",
+            "Growth",
+            "Audit"
         ]
     }
 ]

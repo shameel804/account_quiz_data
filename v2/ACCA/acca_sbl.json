@@ -1,92 +1,2863 @@
 [
     {
-        "q": "What is the primary role of a Strategic Business Leader?",
+        "q": "What does SBL stand for in ACCA?",
+        "type": "mcq",
         "o": [
-            "To align strategy, governance, and ethics to create value",
-            "To strictly follow a predefined checklist",
-            "To micromanage employees",
-            "To focus only on short-term profits"
+            "Strategic Business Leader",
+            "Strategic Business Law",
+            "Senior Business Leader",
+            "Standard Business Leadership"
         ]
     },
     {
-        "q": "Which framework is used to analyze the external environment?",
-        "o": [
-            "PESTEL Analysis",
-            "SWOT Analysis",
-            "Value Chain Analysis",
-            "Stakeholder Mapping"
+        "q": "Leadership involves influencing others to achieve organizational goals.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Corporate governance refers to the system by which companies are ______ and controlled.",
+        "type": "fill_blank",
+        "answers": [
+            "directed"
+        ],
+        "other_options": [
+            "managed",
+            "funded",
+            "created"
         ]
     },
     {
-        "q": "What does 'risk appetite' refer to?",
+        "q": "Which of the following is a key role of the board of directors?",
+        "type": "mcq",
         "o": [
-            "The amount of risk an organization is willing to accept",
-            "The fear of taking risks",
-            "The elimination of all risks",
-            "The insurance premium cost"
+            "Setting strategic direction",
+            "Day-to-day operations",
+            "Processing payroll",
+            "Managing inventory"
         ]
     },
     {
-        "q": "In Mendelewh's Matrix, how should you manage a stakeholder with high power and high interest?",
+        "q": "What is the primary purpose of a mission statement?",
+        "type": "mcq",
         "o": [
-            "Manage Closely",
-            "Keep Informed",
-            "Keep Satisfied",
-            "Monitor (Minimal Effort)"
+            "To define the organization's purpose",
+            "To list financial targets",
+            "To describe operational procedures",
+            "To outline employee benefits"
         ]
     },
     {
-        "q": "What is a key benefit of good corporate governance?",
+        "q": "A vision statement describes where the organization wants to be in the future.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the governance term with its definition:",
+        "type": "match",
+        "left": [
+            "Board of Directors",
+            "CEO",
+            "Shareholders",
+            "Auditors"
+        ],
+        "right": [
+            "Governing body of the company",
+            "Chief executive officer",
+            "Owners of the company",
+            "Independent examiners of accounts"
+        ]
+    },
+    {
+        "q": "Which stakeholder group has the primary ownership interest in a company?",
+        "type": "mcq",
+        "o": [
+            "Shareholders",
+            "Employees",
+            "Customers",
+            "Suppliers"
+        ]
+    },
+    {
+        "q": "Strategy is a long-term plan to achieve organizational ______.",
+        "type": "fill_blank",
+        "answers": [
+            "objectives"
+        ],
+        "other_options": [
+            "profits",
+            "sales",
+            "tasks"
+        ]
+    },
+    {
+        "q": "What does SWOT analysis stand for?",
+        "type": "mcq",
+        "o": [
+            "Strengths, Weaknesses, Opportunities, Threats",
+            "Strategy, Weakness, Operations, Tactics",
+            "Systems, Workforce, Objectives, Targets",
+            "Standards, Work, Output, Time"
+        ]
+    },
+    {
+        "q": "Rearrange the strategic planning process:",
+        "type": "rearrange",
+        "words": [
+            "Analysis",
+            "Formulation",
+            "Implementation",
+            "Evaluation"
+        ]
+    },
+    {
+        "q": "Risk management involves identifying, assessing, and controlling threats.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is an internal stakeholder?",
+        "type": "mcq",
+        "o": [
+            "Employees",
+            "Customers",
+            "Government",
+            "Suppliers"
+        ]
+    },
+    {
+        "q": "What is the role of non-executive directors?",
+        "type": "mcq",
+        "o": [
+            "To provide independent oversight",
+            "To manage daily operations",
+            "To handle customer complaints",
+            "To process transactions"
+        ]
+    },
+    {
+        "q": "Corporate social responsibility (CSR) is only about making profits.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Ethics in business refers to applying moral principles to business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decisions"
+        ],
+        "other_options": [
+            "products",
+            "buildings",
+            "equipment"
+        ]
+    },
+    {
+        "q": "Which framework is commonly used for internal control?",
+        "type": "mcq",
+        "o": [
+            "COSO",
+            "SWOT",
+            "PESTEL",
+            "BCG Matrix"
+        ]
+    },
+    {
+        "q": "Match the leadership style with its description:",
+        "type": "match",
+        "left": [
+            "Autocratic",
+            "Democratic",
+            "Laissez-faire",
+            "Transformational"
+        ],
+        "right": [
+            "Leader makes all decisions",
+            "Team participates in decisions",
+            "Minimal leader involvement",
+            "Inspires and motivates change"
+        ]
+    },
+    {
+        "q": "What is the primary goal of change management?",
+        "type": "mcq",
+        "o": [
+            "To transition smoothly to new processes",
+            "To maintain the status quo",
+            "To reduce employee numbers",
+            "To increase meeting frequency"
+        ]
+    },
+    {
+        "q": "Innovation involves introducing new ideas, products, or ______.",
+        "type": "fill_blank",
+        "answers": [
+            "processes"
+        ],
+        "other_options": [
+            "buildings",
+            "offices",
+            "furniture"
+        ]
+    },
+    {
+        "q": "An organization's culture refers to shared values and beliefs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a component of PESTEL analysis?",
+        "type": "mcq",
+        "o": [
+            "Political factors",
+            "Product factors",
+            "Personnel factors",
+            "Pricing factors"
+        ]
+    },
+    {
+        "q": "Rearrange the levels of strategy from highest to lowest:",
+        "type": "rearrange",
+        "words": [
+            "Corporate",
+            "Business",
+            "Functional"
+        ]
+    },
+    {
+        "q": "What does the 'E' in PESTEL represent?",
+        "type": "mcq",
+        "o": [
+            "Economic and Environmental",
+            "Ethical and Effective",
+            "Executive and Enterprise",
+            "Evaluation and Execution"
+        ]
+    },
+    {
+        "q": "Stakeholder mapping helps identify stakeholder power and interest.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The board of directors is accountable to the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "shareholders"
+        ],
+        "other_options": [
+            "employees",
+            "customers",
+            "media"
+        ]
+    },
+    {
+        "q": "Which type of risk relates to financial losses?",
+        "type": "mcq",
+        "o": [
+            "Financial risk",
+            "Operational risk",
+            "Strategic risk",
+            "Compliance risk"
+        ]
+    },
+    {
+        "q": "What is a key characteristic of good corporate governance?",
+        "type": "mcq",
+        "o": [
+            "Transparency",
+            "Secrecy",
+            "Complexity",
+            "Rigidity"
+        ]
+    },
+    {
+        "q": "Match the strategy tool with its purpose:",
+        "type": "match",
+        "left": [
+            "SWOT",
+            "PESTEL",
+            "Porter's Five Forces",
+            "Value Chain"
+        ],
+        "right": [
+            "Internal and external analysis",
+            "Macro-environment analysis",
+            "Industry competition analysis",
+            "Activities that add value"
+        ]
+    },
+    {
+        "q": "Internal audit provides independent assurance on controls.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is NOT a Porter's Five Force?",
+        "type": "mcq",
+        "o": [
+            "Government regulation",
+            "Threat of new entrants",
+            "Bargaining power of suppliers",
+            "Threat of substitutes"
+        ]
+    },
+    {
+        "q": "A competitive advantage helps an organization outperform ______.",
+        "type": "fill_blank",
+        "answers": [
+            "competitors"
+        ],
+        "other_options": [
+            "employees",
+            "auditors",
+            "regulators"
+        ]
+    },
+    {
+        "q": "What is the purpose of a code of ethics?",
+        "type": "mcq",
+        "o": [
+            "To guide employee behavior",
+            "To set sales targets",
+            "To define job titles",
+            "To calculate bonuses"
+        ]
+    },
+    {
+        "q": "Rearrange Kotter's first four change steps:",
+        "type": "rearrange",
+        "words": [
+            "Create urgency",
+            "Form coalition",
+            "Create vision",
+            "Communicate vision"
+        ]
+    },
+    {
+        "q": "Technology risk includes cybersecurity threats.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which model describes stages of team development?",
+        "type": "mcq",
+        "o": [
+            "Tuckman's model",
+            "Porter's model",
+            "Ansoff's model",
+            "BCG matrix"
+        ]
+    },
+    {
+        "q": "Strategic drift occurs when strategy becomes less relevant to the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "environment"
+        ],
+        "other_options": [
+            "employees",
+            "offices",
+            "equipment"
+        ]
+    },
+    {
+        "q": "What is the agency problem in corporate governance?",
+        "type": "mcq",
+        "o": [
+            "Conflict between owners and managers",
+            "Conflict between employees",
+            "Conflict between suppliers",
+            "Conflict between customers"
+        ]
+    },
+    {
+        "q": "Match Tuckman's team stages:",
+        "type": "match",
+        "left": [
+            "Forming",
+            "Storming",
+            "Norming",
+            "Performing"
+        ],
+        "right": [
+            "Team comes together",
+            "Conflicts emerge",
+            "Rules established",
+            "Team works effectively"
+        ]
+    },
+    {
+        "q": "Emotional intelligence is important for effective leadership.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a financial stakeholder?",
+        "type": "mcq",
+        "o": [
+            "Banks and lenders",
+            "Local community",
+            "Environmental groups",
+            "Media"
+        ]
+    },
+    {
+        "q": "The balanced scorecard includes financial and ______ perspectives.",
+        "type": "fill_blank",
+        "answers": [
+            "non-financial"
+        ],
+        "other_options": [
+            "legal",
+            "historical",
+            "temporary"
+        ]
+    },
+    {
+        "q": "What does KPI stand for?",
+        "type": "mcq",
+        "o": [
+            "Key Performance Indicator",
+            "Key Process Integration",
+            "Knowledge Performance Index",
+            "Key Personnel Initiative"
+        ]
+    },
+    {
+        "q": "Rearrange the risk management process:",
+        "type": "rearrange",
+        "words": [
+            "Identify",
+            "Assess",
+            "Respond",
+            "Monitor"
+        ]
+    },
+    {
+        "q": "A RACI matrix clarifies roles and responsibilities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which governance code is used in the UK?",
+        "type": "mcq",
+        "o": [
+            "UK Corporate Governance Code",
+            "Sarbanes-Oxley Act",
+            "COSO Framework",
+            "ISO 31000"
+        ]
+    },
+    {
+        "q": "The chairman leads the board of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "directors"
+        ],
+        "other_options": [
+            "employees",
+            "customers",
+            "suppliers"
+        ]
+    },
+    {
+        "q": "What is the main purpose of whistleblowing policies?",
+        "type": "mcq",
+        "o": [
+            "To report wrongdoing safely",
+            "To reward high performers",
+            "To set salary levels",
+            "To plan meetings"
+        ]
+    },
+    {
+        "q": "Match the control type with its example:",
+        "type": "match",
+        "left": [
+            "Preventive",
+            "Detective",
+            "Corrective",
+            "Directive"
+        ],
+        "right": [
+            "Password protection",
+            "Bank reconciliation",
+            "Backup restoration",
+            "Policy manual"
+        ]
+    },
+    {
+        "q": "Digital transformation involves using technology to change business models.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a strategic risk?",
+        "type": "mcq",
+        "o": [
+            "New competitor entering the market",
+            "Employee sick leave",
+            "Office equipment failure",
+            "Delayed invoice payment"
+        ]
+    },
+    {
+        "q": "Organizational structure defines how activities are coordinated and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "controlled"
+        ],
+        "other_options": [
+            "hidden",
+            "ignored",
+            "postponed"
+        ]
+    },
+    {
+        "q": "What is the purpose of scenario planning?",
+        "type": "mcq",
+        "o": [
+            "To prepare for different futures",
+            "To document past events",
+            "To calculate current profits",
+            "To record employee attendance"
+        ]
+    },
+    {
+        "q": "Rearrange the value chain primary activities:",
+        "type": "rearrange",
+        "words": [
+            "Inbound logistics",
+            "Operations",
+            "Outbound logistics",
+            "Marketing",
+            "Service"
+        ]
+    },
+    {
+        "q": "Succession planning ensures leadership continuity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following describes a flat organizational structure?",
+        "type": "mcq",
+        "o": [
+            "Few management levels",
+            "Many management levels",
+            "Centralized decision making",
+            "Limited employee autonomy"
+        ]
+    },
+    {
+        "q": "An audit committee oversees financial reporting and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "controls"
+        ],
+        "other_options": [
+            "marketing",
+            "sales",
+            "recruitment"
+        ]
+    },
+    {
+        "q": "What is the purpose of a risk register?",
+        "type": "mcq",
+        "o": [
+            "To document and track risks",
+            "To record employee names",
+            "To list customer orders",
+            "To track inventory levels"
+        ]
+    },
+    {
+        "q": "Match the innovation type with its description:",
+        "type": "match",
+        "left": [
+            "Product",
+            "Process",
+            "Business model",
+            "Disruptive"
+        ],
+        "right": [
+            "New goods or services",
+            "New way of working",
+            "New revenue approach",
+            "Changes the market"
+        ]
+    },
+    {
+        "q": "Stakeholder engagement improves organizational decision-making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a benefit of good governance?",
+        "type": "mcq",
         "o": [
             "Increased investor confidence",
-            "Guaranteed high profits",
-            "Elimination of all competition",
-            "Reduced need for employees"
+            "Higher employee turnover",
+            "Reduced transparency",
+            "More complex processes"
         ]
     },
     {
-        "q": "Which of the following is a driver for change in an organization?",
-        "o": [
-            "New technology",
-            "Using the same old stationary",
-            "Keeping the office painted white",
-            "Maintaining current suppliers"
+        "q": "Business continuity planning prepares for ______ disruptions.",
+        "type": "fill_blank",
+        "answers": [
+            "operational"
+        ],
+        "other_options": [
+            "minor",
+            "theoretical",
+            "historical"
         ]
     },
     {
-        "q": "What is 'big data'?",
+        "q": "What does ESG stand for in corporate reporting?",
+        "type": "mcq",
         "o": [
-            "Large volumes of data that can be analyzed for insights",
-            "A printed encyclopedia",
-            "Data stored on a single floppy disk",
-            "Just the financial statements"
+            "Environmental, Social, Governance",
+            "Economic, Strategic, Global",
+            "Executive, Structural, General",
+            "Ethical, Sustainable, Green"
         ]
     },
     {
-        "q": "What is the purpose of an internal control system?",
-        "o": [
-            "To ensure efficient operations and compliance",
-            "To slow down processes",
-            "To trap employees",
-            "To increase paperwork unnecessarily"
+        "q": "Rearrange the decision-making process:",
+        "type": "rearrange",
+        "words": [
+            "Identify problem",
+            "Gather information",
+            "Evaluate options",
+            "Implement",
+            "Review"
         ]
     },
     {
-        "q": "What does 'CSR' stand for?",
+        "q": "Bribery and corruption are acceptable in some business situations.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which committee typically reviews executive remuneration?",
+        "type": "mcq",
         "o": [
-            "Corporate Social Responsibility",
-            "Customer Service Representative",
-            "Cash Sales Receipt",
-            "Company Strategy Report"
+            "Remuneration committee",
+            "Audit committee",
+            "Risk committee",
+            "Nomination committee"
         ]
     },
     {
-        "q": "What is a characteristic of a 'disruptive technology'?",
-        "o": [
-            "It significantly alters the way businesses or industries operate",
-            "It is slightly better than the previous version",
-            "It is always expensive",
-            "It is always rejected by the market"
+        "q": "A stakeholder with high power and high interest should be managed ______.",
+        "type": "fill_blank",
+        "answers": [
+            "closely"
+        ],
+        "other_options": [
+            "loosely",
+            "rarely",
+            "never"
         ]
+    },
+    {
+        "q": "What is the role of the nomination committee?",
+        "type": "mcq",
+        "o": [
+            "To recommend board appointments",
+            "To approve financial statements",
+            "To set employee salaries",
+            "To manage customer relations"
+        ]
+    },
+    {
+        "q": "Match the strategic option with Ansoff's matrix:",
+        "type": "match",
+        "left": [
+            "Market penetration",
+            "Market development",
+            "Product development",
+            "Diversification"
+        ],
+        "right": [
+            "Existing products, existing markets",
+            "Existing products, new markets",
+            "New products, existing markets",
+            "New products, new markets"
+        ]
+    },
+    {
+        "q": "Information systems support strategic decision-making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is an operational risk?",
+        "type": "mcq",
+        "o": [
+            "System failure",
+            "New competitor entry",
+            "Interest rate change",
+            "Currency fluctuation"
+        ]
+    },
+    {
+        "q": "Data analytics helps organizations make evidence-based ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decisions"
+        ],
+        "other_options": [
+            "buildings",
+            "furniture",
+            "equipment"
+        ]
+    },
+    {
+        "q": "What is the purpose of a board evaluation?",
+        "type": "mcq",
+        "o": [
+            "To assess board effectiveness",
+            "To calculate employee bonuses",
+            "To review product quality",
+            "To audit financial statements"
+        ]
+    },
+    {
+        "q": "Rearrange Lewin's change model phases:",
+        "type": "rearrange",
+        "words": [
+            "Unfreeze",
+            "Change",
+            "Refreeze"
+        ]
+    },
+    {
+        "q": "Integrated reporting combines financial and non-financial information.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following describes vertical integration?",
+        "type": "mcq",
+        "o": [
+            "Expanding along the supply chain",
+            "Entering unrelated businesses",
+            "Selling to new geographic markets",
+            "Developing new products"
+        ]
+    },
+    {
+        "q": "Cyber risk includes threats from hackers and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "malware"
+        ],
+        "other_options": [
+            "customers",
+            "employees",
+            "shareholders"
+        ]
+    },
+    {
+        "q": "What is the purpose of strategic analysis?",
+        "type": "mcq",
+        "o": [
+            "To understand the business environment",
+            "To process daily transactions",
+            "To manage employee schedules",
+            "To track inventory levels"
+        ]
+    },
+    {
+        "q": "Match the perspective with the balanced scorecard:",
+        "type": "match",
+        "left": [
+            "Financial",
+            "Customer",
+            "Internal process",
+            "Learning and growth"
+        ],
+        "right": [
+            "Revenue and profit",
+            "Satisfaction and retention",
+            "Efficiency and quality",
+            "Skills and innovation"
+        ]
+    },
+    {
+        "q": "A learning organization continuously adapts and improves.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a compliance risk?",
+        "type": "mcq",
+        "o": [
+            "Failure to follow regulations",
+            "New product launch failure",
+            "Customer complaint increase",
+            "Supplier delay"
+        ]
+    },
+    {
+        "q": "Big data refers to large volumes of structured and ______ data.",
+        "type": "fill_blank",
+        "answers": [
+            "unstructured"
+        ],
+        "other_options": [
+            "small",
+            "old",
+            "deleted"
+        ]
+    },
+    {
+        "q": "What is the main focus of operational strategy?",
+        "type": "mcq",
+        "o": [
+            "Day-to-day activities",
+            "Long-term vision",
+            "Board composition",
+            "Shareholder returns"
+        ]
+    },
+    {
+        "q": "Rearrange the project management phases:",
+        "type": "rearrange",
+        "words": [
+            "Initiation",
+            "Planning",
+            "Execution",
+            "Monitoring",
+            "Closure"
+        ]
+    },
+    {
+        "q": "Triple bottom line includes profit, people, and planet.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a reputational risk?",
+        "type": "mcq",
+        "o": [
+            "Negative media coverage",
+            "Equipment breakdown",
+            "Budget overrun",
+            "Staff shortage"
+        ]
+    },
+    {
+        "q": "A merger combines two companies into ______ entity.",
+        "type": "fill_blank",
+        "answers": [
+            "one"
+        ],
+        "other_options": [
+            "three",
+            "four",
+            "five"
+        ]
+    },
+    {
+        "q": "What is business ecosystem?",
+        "type": "mcq",
+        "o": [
+            "Network of interconnected organizations",
+            "Single department structure",
+            "Individual employee group",
+            "Isolated business unit"
+        ]
+    },
+    {
+        "q": "Match the external analysis with its focus:",
+        "type": "match",
+        "left": [
+            "PESTEL",
+            "Porter's Five Forces",
+            "Competitor analysis",
+            "Market analysis"
+        ],
+        "right": [
+            "Macro environment",
+            "Industry attractiveness",
+            "Rival strategies",
+            "Customer needs"
+        ]
+    },
+    {
+        "q": "Artificial intelligence can automate routine business tasks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following describes horizontal integration?",
+        "type": "mcq",
+        "o": [
+            "Acquiring competitors",
+            "Buying suppliers",
+            "Selling unrelated businesses",
+            "Entering new countries"
+        ]
+    },
+    {
+        "q": "Cloud computing provides on-demand access to computing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "resources"
+        ],
+        "other_options": [
+            "buildings",
+            "employees",
+            "vehicles"
+        ]
+    },
+    {
+        "q": "What is the purpose of due diligence?",
+        "type": "mcq",
+        "o": [
+            "To investigate before a transaction",
+            "To approve routine expenses",
+            "To schedule meetings",
+            "To update employee records"
+        ]
+    },
+    {
+        "q": "Rearrange the strategic management hierarchy:",
+        "type": "rearrange",
+        "words": [
+            "Mission",
+            "Vision",
+            "Goals",
+            "Objectives",
+            "Strategy"
+        ]
+    },
+    {
+        "q": "Corporate culture affects employee behavior and performance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a primary activity in Porter's value chain?",
+        "type": "mcq",
+        "o": [
+            "Operations",
+            "Human resource management",
+            "Procurement",
+            "Technology development"
+        ]
+    },
+    {
+        "q": "Blockchain technology provides a distributed ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ledger"
+        ],
+        "other_options": [
+            "office",
+            "building",
+            "vehicle"
+        ]
+    },
+    {
+        "q": "What is strategic capability?",
+        "type": "mcq",
+        "o": [
+            "Resources and competences for competitive advantage",
+            "Financial statements preparation",
+            "Employee attendance tracking",
+            "Office layout design"
+        ]
+    },
+    {
+        "q": "Threshold resources are required for an organization to ______ in the market.",
+        "type": "fill_blank",
+        "answers": [
+            "compete"
+        ],
+        "other_options": [
+            "exit",
+            "fail",
+            "ignore"
+        ]
+    },
+    {
+        "q": "Core competences are unique capabilities that competitors cannot easily replicate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a support activity in Porter's value chain?",
+        "type": "mcq",
+        "o": [
+            "Human resource management",
+            "Inbound logistics",
+            "Operations",
+            "Marketing and sales"
+        ]
+    },
+    {
+        "q": "Match the organizational structure with its characteristic:",
+        "type": "match",
+        "left": [
+            "Functional",
+            "Divisional",
+            "Matrix",
+            "Network"
+        ],
+        "right": [
+            "Grouped by expertise",
+            "Grouped by product or region",
+            "Dual reporting lines",
+            "Outsourced relationships"
+        ]
+    },
+    {
+        "q": "What is the purpose of a TOWS matrix?",
+        "type": "mcq",
+        "o": [
+            "To generate strategic options from SWOT",
+            "To calculate financial ratios",
+            "To measure employee performance",
+            "To track customer complaints"
+        ]
+    },
+    {
+        "q": "Strategic options should be evaluated for suitability, acceptability, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "feasibility"
+        ],
+        "other_options": [
+            "popularity",
+            "simplicity",
+            "tradition"
+        ]
+    },
+    {
+        "q": "Rearrange the McKinsey 7S framework elements (hard elements first):",
+        "type": "rearrange",
+        "words": [
+            "Strategy",
+            "Structure",
+            "Systems",
+            "Skills",
+            "Staff",
+            "Style",
+            "Shared values"
+        ]
+    },
+    {
+        "q": "The BCG matrix classifies products based on market share and market growth.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which BCG matrix quadrant represents high growth and high market share?",
+        "type": "mcq",
+        "o": [
+            "Star",
+            "Cash cow",
+            "Question mark",
+            "Dog"
+        ]
+    },
+    {
+        "q": "A cash cow in the BCG matrix generates more cash than it ______.",
+        "type": "fill_blank",
+        "answers": [
+            "consumes"
+        ],
+        "other_options": [
+            "loses",
+            "creates",
+            "destroys"
+        ]
+    },
+    {
+        "q": "What does the GE-McKinsey matrix assess?",
+        "type": "mcq",
+        "o": [
+            "Industry attractiveness and business strength",
+            "Employee satisfaction and retention",
+            "Customer loyalty and spending",
+            "Supplier reliability and cost"
+        ]
+    },
+    {
+        "q": "Strategic alliances involve collaboration between ______ organizations.",
+        "type": "fill_blank",
+        "answers": [
+            "independent"
+        ],
+        "other_options": [
+            "merged",
+            "acquired",
+            "dissolved"
+        ]
+    },
+    {
+        "q": "Match the strategic direction with its description:",
+        "type": "match",
+        "left": [
+            "Consolidation",
+            "Market development",
+            "Diversification",
+            "Withdrawal"
+        ],
+        "right": [
+            "Protect current position",
+            "Enter new markets",
+            "Enter new industries",
+            "Exit the market"
+        ]
+    },
+    {
+        "q": "Organic growth involves expanding through internal resources.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is an example of inorganic growth?",
+        "type": "mcq",
+        "o": [
+            "Acquiring another company",
+            "Hiring more employees",
+            "Opening a new branch",
+            "Increasing advertising"
+        ]
+    },
+    {
+        "q": "Joint ventures involve shared ownership and ______ between parties.",
+        "type": "fill_blank",
+        "answers": [
+            "control"
+        ],
+        "other_options": [
+            "conflict",
+            "separation",
+            "isolation"
+        ]
+    },
+    {
+        "q": "What is the main advantage of franchising?",
+        "type": "mcq",
+        "o": [
+            "Rapid expansion with lower capital",
+            "Complete operational control",
+            "No sharing of profits",
+            "Zero brand consistency"
+        ]
+    },
+    {
+        "q": "Licensing allows another party to use intellectual ______.",
+        "type": "fill_blank",
+        "answers": [
+            "property"
+        ],
+        "other_options": [
+            "employees",
+            "offices",
+            "vehicles"
+        ]
+    },
+    {
+        "q": "Rearrange the strategic planning hierarchy:",
+        "type": "rearrange",
+        "words": [
+            "Vision",
+            "Mission",
+            "Objectives",
+            "Strategies",
+            "Tactics"
+        ]
+    },
+    {
+        "q": "The resource-based view focuses on internal capabilities for advantage.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which framework evaluates resources using VRIO criteria?",
+        "type": "mcq",
+        "o": [
+            "Resource-based view",
+            "Porter's Five Forces",
+            "PESTEL analysis",
+            "BCG matrix"
+        ]
+    },
+    {
+        "q": "VRIO stands for Valuable, Rare, Inimitable, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Organized"
+        ],
+        "other_options": [
+            "Optional",
+            "Obsolete",
+            "Ordinary"
+        ]
+    },
+    {
+        "q": "Match the competitive strategy with its focus:",
+        "type": "match",
+        "left": [
+            "Cost leadership",
+            "Differentiation",
+            "Focus cost",
+            "Focus differentiation"
+        ],
+        "right": [
+            "Lowest industry price",
+            "Unique product features",
+            "Low cost in niche",
+            "Unique features in niche"
+        ]
+    },
+    {
+        "q": "What is strategic lock-in?",
+        "type": "mcq",
+        "o": [
+            "Making it costly for customers to switch",
+            "Preventing employee turnover",
+            "Blocking supplier relationships",
+            "Stopping new projects"
+        ]
+    },
+    {
+        "q": "First-mover advantage benefits organizations that enter markets ______.",
+        "type": "fill_blank",
+        "answers": [
+            "early"
+        ],
+        "other_options": [
+            "late",
+            "never",
+            "slowly"
+        ]
+    },
+    {
+        "q": "Hypercompetition describes rapidly changing competitive environments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following describes a blue ocean strategy?",
+        "type": "mcq",
+        "o": [
+            "Creating uncontested market space",
+            "Competing in existing markets",
+            "Following competitor strategies",
+            "Reducing all product features"
+        ]
+    },
+    {
+        "q": "Red ocean strategy focuses on competing in ______ markets.",
+        "type": "fill_blank",
+        "answers": [
+            "existing"
+        ],
+        "other_options": [
+            "new",
+            "empty",
+            "fictional"
+        ]
+    },
+    {
+        "q": "What is disintermediation?",
+        "type": "mcq",
+        "o": [
+            "Removing intermediaries from the supply chain",
+            "Adding more distribution channels",
+            "Increasing middleman margins",
+            "Creating new wholesalers"
+        ]
+    },
+    {
+        "q": "Rearrange the change management phases:",
+        "type": "rearrange",
+        "words": [
+            "Prepare",
+            "Manage",
+            "Reinforce"
+        ]
+    },
+    {
+        "q": "Match the leadership theory with its focus:",
+        "type": "match",
+        "left": [
+            "Trait theory",
+            "Behavioral theory",
+            "Contingency theory",
+            "Transformational"
+        ],
+        "right": [
+            "Innate leader qualities",
+            "Leader actions",
+            "Situation-dependent",
+            "Inspiring followers"
+        ]
+    },
+    {
+        "q": "Path-goal theory suggests leaders should clarify paths to goals.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which leadership style involves minimal direction and support?",
+        "type": "mcq",
+        "o": [
+            "Delegating",
+            "Directing",
+            "Coaching",
+            "Supporting"
+        ]
+    },
+    {
+        "q": "Hersey and Blanchard's model focuses on follower ______.",
+        "type": "fill_blank",
+        "answers": [
+            "readiness"
+        ],
+        "other_options": [
+            "age",
+            "salary",
+            "location"
+        ]
+    },
+    {
+        "q": "What is servant leadership?",
+        "type": "mcq",
+        "o": [
+            "Prioritizing needs of team members",
+            "Demanding strict compliance",
+            "Focusing solely on profits",
+            "Avoiding all decisions"
+        ]
+    },
+    {
+        "q": "Authentic leaders are self-aware and genuine in their ______.",
+        "type": "fill_blank",
+        "answers": [
+            "actions"
+        ],
+        "other_options": [
+            "absences",
+            "delays",
+            "complaints"
+        ]
+    },
+    {
+        "q": "Match the power type with its source:",
+        "type": "match",
+        "left": [
+            "Legitimate",
+            "Reward",
+            "Coercive",
+            "Expert",
+            "Referent"
+        ],
+        "right": [
+            "Position authority",
+            "Ability to give rewards",
+            "Ability to punish",
+            "Knowledge and skills",
+            "Personal charisma"
+        ]
+    },
+    {
+        "q": "Emotional intelligence includes self-awareness and empathy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does Goleman's EQ model include?",
+        "type": "mcq",
+        "o": [
+            "Self-awareness, self-regulation, motivation, empathy, social skills",
+            "Planning, organizing, leading, controlling",
+            "Strategy, structure, systems, staff",
+            "Forming, storming, norming, performing"
+        ]
+    },
+    {
+        "q": "Motivation theories explain why people behave in certain ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ways"
+        ],
+        "other_options": [
+            "buildings",
+            "offices",
+            "vehicles"
+        ]
+    },
+    {
+        "q": "Which theory proposes a hierarchy of needs?",
+        "type": "mcq",
+        "o": [
+            "Maslow's hierarchy",
+            "Porter's forces",
+            "Ansoff's matrix",
+            "BCG matrix"
+        ]
+    },
+    {
+        "q": "Rearrange Maslow's hierarchy from bottom to top:",
+        "type": "rearrange",
+        "words": [
+            "Physiological",
+            "Safety",
+            "Social",
+            "Esteem",
+            "Self-actualization"
+        ]
+    },
+    {
+        "q": "Herzberg's hygiene factors prevent dissatisfaction but do not motivate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a motivator according to Herzberg?",
+        "type": "mcq",
+        "o": [
+            "Achievement",
+            "Salary",
+            "Working conditions",
+            "Company policy"
+        ]
+    },
+    {
+        "q": "McGregor's Theory X assumes employees dislike ______.",
+        "type": "fill_blank",
+        "answers": [
+            "work"
+        ],
+        "other_options": [
+            "money",
+            "holidays",
+            "promotions"
+        ]
+    },
+    {
+        "q": "What does Theory Y assume about employees?",
+        "type": "mcq",
+        "o": [
+            "They are self-motivated",
+            "They avoid responsibility",
+            "They need constant supervision",
+            "They dislike challenges"
+        ]
+    },
+    {
+        "q": "Vroom's expectancy theory links effort to expected ______.",
+        "type": "fill_blank",
+        "answers": [
+            "outcomes"
+        ],
+        "other_options": [
+            "failures",
+            "problems",
+            "conflicts"
+        ]
+    },
+    {
+        "q": "Match the motivation theory with its key concept:",
+        "type": "match",
+        "left": [
+            "Maslow",
+            "Herzberg",
+            "McGregor",
+            "Vroom"
+        ],
+        "right": [
+            "Hierarchy of needs",
+            "Two-factor theory",
+            "Theory X and Y",
+            "Expectancy theory"
+        ]
+    },
+    {
+        "q": "Equity theory focuses on perceived fairness in rewards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of performance management?",
+        "type": "mcq",
+        "o": [
+            "To improve employee performance",
+            "To reduce salary costs",
+            "To increase meeting frequency",
+            "To limit career development"
+        ]
+    },
+    {
+        "q": "360-degree feedback gathers input from multiple ______.",
+        "type": "fill_blank",
+        "answers": [
+            "sources"
+        ],
+        "other_options": [
+            "offices",
+            "buildings",
+            "vehicles"
+        ]
+    },
+    {
+        "q": "Rearrange the performance management cycle:",
+        "type": "rearrange",
+        "words": [
+            "Plan",
+            "Act",
+            "Monitor",
+            "Review"
+        ]
+    },
+    {
+        "q": "SMART objectives are specific, measurable, achievable, relevant, and time-bound.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is NOT a characteristic of SMART objectives?",
+        "type": "mcq",
+        "o": [
+            "Simple",
+            "Measurable",
+            "Achievable",
+            "Time-bound"
+        ]
+    },
+    {
+        "q": "Talent management focuses on attracting and retaining skilled ______.",
+        "type": "fill_blank",
+        "answers": [
+            "employees"
+        ],
+        "other_options": [
+            "buildings",
+            "equipment",
+            "vehicles"
+        ]
+    },
+    {
+        "q": "What is organizational development?",
+        "type": "mcq",
+        "o": [
+            "Planned effort to improve organizational effectiveness",
+            "Unplanned reduction in workforce",
+            "Random changes to products",
+            "Elimination of all processes"
+        ]
+    },
+    {
+        "q": "Change resistance can be reduced through effective ______.",
+        "type": "fill_blank",
+        "answers": [
+            "communication"
+        ],
+        "other_options": [
+            "punishment",
+            "isolation",
+            "termination"
+        ]
+    },
+    {
+        "q": "Match the change approach with its description:",
+        "type": "match",
+        "left": [
+            "Education",
+            "Participation",
+            "Negotiation",
+            "Coercion"
+        ],
+        "right": [
+            "Explain the change",
+            "Involve stakeholders",
+            "Offer incentives",
+            "Force compliance"
+        ]
+    },
+    {
+        "q": "Kotter's 8-step model begins with creating a sense of urgency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a force for change in Lewin's model?",
+        "type": "mcq",
+        "o": [
+            "Driving forces",
+            "Static forces",
+            "Neutral forces",
+            "Passive forces"
+        ]
+    },
+    {
+        "q": "Restraining forces oppose ______ in organizations.",
+        "type": "fill_blank",
+        "answers": [
+            "change"
+        ],
+        "other_options": [
+            "stability",
+            "routine",
+            "tradition"
+        ]
+    },
+    {
+        "q": "What is the main focus of organizational culture change?",
+        "type": "mcq",
+        "o": [
+            "Shifting values and behaviors",
+            "Changing office furniture",
+            "Updating computer systems",
+            "Revising lunch menus"
+        ]
+    },
+    {
+        "q": "Rearrange Kotter's last four change steps:",
+        "type": "rearrange",
+        "words": [
+            "Empower action",
+            "Create quick wins",
+            "Build on change",
+            "Anchor change"
+        ]
+    },
+    {
+        "q": "Cultural web helps analyze organizational culture.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which element is at the center of the cultural web?",
+        "type": "mcq",
+        "o": [
+            "Paradigm",
+            "Stories",
+            "Rituals",
+            "Symbols"
+        ]
+    },
+    {
+        "q": "Organizational symbols include logos, dress codes, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "language"
+        ],
+        "other_options": [
+            "salaries",
+            "holidays",
+            "absences"
+        ]
+    },
+    {
+        "q": "Match the cultural web element with its example:",
+        "type": "match",
+        "left": [
+            "Stories",
+            "Rituals",
+            "Symbols",
+            "Power structures"
+        ],
+        "right": [
+            "Legends about founders",
+            "Regular meetings",
+            "Company logo",
+            "Decision makers"
+        ]
+    },
+    {
+        "q": "What is the purpose of stakeholder analysis?",
+        "type": "mcq",
+        "o": [
+            "To understand stakeholder interests and influence",
+            "To calculate financial returns",
+            "To measure product quality",
+            "To track inventory levels"
+        ]
+    },
+    {
+        "q": "Mendelow's matrix classifies stakeholders by power and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "age",
+            "location",
+            "gender"
+        ]
+    },
+    {
+        "q": "High power, low interest stakeholders should be kept satisfied.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which stakeholder strategy applies to low power, low interest groups?",
+        "type": "mcq",
+        "o": [
+            "Minimal effort",
+            "Keep informed",
+            "Keep satisfied",
+            "Key players"
+        ]
+    },
+    {
+        "q": "Stakeholder engagement involves ongoing ______ with interested parties.",
+        "type": "fill_blank",
+        "answers": [
+            "dialogue"
+        ],
+        "other_options": [
+            "conflict",
+            "avoidance",
+            "isolation"
+        ]
+    },
+    {
+        "q": "Rearrange the stakeholder engagement process:",
+        "type": "rearrange",
+        "words": [
+            "Identify",
+            "Analyze",
+            "Plan",
+            "Engage",
+            "Monitor"
+        ]
+    },
+    {
+        "q": "Conflict resolution is essential for managing stakeholder relationships.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following describes compromise in conflict resolution?",
+        "type": "mcq",
+        "o": [
+            "Both parties give up something",
+            "One party wins completely",
+            "Both parties avoid the issue",
+            "One party forces their view"
+        ]
+    },
+    {
+        "q": "Collaboration in conflict resolution aims for a ______ solution.",
+        "type": "fill_blank",
+        "answers": [
+            "win-win"
+        ],
+        "other_options": [
+            "lose-lose",
+            "win-lose",
+            "no"
+        ]
+    },
+    {
+        "q": "What is business ethics?",
+        "type": "mcq",
+        "o": [
+            "Application of moral principles to business",
+            "Maximizing profits at any cost",
+            "Ignoring stakeholder concerns",
+            "Avoiding all regulations"
+        ]
+    },
+    {
+        "q": "Match the ethical theory with its focus:",
+        "type": "match",
+        "left": [
+            "Utilitarianism",
+            "Deontology",
+            "Virtue ethics",
+            "Stakeholder theory"
+        ],
+        "right": [
+            "Greatest good for most",
+            "Duty-based decisions",
+            "Character and integrity",
+            "Balancing all interests"
+        ]
+    },
+    {
+        "q": "Consequentialism judges actions by their outcomes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which ethical approach focuses on rules and duties?",
+        "type": "mcq",
+        "o": [
+            "Deontological",
+            "Utilitarian",
+            "Virtue-based",
+            "Consequentialist"
+        ]
+    },
+    {
+        "q": "The social contract theory suggests businesses have obligations to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "society"
+        ],
+        "other_options": [
+            "competitors",
+            "regulators",
+            "auditors"
+        ]
+    },
+    {
+        "q": "What is corporate citizenship?",
+        "type": "mcq",
+        "o": [
+            "Organization's role in society",
+            "Employee nationality records",
+            "Customer location data",
+            "Supplier registration"
+        ]
+    },
+    {
+        "q": "Rearrange Carroll's CSR pyramid from bottom to top:",
+        "type": "rearrange",
+        "words": [
+            "Economic",
+            "Legal",
+            "Ethical",
+            "Philanthropic"
+        ]
+    },
+    {
+        "q": "Sustainability considers economic, social, and environmental impacts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a component of the triple bottom line?",
+        "type": "mcq",
+        "o": [
+            "Planet",
+            "Politics",
+            "Procedures",
+            "Personnel"
+        ]
+    },
+    {
+        "q": "Greenwashing involves misleading claims about environmental ______.",
+        "type": "fill_blank",
+        "answers": [
+            "practices"
+        ],
+        "other_options": [
+            "salaries",
+            "locations",
+            "employees"
+        ]
+    },
+    {
+        "q": "What is the purpose of an ethics hotline?",
+        "type": "mcq",
+        "o": [
+            "To report ethical concerns confidentially",
+            "To schedule employee meetings",
+            "To track customer orders",
+            "To manage inventory"
+        ]
+    },
+    {
+        "q": "Match the governance principle with its meaning:",
+        "type": "match",
+        "left": [
+            "Accountability",
+            "Transparency",
+            "Fairness",
+            "Responsibility"
+        ],
+        "right": [
+            "Answerable for actions",
+            "Open communication",
+            "Equal treatment",
+            "Duty to stakeholders"
+        ]
+    },
+    {
+        "q": "The OECD provides principles for corporate governance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which act was passed in response to corporate scandals in the US?",
+        "type": "mcq",
+        "o": [
+            "Sarbanes-Oxley Act",
+            "UK Companies Act",
+            "King Report",
+            "Cadbury Report"
+        ]
+    },
+    {
+        "q": "The Cadbury Report established principles for UK corporate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "governance"
+        ],
+        "other_options": [
+            "marketing",
+            "sales",
+            "production"
+        ]
+    },
+    {
+        "q": "What is the Combined Code?",
+        "type": "mcq",
+        "o": [
+            "UK corporate governance standards",
+            "US tax regulations",
+            "EU employment law",
+            "Global trade rules"
+        ]
+    },
+    {
+        "q": "Rearrange the board committee structure (audit first):",
+        "type": "rearrange",
+        "words": [
+            "Audit",
+            "Remuneration",
+            "Nomination",
+            "Risk"
+        ]
+    },
+    {
+        "q": "The audit committee should include independent non-executive directors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which report focused on risk management and internal control?",
+        "type": "mcq",
+        "o": [
+            "Turnbull Report",
+            "Cadbury Report",
+            "Greenbury Report",
+            "Hampel Report"
+        ]
+    },
+    {
+        "q": "The Greenbury Report addressed executive ______.",
+        "type": "fill_blank",
+        "answers": [
+            "remuneration"
+        ],
+        "other_options": [
+            "recruitment",
+            "training",
+            "dismissal"
+        ]
+    },
+    {
+        "q": "What is enterprise risk management (ERM)?",
+        "type": "mcq",
+        "o": [
+            "Integrated approach to managing all organizational risks",
+            "Only managing financial risks",
+            "Avoiding all business activities",
+            "Eliminating all employees"
+        ]
+    },
+    {
+        "q": "The COSO ERM framework emphasizes risk appetite and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "tolerance"
+        ],
+        "other_options": [
+            "ignorance",
+            "avoidance",
+            "elimination"
+        ]
+    },
+    {
+        "q": "Risk appetite is the amount of risk an organization is willing to accept.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a risk response strategy?",
+        "type": "mcq",
+        "o": [
+            "Transfer",
+            "Create",
+            "Ignore",
+            "Duplicate"
+        ]
+    },
+    {
+        "q": "Match the risk response with its description:",
+        "type": "match",
+        "left": [
+            "Avoid",
+            "Reduce",
+            "Transfer",
+            "Accept"
+        ],
+        "right": [
+            "Eliminate the activity",
+            "Implement controls",
+            "Insurance or outsourcing",
+            "Tolerate the risk"
+        ]
+    },
+    {
+        "q": "What is inherent risk?",
+        "type": "mcq",
+        "o": [
+            "Risk before controls are applied",
+            "Risk after controls are applied",
+            "Risk that cannot exist",
+            "Risk only in technology"
+        ]
+    },
+    {
+        "q": "Residual risk is the risk that remains after ______ are applied.",
+        "type": "fill_blank",
+        "answers": [
+            "controls"
+        ],
+        "other_options": [
+            "employees",
+            "customers",
+            "suppliers"
+        ]
+    },
+    {
+        "q": "Rearrange the ERM process components:",
+        "type": "rearrange",
+        "words": [
+            "Governance",
+            "Strategy",
+            "Performance",
+            "Review",
+            "Communication"
+        ]
+    },
+    {
+        "q": "A risk matrix plots likelihood against impact.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a source of strategic risk?",
+        "type": "mcq",
+        "o": [
+            "Changing market conditions",
+            "Office equipment failure",
+            "Employee vacation requests",
+            "Building maintenance"
+        ]
+    },
+    {
+        "q": "Key risk indicators (KRIs) provide early warning of potential ______.",
+        "type": "fill_blank",
+        "answers": [
+            "problems"
+        ],
+        "other_options": [
+            "successes",
+            "promotions",
+            "vacations"
+        ]
+    },
+    {
+        "q": "What is business impact analysis (BIA)?",
+        "type": "mcq",
+        "o": [
+            "Process to identify critical business functions",
+            "Analysis of competitor products",
+            "Review of employee performance",
+            "Calculation of profit margins"
+        ]
+    },
+    {
+        "q": "Match the risk category with its example:",
+        "type": "match",
+        "left": [
+            "Strategic",
+            "Operational",
+            "Financial",
+            "Compliance"
+        ],
+        "right": [
+            "Market changes",
+            "Process failures",
+            "Currency fluctuations",
+            "Regulatory breaches"
+        ]
+    },
+    {
+        "q": "Crisis management involves responding to unexpected threats.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a key element of crisis management?",
+        "type": "mcq",
+        "o": [
+            "Communication plan",
+            "Ignore the crisis",
+            "Blame employees",
+            "Close all operations"
+        ]
+    },
+    {
+        "q": "Recovery time objective (RTO) specifies how quickly operations must ______.",
+        "type": "fill_blank",
+        "answers": [
+            "resume"
+        ],
+        "other_options": [
+            "stop",
+            "fail",
+            "close"
+        ]
+    },
+    {
+        "q": "What is information governance?",
+        "type": "mcq",
+        "o": [
+            "Framework for managing information assets",
+            "Deleting all company records",
+            "Ignoring data quality",
+            "Avoiding digital systems"
+        ]
+    },
+    {
+        "q": "Rearrange the data governance lifecycle:",
+        "type": "rearrange",
+        "words": [
+            "Create",
+            "Store",
+            "Use",
+            "Share",
+            "Archive",
+            "Destroy"
+        ]
+    },
+    {
+        "q": "GDPR is a regulation focused on data protection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a principle of GDPR?",
+        "type": "mcq",
+        "o": [
+            "Data minimization",
+            "Data maximization",
+            "Unlimited data storage",
+            "No consent required"
+        ]
+    },
+    {
+        "q": "Data subjects have the right to access their personal ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "offices",
+            "vehicles",
+            "buildings"
+        ]
+    },
+    {
+        "q": "What is the purpose of a data protection officer?",
+        "type": "mcq",
+        "o": [
+            "To ensure compliance with data protection laws",
+            "To delete all company data",
+            "To share data publicly",
+            "To ignore privacy concerns"
+        ]
+    },
+    {
+        "q": "Match the technology risk with its description:",
+        "type": "match",
+        "left": [
+            "Cyber attack",
+            "System failure",
+            "Data breach",
+            "Vendor lock-in"
+        ],
+        "right": [
+            "Malicious intrusion",
+            "Technical breakdown",
+            "Unauthorized access",
+            "Dependency on supplier"
+        ]
+    },
+    {
+        "q": "Ransomware encrypts data and demands payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a cybersecurity control?",
+        "type": "mcq",
+        "o": [
+            "Multi-factor authentication",
+            "Sharing passwords publicly",
+            "Disabling firewalls",
+            "Using simple passwords"
+        ]
+    },
+    {
+        "q": "Penetration testing identifies weaknesses in security ______.",
+        "type": "fill_blank",
+        "answers": [
+            "systems"
+        ],
+        "other_options": [
+            "furniture",
+            "vehicles",
+            "buildings"
+        ]
+    },
+    {
+        "q": "What is a security operations center (SOC)?",
+        "type": "mcq",
+        "o": [
+            "Facility for monitoring security threats",
+            "Marketing department office",
+            "Human resources unit",
+            "Sales team location"
+        ]
+    },
+    {
+        "q": "Rearrange the incident response process:",
+        "type": "rearrange",
+        "words": [
+            "Prepare",
+            "Detect",
+            "Contain",
+            "Eradicate",
+            "Recover",
+            "Learn"
+        ]
+    },
+    {
+        "q": "Zero trust security assumes no user or system is trusted by default.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following describes encryption?",
+        "type": "mcq",
+        "o": [
+            "Converting data into unreadable format",
+            "Deleting all data files",
+            "Sharing data without protection",
+            "Printing all documents"
+        ]
+    },
+    {
+        "q": "A digital strategy aligns technology with business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "objectives"
+        ],
+        "other_options": [
+            "furniture",
+            "buildings",
+            "vehicles"
+        ]
+    },
+    {
+        "q": "What is the Internet of Things (IoT)?",
+        "type": "mcq",
+        "o": [
+            "Network of connected physical devices",
+            "Single computer system",
+            "Traditional telephone network",
+            "Paper-based filing system"
+        ]
+    },
+    {
+        "q": "Match the technology term with its meaning:",
+        "type": "match",
+        "left": [
+            "AI",
+            "Machine learning",
+            "Big data",
+            "Cloud computing"
+        ],
+        "right": [
+            "Simulated intelligence",
+            "Learning from patterns",
+            "Large data volumes",
+            "Remote IT resources"
+        ]
+    },
+    {
+        "q": "Robotic process automation (RPA) automates repetitive tasks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a benefit of cloud computing?",
+        "type": "mcq",
+        "o": [
+            "Scalability",
+            "Higher capital costs",
+            "Limited access",
+            "Fixed capacity"
+        ]
+    },
+    {
+        "q": "E-commerce enables business transactions over the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "internet"
+        ],
+        "other_options": [
+            "telephone",
+            "mail",
+            "telegraph"
+        ]
+    },
+    {
+        "q": "What is business process reengineering (BPR)?",
+        "type": "mcq",
+        "o": [
+            "Fundamental redesign of business processes",
+            "Minor adjustment to procedures",
+            "Maintaining current systems",
+            "Avoiding all changes"
+        ]
+    },
+    {
+        "q": "Rearrange the digital maturity stages:",
+        "type": "rearrange",
+        "words": [
+            "Initial",
+            "Developing",
+            "Defined",
+            "Managed",
+            "Optimized"
+        ]
+    },
+    {
+        "q": "Platform business models connect producers and consumers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following describes fintech?",
+        "type": "mcq",
+        "o": [
+            "Technology applied to financial services",
+            "Traditional banking methods",
+            "Paper-based accounting",
+            "Manual transaction processing"
+        ]
+    },
+    {
+        "q": "Disruptive technology fundamentally changes an ______.",
+        "type": "fill_blank",
+        "answers": [
+            "industry"
+        ],
+        "other_options": [
+            "office",
+            "building",
+            "vehicle"
+        ]
+    },
+    {
+        "q": "What is the purpose of IT audit?",
+        "type": "mcq",
+        "o": [
+            "To evaluate IT controls and security",
+            "To delete old files",
+            "To install new software",
+            "To hire IT staff"
+        ]
+    },
+    {
+        "q": "Match the IT governance framework with its focus:",
+        "type": "match",
+        "left": [
+            "COBIT",
+            "ITIL",
+            "ISO 27001",
+            "TOGAF"
+        ],
+        "right": [
+            "IT governance and management",
+            "IT service management",
+            "Information security",
+            "Enterprise architecture"
+        ]
+    },
+    {
+        "q": "IT general controls apply across all applications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is an IT application control?",
+        "type": "mcq",
+        "o": [
+            "Input validation",
+            "Physical access controls",
+            "Backup procedures",
+            "Change management"
+        ]
+    },
+    {
+        "q": "Business intelligence converts data into actionable ______.",
+        "type": "fill_blank",
+        "answers": [
+            "insights"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "furniture"
+        ]
+    },
+    {
+        "q": "What is data mining?",
+        "type": "mcq",
+        "o": [
+            "Discovering patterns in large datasets",
+            "Deleting all stored data",
+            "Printing data reports",
+            "Ignoring data quality"
+        ]
+    },
+    {
+        "q": "Rearrange the business analytics levels:",
+        "type": "rearrange",
+        "words": [
+            "Descriptive",
+            "Diagnostic",
+            "Predictive",
+            "Prescriptive"
+        ]
+    },
+    {
+        "q": "Predictive analytics forecasts future outcomes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a key performance dashboard element?",
+        "type": "mcq",
+        "o": [
+            "Visual representation of metrics",
+            "Lengthy text reports",
+            "Raw data tables only",
+            "Unformatted spreadsheets"
+        ]
+    },
+    {
+        "q": "Internal controls are designed to provide reasonable assurance of achieving ______.",
+        "type": "fill_blank",
+        "answers": [
+            "objectives"
+        ],
+        "other_options": [
+            "failures",
+            "problems",
+            "losses"
+        ]
+    },
+    {
+        "q": "What are the five components of the COSO internal control framework?",
+        "type": "mcq",
+        "o": [
+            "Control environment, risk assessment, control activities, information and communication, monitoring",
+            "Planning, organizing, leading, controlling, staffing",
+            "Vision, mission, goals, objectives, strategies",
+            "Forming, storming, norming, performing, adjourning"
+        ]
+    },
+    {
+        "q": "Match the COSO component with its element:",
+        "type": "match",
+        "left": [
+            "Control environment",
+            "Risk assessment",
+            "Control activities",
+            "Monitoring"
+        ],
+        "right": [
+            "Tone at the top",
+            "Identifying threats",
+            "Policies and procedures",
+            "Ongoing evaluation"
+        ]
+    },
+    {
+        "q": "The control environment sets the tone for an organization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is an example of segregation of duties?",
+        "type": "mcq",
+        "o": [
+            "Separating authorization from custody",
+            "One person doing all tasks",
+            "No supervision required",
+            "Unlimited access for all"
+        ]
+    },
+    {
+        "q": "Authorization controls ensure transactions are approved by ______ personnel.",
+        "type": "fill_blank",
+        "answers": [
+            "appropriate"
+        ],
+        "other_options": [
+            "random",
+            "junior",
+            "absent"
+        ]
+    },
+    {
+        "q": "What is the purpose of reconciliation controls?",
+        "type": "mcq",
+        "o": [
+            "To compare records and identify differences",
+            "To delete transaction records",
+            "To ignore errors",
+            "To delay processing"
+        ]
+    },
+    {
+        "q": "Rearrange the internal audit process:",
+        "type": "rearrange",
+        "words": [
+            "Plan",
+            "Fieldwork",
+            "Report",
+            "Follow-up"
+        ]
+    },
+    {
+        "q": "Internal audit is independent of management operations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a role of internal audit?",
+        "type": "mcq",
+        "o": [
+            "Providing assurance on governance",
+            "Approving transactions",
+            "Processing payments",
+            "Managing inventory"
+        ]
+    },
+    {
+        "q": "An internal audit charter defines the purpose, authority, and ______ of internal audit.",
+        "type": "fill_blank",
+        "answers": [
+            "responsibility"
+        ],
+        "other_options": [
+            "salary",
+            "office",
+            "equipment"
+        ]
+    },
+    {
+        "q": "What is the three lines model?",
+        "type": "mcq",
+        "o": [
+            "Framework for governance and risk management roles",
+            "Method for product pricing",
+            "Technique for employee appraisal",
+            "Approach to customer service"
+        ]
+    },
+    {
+        "q": "Match the three lines with their role:",
+        "type": "match",
+        "left": [
+            "First line",
+            "Second line",
+            "Third line",
+            "External"
+        ],
+        "right": [
+            "Operational management",
+            "Risk and compliance functions",
+            "Internal audit",
+            "External audit and regulators"
+        ]
+    },
+    {
+        "q": "The first line of defense owns and manages risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following describes the second line of defense?",
+        "type": "mcq",
+        "o": [
+            "Oversight functions like risk management",
+            "Day-to-day operations",
+            "Independent assurance",
+            "External regulators"
+        ]
+    },
+    {
+        "q": "Continuous auditing uses technology for real-time ______.",
+        "type": "fill_blank",
+        "answers": [
+            "monitoring"
+        ],
+        "other_options": [
+            "deleting",
+            "ignoring",
+            "avoiding"
+        ]
+    },
+    {
+        "q": "What is the purpose of control self-assessment?",
+        "type": "mcq",
+        "o": [
+            "For management to evaluate their own controls",
+            "For auditors to ignore controls",
+            "For customers to rate products",
+            "For suppliers to check inventory"
+        ]
+    },
+    {
+        "q": "Rearrange the audit opinion types from best to worst:",
+        "type": "rearrange",
+        "words": [
+            "Unmodified",
+            "Emphasis of matter",
+            "Qualified",
+            "Adverse",
+            "Disclaimer"
+        ]
+    },
+    {
+        "q": "An unmodified audit opinion indicates financial statements are fairly presented.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following would result in a qualified opinion?",
+        "type": "mcq",
+        "o": [
+            "Material but not pervasive misstatement",
+            "No issues found",
+            "Complete accuracy",
+            "Perfect compliance"
+        ]
+    },
+    {
+        "q": "Going concern assumes the entity will continue operating for the foreseeable ______.",
+        "type": "fill_blank",
+        "answers": [
+            "future"
+        ],
+        "other_options": [
+            "past",
+            "moment",
+            "second"
+        ]
+    },
+    {
+        "q": "What is materiality in auditing?",
+        "type": "mcq",
+        "o": [
+            "Significance of an error to affect decisions",
+            "Size of the audit team",
+            "Cost of the audit",
+            "Duration of the audit"
+        ]
+    },
+    {
+        "q": "Match the audit sampling method with its description:",
+        "type": "match",
+        "left": [
+            "Random",
+            "Systematic",
+            "Stratified",
+            "Haphazard"
+        ],
+        "right": [
+            "Equal chance selection",
+            "Fixed interval selection",
+            "Population divided into groups",
+            "Unstructured selection"
+        ]
+    },
+    {
+        "q": "Substantive procedures test for material misstatements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a test of controls?",
+        "type": "mcq",
+        "o": [
+            "Evaluating operating effectiveness of controls",
+            "Counting physical inventory",
+            "Calculating financial ratios",
+            "Reviewing bank statements"
+        ]
+    },
+    {
+        "q": "Fraud risk factors include opportunity, pressure, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "rationalization"
+        ],
+        "other_options": [
+            "celebration",
+            "promotion",
+            "vacation"
+        ]
+    },
+    {
+        "q": "What is the fraud triangle?",
+        "type": "mcq",
+        "o": [
+            "Model explaining why fraud occurs",
+            "Method for detecting all fraud",
+            "System for preventing errors",
+            "Technique for calculating profits"
+        ]
+    },
+    {
+        "q": "Rearrange the fraud examination process:",
+        "type": "rearrange",
+        "words": [
+            "Allegation",
+            "Investigation",
+            "Documentation",
+            "Reporting"
+        ]
+    },
+    {
+        "q": "Forensic accounting investigates financial crimes and disputes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a red flag for fraud?",
+        "type": "mcq",
+        "o": [
+            "Lifestyle inconsistent with income",
+            "Regular work attendance",
+            "Transparent transactions",
+            "Accurate record keeping"
+        ]
+    },
+    {
+        "q": "Anti-money laundering (AML) controls detect suspicious ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transactions"
+        ],
+        "other_options": [
+            "employees",
+            "buildings",
+            "vehicles"
+        ]
+    },
+    {
+        "q": "What is know your customer (KYC)?",
+        "type": "mcq",
+        "o": [
+            "Process to verify customer identity",
+            "Marketing to new customers",
+            "Ignoring customer data",
+            "Deleting customer records"
+        ]
+    },
+    {
+        "q": "Match the compliance area with its focus:",
+        "type": "match",
+        "left": [
+            "AML",
+            "GDPR",
+            "SOX",
+            "Health and safety"
+        ],
+        "right": [
+            "Money laundering prevention",
+            "Data protection",
+            "Financial reporting",
+            "Workplace safety"
+        ]
+    },
+    {
+        "q": "Regulatory compliance is optional for listed companies.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following is a consequence of non-compliance?",
+        "type": "mcq",
+        "o": [
+            "Fines and penalties",
+            "Increased profit",
+            "Better reputation",
+            "More customers"
+        ]
+    },
+    {
+        "q": "A compliance program includes policies, training, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "monitoring"
+        ],
+        "other_options": [
+            "ignoring",
+            "avoiding",
+            "deleting"
+        ]
+    },
+    {
+        "q": "What is the role of a chief compliance officer?",
+        "type": "mcq",
+        "o": [
+            "To oversee regulatory compliance",
+            "To ignore regulations",
+            "To avoid audits",
+            "To delete compliance records"
+        ]
+    },
+    {
+        "q": "Rearrange the compliance management process:",
+        "type": "rearrange",
+        "words": [
+            "Identify requirements",
+            "Assess gaps",
+            "Implement controls",
+            "Monitor",
+            "Report"
+        ]
+    },
+    {
+        "q": "Regulatory technology (RegTech) uses technology to manage compliance.",
+        "type": "true_false",
+        "correct": "True"
     }
 ]
