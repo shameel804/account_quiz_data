@@ -1,0 +1,143 @@
+{
+    "id": "learn_gst_aud",
+    "topicId": "gst_aud",
+    "topicTitle": "GST Assessment and Appeals",
+    "description": "Master GST Assessment including Self-Assessment, Scrutiny, Audit, and Appeals",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "gst_a1",
+            "type": "content",
+            "title": "Welcome to GST Assessment",
+            "content": "# GST Assessment & Appeals\n\nUnderstand the **assessment** and **dispute resolution** process.\n\n## What You Will Learn\n\n- **Assessment** - Types and process\n- **Audit** - Department audit\n- **Demands** - Recovery procedures\n- **Appeals** - Dispute resolution\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Self-assessment | Returns |\n| Scrutiny | Verification |\n| Audit | Examination |\n| Appeals | Resolution |"
+        },
+        {
+            "id": "gst_a2",
+            "type": "content",
+            "title": "Self-Assessment",
+            "content": "# Return-Based Assessment\n\n## Section 59\n\n```\nEvery registered person shall:\n- Self-assess tax payable\n- Furnish return\n- Pay tax\n```\n\n## Process\n\n| Step | Action |\n|------|--------|\n| 1 | Determine liability |\n| 2 | Claim ITC |\n| 3 | Pay net tax |\n| 4 | File return |\n\n## Provisional Assessment\n\n- When value uncertain\n- Furnish bond\n- Final assessment later"
+        },
+        {
+            "id": "gst_a3",
+            "type": "content",
+            "title": "Scrutiny of Returns",
+            "content": "# Verification Process\n\n## Section 61\n\n```\nOfficer may scrutinize return:\n- Verify correctness\n- Issue notice if discrepancy\n- Taxpayer explanation required\n```\n\n## Response Time\n\n| Notice | Response |\n|--------|----------|\n| Discrepancy notice | 30 days |\n| Explanation | Required |\n\n## Outcome\n\n| Result | Action |\n|--------|--------|\n| Accepted | Case closed |\n| Not accepted | Proceedings |"
+        },
+        {
+            "id": "gst_a_quiz1",
+            "type": "quiz",
+            "title": "Assessment Quiz",
+            "content": "Test your assessment knowledge!",
+            "quizQuestion": "Self-assessment is done through?",
+            "quizOptions": [
+                "Application",
+                "Return filing",
+                "Audit",
+                "Inspection"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_a4",
+            "type": "content",
+            "title": "Department Audit",
+            "content": "# Section 65\n\n## Audit Process\n\n```\n1. Commissioner orders audit\n2. 15 days notice\n3. Audit at registered place\n4. Must complete in 3 months\n5. Extendable by 6 months\n```\n\n## Taxpayer Obligations\n\n| Requirement | Action |\n|-------------|--------|\n| Records | Provide access |\n| Documents | Make available |\n| Information | Furnish |\n| Assistance | Render |\n\n## Audit Report\n\n- Findings communicated\n- 30 days response time"
+        },
+        {
+            "id": "gst_a5",
+            "type": "content",
+            "title": "Special Audit",
+            "content": "# Section 66\n\n## When Ordered\n\n```\nCommissioner may order if:\n- Value not correctly declared\n- Credit wrongly availed\n- During scrutiny, investigation, or audit\n```\n\n## Auditor\n\n| Appointed By | Qualification |\n|--------------|---------------|\n| Commissioner | CA or CMA |\n\n## Timeline\n\n| Stage | Period |\n|-------|--------|\n| Completion | 90 days |\n| Extension | Further 90 days |\n| Final report | To proper officer |"
+        },
+        {
+            "id": "gst_a6",
+            "type": "content",
+            "title": "Best Judgment Assessment",
+            "content": "# Section 62 and 63\n\n## Non-Filers (Section 62)\n\n```\nIf return not filed:\n- Notice issued\n- 15 days time\n- Best judgment assessment\n- Additional tax + interest + penalty\n```\n\n## Unregistered Persons (Section 63)\n\n```\nPerson liable but not registered:\n- Assessment by proper officer\n- Demand and recovery\n- Registration may be granted\n```"
+        },
+        {
+            "id": "gst_a_quiz2",
+            "type": "quiz",
+            "title": "Audit Quiz",
+            "content": "Test your audit knowledge!",
+            "quizQuestion": "Department audit must complete within?",
+            "quizOptions": [
+                "1 month",
+                "3 months",
+                "6 months",
+                "12 months"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_a7",
+            "type": "content",
+            "title": "Demand and Recovery",
+            "content": "# Section 73 and 74\n\n## Section 73 (Non-Fraud)\n\n| Element | Requirement |\n|---------|-------------|\n| Time limit | 3 years |\n| Interest | 18% |\n| Penalty | 10% (if paid late) |\n\n## Section 74 (Fraud)\n\n| Element | Requirement |\n|---------|-------------|\n| Time limit | 5 years |\n| Interest | 24% |\n| Penalty | 100% |\n\n## Show Cause Notice\n\n```\n3 months before above dates\n```"
+        },
+        {
+            "id": "gst_a8",
+            "type": "content",
+            "title": "Interest and Penalty",
+            "content": "# Additional Liabilities\n\n## Interest\n\n| Section | Rate |\n|---------|------|\n| 73 | 18% p.a. |\n| 74 | 24% p.a. |\n| Wrong ITC | 24% p.a. |\n\n## Penalty Reduction\n\n| Payment Timing | Penalty |\n|----------------|--------|\n| Within 30 days of SCN | Nil (Sec 73) |\n| Within 30 days of SCN | 15% (Sec 74) |\n| Within 30 days of order | 25% (Sec 73) |\n| Within 30 days of order | 50% (Sec 74) |"
+        },
+        {
+            "id": "gst_a9",
+            "type": "content",
+            "title": "Appeals - First Level",
+            "content": "# Appellate Authority\n\n## Section 107\n\n```\nAppeal to Appellate Authority:\n- Against order of adjudicating authority\n- Within 3 months\n- Extendable by 1 month\n```\n\n## Pre-Deposit\n\n| Amount | Required |\n|--------|----------|\n| Admitted | Full |\n| Disputed | 10% |\n| Maximum | Rs 50 Cr |\n\n## Procedure\n\n- Appeal in FORM GST APL-01\n- Grounds of appeal\n- Supporting documents"
+        },
+        {
+            "id": "gst_a_quiz3",
+            "type": "quiz",
+            "title": "Appeal Quiz",
+            "content": "Test your appeal knowledge!",
+            "quizQuestion": "First appeal must be filed within?",
+            "quizOptions": [
+                "1 month",
+                "2 months",
+                "3 months",
+                "6 months"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "gst_a10",
+            "type": "content",
+            "title": "Appeals - Tribunal",
+            "content": "# Appellate Tribunal\n\n## Section 112\n\n```\nAppeal against:\n- Appellate Authority order\n- Revisional Authority order\n```\n\n## Time Limit\n\n| Appellant | Period |\n|-----------|--------|\n| Taxpayer | 3 months |\n| Department | 6 months |\n\n## Pre-Deposit\n\n| Amount | Required |\n|--------|----------|\n| Admitted | Full |\n| Additional | 20% |\n| Maximum | Rs 100 Cr |"
+        },
+        {
+            "id": "gst_a11",
+            "type": "content",
+            "title": "High Court and Supreme Court",
+            "content": "# Higher Appeals\n\n## High Court (Section 117)\n\n```\nAppeal on question of law:\n- From Tribunal order\n- Within 180 days\n```\n\n## Supreme Court (Section 118)\n\n```\nAppeal from High Court:\n- Substantial question of law\n- Special leave petition\n```\n\n## Alternate Remedy\n\n| Forum | Before Approaching |\n|-------|-------------------|\n| High Court | Exhaust GST forums |\n| Writ | Exceptional cases |"
+        },
+        {
+            "id": "gst_a12",
+            "type": "content",
+            "title": "Advance Ruling",
+            "content": "# Section 95-106\n\n## Purpose\n\n```\nClarity on GST treatment:\n- Before transaction\n- Binding ruling\n- Applicant-specific\n```\n\n## Questions Covered\n\n| Question | Covered |\n|----------|--------|\n| Classification | Yes |\n| Rate | Yes |\n| ITC eligibility | Yes |\n| Place of supply | Yes |\n\n## Authority\n\n- Authority for Advance Ruling (AAR)\n- Appeal to AAAR"
+        },
+        {
+            "id": "gst_a_quiz4",
+            "type": "quiz",
+            "title": "Ruling Quiz",
+            "content": "Test your advance ruling knowledge!",
+            "quizQuestion": "Advance ruling is?",
+            "quizOptions": [
+                "Retrospective",
+                "Prospective",
+                "Both",
+                "Neither"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_a17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **GST Assessment & Appeals**!\n\n## Key Topics\n\n### Assessment\n- Self-assessment\n- Scrutiny\n- Audit (65, 66)\n- Best judgment\n\n### Demands\n- Section 73 (non-fraud)\n- Section 74 (fraud)\n- Interest and penalty\n\n### Appeals\n- Appellate Authority\n- Tribunal\n- High Court\n- Supreme Court\n\n## Key Timelines\n\n| Stage | Time |\n|-------|------|\n| Sec 73 limit | 3 years |\n| Sec 74 limit | 5 years |\n| First appeal | 3 months |\n\n## Congratulations!\n\nYou completed all GST topics!"
+        }
+    ]
+}

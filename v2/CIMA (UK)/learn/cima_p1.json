@@ -1,0 +1,143 @@
+{
+    "id": "learn_cima_p1",
+    "topicId": "cima_p1",
+    "topicTitle": "P1 - Management Accounting",
+    "description": "Master CIMA P1 covering Costing, Planning, Decision Making, and Control",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "p1_1",
+            "type": "content",
+            "title": "Welcome to CIMA P1",
+            "content": "# P1 - Management Accounting\n\nP1 covers **costing**, **planning**, and **decision making**.\n\n## What You Will Learn\n\n- **Costing** - Methods and systems\n- **Planning** - Budgeting\n- **Decision Making** - Techniques\n- **Control** - Performance\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Cost management | 30% |\n| Budgeting | 25% |\n| Decision making | 25% |\n| Control | 20% |"
+        },
+        {
+            "id": "p1_2",
+            "type": "content",
+            "title": "Activity-Based Costing",
+            "content": "# ABC Method\n\n## Process\n\n```\n1. Identify activities\n2. Create cost pools\n3. Identify cost drivers\n4. Calculate rates\n5. Apply to products\n```\n\n## Traditional vs ABC\n\n| Traditional | ABC |\n|-------------|-----|\n| Volume-based | Activity-based |\n| Single rate | Multiple pools |\n| Simpler | More accurate |\n\n## When to Use ABC\n\n- High overheads\n- Product diversity\n- Competition"
+        },
+        {
+            "id": "p1_3",
+            "type": "content",
+            "title": "Target Costing",
+            "content": "# Market-Driven Costing\n\n## Formula\n\n```\nTarget Cost = Market Price - Required Profit\n```\n\n## Process\n\n```\n1. Market research\n2. Set target price\n3. Determine profit margin\n4. Calculate target cost\n5. Design to cost\n```\n\n## Cost Reduction\n\n| Technique | Approach |\n|-----------|----------|\n| Value engineering | Design stage |\n| Value analysis | Production |\n| Kaizen | Continuous |"
+        },
+        {
+            "id": "p1_quiz_1",
+            "type": "quiz",
+            "title": "Costing Quiz",
+            "content": "Test your costing knowledge!",
+            "quizQuestion": "Target cost equals market price minus?",
+            "quizOptions": [
+                "Variable cost",
+                "Fixed cost",
+                "Required profit",
+                "Overhead"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p1_4",
+            "type": "content",
+            "title": "Life Cycle Costing",
+            "content": "# Full Product Cost\n\n## Stages\n\n```\nDevelopment -> Introduction -> Growth -> Maturity -> Decline\n```\n\n## Costs Per Stage\n\n| Stage | Focus |\n|-------|-------|\n| Development | R&D |\n| Introduction | Marketing |\n| Growth | Production |\n| Maturity | Efficiency |\n| Decline | Exit |\n\n## Benefit\n\n- Total cost visibility\n- Better pricing decisions\n- Environmental costs"
+        },
+        {
+            "id": "p1_5",
+            "type": "content",
+            "title": "Throughput Accounting",
+            "content": "# Theory of Constraints\n\n## Key Measures\n\n```\nThroughput = Sales - Material Cost\n\nReturn per Factory Hour = Throughput / Time on Bottleneck\n\nThroughput Ratio = Return / Cost per Hour\n```\n\n## Ranking\n\n| Ratio | Decision |\n|-------|----------|\n| > 1 | Profitable |\n| = 1 | Break-even |\n| < 1 | Unprofitable |\n\n## Bottleneck Focus\n\nMaximize throughput at constraint."
+        },
+        {
+            "id": "p1_6",
+            "type": "content",
+            "title": "Budgeting Methods",
+            "content": "# Budget Types\n\n## Approaches\n\n| Type | Method |\n|------|--------|\n| Incremental | Prior + change |\n| Zero-based | From scratch |\n| Rolling | Continuous |\n| Activity-based | Activities |\n\n## Behavioral Aspects\n\n| Issue | Impact |\n|-------|--------|\n| Participation | Motivation |\n| Budget slack | Padding |\n| Dysfunctional | Gaming |"
+        },
+        {
+            "id": "p1_quiz_2",
+            "type": "quiz",
+            "title": "Budget Quiz",
+            "content": "Test your budgeting knowledge!",
+            "quizQuestion": "Zero-based budgeting starts from?",
+            "quizOptions": [
+                "Last year",
+                "Zero",
+                "Target",
+                "Forecast"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1_7",
+            "type": "content",
+            "title": "Variance Analysis",
+            "content": "# Advanced Variances\n\n## Material Variances\n\n```\nPrice: (AP - SP) x AQ\nUsage: (AQ - SQ) x SP\nMix: (AM - SM) x SP\nYield: (AY - SY) x SC\n```\n\n## Sales Variances\n\n```\nPrice: (AP - SP) x AQ\nVolume: (AQ - SQ) x SP or SC\nMix: (AM - SM) x Contribution\nQuantity: (AQ - SQ) x WAC\n```"
+        },
+        {
+            "id": "p1_8",
+            "type": "content",
+            "title": "Decision Making",
+            "content": "# Short-Term Decisions\n\n## Relevant Costing\n\n| Relevant | Irrelevant |\n|----------|------------|\n| Future | Sunk |\n| Incremental | Committed |\n| Cash flow | Non-cash |\n\n## Decision Types\n\n| Decision | Key Factor |\n|----------|------------|\n| Make or buy | Incremental |\n| Special order | Contribution |\n| Shutdown | Avoidable costs |\n| Limiting factor | Contribution/unit |"
+        },
+        {
+            "id": "p1_9",
+            "type": "content",
+            "title": "Limiting Factors",
+            "content": "# Scarce Resources\n\n## Single Factor\n\n```\nContribution per Unit of Limiting Factor\n\nRank products and allocate\n```\n\n## Multiple Factors\n\n```\nLinear programming:\n\nMaximize C = aX + bY\nSubject to constraints\n```\n\n## Shadow Price\n\n```\nValue of one more unit of\nscarce resource\n```"
+        },
+        {
+            "id": "p1_quiz_3",
+            "type": "quiz",
+            "title": "Decision Quiz",
+            "content": "Test your decision-making!",
+            "quizQuestion": "Sunk costs are?",
+            "quizOptions": [
+                "Relevant",
+                "Irrelevant",
+                "Future",
+                "Variable"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1_10",
+            "type": "content",
+            "title": "Pricing Decisions",
+            "content": "# Pricing Strategies\n\n## Cost-Based\n\n| Method | Formula |\n|--------|--------|\n| Full cost-plus | Total cost + margin |\n| Marginal | Variable + margin |\n\n## Market-Based\n\n| Strategy | Approach |\n|----------|----------|\n| Penetration | Low initial |\n| Skimming | High initial |\n| Competitive | Match market |\n| Premium | Above market |"
+        },
+        {
+            "id": "p1_11",
+            "type": "content",
+            "title": "Risk and Uncertainty",
+            "content": "# Dealing with Risk\n\n## Techniques\n\n| Technique | Method |\n|-----------|--------|\n| Expected value | Probability weighted |\n| Sensitivity | Change one variable |\n| Simulation | Multiple scenarios |\n| Decision trees | Mapped outcomes |\n\n## Expected Value\n\n```\nEV = Sum of (Probability x Outcome)\n```\n\n## Risk Attitude\n\n- Risk-averse\n- Risk-neutral\n- Risk-seeking"
+        },
+        {
+            "id": "p1_12",
+            "type": "content",
+            "title": "Performance Measurement",
+            "content": "# Measuring Performance\n\n## Responsibility Centers\n\n| Type | Accountable For |\n|------|----------------|\n| Cost | Costs |\n| Revenue | Revenue |\n| Profit | Both |\n| Investment | Return on assets |\n\n## Investment Center\n\n```\nROI = Profit / Capital Employed\n\nRI = Profit - (Capital x Cost)\n```"
+        },
+        {
+            "id": "p1_quiz_4",
+            "type": "quiz",
+            "title": "Performance Quiz",
+            "content": "Test your performance knowledge!",
+            "quizQuestion": "RI stands for Residual?",
+            "quizOptions": [
+                "Index",
+                "Income",
+                "Investment",
+                "Interest"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CIMA P1 - Management Accounting**!\n\n## Key Topics\n\n### Costing\n- ABC\n- Target costing\n- Life cycle\n- Throughput\n\n### Planning\n- Budgeting methods\n- Variance analysis\n\n### Decisions\n- Relevant costs\n- Limiting factors\n- Pricing\n- Risk\n\n### Control\n- Performance measurement\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| Target = Price - Profit | Costing |\n| EV = Sum P x O | Risk |\n| RI = Profit - Charge | Performance |\n\n## What is Next?\n\nExplore F1 - Financial Reporting!"
+        }
+    ]
+}

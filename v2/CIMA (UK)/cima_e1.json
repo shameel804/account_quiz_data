@@ -1,0 +1,5856 @@
+[
+    {
+        "q": "What is digital transformation?",
+        "type": "mcq",
+        "o": [
+            "The integration of digital technology into all areas of a business",
+            "Installing new computers",
+            "Creating a website",
+            "Buying software"
+        ]
+    },
+    {
+        "q": "Digital transformation fundamentally changes how businesses operate and deliver ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "reports",
+            "invoices",
+            "emails"
+        ]
+    },
+    {
+        "q": "Digital transformation is only about technology.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is a digital business model?",
+        "type": "mcq",
+        "o": [
+            "A way of creating value primarily through digital technologies",
+            "A physical store",
+            "Traditional manufacturing",
+            "Paper-based systems"
+        ]
+    },
+    {
+        "q": "What is a platform business model?",
+        "type": "mcq",
+        "o": [
+            "A model that creates value by facilitating exchanges between two or more groups",
+            "A single product company",
+            "A traditional retailer",
+            "A manufacturing business"
+        ]
+    },
+    {
+        "q": "Match digital business model types:",
+        "type": "match",
+        "left": [
+            "Platform",
+            "Subscription",
+            "Freemium",
+            "Marketplace"
+        ],
+        "right": [
+            "Connects users",
+            "Recurring revenue",
+            "Free basic, paid premium",
+            "Buyer-seller exchange"
+        ]
+    },
+    {
+        "q": "Examples of platform businesses include Uber, Airbnb, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Amazon"
+        ],
+        "other_options": [
+            "Ford",
+            "Coca-Cola",
+            "Walmart"
+        ]
+    },
+    {
+        "q": "Network effects occur when a product becomes more valuable as more people use it.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the subscription business model?",
+        "type": "mcq",
+        "o": [
+            "Charging customers recurring fees for ongoing access to products or services",
+            "One-time sales only",
+            "Free products only",
+            "Advertising-based only"
+        ]
+    },
+    {
+        "q": "What is the freemium model?",
+        "type": "mcq",
+        "o": [
+            "Offering basic features free and charging for premium features",
+            "Everything free",
+            "Everything paid",
+            "Only advertising revenue"
+        ]
+    },
+    {
+        "q": "Match revenue models with examples:",
+        "type": "match",
+        "left": [
+            "Advertising",
+            "Subscription",
+            "Transaction fee",
+            "Licensing"
+        ],
+        "right": [
+            "Google Ads",
+            "Netflix",
+            "PayPal",
+            "Microsoft Office"
+        ]
+    },
+    {
+        "q": "SaaS stands for Software as a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Service"
+        ],
+        "other_options": [
+            "System",
+            "Solution",
+            "Sale"
+        ]
+    },
+    {
+        "q": "Cloud computing delivers computing services over the internet.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cloud computing?",
+        "type": "mcq",
+        "o": [
+            "Delivery of computing services including servers, storage, and software over the internet",
+            "Local server installation",
+            "Desktop computing",
+            "Physical data centers only"
+        ]
+    },
+    {
+        "q": "What are the main cloud service models?",
+        "type": "mcq",
+        "o": [
+            "IaaS, PaaS, and SaaS",
+            "Only SaaS",
+            "Only IaaS",
+            "Only PaaS"
+        ]
+    },
+    {
+        "q": "Match cloud service models:",
+        "type": "match",
+        "left": [
+            "IaaS",
+            "PaaS",
+            "SaaS"
+        ],
+        "right": [
+            "Infrastructure as a Service",
+            "Platform as a Service",
+            "Software as a Service"
+        ]
+    },
+    {
+        "q": "IaaS provides virtualized computing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "resources"
+        ],
+        "other_options": [
+            "applications",
+            "software",
+            "websites"
+        ]
+    },
+    {
+        "q": "AWS, Azure, and Google Cloud are major cloud providers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is fintech?",
+        "type": "mcq",
+        "o": [
+            "Technology used to enhance or automate financial services",
+            "Traditional banking only",
+            "Physical money",
+            "Paper checks"
+        ]
+    },
+    {
+        "q": "What areas does fintech cover?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Payments and transfers",
+            "Lending and credit",
+            "Wealth management"
+        ]
+    },
+    {
+        "q": "Match fintech sectors with their innovations:",
+        "type": "match",
+        "left": [
+            "Payments",
+            "Lending",
+            "Insurance",
+            "Wealth management"
+        ],
+        "right": [
+            "Digital wallets",
+            "Peer-to-peer",
+            "Insurtech",
+            "Robo-advisors"
+        ]
+    },
+    {
+        "q": "Mobile payments allow transactions using smartphones and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "apps"
+        ],
+        "other_options": [
+            "cash",
+            "checks",
+            "coins"
+        ]
+    },
+    {
+        "q": "Open banking allows third parties to access financial data with customer consent.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is blockchain?",
+        "type": "mcq",
+        "o": [
+            "A distributed digital ledger that records transactions across many computers",
+            "A single database",
+            "A type of social media",
+            "An email system"
+        ]
+    },
+    {
+        "q": "What are key features of blockchain?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Decentralization",
+            "Immutability",
+            "Transparency"
+        ]
+    },
+    {
+        "q": "Match blockchain concepts:",
+        "type": "match",
+        "left": [
+            "Block",
+            "Chain",
+            "Node",
+            "Consensus"
+        ],
+        "right": [
+            "Group of transactions",
+            "Linked blocks",
+            "Network participant",
+            "Agreement mechanism"
+        ]
+    },
+    {
+        "q": "Cryptocurrency uses blockchain technology for secure digital ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transactions"
+        ],
+        "other_options": [
+            "storage",
+            "communication",
+            "marketing"
+        ]
+    },
+    {
+        "q": "Bitcoin was the first cryptocurrency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cryptocurrency?",
+        "type": "mcq",
+        "o": [
+            "Digital or virtual currency using cryptography for security",
+            "Physical coins",
+            "Bank notes",
+            "Credit cards"
+        ]
+    },
+    {
+        "q": "What is a smart contract?",
+        "type": "mcq",
+        "o": [
+            "Self-executing contracts with terms written into code",
+            "A paper contract",
+            "An email agreement",
+            "A verbal promise"
+        ]
+    },
+    {
+        "q": "Smart contracts automatically execute when predefined conditions are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "met"
+        ],
+        "other_options": [
+            "ignored",
+            "rejected",
+            "delayed"
+        ]
+    },
+    {
+        "q": "Ethereum is a blockchain platform known for smart contracts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is artificial intelligence (AI)?",
+        "type": "mcq",
+        "o": [
+            "Computer systems that can perform tasks typically requiring human intelligence",
+            "Basic calculators",
+            "Simple spreadsheets",
+            "Word processors"
+        ]
+    },
+    {
+        "q": "What is machine learning?",
+        "type": "mcq",
+        "o": [
+            "AI systems that improve through experience without explicit programming",
+            "Fixed algorithms only",
+            "Manual data entry",
+            "Rule-based systems only"
+        ]
+    },
+    {
+        "q": "Match AI concepts:",
+        "type": "match",
+        "left": [
+            "Machine learning",
+            "Deep learning",
+            "Natural language processing",
+            "Computer vision"
+        ],
+        "right": [
+            "Learning from data",
+            "Neural networks",
+            "Understanding text",
+            "Understanding images"
+        ]
+    },
+    {
+        "q": "AI can help finance functions in fraud detection, forecasting, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "automation"
+        ],
+        "other_options": [
+            "destruction",
+            "elimination",
+            "reduction"
+        ]
+    },
+    {
+        "q": "ChatGPT is an example of generative AI.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is robotic process automation (RPA)?",
+        "type": "mcq",
+        "o": [
+            "Software robots that automate repetitive rule-based tasks",
+            "Physical robots only",
+            "Manual processes",
+            "Human workers only"
+        ]
+    },
+    {
+        "q": "What tasks can RPA automate in finance?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Data entry",
+            "Invoice processing",
+            "Reconciliations"
+        ]
+    },
+    {
+        "q": "RPA bots mimic human actions in software ______.",
+        "type": "fill_blank",
+        "answers": [
+            "applications"
+        ],
+        "other_options": [
+            "buildings",
+            "factories",
+            "offices"
+        ]
+    },
+    {
+        "q": "RPA can work 24/7 without breaks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data analytics?",
+        "type": "mcq",
+        "o": [
+            "The process of examining data to draw conclusions and insights",
+            "Just storing data",
+            "Deleting data",
+            "Printing data"
+        ]
+    },
+    {
+        "q": "What are the types of data analytics?",
+        "type": "mcq",
+        "o": [
+            "Descriptive, diagnostic, predictive, and prescriptive",
+            "Only descriptive",
+            "Only predictive",
+            "Only diagnostic"
+        ]
+    },
+    {
+        "q": "Match analytics types with their purpose:",
+        "type": "match",
+        "left": [
+            "Descriptive",
+            "Diagnostic",
+            "Predictive",
+            "Prescriptive"
+        ],
+        "right": [
+            "What happened",
+            "Why it happened",
+            "What will happen",
+            "What should we do"
+        ]
+    },
+    {
+        "q": "Descriptive analytics summarizes historical ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "opinions",
+            "guesses",
+            "feelings"
+        ]
+    },
+    {
+        "q": "Predictive analytics uses statistical models to forecast future events.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is big data?",
+        "type": "mcq",
+        "o": [
+            "Extremely large data sets that require advanced tools to process",
+            "Small spreadsheets",
+            "A single database",
+            "Paper records"
+        ]
+    },
+    {
+        "q": "What are the Vs of big data?",
+        "type": "mcq",
+        "o": [
+            "Volume, velocity, variety, veracity, and value",
+            "Only volume",
+            "Only velocity",
+            "Only variety"
+        ]
+    },
+    {
+        "q": "Match big data Vs with their meaning:",
+        "type": "match",
+        "left": [
+            "Volume",
+            "Velocity",
+            "Variety",
+            "Veracity"
+        ],
+        "right": [
+            "Amount of data",
+            "Speed of data",
+            "Types of data",
+            "Accuracy of data"
+        ]
+    },
+    {
+        "q": "Big data analytics helps identify patterns and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "trends"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "mistakes"
+        ]
+    },
+    {
+        "q": "Data lakes store raw data in its native format.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data visualization?",
+        "type": "mcq",
+        "o": [
+            "Graphical representation of data to communicate insights",
+            "Raw data storage",
+            "Data deletion",
+            "Data encryption"
+        ]
+    },
+    {
+        "q": "What are common data visualization tools?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Tableau",
+            "Power BI",
+            "Excel charts"
+        ]
+    },
+    {
+        "q": "Match visualization types with their use:",
+        "type": "match",
+        "left": [
+            "Bar chart",
+            "Line chart",
+            "Pie chart",
+            "Dashboard"
+        ],
+        "right": [
+            "Comparing categories",
+            "Trends over time",
+            "Proportions",
+            "KPI overview"
+        ]
+    },
+    {
+        "q": "Dashboards provide real-time views of key performance ______.",
+        "type": "fill_blank",
+        "answers": [
+            "indicators"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Good data visualization makes complex data easier to understand.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cybersecurity?",
+        "type": "mcq",
+        "o": [
+            "Protection of computer systems and networks from digital attacks",
+            "Physical security only",
+            "Office security",
+            "Fire safety"
+        ]
+    },
+    {
+        "q": "What are common cyber threats?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Malware",
+            "Phishing",
+            "Ransomware"
+        ]
+    },
+    {
+        "q": "Match cyber threats with their descriptions:",
+        "type": "match",
+        "left": [
+            "Malware",
+            "Phishing",
+            "Ransomware",
+            "DDoS"
+        ],
+        "right": [
+            "Malicious software",
+            "Deceptive emails",
+            "Encryption for ransom",
+            "Overwhelming servers"
+        ]
+    },
+    {
+        "q": "Cybersecurity is critical for protecting financial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "furniture"
+        ]
+    },
+    {
+        "q": "Multi-factor authentication adds an extra layer of security.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data governance?",
+        "type": "mcq",
+        "o": [
+            "The management of data availability, usability, integrity, and security",
+            "Just storing data",
+            "Deleting data",
+            "Ignoring data"
+        ]
+    },
+    {
+        "q": "What is a data governance framework?",
+        "type": "mcq",
+        "o": [
+            "Policies, standards, and processes for managing data assets",
+            "Only technology",
+            "Only people",
+            "Only storage"
+        ]
+    },
+    {
+        "q": "Match data governance elements:",
+        "type": "match",
+        "left": [
+            "Data quality",
+            "Data security",
+            "Data privacy",
+            "Data stewardship"
+        ],
+        "right": [
+            "Accuracy and completeness",
+            "Protection from threats",
+            "Personal data protection",
+            "Responsibility for data"
+        ]
+    },
+    {
+        "q": "Data governance ensures data is managed as a strategic ______.",
+        "type": "fill_blank",
+        "answers": [
+            "asset"
+        ],
+        "other_options": [
+            "problem",
+            "liability",
+            "expense"
+        ]
+    },
+    {
+        "q": "Master data management ensures consistency of key business data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital disruption?",
+        "type": "mcq",
+        "o": [
+            "Change caused when new digital technologies transform traditional business models",
+            "Minor technology updates",
+            "Routine maintenance",
+            "Standard upgrades"
+        ]
+    },
+    {
+        "q": "Which industries have been disrupted by digital technology?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Retail (e-commerce)",
+            "Banking (fintech)",
+            "Media (streaming)"
+        ]
+    },
+    {
+        "q": "Digital disruption often comes from outside traditional ______.",
+        "type": "fill_blank",
+        "answers": [
+            "industry players"
+        ],
+        "other_options": [
+            "countries",
+            "planets",
+            "offices"
+        ]
+    },
+    {
+        "q": "Netflix disrupted the traditional video rental business.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the Internet of Things (IoT)?",
+        "type": "mcq",
+        "o": [
+            "Network of physical devices connected to the internet to collect and share data",
+            "Just computers",
+            "Just phones",
+            "Just tablets"
+        ]
+    },
+    {
+        "q": "What are examples of IoT devices?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Smart thermostats",
+            "Fitness trackers",
+            "Connected vehicles"
+        ]
+    },
+    {
+        "q": "Match IoT applications with their sectors:",
+        "type": "match",
+        "left": [
+            "Smart meters",
+            "Connected machinery",
+            "Wearable health devices",
+            "Smart home"
+        ],
+        "right": [
+            "Utilities",
+            "Manufacturing",
+            "Healthcare",
+            "Consumer"
+        ]
+    },
+    {
+        "q": "IoT generates vast amounts of ______ that can be analyzed.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "noise",
+            "heat",
+            "light"
+        ]
+    },
+    {
+        "q": "IoT can improve efficiency in supply chain management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital strategy?",
+        "type": "mcq",
+        "o": [
+            "A plan for using digital technologies to achieve business objectives",
+            "Just buying technology",
+            "Just hiring IT staff",
+            "Just creating a website"
+        ]
+    },
+    {
+        "q": "What should a digital strategy address?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Customer experience",
+            "Operational efficiency",
+            "Business model innovation"
+        ]
+    },
+    {
+        "q": "Match digital strategy components:",
+        "type": "match",
+        "left": [
+            "Vision",
+            "Capabilities",
+            "Governance",
+            "Roadmap"
+        ],
+        "right": [
+            "Future state",
+            "Skills and technology",
+            "Decision-making",
+            "Implementation plan"
+        ]
+    },
+    {
+        "q": "Digital strategy should align with overall business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "strategy"
+        ],
+        "other_options": [
+            "lunch",
+            "vacation",
+            "holiday"
+        ]
+    },
+    {
+        "q": "Successful digital transformation requires leadership commitment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is customer experience (CX)?",
+        "type": "mcq",
+        "o": [
+            "The sum of all interactions a customer has with a company",
+            "Just customer service calls",
+            "Just purchases",
+            "Just marketing"
+        ]
+    },
+    {
+        "q": "What is digital customer experience?",
+        "type": "mcq",
+        "o": [
+            "Customer interactions through digital channels and touchpoints",
+            "In-store experience only",
+            "Phone calls only",
+            "Mail only"
+        ]
+    },
+    {
+        "q": "Match customer experience concepts:",
+        "type": "match",
+        "left": [
+            "Customer journey",
+            "Touchpoints",
+            "Omnichannel",
+            "Personalization"
+        ],
+        "right": [
+            "Path from awareness to purchase",
+            "Points of interaction",
+            "Seamless across channels",
+            "Tailored experiences"
+        ]
+    },
+    {
+        "q": "Customer experience is a key competitive ______.",
+        "type": "fill_blank",
+        "answers": [
+            "differentiator"
+        ],
+        "other_options": [
+            "problem",
+            "liability",
+            "expense"
+        ]
+    },
+    {
+        "q": "Personalization uses data to tailor experiences to individual customers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is e-commerce?",
+        "type": "mcq",
+        "o": [
+            "Buying and selling goods or services over the internet",
+            "In-store shopping only",
+            "Catalog shopping",
+            "Door-to-door sales"
+        ]
+    },
+    {
+        "q": "What are types of e-commerce?",
+        "type": "mcq",
+        "o": [
+            "B2C, B2B, C2C, and C2B",
+            "Only B2C",
+            "Only B2B",
+            "Only C2C"
+        ]
+    },
+    {
+        "q": "Match e-commerce types:",
+        "type": "match",
+        "left": [
+            "B2C",
+            "B2B",
+            "C2C",
+            "C2B"
+        ],
+        "right": [
+            "Business to consumer",
+            "Business to business",
+            "Consumer to consumer",
+            "Consumer to business"
+        ]
+    },
+    {
+        "q": "B2C e-commerce is the most common model for online ______.",
+        "type": "fill_blank",
+        "answers": [
+            "retail"
+        ],
+        "other_options": [
+            "manufacturing",
+            "mining",
+            "farming"
+        ]
+    },
+    {
+        "q": "Amazon is an example of a major e-commerce platform.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital marketing?",
+        "type": "mcq",
+        "o": [
+            "Marketing products or services using digital channels",
+            "Print advertising only",
+            "TV advertising only",
+            "Radio advertising only"
+        ]
+    },
+    {
+        "q": "What digital marketing channels exist?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Social media",
+            "Search engine marketing",
+            "Email marketing"
+        ]
+    },
+    {
+        "q": "Match digital marketing terms:",
+        "type": "match",
+        "left": [
+            "SEO",
+            "PPC",
+            "Content marketing",
+            "Influencer marketing"
+        ],
+        "right": [
+            "Organic search",
+            "Pay per click",
+            "Valuable content",
+            "Social media personalities"
+        ]
+    },
+    {
+        "q": "Digital marketing allows for more targeted and measurable ______.",
+        "type": "fill_blank",
+        "answers": [
+            "campaigns"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "furniture"
+        ]
+    },
+    {
+        "q": "Social media marketing can build brand awareness and engagement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is agile methodology?",
+        "type": "mcq",
+        "o": [
+            "An iterative approach to project management and software development",
+            "Traditional waterfall only",
+            "No methodology",
+            "Random approach"
+        ]
+    },
+    {
+        "q": "What are key principles of agile?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Iterative development",
+            "Customer collaboration",
+            "Responding to change"
+        ]
+    },
+    {
+        "q": "Match agile concepts:",
+        "type": "match",
+        "left": [
+            "Sprint",
+            "Scrum",
+            "Kanban",
+            "Backlog"
+        ],
+        "right": [
+            "Short iteration",
+            "Framework with roles",
+            "Visual workflow",
+            "Prioritized work list"
+        ]
+    },
+    {
+        "q": "Agile emphasizes working software over comprehensive ______.",
+        "type": "fill_blank",
+        "answers": [
+            "documentation"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "furniture"
+        ]
+    },
+    {
+        "q": "DevOps combines development and operations for faster delivery.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the role of the CFO in digital transformation?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Evaluating digital investments",
+            "Managing digital risks",
+            "Driving finance function transformation"
+        ]
+    },
+    {
+        "q": "The finance function can use digital technologies for better ______.",
+        "type": "fill_blank",
+        "answers": [
+            "insights"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "CFOs are increasingly expected to be digital leaders.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the digital finance function?",
+        "type": "mcq",
+        "o": [
+            "A finance function that leverages digital technologies for efficiency and insight",
+            "Traditional paper-based accounting",
+            "Manual spreadsheets only",
+            "Physical filing systems"
+        ]
+    },
+    {
+        "q": "What technologies can transform the finance function?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Cloud ERP",
+            "RPA",
+            "AI and analytics"
+        ]
+    },
+    {
+        "q": "Match finance function transformations:",
+        "type": "match",
+        "left": [
+            "Automated reporting",
+            "Real-time data",
+            "Predictive analytics",
+            "Self-service"
+        ],
+        "right": [
+            "Faster close",
+            "Immediate insights",
+            "Forward-looking",
+            "User-generated reports"
+        ]
+    },
+    {
+        "q": "Digital technologies enable finance professionals to focus on value-added ______.",
+        "type": "fill_blank",
+        "answers": [
+            "activities"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Continuous accounting uses automation to spread activities throughout the period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an ERP system?",
+        "type": "mcq",
+        "o": [
+            "Enterprise Resource Planning - integrated software managing core business processes",
+            "Email system",
+            "Website builder",
+            "Word processor"
+        ]
+    },
+    {
+        "q": "What business functions can ERP integrate?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Finance and accounting",
+            "Human resources",
+            "Supply chain"
+        ]
+    },
+    {
+        "q": "Match ERP benefits:",
+        "type": "match",
+        "left": [
+            "Integration",
+            "Standardization",
+            "Visibility",
+            "Efficiency"
+        ],
+        "right": [
+            "Connected data",
+            "Consistent processes",
+            "Real-time information",
+            "Reduced manual work"
+        ]
+    },
+    {
+        "q": "Major ERP vendors include SAP, Oracle, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Microsoft"
+        ],
+        "other_options": [
+            "Facebook",
+            "Twitter",
+            "Instagram"
+        ]
+    },
+    {
+        "q": "Cloud ERP is replacing on-premise ERP in many organizations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is process automation in finance?",
+        "type": "mcq",
+        "o": [
+            "Using technology to perform routine finance tasks without human intervention",
+            "Manual processing",
+            "Paper-based systems",
+            "Physical filing"
+        ]
+    },
+    {
+        "q": "Which finance processes can benefit from automation?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Accounts payable",
+            "Accounts receivable",
+            "Month-end close"
+        ]
+    },
+    {
+        "q": "Rearrange the order of process automation maturity:",
+        "type": "rearrange",
+        "words": [
+            "Manual processes",
+            "Basic automation",
+            "RPA implementation",
+            "Intelligent automation",
+            "Autonomous finance"
+        ]
+    },
+    {
+        "q": "Automation reduces errors and increases processing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "speed"
+        ],
+        "other_options": [
+            "problems",
+            "costs",
+            "failures"
+        ]
+    },
+    {
+        "q": "Straight-through processing enables transactions without manual intervention.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the finance shared services model?",
+        "type": "mcq",
+        "o": [
+            "Centralizing transactional finance activities into a single unit for multiple business units",
+            "Decentralized finance",
+            "No finance function",
+            "Outsourced only"
+        ]
+    },
+    {
+        "q": "What are benefits of finance shared services?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Cost reduction",
+            "Standardization",
+            "Improved controls"
+        ]
+    },
+    {
+        "q": "Match shared services concepts:",
+        "type": "match",
+        "left": [
+            "GBS",
+            "SSC",
+            "COE",
+            "BPO"
+        ],
+        "right": [
+            "Global Business Services",
+            "Shared Service Center",
+            "Center of Excellence",
+            "Business Process Outsourcing"
+        ]
+    },
+    {
+        "q": "Shared services typically handle high-volume, standardized ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transactions"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Digital technologies are transforming shared services through automation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is financial planning and analysis (FP&A)?",
+        "type": "mcq",
+        "o": [
+            "Activities that support financial decision-making through planning, budgeting, and analysis",
+            "Transaction processing only",
+            "Compliance only",
+            "Reporting only"
+        ]
+    },
+    {
+        "q": "What does digital FP&A enable?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Driver-based planning",
+            "Scenario modeling",
+            "Rolling forecasts"
+        ]
+    },
+    {
+        "q": "Match FP&A concepts:",
+        "type": "match",
+        "left": [
+            "Budgeting",
+            "Forecasting",
+            "Variance analysis",
+            "Scenario planning"
+        ],
+        "right": [
+            "Annual targets",
+            "Predicting outcomes",
+            "Comparing actual to plan",
+            "What-if analysis"
+        ]
+    },
+    {
+        "q": "Modern FP&A tools provide real-time data and predictive ______.",
+        "type": "fill_blank",
+        "answers": [
+            "analytics"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Rolling forecasts update continuously rather than being fixed annually.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital payments?",
+        "type": "mcq",
+        "o": [
+            "Electronic transfer of value between parties",
+            "Cash only",
+            "Checks only",
+            "Money orders only"
+        ]
+    },
+    {
+        "q": "What types of digital payments exist?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Credit/debit cards",
+            "Mobile payments",
+            "Cryptocurrency"
+        ]
+    },
+    {
+        "q": "Match payment innovations:",
+        "type": "match",
+        "left": [
+            "Contactless",
+            "Digital wallet",
+            "Real-time payments",
+            "Buy now pay later"
+        ],
+        "right": [
+            "Tap to pay",
+            "Apple Pay/Google Pay",
+            "Instant transfers",
+            "BNPL installments"
+        ]
+    },
+    {
+        "q": "Open banking APIs enable third-party access to payment ______.",
+        "type": "fill_blank",
+        "answers": [
+            "services"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Payment fraud is a significant risk in digital transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is regtech?",
+        "type": "mcq",
+        "o": [
+            "Technology used to manage regulatory compliance",
+            "Regular technology",
+            "Registration technology",
+            "Retail technology"
+        ]
+    },
+    {
+        "q": "What compliance areas can regtech support?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "KYC/AML",
+            "Regulatory reporting",
+            "Risk management"
+        ]
+    },
+    {
+        "q": "Match regtech applications:",
+        "type": "match",
+        "left": [
+            "KYC",
+            "AML",
+            "Regulatory reporting",
+            "Compliance monitoring"
+        ],
+        "right": [
+            "Identity verification",
+            "Anti-money laundering",
+            "Automated submissions",
+            "Real-time surveillance"
+        ]
+    },
+    {
+        "q": "Regtech can reduce compliance costs and improve ______.",
+        "type": "fill_blank",
+        "answers": [
+            "accuracy"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "AI helps regtech analyze large volumes of regulatory requirements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are digital ethics?",
+        "type": "mcq",
+        "o": [
+            "Ethical considerations related to digital technologies and data",
+            "Physical ethics only",
+            "Traditional ethics only",
+            "No ethics needed"
+        ]
+    },
+    {
+        "q": "What ethical issues arise from AI?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Bias in algorithms",
+            "Privacy concerns",
+            "Transparency of decisions"
+        ]
+    },
+    {
+        "q": "Match digital ethics concepts:",
+        "type": "match",
+        "left": [
+            "Algorithmic bias",
+            "Data privacy",
+            "Digital divide",
+            "AI transparency"
+        ],
+        "right": [
+            "Unfair outcomes",
+            "Personal information",
+            "Access inequality",
+            "Explainable AI"
+        ]
+    },
+    {
+        "q": "Responsible AI considers fairness, accountability, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transparency"
+        ],
+        "other_options": [
+            "speed",
+            "cost",
+            "profit"
+        ]
+    },
+    {
+        "q": "Organizations should have ethical frameworks for AI use.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data privacy?",
+        "type": "mcq",
+        "o": [
+            "The right of individuals to control how their personal data is collected and used",
+            "No privacy rights",
+            "Only business data",
+            "Physical privacy only"
+        ]
+    },
+    {
+        "q": "What regulations govern data privacy?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "GDPR (Europe)",
+            "CCPA (California)",
+            "Various national laws"
+        ]
+    },
+    {
+        "q": "Match privacy concepts:",
+        "type": "match",
+        "left": [
+            "Consent",
+            "Right to erasure",
+            "Data portability",
+            "Privacy by design"
+        ],
+        "right": [
+            "Permission required",
+            "Right to be forgotten",
+            "Transfer your data",
+            "Built-in protection"
+        ]
+    },
+    {
+        "q": "GDPR requires organizations to protect personal data of ______ citizens.",
+        "type": "fill_blank",
+        "answers": [
+            "EU"
+        ],
+        "other_options": [
+            "US",
+            "UK",
+            "Australian"
+        ]
+    },
+    {
+        "q": "Data breaches must be reported to regulators within 72 hours under GDPR.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is continuous close?",
+        "type": "mcq",
+        "o": [
+            "An approach where accounting activities are spread throughout the period for faster close",
+            "Annual close only",
+            "No close process",
+            "Delayed close"
+        ]
+    },
+    {
+        "q": "Continuous close enables finance to focus on analysis rather than ______.",
+        "type": "fill_blank",
+        "answers": [
+            "processing"
+        ],
+        "other_options": [
+            "planning",
+            "strategy",
+            "insights"
+        ]
+    },
+    {
+        "q": "Automation is key to achieving continuous close.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is integrated reporting?",
+        "type": "mcq",
+        "o": [
+            "Reporting that combines financial and non-financial information",
+            "Financial reporting only",
+            "Tax reporting only",
+            "HR reporting only"
+        ]
+    },
+    {
+        "q": "Integrated reporting considers multiple capitals including financial, intellectual, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "social"
+        ],
+        "other_options": [
+            "monetary",
+            "dollar",
+            "numerical"
+        ]
+    },
+    {
+        "q": "Integrated reporting helps stakeholders understand long-term value creation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is ESG reporting?",
+        "type": "mcq",
+        "o": [
+            "Reporting on Environmental, Social, and Governance factors",
+            "Financial reporting only",
+            "Tax reporting only",
+            "Operational reporting only"
+        ]
+    },
+    {
+        "q": "ESG reporting is increasingly demanded by investors and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "regulators"
+        ],
+        "other_options": [
+            "competitors",
+            "critics",
+            "enemies"
+        ]
+    },
+    {
+        "q": "Digital tools can help automate ESG data collection and reporting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is API in technology?",
+        "type": "mcq",
+        "o": [
+            "Application Programming Interface - allows software applications to communicate",
+            "Automatic Payment Interface",
+            "Accounting Process Interface",
+            "Analytical Performance Index"
+        ]
+    },
+    {
+        "q": "APIs enable integration between different software ______.",
+        "type": "fill_blank",
+        "answers": [
+            "systems"
+        ],
+        "other_options": [
+            "buildings",
+            "offices",
+            "vehicles"
+        ]
+    },
+    {
+        "q": "Open APIs have enabled the growth of open banking.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between structured and unstructured data?",
+        "type": "mcq",
+        "o": [
+            "Structured is organized in defined formats; unstructured is not",
+            "They are the same",
+            "Unstructured is more organized",
+            "Structured is random"
+        ]
+    },
+    {
+        "q": "Match data types with examples:",
+        "type": "match",
+        "left": [
+            "Structured",
+            "Semi-structured",
+            "Unstructured"
+        ],
+        "right": [
+            "Databases and spreadsheets",
+            "XML and JSON",
+            "Emails, videos, documents"
+        ]
+    },
+    {
+        "q": "Unstructured data makes up the majority of enterprise ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "employees"
+        ]
+    },
+    {
+        "q": "AI and machine learning can help extract insights from unstructured data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the digital skills gap?",
+        "type": "mcq",
+        "o": [
+            "The difference between digital skills employees have and what organizations need",
+            "No skills difference",
+            "Only technical roles",
+            "Physical abilities"
+        ]
+    },
+    {
+        "q": "Finance professionals need to develop digital ______.",
+        "type": "fill_blank",
+        "answers": [
+            "literacy"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "offices"
+        ]
+    },
+    {
+        "q": "Upskilling and reskilling are essential for digital transformation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What digital skills do finance professionals need?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Data analytics",
+            "Technology understanding",
+            "Change management"
+        ]
+    },
+    {
+        "q": "Match skills with their importance:",
+        "type": "match",
+        "left": [
+            "Data literacy",
+            "Tech savvy",
+            "Agility",
+            "Communication"
+        ],
+        "right": [
+            "Understanding data",
+            "Using digital tools",
+            "Adapting to change",
+            "Explaining insights"
+        ]
+    },
+    {
+        "q": "T-shaped professionals combine deep expertise with broad ______.",
+        "type": "fill_blank",
+        "answers": [
+            "skills"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Lifelong learning is essential in the digital age.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is change management in digital transformation?",
+        "type": "mcq",
+        "o": [
+            "Managing the people side of organizational change to achieve business outcomes",
+            "Just technology implementation",
+            "Ignoring people",
+            "Only process changes"
+        ]
+    },
+    {
+        "q": "What factors affect change readiness?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Leadership support",
+            "Culture",
+            "Communication"
+        ]
+    },
+    {
+        "q": "Match change management concepts:",
+        "type": "match",
+        "left": [
+            "Resistance",
+            "Adoption",
+            "Champions",
+            "Communication"
+        ],
+        "right": [
+            "Opposition to change",
+            "Acceptance of new ways",
+            "Internal advocates",
+            "Keeping people informed"
+        ]
+    },
+    {
+        "q": "Digital transformation fails without effective change ______.",
+        "type": "fill_blank",
+        "answers": [
+            "management"
+        ],
+        "other_options": [
+            "avoidance",
+            "denial",
+            "rejection"
+        ]
+    },
+    {
+        "q": "People are often the biggest challenge in digital transformation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital governance?",
+        "type": "mcq",
+        "o": [
+            "Frameworks for managing digital assets, technologies, and initiatives",
+            "No governance needed",
+            "Only IT governance",
+            "Physical governance only"
+        ]
+    },
+    {
+        "q": "Digital governance ensures alignment between digital initiatives and business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "objectives"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Clear digital governance helps prioritize investment and manage risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is real-time reporting?",
+        "type": "mcq",
+        "o": [
+            "Financial reporting with minimal delay between events and reports",
+            "Annual reporting only",
+            "Monthly reporting only",
+            "Delayed reporting"
+        ]
+    },
+    {
+        "q": "Real-time reporting enables faster decision-______.",
+        "type": "fill_blank",
+        "answers": [
+            "making"
+        ],
+        "other_options": [
+            "avoidance",
+            "delay",
+            "rejection"
+        ]
+    },
+    {
+        "q": "Digital technologies enable real-time visibility into business performance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a digital twin?",
+        "type": "mcq",
+        "o": [
+            "A virtual replica of a physical object, process, or system",
+            "Two physical copies",
+            "A backup system",
+            "Photo copies"
+        ]
+    },
+    {
+        "q": "Digital twins can be used for simulation and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "optimization"
+        ],
+        "other_options": [
+            "deletion",
+            "destruction",
+            "removal"
+        ]
+    },
+    {
+        "q": "Digital twins are used in manufacturing, healthcare, and smart cities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the public cloud?",
+        "type": "mcq",
+        "o": [
+            "Cloud services provided over the public internet by third parties",
+            "Private cloud only",
+            "On-premise only",
+            "No cloud"
+        ]
+    },
+    {
+        "q": "What is hybrid cloud?",
+        "type": "mcq",
+        "o": [
+            "A mix of public cloud, private cloud, and on-premise infrastructure",
+            "Public cloud only",
+            "Private cloud only",
+            "On-premise only"
+        ]
+    },
+    {
+        "q": "Match cloud deployment models:",
+        "type": "match",
+        "left": [
+            "Public cloud",
+            "Private cloud",
+            "Hybrid cloud",
+            "Multi-cloud"
+        ],
+        "right": [
+            "Shared infrastructure",
+            "Dedicated infrastructure",
+            "Mixed approach",
+            "Multiple providers"
+        ]
+    },
+    {
+        "q": "Cloud security is a shared responsibility between provider and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "customer"
+        ],
+        "other_options": [
+            "competitor",
+            "regulator",
+            "media"
+        ]
+    },
+    {
+        "q": "Organizations often use multi-cloud strategies to avoid vendor lock-in.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital financial inclusion?",
+        "type": "mcq",
+        "o": [
+            "Using digital technologies to provide financial services to underserved populations",
+            "Excluding people from finance",
+            "Traditional banking only",
+            "Cash only"
+        ]
+    },
+    {
+        "q": "Mobile banking has increased financial inclusion in developing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "countries"
+        ],
+        "other_options": [
+            "cities",
+            "offices",
+            "buildings"
+        ]
+    },
+    {
+        "q": "M-Pesa in Kenya is an example of successful digital financial inclusion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is zero-based budgeting in a digital context?",
+        "type": "mcq",
+        "o": [
+            "Budgeting from scratch each period, enabled by digital tools",
+            "No budgeting",
+            "Traditional incremental budgeting",
+            "Fixed budgets"
+        ]
+    },
+    {
+        "q": "Digital tools can make zero-based budgeting more ______.",
+        "type": "fill_blank",
+        "answers": [
+            "practical"
+        ],
+        "other_options": [
+            "difficult",
+            "impossible",
+            "problematic"
+        ]
+    },
+    {
+        "q": "AI can help identify cost reduction opportunities in ZBB.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is intelligent automation?",
+        "type": "mcq",
+        "o": [
+            "Combining RPA with AI and machine learning for more complex automation",
+            "Basic RPA only",
+            "Manual processes",
+            "No automation"
+        ]
+    },
+    {
+        "q": "Intelligent automation can handle unstructured data and make ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decisions"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Hyperautomation extends automation across the entire organization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cognitive automation?",
+        "type": "mcq",
+        "o": [
+            "Automation that uses AI to mimic human judgment and learning",
+            "Simple rule-based automation",
+            "Manual processing",
+            "No automation"
+        ]
+    },
+    {
+        "q": "Cognitive automation can process natural language and images.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is optical character recognition (OCR)?",
+        "type": "mcq",
+        "o": [
+            "Technology that converts images of text into machine-readable text",
+            "Voice recognition",
+            "Face recognition",
+            "Fingerprint scanning"
+        ]
+    },
+    {
+        "q": "OCR enables digitization of paper ______.",
+        "type": "fill_blank",
+        "answers": [
+            "documents"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "equipment"
+        ]
+    },
+    {
+        "q": "Invoice processing can use OCR to extract data from scanned documents.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is natural language processing (NLP)?",
+        "type": "mcq",
+        "o": [
+            "AI that enables computers to understand human language",
+            "Programming languages",
+            "Foreign languages",
+            "Sign language"
+        ]
+    },
+    {
+        "q": "NLP powers chatbots, sentiment analysis, and text ______.",
+        "type": "fill_blank",
+        "answers": [
+            "analytics"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Virtual assistants like Siri and Alexa use NLP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a chatbot?",
+        "type": "mcq",
+        "o": [
+            "Software that simulates human conversation through text or voice",
+            "A human agent",
+            "An email system",
+            "A phone system"
+        ]
+    },
+    {
+        "q": "AI-powered chatbots can handle routine customer ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inquiries"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "equipment"
+        ]
+    },
+    {
+        "q": "Chatbots can reduce costs and improve response times.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is predictive maintenance?",
+        "type": "mcq",
+        "o": [
+            "Using data and AI to predict when equipment will fail",
+            "Fixing equipment after it breaks",
+            "Never maintaining equipment",
+            "Random maintenance"
+        ]
+    },
+    {
+        "q": "Predictive maintenance uses IoT sensors to collect equipment ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Predictive maintenance reduces downtime and maintenance costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is edge computing?",
+        "type": "mcq",
+        "o": [
+            "Processing data near the source rather than in centralized cloud",
+            "Central cloud only",
+            "No processing",
+            "Manual processing"
+        ]
+    },
+    {
+        "q": "Edge computing reduces latency by processing data closer to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "users"
+        ],
+        "other_options": [
+            "headquarters",
+            "servers",
+            "data centers"
+        ]
+    },
+    {
+        "q": "IoT devices often benefit from edge computing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is 5G technology?",
+        "type": "mcq",
+        "o": [
+            "Fifth generation mobile network with faster speeds and lower latency",
+            "Fourth generation",
+            "Third generation",
+            "Landline"
+        ]
+    },
+    {
+        "q": "5G enables real-time applications and massive IoT ______.",
+        "type": "fill_blank",
+        "answers": [
+            "connectivity"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "5G is an enabler for autonomous vehicles and smart cities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is augmented reality (AR)?",
+        "type": "mcq",
+        "o": [
+            "Technology that overlays digital content on the real world",
+            "Complete virtual world",
+            "No technology",
+            "Traditional video"
+        ]
+    },
+    {
+        "q": "What is virtual reality (VR)?",
+        "type": "mcq",
+        "o": [
+            "Technology that creates a fully immersive digital environment",
+            "Augmented reality",
+            "Traditional video",
+            "Real world only"
+        ]
+    },
+    {
+        "q": "Match extended reality technologies:",
+        "type": "match",
+        "left": [
+            "AR",
+            "VR",
+            "MR",
+            "XR"
+        ],
+        "right": [
+            "Digital overlay",
+            "Fully virtual",
+            "Mixed reality",
+            "Extended reality umbrella"
+        ]
+    },
+    {
+        "q": "AR can enhance training, maintenance, and customer ______.",
+        "type": "fill_blank",
+        "answers": [
+            "experiences"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "The metaverse combines AR, VR, and other technologies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a neobank?",
+        "type": "mcq",
+        "o": [
+            "A digital-only bank with no physical branches",
+            "A traditional bank",
+            "A central bank",
+            "An investment bank"
+        ]
+    },
+    {
+        "q": "Neobanks offer banking services through mobile apps and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "websites"
+        ],
+        "other_options": [
+            "branches",
+            "ATMs",
+            "offices"
+        ]
+    },
+    {
+        "q": "Revolut, Monzo, and Starling are examples of neobanks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is embedded finance?",
+        "type": "mcq",
+        "o": [
+            "Financial services integrated into non-financial platforms and apps",
+            "Standalone banking",
+            "Traditional finance only",
+            "No integration"
+        ]
+    },
+    {
+        "q": "Buy now pay later at checkout is an example of embedded ______.",
+        "type": "fill_blank",
+        "answers": [
+            "finance"
+        ],
+        "other_options": [
+            "shopping",
+            "browsing",
+            "viewing"
+        ]
+    },
+    {
+        "q": "Embedded finance blurs the lines between financial and non-financial companies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Banking as a Service (BaaS)?",
+        "type": "mcq",
+        "o": [
+            "Allowing non-banks to offer financial services via APIs",
+            "Traditional banking only",
+            "No banking services",
+            "Physical branches only"
+        ]
+    },
+    {
+        "q": "BaaS enables companies to embed financial products without a banking ______.",
+        "type": "fill_blank",
+        "answers": [
+            "license"
+        ],
+        "other_options": [
+            "building",
+            "employee",
+            "computer"
+        ]
+    },
+    {
+        "q": "BaaS is powered by open banking APIs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a digital wallet?",
+        "type": "mcq",
+        "o": [
+            "An app that stores payment information for digital transactions",
+            "A physical wallet",
+            "A bank account",
+            "Cash storage"
+        ]
+    },
+    {
+        "q": "Apple Pay, Google Pay, and Samsung Pay are examples of digital ______.",
+        "type": "fill_blank",
+        "answers": [
+            "wallets"
+        ],
+        "other_options": [
+            "phones",
+            "computers",
+            "tablets"
+        ]
+    },
+    {
+        "q": "Digital wallets use tokenization to secure payment credentials.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is tokenization in payments?",
+        "type": "mcq",
+        "o": [
+            "Replacing sensitive data with unique identification symbols",
+            "Cash handling",
+            "Paper checks",
+            "Manual entry"
+        ]
+    },
+    {
+        "q": "Tokenization protects card numbers by substituting with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "tokens"
+        ],
+        "other_options": [
+            "numbers",
+            "letters",
+            "symbols"
+        ]
+    },
+    {
+        "q": "Tokenization reduces the risk of payment fraud.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is peer-to-peer (P2P) lending?",
+        "type": "mcq",
+        "o": [
+            "Lending directly between individuals via online platforms",
+            "Bank lending only",
+            "Government lending",
+            "No lending"
+        ]
+    },
+    {
+        "q": "P2P platforms connect borrowers directly with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "lenders"
+        ],
+        "other_options": [
+            "banks",
+            "governments",
+            "regulators"
+        ]
+    },
+    {
+        "q": "P2P lending bypasses traditional financial intermediaries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is crowdfunding?",
+        "type": "mcq",
+        "o": [
+            "Raising money from a large number of people via online platforms",
+            "Bank loans only",
+            "Government grants",
+            "Personal savings"
+        ]
+    },
+    {
+        "q": "What types of crowdfunding exist?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Reward-based",
+            "Equity-based",
+            "Debt-based"
+        ]
+    },
+    {
+        "q": "Match crowdfunding types:",
+        "type": "match",
+        "left": [
+            "Reward",
+            "Equity",
+            "Debt",
+            "Donation"
+        ],
+        "right": [
+            "Product/service reward",
+            "Ownership stake",
+            "Repayment with interest",
+            "Charitable giving"
+        ]
+    },
+    {
+        "q": "Kickstarter and Indiegogo are reward-based crowdfunding ______.",
+        "type": "fill_blank",
+        "answers": [
+            "platforms"
+        ],
+        "other_options": [
+            "banks",
+            "offices",
+            "stores"
+        ]
+    },
+    {
+        "q": "Crowdfunding has democratized access to capital.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a robo-advisor?",
+        "type": "mcq",
+        "o": [
+            "Automated digital platform providing investment advice and management",
+            "Human advisor only",
+            "No advice",
+            "Bank teller"
+        ]
+    },
+    {
+        "q": "Robo-advisors use algorithms to create and manage investment ______.",
+        "type": "fill_blank",
+        "answers": [
+            "portfolios"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Robo-advisors typically offer lower fees than traditional advisors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is insurtech?",
+        "type": "mcq",
+        "o": [
+            "Technology innovation applied to the insurance industry",
+            "Traditional insurance only",
+            "No insurance",
+            "Government insurance"
+        ]
+    },
+    {
+        "q": "Insurtech innovations include usage-based insurance and AI-powered ______.",
+        "type": "fill_blank",
+        "answers": [
+            "claims"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "offices"
+        ]
+    },
+    {
+        "q": "Telematics enables usage-based car insurance pricing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is wealthtech?",
+        "type": "mcq",
+        "o": [
+            "Technology innovation in wealth and asset management",
+            "Traditional banking",
+            "Insurance technology",
+            "Payment technology"
+        ]
+    },
+    {
+        "q": "Wealthtech includes robo-advisors, portfolio management tools, and financial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "planning"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Wealthtech democratizes access to investment services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is DeFi (Decentralized Finance)?",
+        "type": "mcq",
+        "o": [
+            "Financial services built on blockchain without traditional intermediaries",
+            "Traditional banking",
+            "Centralized finance",
+            "Government finance"
+        ]
+    },
+    {
+        "q": "DeFi protocols enable lending, borrowing, and trading without ______.",
+        "type": "fill_blank",
+        "answers": [
+            "banks"
+        ],
+        "other_options": [
+            "computers",
+            "websites",
+            "apps"
+        ]
+    },
+    {
+        "q": "DeFi carries significant risks including smart contract vulnerabilities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is stablecoin?",
+        "type": "mcq",
+        "o": [
+            "Cryptocurrency pegged to a stable asset like fiat currency",
+            "Volatile cryptocurrency",
+            "Physical currency",
+            "Bank deposit"
+        ]
+    },
+    {
+        "q": "Stablecoins aim to maintain a stable ______ relative to their peg.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "size",
+            "weight",
+            "color"
+        ]
+    },
+    {
+        "q": "USDT and USDC are examples of stablecoins pegged to the US dollar.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a Central Bank Digital Currency (CBDC)?",
+        "type": "mcq",
+        "o": [
+            "Digital form of central bank money",
+            "Private cryptocurrency",
+            "Commercial bank money",
+            "Physical cash"
+        ]
+    },
+    {
+        "q": "CBDCs are being explored by central banks worldwide for payments ______.",
+        "type": "fill_blank",
+        "answers": [
+            "modernization"
+        ],
+        "other_options": [
+            "elimination",
+            "reduction",
+            "removal"
+        ]
+    },
+    {
+        "q": "China has launched a digital yuan pilot program.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is NFT (Non-Fungible Token)?",
+        "type": "mcq",
+        "o": [
+            "Unique digital asset on blockchain representing ownership of items",
+            "Digital currency",
+            "Regular token",
+            "Physical asset"
+        ]
+    },
+    {
+        "q": "NFTs are used for digital art, collectibles, and virtual ______.",
+        "type": "fill_blank",
+        "answers": [
+            "assets"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Each NFT is unique and cannot be exchanged on a like-for-like basis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data democratization?",
+        "type": "mcq",
+        "o": [
+            "Making data accessible to all employees for decision-making",
+            "Restricting data access",
+            "Deleting data",
+            "Hiding data"
+        ]
+    },
+    {
+        "q": "Data democratization empowers non-technical users with self-service ______.",
+        "type": "fill_blank",
+        "answers": [
+            "analytics"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Data literacy is essential for data democratization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data quality?",
+        "type": "mcq",
+        "o": [
+            "The accuracy, completeness, and reliability of data",
+            "Only data quantity",
+            "Only data storage",
+            "Only data deletion"
+        ]
+    },
+    {
+        "q": "Poor data quality leads to poor ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decisions"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "offices"
+        ]
+    },
+    {
+        "q": "Data quality management is essential for analytics and AI.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a data warehouse?",
+        "type": "mcq",
+        "o": [
+            "A centralized repository of structured data for analysis",
+            "A physical building",
+            "A single database",
+            "A file folder"
+        ]
+    },
+    {
+        "q": "Data warehouses are optimized for ______ and reporting.",
+        "type": "fill_blank",
+        "answers": [
+            "queries"
+        ],
+        "other_options": [
+            "deletion",
+            "destruction",
+            "removal"
+        ]
+    },
+    {
+        "q": "Cloud data warehouses like Snowflake are increasingly popular.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between a data lake and data warehouse?",
+        "type": "mcq",
+        "o": [
+            "Data lake stores raw data; warehouse stores processed structured data",
+            "They are the same",
+            "Warehouse stores raw data",
+            "Lake stores only structured"
+        ]
+    },
+    {
+        "q": "Match data storage concepts:",
+        "type": "match",
+        "left": [
+            "Data lake",
+            "Data warehouse",
+            "Data mart",
+            "Data lakehouse"
+        ],
+        "right": [
+            "Raw data storage",
+            "Structured for analysis",
+            "Subset of warehouse",
+            "Combined lake and warehouse"
+        ]
+    },
+    {
+        "q": "A data lakehouse combines features of lakes and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "warehouses"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "offices"
+        ]
+    },
+    {
+        "q": "Modern data platforms often combine multiple storage paradigms.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is ETL?",
+        "type": "mcq",
+        "o": [
+            "Extract, Transform, Load - process for moving data to a warehouse",
+            "Electronic Transfer Link",
+            "Enhanced Technology Layer",
+            "Extended Testing Lab"
+        ]
+    },
+    {
+        "q": "ETL processes move data from source systems to data ______.",
+        "type": "fill_blank",
+        "answers": [
+            "warehouses"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "offices"
+        ]
+    },
+    {
+        "q": "ELT (Extract, Load, Transform) is increasingly common with cloud warehouses.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a data pipeline?",
+        "type": "mcq",
+        "o": [
+            "Automated sequence of data processing steps",
+            "Physical pipe",
+            "Gas pipeline",
+            "Water supply"
+        ]
+    },
+    {
+        "q": "Data pipelines automate the flow of data from sources to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "destinations"
+        ],
+        "other_options": [
+            "nowhere",
+            "deletion",
+            "destruction"
+        ]
+    },
+    {
+        "q": "Modern data pipelines can handle streaming real-time data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is business intelligence (BI)?",
+        "type": "mcq",
+        "o": [
+            "Technologies and practices for analyzing business data",
+            "Espionage",
+            "Market research only",
+            "Competitor analysis only"
+        ]
+    },
+    {
+        "q": "BI tools provide dashboards, reports, and ad-hoc ______.",
+        "type": "fill_blank",
+        "answers": [
+            "queries"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Self-service BI empowers business users to create their own reports.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data science?",
+        "type": "mcq",
+        "o": [
+            "Field combining statistics, programming, and domain knowledge to extract insights",
+            "Just statistics",
+            "Just programming",
+            "Just reporting"
+        ]
+    },
+    {
+        "q": "Data scientists build predictive models using machine ______.",
+        "type": "fill_blank",
+        "answers": [
+            "learning"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Data science roles are in high demand.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is anomaly detection?",
+        "type": "mcq",
+        "o": [
+            "Identifying patterns that differ significantly from expected behavior",
+            "Normal pattern identification",
+            "Standard operations",
+            "Regular monitoring"
+        ]
+    },
+    {
+        "q": "Anomaly detection is used for fraud detection and quality ______.",
+        "type": "fill_blank",
+        "answers": [
+            "control"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Machine learning can automatically detect anomalies in large datasets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is sentiment analysis?",
+        "type": "mcq",
+        "o": [
+            "Using NLP to identify opinions and emotions in text",
+            "Counting words",
+            "Grammar checking",
+            "Spelling correction"
+        ]
+    },
+    {
+        "q": "Sentiment analysis helps understand customer opinions on social ______.",
+        "type": "fill_blank",
+        "answers": [
+            "media"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "offices"
+        ]
+    },
+    {
+        "q": "Brands use sentiment analysis to monitor their reputation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is A/B testing?",
+        "type": "mcq",
+        "o": [
+            "Comparing two versions to determine which performs better",
+            "No testing",
+            "Single version test",
+            "Alphabet test"
+        ]
+    },
+    {
+        "q": "A/B testing is common in digital marketing and website ______.",
+        "type": "fill_blank",
+        "answers": [
+            "optimization"
+        ],
+        "other_options": [
+            "destruction",
+            "deletion",
+            "removal"
+        ]
+    },
+    {
+        "q": "A/B testing uses statistical analysis to determine winners.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is customer lifetime value (CLV)?",
+        "type": "mcq",
+        "o": [
+            "The total value a customer brings over their relationship with a company",
+            "Single purchase value",
+            "First purchase only",
+            "Last purchase only"
+        ]
+    },
+    {
+        "q": "Analytics can help predict customer lifetime ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Understanding CLV helps prioritize marketing and retention efforts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is churn prediction?",
+        "type": "mcq",
+        "o": [
+            "Using analytics to predict which customers will leave",
+            "Customer acquisition",
+            "Sales forecasting",
+            "Revenue prediction"
+        ]
+    },
+    {
+        "q": "Churn prediction enables proactive customer ______.",
+        "type": "fill_blank",
+        "answers": [
+            "retention"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Machine learning models can predict churn with high accuracy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is demand forecasting?",
+        "type": "mcq",
+        "o": [
+            "Predicting future customer demand using data and analytics",
+            "No forecasting",
+            "Past demand only",
+            "Current demand only"
+        ]
+    },
+    {
+        "q": "Accurate demand forecasting improves inventory management and supply ______.",
+        "type": "fill_blank",
+        "answers": [
+            "chain"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "AI can improve demand forecasting accuracy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is price optimization?",
+        "type": "mcq",
+        "o": [
+            "Using analytics to set optimal prices",
+            "Fixed pricing only",
+            "Random pricing",
+            "No pricing strategy"
+        ]
+    },
+    {
+        "q": "Dynamic pricing adjusts prices in real-time based on demand and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "supply"
+        ],
+        "other_options": [
+            "guesses",
+            "feelings",
+            "opinions"
+        ]
+    },
+    {
+        "q": "Airlines and hotels commonly use dynamic pricing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is recommendation engine?",
+        "type": "mcq",
+        "o": [
+            "System that suggests products or content based on user behavior",
+            "Manual suggestions",
+            "Random suggestions",
+            "No suggestions"
+        ]
+    },
+    {
+        "q": "Netflix and Amazon use recommendation engines for personalized ______.",
+        "type": "fill_blank",
+        "answers": [
+            "suggestions"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Recommendation engines increase engagement and sales.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital identity?",
+        "type": "mcq",
+        "o": [
+            "Online representation of an individual for authentication and access",
+            "Physical ID only",
+            "Paper documents",
+            "No identity"
+        ]
+    },
+    {
+        "q": "Digital identity verification is essential for online financial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "services"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Biometrics like fingerprints and facial recognition enhance digital identity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is two-factor authentication (2FA)?",
+        "type": "mcq",
+        "o": [
+            "Security requiring two different types of verification",
+            "Password only",
+            "Username only",
+            "No security"
+        ]
+    },
+    {
+        "q": "2FA typically combines something you know with something you ______.",
+        "type": "fill_blank",
+        "answers": [
+            "have"
+        ],
+        "other_options": [
+            "forget",
+            "ignore",
+            "delete"
+        ]
+    },
+    {
+        "q": "2FA significantly reduces the risk of unauthorized access.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is encryption?",
+        "type": "mcq",
+        "o": [
+            "Converting data into code to prevent unauthorized access",
+            "Deleting data",
+            "Copying data",
+            "Moving data"
+        ]
+    },
+    {
+        "q": "Encryption protects data in transit and at ______.",
+        "type": "fill_blank",
+        "answers": [
+            "rest"
+        ],
+        "other_options": [
+            "work",
+            "play",
+            "motion"
+        ]
+    },
+    {
+        "q": "End-to-end encryption ensures only authorized parties can read messages.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is zero trust security?",
+        "type": "mcq",
+        "o": [
+            "Security model that never automatically trusts any user or device",
+            "Trust everyone",
+            "No security",
+            "Perimeter security only"
+        ]
+    },
+    {
+        "q": "Zero trust verifies every access request regardless of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "location"
+        ],
+        "other_options": [
+            "weather",
+            "time",
+            "mood"
+        ]
+    },
+    {
+        "q": "Zero trust is becoming the standard for cybersecurity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is penetration testing?",
+        "type": "mcq",
+        "o": [
+            "Simulated cyber attack to test security vulnerabilities",
+            "No testing",
+            "Physical testing",
+            "Random testing"
+        ]
+    },
+    {
+        "q": "Penetration testing identifies security weaknesses before real ______.",
+        "type": "fill_blank",
+        "answers": [
+            "attackers"
+        ],
+        "other_options": [
+            "employees",
+            "customers",
+            "partners"
+        ]
+    },
+    {
+        "q": "Ethical hackers conduct penetration testing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a security operations center (SOC)?",
+        "type": "mcq",
+        "o": [
+            "Team monitoring and responding to security threats 24/7",
+            "Physical security",
+            "Fire safety",
+            "Building maintenance"
+        ]
+    },
+    {
+        "q": "SOCs use security information and event management (SIEM) ______.",
+        "type": "fill_blank",
+        "answers": [
+            "tools"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "offices"
+        ]
+    },
+    {
+        "q": "SOCs are essential for enterprise cybersecurity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is business continuity planning?",
+        "type": "mcq",
+        "o": [
+            "Planning for how business will operate during and after a disruption",
+            "Normal operations only",
+            "No planning",
+            "Financial planning only"
+        ]
+    },
+    {
+        "q": "Business continuity planning addresses technology, people, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "processes"
+        ],
+        "other_options": [
+            "weather",
+            "traffic",
+            "holidays"
+        ]
+    },
+    {
+        "q": "COVID-19 highlighted the importance of business continuity planning.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is disaster recovery?",
+        "type": "mcq",
+        "o": [
+            "Plans for restoring IT systems after a major disruption",
+            "Normal operations",
+            "Daily backup",
+            "Monthly reports"
+        ]
+    },
+    {
+        "q": "Disaster recovery includes recovery time objective (RTO) and recovery point ______.",
+        "type": "fill_blank",
+        "answers": [
+            "objective (RPO)"
+        ],
+        "other_options": [
+            "problem",
+            "error",
+            "failure"
+        ]
+    },
+    {
+        "q": "Cloud-based disaster recovery is increasingly popular.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is technical debt?",
+        "type": "mcq",
+        "o": [
+            "The implied cost of future rework caused by quick solutions now",
+            "Financial debt",
+            "No debt",
+            "Physical debt"
+        ]
+    },
+    {
+        "q": "Technical debt accumulates when speed is prioritized over code ______.",
+        "type": "fill_blank",
+        "answers": [
+            "quality"
+        ],
+        "other_options": [
+            "quantity",
+            "speed",
+            "size"
+        ]
+    },
+    {
+        "q": "Managing technical debt is important for long-term system health.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is legacy system modernization?",
+        "type": "mcq",
+        "o": [
+            "Updating or replacing outdated technology systems",
+            "Keeping old systems",
+            "No systems",
+            "Deleting systems"
+        ]
+    },
+    {
+        "q": "Match modernization approaches:",
+        "type": "match",
+        "left": [
+            "Lift and shift",
+            "Refactor",
+            "Rebuild",
+            "Replace"
+        ],
+        "right": [
+            "Move as-is to cloud",
+            "Modify for cloud",
+            "Complete redesign",
+            "New solution"
+        ]
+    },
+    {
+        "q": "Legacy modernization reduces risk and enables ______.",
+        "type": "fill_blank",
+        "answers": [
+            "innovation"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Many organizations struggle with legacy system dependencies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is microservices architecture?",
+        "type": "mcq",
+        "o": [
+            "Application design where services are loosely coupled and independently deployable",
+            "Monolithic design only",
+            "No architecture",
+            "Single service"
+        ]
+    },
+    {
+        "q": "Microservices enable faster development and independent ______.",
+        "type": "fill_blank",
+        "answers": [
+            "scaling"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Netflix and Amazon use microservices architecture.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is containerization?",
+        "type": "mcq",
+        "o": [
+            "Packaging software with its dependencies for consistent deployment",
+            "Physical containers",
+            "Shipping containers",
+            "Storage containers"
+        ]
+    },
+    {
+        "q": "Docker and Kubernetes are popular container ______.",
+        "type": "fill_blank",
+        "answers": [
+            "technologies"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Containers enable consistent deployment across different environments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is low-code/no-code development?",
+        "type": "mcq",
+        "o": [
+            "Building applications with minimal or no traditional programming",
+            "Heavy coding only",
+            "No development",
+            "Paper-based systems"
+        ]
+    },
+    {
+        "q": "Low-code platforms enable citizen developers to build ______.",
+        "type": "fill_blank",
+        "answers": [
+            "applications"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "offices"
+        ]
+    },
+    {
+        "q": "Low-code can accelerate digital transformation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is quantum computing?",
+        "type": "mcq",
+        "o": [
+            "Computing using quantum mechanics for potentially massive parallelism",
+            "Traditional computing",
+            "Calculator",
+            "Spreadsheet"
+        ]
+    },
+    {
+        "q": "Quantum computing could revolutionize cryptography and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "optimization"
+        ],
+        "other_options": [
+            "destruction",
+            "deletion",
+            "removal"
+        ]
+    },
+    {
+        "q": "Quantum computing is still in early development stages.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is green IT?",
+        "type": "mcq",
+        "o": [
+            "Environmentally sustainable computing practices",
+            "Only green color hardware",
+            "No technology",
+            "Paper-based only"
+        ]
+    },
+    {
+        "q": "Green IT addresses energy consumption and electronic ______.",
+        "type": "fill_blank",
+        "answers": [
+            "waste"
+        ],
+        "other_options": [
+            "production",
+            "creation",
+            "development"
+        ]
+    },
+    {
+        "q": "Data centers are significant energy consumers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is sustainable technology?",
+        "type": "mcq",
+        "o": [
+            "Technology designed to minimize environmental impact",
+            "Any technology",
+            "Obsolete technology",
+            "Harmful technology"
+        ]
+    },
+    {
+        "q": "Sustainable technology considers the full lifecycle from creation to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "disposal"
+        ],
+        "other_options": [
+            "production",
+            "creation",
+            "development"
+        ]
+    },
+    {
+        "q": "Tech companies are setting carbon neutrality goals.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Generative AI can create text, images, and code.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What risks does generative AI pose for finance?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Misinformation",
+            "Intellectual property issues",
+            "Bias in outputs"
+        ]
+    },
+    {
+        "q": "Finance professionals should understand AI capabilities and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "limitations"
+        ],
+        "other_options": [
+            "destructions",
+            "deletions",
+            "removals"
+        ]
+    },
+    {
+        "q": "Digital transformation is a one-time project.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Digital transformation requires continuous adaptation and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "improvement"
+        ],
+        "other_options": [
+            "reduction",
+            "elimination",
+            "removal"
+        ]
+    },
+    {
+        "q": "Digital maturity varies across organizations and industries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an information system?",
+        "type": "mcq",
+        "o": [
+            "An organized system for collecting, storing and communicating information",
+            "Only hardware",
+            "Only software",
+            "Only data"
+        ]
+    },
+    {
+        "q": "What are components of an information system?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Hardware and software",
+            "Data and procedures",
+            "People"
+        ]
+    },
+    {
+        "q": "Match information system types:",
+        "type": "match",
+        "left": [
+            "TPS",
+            "MIS",
+            "DSS",
+            "EIS"
+        ],
+        "right": [
+            "Transaction Processing",
+            "Management Information",
+            "Decision Support",
+            "Executive Information"
+        ]
+    },
+    {
+        "q": "Transaction processing systems handle routine business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transactions"
+        ],
+        "other_options": [
+            "decisions",
+            "strategies",
+            "policies"
+        ]
+    },
+    {
+        "q": "Management information systems provide reports for managerial control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a decision support system (DSS)?",
+        "type": "mcq",
+        "o": [
+            "Interactive system that helps managers make semi-structured decisions",
+            "Transaction processing only",
+            "Report generation only",
+            "Data storage only"
+        ]
+    },
+    {
+        "q": "DSS uses models and analytical tools for what-if ______.",
+        "type": "fill_blank",
+        "answers": [
+            "analysis"
+        ],
+        "other_options": [
+            "storage",
+            "deletion",
+            "backup"
+        ]
+    },
+    {
+        "q": "Executive information systems provide strategic information to senior managers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is systems integration?",
+        "type": "mcq",
+        "o": [
+            "Connecting different IT systems to work together as a unified whole",
+            "Keeping systems separate",
+            "Deleting old systems",
+            "Manual data entry"
+        ]
+    },
+    {
+        "q": "Systems integration reduces data duplication and improves ______.",
+        "type": "fill_blank",
+        "answers": [
+            "efficiency"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "APIs are key enablers of modern systems integration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is process mining?",
+        "type": "mcq",
+        "o": [
+            "Using data to discover, analyze, and improve business processes",
+            "Mining for minerals",
+            "Data mining only",
+            "Text mining only"
+        ]
+    },
+    {
+        "q": "Process mining reveals how processes actually work versus how they should ______.",
+        "type": "fill_blank",
+        "answers": [
+            "work"
+        ],
+        "other_options": [
+            "fail",
+            "stop",
+            "break"
+        ]
+    },
+    {
+        "q": "Process mining uses event logs from information systems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a digital ecosystem?",
+        "type": "mcq",
+        "o": [
+            "Network of interconnected organizations enabled by digital technology",
+            "Single company only",
+            "Physical environment",
+            "Natural ecosystem"
+        ]
+    },
+    {
+        "q": "Digital ecosystems create value through collaboration and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "innovation"
+        ],
+        "other_options": [
+            "isolation",
+            "competition",
+            "conflict"
+        ]
+    },
+    {
+        "q": "Platform businesses build digital ecosystems around their services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital asset management?",
+        "type": "mcq",
+        "o": [
+            "Systems for storing, organizing, and distributing digital content",
+            "Physical asset management",
+            "Cash management",
+            "Inventory management"
+        ]
+    },
+    {
+        "q": "Digital assets include images, videos, documents, and other digital ______.",
+        "type": "fill_blank",
+        "answers": [
+            "content"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "equipment"
+        ]
+    },
+    {
+        "q": "DAM systems improve content findability and reuse.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is knowledge management?",
+        "type": "mcq",
+        "o": [
+            "Capturing and sharing organizational knowledge and expertise",
+            "Hiding information",
+            "Deleting knowledge",
+            "Ignoring expertise"
+        ]
+    },
+    {
+        "q": "Knowledge management includes both explicit and tacit ______.",
+        "type": "fill_blank",
+        "answers": [
+            "knowledge"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Digital tools enhance knowledge capture and sharing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital workplace?",
+        "type": "mcq",
+        "o": [
+            "Virtual environment enabling employees to work from anywhere",
+            "Physical office only",
+            "Factory floor",
+            "Warehouse"
+        ]
+    },
+    {
+        "q": "Digital workplace tools include collaboration platforms and virtual ______.",
+        "type": "fill_blank",
+        "answers": [
+            "meetings"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "equipment"
+        ]
+    },
+    {
+        "q": "The COVID-19 pandemic accelerated digital workplace adoption.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are collaboration tools?",
+        "type": "mcq",
+        "o": [
+            "Software enabling teams to work together regardless of location",
+            "Individual tools only",
+            "Paper-based tools",
+            "Physical meetings only"
+        ]
+    },
+    {
+        "q": "Examples of collaboration tools include Microsoft Teams and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Slack"
+        ],
+        "other_options": [
+            "Paper",
+            "Fax",
+            "Telex"
+        ]
+    },
+    {
+        "q": "Collaboration tools increase productivity for remote teams.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is workflow automation?",
+        "type": "mcq",
+        "o": [
+            "Using technology to automate the flow of tasks in a process",
+            "Manual processes only",
+            "Paper-based workflows",
+            "No automation"
+        ]
+    },
+    {
+        "q": "Workflow automation routes tasks and approvals based on predefined ______.",
+        "type": "fill_blank",
+        "answers": [
+            "rules"
+        ],
+        "other_options": [
+            "guesses",
+            "feelings",
+            "opinions"
+        ]
+    },
+    {
+        "q": "Automated workflows improve consistency and reduce processing time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital onboarding?",
+        "type": "mcq",
+        "o": [
+            "Using digital tools to integrate new employees or customers",
+            "Paper-based onboarding",
+            "In-person only",
+            "No onboarding"
+        ]
+    },
+    {
+        "q": "Digital onboarding improves the employee or customer ______.",
+        "type": "fill_blank",
+        "answers": [
+            "experience"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Digital KYC enables remote customer onboarding.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is business process management (BPM)?",
+        "type": "mcq",
+        "o": [
+            "Discipline of improving business processes using systematic methods",
+            "No process management",
+            "Random changes",
+            "Ignoring processes"
+        ]
+    },
+    {
+        "q": "BPM software enables process design, execution, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "monitoring"
+        ],
+        "other_options": [
+            "deletion",
+            "destruction",
+            "removal"
+        ]
+    },
+    {
+        "q": "BPM aims to make processes more efficient and effective.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between data and information?",
+        "type": "mcq",
+        "o": [
+            "Data is raw facts; information is processed data with meaning",
+            "They are the same",
+            "Information is raw",
+            "Data is processed"
+        ]
+    },
+    {
+        "q": "Information becomes knowledge when combined with experience and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "context"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Quality information is relevant, accurate, and timely.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data lineage?",
+        "type": "mcq",
+        "o": [
+            "Tracking data from origin through transformation to final use",
+            "Data deletion",
+            "Data storage",
+            "Data backup"
+        ]
+    },
+    {
+        "q": "Data lineage helps with compliance and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "auditing"
+        ],
+        "other_options": [
+            "deletion",
+            "destruction",
+            "removal"
+        ]
+    },
+    {
+        "q": "Understanding data lineage is important for data governance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is master data?",
+        "type": "mcq",
+        "o": [
+            "Core business data about customers, products, and other key entities",
+            "Transaction data",
+            "Temporary data",
+            "Deleted data"
+        ]
+    },
+    {
+        "q": "Master data management ensures consistent data across ______.",
+        "type": "fill_blank",
+        "answers": [
+            "systems"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Poor master data quality causes operational and reporting issues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data cataloging?",
+        "type": "mcq",
+        "o": [
+            "Creating organized inventories of data assets with metadata",
+            "Deleting data",
+            "Hiding data",
+            "Ignoring data"
+        ]
+    },
+    {
+        "q": "Data catalogs help users find and understand available ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Data catalogs include business and technical metadata.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is real-time analytics?",
+        "type": "mcq",
+        "o": [
+            "Analyzing data as it is generated for immediate insights",
+            "Historical analysis only",
+            "Annual analysis",
+            "Monthly analysis"
+        ]
+    },
+    {
+        "q": "Real-time analytics enables immediate response to changing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "conditions"
+        ],
+        "other_options": [
+            "weather",
+            "seasons",
+            "holidays"
+        ]
+    },
+    {
+        "q": "Streaming analytics processes data in real-time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is embedded analytics?",
+        "type": "mcq",
+        "o": [
+            "Integrating analytics capabilities directly into business applications",
+            "Standalone analytics only",
+            "No analytics",
+            "Manual analysis"
+        ]
+    },
+    {
+        "q": "Embedded analytics delivers insights in the context of user ______.",
+        "type": "fill_blank",
+        "answers": [
+            "workflows"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Embedded analytics increases analytics adoption.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is augmented analytics?",
+        "type": "mcq",
+        "o": [
+            "Using AI and ML to automate data preparation and insight generation",
+            "Manual analytics only",
+            "No analytics",
+            "Paper-based analysis"
+        ]
+    },
+    {
+        "q": "Augmented analytics democratizes data science for business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "users"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Augmented analytics tools can automatically generate insights.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is graph analytics?",
+        "type": "mcq",
+        "o": [
+            "Analyzing relationships and connections in data using graph structures",
+            "Bar chart analysis",
+            "Pie chart analysis",
+            "Line chart analysis"
+        ]
+    },
+    {
+        "q": "Graph analytics is used for fraud detection and social network ______.",
+        "type": "fill_blank",
+        "answers": [
+            "analysis"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Graph databases are optimized for relationship-based queries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is geospatial analytics?",
+        "type": "mcq",
+        "o": [
+            "Analyzing data with geographic or location components",
+            "Only financial data",
+            "Only text data",
+            "Only numerical data"
+        ]
+    },
+    {
+        "q": "Geospatial analytics is used for location-based marketing and supply chain ______.",
+        "type": "fill_blank",
+        "answers": [
+            "optimization"
+        ],
+        "other_options": [
+            "destruction",
+            "deletion",
+            "removal"
+        ]
+    },
+    {
+        "q": "Maps and location data enhance business intelligence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data monetization?",
+        "type": "mcq",
+        "o": [
+            "Generating revenue from data assets",
+            "Storing data only",
+            "Deleting data",
+            "Ignoring data"
+        ]
+    },
+    {
+        "q": "Data monetization can be direct (selling data) or indirect (improving ______).",
+        "type": "fill_blank",
+        "answers": [
+            "decisions"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Data is increasingly recognized as a strategic asset.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is IT governance?",
+        "type": "mcq",
+        "o": [
+            "Framework for ensuring IT investments support business objectives",
+            "No governance",
+            "Only technology management",
+            "Only budgeting"
+        ]
+    },
+    {
+        "q": "COBIT is a leading framework for IT ______.",
+        "type": "fill_blank",
+        "answers": [
+            "governance"
+        ],
+        "other_options": [
+            "destruction",
+            "deletion",
+            "removal"
+        ]
+    },
+    {
+        "q": "IT governance aligns IT strategy with business strategy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is IT service management (ITSM)?",
+        "type": "mcq",
+        "o": [
+            "Managing the delivery of IT services to meet business needs",
+            "Only hardware management",
+            "Only software development",
+            "Only networking"
+        ]
+    },
+    {
+        "q": "ITIL is a widely adopted framework for IT service ______.",
+        "type": "fill_blank",
+        "answers": [
+            "management"
+        ],
+        "other_options": [
+            "destruction",
+            "deletion",
+            "removal"
+        ]
+    },
+    {
+        "q": "ITSM focuses on delivering value to customers through services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is IT portfolio management?",
+        "type": "mcq",
+        "o": [
+            "Managing IT investments as a portfolio for optimal value",
+            "Single project focus",
+            "No management",
+            "Random selection"
+        ]
+    },
+    {
+        "q": "IT portfolio management balances risk, cost, and business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Portfolio management helps prioritize IT investments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is technology stack?",
+        "type": "mcq",
+        "o": [
+            "The set of technologies used to build and run an application",
+            "Physical stack of equipment",
+            "Only hardware",
+            "Only databases"
+        ]
+    },
+    {
+        "q": "A typical stack includes front-end, back-end, and ______ technologies.",
+        "type": "fill_blank",
+        "answers": [
+            "database"
+        ],
+        "other_options": [
+            "printing",
+            "shipping",
+            "storage"
+        ]
+    },
+    {
+        "q": "Technology stack decisions impact system performance and scalability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is vendor lock-in?",
+        "type": "mcq",
+        "o": [
+            "Dependency on a vendor making it difficult to switch without substantial costs",
+            "Freedom to change",
+            "Easy switching",
+            "No dependency"
+        ]
+    },
+    {
+        "q": "Multi-cloud and open standards help reduce vendor ______.",
+        "type": "fill_blank",
+        "answers": [
+            "lock-in"
+        ],
+        "other_options": [
+            "benefits",
+            "rewards",
+            "growth"
+        ]
+    },
+    {
+        "q": "Vendor lock-in is a key consideration in technology selection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is total cost of ownership (TCO)?",
+        "type": "mcq",
+        "o": [
+            "All costs associated with acquiring and operating a system over its life",
+            "Purchase price only",
+            "License cost only",
+            "Training cost only"
+        ]
+    },
+    {
+        "q": "TCO includes acquisition, implementation, operation, and ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "maintenance"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "TCO analysis helps make informed technology investment decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is return on investment (ROI) for technology?",
+        "type": "mcq",
+        "o": [
+            "Measuring the financial return from technology investments",
+            "No measurement",
+            "Only cost measurement",
+            "Only time measurement"
+        ]
+    },
+    {
+        "q": "Technology ROI should consider both quantitative and qualitative ______.",
+        "type": "fill_blank",
+        "answers": [
+            "benefits"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "ROI calculation helps justify technology investments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a digital operating model?",
+        "type": "mcq",
+        "o": [
+            "How an organization delivers value through digital capabilities",
+            "Only technology",
+            "Only processes",
+            "Only people"
+        ]
+    },
+    {
+        "q": "A digital operating model aligns people, process, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "technology"
+        ],
+        "other_options": [
+            "weather",
+            "traffic",
+            "holidays"
+        ]
+    },
+    {
+        "q": "Digital operating models often feature agile and cross-functional teams.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is product operating model?",
+        "type": "mcq",
+        "o": [
+            "Organizing around products rather than projects",
+            "Project-based only",
+            "No organization",
+            "Random structure"
+        ]
+    },
+    {
+        "q": "Product teams own the full lifecycle of their digital ______.",
+        "type": "fill_blank",
+        "answers": [
+            "products"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Product operating models enable faster innovation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the finance business partner role?",
+        "type": "mcq",
+        "o": [
+            "Finance professional working closely with business units to drive performance",
+            "Transaction processing only",
+            "Reporting only",
+            "Compliance only"
+        ]
+    },
+    {
+        "q": "Digital tools free finance business partners to focus on strategic ______.",
+        "type": "fill_blank",
+        "answers": [
+            "analysis"
+        ],
+        "other_options": [
+            "data entry",
+            "filing",
+            "printing"
+        ]
+    },
+    {
+        "q": "Finance business partnering requires strong communication skills.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the modern finance function?",
+        "type": "mcq",
+        "o": [
+            "A digitally-enabled finance team focused on insight and value creation",
+            "Paper-based accounting",
+            "Transaction processing only",
+            "Compliance only"
+        ]
+    },
+    {
+        "q": "The modern finance function balances efficiency with business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "partnering"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Digital skills are essential for the modern finance professional.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is integrated business planning?",
+        "type": "mcq",
+        "o": [
+            "Connecting strategic, financial, and operational planning",
+            "Only financial planning",
+            "Only strategic planning",
+            "Only operational planning"
+        ]
+    },
+    {
+        "q": "IBP creates alignment across sales, operations, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "finance"
+        ],
+        "other_options": [
+            "weather",
+            "traffic",
+            "holidays"
+        ]
+    },
+    {
+        "q": "Digital planning platforms enable integrated business planning.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is driver-based planning?",
+        "type": "mcq",
+        "o": [
+            "Focusing planning on key business drivers rather than line items",
+            "Line-item budgeting",
+            "No planning",
+            "Random numbers"
+        ]
+    },
+    {
+        "q": "Driver-based planning links operational drivers to financial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "outcomes"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Driver-based models make forecasting more agile.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is extended planning and analysis (xP&A)?",
+        "type": "mcq",
+        "o": [
+            "Extending FP&A processes and tools across the enterprise",
+            "Only financial planning",
+            "Only HR planning",
+            "Only sales planning"
+        ]
+    },
+    {
+        "q": "xP&A breaks down planning silos between ______.",
+        "type": "fill_blank",
+        "answers": [
+            "departments"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "equipment"
+        ]
+    },
+    {
+        "q": "xP&A uses connected planning platforms.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is financial close management?",
+        "type": "mcq",
+        "o": [
+            "Managing the period-end accounting close process",
+            "Opening accounts",
+            "Daily operations",
+            "Annual planning"
+        ]
+    },
+    {
+        "q": "Close management software helps track tasks and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "deadlines"
+        ],
+        "other_options": [
+            "lunch breaks",
+            "holidays",
+            "vacations"
+        ]
+    },
+    {
+        "q": "Automating reconciliations speeds up the financial close.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is account reconciliation automation?",
+        "type": "mcq",
+        "o": [
+            "Using technology to match and verify account balances",
+            "Manual reconciliation only",
+            "No reconciliation",
+            "Annual reconciliation"
+        ]
+    },
+    {
+        "q": "Automated reconciliation reduces errors and frees staff for value-added ______.",
+        "type": "fill_blank",
+        "answers": [
+            "work"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Continuous reconciliation improves financial control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is touchless invoice processing?",
+        "type": "mcq",
+        "o": [
+            "Fully automated invoice processing without manual intervention",
+            "Manual processing",
+            "Paper processing",
+            "No processing"
+        ]
+    },
+    {
+        "q": "AI and machine learning enable invoice ______ and matching.",
+        "type": "fill_blank",
+        "answers": [
+            "capture"
+        ],
+        "other_options": [
+            "deletion",
+            "destruction",
+            "removal"
+        ]
+    },
+    {
+        "q": "Touchless processing significantly reduces accounts payable costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is dynamic discounting?",
+        "type": "mcq",
+        "o": [
+            "Offering suppliers early payment in exchange for discounts",
+            "Fixed discounts only",
+            "No discounts",
+            "Late payment penalties"
+        ]
+    },
+    {
+        "q": "Dynamic discounting platforms connect buyers with suppliers for early ______.",
+        "type": "fill_blank",
+        "answers": [
+            "payment"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Dynamic discounting improves working capital management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is supply chain finance?",
+        "type": "mcq",
+        "o": [
+            "Financial solutions optimizing cash flow across the supply chain",
+            "Only logistics",
+            "Only transport",
+            "Only warehousing"
+        ]
+    },
+    {
+        "q": "Supply chain finance includes factoring, reverse factoring, and dynamic ______.",
+        "type": "fill_blank",
+        "answers": [
+            "discounting"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Fintech platforms are disrupting traditional supply chain finance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is automated collections?",
+        "type": "mcq",
+        "o": [
+            "Using technology to manage customer payment collection",
+            "Manual calls only",
+            "Paper letters only",
+            "No collection"
+        ]
+    },
+    {
+        "q": "Automated collections improves DSO (days sales ______).",
+        "type": "fill_blank",
+        "answers": [
+            "outstanding"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "AI can prioritize collection efforts based on payment likelihood.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cash flow forecasting?",
+        "type": "mcq",
+        "o": [
+            "Predicting future cash inflows and outflows",
+            "Historical cash only",
+            "No forecasting",
+            "Annual budgets only"
+        ]
+    },
+    {
+        "q": "AI improves cash flow forecasting ______.",
+        "type": "fill_blank",
+        "answers": [
+            "accuracy"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Real-time cash visibility supports better treasury decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is treasury management system (TMS)?",
+        "type": "mcq",
+        "o": [
+            "Software for managing cash, liquidity, and financial risk",
+            "Only payroll",
+            "Only accounting",
+            "Only budgeting"
+        ]
+    },
+    {
+        "q": "Cloud TMS provides real-time visibility into global cash ______.",
+        "type": "fill_blank",
+        "answers": [
+            "positions"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Treasury management systems are increasingly cloud-based.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is payment factory?",
+        "type": "mcq",
+        "o": [
+            "Centralized hub for managing all payments across an organization",
+            "Decentralized payments",
+            "Manual payments",
+            "No payment management"
+        ]
+    },
+    {
+        "q": "Payment factories improve efficiency and reduce payment ______.",
+        "type": "fill_blank",
+        "answers": [
+            "fraud"
+        ],
+        "other_options": [
+            "success",
+            "growth",
+            "accuracy"
+        ]
+    },
+    {
+        "q": "Payment factories enable standardized payment processes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is intercompany management?",
+        "type": "mcq",
+        "o": [
+            "Managing transactions between entities within the same group",
+            "External transactions only",
+            "Customer transactions",
+            "Supplier transactions"
+        ]
+    },
+    {
+        "q": "Intercompany automation reduces manual effort and speeds ______.",
+        "type": "fill_blank",
+        "answers": [
+            "close"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Intercompany netting reduces payment volumes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is lease accounting automation?",
+        "type": "mcq",
+        "o": [
+            "Using technology to manage lease accounting compliance",
+            "Manual lease tracking",
+            "Paper records",
+            "No tracking"
+        ]
+    },
+    {
+        "q": "IFRS 16 and ASC 842 increased the need for lease ______.",
+        "type": "fill_blank",
+        "answers": [
+            "automation"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Lease accounting software calculates right-of-use assets and liabilities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is revenue recognition automation?",
+        "type": "mcq",
+        "o": [
+            "Using technology to apply revenue recognition standards",
+            "Manual revenue booking",
+            "No revenue tracking",
+            "Paper-based only"
+        ]
+    },
+    {
+        "q": "IFRS 15 and ASC 606 increased complexity in revenue ______.",
+        "type": "fill_blank",
+        "answers": [
+            "recognition"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Revenue automation reduces compliance risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is tax technology?",
+        "type": "mcq",
+        "o": [
+            "Technology solutions for tax compliance and planning",
+            "Only accounting software",
+            "Only payroll systems",
+            "Only ERP"
+        ]
+    },
+    {
+        "q": "Tax technology includes tax engines, reporting tools, and data ______.",
+        "type": "fill_blank",
+        "answers": [
+            "analytics"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Real-time tax reporting is becoming more common globally.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is e-invoicing?",
+        "type": "mcq",
+        "o": [
+            "Electronic exchange of invoices in structured data format",
+            "PDF invoices only",
+            "Paper invoices",
+            "Email invoices"
+        ]
+    },
+    {
+        "q": "E-invoicing mandates are expanding ______.",
+        "type": "fill_blank",
+        "answers": [
+            "globally"
+        ],
+        "other_options": [
+            "locally",
+            "regionally",
+            "nowhere"
+        ]
+    },
+    {
+        "q": "E-invoicing improves compliance and reduces fraud.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is continuous transaction controls (CTC)?",
+        "type": "mcq",
+        "o": [
+            "Real-time reporting of transactions to tax authorities",
+            "Annual reporting only",
+            "No reporting",
+            "Paper filing"
+        ]
+    },
+    {
+        "q": "CTC requirements are driven by tax authorities in multiple ______.",
+        "type": "fill_blank",
+        "answers": [
+            "countries"
+        ],
+        "other_options": [
+            "cities",
+            "offices",
+            "buildings"
+        ]
+    },
+    {
+        "q": "Organizations must adapt systems for CTC compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is making tax digital (MTD)?",
+        "type": "mcq",
+        "o": [
+            "UK government initiative for digital tax record keeping and reporting",
+            "US tax reform",
+            "EU tax directive",
+            "Global tax standard"
+        ]
+    },
+    {
+        "q": "MTD requires businesses to keep digital records and submit returns via ______.",
+        "type": "fill_blank",
+        "answers": [
+            "software"
+        ],
+        "other_options": [
+            "paper",
+            "fax",
+            "mail"
+        ]
+    },
+    {
+        "q": "MTD is expanding to cover more taxes in the UK.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital audit trail?",
+        "type": "mcq",
+        "o": [
+            "Electronic record of transactions and changes for audit purposes",
+            "Physical paper trail",
+            "No record keeping",
+            "Manual logs"
+        ]
+    },
+    {
+        "q": "Digital audit trails support compliance and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "investigation"
+        ],
+        "other_options": [
+            "deletion",
+            "destruction",
+            "removal"
+        ]
+    },
+    {
+        "q": "Blockchain can provide immutable audit trails.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is continuous auditing?",
+        "type": "mcq",
+        "o": [
+            "Real-time or near-real-time automated audit procedures",
+            "Annual audits only",
+            "No auditing",
+            "Manual auditing"
+        ]
+    },
+    {
+        "q": "Continuous auditing uses data analytics to monitor transactions and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "controls"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Continuous auditing can identify issues faster than traditional auditing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data-driven auditing?",
+        "type": "mcq",
+        "o": [
+            "Using data analytics to enhance audit procedures",
+            "Sample-based only",
+            "No data use",
+            "Paper-based only"
+        ]
+    },
+    {
+        "q": "Data analytics enables auditors to test entire ______.",
+        "type": "fill_blank",
+        "answers": [
+            "populations"
+        ],
+        "other_options": [
+            "samples",
+            "selections",
+            "choices"
+        ]
+    },
+    {
+        "q": "Audit data analytics is transforming the audit profession.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is XBRL?",
+        "type": "mcq",
+        "o": [
+            "eXtensible Business Reporting Language for structured financial data",
+            "Excel format",
+            "PDF format",
+            "Word format"
+        ]
+    },
+    {
+        "q": "XBRL enables automated processing of financial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "reports"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Regulators increasingly require XBRL-formatted filings.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is iXBRL?",
+        "type": "mcq",
+        "o": [
+            "Inline XBRL - XBRL tags embedded in HTML documents",
+            "Internal XBRL",
+            "Internet XBRL",
+            "Instant XBRL"
+        ]
+    },
+    {
+        "q": "iXBRL allows human-readable documents with machine-readable ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "European Securities and Markets Authority requires iXBRL for annual reports.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Digital transformation in finance is ongoing, not a destination.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Finance professionals must continuously develop digital ______.",
+        "type": "fill_blank",
+        "answers": [
+            "skills"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Technology enables finance to be a strategic business partner.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a fintech unicorn?",
+        "type": "mcq",
+        "o": [
+            "A fintech startup valued at over $1 billion",
+            "A rare banking product",
+            "A traditional bank",
+            "A government institution"
+        ]
+    },
+    {
+        "q": "Fintech disruption has forced traditional banks to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "innovate"
+        ],
+        "other_options": [
+            "close",
+            "ignore",
+            "resist"
+        ]
+    },
+    {
+        "q": "What is super app?",
+        "type": "mcq",
+        "o": [
+            "An app offering multiple services including payments, shopping, and communication",
+            "A single-purpose app",
+            "A basic app",
+            "A desktop application"
+        ]
+    },
+    {
+        "q": "WeChat and Grab are examples of super ______.",
+        "type": "fill_blank",
+        "answers": [
+            "apps"
+        ],
+        "other_options": [
+            "computers",
+            "phones",
+            "tablets"
+        ]
+    },
+    {
+        "q": "Super apps are particularly popular in Asia.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is voice banking?",
+        "type": "mcq",
+        "o": [
+            "Using voice commands to perform banking transactions",
+            "Phone call banking only",
+            "In-person banking",
+            "Paper banking"
+        ]
+    },
+    {
+        "q": "Voice assistants like Alexa enable banking through voice ______.",
+        "type": "fill_blank",
+        "answers": [
+            "commands"
+        ],
+        "other_options": [
+            "gestures",
+            "movements",
+            "signals"
+        ]
+    },
+    {
+        "q": "Voice banking raises new security considerations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is social trading?",
+        "type": "mcq",
+        "o": [
+            "Copying successful traders' investment strategies",
+            "Trading on social media",
+            "Chatting about trades",
+            "Social networking"
+        ]
+    },
+    {
+        "q": "Platforms like eToro popularized social ______.",
+        "type": "fill_blank",
+        "answers": [
+            "trading"
+        ],
+        "other_options": [
+            "networking",
+            "chatting",
+            "messaging"
+        ]
+    },
+    {
+        "q": "Social trading democratizes access to investment strategies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is fractional investing?",
+        "type": "mcq",
+        "o": [
+            "Buying portions of shares rather than whole shares",
+            "Full share purchases only",
+            "No investing",
+            "Bond investing only"
+        ]
+    },
+    {
+        "q": "Fractional investing lowers barriers to equity ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ownership"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Fintech platforms have enabled fractional share trading.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is payment orchestration?",
+        "type": "mcq",
+        "o": [
+            "Managing multiple payment providers through a single platform",
+            "Single provider only",
+            "No payment management",
+            "Paper payments"
+        ]
+    },
+    {
+        "q": "Payment orchestration improves payment success rates and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "flexibility"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Merchants use orchestration to optimize payment costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is account-to-account (A2A) payments?",
+        "type": "mcq",
+        "o": [
+            "Direct bank transfers bypassing card networks",
+            "Card payments only",
+            "Cash payments",
+            "Check payments"
+        ]
+    },
+    {
+        "q": "A2A payments reduce transaction costs compared to card ______.",
+        "type": "fill_blank",
+        "answers": [
+            "payments"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Open banking enables A2A payment initiatives.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cross-border payments?",
+        "type": "mcq",
+        "o": [
+            "Payments between parties in different countries",
+            "Domestic payments only",
+            "Local payments",
+            "Internal payments"
+        ]
+    },
+    {
+        "q": "Cross-border payments traditionally face high costs and slow ______.",
+        "type": "fill_blank",
+        "answers": [
+            "speeds"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Fintech is disrupting traditional cross-border payment systems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is ISO 20022?",
+        "type": "mcq",
+        "o": [
+            "A global standard for financial messaging",
+            "A product code",
+            "A bank name",
+            "A currency code"
+        ]
+    },
+    {
+        "q": "ISO 20022 enables richer payment data for better reconciliation and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "compliance"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Major payment systems are migrating to ISO 20022.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is request to pay?",
+        "type": "mcq",
+        "o": [
+            "A digital message requesting payment that the payer can approve",
+            "Automatic payment",
+            "Direct debit",
+            "Standing order"
+        ]
+    },
+    {
+        "q": "Request to pay gives payers more control over their ______.",
+        "type": "fill_blank",
+        "answers": [
+            "payments"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Request to pay can improve the customer billing experience.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is intelligent document processing?",
+        "type": "mcq",
+        "o": [
+            "Using AI to extract and process information from documents",
+            "Manual document reading",
+            "Paper filing",
+            "No processing"
+        ]
+    },
+    {
+        "q": "IDP combines OCR with machine learning for document ______.",
+        "type": "fill_blank",
+        "answers": [
+            "understanding"
+        ],
+        "other_options": [
+            "destruction",
+            "deletion",
+            "removal"
+        ]
+    },
+    {
+        "q": "Intelligent document processing automates document-heavy processes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is conversational AI?",
+        "type": "mcq",
+        "o": [
+            "AI that can understand and generate human-like conversation",
+            "Simple scripts",
+            "No AI",
+            "Basic menus"
+        ]
+    },
+    {
+        "q": "Conversational AI powers more sophisticated customer service ______.",
+        "type": "fill_blank",
+        "answers": [
+            "chatbots"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Large language models have advanced conversational AI capabilities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is explainable AI (XAI)?",
+        "type": "mcq",
+        "o": [
+            "AI systems whose decisions can be understood by humans",
+            "Black box AI",
+            "No explanation",
+            "Random AI"
+        ]
+    },
+    {
+        "q": "Explainable AI is important for regulatory compliance in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "finance"
+        ],
+        "other_options": [
+            "gaming",
+            "sports",
+            "entertainment"
+        ]
+    },
+    {
+        "q": "Regulators increasingly require explainability in AI decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is AI hallucination?",
+        "type": "mcq",
+        "o": [
+            "When AI generates false or misleading information confidently",
+            "Accurate AI output",
+            "No AI output",
+            "Correct AI response"
+        ]
+    },
+    {
+        "q": "AI hallucination risks require human oversight in finance ______.",
+        "type": "fill_blank",
+        "answers": [
+            "applications"
+        ],
+        "other_options": [
+            "problems",
+            "games",
+            "entertainment"
+        ]
+    },
+    {
+        "q": "Finance professionals must verify AI-generated content.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is model risk management?",
+        "type": "mcq",
+        "o": [
+            "Managing risks from using quantitative models in decision-making",
+            "No risk management",
+            "Only financial risk",
+            "Only market risk"
+        ]
+    },
+    {
+        "q": "AI and machine learning models require robust model risk ______.",
+        "type": "fill_blank",
+        "answers": [
+            "governance"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Model validation is essential for AI in finance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital twin for finance?",
+        "type": "mcq",
+        "o": [
+            "Virtual models of financial processes for simulation and optimization",
+            "Physical copies",
+            "Backup systems",
+            "Archive files"
+        ]
+    },
+    {
+        "q": "Digital twins in finance can simulate scenario ______.",
+        "type": "fill_blank",
+        "answers": [
+            "impacts"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Digital twins enable continuous process optimization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is headless commerce?",
+        "type": "mcq",
+        "o": [
+            "Separating the front-end presentation from back-end commerce functionality",
+            "Traditional e-commerce",
+            "No commerce",
+            "Physical retail only"
+        ]
+    },
+    {
+        "q": "Headless architecture enables commerce across multiple ______.",
+        "type": "fill_blank",
+        "answers": [
+            "channels"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Headless commerce provides flexibility for omnichannel experience.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is composable business?",
+        "type": "mcq",
+        "o": [
+            "Building business capabilities from modular, interchangeable components",
+            "Monolithic systems only",
+            "Fixed structures",
+            "No flexibility"
+        ]
+    },
+    {
+        "q": "Composable architecture enables faster adaptation to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "change"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "APIs are the connective tissue of composable business.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is citizen development?",
+        "type": "mcq",
+        "o": [
+            "Non-IT staff building applications using low-code tools",
+            "Professional developers only",
+            "No development",
+            "IT department only"
+        ]
+    },
+    {
+        "q": "Citizen development can accelerate digital transformation in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "finance"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Citizen development requires governance to manage risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data mesh?",
+        "type": "mcq",
+        "o": [
+            "Decentralized approach to data management with domain ownership",
+            "Centralized data warehouse",
+            "No data management",
+            "Single database"
+        ]
+    },
+    {
+        "q": "Data mesh treats data as a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "product"
+        ],
+        "other_options": [
+            "problem",
+            "burden",
+            "cost"
+        ]
+    },
+    {
+        "q": "Data mesh principles include domain ownership and self-serve platforms.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data fabric?",
+        "type": "mcq",
+        "o": [
+            "Architecture that provides unified data access across distributed sources",
+            "Single data source",
+            "No integration",
+            "Manual data access"
+        ]
+    },
+    {
+        "q": "Data fabric uses metadata and AI to automate data ______.",
+        "type": "fill_blank",
+        "answers": [
+            "integration"
+        ],
+        "other_options": [
+            "deletion",
+            "destruction",
+            "removal"
+        ]
+    },
+    {
+        "q": "Data fabric complements or overlaps with data mesh approaches.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is observability?",
+        "type": "mcq",
+        "o": [
+            "Understanding internal system state from external outputs",
+            "Only monitoring",
+            "No visibility",
+            "Physical observation"
+        ]
+    },
+    {
+        "q": "Observability encompasses metrics, logs, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "traces"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Observability is critical for complex distributed systems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is FinOps?",
+        "type": "mcq",
+        "o": [
+            "Managing and optimizing cloud costs through cross-functional collaboration",
+            "Traditional finance only",
+            "IT operations only",
+            "No cost management"
+        ]
+    },
+    {
+        "q": "FinOps brings finance, engineering, and business together for cloud cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "management"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "FinOps is increasingly important as cloud spending grows.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is AI governance?",
+        "type": "mcq",
+        "o": [
+            "Framework for responsible development and use of AI",
+            "No governance",
+            "Only technical controls",
+            "Only legal compliance"
+        ]
+    },
+    {
+        "q": "AI governance addresses ethics, risk, and regulatory ______.",
+        "type": "fill_blank",
+        "answers": [
+            "compliance"
+        ],
+        "other_options": [
+            "problems",
+            "games",
+            "entertainment"
+        ]
+    },
+    {
+        "q": "Organizations need AI governance frameworks as AI adoption grows.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The digital finance function of the future will be more automated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Finance professionals need both technical and business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "skills"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Continuous learning is essential in the rapidly evolving digital landscape.",
+        "type": "true_false",
+        "correct": "True"
+    }
+]

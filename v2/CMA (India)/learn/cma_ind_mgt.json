@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_ind_mgt",
+    "topicId": "cma_ind_mgt",
+    "topicTitle": "Management Accounting and Strategy",
+    "description": "Master Management Accounting including Strategic Planning, Performance Measurement, and Decision Making",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "mgt_1",
+            "type": "content",
+            "title": "Welcome to Management Accounting",
+            "content": "# Management Accounting & Strategy\n\nManagement accounting supports **strategic decisions**.\n\n## What You Will Learn\n\n- **Strategic Planning** - Long-term goals\n- **Performance** - Measurement systems\n- **Decisions** - Analysis techniques\n- **Control** - Management control\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Strategy | Planning |\n| Performance | Measurement |\n| Decisions | Analysis |\n| Control | Systems |"
+        },
+        {
+            "id": "mgt_2",
+            "type": "content",
+            "title": "Strategic Planning",
+            "content": "# Strategy Development\n\n## Planning Process\n\n```\nMission & Vision\n    |\n    v\nEnvironmental Analysis\n    |\n    v\nStrategy Formulation\n    |\n    v\nImplementation\n    |\n    v\nControl & Evaluation\n```\n\n## Analysis Tools\n\n| Tool | Purpose |\n|------|--------|\n| SWOT | Internal/external |\n| PESTEL | Macro environment |\n| Porter 5 | Industry forces |\n| Value chain | Activities |"
+        },
+        {
+            "id": "mgt_3",
+            "type": "content",
+            "title": "Balanced Scorecard",
+            "content": "# Performance Measurement\n\n## Four Perspectives\n\n| Perspective | Question |\n|-------------|----------|\n| Financial | Shareholder view |\n| Customer | Customer view |\n| Internal | Excellence |\n| Learning | Improvement |\n\n## Strategy Map\n\n```\nLearning & Growth\n       |\n       v\n  Internal Process\n       |\n       v\n    Customer\n       |\n       v\n   Financial\n```\n\n## KPIs\n\n- Lead indicators\n- Lag indicators\n- Targets"
+        },
+        {
+            "id": "mgt_quiz_1",
+            "type": "quiz",
+            "title": "Strategy Quiz",
+            "content": "Test your strategy knowledge!",
+            "quizQuestion": "Balanced Scorecard has how many perspectives?",
+            "quizOptions": [
+                "Two",
+                "Three",
+                "Four",
+                "Five"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "mgt_4",
+            "type": "content",
+            "title": "EVA and Value Creation",
+            "content": "# Economic Value Added\n\n## EVA Formula\n\n```\nEVA = NOPAT - (Capital x WACC)\n\nNOPAT = Net Operating Profit After Tax\n```\n\n## Improvement\n\n| Driver | Action |\n|--------|--------|\n| Revenue | Increase sales |\n| Margin | Improve efficiency |\n| Capital | Optimize assets |\n| WACC | Reduce cost |\n\n## MVA\n\n```\nMarket Value Added = Market Value - Book Value\n```"
+        },
+        {
+            "id": "mgt_5",
+            "type": "content",
+            "title": "Target Costing",
+            "content": "# Market-Driven Costing\n\n## Process\n\n```\nMarket Price - Target Profit = Target Cost\n```\n\n## Cost Reduction\n\n| Technique | Application |\n|-----------|-------------|\n| Value engineering | Design phase |\n| Value analysis | Production |\n| Kaizen | Continuous |\n\n## Steps\n\n1. Market research\n2. Target price\n3. Target profit\n4. Target cost\n5. Design to cost"
+        },
+        {
+            "id": "mgt_6",
+            "type": "content",
+            "title": "Activity-Based Management",
+            "content": "# ABM\n\n## ABC Costing\n\n```\n1. Identify activities\n2. Assign costs to pools\n3. Identify cost drivers\n4. Calculate rates\n5. Apply to products\n```\n\n## Value Analysis\n\n| Activity | Assessment |\n|----------|------------|\n| Value-added | Keep |\n| Non-value | Eliminate |\n\n## ABM Applications\n\n- Process improvement\n- Product costing\n- Customer profitability"
+        },
+        {
+            "id": "mgt_quiz_2",
+            "type": "quiz",
+            "title": "EVA Quiz",
+            "content": "Test your EVA knowledge!",
+            "quizQuestion": "EVA equals NOPAT minus?",
+            "quizOptions": [
+                "Depreciation",
+                "Capital charge",
+                "Operating costs",
+                "Interest"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mgt_7",
+            "type": "content",
+            "title": "Transfer Pricing",
+            "content": "# Internal Pricing\n\n## Methods\n\n| Method | Basis |\n|--------|-------|\n| Market | External price |\n| Cost | Variable or full |\n| Cost-plus | Margin added |\n| Negotiated | Agreement |\n\n## Minimum Price\n\n```\nVariable cost + Opportunity cost\n= Minimum acceptable\n```\n\n## International\n\n- Arm's length\n- OECD guidelines\n- Tax implications"
+        },
+        {
+            "id": "mgt_8",
+            "type": "content",
+            "title": "Responsibility Accounting",
+            "content": "# Accountability\n\n## Centers\n\n| Center | Responsible For |\n|--------|----------------|\n| Cost | Costs only |\n| Revenue | Revenue only |\n| Profit | Both |\n| Investment | Profit + assets |\n\n## Controllability\n\n```\nEvaluate only on controllable items\n```\n\n## Investment Center\n\n| Measure | Formula |\n|---------|--------|\n| ROI | Income / Assets |\n| RI | Income - Capital Charge |"
+        },
+        {
+            "id": "mgt_9",
+            "type": "content",
+            "title": "Decision Analysis",
+            "content": "# Short-Term Decisions\n\n## Relevant Costs\n\n| Relevant | Irrelevant |\n|----------|------------|\n| Future | Sunk |\n| Differential | Fixed/committed |\n| Avoidable | Unavoidable |\n\n## Types of Decisions\n\n| Decision | Analysis |\n|----------|----------|\n| Make or buy | Incremental |\n| Special order | Contribution |\n| Drop segment | Traceable costs |"
+        },
+        {
+            "id": "mgt_quiz_3",
+            "type": "quiz",
+            "title": "Decision Quiz",
+            "content": "Test your decision-making knowledge!",
+            "quizQuestion": "Sunk costs are?",
+            "quizOptions": [
+                "Relevant",
+                "Irrelevant",
+                "Future costs",
+                "Variable"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mgt_10",
+            "type": "content",
+            "title": "Risk Management",
+            "content": "# Business Risk\n\n## Risk Categories\n\n| Category | Examples |\n|----------|----------|\n| Strategic | Market |\n| Operational | Process |\n| Financial | Currency |\n| Compliance | Legal |\n\n## Risk Response\n\n| Response | Action |\n|----------|--------|\n| Avoid | Eliminate |\n| Reduce | Controls |\n| Transfer | Insurance |\n| Accept | Within tolerance |"
+        },
+        {
+            "id": "mgt_11",
+            "type": "content",
+            "title": "Budgeting Systems",
+            "content": "# Advanced Budgeting\n\n## Types\n\n| Type | Approach |\n|------|----------|\n| Incremental | Prior + change |\n| Zero-based | Start fresh |\n| Rolling | Continuous |\n| ABB | Activity-based |\n\n## Beyond Budgeting\n\n- Relative targets\n- Continuous forecasting\n- Adaptive processes"
+        },
+        {
+            "id": "mgt_12",
+            "type": "content",
+            "title": "Lean Management",
+            "content": "# Lean Principles\n\n## Seven Wastes\n\n| Waste | Description |\n|-------|-------------|\n| Overproduction | Too much |\n| Waiting | Idle time |\n| Transport | Movement |\n| Processing | Excess work |\n| Inventory | Excess stock |\n| Motion | Unnecessary |\n| Defects | Errors |\n\n## Tools\n\n- 5S\n- Kanban\n- Kaizen\n- Value stream mapping"
+        },
+        {
+            "id": "mgt_quiz_4",
+            "type": "quiz",
+            "title": "Lean Quiz",
+            "content": "Test your lean knowledge!",
+            "quizQuestion": "How many wastes in lean manufacturing?",
+            "quizOptions": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "mgt_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **Management Accounting & Strategy**!\n\n## Key Topics\n\n### Strategy\n- Strategic planning\n- Analysis tools\n- Strategy implementation\n\n### Performance\n- Balanced scorecard\n- EVA and value\n- Responsibility centers\n\n### Techniques\n- Target costing\n- Activity-based management\n- Transfer pricing\n\n### Operations\n- Risk management\n- Lean management\n- Advanced budgeting\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| EVA = NOPAT - Charge | Value |\n| Target = Price - Profit | Costing |\n| ROI = Income / Assets | Performance |\n\n## What is Next?\n\nExplore Financial Management & Policy!"
+        }
+    ]
+}

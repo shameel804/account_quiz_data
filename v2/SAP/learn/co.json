@@ -1,0 +1,167 @@
+{
+    "id": "learn_co",
+    "topicId": "co",
+    "topicTitle": "SAP Controlling",
+    "description": "Master SAP CO fundamentals including Cost Center Accounting, Internal Orders, Profit Center Accounting, and Product Costing",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "contr_1",
+            "type": "content",
+            "title": "Welcome to SAP Controlling",
+            "content": "# SAP Controlling (CO)\n\nSAP CO is the module for **internal management reporting** and cost analysis, helping managers make informed business decisions.\n\n## What You Will Learn\n\n- **Cost Center Accounting** - Track costs by department\n- **Internal Orders** - Track costs by project or event\n- **Profit Center Accounting** - Analyze profitability by segment\n- **Product Costing** - Calculate product costs\n\n## CO vs FI\n\n| Aspect | FI | CO |\n|--------|-----|-------|\n| Purpose | External reporting | Internal management |\n| Users | Shareholders, regulators | Managers |\n| Legal | Mandatory | Optional |\n| Focus | Accuracy, compliance | Analysis, decisions |\n| Time | Historical | Historical + Planning |\n\n## CO Components\n\n```\n+------------------------------------------+\n|            SAP CONTROLLING                |\n+------------------------------------------+\n| Cost Element | Cost Center | Internal   |\n| Accounting   | Accounting  | Orders     |\n+------------------------------------------+\n| Profit Center | Profitability | Product |\n| Accounting    | Analysis      | Costing  |\n+------------------------------------------+\n```\n\n> **CO helps answer:** Where are we spending? Are we profitable?"
+        },
+        {
+            "id": "contr_2",
+            "type": "content",
+            "title": "CO Organizational Structure",
+            "content": "# Controlling Organizational Structure\n\n## Key Organizational Units\n\n### Controlling Area\n- Primary organizational unit for CO\n- Can span multiple company codes\n- Defines currency and fiscal year\n\n### Operating Concern\n- Unit for Profitability Analysis (CO-PA)\n- Defines characteristics and value fields\n\n## Configuration\n\n```\nControlling Area: 1000\n    |\n    +-- Operating Concern: 1000\n    |\n    +-- Company Code: 1000\n    |       +-- Cost Centers\n    |       +-- Profit Centers\n    |\n    +-- Company Code: 2000\n            +-- Cost Centers\n            +-- Profit Centers\n```\n\n## Assignment Relationships\n\n```\nOperating Concern\n        |\n        v\nControlling Area\n        |\n        v\nCompany Code(s)\n```\n\n## Key Configuration Transactions\n\n| TCode | Function |\n|-------|----------|\n| OKKP | Create Controlling Area |\n| OKP1 | CO Fiscal Year Settings |\n| OKKS | Cost Center Standard Hierarchy |\n| KEA0 | Operating Concern |\n\n## Controlling Area Settings\n\n- Currency type (company code or group)\n- Assignment to operating concern\n- Fiscal year variant\n- Number ranges\n\n> **Set up the structure correctly** for effective cost management!"
+        },
+        {
+            "id": "contr_3",
+            "type": "content",
+            "title": "Cost Elements",
+            "content": "# Cost Element Accounting\n\n## What are Cost Elements?\n\nCost elements are the **classification of costs** for internal reporting - the CO equivalent of GL accounts.\n\n## Types of Cost Elements\n\n### Primary Cost Elements\n\n| Type | Description |\n|------|-------------|\n| 1 | Primary cost/expense |\n| 3 | Accrual calculation |\n| 4 | Accrual credit |\n| 11 | Revenue |\n| 12 | Sales deduction |\n\n**Created from:** Existing FI GL accounts\n\n### Secondary Cost Elements\n\n| Type | Description |\n|------|-------------|\n| 21 | Internal settlement |\n| 41 | Overhead rates |\n| 42 | Assessment |\n| 43 | Internal activity allocation |\n\n**Created only in CO** - no corresponding GL account\n\n## Creating Cost Elements\n\n### Primary (KA01)\n\n```\nGL Account: 515000\nControlling Area: 1000\nCost Element Category: 1 (Primary Cost)\n```\n\n### Secondary (KA06)\n\n```\nCost Element: 900000\nControlling Area: 1000\nCategory: 42 (Assessment)\nName: Overhead Allocation\n```\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| KA01 | Create Primary Cost Element |\n| KA06 | Create Secondary Cost Element |\n| KA03 | Display Cost Element |\n\n> **Cost elements are the building blocks** of cost accounting!"
+        },
+        {
+            "id": "contr_quiz_1",
+            "type": "quiz",
+            "title": "Cost Elements Check",
+            "content": "Test your cost element knowledge!",
+            "quizQuestion": "Which type of cost element is created only in CO without a corresponding GL account?",
+            "quizOptions": [
+                "Primary cost element",
+                "Secondary cost element",
+                "Revenue element",
+                "Expense element"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "contr_4",
+            "type": "content",
+            "title": "Cost Center Accounting",
+            "content": "# Cost Center Accounting (CO-CCA)\n\n## What is a Cost Center?\n\nA cost center is an **organizational unit** where costs are incurred and tracked, typically representing departments or functions.\n\n## Cost Center Hierarchy\n\n```\nEnterprise (Root)\n    |\n    +-- Administration\n    |       +-- HR\n    |       +-- Finance\n    |       +-- IT\n    |\n    +-- Operations\n    |       +-- Production\n    |       +-- Quality\n    |       +-- Warehouse\n    |\n    +-- Sales\n            +-- North Region\n            +-- South Region\n```\n\n## Cost Center Master\n\n### Key Fields\n\n| Field | Purpose |\n|-------|--------|\n| Cost Center ID | Unique identifier |\n| Name | Description |\n| Description | Detailed text |\n| Hierarchy | Position in structure |\n| Person Responsible | Manager |\n| Cost Center Type | Category |\n| Company Code | Legal entity |\n| Validity Period | Active dates |\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| KS01 | Create Cost Center |\n| KS02 | Change Cost Center |\n| KS03 | Display Cost Center |\n| OKEON | Cost Center Group |\n| KSH1 | Create Cost Center Group |\n\n## Cost Center Types\n\n| Type | Description |\n|------|-------------|\n| H | Main cost center |\n| F | Production |\n| E | Sales |\n| V | Administration |\n\n> **Cost centers provide accountability** for departmental spending!"
+        },
+        {
+            "id": "contr_5",
+            "type": "content",
+            "title": "Cost Center Planning and Posting",
+            "content": "# Planning and Posting to Cost Centers\n\n## Cost Center Planning\n\n### Planning Elements\n- Primary costs (expenses)\n- Statistical key figures\n- Activity types\n\n### Planning Transaction (KP06)\n\n```\nCost Center: 1000 (IT Department)\nFiscal Year: 2024\n\nPrimary Costs:\n  515000 Rent:        $36,000\n  516000 Utilities:   $12,000\n  517000 Supplies:     $6,000\n                      -------\n  Total Planned:      $54,000\n```\n\n## Actual Posting\n\n### From FI Documents\nAutomatic posting when expense recorded:\n\n```\nFI Entry (FB01):\n  Dr: 515000 Rent    $3,000\n  Cr: Bank           $3,000\n  Cost Center: 1000\n\nAutomatic CO:\n  Cost Center 1000: $3,000\n  Cost Element 515000\n```\n\n### Direct CO Posting (KB11N)\n\n```\nCost Element: 515000\nCost Center: 1000\nAmount: $3,000\n```\n\n## Statistical Key Figures\n\nBaseline data for allocations:\n\n| KF | Description | Unit |\n|----|-------------|------|\n| SQFT | Square footage | M2 |\n| HEDC | Headcount | NO |\n| HOUR | Machine hours | H |\n\n## Key Planning Transactions\n\n| TCode | Function |\n|-------|----------|\n| KP06 | Cost Center Planning |\n| KB11N | Manual Cost Posting |\n| KP46 | Statistical Key Figure Planning |\n\n> **Planning enables budget control** and variance analysis!"
+        },
+        {
+            "id": "contr_6",
+            "type": "content",
+            "title": "Cost Center Allocations",
+            "content": "# Allocating Costs Between Cost Centers\n\n## Why Allocate?\n\n- Distribute shared costs fairly\n- Accurately reflect true cost of products/services\n- Create accountability\n\n## Allocation Methods\n\n### 1. Assessment (KSU5)\n\nTransfers **primary and secondary** costs:\n\n```\nSender: 9000 (Facilities)\nReceivers: Based on square footage\n\nCost of $10,000:\n  - Production (5000 sqft): $5,000\n  - Admin (3000 sqft):      $3,000\n  - Sales (2000 sqft):      $2,000\n```\n\n### 2. Distribution (KSV5)\n\nTransfers **primary costs only**:\n\n```\nSender: 8000 (IT Support)\nReceivers: Based on headcount\n\nIT Costs $15,000:\n  - Production (40 people): $6,000\n  - Admin (35 people):      $5,250\n  - Sales (25 people):      $3,750\n```\n\n## Allocation Cycle\n\n```\n+---------------------------+\n| Cycle: MONTH-END          |\n+---------------------------+\n| Segment 1: Facilities     |\n|   Sender: 9000            |\n|   Receivers: All depts    |\n|   Basis: Square footage   |\n+---------------------------+\n| Segment 2: IT Support     |\n|   Sender: 8000            |\n|   Receivers: All depts    |\n|   Basis: Headcount        |\n+---------------------------+\n```\n\n## Key Allocation Transactions\n\n| TCode | Function |\n|-------|----------|\n| KSU5 | Execute Assessment |\n| KSV5 | Execute Distribution |\n| KSUB | Assessment Definition |\n| KSVB | Distribution Definition |\n\n> **Proper allocation** reflects true cost of operations!"
+        },
+        {
+            "id": "contr_7",
+            "type": "content",
+            "title": "Internal Orders",
+            "content": "# Internal Order Accounting\n\n## What is an Internal Order?\n\nAn internal order is a **cost collector** used to track costs for specific purposes like projects, events, or capital investments.\n\n## Order Types\n\n| Type | Purpose | Example |\n|------|---------|--------|\n| Overhead | Temporary cost tracking | Marketing campaigns |\n| Investment | Capital expenditure | Building construction |\n| Accrual | Periodic cost spreading | Insurance accrual |\n| Revenue | Track revenue | Trade fairs |\n\n## Internal Order Master\n\n### Key Fields\n\n```\nOrder Number: 500001\nOrder Type: 0100 (Overhead)\nDescription: Q1 Marketing Campaign\nResponsible: Marketing Manager\nCompany Code: 1000\nProfit Center: 1001\nStatus: Released\n```\n\n## Order Status Management\n\n```\nCreated --> Released --> Technically Complete --> Closed\n    |           |               |                   |\n    v           v               v                   v\n  No posting  Postings     Settlement         Archived\n  allowed     allowed      completed\n```\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| KO01 | Create Internal Order |\n| KO02 | Change Internal Order |\n| KO03 | Display Internal Order |\n| KO04 | Order Manager |\n| KOB1 | Order Budgeting |\n| KO88 | Settlement |\n\n> **Internal orders provide flexibility** for tracking specific costs!"
+        },
+        {
+            "id": "contr_quiz_2",
+            "type": "quiz",
+            "title": "Internal Orders Quiz",
+            "content": "Test your internal order knowledge!",
+            "quizQuestion": "What transaction is used to settle an internal order?",
+            "quizOptions": [
+                "KO01",
+                "KO02",
+                "KO88",
+                "KOB1"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "contr_8",
+            "type": "content",
+            "title": "Internal Order Budgeting and Settlement",
+            "content": "# Managing Internal Orders\n\n## Order Budgeting (KO22)\n\n### Budget Elements\n- Original budget\n- Supplements\n- Returns\n- Available budget\n\n### Example Budget\n\n```\nOrder: 500001 Marketing Campaign\n\nOriginal Budget:     $50,000\nSupplement:          $10,000\nCurrent Budget:      $60,000\nActual Costs:        $45,000\nCommitments:          $8,000\nAvailable:            $7,000\n```\n\n## Budget Control\n\nActions when budget exceeded:\n- Warning message\n- Error (block posting)\n- Email to responsible\n\n## Order Settlement (KO88)\n\n### Settlement Rule\n\nDefines where costs go after project completion:\n\n```\nSource: Order 500001\nSettlement Receiver:\n  - Cost Center 1000: 100%\n  OR\n  - Fixed Asset 1001: 100% (for investment orders)\n```\n\n### Settlement Types\n\n| Receiver | Use Case |\n|----------|----------|\n| Cost Center | Overhead to department |\n| GL Account | To P&L |\n| Asset | Capitalize investment |\n| WBS Element | To project |\n\n### Settlement Execution\n\n```\nOrder: 500001\nSettlement Period: 12/2024\nTotal Amount: $55,000\n\nSettlement:\n  Dr: Cost Center 1000  $55,000\n  Cr: Order 500001      $55,000\n```\n\n> **Settlement transfers completed costs** to final destinations!"
+        },
+        {
+            "id": "contr_9",
+            "type": "content",
+            "title": "Profit Center Accounting",
+            "content": "# Profit Center Accounting (EC-PCA)\n\n## What is a Profit Center?\n\nA profit center is an **organizational unit for internal profit reporting**, typically representing a business segment, product line, or region.\n\n## Profit Center vs Cost Center\n\n| Aspect | Cost Center | Profit Center |\n|--------|-------------|---------------|\n| Tracks | Costs only | Revenue AND costs |\n| Purpose | Cost control | Profitability analysis |\n| View | Expense focus | P&L focus |\n| Level | Department | Business segment |\n\n## Profit Center Hierarchy\n\n```\nEnterprise\n    |\n    +-- Product Line A\n    |       +-- North America\n    |       +-- Europe\n    |       +-- Asia\n    |\n    +-- Product Line B\n    |       +-- North America\n    |       +-- Europe\n    |\n    +-- Services\n            +-- Consulting\n            +-- Support\n```\n\n## Profit Center Master\n\n### Key Fields\n\n```\nProfit Center: 1001\nName: Consumer Products - NA\nHierarchy: Product Line A\nCompany Code: 1000\nManager: John Smith\nValid From: 01.01.2024\n```\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| KE51 | Create Profit Center |\n| KE52 | Change Profit Center |\n| KE53 | Display Profit Center |\n| KCH1 | Create Profit Center Group |\n| 1KE5 | Profit Center Reports |\n\n> **Profit centers show which segments** make or lose money!"
+        },
+        {
+            "id": "contr_10",
+            "type": "content",
+            "title": "Profit Center Assignment and Reporting",
+            "content": "# Working with Profit Centers\n\n## Automatic Profit Center Assignment\n\n### Rules-Based Assignment\n\n| Master Data | Profit Center From |\n|-------------|--------------------|\n| Cost Center | Cost center master |\n| Material | Material master (sales view) |\n| Fixed Asset | Asset master |\n| Order | Order master |\n\n### Default Profit Center\n\nFallback when no assignment found:\n- Configured per controlling area\n- Used for unassigned postings\n\n## Document Splitting\n\nIn New GL, profit centers enable:\n- Segment-level balance sheets\n- Full financial statements by profit center\n\n```\nCustomer Invoice:\n  Dr: Receivable     $10,000\n  Cr: Revenue        $10,000\n\nWith Splitting:\n  Receivable allocated by revenue profit center\n```\n\n## Profit Center Reports\n\n### Profit and Loss by Profit Center\n\n```\n+--------------------------------+\n| Profit Center: 1001 - NA       |\n+--------------------------------+\n| Revenue:           $500,000    |\n| Cost of Sales:     (300,000)   |\n| Gross Profit:       200,000    |\n| Operating Exp:     (120,000)   |\n| Operating Profit:    $80,000   |\n| Margin:                16%     |\n+--------------------------------+\n```\n\n### Key Reports (1KE5)\n\n| Report | Shows |\n|--------|-------|\n| Actual/Plan | Variance analysis |\n| Balance Sheet | Assets by segment |\n| P&L Statement | Profitability |\n| Comparison | Period comparisons |\n\n> **Profit center reporting** drives strategic decisions!"
+        },
+        {
+            "id": "contr_11",
+            "type": "content",
+            "title": "Product Costing Introduction",
+            "content": "# Product Costing (CO-PC)\n\n## What is Product Costing?\n\nProduct costing **calculates the cost of manufacturing products** by combining material, labor, and overhead costs.\n\n## Product Cost Types\n\n### Standard Cost\n- Predetermined cost\n- Basis for pricing and valuation\n- Set at period start\n\n### Actual Cost\n- Real costs incurred\n- Captured during production\n- Compared to standard for variance\n\n## Cost Components\n\n```\n+------------------------+\n|    PRODUCT COST        |\n+------------------------+\n| Material Costs         |\n|   - Raw materials      |\n|   - Components         |\n+------------------------+\n| Production Costs       |\n|   - Direct labor       |\n|   - Machine time       |\n+------------------------+\n| Overhead Costs         |\n|   - Factory overhead   |\n|   - Administration     |\n+------------------------+\n```\n\n## Costing Methods\n\n| Method | Use Case |\n|--------|----------|\n| Standard Costing | Repetitive manufacturing |\n| Actual Costing | Job shop, projects |\n| Product Cost Collector | Mass production |\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| CK11N | Create Cost Estimate |\n| CK24 | Release Cost Estimate |\n| CK40N | Costing Run |\n| CKMLCP | Actual Costing Run |\n\n> **Product costing supports pricing** and profitability decisions!"
+        },
+        {
+            "id": "contr_quiz_3",
+            "type": "quiz",
+            "title": "Product Costing Quiz",
+            "content": "Test your product costing knowledge!",
+            "quizQuestion": "What transaction is used to create a cost estimate for a product?",
+            "quizOptions": [
+                "CK24",
+                "CK11N",
+                "CK40N",
+                "CKMLCP"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "contr_12",
+            "type": "content",
+            "title": "Cost Estimate Structure",
+            "content": "# Creating Product Cost Estimates\n\n## Prerequisites\n\n1. **Bill of Materials (BOM)**\n   - List of components\n   - Quantities required\n\n2. **Routing**\n   - Production steps\n   - Work centers\n   - Operation times\n\n3. **Activity Types**\n   - Labor rates\n   - Machine rates\n\n## Cost Estimate Elements\n\n```\nProduct: Finished Good FG001\nQuantity: 1 EA\n\nMaterial Costs:\n  Component A (2 EA x $10):     $20.00\n  Component B (1 EA x $15):      15.00\n  Raw Material (0.5 KG x $8):     4.00\n                                ------\n  Total Materials:               $39.00\n\nProduction Costs:\n  Labor (0.5 hr x $25/hr):       $12.50\n  Machine (0.25 hr x $40/hr):     10.00\n                                ------\n  Total Production:              $22.50\n\nOverhead:\n  Factory Overhead (20%):        $12.30\n                                ------\nTotal Product Cost:              $73.80\n```\n\n## Costing Variants\n\nDefine how cost is calculated:\n- Which BOM to use\n- Which routing to use\n- Costing date\n- Valuation variant\n\n## Key Reports\n\n| Report | Shows |\n|--------|-------|\n| CK13N | Display Cost Estimate |\n| S_ALR_87013611 | Cost Estimate List |\n| KKBC_HOE | Cost Object Hierarchy |\n\n> **Accurate cost estimates** enable informed pricing!"
+        },
+        {
+            "id": "contr_13",
+            "type": "content",
+            "title": "Profitability Analysis",
+            "content": "# Profitability Analysis (CO-PA)\n\n## What is CO-PA?\n\nProfitability Analysis analyzes **profit contribution by market segments** like products, customers, regions, or channels.\n\n## CO-PA Types\n\n### Costing-Based\n- Values assigned from cost estimates\n- Faster posting\n- Less detailed\n\n### Account-Based\n- Values from cost elements\n- More detailed\n- Reconciles to FI\n\n## Characteristics and Value Fields\n\n### Characteristics (Dimensions)\n\n| Characteristic | Example |\n|----------------|--------|\n| Customer | ABC Corp |\n| Product | Widget A |\n| Region | North America |\n| Sales Org | 1000 |\n| Channel | Direct |\n\n### Value Fields (Measures)\n\n| Value Field | Description |\n|-------------|-------------|\n| Revenue | Sales amount |\n| Discounts | Price reductions |\n| Cost of Sales | Product cost |\n| Freight | Shipping costs |\n| Commission | Sales commission |\n\n## CO-PA Data Flow\n\n```\nSD Billing --> CO-PA Posting\n    |\n    v\nCharacteristics + Value Fields\n    |\n    v\nProfitability Report\n```\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| KE21N | Create CO-PA Document |\n| KE24 | Display CO-PA Document |\n| KE30 | Run CO-PA Reports |\n| KEA0 | Maintain Operating Concern |\n\n> **CO-PA reveals where you make money!**"
+        },
+        {
+            "id": "contr_14",
+            "type": "content",
+            "title": "CO Reporting",
+            "content": "# Controlling Reports\n\n## Cost Center Reports\n\n### Actual vs Plan (S_ALR_87013611)\n\n```\n+----------------------------------------+\n| Cost Center: 1000 IT Department         |\n+----------------------------------------+\n| Cost Element      | Actual | Plan | Var|\n|-------------------|--------|------|----|\n| Personnel         | 150K   | 160K | 10K|\n| Equipment         | 45K    | 40K  |-5K |\n| Services          | 35K    | 30K  |-5K |\n|-------------------|--------|------|----|\n| Total             | 230K   | 230K | 0K |\n+----------------------------------------+\n```\n\n## Internal Order Reports\n\n### Order Status (KOB1)\n\n```\n+----------------------------------------+\n| Order: 500001 Marketing Campaign        |\n+----------------------------------------+\n| Budget:           $60,000              |\n| Actual:           $52,000              |\n| Committed:         $5,000              |\n| Available:         $3,000              |\n+----------------------------------------+\n```\n\n## Profit Center Reports\n\n### Segment P&L (1KE5)\n\n```\n+----------------------------------------+\n| Profit Center: Consumer Products        |\n+----------------------------------------+\n| Revenue:          $1,200,000           |\n| Direct Costs:       (720,000)          |\n| Contribution:        480,000           |\n| Allocated Costs:    (200,000)          |\n| Net Profit:         $280,000           |\n| Margin:                23.3%           |\n+----------------------------------------+\n```\n\n## Report Navigation\n\n- Drill down from summary to detail\n- Filter by period, object, element\n- Export to Excel\n- Save report variants\n\n> **Reports enable data-driven decisions!**"
+        },
+        {
+            "id": "contr_15",
+            "type": "content",
+            "title": "Period-End in CO",
+            "content": "# CO Period-End Closing\n\n## Monthly Activities\n\n### 1. Allocations\n\n```\n1. Run assessment cycles (KSU5)\n2. Run distribution cycles (KSV5)\n3. Execute overhead calculation\n4. Settle internal orders (KO88)\n```\n\n### 2. Posting Checks\n\n```\n- Verify all FI postings have CO assignment\n- Check for missing cost centers\n- Reconcile FI to CO balances\n```\n\n### 3. Reporting\n\n```\n- Run variance reports\n- Generate management reports\n- Analyze profitability\n```\n\n## CO Closing Checklist\n\n| Step | Transaction | Description |\n|------|-------------|-------------|\n| 1 | KB11N | Post manual adjustments |\n| 2 | KSU5 | Assessment cycle |\n| 3 | KSV5 | Distribution cycle |\n| 4 | KO88 | Order settlement |\n| 5 | 1KE5 | Profit center reports |\n| 6 | KE30 | CO-PA reports |\n\n## Periodic Reposting (KB61)\n\nCorrect wrong assignments:\n\n```\nFrom: Cost Center 1000\nTo: Cost Center 2000\nAmount: $5,000\nReason: Incorrect original posting\n```\n\n## Reconciliation\n\n```\nFI GL Balance (515000):    $500,000\nCO Cost Element (515000):  $500,000\n                           --------\nDifference:                     $0\n```\n\n> **Consistent closing procedures** ensure accurate management reporting!"
+        },
+        {
+            "id": "contr_16",
+            "type": "content",
+            "title": "CO Integration Scenarios",
+            "content": "# CO Integration with Other Modules\n\n## FI to CO Integration\n\n### Automatic Posting\n\n```\nFI Document:\n  Dr: 515000 Rent      $10,000\n  Cr: 100000 Bank      $10,000\n  Cost Center: 1000\n\nAutomatic CO Document:\n  Cost Center 1000 receives $10,000\n  Cost Element 515000\n```\n\n## MM to CO Integration\n\n### Goods Receipt\n\n```\nPO Receipt:\n  Material: RAW001\n  Quantity: 100\n  Price: $50 each\n\nCO Impact:\n  If to Cost Center: Direct posting\n  If to Order: Order receives cost\n```\n\n## PP to CO Integration\n\n### Production Order\n\n```\nProduction Order: 60001234\n  |\n  +-- Material consumption --> Cost Element\n  +-- Labor time --> Activity type\n  +-- Machine time --> Activity type\n  +-- Overhead --> Calculated\n```\n\n## SD to CO-PA Integration\n\n### Billing Document\n\n```\nSales Invoice:\n  Customer: 100001\n  Product: FG001\n  Amount: $1,000\n\nCO-PA:\n  Revenue: $1,000\n  COGS: $650 (from product cost)\n  Contribution: $350\n  Characteristics: Customer, Product, Region\n```\n\n## HR to CO Integration\n\n### Payroll Posting\n\n```\nPayroll Results:\n  Employee in Cost Center 1000\n  Salary: $5,000\n\nCO Posting:\n  Cost Center 1000: $5,000\n  Cost Element: Personnel Expenses\n```\n\n> **CO integrates with all modules** for complete cost visibility!"
+        },
+        {
+            "id": "contr_quiz_4",
+            "type": "quiz",
+            "title": "Integration Quiz",
+            "content": "Test your integration knowledge!",
+            "quizQuestion": "When a goods receipt is posted for a cost center, which module receives the cost automatically?",
+            "quizOptions": [
+                "FI only",
+                "MM only",
+                "CO (Controlling)",
+                "SD"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "contr_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **SAP Controlling** lesson!\n\n## Key Concepts Mastered\n\n### Cost Elements\n- Primary (from GL accounts)\n- Secondary (CO only)\n- Foundation for cost tracking\n\n### Cost Center Accounting\n- Track costs by department\n- Planning and budgeting\n- Allocations (assessment, distribution)\n\n### Internal Orders\n- Temporary cost collectors\n- Budgeting and control\n- Settlement to receivers\n\n### Profit Center Accounting\n- Segment profitability\n- Revenue and costs together\n- Internal P&L statements\n\n### Product Costing\n- Material, labor, overhead\n- Standard vs actual costs\n- Variance analysis\n\n## Quick Reference\n\n| Function | Key TCode |\n|----------|----------|\n| Cost Center | KS01 |\n| Internal Order | KO01 |\n| Profit Center | KE51 |\n| Assessment | KSU5 |\n| Settlement | KO88 |\n| Cost Estimate | CK11N |\n| CO-PA Report | KE30 |\n\n## What is Next?\n\nExplore:\n- Advanced CO configuration\n- SAP integration scenarios\n- Material Management interface\n\n> **CO provides the insight** for better business decisions!"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_ind_audit",
+    "topicId": "cma_ind_audit",
+    "topicTitle": "Internal Audit and Controls",
+    "description": "Master Internal Audit including Control Framework, Risk Assessment, and Audit Process",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "aud_1",
+            "type": "content",
+            "title": "Welcome to Internal Audit",
+            "content": "# Internal Audit & Controls\n\nInternal audit provides **independent assurance** to management.\n\n## What You Will Learn\n\n- **Internal Audit** - Role and function\n- **Internal Control** - Frameworks\n- **Risk Assessment** - Identification\n- **Audit Process** - Methodology\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Internal audit | IIA standards |\n| Controls | COSO framework |\n| Risk | Assessment |\n| Process | Methodology |"
+        },
+        {
+            "id": "aud_2",
+            "type": "content",
+            "title": "Internal Audit Function",
+            "content": "# Role of Internal Audit\n\n## Definition\n\n```\nIndependent, objective assurance\nand consulting activity\n```\n\n## Value Added\n\n| Area | Contribution |\n|------|-------------|\n| Governance | Oversight |\n| Risk | Management |\n| Controls | Effectiveness |\n| Operations | Efficiency |\n\n## Reporting\n\n- Administratively to management\n- Functionally to audit committee\n\n## IIA Standards\n\n- Attribute standards\n- Performance standards"
+        },
+        {
+            "id": "aud_3",
+            "type": "content",
+            "title": "COSO Framework",
+            "content": "# Internal Control Framework\n\n## Five Components\n\n| Component | Focus |\n|-----------|-------|\n| Control environment | Foundation |\n| Risk assessment | Identification |\n| Control activities | Policies |\n| Information | Communication |\n| Monitoring | Ongoing/separate |\n\n## 17 Principles\n\nEach component has supporting principles.\n\n## Control Objectives\n\n| Category | Focus |\n|----------|-------|\n| Operations | Effectiveness |\n| Reporting | Reliability |\n| Compliance | Laws/regulations |"
+        },
+        {
+            "id": "aud_quiz_1",
+            "type": "quiz",
+            "title": "Control Quiz",
+            "content": "Test your control knowledge!",
+            "quizQuestion": "COSO has how many components?",
+            "quizOptions": [
+                "Three",
+                "Four",
+                "Five",
+                "Six"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "aud_4",
+            "type": "content",
+            "title": "Control Activities",
+            "content": "# Types of Controls\n\n## By Timing\n\n| Type | When |\n|------|------|\n| Preventive | Before event |\n| Detective | After event |\n| Corrective | Fix issues |\n\n## By Nature\n\n| Type | Examples |\n|------|----------|\n| Authorization | Approval |\n| Segregation | Separate duties |\n| Physical | Lock and key |\n| Reconciliation | Match records |\n\n## Segregation of Duties\n\n```\nSeparate:\n- Authorization\n- Custody\n- Recording\n- Reconciliation\n```"
+        },
+        {
+            "id": "aud_5",
+            "type": "content",
+            "title": "Risk Assessment",
+            "content": "# Risk-Based Approach\n\n## Risk Categories\n\n| Category | Examples |\n|----------|----------|\n| Strategic | Competition |\n| Operational | Process |\n| Financial | Reporting |\n| Compliance | Regulatory |\n\n## Risk Assessment Steps\n\n```\n1. Identify risks\n2. Assess likelihood\n3. Assess impact\n4. Evaluate controls\n5. Determine residual risk\n```\n\n## Risk Matrix\n\n| | Low Impact | High Impact |\n|---|------------|-------------|\n| High Likelihood | Medium | High |\n| Low Likelihood | Low | Medium |"
+        },
+        {
+            "id": "aud_6",
+            "type": "content",
+            "title": "Audit Planning",
+            "content": "# Audit Process - Planning\n\n## Annual Plan\n\n| Factor | Consideration |\n|--------|---------------|\n| Risk assessment | Priority |\n| Resources | Capacity |\n| Coverage | Rotation |\n| Management | Requests |\n\n## Engagement Planning\n\n- Objectives\n- Scope\n- Timing\n- Resources\n- Communication\n\n## Risk-Based Audit\n\n```\nFocus resources on high-risk areas\n```"
+        },
+        {
+            "id": "aud_quiz_2",
+            "type": "quiz",
+            "title": "Planning Quiz",
+            "content": "Test your audit planning!",
+            "quizQuestion": "Risk-based audit focuses on?",
+            "quizOptions": [
+                "All areas equally",
+                "High-risk areas",
+                "Financial only",
+                "Compliance only"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "aud_7",
+            "type": "content",
+            "title": "Audit Execution",
+            "content": "# Fieldwork\n\n## Audit Procedures\n\n| Procedure | Purpose |\n|-----------|--------|\n| Inquiry | Information |\n| Observation | Process review |\n| Inspection | Document review |\n| Re-performance | Testing |\n| Analysis | Data review |\n\n## Evidence\n\n| Quality | Characteristic |\n|---------|----------------|\n| Sufficient | Enough |\n| Appropriate | Relevant, reliable |\n\n## Working Papers\n\n- Document work\n- Support conclusions\n- Retention"
+        },
+        {
+            "id": "aud_8",
+            "type": "content",
+            "title": "Audit Reporting",
+            "content": "# Communication of Results\n\n## Report Contents\n\n| Element | Purpose |\n|---------|--------|\n| Objectives | What examined |\n| Scope | Coverage |\n| Findings | Issues |\n| Recommendations | Solutions |\n| Management response | Actions |\n\n## Finding Elements\n\n```\nCondition: What is\nCriteria: What should be\nCause: Why gap exists\nEffect: Impact\n```\n\n## Follow-Up\n\n- Track implementation\n- Verify resolution\n- Report status"
+        },
+        {
+            "id": "aud_9",
+            "type": "content",
+            "title": "IT Audit",
+            "content": "# Information Technology Controls\n\n## General Controls\n\n| Area | Examples |\n|------|----------|\n| Access | Security |\n| Change | Modifications |\n| Operations | Processing |\n| Network | Infrastructure |\n\n## Application Controls\n\n| Type | Focus |\n|------|-------|\n| Input | Data entry |\n| Processing | Calculations |\n| Output | Reports |\n\n## Cybersecurity\n\n- Threat assessment\n- Control testing\n- Incident response"
+        },
+        {
+            "id": "aud_quiz_3",
+            "type": "quiz",
+            "title": "IT Quiz",
+            "content": "Test your IT audit knowledge!",
+            "quizQuestion": "Access controls are?",
+            "quizOptions": [
+                "Application controls",
+                "General controls",
+                "Detective controls only",
+                "Not tested"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "aud_10",
+            "type": "content",
+            "title": "Fraud Auditing",
+            "content": "# Fraud Detection\n\n## Fraud Triangle\n\n```\n    Opportunity\n       /    \\\\\n      /      \\\\\nPressure----Rationalization\n```\n\n## Red Flags\n\n| Indicator | Concern |\n|-----------|--------|\n| Lifestyle | Beyond means |\n| Control override | Management |\n| Unusual transactions | Pattern |\n\n## Investigation\n\n- Evidence preservation\n- Confidentiality\n- Legal considerations"
+        },
+        {
+            "id": "aud_11",
+            "type": "content",
+            "title": "Quality Assurance",
+            "content": "# Audit Quality\n\n## QAIP\n\n```\nQuality Assurance and Improvement Program\n\nInternal assessments:\n- Ongoing monitoring\n- Periodic reviews\n\nExternal assessment:\n- At least every 5 years\n```\n\n## Internal Reviews\n\n| Type | Frequency |\n|------|----------|\n| Ongoing | Continuous |\n| Periodic | Annual |\n\n## Conformance\n\n- IIA Standards\n- Code of Ethics"
+        },
+        {
+            "id": "aud_12",
+            "type": "content",
+            "title": "Cost Audit",
+            "content": "# Statutory Cost Audit\n\n## Applicability\n\n| Threshold | Requirement |\n|-----------|-------------|\n| Turnover > Rs 50 cr | Specified products |\n| Listed companies | Mandatory |\n\n## Cost Auditor\n\n- CMA qualification\n- Independent\n- Board appointed\n\n## Report\n\n- CRA-3 format\n- Cost records review\n- Compliance check"
+        },
+        {
+            "id": "aud_quiz_4",
+            "type": "quiz",
+            "title": "Cost Audit Quiz",
+            "content": "Test your cost audit knowledge!",
+            "quizQuestion": "Cost auditor must be a?",
+            "quizOptions": [
+                "CA",
+                "CMA",
+                "CS",
+                "Any of above"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "aud_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **Internal Audit & Controls**!\n\n## Key Topics\n\n### Internal Audit\n- Role and function\n- IIA Standards\n- Independence\n\n### Controls\n- COSO framework\n- Control types\n- Segregation\n\n### Process\n- Planning\n- Execution\n- Reporting\n\n### Specialized\n- IT audit\n- Fraud auditing\n- Cost audit\n\n## Key Frameworks\n\n| Framework | Use |\n|-----------|-----|\n| COSO | Internal control |\n| IIA Standards | Internal audit |\n| CRA-3 | Cost audit |\n\n## What is Next?\n\nExplore IT & Analytics in Management!"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "id": "learn_tal_bas",
+    "topicId": "tal_bas",
+    "topicTitle": "Basics of Tally",
+    "description": "Master Tally fundamentals including Introduction to Tally Prime, Company Creation, Ledger Management, and Basic Navigation",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "tal_bas_1",
+            "type": "content",
+            "title": "Welcome to Tally",
+            "content": "# Introduction to Tally Prime\n\nTally is one of the most popular **accounting software** solutions, widely used by businesses across India and many other countries.\n\n## What You Will Learn\n\n- **Introduction to Tally** - What it is and why it matters\n- **Company Creation** - Setting up a new company\n- **Ledger Management** - Creating and managing accounts\n- **Basic Navigation** - Moving around Tally\n\n## Why Tally?\n\n| Benefit | Description |\n|---------|-------------|\n| User-Friendly | Easy to learn and use |\n| GST Ready | Built-in GST compliance |\n| Affordable | Cost-effective for SMEs |\n| Reliable | Trusted by millions |\n| Versatile | Accounting, inventory, payroll |\n\n## Tally Versions\n\n| Version | Features |\n|---------|----------|\n| Tally.ERP 9 | Legacy version |\n| Tally Prime | Latest version, modern UI |\n| Tally Prime Edit Log | Audit trail features |\n\n## Who Uses Tally?\n\n- Small and Medium Enterprises\n- Chartered Accountants\n- Tax Professionals\n- Educational Institutions\n\n> **Tally is the backbone** of Indian business accounting!"
+        },
+        {
+            "id": "tal_bas_2",
+            "type": "content",
+            "title": "Tally Prime Interface",
+            "content": "# Navigating Tally Prime\n\n## Main Screen Elements\n\n```\n+------------------------------------------+\n| Gateway of Tally                         |\n+------------------------------------------+\n| Company Name:   ABC Traders              |\n| Current Date:   01-Jan-2024              |\n+------------------------------------------+\n| Masters                                  |\n|   > Create                               |\n|   > Alter                                |\n|   > Display                              |\n+------------------------------------------+\n| Transactions                             |\n|   > Vouchers                             |\n|   > Day Book                             |\n+------------------------------------------+\n| Reports                                  |\n|   > Balance Sheet                        |\n|   > Profit and Loss                      |\n|   > Stock Summary                        |\n+------------------------------------------+\n```\n\n## Key Navigation Methods\n\n### Keyboard Shortcuts\n\n| Key | Action |\n|-----|--------|\n| Alt+F1 | Company Info |\n| Alt+F2 | Change Date |\n| Alt+F3 | Company Features |\n| F11 | Company Features |\n| F12 | Configuration |\n| Esc | Go Back |\n\n### Menu Navigation\n- Use arrow keys to move\n- Enter to select\n- Esc to go back\n\n## Gateway of Tally\n\nThe main hub for:\n- Creating masters (ledgers, groups)\n- Entering transactions (vouchers)\n- Viewing reports\n\n> **Master the keyboard shortcuts** for faster operation!"
+        },
+        {
+            "id": "tal_bas_3",
+            "type": "content",
+            "title": "Creating a Company",
+            "content": "# Company Creation in Tally\n\n## Steps to Create a Company\n\n### Path: Gateway of Tally > Create Company\n\nOr use shortcut: **Alt+F3 > Create Company**\n\n## Company Creation Form\n\n```\n+----------------------------------+\n| Company Creation                 |\n+----------------------------------+\n| Name: ABC Traders Pvt. Ltd.      |\n| Mailing Name: ABC Traders        |\n| Address: 123 Main Street         |\n| State: Maharashtra               |\n| Country: India                   |\n| Pincode: 400001                  |\n+----------------------------------+\n| Financial Year Begins: 1-Apr-23  |\n| Books Begins From: 1-Apr-23      |\n+----------------------------------+\n| Security Control: No             |\n| Base Currency: INR               |\n+----------------------------------+\n```\n\n## Key Fields\n\n| Field | Description |\n|-------|-------------|\n| Name | Legal company name |\n| Financial Year | April to March (India) |\n| Books Begin | When to start entries |\n| Security | Password protection |\n| Currency | Base reporting currency |\n\n## Statutory Information\n\n- GST Registration details\n- PAN Number\n- TAN Number\n- State for GST\n\n## Company Features (F11)\n\nEnable/disable features:\n- Inventory management\n- Cost centers\n- Multiple currencies\n- GST compliance\n\n> **Set up company correctly** - it affects all future transactions!"
+        },
+        {
+            "id": "tal_bas_quiz_1",
+            "type": "quiz",
+            "title": "Company Setup Check",
+            "content": "Test your company setup knowledge!",
+            "quizQuestion": "Which shortcut opens Company Features in Tally?",
+            "quizOptions": [
+                "F10",
+                "F11",
+                "F12",
+                "Alt+F3"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "tal_bas_4",
+            "type": "content",
+            "title": "Understanding Groups",
+            "content": "# Groups in Tally\n\n## What are Groups?\n\nGroups are **categories that organize ledgers** for proper classification in financial statements.\n\n## Pre-Defined Primary Groups\n\n### Capital (Balance Sheet)\n- Capital Account\n- Reserves and Surplus\n\n### Current Assets\n- Bank Accounts\n- Cash-in-Hand\n- Sundry Debtors\n- Stock-in-Hand\n\n### Current Liabilities\n- Sundry Creditors\n- Duties and Taxes\n\n### Fixed Assets\n- Investments\n\n### Loans\n- Loans (Liability)\n- Secured Loans\n- Unsecured Loans\n\n### Income (P&L)\n- Sales Accounts\n- Direct Income\n- Indirect Income\n\n### Expenses (P&L)\n- Purchase Accounts\n- Direct Expenses\n- Indirect Expenses\n\n## Group Hierarchy\n\n```\nPrimary Group\n    |\n    +-- Sub-Group 1\n    |       |\n    |       +-- Sub-Group 1a\n    |\n    +-- Sub-Group 2\n            |\n            +-- Ledgers\n```\n\n## Creating Groups\n\n**Path:** Gateway > Create > Group\n\n```\nName: Marketing Expenses\nUnder: Indirect Expenses\n```\n\n> **Proper group structure** ensures accurate financial reporting!"
+        },
+        {
+            "id": "tal_bas_5",
+            "type": "content",
+            "title": "Creating Ledgers",
+            "content": "# Ledger Management\n\n## What is a Ledger?\n\nA ledger is an **individual account** under a group where transactions are recorded.\n\n## Creating a Ledger\n\n**Path:** Gateway > Create > Ledger\n\n### Ledger Creation Form\n\n```\n+----------------------------------+\n| Ledger Creation                  |\n+----------------------------------+\n| Name: Rent Expense               |\n| Under: Indirect Expenses         |\n| Opening Balance: [Leave blank]   |\n+----------------------------------+\n| Mailing Details:                 |\n| Address: [Optional]              |\n+----------------------------------+\n```\n\n## Common Ledger Types\n\n### Party Ledgers\n\n| Type | Group | Example |\n|------|-------|--------|\n| Customer | Sundry Debtors | ABC Corp |\n| Supplier | Sundry Creditors | XYZ Suppliers |\n\n### Bank Ledgers\n\n| Account | Group |\n|---------|-------|\n| HDFC Bank | Bank Accounts |\n| ICICI Bank | Bank Accounts |\n\n### Expense Ledgers\n\n| Ledger | Group |\n|--------|-------|\n| Salary | Indirect Expenses |\n| Rent | Indirect Expenses |\n| Electricity | Indirect Expenses |\n\n### Income Ledgers\n\n| Ledger | Group |\n|--------|-------|\n| Sales | Sales Accounts |\n| Commission | Indirect Income |\n\n## Opening Balances\n\n- Enter for Balance Sheet items\n- Required for migration\n- Credit for liabilities\n- Debit for assets\n\n> **Create all ledgers before transactions!**"
+        },
+        {
+            "id": "tal_bas_6",
+            "type": "content",
+            "title": "Ledger Configuration Options",
+            "content": "# Advanced Ledger Settings\n\n## Party Ledger Options\n\n### For Sundry Debtors/Creditors\n\n```\nMaintain Balances Bill-by-Bill: Yes\nDefault Credit Period: 30 days\nCredit Limit: Rs. 100,000\n```\n\n### Benefits of Bill-by-Bill\n- Track individual invoices\n- Aging analysis\n- Automatic bill matching\n\n## Bank Ledger Options\n\n```\nBank Account Number: 1234567890\nIFSC Code: HDFC0001234\nBranch: Mumbai Main\nSet Cheque Books: Yes\n```\n\n## GST-Related Settings\n\n### For Party Ledgers\n\n```\nGST Registration Type: Regular\nGSTIN: 27AABCT1234P1Z5\nSet Party GST Details: Yes\n```\n\n### For Item/Service Ledgers\n\n```\nGST Applicable: Applicable\nSet HSN/SAC: Yes\nHSN Code: 8471\n```\n\n## Inventory Ledgers\n\n### Stock Item Ledger\n\n```\nUnder: Stock Items\nUnits: Nos/Kgs/Pcs\nOpening Stock: Qty, Rate, Value\n```\n\n## Cost Center Allocation\n\n```\nCost Centre Applicable: Yes\nDefault Cost Centre: Head Office\n```\n\n> **Configure ledgers properly** for complete information!"
+        },
+        {
+            "id": "tal_bas_7",
+            "type": "content",
+            "title": "Voucher Types Overview",
+            "content": "# Voucher Types in Tally\n\n## What is a Voucher?\n\nA voucher is a **document that records transactions** in Tally. Each voucher type serves a specific purpose.\n\n## Standard Voucher Types\n\n### Accounting Vouchers\n\n| Type | Shortcut | Purpose |\n|------|----------|--------|\n| Receipt | F6 | Cash/bank received |\n| Payment | F5 | Cash/bank paid |\n| Contra | F4 | Bank to cash transfers |\n| Journal | F7 | Adjustments, entries |\n| Sales | F8 | Sales transactions |\n| Purchase | F9 | Purchase transactions |\n| Credit Note | Ctrl+F8 | Sales returns |\n| Debit Note | Ctrl+F9 | Purchase returns |\n\n### Inventory Vouchers\n\n| Type | Purpose |\n|------|--------|\n| Stock Journal | Stock transfers |\n| Delivery Note | Goods sent |\n| Receipt Note | Goods received |\n| Physical Stock | Stock verification |\n\n## Voucher Entry Flow\n\n```\nGateway > Vouchers > [Voucher Type]\n    |\n    v\nDate > Particulars > Amount\n    |\n    v\nNarration (optional)\n    |\n    v\nSave (Ctrl+A) or Accept (Enter)\n```\n\n## Voucher Numbering\n\n- Automatic or manual\n- Can restart for each year\n- Prefix and suffix options\n\n> **Use the right voucher type** for each transaction!"
+        },
+        {
+            "id": "tal_bas_quiz_2",
+            "type": "quiz",
+            "title": "Voucher Types Quiz",
+            "content": "Test your voucher knowledge!",
+            "quizQuestion": "Which voucher type is used to record cash received from customers?",
+            "quizOptions": [
+                "Payment Voucher (F5)",
+                "Receipt Voucher (F6)",
+                "Contra Voucher (F4)",
+                "Journal Voucher (F7)"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "tal_bas_8",
+            "type": "content",
+            "title": "Basic Voucher Entry",
+            "content": "# Entering Vouchers\n\n## Receipt Voucher (F6)\n\n### Example: Received Rs.10,000 from Customer\n\n```\n+----------------------------------+\n| Receipt Voucher                  |\n+----------------------------------+\n| Date: 15-Jan-2024                |\n+----------------------------------+\n| Account: Cash (Dr)               |\n| Amount: Rs. 10,000               |\n+----------------------------------+\n| Particulars: ABC Customer (Cr)   |\n| Amount: Rs. 10,000               |\n+----------------------------------+\n| Narration: Received against      |\n| Invoice 101                      |\n+----------------------------------+\n```\n\n## Payment Voucher (F5)\n\n### Example: Paid Rs.5,000 for Rent\n\n```\n+----------------------------------+\n| Payment Voucher                  |\n+----------------------------------+\n| Date: 20-Jan-2024                |\n+----------------------------------+\n| Account: Cash (Cr)               |\n| Amount: Rs. 5,000                |\n+----------------------------------+\n| Particulars: Rent Expense (Dr)   |\n| Amount: Rs. 5,000                |\n+----------------------------------+\n| Narration: Office rent for Jan   |\n+----------------------------------+\n```\n\n## Contra Voucher (F4)\n\n### Example: Deposited Rs.20,000 to Bank\n\n```\n+----------------------------------+\n| Contra Voucher                   |\n+----------------------------------+\n| Account: Bank Account (Dr)       |\n| Amount: Rs. 20,000               |\n+----------------------------------+\n| Account: Cash (Cr)               |\n| Amount: Rs. 20,000               |\n+----------------------------------+\n```\n\n## Saving Vouchers\n\n| Action | Shortcut |\n|--------|----------|\n| Save and Continue | Enter |\n| Save and Exit | Ctrl+A |\n| Cancel | Esc |\n\n> **Practice voucher entry** until it becomes natural!"
+        },
+        {
+            "id": "tal_bas_9",
+            "type": "content",
+            "title": "Sales and Purchase Vouchers",
+            "content": "# Sales and Purchase Entry\n\n## Sales Voucher (F8)\n\n### Simple Sale (Non-GST)\n\n```\n+----------------------------------+\n| Sales Voucher                    |\n+----------------------------------+\n| Date: 25-Jan-2024                |\n| Party: XYZ Customer              |\n+----------------------------------+\n| Sales Ledger: Sales A/c          |\n| Amount: Rs. 50,000               |\n+----------------------------------+\n| Total: Rs. 50,000                |\n+----------------------------------+\n```\n\n### Sale with GST\n\n```\n+----------------------------------+\n| Sales Voucher                    |\n+----------------------------------+\n| Party: ABC Corp (GSTIN: 27...)   |\n+----------------------------------+\n| Stock Item: Widget               |\n| Qty: 100 Nos @ Rs. 450           |\n| Amount: Rs. 45,000               |\n+----------------------------------+\n| CGST @ 9%: Rs. 4,050             |\n| SGST @ 9%: Rs. 4,050             |\n+----------------------------------+\n| Grand Total: Rs. 53,100          |\n+----------------------------------+\n```\n\n## Purchase Voucher (F9)\n\n### Purchase Entry\n\n```\n+----------------------------------+\n| Purchase Voucher                 |\n+----------------------------------+\n| Party: Supplier Ltd.             |\n| Purchase A/c: Purchases          |\n+----------------------------------+\n| Amount: Rs. 30,000               |\n| CGST @ 9%: Rs. 2,700             |\n| SGST @ 9%: Rs. 2,700             |\n+----------------------------------+\n| Total: Rs. 35,400                |\n+----------------------------------+\n```\n\n## Invoice Mode vs Voucher Mode\n\n| Mode | Use Case |\n|------|----------|\n| Invoice | Detailed with items, GST |\n| Voucher | Simple accounting entry |\n\nPress **Ctrl+V** to toggle between modes.\n\n> **Invoice mode** is preferred for GST compliance!"
+        },
+        {
+            "id": "tal_bas_10",
+            "type": "content",
+            "title": "Journal Vouchers",
+            "content": "# Journal Voucher (F7)\n\n## When to Use Journal Vouchers\n\n- Adjusting entries\n- Opening balances\n- Corrections\n- Non-cash transactions\n- Depreciation entries\n\n## Journal Entry Example\n\n### Depreciation Entry\n\n```\n+----------------------------------+\n| Journal Voucher                  |\n+----------------------------------+\n| Date: 31-Mar-2024                |\n+----------------------------------+\n| Depreciation (Dr)    Rs. 10,000  |\n|   Furniture (Cr)     Rs. 10,000  |\n+----------------------------------+\n| Narration: Depreciation on       |\n| furniture for FY 2023-24         |\n+----------------------------------+\n```\n\n### Opening Balance Entry\n\n```\n+----------------------------------+\n| Journal Voucher                  |\n+----------------------------------+\n| Capital A/c (Cr)     Rs. 500,000 |\n| Cash (Dr)            Rs. 100,000 |\n| Bank (Dr)            Rs. 300,000 |\n| Stock (Dr)           Rs. 100,000 |\n+----------------------------------+\n| Narration: Opening balances      |\n| brought forward                   |\n+----------------------------------+\n```\n\n### Interest Adjustment\n\n```\n+----------------------------------+\n| Journal Voucher                  |\n+----------------------------------+\n| Interest Expense (Dr) Rs. 5,000  |\n|   Interest Payable (Cr) Rs. 5,000|\n+----------------------------------+\n| Narration: Interest accrued on   |\n| loan for Q4                       |\n+----------------------------------+\n```\n\n## Journal Voucher Rules\n\n- Debits must equal Credits\n- No cash/bank movement (use Payment/Receipt)\n- Date should be correct\n\n> **Journals handle all non-cash adjustments!**"
+        },
+        {
+            "id": "tal_bas_11",
+            "type": "content",
+            "title": "Basic Reports",
+            "content": "# Viewing Reports in Tally\n\n## Accessing Reports\n\n**Path:** Gateway of Tally > Reports\n\n## Key Financial Reports\n\n### Balance Sheet\n\n```\n+----------------------------------+\n| Balance Sheet as on 31-Mar-2024  |\n+----------------------------------+\n| LIABILITIES        | ASSETS      |\n+----------------------------------+\n| Capital   500,000  | Fixed 200,000|\n| Creditors 100,000  | Stock 150,000|\n|                    | Debtors 180,000|\n|                    | Bank 50,000   |\n|                    | Cash 20,000   |\n+----------------------------------+\n| Total     600,000  | Total 600,000 |\n+----------------------------------+\n```\n\n### Profit and Loss\n\n```\n+----------------------------------+\n| Profit and Loss 1-Apr to 31-Mar  |\n+----------------------------------+\n| Income:                          |\n|   Sales           Rs. 1,000,000  |\n|   Other Income    Rs.    50,000  |\n+----------------------------------+\n| Expenses:                        |\n|   Purchases       Rs.   600,000  |\n|   Salary          Rs.   150,000  |\n|   Rent            Rs.    60,000  |\n|   Other Expenses  Rs.    40,000  |\n+----------------------------------+\n| Net Profit        Rs.   200,000  |\n+----------------------------------+\n```\n\n### Trial Balance\n\n```\n+----------------------------------+\n| Trial Balance as on 31-Mar-2024  |\n+----------------------------------+\n| Account      | Debit   | Credit  |\n| Cash         | 20,000  |         |\n| Bank         | 50,000  |         |\n| Capital      |         | 500,000 |\n| Sales        |         |1,000,000|\n| Purchases    | 600,000 |         |\n+----------------------------------+\n```\n\n> **Reports give instant business insights!**"
+        },
+        {
+            "id": "tal_bas_quiz_3",
+            "type": "quiz",
+            "title": "Reports Quiz",
+            "content": "Test your report knowledge!",
+            "quizQuestion": "Which report shows the financial position of a company at a specific date?",
+            "quizOptions": [
+                "Profit and Loss Account",
+                "Trial Balance",
+                "Balance Sheet",
+                "Day Book"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "tal_bas_12",
+            "type": "content",
+            "title": "Day Book and Ledger Reports",
+            "content": "# Transaction Reports\n\n## Day Book\n\n**Path:** Gateway > Display > Day Book\n\nShows all transactions for a selected date or period.\n\n```\n+------------------------------------------+\n| Day Book for 15-Jan-2024                 |\n+------------------------------------------+\n| VNo | Type    | Particulars   | Amount   |\n+------------------------------------------+\n| 1   | Receipt | Cash from ABC | 10,000   |\n| 2   | Payment | Rent Expense  | 5,000    |\n| 3   | Sales   | XYZ Customer  | 50,000   |\n| 4   | Purchase| Supplier Ltd  | 30,000   |\n+------------------------------------------+\n```\n\n## Ledger Report\n\n**Path:** Gateway > Display > Account Books > Ledger\n\n```\n+------------------------------------------+\n| ABC Customer                             |\n| Period: 1-Apr-2023 to 31-Mar-2024        |\n+------------------------------------------+\n| Date    | Particulars| Debit  | Credit   |\n+------------------------------------------+\n| 01-Apr  | Opening    | 25,000 |          |\n| 15-Jan  | Sales      | 50,000 |          |\n| 25-Jan  | Receipt    |        | 40,000   |\n+------------------------------------------+\n| Closing Balance: Rs. 35,000 Dr           |\n+------------------------------------------+\n```\n\n## Cash/Bank Books\n\n### Cash Book\n\n```\n+------------------------------------------+\n| Cash Book (Cash-in-Hand)                 |\n+------------------------------------------+\n| Opening: Rs. 15,000                      |\n| Receipts: Rs. 50,000                     |\n| Payments: Rs. 35,000                     |\n| Closing: Rs. 30,000                      |\n+------------------------------------------+\n```\n\n## Report Navigation\n\n| Key | Action |\n|-----|--------|\n| F2 | Change Period |\n| F5 | Detailed/Condensed |\n| F12 | Configure Report |\n| Enter | Drill-down |\n\n> **Drill down** into any report for details!"
+        },
+        {
+            "id": "tal_bas_13",
+            "type": "content",
+            "title": "Altering and Deleting",
+            "content": "# Modifying Data in Tally\n\n## Altering Masters\n\n### Ledger Alteration\n\n**Path:** Gateway > Alter > Ledger\n\n- Change name\n- Move to different group\n- Update details\n\n### Group Alteration\n\n**Path:** Gateway > Alter > Group\n\n- Rename group\n- Change parent group\n\n## Altering Vouchers\n\n### From Day Book\n\n1. Go to Day Book\n2. Select the voucher\n3. Press Enter to open\n4. Make changes\n5. Save (Ctrl+A)\n\n### From Ledger\n\n1. Go to Ledger display\n2. Drill down to transaction\n3. Press Enter to edit\n4. Save changes\n\n## Deleting Records\n\n### Delete Voucher\n\n1. Open the voucher\n2. Press **Alt+D**\n3. Confirm deletion\n\n### Delete Ledger\n\n1. Open ledger in Alter mode\n2. Press **Alt+D**\n3. Only works if no transactions\n\n## Important Notes\n\n| Scenario | Can Delete? |\n|----------|------------|\n| Ledger with transactions | No |\n| Empty ledger | Yes |\n| Voucher in closed period | May need override |\n\n## Audit Trail\n\nTally Prime Edit Log tracks:\n- Who made changes\n- When changes were made\n- What was changed\n\n> **Be careful when deleting** - some changes cannot be undone!"
+        },
+        {
+            "id": "tal_bas_14",
+            "type": "content",
+            "title": "Configuration Options",
+            "content": "# Configuring Tally\n\n## F11 - Company Features\n\n### Accounting Features\n\n```\n+----------------------------------+\n| Accounting Features              |\n+----------------------------------+\n| Maintain Bill-by-Bill: Yes       |\n| Use Cost Centres: Yes            |\n| Multi-Currency: No               |\n| Allow Multi-Ledger: Yes          |\n+----------------------------------+\n```\n\n### Inventory Features\n\n```\n+----------------------------------+\n| Inventory Features               |\n+----------------------------------+\n| Maintain Stock: Yes              |\n| Maintain Multiple Godowns: Yes   |\n| Use Batch-wise Details: No       |\n| Track Components: No             |\n+----------------------------------+\n```\n\n### Statutory Features\n\n```\n+----------------------------------+\n| Statutory Features               |\n+----------------------------------+\n| Enable GST: Yes                  |\n| Set GST Rate Details: Yes        |\n| Enable TDS: Yes                  |\n| Enable TCS: No                   |\n+----------------------------------+\n```\n\n## F12 - Configuration\n\n### Voucher Configuration\n\n| Option | Purpose |\n|--------|--------|\n| Use Common Narration | Single narration for all |\n| Show Current Balance | Display running balance |\n| Use Voucher Reference | Track check numbers |\n\n### Report Configuration\n\n| Option | Purpose |\n|--------|--------|\n| Show Detailed | Expand all details |\n| Show with Narration | Include transaction notes |\n| Show Opening Balance | Include prior balance |\n\n> **Configure once, work efficiently always!**"
+        },
+        {
+            "id": "tal_bas_15",
+            "type": "content",
+            "title": "Backup and Restore",
+            "content": "# Data Management\n\n## Backup Company Data\n\n**Path:** Gateway > Alt+F3 > Backup\n\n### Backup Process\n\n1. Select company to backup\n2. Choose backup location\n3. Set backup name\n4. Press Enter to start\n\n### Backup Best Practices\n\n| Frequency | When |\n|-----------|------|\n| Daily | End of each day |\n| Weekly | Friday backup |\n| Monthly | Month-end |\n| Event-based | Before major changes |\n\n## Restore Company Data\n\n**Path:** Gateway > Alt+F3 > Restore\n\n### Restore Process\n\n1. Select backup file\n2. Choose restore location\n3. Confirm overwrite (if exists)\n4. Wait for completion\n\n## Company Data Location\n\nDefault path:\n```\nC:\\Tally\\Data\\<Company Number>\n```\n\n## Export and Import\n\n### Export Data\n\n- XML format\n- Excel format\n- PDF reports\n\n### Import Data\n\n- From Excel with templates\n- XML import\n- Data migration tools\n\n## Data Security\n\n| Feature | Purpose |\n|---------|--------|\n| Password | Company access control |\n| User Roles | Permission management |\n| Audit Log | Change tracking |\n\n> **Regular backups** protect your valuable data!"
+        },
+        {
+            "id": "tal_bas_16",
+            "type": "content",
+            "title": "Common Shortcuts Summary",
+            "content": "# Tally Keyboard Shortcuts\n\n## Navigation Shortcuts\n\n| Shortcut | Action |\n|----------|--------|\n| Esc | Go back/Cancel |\n| Enter | Accept/Select |\n| Alt+F1 | Company Info |\n| Alt+F2 | Change Date |\n| Alt+F3 | Company Menu |\n| F11 | Company Features |\n| F12 | Configuration |\n\n## Voucher Entry Shortcuts\n\n| Shortcut | Voucher Type |\n|----------|-------------|\n| F4 | Contra |\n| F5 | Payment |\n| F6 | Receipt |\n| F7 | Journal |\n| F8 | Sales |\n| F9 | Purchase |\n| Ctrl+F8 | Credit Note |\n| Ctrl+F9 | Debit Note |\n\n## Within Voucher Shortcuts\n\n| Shortcut | Action |\n|----------|--------|\n| Ctrl+A | Accept/Save |\n| Ctrl+Q | Quit without saving |\n| Alt+D | Delete entry |\n| Ctrl+V | Toggle voucher mode |\n| Alt+C | Create master on-the-fly |\n\n## Report Shortcuts\n\n| Shortcut | Action |\n|----------|--------|\n| F2 | Change Period |\n| F5 | Detailed/Condensed |\n| Alt+F1 | Detailed |\n| Alt+P | Print |\n| Ctrl+E | Export |\n\n## Calculator\n\n| Key | Action |\n|-----|--------|\n| Alt+C | Open Calculator |\n| + - * / | Basic operations |\n\n> **Master shortcuts** for 10x productivity!"
+        },
+        {
+            "id": "tal_bas_quiz_4",
+            "type": "quiz",
+            "title": "Shortcuts Quiz",
+            "content": "Test your shortcut knowledge!",
+            "quizQuestion": "Which shortcut is used to save and accept a voucher entry?",
+            "quizOptions": [
+                "Ctrl+S",
+                "Ctrl+A",
+                "Enter",
+                "Alt+S"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "tal_bas_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **Basics of Tally** lesson!\n\n## Key Concepts Mastered\n\n### Company Setup\n- Create company with correct details\n- Set financial year and currency\n- Enable required features (F11)\n\n### Masters\n- Groups organize ledgers\n- Ledgers are individual accounts\n- Configure ledgers for GST, banking\n\n### Vouchers\n- Receipt (F6), Payment (F5)\n- Contra (F4), Journal (F7)\n- Sales (F8), Purchase (F9)\n\n### Reports\n- Balance Sheet, Profit and Loss\n- Trial Balance, Day Book\n- Ledger reports\n\n## Quick Reference\n\n| Task | Path/Shortcut |\n|------|---------------|\n| Create Company | Alt+F3 > Create |\n| Create Ledger | Gateway > Create > Ledger |\n| Enter Receipt | F6 |\n| Enter Payment | F5 |\n| View Balance Sheet | Reports > Balance Sheet |\n| Backup | Alt+F3 > Backup |\n\n## What is Next?\n\nExplore:\n- Accounting in Tally (detailed)\n- Inventory Management\n- GST and Taxation features\n\n> **You now have the foundation** to use Tally effectively!"
+        }
+    ]
+}

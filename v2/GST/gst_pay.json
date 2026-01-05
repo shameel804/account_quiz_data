@@ -1,0 +1,4380 @@
+[
+    {
+        "q": "GST payment is made through electronic mode.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST payment modes include internet banking.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST payment can be made through NEFT/RTGS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST payment through credit/debit card is available.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Over the counter payment is limited to Rs. ______ per challan.",
+        "type": "fill_blank",
+        "answers": [
+            "10000"
+        ],
+        "other_options": [
+            "5000",
+            "25000",
+            "50000"
+        ]
+    },
+    {
+        "q": "Match payment modes:",
+        "type": "match",
+        "left": [
+            "Internet banking",
+            "NEFT/RTGS",
+            "Debit card",
+            "OTC cash"
+        ],
+        "right": [
+            "Online immediate",
+            "Same day credit",
+            "Online debit",
+            "Limited amount"
+        ]
+    },
+    {
+        "q": "Electronic cash ledger receives all cash payments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cash ledger balance can be used for any tax head.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cash ledger is maintained GSTIN wise.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cash ledger head-wise segregation is IGST, CGST, SGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest and penalty require cash payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange cash payment process:",
+        "type": "rearrange",
+        "words": [
+            "Generate challan",
+            "Select payment mode",
+            "Make payment",
+            "Credit to cash ledger",
+            "Offset liability"
+        ]
+    },
+    {
+        "q": "PMT-06 is challan for ______ scheme taxpayers.",
+        "type": "fill_blank",
+        "answers": [
+            "QRMP"
+        ],
+        "other_options": [
+            "Composition",
+            "Regular",
+            "ISD"
+        ]
+    },
+    {
+        "q": "PMT-06 is filed monthly by QRMP taxpayers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "PMT-06 due date is 25th of next month.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fixed sum method is 35% of last quarter liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Self-assessment method uses actual liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match PMT-06 methods:",
+        "type": "match",
+        "left": [
+            "Fixed sum",
+            "Self-assessment",
+            "No payment",
+            "Excess payment"
+        ],
+        "right": [
+            "35% rule",
+            "Actual calculation",
+            "If credit exceeds",
+            "Adjusted in 3B"
+        ]
+    },
+    {
+        "q": "Electronic credit ledger receives ITC credits.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC is credited based on GSTR-3B filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit ledger shows head-wise ITC balance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IGST credit can offset CGST and SGST liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CGST credit cannot offset SGST liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange ITC utilization:",
+        "type": "rearrange",
+        "words": [
+            "Claim ITC in 3B",
+            "Credit to ledger",
+            "Set off IGST first",
+            "Then CGST/SGST",
+            "Balance from cash"
+        ]
+    },
+    {
+        "q": "Electronic liability ledger shows all tax dues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Liability arises on filing GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest and penalty are also in liability ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Demand orders create liability entries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Liability is offset by credit and cash.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match electronic ledgers:",
+        "type": "match",
+        "left": [
+            "Cash ledger",
+            "Credit ledger",
+            "Liability ledger",
+            "Balance"
+        ],
+        "right": [
+            "Payments received",
+            "ITC received",
+            "Tax dues",
+            "Available for use"
+        ]
+    },
+    {
+        "q": "TDS under GST is deducted by notified persons.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS rate under GST is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "2"
+        ],
+        "other_options": [
+            "1",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "q": "TDS is deducted on contract value above Rs. ______ lakh.",
+        "type": "fill_blank",
+        "answers": [
+            "2.5"
+        ],
+        "other_options": [
+            "1",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "q": "TDS is on value excluding GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS credit is available in cash ledger of supplier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange TDS process:",
+        "type": "rearrange",
+        "words": [
+            "Contract above threshold",
+            "Deductor deducts TDS",
+            "Files GSTR-7",
+            "Issues GSTR-7A",
+            "Supplier claims credit"
+        ]
+    },
+    {
+        "q": "TDS deductors include government departments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS deductors include local authorities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS deductors include PSUs for certain contracts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS return is GSTR-7.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-7 due date is ______ of next month.",
+        "type": "fill_blank",
+        "answers": [
+            "10th"
+        ],
+        "other_options": [
+            "7th",
+            "15th",
+            "20th"
+        ]
+    },
+    {
+        "q": "Match TDS provisions:",
+        "type": "match",
+        "left": [
+            "Rate",
+            "Threshold",
+            "Return",
+            "Certificate"
+        ],
+        "right": [
+            "2%",
+            "Rs. 2.5 lakh",
+            "GSTR-7",
+            "GSTR-7A"
+        ]
+    },
+    {
+        "q": "TCS under GST is collected by e-commerce operators.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS rate is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "1"
+        ],
+        "other_options": [
+            "0.5",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "q": "TCS is on net value of taxable supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS is deposited by operator to government.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS credit is available to supplier in cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange TCS process:",
+        "type": "rearrange",
+        "words": [
+            "Supply through platform",
+            "Operator collects TCS",
+            "Files GSTR-8",
+            "Supplier gets credit",
+            "Uses for tax payment"
+        ]
+    },
+    {
+        "q": "TCS return is GSTR-8.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-8 due date is ______ of next month.",
+        "type": "fill_blank",
+        "answers": [
+            "10th"
+        ],
+        "other_options": [
+            "7th",
+            "15th",
+            "20th"
+        ]
+    },
+    {
+        "q": "TCS applies to supplies made through e-commerce.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS net value excludes returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS credit appears in GSTR-2A of supplier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match TCS provisions:",
+        "type": "match",
+        "left": [
+            "Collector",
+            "Rate",
+            "Return",
+            "Credit"
+        ],
+        "right": [
+            "E-commerce operator",
+            "1%",
+            "GSTR-8",
+            "Cash ledger"
+        ]
+    },
+    {
+        "q": "Interest on late payment is ______ percent per annum.",
+        "type": "fill_blank",
+        "answers": [
+            "18"
+        ],
+        "other_options": [
+            "12",
+            "24",
+            "15"
+        ]
+    },
+    {
+        "q": "Interest is calculated from due date to payment date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest is calculated on net tax liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest on excess ITC claim is 24%.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest is paid from cash ledger only.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange interest calculation:",
+        "type": "rearrange",
+        "words": [
+            "Identify due date",
+            "Calculate delay days",
+            "Apply 18% rate",
+            "Compute interest",
+            "Pay from cash"
+        ]
+    },
+    {
+        "q": "Late fee for GSTR-1 is Rs. ______ per day per Act.",
+        "type": "fill_blank",
+        "answers": [
+            "50"
+        ],
+        "other_options": [
+            "25",
+            "100",
+            "200"
+        ]
+    },
+    {
+        "q": "Maximum late fee for GSTR-1 is Rs. ______.",
+        "type": "fill_blank",
+        "answers": [
+            "10000"
+        ],
+        "other_options": [
+            "5000",
+            "20000",
+            "25000"
+        ]
+    },
+    {
+        "q": "NIL GSTR late fee is Rs. ______ per day.",
+        "type": "fill_blank",
+        "answers": [
+            "20"
+        ],
+        "other_options": [
+            "10",
+            "50",
+            "100"
+        ]
+    },
+    {
+        "q": "Maximum late fee for NIL return is Rs. ______.",
+        "type": "fill_blank",
+        "answers": [
+            "500"
+        ],
+        "other_options": [
+            "250",
+            "1000",
+            "2000"
+        ]
+    },
+    {
+        "q": "Late fee is paid from cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match late fee rates:",
+        "type": "match",
+        "left": [
+            "Regular GSTR-1",
+            "Regular GSTR-3B",
+            "NIL return",
+            "Maximum"
+        ],
+        "right": [
+            "Rs. 50/day/Act",
+            "Rs. 50/day/Act",
+            "Rs. 20/day",
+            "Rs. 10000 or Rs. 500"
+        ]
+    },
+    {
+        "q": "Refund under GST is claimed through RFD-01.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RFD-01 is filed on GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund categories include export refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund categories include inverted duty refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund of excess cash balance is allowed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange refund application:",
+        "type": "rearrange",
+        "words": [
+            "Identify refund type",
+            "Prepare RFD-01",
+            "Upload documents",
+            "Submit application",
+            "Track status"
+        ]
+    },
+    {
+        "q": "Export refund can be with or without IGST payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export with IGST allows refund of IGST paid.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export under LUT allows refund of ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "LUT is Letter of Undertaking.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "LUT is valid for one financial year.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match export refund options:",
+        "type": "match",
+        "left": [
+            "With IGST",
+            "Under LUT",
+            "Shipping bill",
+            "BRC"
+        ],
+        "right": [
+            "Refund of IGST",
+            "Refund of ITC",
+            "Export proof",
+            "Bank realization"
+        ]
+    },
+    {
+        "q": "Provisional refund for exports is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "90"
+        ],
+        "other_options": [
+            "80",
+            "95",
+            "100"
+        ]
+    },
+    {
+        "q": "Provisional refund is within ______ days of application.",
+        "type": "fill_blank",
+        "answers": [
+            "7"
+        ],
+        "other_options": [
+            "3",
+            "15",
+            "30"
+        ]
+    },
+    {
+        "q": "Final refund is after verification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund order is issued in RFD-06.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund credit appears in bank account.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange export refund process:",
+        "type": "rearrange",
+        "words": [
+            "Export goods",
+            "File shipping bill",
+            "Apply for refund",
+            "Get provisional",
+            "Final order"
+        ]
+    },
+    {
+        "q": "Inverted duty refund arises when input rate exceeds output rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Inverted duty refund formula uses turnover and ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Capital goods ITC is excluded from inverted refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Inverted refund is applied quarterly or monthly.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Certain goods are excluded from inverted refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match inverted duty refund:",
+        "type": "match",
+        "left": [
+            "Condition",
+            "Formula",
+            "Exclusions",
+            "Application"
+        ],
+        "right": [
+            "Input rate > Output rate",
+            "Turnover based",
+            "Capital goods",
+            "RFD-01"
+        ]
+    },
+    {
+        "q": "Refund time limit is ______ years from relevant date.",
+        "type": "fill_blank",
+        "answers": [
+            "2"
+        ],
+        "other_options": [
+            "1",
+            "3",
+            "5"
+        ]
+    },
+    {
+        "q": "Relevant date varies by refund type.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "For exports, relevant date is shipping bill date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "For ITC refund, relevant date is return due date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Delay in refund attracts interest.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange refund timeline:",
+        "type": "rearrange",
+        "words": [
+            "Identify refund type",
+            "Calculate relevant date",
+            "Apply within 2 years",
+            "Process refund",
+            "Receive amount"
+        ]
+    },
+    {
+        "q": "Refund of tax paid on advance for cancelled supply is allowed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund voucher is issued for cancelled advance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax on advance is adjusted against refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplier reduces output liability for advance refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Advance refund is reported in return.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match advance refund scenarios:",
+        "type": "match",
+        "left": [
+            "Supply made",
+            "Supply cancelled",
+            "Refund voucher",
+            "Tax treatment"
+        ],
+        "right": [
+            "Adjust against invoice",
+            "Issue refund voucher",
+            "Issued to customer",
+            "Reduce output"
+        ]
+    },
+    {
+        "q": "Deficiency memo is issued for incomplete refund application.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Deficiency memo is in form RFD-03.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Applicant must respond to deficiency memo.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Response time for deficiency is ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "15"
+        ],
+        "other_options": [
+            "7",
+            "30",
+            "45"
+        ]
+    },
+    {
+        "q": "Non-response may lead to rejection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange deficiency response:",
+        "type": "rearrange",
+        "words": [
+            "Receive RFD-03",
+            "Identify gaps",
+            "Prepare documents",
+            "Submit response",
+            "Application proceeds"
+        ]
+    },
+    {
+        "q": "Acknowledgment of refund is in RFD-02.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Provisional refund order is in RFD-04.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Final refund order is in RFD-06.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rejection order is in RFD-06.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Payment advice is in RFD-05.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match refund forms:",
+        "type": "match",
+        "left": [
+            "RFD-01",
+            "RFD-02",
+            "RFD-04",
+            "RFD-06"
+        ],
+        "right": [
+            "Application",
+            "Acknowledgment",
+            "Provisional",
+            "Final order"
+        ]
+    },
+    {
+        "q": "Refund credited within ______ days of order.",
+        "type": "fill_blank",
+        "answers": [
+            "60"
+        ],
+        "other_options": [
+            "30",
+            "45",
+            "90"
+        ]
+    },
+    {
+        "q": "Interest on delayed refund is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "6"
+        ],
+        "other_options": [
+            "9",
+            "12",
+            "18"
+        ]
+    },
+    {
+        "q": "Interest starts after 60 days of application.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund is credited to bank account linked to GSTIN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Multiple bank accounts can be added in registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange refund receipt:",
+        "type": "rearrange",
+        "words": [
+            "RFD-06 issued",
+            "RFD-05 generated",
+            "Credit to bank",
+            "Confirm receipt",
+            "Update books"
+        ]
+    },
+    {
+        "q": "Unjust enrichment check applies to certain refunds.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If tax burden passed to customer, refund to consumer fund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CA certificate may be required for unjust enrichment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export refund is exempt from unjust enrichment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Inverted duty refund is exempt from unjust enrichment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match unjust enrichment scenarios:",
+        "type": "match",
+        "left": [
+            "Export",
+            "Inverted duty",
+            "Excess payment",
+            "Retail sale"
+        ],
+        "right": [
+            "Not applicable",
+            "Not applicable",
+            "May apply",
+            "Usually applies"
+        ]
+    },
+    {
+        "q": "DRC-03 is for voluntary tax payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DRC-03 can be filed for any short payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DRC-03 can be filed pre-SCN or post-SCN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pre-SCN payment may avoid or reduce penalty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DRC-03 payment is from cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange voluntary payment:",
+        "type": "rearrange",
+        "words": [
+            "Identify short payment",
+            "Calculate dues with interest",
+            "File DRC-03",
+            "Pay amount",
+            "Close matter"
+        ]
+    },
+    {
+        "q": "Demand and recovery follows assessment order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DRC-07 is demand order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Recovery modes include adjustment from refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Recovery modes include bank account attachment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Recovery modes include sale of goods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match recovery provisions:",
+        "type": "match",
+        "left": [
+            "Self-assessment",
+            "Demand",
+            "Recovery",
+            "Appeal"
+        ],
+        "right": [
+            "GSTR-3B",
+            "DRC-07",
+            "Multiple modes",
+            "Pre-deposit required"
+        ]
+    },
+    {
+        "q": "Installment payment is allowed for admitted dues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Installment application is in PMT-09.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Maximum installments are ______ months.",
+        "type": "fill_blank",
+        "answers": [
+            "24"
+        ],
+        "other_options": [
+            "12",
+            "36",
+            "48"
+        ]
+    },
+    {
+        "q": "Interest applies during installment period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Default in installment revives full recovery.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange installment process:",
+        "type": "rearrange",
+        "words": [
+            "Identify dues",
+            "Apply PMT-09",
+            "Get approval",
+            "Pay monthly",
+            "Complete dues"
+        ]
+    },
+    {
+        "q": "Challan is generated on GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CPIN is Common Portal Identification Number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CPIN is valid for ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "15"
+        ],
+        "other_options": [
+            "7",
+            "30",
+            "45"
+        ]
+    },
+    {
+        "q": "CIN is Challan Identification Number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CIN confirms successful payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match challan identifiers:",
+        "type": "match",
+        "left": [
+            "CPIN",
+            "CIN",
+            "BRN",
+            "ARN"
+        ],
+        "right": [
+            "Pre-payment",
+            "Post-payment",
+            "Bank reference",
+            "Return acknowledgment"
+        ]
+    },
+    {
+        "q": "Inter-head transfer is through PMT-09.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Transfer can be from CGST to IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Transfer can be from IGST to CGST or SGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cash ledger balance can be transferred between heads.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Transfer helps correct wrong head payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange inter-head transfer:",
+        "type": "rearrange",
+        "words": [
+            "Identify wrong head",
+            "File PMT-09",
+            "Select transfer",
+            "Confirm amount",
+            "Update ledgers"
+        ]
+    },
+    {
+        "q": "Credit ledger balance refund is not directly allowed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit balance refund is through export or inverted duty only.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cash ledger excess can be refunded directly.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund of TDS/TCS credit is to supplier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unutilized credit accumulates in ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match refund types:",
+        "type": "match",
+        "left": [
+            "Export ITC",
+            "Inverted ITC",
+            "Cash excess",
+            "TDS/TCS"
+        ],
+        "right": [
+            "Refundable",
+            "Refundable",
+            "Refundable",
+            "Credit then cash out"
+        ]
+    },
+    {
+        "q": "What is the TDS rate under GST?",
+        "type": "mcq",
+        "options": [
+            "2%",
+            "1%",
+            "5%",
+            "10%"
+        ],
+        "correct": "2%"
+    },
+    {
+        "q": "What is the TCS rate under GST?",
+        "type": "mcq",
+        "options": [
+            "1%",
+            "2%",
+            "0.5%",
+            "5%"
+        ],
+        "correct": "1%"
+    },
+    {
+        "q": "TDS threshold for deduction is:",
+        "type": "mcq",
+        "options": [
+            "Rs. 2.5 lakh",
+            "Rs. 1 lakh",
+            "Rs. 5 lakh",
+            "Rs. 10 lakh"
+        ],
+        "correct": "Rs. 2.5 lakh"
+    },
+    {
+        "q": "Who deducts TDS under GST?",
+        "type": "mcq",
+        "options": [
+            "Government departments",
+            "All registered persons",
+            "Unregistered persons",
+            "Composition dealers"
+        ],
+        "correct": "Government departments"
+    },
+    {
+        "q": "Who collects TCS under GST?",
+        "type": "mcq",
+        "options": [
+            "E-commerce operators",
+            "Suppliers",
+            "Recipients",
+            "Government"
+        ],
+        "correct": "E-commerce operators"
+    },
+    {
+        "q": "Interest rate on late payment is:",
+        "type": "mcq",
+        "options": [
+            "18%",
+            "12%",
+            "24%",
+            "15%"
+        ],
+        "correct": "18%"
+    },
+    {
+        "q": "Interest rate on excess ITC claim is:",
+        "type": "mcq",
+        "options": [
+            "24%",
+            "18%",
+            "12%",
+            "36%"
+        ],
+        "correct": "24%"
+    },
+    {
+        "q": "Provisional refund percentage for exports is:",
+        "type": "mcq",
+        "options": [
+            "90%",
+            "80%",
+            "95%",
+            "100%"
+        ],
+        "correct": "90%"
+    },
+    {
+        "q": "Time limit for refund application is:",
+        "type": "mcq",
+        "options": [
+            "2 years",
+            "1 year",
+            "3 years",
+            "5 years"
+        ],
+        "correct": "2 years"
+    },
+    {
+        "q": "Interest on delayed refund is:",
+        "type": "mcq",
+        "options": [
+            "6%",
+            "9%",
+            "12%",
+            "18%"
+        ],
+        "correct": "6%"
+    },
+    {
+        "q": "Form for refund application is:",
+        "type": "mcq",
+        "options": [
+            "RFD-01",
+            "RFD-02",
+            "RFD-03",
+            "RFD-04"
+        ],
+        "correct": "RFD-01"
+    },
+    {
+        "q": "Form for deficiency memo is:",
+        "type": "mcq",
+        "options": [
+            "RFD-03",
+            "RFD-01",
+            "RFD-02",
+            "RFD-04"
+        ],
+        "correct": "RFD-03"
+    },
+    {
+        "q": "Form for final refund order is:",
+        "type": "mcq",
+        "options": [
+            "RFD-06",
+            "RFD-04",
+            "RFD-05",
+            "RFD-07"
+        ],
+        "correct": "RFD-06"
+    },
+    {
+        "q": "GSTR-7 is filed by:",
+        "type": "mcq",
+        "options": [
+            "TDS deductors",
+            "TCS collectors",
+            "Regular taxpayers",
+            "Composition dealers"
+        ],
+        "correct": "TDS deductors"
+    },
+    {
+        "q": "GSTR-8 is filed by:",
+        "type": "mcq",
+        "options": [
+            "E-commerce operators",
+            "TDS deductors",
+            "Suppliers",
+            "Recipients"
+        ],
+        "correct": "E-commerce operators"
+    },
+    {
+        "q": "Due date for GSTR-7 is:",
+        "type": "mcq",
+        "options": [
+            "10th",
+            "15th",
+            "20th",
+            "11th"
+        ],
+        "correct": "10th"
+    },
+    {
+        "q": "Due date for GSTR-8 is:",
+        "type": "mcq",
+        "options": [
+            "10th",
+            "15th",
+            "20th",
+            "11th"
+        ],
+        "correct": "10th"
+    },
+    {
+        "q": "CPIN validity is:",
+        "type": "mcq",
+        "options": [
+            "15 days",
+            "7 days",
+            "30 days",
+            "45 days"
+        ],
+        "correct": "15 days"
+    },
+    {
+        "q": "DRC-03 is for:",
+        "type": "mcq",
+        "options": [
+            "Voluntary payment",
+            "Demand recovery",
+            "Refund",
+            "Return filing"
+        ],
+        "correct": "Voluntary payment"
+    },
+    {
+        "q": "Maximum installment period is:",
+        "type": "mcq",
+        "options": [
+            "24 months",
+            "12 months",
+            "36 months",
+            "48 months"
+        ],
+        "correct": "24 months"
+    },
+    {
+        "q": "LUT validity is:",
+        "type": "mcq",
+        "options": [
+            "One financial year",
+            "One calendar year",
+            "Two years",
+            "Permanent"
+        ],
+        "correct": "One financial year"
+    },
+    {
+        "q": "Rearrange payment process:",
+        "type": "rearrange",
+        "words": [
+            "Create challan",
+            "Get CPIN",
+            "Make payment",
+            "Get CIN",
+            "Credit to ledger"
+        ]
+    },
+    {
+        "q": "Rearrange refund categories:",
+        "type": "rearrange",
+        "words": [
+            "Export refund",
+            "Inverted duty refund",
+            "Excess cash refund",
+            "Advance refund",
+            "Any other refund"
+        ]
+    },
+    {
+        "q": "Rearrange TDS workflow:",
+        "type": "rearrange",
+        "words": [
+            "Contract execution",
+            "TDS deduction",
+            "GSTR-7 filing",
+            "GSTR-7A issuance",
+            "Credit to supplier"
+        ]
+    },
+    {
+        "q": "Rearrange TCS workflow:",
+        "type": "rearrange",
+        "words": [
+            "Supply through platform",
+            "Net value calculation",
+            "TCS collection",
+            "GSTR-8 filing",
+            "Credit to supplier"
+        ]
+    },
+    {
+        "q": "Rearrange recovery process:",
+        "type": "rearrange",
+        "words": [
+            "Demand order",
+            "Recovery notice",
+            "Bank attachment",
+            "Asset attachment",
+            "Sale and recovery"
+        ]
+    },
+    {
+        "q": "OTC payment is allowed up to Rs. 10000 per challan.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "UPI is a valid payment mode for GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit card payment for GST is available.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Net banking from authorized banks only.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NEFT/RTGS requires bank challan generation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match payment modes and features:",
+        "type": "match",
+        "left": [
+            "Internet banking",
+            "NEFT/RTGS",
+            "Debit card",
+            "UPI"
+        ],
+        "right": [
+            "Immediate credit",
+            "Same day credit",
+            "For small amounts",
+            "Quick payment"
+        ]
+    },
+    {
+        "q": "Challan once generated cannot be modified.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Challan with wrong head requires new payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "PMT-09 can rectify wrong head error.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Expired CPIN requires fresh challan.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Payment failure requires fresh attempt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange payment error resolution:",
+        "type": "rearrange",
+        "words": [
+            "Identify error type",
+            "Check CPIN/CIN status",
+            "Use PMT-09 if applicable",
+            "Generate fresh challan",
+            "Make correct payment"
+        ]
+    },
+    {
+        "q": "Cash ledger balance can be transferred to another GSTIN.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Credit ledger balance cannot be transferred to another GSTIN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Distinct person registration requires separate ledgers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISD distributes credit to other GSTINs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISD credit distribution is not transfer of balance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match ledger restrictions:",
+        "type": "match",
+        "left": [
+            "Cash transfer",
+            "Credit transfer",
+            "ISD",
+            "Distinct persons"
+        ],
+        "right": [
+            "Not allowed cross-GSTIN",
+            "Not allowed",
+            "Distribution mechanism",
+            "Separate ledgers"
+        ]
+    },
+    {
+        "q": "Section 49 governs payment of tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 50 governs interest on delayed payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 54 governs refunds.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 51 governs TDS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 52 governs TCS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange payment sections:",
+        "type": "rearrange",
+        "words": [
+            "Section 49 payment",
+            "Section 50 interest",
+            "Section 51 TDS",
+            "Section 52 TCS",
+            "Section 54 refund"
+        ]
+    },
+    {
+        "q": "Rule 87 governs electronic cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rule 86 governs electronic credit ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rule 88 governs electronic liability ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rule 89 governs refund application.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rule 91 governs refund order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match rules:",
+        "type": "match",
+        "left": [
+            "Rule 86",
+            "Rule 87",
+            "Rule 88",
+            "Rule 89"
+        ],
+        "right": [
+            "Credit ledger",
+            "Cash ledger",
+            "Liability ledger",
+            "Refund application"
+        ]
+    },
+    {
+        "q": "Negative liability is possible in certain cases.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Negative liability arises from credit notes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Negative liability carries forward to next period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Negative liability reduces next period tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Negative liability is not refundable directly.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange negative liability treatment:",
+        "type": "rearrange",
+        "words": [
+            "Issue credit notes",
+            "Reduce current liability",
+            "Carry forward negative",
+            "Offset next period",
+            "No direct refund"
+        ]
+    },
+    {
+        "q": "IGST settlement happens between center and states.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IGST is apportioned to destination state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Settlement is based on return data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Periodic settlement between governments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxpayer is not involved in settlement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match IGST settlement:",
+        "type": "match",
+        "left": [
+            "IGST collected",
+            "Settlement basis",
+            "Apportionment",
+            "Taxpayer role"
+        ],
+        "right": [
+            "Central collection",
+            "Return data",
+            "To states",
+            "None"
+        ]
+    },
+    {
+        "q": "Composition dealer pays tax at flat rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition rate for manufacturers is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "1"
+        ],
+        "other_options": [
+            "0.5",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "q": "Composition rate for restaurants is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "1",
+            "2",
+            "12"
+        ]
+    },
+    {
+        "q": "Composition dealer cannot claim ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition dealer pays quarterly through CMP-08.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match composition payment:",
+        "type": "match",
+        "left": [
+            "Rate",
+            "ITC",
+            "Payment",
+            "Return"
+        ],
+        "right": [
+            "Flat on turnover",
+            "Not available",
+            "CMP-08 quarterly",
+            "GSTR-4 annual"
+        ]
+    },
+    {
+        "q": "Reverse charge payment is from cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM ITC is available immediately.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM creates both liability and credit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Net effect of RCM is neutral.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM is reported in GSTR-3B Table 3.1(d).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange RCM payment:",
+        "type": "rearrange",
+        "words": [
+            "Receive RCM supply",
+            "Calculate tax liability",
+            "Pay from cash in 3B",
+            "Claim ITC in Table 4",
+            "Net impact nil"
+        ]
+    },
+    {
+        "q": "Pre-deposit for first appeal is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "5",
+            "15",
+            "25"
+        ]
+    },
+    {
+        "q": "Pre-deposit for GSTAT is ______ percent additional.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "5",
+            "15",
+            "25"
+        ]
+    },
+    {
+        "q": "Maximum pre-deposit is Rs. ______ crore.",
+        "type": "fill_blank",
+        "answers": [
+            "25"
+        ],
+        "other_options": [
+            "10",
+            "50",
+            "100"
+        ]
+    },
+    {
+        "q": "Pre-deposit is from cash/credit ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pre-deposit is refundable if appeal succeeds.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match pre-deposit requirements:",
+        "type": "match",
+        "left": [
+            "First appeal",
+            "GSTAT",
+            "Maximum",
+            "Refund"
+        ],
+        "right": [
+            "10% of disputed",
+            "10% additional",
+            "Rs. 25 crore",
+            "On success"
+        ]
+    },
+    {
+        "q": "Recovery is stayed during appeal with pre-deposit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "No recovery for pre-deposit amount.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Balance demand may be stayed on application.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Stay application is considered by appellate authority.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Coercive recovery is avoided during appeal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange appeal protection:",
+        "type": "rearrange",
+        "words": [
+            "Pay pre-deposit",
+            "File appeal",
+            "Apply for stay",
+            "Get stay order",
+            "Avoid recovery"
+        ]
+    },
+    {
+        "q": "Bank account attachment is a recovery method.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Attachment notice is sent to bank.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bank freezes equivalent amount.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amount transferred to government account.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Multiple accounts can be attached.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match recovery methods:",
+        "type": "match",
+        "left": [
+            "Bank attachment",
+            "Property attachment",
+            "Movable goods",
+            "Recovery officer"
+        ],
+        "right": [
+            "Freeze and transfer",
+            "Lien on immovable",
+            "Seizure and sale",
+            "Appointed by department"
+        ]
+    },
+    {
+        "q": "Debtor attachment is recovery from third parties.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Third party owes money to defaulter.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Notice is sent to third party to pay government.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Third party payment discharges their debt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Garnishee order is form of debtor attachment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange debtor attachment:",
+        "type": "rearrange",
+        "words": [
+            "Identify third party",
+            "Issue notice",
+            "Third party pays",
+            "Credit to government",
+            "Reduce dues"
+        ]
+    },
+    {
+        "q": "Refund of unutilized ITC is available for exporters.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund formula for exports under LUT uses turnover ratio.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Maximum refund is limited to ITC balance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund of IGST paid on exports is automatic.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Shipping bill is proof for export refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match export refund scenarios:",
+        "type": "match",
+        "left": [
+            "With IGST",
+            "Under LUT",
+            "SEZ supply",
+            "Deemed export"
+        ],
+        "right": [
+            "IGST refund",
+            "ITC refund",
+            "Similar to export",
+            "ITC/IGST refund"
+        ]
+    },
+    {
+        "q": "Inverted duty structure arises when input rate exceeds output rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Inverted duty refund formula excludes services ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Capital goods ITC is excluded from inverted duty formula.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Some products are excluded from inverted duty refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tobacco products are excluded from inverted refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange inverted duty refund calculation:",
+        "type": "rearrange",
+        "words": [
+            "Calculate net ITC",
+            "Apply formula",
+            "Exclude capital goods",
+            "Exclude services",
+            "Claim refund"
+        ]
+    },
+    {
+        "q": "SEZ supplies are zero-rated under GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ refund can be with or without IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "LUT is required for SEZ supply without IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ endorsement is required for refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ developer can also claim refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match SEZ refund provisions:",
+        "type": "match",
+        "left": [
+            "With IGST",
+            "Without IGST",
+            "Endorsement",
+            "Developer"
+        ],
+        "right": [
+            "IGST refund",
+            "ITC refund",
+            "Required",
+            "Eligible"
+        ]
+    },
+    {
+        "q": "Deemed export includes supply to EOU.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Deemed export includes supply to advance authorization holder.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Deemed export includes supply to EPCG holder.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Deemed export refund is to supplier or recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Certificate from recipient is required for deemed export.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange deemed export refund:",
+        "type": "rearrange",
+        "words": [
+            "Supply to eligible recipient",
+            "Get certificate",
+            "Apply for refund",
+            "Submit to proper officer",
+            "Receive refund"
+        ]
+    },
+    {
+        "q": "Accumulated ITC may arise from tax rate structure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Accumulated ITC on exempt supplies cannot be refunded.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Accumulated ITC on blocked credits cannot be refunded.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Regular tax payment clears accumulated ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Large closing ITC indicates potential accumulation issues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match ITC accumulation causes:",
+        "type": "match",
+        "left": [
+            "Export",
+            "Inverted duty",
+            "Capital purchase",
+            "Seasonal"
+        ],
+        "right": [
+            "Refund available",
+            "Refund available",
+            "Absorb over time",
+            "Temporary"
+        ]
+    },
+    {
+        "q": "Excess balance in cash ledger can be refunded.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Excess cash refund application is through RFD-01.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Reason for excess balance must be stated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Excess balance may arise from wrong head payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Excess balance may arise from over-payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange excess cash refund:",
+        "type": "rearrange",
+        "words": [
+            "Identify excess balance",
+            "Determine reason",
+            "Apply RFD-01",
+            "Submit documents",
+            "Receive refund"
+        ]
+    },
+    {
+        "q": "Tax collected but not deposited is an offence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest applies if tax is collected and not deposited.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Penalty may apply for delayed deposit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Prosecution may follow for serious cases.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Compounding is available for certain offences.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match tax collection offences:",
+        "type": "match",
+        "left": [
+            "Collection without deposit",
+            "Short deposit",
+            "Non-filing",
+            "Serious fraud"
+        ],
+        "right": [
+            "Section 132",
+            "Section 122",
+            "Section 125",
+            "Prosecution"
+        ]
+    },
+    {
+        "q": "E-commerce operator must register regardless of turnover.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-commerce operator collects TCS from suppliers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS is 1% (0.5% CGST + 0.5% SGST or 1% IGST).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS is on net value excluding returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS return is monthly GSTR-8.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange e-commerce TCS compliance:",
+        "type": "rearrange",
+        "words": [
+            "Calculate net supplies",
+            "Collect 1% TCS",
+            "File GSTR-8",
+            "Supplier gets credit",
+            "Use for tax payment"
+        ]
+    },
+    {
+        "q": "Government department must register for TDS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS registration is without threshold.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS deductor gets unique GSTIN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS certificate GSTR-7A is auto-generated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplier can claim TDS credit in return.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match government TDS provisions:",
+        "type": "match",
+        "left": [
+            "Deductor",
+            "Rate",
+            "Threshold",
+            "Certificate"
+        ],
+        "right": [
+            "Government department",
+            "2% total",
+            "Rs. 2.5 lakh per contract",
+            "GSTR-7A"
+        ]
+    },
+    {
+        "q": "What is the inverted duty refund formula?",
+        "type": "mcq",
+        "options": [
+            "Net ITC x (Turnover of inverted rated supply / Adjusted Total Turnover) - Tax on such supply",
+            "Total ITC / Total Turnover",
+            "ITC on inputs / Output tax",
+            "None of the above"
+        ],
+        "correct": "Net ITC x (Turnover of inverted rated supply / Adjusted Total Turnover) - Tax on such supply"
+    },
+    {
+        "q": "Relevant date for export refund is:",
+        "type": "mcq",
+        "options": [
+            "Date of shipping bill",
+            "Date of invoice",
+            "Date of payment",
+            "Date of order"
+        ],
+        "correct": "Date of shipping bill"
+    },
+    {
+        "q": "Relevant date for inverted duty refund is:",
+        "type": "mcq",
+        "options": [
+            "Due date of GSTR-3B",
+            "Date of invoice",
+            "Date of payment",
+            "End of quarter"
+        ],
+        "correct": "Due date of GSTR-3B"
+    },
+    {
+        "q": "Refund application acknowledgment is in:",
+        "type": "mcq",
+        "options": [
+            "RFD-02",
+            "RFD-01",
+            "RFD-03",
+            "RFD-04"
+        ],
+        "correct": "RFD-02"
+    },
+    {
+        "q": "Provisional refund order is in:",
+        "type": "mcq",
+        "options": [
+            "RFD-04",
+            "RFD-02",
+            "RFD-05",
+            "RFD-06"
+        ],
+        "correct": "RFD-04"
+    },
+    {
+        "q": "Payment advice for bank is in:",
+        "type": "mcq",
+        "options": [
+            "RFD-05",
+            "RFD-04",
+            "RFD-06",
+            "RFD-07"
+        ],
+        "correct": "RFD-05"
+    },
+    {
+        "q": "Final sanction order is in:",
+        "type": "mcq",
+        "options": [
+            "RFD-06",
+            "RFD-04",
+            "RFD-05",
+            "RFD-08"
+        ],
+        "correct": "RFD-06"
+    },
+    {
+        "q": "Withholding of refund order is in:",
+        "type": "mcq",
+        "options": [
+            "RFD-07",
+            "RFD-06",
+            "RFD-08",
+            "RFD-09"
+        ],
+        "correct": "RFD-07"
+    },
+    {
+        "q": "Refund rejection order is in:",
+        "type": "mcq",
+        "options": [
+            "RFD-06",
+            "RFD-07",
+            "RFD-08",
+            "RFD-09"
+        ],
+        "correct": "RFD-06"
+    },
+    {
+        "q": "Consumer welfare fund receives refunds subject to unjust enrichment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CA certificate may confirm no unjust enrichment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export and inverted refunds are exempt from unjust enrichment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Retail sales often involve unjust enrichment consideration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund of tax paid on export where tax incidence not passed is direct.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match unjust enrichment provisions:",
+        "type": "match",
+        "left": [
+            "Export",
+            "Inverted",
+            "Retail supply",
+            "B2B supply"
+        ],
+        "right": [
+            "Exempt",
+            "Exempt",
+            "May apply",
+            "Depends on facts"
+        ]
+    },
+    {
+        "q": "Bond or LUT is required for export without IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "LUT is preferred over bond for most exporters.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bond requires bank guarantee or surety.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "LUT is simpler and without bank guarantee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "LUT is filed in form GST RFD-11.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange LUT process:",
+        "type": "rearrange",
+        "words": [
+            "Check eligibility",
+            "File RFD-11",
+            "Get LUT number",
+            "Use for exports",
+            "Renew next year"
+        ]
+    },
+    {
+        "q": "BRC is Bank Realization Certificate for exports.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "BRC confirms receipt of export proceeds.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "BRC may be required for refund processing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "BRC is obtained from bank.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export proceeds must be received within prescribed time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match export documentation:",
+        "type": "match",
+        "left": [
+            "Shipping bill",
+            "BRC",
+            "LUT",
+            "Invoice"
+        ],
+        "right": [
+            "Export proof",
+            "Proceeds receipt",
+            "No IGST",
+            "Value declaration"
+        ]
+    },
+    {
+        "q": "Online refund tracking is available on GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund status shows processing stage.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SMS alerts are sent for refund updates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Email alerts are sent for refund updates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund history is available in dashboard.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange refund tracking:",
+        "type": "rearrange",
+        "words": [
+            "Login to portal",
+            "Go to refunds",
+            "Track application",
+            "View status",
+            "Download order"
+        ]
+    },
+    {
+        "q": "Refund can be rejected for non-compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rejection order is appealable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Appeal timeline for refund rejection is 3 months.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Personal hearing is available on request.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fresh application can be filed correcting defects.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match refund rejection scenarios:",
+        "type": "match",
+        "left": [
+            "Wrong calculation",
+            "Missing documents",
+            "Time-barred",
+            "Ineligible"
+        ],
+        "right": [
+            "Reapply",
+            "Submit documents",
+            "No remedy",
+            "Cannot claim"
+        ]
+    },
+    {
+        "q": "Adjustment of refund against dues is automatic.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Outstanding demand is deducted from refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Net refund is credited to bank.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Intimation of adjustment is sent to taxpayer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Disputed demand may not be adjusted without consent.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange refund adjustment:",
+        "type": "rearrange",
+        "words": [
+            "Refund approved",
+            "Check outstanding dues",
+            "Adjust if any",
+            "Calculate net amount",
+            "Credit balance to bank"
+        ]
+    },
+    {
+        "q": "Penalty for wrong refund claim is Rs. ______ or tax amount.",
+        "type": "fill_blank",
+        "answers": [
+            "10000"
+        ],
+        "other_options": [
+            "5000",
+            "25000",
+            "50000"
+        ]
+    },
+    {
+        "q": "Fraudulent refund claim attracts prosecution.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Recovery of wrong refund is with interest.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest on wrong refund is 24%.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund fraud is a cognizable offence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match refund fraud consequences:",
+        "type": "match",
+        "left": [
+            "Wrong claim",
+            "Interest",
+            "Penalty",
+            "Prosecution"
+        ],
+        "right": [
+            "Recovery",
+            "24%",
+            "Rs. 10000 or more",
+            "For serious fraud"
+        ]
+    },
+    {
+        "q": "Interest and late fee are paid from cash ledger only.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC cannot be used for interest and late fee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Penalty is also paid from cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Demand amount may be paid from credit ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DRC-03 payment is from cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match payment sources:",
+        "type": "match",
+        "left": [
+            "Tax",
+            "Interest",
+            "Late fee",
+            "Penalty"
+        ],
+        "right": [
+            "Cash or credit",
+            "Cash only",
+            "Cash only",
+            "Cash only"
+        ]
+    },
+    {
+        "q": "Suo motu assessment triggers demand.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Suo motu assessment is for non-filers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Best judgment assessment uses available information.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Best judgment assessment is subject to appeal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Filing returns after assessment may reduce liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange assessment and recovery:",
+        "type": "rearrange",
+        "words": [
+            "Non-filing identified",
+            "Best judgment assessment",
+            "Demand order issued",
+            "Recovery initiated",
+            "Pay or appeal"
+        ]
+    },
+    {
+        "q": "Provisional assessment is for uncertain valuation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Provisional assessment requires bond.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Final assessment adjusts provisional payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Excess payment is refundable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Short payment requires additional tax with interest.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match provisional assessment:",
+        "type": "match",
+        "left": [
+            "Application",
+            "Bond",
+            "Final order",
+            "Adjustment"
+        ],
+        "right": [
+            "For uncertain value",
+            "Required",
+            "Within 6 months",
+            "Refund or pay"
+        ]
+    },
+    {
+        "q": "Composition turnover limit for manufacturers is Rs. ______ crore.",
+        "type": "fill_blank",
+        "answers": [
+            "1.5"
+        ],
+        "other_options": [
+            "1",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "q": "Composition rate for traders is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "1"
+        ],
+        "other_options": [
+            "0.5",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "q": "Special category state composition limit is Rs. ______ lakh.",
+        "type": "fill_blank",
+        "answers": [
+            "75"
+        ],
+        "other_options": [
+            "50",
+            "1 crore",
+            "1.5 crore"
+        ]
+    },
+    {
+        "q": "Composition dealer must pay tax on RCM supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition dealer reports RCM in CMP-08.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match composition scheme features:",
+        "type": "match",
+        "left": [
+            "Threshold",
+            "Rate",
+            "ITC",
+            "Returns"
+        ],
+        "right": [
+            "Rs. 1.5 crore",
+            "1% or 5%",
+            "Not available",
+            "CMP-08 quarterly"
+        ]
+    },
+    {
+        "q": "RCM on GTA services is paid by recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM on legal services is paid by recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM on import of services is IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM on security services applies to registered recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM on director fees applies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange RCM services:",
+        "type": "rearrange",
+        "words": [
+            "GTA",
+            "Legal services",
+            "Security services",
+            "Director fees",
+            "Sponsorship"
+        ]
+    },
+    {
+        "q": "Payment of tax is mandatory before filing GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-3B cannot be filed without clearing liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Liability is cleared from credit and cash.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Zero liability still requires filing GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NIL GSTR-3B is filed when no supply and no liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match filing and payment:",
+        "type": "match",
+        "left": [
+            "Liability exists",
+            "Zero liability",
+            "NIL return",
+            "Credit exceeds"
+        ],
+        "right": [
+            "Pay and file",
+            "File only",
+            "File as NIL",
+            "Carry forward credit"
+        ]
+    },
+    {
+        "q": "Penalty for late filing includes late fee and may include penalty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Late fee is distinct from penalty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Penalty under section 122 is for non-compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Penalty under section 125 is general penalty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Maximum general penalty is Rs. 25000.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match penalty provisions:",
+        "type": "match",
+        "left": [
+            "Section 122",
+            "Section 123",
+            "Section 125",
+            "Late fee"
+        ],
+        "right": [
+            "Non-compliance",
+            "Failure to furnish",
+            "General",
+            "Return delay"
+        ]
+    },
+    {
+        "q": "What is the maximum late fee for GSTR-1?",
+        "type": "mcq",
+        "options": [
+            "Rs. 10000",
+            "Rs. 5000",
+            "Rs. 20000",
+            "Rs. 25000"
+        ],
+        "correct": "Rs. 10000"
+    },
+    {
+        "q": "What is the maximum late fee for GSTR-3B?",
+        "type": "mcq",
+        "options": [
+            "Rs. 10000",
+            "Rs. 5000",
+            "Rs. 20000",
+            "Rs. 25000"
+        ],
+        "correct": "Rs. 10000"
+    },
+    {
+        "q": "What is the late fee per day for regular GSTR-1?",
+        "type": "mcq",
+        "options": [
+            "Rs. 50 per Act",
+            "Rs. 25 per Act",
+            "Rs. 100 per Act",
+            "Rs. 200 per Act"
+        ],
+        "correct": "Rs. 50 per Act"
+    },
+    {
+        "q": "What is the late fee per day for NIL return?",
+        "type": "mcq",
+        "options": [
+            "Rs. 20",
+            "Rs. 10",
+            "Rs. 50",
+            "Rs. 100"
+        ],
+        "correct": "Rs. 20"
+    },
+    {
+        "q": "Maximum late fee for NIL return is:",
+        "type": "mcq",
+        "options": [
+            "Rs. 500",
+            "Rs. 250",
+            "Rs. 1000",
+            "Rs. 2000"
+        ],
+        "correct": "Rs. 500"
+    },
+    {
+        "q": "Interest rate for wrong ITC claim is:",
+        "type": "mcq",
+        "options": [
+            "24%",
+            "18%",
+            "12%",
+            "36%"
+        ],
+        "correct": "24%"
+    },
+    {
+        "q": "Interest rate for delayed payment is:",
+        "type": "mcq",
+        "options": [
+            "18%",
+            "24%",
+            "12%",
+            "15%"
+        ],
+        "correct": "18%"
+    },
+    {
+        "q": "Interest on delayed refund is:",
+        "type": "mcq",
+        "options": [
+            "6%",
+            "9%",
+            "12%",
+            "18%"
+        ],
+        "correct": "6%"
+    },
+    {
+        "q": "Interest starts after how many days of refund application?",
+        "type": "mcq",
+        "options": [
+            "60 days",
+            "30 days",
+            "45 days",
+            "90 days"
+        ],
+        "correct": "60 days"
+    },
+    {
+        "q": "Time limit for filing refund application is:",
+        "type": "mcq",
+        "options": [
+            "2 years",
+            "1 year",
+            "3 years",
+            "5 years"
+        ],
+        "correct": "2 years"
+    },
+    {
+        "q": "Provisional refund is what percentage of claimed amount?",
+        "type": "mcq",
+        "options": [
+            "90%",
+            "80%",
+            "95%",
+            "100%"
+        ],
+        "correct": "90%"
+    },
+    {
+        "q": "Provisional refund is issued within how many days?",
+        "type": "mcq",
+        "options": [
+            "7 days",
+            "15 days",
+            "30 days",
+            "45 days"
+        ],
+        "correct": "7 days"
+    },
+    {
+        "q": "What is the TDS rate under GST?",
+        "type": "mcq",
+        "options": [
+            "2%",
+            "1%",
+            "5%",
+            "10%"
+        ],
+        "correct": "2%"
+    },
+    {
+        "q": "What is the TDS threshold?",
+        "type": "mcq",
+        "options": [
+            "Rs. 2.5 lakh",
+            "Rs. 1 lakh",
+            "Rs. 5 lakh",
+            "Rs. 10 lakh"
+        ],
+        "correct": "Rs. 2.5 lakh"
+    },
+    {
+        "q": "TCS is collected at what rate?",
+        "type": "mcq",
+        "options": [
+            "1%",
+            "2%",
+            "0.5%",
+            "5%"
+        ],
+        "correct": "1%"
+    },
+    {
+        "q": "CPIN is valid for how many days?",
+        "type": "mcq",
+        "options": [
+            "15 days",
+            "7 days",
+            "30 days",
+            "45 days"
+        ],
+        "correct": "15 days"
+    },
+    {
+        "q": "OTC payment limit per challan is:",
+        "type": "mcq",
+        "options": [
+            "Rs. 10000",
+            "Rs. 5000",
+            "Rs. 25000",
+            "Rs. 50000"
+        ],
+        "correct": "Rs. 10000"
+    },
+    {
+        "q": "Maximum installment period for tax payment is:",
+        "type": "mcq",
+        "options": [
+            "24 months",
+            "12 months",
+            "36 months",
+            "48 months"
+        ],
+        "correct": "24 months"
+    },
+    {
+        "q": "Pre-deposit for first appeal is:",
+        "type": "mcq",
+        "options": [
+            "10%",
+            "5%",
+            "15%",
+            "25%"
+        ],
+        "correct": "10%"
+    },
+    {
+        "q": "Maximum pre-deposit is:",
+        "type": "mcq",
+        "options": [
+            "Rs. 25 crore",
+            "Rs. 10 crore",
+            "Rs. 50 crore",
+            "Rs. 100 crore"
+        ],
+        "correct": "Rs. 25 crore"
+    },
+    {
+        "q": "Rearrange payment compliance cycle:",
+        "type": "rearrange",
+        "words": [
+            "Calculate liability",
+            "Offset with ITC",
+            "Identify balance",
+            "Pay from cash",
+            "File return"
+        ]
+    },
+    {
+        "q": "Rearrange refund workflow:",
+        "type": "rearrange",
+        "words": [
+            "Identify refund type",
+            "Gather documents",
+            "File RFD-01",
+            "Respond to queries",
+            "Receive refund"
+        ]
+    },
+    {
+        "q": "Rearrange TDS workflow:",
+        "type": "rearrange",
+        "words": [
+            "Identify TDS applicability",
+            "Deduct 2% on payment",
+            "File GSTR-7",
+            "Issue GSTR-7A",
+            "Supplier claims credit"
+        ]
+    },
+    {
+        "q": "Rearrange TCS workflow:",
+        "type": "rearrange",
+        "words": [
+            "Supply through platform",
+            "Calculate net value",
+            "Collect 1% TCS",
+            "File GSTR-8",
+            "Credit to supplier"
+        ]
+    },
+    {
+        "q": "Rearrange recovery cycle:",
+        "type": "rearrange",
+        "words": [
+            "Demand order",
+            "Non-payment",
+            "Recovery notice",
+            "Enforcement action",
+            "Recovery completed"
+        ]
+    },
+    {
+        "q": "GST payment gateway is integrated with major banks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-agency banks can be used through NEFT/RTGS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Agency banks offer direct debit option.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Payment confirmation is instant for net banking.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NEFT/RTGS credit may take up to 2 hours.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match bank integration:",
+        "type": "match",
+        "left": [
+            "Agency bank",
+            "Non-agency",
+            "Credit time",
+            "Confirmation"
+        ],
+        "right": [
+            "Direct debit",
+            "NEFT/RTGS",
+            "Varies",
+            "Instant or delayed"
+        ]
+    },
+    {
+        "q": "Demand under section 73 is for normal cases.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Demand under section 74 is for fraud cases.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 73 penalty is lower than section 74.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 73 limitation is 3 years.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 74 limitation is 5 years.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match demand sections:",
+        "type": "match",
+        "left": [
+            "Section 73",
+            "Section 74",
+            "Limitation",
+            "Penalty"
+        ],
+        "right": [
+            "Normal cases",
+            "Fraud cases",
+            "3 or 5 years",
+            "Varies"
+        ]
+    },
+    {
+        "q": "Tax collected from customer must be deposited to government.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-deposit of collected tax is theft from government.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Collected tax appears in liability ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Customer has paid trust for tax deposit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplier is trustee of collected tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange tax collection responsibility:",
+        "type": "rearrange",
+        "words": [
+            "Invoice with tax",
+            "Collect from customer",
+            "Hold in trust",
+            "Deposit to government",
+            "Report in return"
+        ]
+    },
+    {
+        "q": "What is the form for voluntary payment?",
+        "type": "mcq",
+        "options": [
+            "DRC-03",
+            "DRC-01",
+            "DRC-07",
+            "PMT-06"
+        ],
+        "correct": "DRC-03"
+    },
+    {
+        "q": "What is the form for demand order?",
+        "type": "mcq",
+        "options": [
+            "DRC-07",
+            "DRC-01",
+            "DRC-03",
+            "DRC-09"
+        ],
+        "correct": "DRC-07"
+    },
+    {
+        "q": "What is the form for show cause notice?",
+        "type": "mcq",
+        "options": [
+            "DRC-01",
+            "DRC-03",
+            "DRC-07",
+            "SCN-01"
+        ],
+        "correct": "DRC-01"
+    },
+    {
+        "q": "What is the form for summary of SCN?",
+        "type": "mcq",
+        "options": [
+            "DRC-01A",
+            "DRC-01",
+            "DRC-02",
+            "DRC-03"
+        ],
+        "correct": "DRC-01A"
+    },
+    {
+        "q": "What is the form for intimation before SCN?",
+        "type": "mcq",
+        "options": [
+            "DRC-01A",
+            "DRC-01",
+            "DRC-02",
+            "ASMT-10"
+        ],
+        "correct": "DRC-01A"
+    },
+    {
+        "q": "What is the form for acknowledgment of voluntary payment?",
+        "type": "mcq",
+        "options": [
+            "DRC-04",
+            "DRC-03",
+            "DRC-05",
+            "PMT-06"
+        ],
+        "correct": "DRC-04"
+    },
+    {
+        "q": "What is the form for statement of self-assessment?",
+        "type": "mcq",
+        "options": [
+            "DRC-03",
+            "DRC-01",
+            "GSTR-3B",
+            "DRC-07"
+        ],
+        "correct": "DRC-03"
+    },
+    {
+        "q": "Recovery can be from assets of the defaulter.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Surety bond provider can be proceeded against.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Director of defaulting company may be liable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Partner of defaulting firm may be liable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Recovery officer is appointed for specific recovery.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match recovery from persons:",
+        "type": "match",
+        "left": [
+            "Defaulter",
+            "Director",
+            "Partner",
+            "Surety"
+        ],
+        "right": [
+            "Primary liability",
+            "If company defaults",
+            "If firm defaults",
+            "If bond invoked"
+        ]
+    },
+    {
+        "q": "Liquidation of company triggers immediate recovery.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST dues are priority in liquidation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Secured creditor has priority over tax dues.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Government dues rank with secured creditors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Claim filing in liquidation is mandatory for recovery.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange liquidation recovery:",
+        "type": "rearrange",
+        "words": [
+            "Liquidation starts",
+            "Claim filing",
+            "Priority determination",
+            "Distribution",
+            "Recovery of dues"
+        ]
+    },
+    {
+        "q": "Constitutional provisions protect GST collection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Article 265 requires legal authority for tax collection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST Act provides legal authority for collection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax collected in contravention of law is refundable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Writ petition is remedy for illegal collection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match constitutional provisions:",
+        "type": "match",
+        "left": [
+            "Article 265",
+            "Article 246A",
+            "Article 279A",
+            "Article 269A"
+        ],
+        "right": [
+            "Tax authority",
+            "GST power",
+            "GST Council",
+            "IGST apportionment"
+        ]
+    },
+    {
+        "q": "Cross-empowerment allows state to assess CGST matters.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cross-empowerment allows center to assess SGST matters.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Single interface approach uses cross-empowerment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxpayer deals with one authority for both taxes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Division based on GSTIN suffix.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange cross-empowerment:",
+        "type": "rearrange",
+        "words": [
+            "Check GSTIN suffix",
+            "Determine authority",
+            "Single officer handles",
+            "Both CGST and SGST",
+            "One assessment"
+        ]
+    },
+    {
+        "q": "Quarterly return filer uses PMT-06 for monthly payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "PMT-06 has fixed sum and self-assessment options.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fixed sum is 35% of last quarter tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Self-assessment uses actual liability calculation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Difference is adjusted in quarterly GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match QRMP payment:",
+        "type": "match",
+        "left": [
+            "Monthly payment",
+            "Fixed sum",
+            "Self-assessment",
+            "Adjustment"
+        ],
+        "right": [
+            "PMT-06",
+            "35% of last quarter",
+            "Actual liability",
+            "In quarterly 3B"
+        ]
+    },
+    {
+        "q": "Advance tax is not applicable under GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax is payable on supply completion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Time of supply determines tax payment timing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Advance receipt creates time of supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Services advance requires immediate tax liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange time of supply:",
+        "type": "rearrange",
+        "words": [
+            "Identify supply",
+            "Check for advance",
+            "Determine earliest date",
+            "Invoice or receipt",
+            "Calculate tax point"
+        ]
+    },
+    {
+        "q": "Import IGST is paid at customs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Import IGST is like customs duty payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bill of Entry is document for import IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Import IGST credit is available to importer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Import IGST appears in GSTR-2A.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match import IGST:",
+        "type": "match",
+        "left": [
+            "Payment point",
+            "Document",
+            "Credit",
+            "Reporting"
+        ],
+        "right": [
+            "Customs",
+            "Bill of Entry",
+            "Available",
+            "GSTR-2A"
+        ]
+    },
+    {
+        "q": "Export IGST is refunded automatically.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export IGST refund is through ICEGATE.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Shipping bill data triggers automatic refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-1 must match shipping bill data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Mismatch causes refund delay.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange export IGST refund:",
+        "type": "rearrange",
+        "words": [
+            "Pay IGST on export",
+            "File shipping bill",
+            "GSTR-1 reporting",
+            "ICEGATE transmission",
+            "Auto refund"
+        ]
+    },
+    {
+        "q": "What form is used for LUT?",
+        "type": "mcq",
+        "options": [
+            "RFD-11",
+            "RFD-01",
+            "LUT-01",
+            "EXP-01"
+        ],
+        "correct": "RFD-11"
+    },
+    {
+        "q": "LUT is valid for how long?",
+        "type": "mcq",
+        "options": [
+            "One financial year",
+            "One calendar year",
+            "Permanent",
+            "Two years"
+        ],
+        "correct": "One financial year"
+    },
+    {
+        "q": "Who can file LUT?",
+        "type": "mcq",
+        "options": [
+            "Registered exporters",
+            "All taxpayers",
+            "Only manufacturers",
+            "Only traders"
+        ],
+        "correct": "Registered exporters"
+    },
+    {
+        "q": "LUT avoids which payment?",
+        "type": "mcq",
+        "options": [
+            "IGST on exports",
+            "ITC reversal",
+            "GST registration",
+            "Annual return"
+        ],
+        "correct": "IGST on exports"
+    },
+    {
+        "q": "What happens if LUT conditions are violated?",
+        "type": "mcq",
+        "options": [
+            "LUT is cancelled",
+            "No consequence",
+            "Auto renewal",
+            "Penalty only"
+        ],
+        "correct": "LUT is cancelled"
+    },
+    {
+        "q": "Which statement shows TDS credit?",
+        "type": "mcq",
+        "options": [
+            "GSTR-2A",
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-9"
+        ],
+        "correct": "GSTR-2A"
+    },
+    {
+        "q": "Which statement shows TCS credit?",
+        "type": "mcq",
+        "options": [
+            "GSTR-2A",
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-8"
+        ],
+        "correct": "GSTR-2A"
+    },
+    {
+        "q": "TDS credit is available in which ledger?",
+        "type": "mcq",
+        "options": [
+            "Cash ledger",
+            "Credit ledger",
+            "Liability ledger",
+            "Both cash and credit"
+        ],
+        "correct": "Cash ledger"
+    },
+    {
+        "q": "TCS credit is available in which ledger?",
+        "type": "mcq",
+        "options": [
+            "Cash ledger",
+            "Credit ledger",
+            "Liability ledger",
+            "Both cash and credit"
+        ],
+        "correct": "Cash ledger"
+    },
+    {
+        "q": "Supplier can use TDS/TCS credit for:",
+        "type": "mcq",
+        "options": [
+            "Tax payment",
+            "Refund only",
+            "Penalty only",
+            "Interest only"
+        ],
+        "correct": "Tax payment"
+    },
+    {
+        "q": "Electronic liability register shows all demands.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Return liability is auto-populated in register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Demand liability is added through order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Liability is discharged through payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Running balance is maintained.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match liability register entries:",
+        "type": "match",
+        "left": [
+            "Return filing",
+            "Demand order",
+            "Payment",
+            "Balance"
+        ],
+        "right": [
+            "Auto-population",
+            "Manual entry",
+            "Discharge",
+            "Net dues"
+        ]
+    },
+    {
+        "q": "GSP stands for GST Suvidha Provider.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ASP stands for Application Service Provider.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSP/ASP facilitate bulk filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSP/ASP connect to GST portal via API.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Payment through GSP is valid.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange GSP/ASP usage:",
+        "type": "rearrange",
+        "words": [
+            "Choose GSP/ASP",
+            "Integrate software",
+            "File through API",
+            "Payment facilitation",
+            "Return confirmation"
+        ]
+    },
+    {
+        "q": "Refund withheld under section 54(11).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund withheld when tax evasion suspected.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Withholding order is in RFD-07.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Reason for withholding must be recorded.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Withholding order is appealable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match refund withholding:",
+        "type": "match",
+        "left": [
+            "Section",
+            "Form",
+            "Reason",
+            "Remedy"
+        ],
+        "right": [
+            "54(11)",
+            "RFD-07",
+            "Tax evasion suspected",
+            "Appeal"
+        ]
+    },
+    {
+        "q": "Provisional refund applies to export refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Provisional refund is 90% of claimed amount.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Provisional refund order is RFD-04.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Final refund adjusts provisional amount.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Balance 10% after verification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange provisional refund:",
+        "type": "rearrange",
+        "words": [
+            "Apply for refund",
+            "Get RFD-04 provisional",
+            "90% credited",
+            "Verification completed",
+            "Balance 10% released"
+        ]
+    },
+    {
+        "q": "PFMS is Public Financial Management System.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund credit happens through PFMS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bank account must be linked for refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invalid bank details cause refund delay.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bank account validation is in registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match refund credit mechanism:",
+        "type": "match",
+        "left": [
+            "System",
+            "Link",
+            "Validation",
+            "Credit"
+        ],
+        "right": [
+            "PFMS",
+            "Bank account in GST",
+            "Registration time",
+            "Direct to account"
+        ]
+    },
+    {
+        "q": "Rule 86A allows ITC blocking.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC blocking is for suspected fraud cases.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Blocked ITC cannot be used for tax payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Blocking order must have reasons.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Blocking is reviewable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange ITC blocking:",
+        "type": "rearrange",
+        "words": [
+            "Suspected fraud",
+            "Investigation",
+            "Blocking order",
+            "Credit ledger freeze",
+            "Review or appeal"
+        ]
+    },
+    {
+        "q": "ITC blocking period is one year.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Extension requires further order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Auto-unblock after one year without extension.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxpayer can request unblocking.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Writ petition is remedy for wrongful blocking.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match ITC blocking timeline:",
+        "type": "match",
+        "left": [
+            "Initial period",
+            "Extension",
+            "Auto-unblock",
+            "Remedy"
+        ],
+        "right": [
+            "One year",
+            "Commissioner order",
+            "Yes",
+            "Writ petition"
+        ]
+    },
+    {
+        "q": "Negative value in GSTR-3B affects liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Negative liability carries forward.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit notes create negative impact.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Negative balance is not refundable directly.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Adjustment in future periods is automatic.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange negative liability handling:",
+        "type": "rearrange",
+        "words": [
+            "Issue credit notes",
+            "Report in return",
+            "Reduce current liability",
+            "Carry negative forward",
+            "Adjust in next period"
+        ]
+    },
+    {
+        "q": "What is maximum penalty under section 122?",
+        "type": "mcq",
+        "options": [
+            "Higher of Rs. 10000 or tax",
+            "Rs. 5000",
+            "Rs. 25000",
+            "Rs. 50000"
+        ],
+        "correct": "Higher of Rs. 10000 or tax"
+    },
+    {
+        "q": "What is general penalty under section 125?",
+        "type": "mcq",
+        "options": [
+            "Rs. 25000",
+            "Rs. 10000",
+            "Rs. 50000",
+            "Rs. 1 lakh"
+        ],
+        "correct": "Rs. 25000"
+    },
+    {
+        "q": "Prosecution is for tax evasion above:",
+        "type": "mcq",
+        "options": [
+            "Rs. 5 crore (initially 2 crore)",
+            "Rs. 1 crore",
+            "Rs. 10 crore",
+            "Any amount"
+        ],
+        "correct": "Rs. 5 crore (initially 2 crore)"
+    },
+    {
+        "q": "Compounding is available for which offence?",
+        "type": "mcq",
+        "options": [
+            "Most offences except serious ones",
+            "All offences",
+            "No offences",
+            "Only minor offences"
+        ],
+        "correct": "Most offences except serious ones"
+    },
+    {
+        "q": "Maximum imprisonment for tax evasion is:",
+        "type": "mcq",
+        "options": [
+            "5 years",
+            "3 years",
+            "7 years",
+            "10 years"
+        ],
+        "correct": "5 years"
+    },
+    {
+        "q": "Rearrange penalty calculation:",
+        "type": "rearrange",
+        "words": [
+            "Identify contravention",
+            "Check section",
+            "Calculate tax involved",
+            "Apply minimum or tax",
+            "Issue penalty order"
+        ]
+    },
+    {
+        "q": "Rearrange refund for SEZ:",
+        "type": "rearrange",
+        "words": [
+            "Supply to SEZ",
+            "Get endorsement",
+            "File RFD-01",
+            "Submit documents",
+            "Receive refund"
+        ]
+    },
+    {
+        "q": "Rearrange deemed export refund:",
+        "type": "rearrange",
+        "words": [
+            "Supply to EOU",
+            "Get certificate",
+            "Apply refund",
+            "Verification",
+            "Credit to account"
+        ]
+    },
+    {
+        "q": "Rearrange excess balance refund:",
+        "type": "rearrange",
+        "words": [
+            "Identify excess",
+            "Reason analysis",
+            "File RFD-01",
+            "Verification",
+            "Bank credit"
+        ]
+    },
+    {
+        "q": "Rearrange ITC accumulation refund:",
+        "type": "rearrange",
+        "words": [
+            "Export/inverted scenario",
+            "Accumulate ITC",
+            "Apply formula",
+            "File refund",
+            "Receive credit"
+        ]
+    },
+    {
+        "q": "Zero liability return still requires filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NIL return can be filed via SMS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Late fee for NIL return is capped.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Regular filing maintains compliance status.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Continuous non-filing triggers suo motu assessment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match NIL return provisions:",
+        "type": "match",
+        "left": [
+            "Filing",
+            "Mode",
+            "Late fee cap",
+            "Consequence of non-filing"
+        ],
+        "right": [
+            "Mandatory",
+            "SMS or portal",
+            "Rs. 500",
+            "Suo motu assessment"
+        ]
+    }
+]

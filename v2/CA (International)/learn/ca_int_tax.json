@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_int_tax",
+    "topicId": "ca_int_tax",
+    "topicTitle": "Global Taxation Principles",
+    "description": "Master Global Taxation covering International Tax, Treaties, and Transfer Pricing",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "cai_tax1",
+            "type": "content",
+            "title": "Welcome to Global Taxation",
+            "content": "# Global Taxation Principles\n\nNavigate the **international tax landscape**.\n\n## What You Will Learn\n\n- **Residence** - Tax basis\n- **Treaties** - Double taxation\n- **Transfer Pricing** - Arm's length\n- **Anti-Avoidance** - BEPS measures\n\n## Structure\n\n| Area | Focus |\n|------|-------|\n| Residence | Taxing rights |\n| Treaties | Relief |\n| TP | Intercompany |\n| BEPS | Anti-avoidance |"
+        },
+        {
+            "id": "cai_tax2",
+            "type": "content",
+            "title": "Tax Residence",
+            "content": "# Determining Nexus\n\n## Residence Rules\n\n| Entity | Tests |\n|--------|-------|\n| Individuals | Days, ties |\n| Companies | Incorporation, management |\n\n## Taxation Principles\n\n| Status | Scope |\n|--------|-------|\n| Resident | Worldwide |\n| Non-resident | Source only |\n\n## Permanent Establishment\n\n```\nFixed place of business:\n- Branch\n- Office\n- Factory\n- Construction > 12 months\n```"
+        },
+        {
+            "id": "cai_tax3",
+            "type": "content",
+            "title": "Double Taxation",
+            "content": "# Relief Methods\n\n## Types of Double Tax\n\n| Type | Description |\n|------|-------------|\n| Juridical | Same person, two countries |\n| Economic | Same income, different entities |\n\n## Relief Methods\n\n| Method | Mechanism |\n|--------|----------|\n| Exemption | Income excluded |\n| Credit | Foreign tax offset |\n| Deduction | Tax as expense |\n\n## Limitation\n\n```\nCredit limited to:\nDomestic tax on foreign income\n```"
+        },
+        {
+            "id": "cai_tax_quiz1",
+            "type": "quiz",
+            "title": "Residence Quiz",
+            "content": "Test your residence knowledge!",
+            "quizQuestion": "Residents are taxed on?",
+            "quizOptions": [
+                "Source income",
+                "Worldwide income",
+                "Capital only",
+                "No income"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_tax4",
+            "type": "content",
+            "title": "Tax Treaties",
+            "content": "# OECD Model Convention\n\n## Purpose\n\n| Objective | Mechanism |\n|-----------|----------|\n| Avoid double tax | Allocation |\n| Prevent evasion | Exchange |\n| Reduce withholding | Lower rates |\n\n## Key Articles\n\n| Article | Topic |\n|---------|-------|\n| 4 | Residence |\n| 5 | PE |\n| 7 | Business profits |\n| 10 | Dividends |\n| 11 | Interest |\n| 12 | Royalties |\n| 13 | Capital gains |"
+        },
+        {
+            "id": "cai_tax5",
+            "type": "content",
+            "title": "Transfer Pricing",
+            "content": "# Arm's Length Principle\n\n## Definition\n\n```\nPrice between related parties\nshould equal price between\nindependent parties\n```\n\n## Methods\n\n| Method | Approach |\n|--------|----------|\n| CUP | Comparable price |\n| RPM | Resale minus |\n| CPM | Cost plus |\n| TNMM | Net margin |\n| PSM | Profit split |\n\n## Documentation\n\n- Master file\n- Local file\n- CbC report"
+        },
+        {
+            "id": "cai_tax6",
+            "type": "content",
+            "title": "BEPS Overview",
+            "content": "# Base Erosion and Profit Shifting\n\n## OECD BEPS Actions\n\n| Action | Topic |\n|--------|-------|\n| 1 | Digital economy |\n| 2 | Hybrids |\n| 3 | CFC rules |\n| 4 | Interest deduction |\n| 5 | Harmful practices |\n| 6 | Treaty abuse |\n| 7 | PE avoidance |\n| 8-10 | Transfer pricing |\n| 11 | Data analysis |\n| 12 | Disclosure |\n| 13 | Documentation |\n| 14 | Dispute resolution |\n| 15 | Multilateral instrument |"
+        },
+        {
+            "id": "cai_tax_quiz2",
+            "type": "quiz",
+            "title": "TP Quiz",
+            "content": "Test your transfer pricing knowledge!",
+            "quizQuestion": "Arm's length means price of?",
+            "quizOptions": [
+                "Related parties",
+                "Independent parties",
+                "Government",
+                "Subsidiaries"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_tax7",
+            "type": "content",
+            "title": "Withholding Taxes",
+            "content": "# Source Taxation\n\n## Common WHT Items\n\n| Payment | Rate (typical) |\n|---------|---------------|\n| Dividends | 10-15% |\n| Interest | 10-15% |\n| Royalties | 10-15% |\n| Services | Varies |\n\n## Treaty Reduction\n\n```\nDomestic rate: 25%\nTreaty rate: 10%\n\nApply lower treaty rate\nif beneficial owner qualifies\n```\n\n## Beneficial Ownership\n\n- Not agent or conduit\n- Economic rights"
+        },
+        {
+            "id": "cai_tax8",
+            "type": "content",
+            "title": "Controlled Foreign Companies",
+            "content": "# CFC Rules\n\n## Purpose\n\n```\nPrevent deferral of tax\non passive income in\nlow-tax subsidiaries\n```\n\n## Typical Rules\n\n| Element | Test |\n|---------|------|\n| Control | > 50% |\n| Income | Passive |\n| Tax rate | Below threshold |\n\n## Effect\n\n```\nCFC income attributed to\nparent immediately\n(even without dividend)\n```"
+        },
+        {
+            "id": "cai_tax9",
+            "type": "content",
+            "title": "Digital Taxation",
+            "content": "# New Challenges\n\n## Issues\n\n| Challenge | Traditional Rule |\n|-----------|------------------|\n| No PE | Physical presence |\n| Value creation | Where is it? |\n| Data | User contribution |\n\n## BEPS Pillar One\n\n```\nAmount A: New taxing rights\nAmount B: Baseline for activities\n```\n\n## Pillar Two\n\n```\nGlobal Minimum Tax: 15%\nGlobal Anti-Base Erosion (GloBE)\n```"
+        },
+        {
+            "id": "cai_tax_quiz3",
+            "type": "quiz",
+            "title": "BEPS Quiz",
+            "content": "Test your BEPS knowledge!",
+            "quizQuestion": "Pillar Two minimum rate is?",
+            "quizOptions": [
+                "10%",
+                "12.5%",
+                "15%",
+                "20%"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cai_tax10",
+            "type": "content",
+            "title": "Tax Planning",
+            "content": "# Legitimate Structuring\n\n## Objectives\n\n| Goal | Approach |\n|------|----------|\n| Reduce liability | Use incentives |\n| Timing | Deferral |\n| Location | Holding structures |\n\n## Limitations\n\n| Rule | Effect |\n|------|--------|\n| GAAR | General anti-avoidance |\n| SAAR | Specific rules |\n| LOB | Treaty limitation |\n| PPT | Principal purpose |"
+        },
+        {
+            "id": "cai_tax11",
+            "type": "content",
+            "title": "Tax Risk Management",
+            "content": "# Managing Tax Risk\n\n## Risk Categories\n\n| Risk | Source |\n|------|--------|\n| Compliance | Filing, payment |\n| Transactional | Deals |\n| Operational | Processes |\n| Financial | Accounting |\n| Reputational | Public perception |\n\n## Governance\n\n```\nBoard oversight\nTax policy\nRisk framework\nMonitoring\n```"
+        },
+        {
+            "id": "cai_tax12",
+            "type": "content",
+            "title": "Information Exchange",
+            "content": "# Tax Transparency\n\n## Exchange Mechanisms\n\n| Type | Description |\n|------|-------------|\n| On request | Specific queries |\n| Automatic | CRS, CbCR |\n| Spontaneous | Voluntary |\n\n## CRS\n\n```\nCommon Reporting Standard:\nAutomatic exchange of\nfinancial account information\n```\n\n## CbCR\n\n```\nCountry-by-Country Reporting:\nFor MNEs > EUR 750M\n```"
+        },
+        {
+            "id": "cai_tax_quiz4",
+            "type": "quiz",
+            "title": "Exchange Quiz",
+            "content": "Test your exchange knowledge!",
+            "quizQuestion": "CRS exchanges?",
+            "quizOptions": [
+                "Trade data",
+                "Financial account info",
+                "Employee data",
+                "Patents"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_tax17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **Global Taxation Principles**!\n\n## Key Topics\n\n### Residence\n- Tax nexus\n- PE rules\n- Worldwide vs source\n\n### Treaties\n- OECD Model\n- Relief methods\n- WHT reduction\n\n### Transfer Pricing\n- Arm's length\n- 5 methods\n- Documentation\n\n### BEPS\n- 15 Action items\n- Pillar One and Two\n- Digital taxation\n\n## Key Concepts\n\n| Concept | Application |\n|---------|-------------|\n| Arm's length | TP |\n| 15% minimum | Pillar Two |\n| CRS | Exchange |\n\n## What is Next?\n\nExplore Corporate Finance!"
+        }
+    ]
+}

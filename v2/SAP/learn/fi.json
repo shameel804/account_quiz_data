@@ -1,0 +1,167 @@
+{
+    "id": "learn_fi",
+    "topicId": "fi",
+    "topicTitle": "SAP Financial Accounting",
+    "description": "Master SAP FI concepts including General Ledger Configuration, Accounts Payable and Receivable, Asset Accounting, and Period-End Closing procedures",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "fico_1",
+            "type": "content",
+            "title": "Welcome to SAP Financial Accounting",
+            "content": "# SAP Financial Accounting (FI)\n\nSAP FI is the core module for **external financial reporting**, managing all financial transactions and generating statutory reports.\n\n## What You Will Learn\n\n- **General Ledger Configuration** - Setting up the GL\n- **Accounts Payable (AP)** - Managing vendor payments\n- **Accounts Receivable (AR)** - Managing customer receipts\n- **Asset Accounting (AA)** - Fixed asset management\n- **Period-End Closing** - Month and year-end procedures\n\n## FI Sub-Modules\n\n| Sub-Module | Purpose |\n|------------|--------|\n| **FI-GL** | General Ledger |\n| **FI-AP** | Accounts Payable |\n| **FI-AR** | Accounts Receivable |\n| **FI-AA** | Asset Accounting |\n| **FI-BL** | Bank Accounting |\n| **FI-TV** | Travel Management |\n\n## Integration with Other Modules\n\n```\nMM (Purchase) --> FI-AP (Vendor Invoice)\nSD (Sales)    --> FI-AR (Customer Invoice)\nPP (Production) --> CO (Cost) --> FI (GL)\nHR (Payroll)  --> FI (Expense Posting)\n```\n\n> **FI captures every financial event** in the organization!"
+        },
+        {
+            "id": "fico_2",
+            "type": "content",
+            "title": "General Ledger Architecture",
+            "content": "# General Ledger in SAP FI\n\n## New GL Architecture (S/4HANA)\n\n### Classic GL vs New GL\n\n| Feature | Classic GL | New GL |\n|---------|-----------|--------|\n| Document Splitting | No | Yes |\n| Real-time Integration | No | Yes |\n| Parallel Ledgers | Limited | Full |\n| Segment Reporting | Via Business Area | Native |\n\n## Key GL Components\n\n### Chart of Accounts\n```\nOperational COA (CAUS)\n    |\n    +-- 100000-199999 Assets\n    +-- 200000-299999 Liabilities\n    +-- 300000-399999 Equity\n    +-- 400000-499999 Revenue\n    +-- 500000-599999 Expenses\n```\n\n### Account Groups\n- Control number ranges\n- Define field status\n- Group similar accounts\n\n### Fiscal Year Variant\nDefines:\n- Number of periods (12 + special)\n- Period start/end dates\n- Year-dependent/independent\n\n## GL Configuration Path\n\n```\nSPRO > Financial Accounting > \n  General Ledger Accounting > \n    GL Accounts > Master Records\n```\n\n## Key Transaction Codes\n\n| TCode | Description |\n|-------|-------------|\n| FS00 | Create/Change GL Account |\n| FS10N | GL Account Balance |\n| FAGLB03 | Display Balances (New GL) |\n| FB01 | Post Document |\n\n> **The GL is the heart** of SAP Financial Accounting!"
+        },
+        {
+            "id": "fico_3",
+            "type": "content",
+            "title": "GL Document Posting",
+            "content": "# Posting to the General Ledger\n\n## Document Entry Screen (FB01)\n\n### Header Data\n- Document Date\n- Posting Date\n- Document Type (SA for GL)\n- Company Code\n- Currency\n- Reference\n- Header Text\n\n### Line Item Data\n- Posting Key (40=Debit, 50=Credit)\n- Account Number\n- Amount\n- Cost Center (if required)\n- Text\n\n## Example: Recording Rent Expense\n\n```\nDocument Type: SA (GL Posting)\nPosting Date: 31.01.2024\nReference: RENT-JAN\n\nLine 1:\n  PK: 40 (Debit)\n  Account: 515000 (Rent Expense)\n  Amount: 5,000.00\n  Cost Center: 1000\n\nLine 2:\n  PK: 50 (Credit)\n  Account: 100000 (Bank Account)\n  Amount: 5,000.00\n```\n\n## Document Types\n\n| Type | Description |\n|------|-------------|\n| SA | GL Account Document |\n| AB | Accounting Document |\n| AA | Asset Posting |\n| AF | Depreciation Posting |\n\n## Posting Keys\n\n| Key | Type | Account |\n|-----|------|--------|\n| 40 | Debit | GL |\n| 50 | Credit | GL |\n| 01 | Debit | Customer |\n| 11 | Credit | Customer |\n| 21 | Credit | Vendor |\n| 31 | Debit | Vendor |\n\n> **Every posting creates a complete document!**"
+        },
+        {
+            "id": "fico_quiz_1",
+            "type": "quiz",
+            "title": "GL Posting Check",
+            "content": "Test your GL posting knowledge!",
+            "quizQuestion": "Which posting key is used to credit a GL account?",
+            "quizOptions": [
+                "40",
+                "50",
+                "01",
+                "31"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fico_4",
+            "type": "content",
+            "title": "Accounts Payable Overview",
+            "content": "# Accounts Payable (FI-AP)\n\n## Purpose\n\nManage **vendor relationships and payments** - tracking what you owe and ensuring timely payment.\n\n## AP Process Flow\n\n```\nPurchase Order (MM)\n        |\n        v\nGoods Receipt (MM)\n        |\n        v\nInvoice Receipt (FI-AP)  --> Three-Way Match\n        |\n        v\nPayment Processing (FI-AP)\n        |\n        v\nBank Reconciliation\n```\n\n## Key AP Transactions\n\n| TCode | Function |\n|-------|----------|\n| FB60 | Enter Vendor Invoice |\n| MIRO | Invoice Verification (MM) |\n| F-43 | Post Vendor Invoice |\n| F-44 | Clear Vendor |\n| F110 | Automatic Payment Run |\n| FBL1N | Vendor Line Items |\n| FK10N | Vendor Balance |\n\n## Vendor Invoice Entry (FB60)\n\n### Required Fields\n- Vendor Number\n- Invoice Date\n- Posting Date\n- Amount\n- GL Account (expense)\n- Tax Code\n\n### Optional Fields\n- Reference (vendor invoice number)\n- Text\n- Payment terms\n- Baseline date\n\n## Vendor Reconciliation Account\n\nAP account in GL updated automatically:\n```\nVendor Invoice:\n  Dr: Expense Account\n  Cr: AP Reconciliation Account (via Vendor)\n```\n\n> **AP ensures vendors are paid correctly and on time!**"
+        },
+        {
+            "id": "fico_5",
+            "type": "content",
+            "title": "AP Invoice Processing",
+            "content": "# Vendor Invoice Processing\n\n## Invoice Entry Methods\n\n### 1. Direct Entry (FB60)\nFor non-PO invoices:\n- Services without PO\n- Utility bills\n- Recurring expenses\n\n### 2. Invoice Verification (MIRO)\nFor PO-based invoices:\n- Three-way match\n- Quantity and price verification\n- GR/IR account clearing\n\n## Three-Way Match\n\n```\nPurchase Order    Goods Receipt    Invoice\n    |                   |              |\n    +----> Quantity <---+              |\n    |                                  |\n    +-----------> Price <--------------+\n```\n\nValidations:\n- Quantity received vs invoiced\n- Price on PO vs invoice\n- Tolerance limits\n\n## Invoice Parking\n\nPreliminary posting without affecting balances:\n\n| TCode | Function |\n|-------|----------|\n| FV60 | Park Invoice |\n| FBV0 | Post Parked Document |\n\n## Invoice Blocking\n\nReasons for blocking:\n- Payment block (manual)\n- Price variance\n- Quantity variance\n- Quality issues\n\n## Example: Service Invoice\n\n```\nVendor: 100001 (Office Services Ltd)\nInvoice Date: 15.01.2024\nAmount: 1,500.00\n\nLine Items:\n  515100 - Consulting Services  1,200.00\n  515200 - Travel Reimbursement    300.00\n  ----------------------------------------\n  Total:                         1,500.00\n```\n\n> **Accurate invoice processing** prevents payment errors!"
+        },
+        {
+            "id": "fico_6",
+            "type": "content",
+            "title": "AP Payment Processing",
+            "content": "# Vendor Payments\n\n## Payment Methods\n\n| Method | Use Case |\n|--------|----------|\n| Check | Traditional payment |\n| Bank Transfer | Electronic payment |\n| Wire | International/urgent |\n| ACH | Automated clearing |\n\n## Automatic Payment Program (F110)\n\n### Process Steps\n\n1. **Parameters** - Company code, payment method, dates\n2. **Proposal** - System identifies items due\n3. **Edit Proposal** - Review and modify\n4. **Payment Run** - Execute payments\n5. **Print/Electronic** - Generate output\n\n### F110 Screen\n\n```\n+------------------------------------------+\n| Run Date: 15.01.2024                     |\n| Identification: PAY001                    |\n+------------------------------------------+\n| Parameters    | Proposal | Payment Run  |\n| [Maintain]    | [Create] | [Execute]    |\n+------------------------------------------+\n| Status:       | Printout:               |\n| [View Log]    | [Generate]              |\n+------------------------------------------+\n```\n\n## Payment Terms\n\n| Term | Description |\n|------|-------------|\n| Z001 | Net 30 days |\n| Z002 | 2% 10 Net 30 |\n| ZB01 | Due on receipt |\n\n## Cash Discount\n\n```\nInvoice: $10,000\nTerms: 2% 10 Net 30\nPaid within 10 days: $9,800\nSaved: $200\n```\n\n> **Optimize payments** to capture discounts!"
+        },
+        {
+            "id": "fico_7",
+            "type": "content",
+            "title": "Accounts Receivable Overview",
+            "content": "# Accounts Receivable (FI-AR)\n\n## Purpose\n\nManage **customer relationships and collections** - tracking what customers owe and ensuring timely collection.\n\n## AR Process Flow\n\n```\nSales Order (SD)\n        |\n        v\nDelivery (SD)\n        |\n        v\nBilling Document (SD) --> FI-AR Invoice\n        |\n        v\nPayment Receipt (FI-AR)\n        |\n        v\nBank Reconciliation\n```\n\n## Key AR Transactions\n\n| TCode | Function |\n|-------|----------|\n| FB70 | Enter Customer Invoice |\n| VF01 | Create Billing (SD) |\n| F-28 | Post Incoming Payment |\n| F-32 | Clear Customer |\n| FBL5N | Customer Line Items |\n| FD10N | Customer Balance |\n| F150 | Dunning Run |\n\n## Customer Invoice Entry (FB70)\n\n### Required Fields\n- Customer Number\n- Invoice Date\n- Posting Date\n- Amount\n- GL Account (revenue)\n\n## Integration with Sales\n\n```\nSD Billing (VF01)\n        |\n        v\nAutomatic FI Posting:\n  Dr: AR Reconciliation (via Customer)\n  Cr: Revenue Account\n  Cr: Tax Account\n```\n\n## Credit Management\n\n- Credit limits per customer\n- Credit exposure monitoring\n- Order blocking on credit issues\n\n> **AR drives cash flow** - collect efficiently!"
+        },
+        {
+            "id": "fico_quiz_2",
+            "type": "quiz",
+            "title": "AR Quiz",
+            "content": "Test your AR knowledge!",
+            "quizQuestion": "Which transaction code is used to enter a customer incoming payment?",
+            "quizOptions": [
+                "FB70",
+                "F-28",
+                "F110",
+                "FB60"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fico_8",
+            "type": "content",
+            "title": "Customer Payments and Clearing",
+            "content": "# Processing Customer Payments\n\n## Payment Entry (F-28)\n\n### Header Information\n- Document Date\n- Posting Date\n- Company Code\n- Currency\n- Bank Account\n\n### Selection Criteria\n- Customer Account\n- Open Items Selection\n\n## Clearing Process\n\n```\nOpen Invoice: $5,000 (Debit)\nPayment:      $5,000 (Credit)\n                     --------\nCleared:           $0\n```\n\n## Partial Payments\n\n### Options\n\n1. **Partial Payment**\n   - Leave original open\n   - Record payment on account\n   - Match later\n\n2. **Residual Item**\n   - Clear original\n   - Create new open item for difference\n\n## Example: Partial Payment\n\n```\nInvoice: $10,000\nPayment: $8,000\n\nOption 1 - Partial:\n  Invoice remains open: $10,000\n  Payment on account: $8,000\n  Net open: $2,000\n\nOption 2 - Residual:\n  Original invoice: Cleared\n  New residual item: $2,000\n```\n\n## Automatic Clearing (F.13)\n\nBatch clear matching items:\n- Same amount\n- Same reference\n- Assignment field matching\n\n## Cash Application\n\n| Source | Method |\n|--------|--------|\n| Lockbox | Electronic file |\n| Bank statement | Electronic import |\n| Manual | F-28 entry |\n\n> **Timely clearing** keeps AR accurate!"
+        },
+        {
+            "id": "fico_9",
+            "type": "content",
+            "title": "Dunning Process",
+            "content": "# Dunning - Collection Management\n\n## What is Dunning?\n\nDunning is the **systematic process** of reminding customers about overdue payments.\n\n## Dunning Procedure\n\n### Dunning Levels\n\n| Level | Days Overdue | Action |\n|-------|--------------|--------|\n| 1 | 1-30 | Friendly reminder |\n| 2 | 31-60 | Formal notice |\n| 3 | 61-90 | Urgent demand |\n| 4 | 90+ | Final notice |\n\n### Dunning Configuration\n\n```\nDunning Procedure: 0001\n  |\n  +-- Level 1: 14 days grace, 1% interest\n  +-- Level 2: 28 days grace, 1.5% interest\n  +-- Level 3: 42 days grace, 2% interest\n  +-- Level 4: 56 days, legal action\n```\n\n## Dunning Run (F150)\n\n### Process Steps\n\n1. **Parameters** - Dunning date, company code\n2. **Proposal** - System identifies overdue items\n3. **Edit** - Review and modify selections\n4. **Print** - Generate dunning letters\n\n## Dunning Key Concepts\n\n| Term | Meaning |\n|------|--------|\n| Dunning Level | Current collection stage |\n| Dunning Block | Prevent dunning |\n| Grace Days | Buffer before action |\n| Minimum Amount | Threshold for dunning |\n\n## Excluding Items from Dunning\n\n- Disputed invoices\n- Small balances\n- Items under review\n- VIP customers\n\n> **Consistent dunning** improves collection rates!"
+        },
+        {
+            "id": "fico_10",
+            "type": "content",
+            "title": "Asset Accounting Overview",
+            "content": "# Asset Accounting (FI-AA)\n\n## Purpose\n\nManage the **complete lifecycle** of fixed assets from acquisition to retirement.\n\n## Asset Lifecycle\n\n```\nAcquisition --> Capitalization --> Depreciation\n                                        |\n                     +------------------+\n                     |\n              Retirement/Sale\n```\n\n## Key Asset Transactions\n\n| TCode | Function |\n|-------|----------|\n| AS01 | Create Asset |\n| AS02 | Change Asset |\n| AS03 | Display Asset |\n| ABZON | Acquisition with Auto-PO |\n| ABSO | Asset Sale without Customer |\n| ABAON | Asset Retirement |\n| AFAB | Depreciation Run |\n| AW01N | Asset Explorer |\n\n## Asset Master Record\n\n### General Data\n- Description\n- Asset class\n- Serial number\n- Location/Cost center\n\n### Time-Dependent Data\n- Cost center assignments\n- Responsible person\n\n### Depreciation Areas\n- Book depreciation\n- Tax depreciation\n- Other (IFRS, management)\n\n## Asset Classes\n\n| Class | Description | Useful Life |\n|-------|-------------|-------------|\n| 1000 | Buildings | 40 years |\n| 2000 | Machinery | 10 years |\n| 3000 | Vehicles | 5 years |\n| 4000 | Furniture | 7 years |\n| 5000 | IT Equipment | 3 years |\n\n> **Complete asset tracking** is essential for accurate financial statements!"
+        },
+        {
+            "id": "fico_11",
+            "type": "content",
+            "title": "Asset Depreciation",
+            "content": "# Depreciation in SAP\n\n## Depreciation Methods\n\n### Straight-Line (SLM)\n```\nAnnual Dep = (Cost - Salvage) / Useful Life\n\nAsset: $100,000\nSalvage: $10,000\nLife: 10 years\n\nAnnual Dep = ($100,000 - $10,000) / 10 = $9,000\n```\n\n### Declining Balance (DB)\n```\nYear 1 Dep = Cost x Rate\n\n$100,000 x 20% = $20,000\n\nYear 2: $80,000 x 20% = $16,000\n```\n\n## Depreciation Areas\n\n| Area | Purpose |\n|------|--------|\n| 01 | Book Depreciation (GAAP) |\n| 02 | Tax Depreciation |\n| 10 | Cost Accounting |\n| 20 | Consolidated (IFRS) |\n\n## Depreciation Run (AFAB)\n\n### Parameters\n- Company Code\n- Fiscal Year\n- Posting Period\n- Test Run (first)\n\n### Run Types\n- Planned Depreciation\n- Unplanned Depreciation\n- Repeat Run\n\n## Depreciation Posting\n\n```\nDr: Depreciation Expense (P&L)\nCr: Accumulated Depreciation (B/S)\n\nAmount: $9,000 monthly\n```\n\n## Asset Values View (AW01N)\n\n```\n+--------------------------------+\n| Asset Explorer                  |\n+--------------------------------+\n| Acquisition Value:  $100,000   |\n| Accum. Depreciation: ($45,000) |\n| Net Book Value:       $55,000  |\n+--------------------------------+\n```\n\n> **Regular depreciation runs** keep asset values current!"
+        },
+        {
+            "id": "fico_quiz_3",
+            "type": "quiz",
+            "title": "Asset Quiz",
+            "content": "Test your asset accounting knowledge!",
+            "quizQuestion": "Which transaction code is used to run depreciation in SAP?",
+            "quizOptions": [
+                "AS01",
+                "AFAB",
+                "ABZON",
+                "AW01N"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fico_12",
+            "type": "content",
+            "title": "Bank Accounting",
+            "content": "# Bank Accounting in SAP\n\n## Bank Master Data\n\n### House Bank\nYour company's bank accounts:\n\n```\nHouse Bank: BOFA\n  |\n  +-- Account ID: CHECKING\n  |   GL: 100000\n  |\n  +-- Account ID: SAVINGS\n      GL: 100100\n```\n\n### Bank Directory\nExternal bank information for payments.\n\n## Bank Statement Processing\n\n### Electronic Bank Statement (EBS)\n\n| TCode | Function |\n|-------|----------|\n| FF_5 | Import Bank Statement |\n| FEBA | Post Bank Statement |\n| FF67 | Manual Bank Statement |\n\n### Processing Steps\n\n1. Import electronic file\n2. Automatic matching\n3. Manual post unmapped items\n4. Reconcile\n\n## Bank Reconciliation\n\n```\nGL Bank Balance:        $150,000\n- Outstanding Checks:    (15,000)\n+ Deposits in Transit:    10,000\n                        ---------\nAdjusted GL Balance:    $145,000\n\nBank Statement Balance: $145,000\n\nDifference:                   $0\n```\n\n## Cash Management\n\n| Function | Purpose |\n|----------|--------|\n| Cash Position | Current cash levels |\n| Liquidity Forecast | Future cash needs |\n| Cash Concentration | Pool cash across accounts |\n\n## Key Configuration\n\n```\nSPRO > Financial Accounting >\n  Bank Accounting >\n    Bank Accounts\n```\n\n> **Bank reconciliation** ensures cash accuracy!"
+        },
+        {
+            "id": "fico_13",
+            "type": "content",
+            "title": "Period-End Closing Overview",
+            "content": "# Month and Year-End Closing\n\n## Closing Timeline\n\n### Daily/Ongoing\n- Transaction posting\n- Document verification\n- Report generation\n\n### Month-End\n- Accruals and deferrals\n- Depreciation run\n- Foreign currency revaluation\n- Allocations\n- Financial statements\n\n### Year-End\n- All month-end activities\n- Balance carry forward\n- Opening new fiscal year\n- Audit adjustments\n\n## Closing Cockpit\n\n```\n+------------------------------------------+\n| Closing Cockpit - January 2024           |\n+------------------------------------------+\n| Task                    | Status         |\n+-------------------------+----------------+\n| Depreciation Run        | [Completed]    |\n| Foreign Currency Reval  | [In Progress]  |\n| Accruals Posting        | [Pending]      |\n| Period Close            | [Pending]      |\n+------------------------------------------+\n```\n\n## Key Closing Transactions\n\n| TCode | Function |\n|-------|----------|\n| OB52 | Open/Close Posting Periods |\n| AFAB | Depreciation Run |\n| F.05 | Foreign Currency Valuation |\n| FAGLF101 | Balance Carryforward |\n| F.16 | G/L Balance Carryforward |\n\n## Posting Period Control\n\n```\nPeriod 01 (Jan): Closed\nPeriod 02 (Feb): Open for posting\nPeriod 03+ : Future (closed)\n```\n\n> **Structured closing** ensures timely, accurate financials!"
+        },
+        {
+            "id": "fico_14",
+            "type": "content",
+            "title": "Year-End Closing Procedures",
+            "content": "# Year-End Closing in SAP\n\n## Preparation Steps\n\n1. **Complete all transactions** for the year\n2. **Run all period-end processes** for final period\n3. **Reconcile** all accounts\n4. **Review** intercompany balances\n5. **Post audit adjustments**\n\n## Balance Carry Forward\n\n### Process\n- Transfer closing balances to new year opening\n- Automatic for balance sheet accounts\n- P&L accounts close to retained earnings\n\n### Transaction: FAGLF101\n\n```\n+----------------------------------+\n| Balance Carryforward             |\n+----------------------------------+\n| Company Code: 1000               |\n| Fiscal Year: 2024                |\n| -------------------------------- |\n| [X] Carry Forward                |\n| [X] P&L to Retained Earnings     |\n+----------------------------------+\n```\n\n## Opening New Fiscal Year\n\n| Task | Transaction |\n|------|-------------|\n| Open FI periods | OB52 |\n| Open CO periods | OKP1 |\n| Open MM periods | MMPV |\n| Open Asset periods | OAAQ |\n\n## Year-End Checklist\n\n- [ ] Complete depreciation for year\n- [ ] Foreign currency revaluation\n- [ ] Regrouping (receivables/payables)\n- [ ] Balance confirmations\n- [ ] Audit adjustments\n- [ ] Financial statements\n- [ ] Balance carryforward\n- [ ] Open new year periods\n\n> **Plan year-end early** for a smooth closing!"
+        },
+        {
+            "id": "fico_15",
+            "type": "content",
+            "title": "Financial Reporting",
+            "content": "# Financial Reports in SAP\n\n## Standard Financial Reports\n\n### Balance Sheet\n```\nS_ALR_87012284 - Balance Sheet\n\n                    Debit      Credit\nAssets             500,000\nLiabilities                   300,000\nEquity                        200,000\n                   -------    -------\nTotal              500,000    500,000\n```\n\n### Profit & Loss\n```\nS_ALR_87012271 - P&L Statement\n\nRevenue                     800,000\nCost of Sales              (400,000)\n                           ---------\nGross Profit                400,000\nOperating Expenses         (250,000)\n                           ---------\nNet Income                  150,000\n```\n\n## Report Types\n\n| Report | TCode |\n|--------|-------|\n| Financial Statements | S_ALR_87012284 |\n| Trial Balance | S_ALR_87012277 |\n| GL Account Balances | FS10N |\n| Document Journal | S_ALR_87012287 |\n\n## Report Painter/Writer\n\nCreate custom financial reports:\n- Define rows and columns\n- Select data sources\n- Format output\n\n## Drilldown Reporting\n\nInteractive navigation:\n```\nTotal Revenue: $800,000\n    |\n    v\nBy Region:\n  North: $400,000\n  South: $250,000\n  West: $150,000\n      |\n      v\n  By Customer...\n```\n\n> **SAP provides comprehensive** financial reporting!"
+        },
+        {
+            "id": "fico_16",
+            "type": "content",
+            "title": "Integration with Controlling",
+            "content": "# FI-CO Integration\n\n## Real-Time Integration\n\nEvery FI posting triggers CO posting:\n\n```\nFI Document\n    |\n    v\nPrimary Cost Element --> CO Object\n```\n\n## Cost Elements\n\n| Type | Source |\n|------|--------|\n| Primary | From FI GL accounts |\n| Secondary | Created in CO only |\n\n## Automatic Account Assignment\n\n### Example: Expense Posting\n\n```\nFI Entry:\n  Dr: 515000 Rent Expense    $5,000\n  Cr: 100000 Bank            $5,000\n\nAutomatic CO Posting:\n  Cost Center 1000: $5,000\n  Cost Element: 515000\n```\n\n## CO Assignment Objects\n\n| Object | Example |\n|--------|--------|\n| Cost Center | Department |\n| Internal Order | Project |\n| WBS Element | Large project |\n| Profit Center | Business segment |\n\n## Reconciliation\n\n```\nFI Balance (GL 515000):  $50,000\nCO Balance (CE 515000):  $50,000\n                        --------\nDifference:                  $0\n```\n\n## Configuration\n\n```\nSPRO > Controlling > Cost Element Accounting >\n  Automatic Account Assignment\n```\n\n> **FI and CO work together** for complete financial management!"
+        },
+        {
+            "id": "fico_quiz_4",
+            "type": "quiz",
+            "title": "Period-End Quiz",
+            "content": "Test your closing knowledge!",
+            "quizQuestion": "Which transaction is used to open and close posting periods in SAP?",
+            "quizOptions": [
+                "FAGLF101",
+                "OB52",
+                "AFAB",
+                "F.05"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fico_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **SAP Financial Accounting** lesson!\n\n## Key Concepts Mastered\n\n### General Ledger\n- Chart of Accounts structure\n- Document posting (FB01)\n- Account determination\n\n### Accounts Payable\n- Vendor invoice processing (FB60, MIRO)\n- Three-way matching\n- Automatic payments (F110)\n\n### Accounts Receivable\n- Customer invoicing (FB70)\n- Payment processing (F-28)\n- Dunning (F150)\n\n### Asset Accounting\n- Asset lifecycle management\n- Depreciation methods and runs (AFAB)\n- Asset explorer (AW01N)\n\n### Period-End Closing\n- Month-end activities\n- Year-end balance carryforward\n- Period control (OB52)\n\n## Quick Reference\n\n| Process | Key TCode |\n|---------|----------|\n| GL Posting | FB01 |\n| Vendor Invoice | FB60/MIRO |\n| Vendor Payment | F110 |\n| Customer Invoice | FB70 |\n| Customer Payment | F-28 |\n| Depreciation | AFAB |\n| Close Periods | OB52 |\n\n## What is Next?\n\nExplore:\n- SAP Controlling (CO)\n- SAP Integration Scenarios\n- Advanced FICO Configuration\n\n> **You now have a solid foundation** in SAP Financial Accounting!"
+        }
+    ]
+}

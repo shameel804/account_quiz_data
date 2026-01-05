@@ -1,0 +1,6294 @@
+[
+    {
+        "q": "What is the primary objective of financial accounting?",
+        "type": "mcq",
+        "o": [
+            "To provide financial information useful for decision making by external users",
+            "To minimize taxes",
+            "To maximize profits",
+            "To satisfy management preferences"
+        ]
+    },
+    {
+        "q": "Financial accounting focuses on external users while managerial accounting focuses on internal users.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the two primary standard-setting bodies for financial accounting?",
+        "type": "mcq",
+        "o": [
+            "FASB (US GAAP) and IASB (IFRS)",
+            "SEC and IRS",
+            "AICPA and PCAOB",
+            "Congress and Treasury"
+        ]
+    },
+    {
+        "q": "Match the standard-setting body with its jurisdiction:",
+        "type": "match",
+        "left": [
+            "FASB",
+            "IASB",
+            "SEC",
+            "GASB"
+        ],
+        "right": [
+            "US GAAP",
+            "International IFRS",
+            "Securities regulation",
+            "Government accounting"
+        ]
+    },
+    {
+        "q": "The ______ establishes Generally Accepted Accounting Principles in the United States.",
+        "type": "fill_blank",
+        "answers": [
+            "FASB"
+        ],
+        "other_options": [
+            "SEC",
+            "IRS",
+            "Congress"
+        ]
+    },
+    {
+        "q": "What is the Conceptual Framework?",
+        "type": "mcq",
+        "o": [
+            "A coherent system of objectives and fundamentals that leads to consistent standards",
+            "A list of accounting rules",
+            "A regulatory requirement",
+            "A tax code"
+        ]
+    },
+    {
+        "q": "The primary objective of financial reporting is to provide useful information to investors and creditors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the qualitative characteristics of useful financial information?",
+        "type": "mcq",
+        "o": [
+            "Relevance and faithful representation (fundamental), and comparability, verifiability, timeliness, understandability (enhancing)",
+            "Only accuracy",
+            "Only timeliness",
+            "Only materiality"
+        ]
+    },
+    {
+        "q": "Match the qualitative characteristic with its description:",
+        "type": "match",
+        "left": [
+            "Relevance",
+            "Faithful representation",
+            "Comparability",
+            "Verifiability"
+        ],
+        "right": [
+            "Makes a difference in decisions",
+            "Complete, neutral, free from error",
+            "Can be compared across entities",
+            "Can be confirmed independently"
+        ]
+    },
+    {
+        "q": "Information is ______ if its omission or misstatement could influence decisions.",
+        "type": "fill_blank",
+        "answers": [
+            "material"
+        ],
+        "other_options": [
+            "irrelevant",
+            "neutral",
+            "complete"
+        ]
+    },
+    {
+        "q": "What are the elements of financial statements?",
+        "type": "mcq",
+        "o": [
+            "Assets, liabilities, equity, revenues, expenses, gains, losses, comprehensive income, investments, and distributions",
+            "Only assets and liabilities",
+            "Only revenues and expenses",
+            "Only equity"
+        ]
+    },
+    {
+        "q": "An asset is a present right to an economic benefit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the accounting equation?",
+        "type": "mcq",
+        "o": [
+            "Assets = Liabilities + Equity",
+            "Assets = Revenues - Expenses",
+            "Equity = Assets + Liabilities",
+            "Revenues = Assets - Liabilities"
+        ]
+    },
+    {
+        "q": "Rearrange the accounting equation components:",
+        "type": "rearrange",
+        "words": [
+            "Assets",
+            "equals",
+            "Liabilities",
+            "plus",
+            "Equity"
+        ]
+    },
+    {
+        "q": "Revenue is recognized when ______ is satisfied.",
+        "type": "fill_blank",
+        "answers": [
+            "a performance obligation"
+        ],
+        "other_options": [
+            "cash is received",
+            "a contract is signed",
+            "goods are shipped"
+        ]
+    },
+    {
+        "q": "What is accrual basis accounting?",
+        "type": "mcq",
+        "o": [
+            "Recording transactions when they occur regardless of cash flow timing",
+            "Recording only when cash is received or paid",
+            "Recording at year-end only",
+            "Recording based on management discretion"
+        ]
+    },
+    {
+        "q": "Accrual accounting is required under GAAP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between accrual and cash basis accounting?",
+        "type": "mcq",
+        "o": [
+            "Accrual recognizes economic events; cash basis recognizes cash transactions",
+            "They are identical",
+            "Cash basis is required by GAAP",
+            "Accrual is simpler"
+        ]
+    },
+    {
+        "q": "Match the accounting basis with its recognition:",
+        "type": "match",
+        "left": [
+            "Accrual",
+            "Cash"
+        ],
+        "right": [
+            "When earned or incurred",
+            "When cash changes hands"
+        ]
+    },
+    {
+        "q": "The ______ assumption states that a business will continue operating indefinitely.",
+        "type": "fill_blank",
+        "answers": [
+            "going concern"
+        ],
+        "other_options": [
+            "monetary unit",
+            "economic entity",
+            "periodicity"
+        ]
+    },
+    {
+        "q": "What are the basic assumptions of accounting?",
+        "type": "mcq",
+        "o": [
+            "Economic entity, going concern, monetary unit, and periodicity",
+            "Only going concern",
+            "Only revenue recognition",
+            "Only matching"
+        ]
+    },
+    {
+        "q": "The economic entity assumption separates business and personal transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the periodicity assumption?",
+        "type": "mcq",
+        "o": [
+            "Economic activities can be divided into artificial time periods for reporting",
+            "Transactions occur continuously",
+            "Reporting should be annual only",
+            "Time periods are irrelevant"
+        ]
+    },
+    {
+        "q": "The ______ unit assumption requires measurement in a common currency.",
+        "type": "fill_blank",
+        "answers": [
+            "monetary"
+        ],
+        "other_options": [
+            "economic",
+            "periodic",
+            "stable"
+        ]
+    },
+    {
+        "q": "What is the balance sheet?",
+        "type": "mcq",
+        "o": [
+            "A statement of financial position showing assets, liabilities, and equity at a point in time",
+            "A statement of income for a period",
+            "A statement of cash flows",
+            "A statement of retained earnings"
+        ]
+    },
+    {
+        "q": "Match the financial statement with its content:",
+        "type": "match",
+        "left": [
+            "Balance sheet",
+            "Income statement",
+            "Cash flow statement",
+            "Statement of equity"
+        ],
+        "right": [
+            "Financial position",
+            "Profitability",
+            "Cash inflows and outflows",
+            "Changes in ownership interest"
+        ]
+    },
+    {
+        "q": "The balance sheet reports information at a ______ in time.",
+        "type": "fill_blank",
+        "answers": [
+            "point"
+        ],
+        "other_options": [
+            "period",
+            "range",
+            "interval"
+        ]
+    },
+    {
+        "q": "What are current assets?",
+        "type": "mcq",
+        "o": [
+            "Assets expected to be converted to cash or used within one year or the operating cycle",
+            "All assets",
+            "Only inventory",
+            "Only cash"
+        ]
+    },
+    {
+        "q": "Current liabilities are obligations due within one year.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is working capital?",
+        "type": "mcq",
+        "o": [
+            "Current assets minus current liabilities",
+            "Total assets minus total liabilities",
+            "Cash only",
+            "Net income"
+        ]
+    },
+    {
+        "q": "Working capital measures ______ liquidity.",
+        "type": "fill_blank",
+        "answers": [
+            "short-term"
+        ],
+        "other_options": [
+            "long-term",
+            "total",
+            "operating"
+        ]
+    },
+    {
+        "q": "What is the income statement?",
+        "type": "mcq",
+        "o": [
+            "A statement showing revenues, expenses, gains, and losses for a period",
+            "A statement of financial position",
+            "A statement of cash flows",
+            "A statement of equity"
+        ]
+    },
+    {
+        "q": "Match the income statement component with its description:",
+        "type": "match",
+        "left": [
+            "Revenues",
+            "Expenses",
+            "Gains",
+            "Losses"
+        ],
+        "right": [
+            "Inflows from operations",
+            "Outflows from operations",
+            "Inflows from peripheral activities",
+            "Outflows from peripheral activities"
+        ]
+    },
+    {
+        "q": "Net income equals revenues minus ______.",
+        "type": "fill_blank",
+        "answers": [
+            "expenses"
+        ],
+        "other_options": [
+            "assets",
+            "liabilities",
+            "cash"
+        ]
+    },
+    {
+        "q": "What are the two formats for the income statement?",
+        "type": "mcq",
+        "o": [
+            "Single-step and multi-step",
+            "Horizontal and vertical",
+            "Direct and indirect",
+            "Cash and accrual"
+        ]
+    },
+    {
+        "q": "The multi-step income statement shows gross profit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is gross profit?",
+        "type": "mcq",
+        "o": [
+            "Revenue minus cost of goods sold",
+            "Revenue minus all expenses",
+            "Net income",
+            "Operating income"
+        ]
+    },
+    {
+        "q": "Operating income equals gross profit minus ______ expenses.",
+        "type": "fill_blank",
+        "answers": [
+            "operating"
+        ],
+        "other_options": [
+            "interest",
+            "tax",
+            "all"
+        ]
+    },
+    {
+        "q": "What is comprehensive income?",
+        "type": "mcq",
+        "o": [
+            "Net income plus other comprehensive income items",
+            "Gross profit only",
+            "Cash flow from operations",
+            "Revenue only"
+        ]
+    },
+    {
+        "q": "Rearrange the income statement components:",
+        "type": "rearrange",
+        "words": [
+            "Revenue",
+            "Cost of goods sold",
+            "Gross profit",
+            "Operating expenses",
+            "Operating income"
+        ]
+    },
+    {
+        "q": "What items are included in Other Comprehensive Income (OCI)?",
+        "type": "mcq",
+        "o": [
+            "Unrealized gains on AFS securities, foreign currency translation adjustments, pension adjustments, and effective cash flow hedges",
+            "All revenues",
+            "All expenses",
+            "Cash transactions only"
+        ]
+    },
+    {
+        "q": "OCI items bypass the income statement and go directly to equity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the statement of cash flows?",
+        "type": "mcq",
+        "o": [
+            "A statement showing cash inflows and outflows from operating, investing, and financing activities",
+            "A statement of income",
+            "A balance sheet",
+            "A statement of equity"
+        ]
+    },
+    {
+        "q": "Match the cash flow category with its example:",
+        "type": "match",
+        "left": [
+            "Operating",
+            "Investing",
+            "Financing"
+        ],
+        "right": [
+            "Cash from customers",
+            "Purchase of equipment",
+            "Issuance of stock"
+        ]
+    },
+    {
+        "q": "Cash paid to suppliers is a(n) ______ activity.",
+        "type": "fill_blank",
+        "answers": [
+            "operating"
+        ],
+        "other_options": [
+            "investing",
+            "financing",
+            "non-cash"
+        ]
+    },
+    {
+        "q": "What are the two methods for presenting operating cash flows?",
+        "type": "mcq",
+        "o": [
+            "Direct and indirect methods",
+            "Single and multi-step",
+            "Horizontal and vertical",
+            "Current and non-current"
+        ]
+    },
+    {
+        "q": "The indirect method starts with net income and adjusts for non-cash items.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the direct method of operating cash flows?",
+        "type": "mcq",
+        "o": [
+            "Showing major classes of gross cash receipts and payments",
+            "Adjusting net income",
+            "Showing investing activities",
+            "Showing financing activities only"
+        ]
+    },
+    {
+        "q": "Depreciation is added back under the ______ method because it is a non-cash expense.",
+        "type": "fill_blank",
+        "answers": [
+            "indirect"
+        ],
+        "other_options": [
+            "direct",
+            "cash",
+            "accrual"
+        ]
+    },
+    {
+        "q": "What is investing activity?",
+        "type": "mcq",
+        "o": [
+            "Acquiring and disposing of long-term assets and investments",
+            "Receiving cash from customers",
+            "Paying dividends",
+            "Issuing stock"
+        ]
+    },
+    {
+        "q": "Match the transaction with its cash flow category:",
+        "type": "match",
+        "left": [
+            "Collect receivables",
+            "Buy equipment",
+            "Pay dividends",
+            "Borrow from bank"
+        ],
+        "right": [
+            "Operating",
+            "Investing",
+            "Financing",
+            "Financing"
+        ]
+    },
+    {
+        "q": "Financing activities involve cash flows with ______ and stockholders.",
+        "type": "fill_blank",
+        "answers": [
+            "creditors"
+        ],
+        "other_options": [
+            "customers",
+            "suppliers",
+            "employees"
+        ]
+    },
+    {
+        "q": "What are non-cash investing and financing activities?",
+        "type": "mcq",
+        "o": [
+            "Significant transactions not involving cash that are disclosed separately",
+            "All investing activities",
+            "All financing activities",
+            "Operating activities only"
+        ]
+    },
+    {
+        "q": "Converting bonds to stock is a non-cash transaction requiring disclosure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the statement of stockholders' equity?",
+        "type": "mcq",
+        "o": [
+            "A statement showing changes in each equity component during a period",
+            "A balance sheet",
+            "An income statement",
+            "A cash flow statement"
+        ]
+    },
+    {
+        "q": "Retained earnings increases with ______ and decreases with dividends.",
+        "type": "fill_blank",
+        "answers": [
+            "net income"
+        ],
+        "other_options": [
+            "revenue",
+            "expenses",
+            "assets"
+        ]
+    },
+    {
+        "q": "What components are typically shown in stockholders' equity?",
+        "type": "mcq",
+        "o": [
+            "Common stock, additional paid-in capital, retained earnings, treasury stock, and accumulated OCI",
+            "Only common stock",
+            "Only retained earnings",
+            "Only dividends"
+        ]
+    },
+    {
+        "q": "Match the equity component with its source:",
+        "type": "match",
+        "left": [
+            "Common stock",
+            "APIC",
+            "Retained earnings",
+            "Treasury stock"
+        ],
+        "right": [
+            "Par value of issued shares",
+            "Excess over par value",
+            "Accumulated profits",
+            "Repurchased shares"
+        ]
+    },
+    {
+        "q": "Treasury stock is a ______ entry in stockholders' equity.",
+        "type": "fill_blank",
+        "answers": [
+            "contra"
+        ],
+        "other_options": [
+            "positive",
+            "neutral",
+            "asset"
+        ]
+    },
+    {
+        "q": "What is revenue recognition under ASC 606?",
+        "type": "mcq",
+        "o": [
+            "A five-step model for recognizing revenue when control transfers to the customer",
+            "Recognizing revenue when cash is received",
+            "Recognizing revenue at contract signing",
+            "Recognizing revenue at year-end"
+        ]
+    },
+    {
+        "q": "Rearrange the ASC 606 revenue recognition steps:",
+        "type": "rearrange",
+        "words": [
+            "Identify contract",
+            "Identify obligations",
+            "Determine price",
+            "Allocate price",
+            "Recognize revenue"
+        ]
+    },
+    {
+        "q": "Revenue is recognized when a ______ obligation is satisfied.",
+        "type": "fill_blank",
+        "answers": [
+            "performance"
+        ],
+        "other_options": [
+            "contract",
+            "legal",
+            "payment"
+        ]
+    },
+    {
+        "q": "What is a performance obligation?",
+        "type": "mcq",
+        "o": [
+            "A promise to transfer a distinct good or service to the customer",
+            "A payment from the customer",
+            "A contract clause",
+            "An accounting estimate"
+        ]
+    },
+    {
+        "q": "Performance obligations can be satisfied over time or at a point in time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is transaction price under ASC 606?",
+        "type": "mcq",
+        "o": [
+            "The amount of consideration expected in exchange for transferring goods or services",
+            "The list price only",
+            "The cost of goods sold",
+            "The invoice amount only"
+        ]
+    },
+    {
+        "q": "Match the variable consideration component with its treatment:",
+        "type": "match",
+        "left": [
+            "Discounts",
+            "Rebates",
+            "Returns",
+            "Bonuses"
+        ],
+        "right": [
+            "Reduces transaction price",
+            "Estimated and included",
+            "Estimated reduction",
+            "Estimated addition"
+        ]
+    },
+    {
+        "q": "Variable consideration is estimated using the ______ value or most likely amount method.",
+        "type": "fill_blank",
+        "answers": [
+            "expected"
+        ],
+        "other_options": [
+            "certain",
+            "fixed",
+            "historical"
+        ]
+    },
+    {
+        "q": "What is the constraint on variable consideration?",
+        "type": "mcq",
+        "o": [
+            "Include only to the extent a significant reversal is not probable",
+            "Exclude all variable amounts",
+            "Always include full amount",
+            "Use management's estimate"
+        ]
+    },
+    {
+        "q": "Control transfers when the customer can direct the use of and obtain benefit from the asset.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What indicators suggest control has transferred?",
+        "type": "mcq",
+        "o": [
+            "Right to payment, legal title, physical possession, risks and rewards, and customer acceptance",
+            "Only cash receipt",
+            "Only shipment",
+            "Only invoice"
+        ]
+    },
+    {
+        "q": "Over time recognition is appropriate when the customer ______ benefits as the entity performs.",
+        "type": "fill_blank",
+        "answers": [
+            "simultaneously receives and consumes"
+        ],
+        "other_options": [
+            "pays for",
+            "inspects",
+            "approves"
+        ]
+    },
+    {
+        "q": "What is a contract asset?",
+        "type": "mcq",
+        "o": [
+            "The entity's right to payment for goods or services transferred, conditional on something other than time",
+            "Cash received",
+            "Accounts receivable",
+            "Inventory"
+        ]
+    },
+    {
+        "q": "Match the contract balance with its definition:",
+        "type": "match",
+        "left": [
+            "Contract asset",
+            "Receivable",
+            "Contract liability"
+        ],
+        "right": [
+            "Conditional right to payment",
+            "Unconditional right to payment",
+            "Obligation to transfer goods"
+        ]
+    },
+    {
+        "q": "A contract ______ arises when payment is received before performance.",
+        "type": "fill_blank",
+        "answers": [
+            "liability"
+        ],
+        "other_options": [
+            "asset",
+            "receivable",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is a principal vs. agent relationship in revenue recognition?",
+        "type": "mcq",
+        "o": [
+            "A principal controls the good before transfer; an agent arranges for another party to provide",
+            "Both are the same",
+            "Principal means less responsibility",
+            "Agent always records gross revenue"
+        ]
+    },
+    {
+        "q": "Principals recognize gross revenue; agents recognize net revenue.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is lease accounting under ASC 842?",
+        "type": "mcq",
+        "o": [
+            "Standards requiring lessees to recognize right-of-use assets and lease liabilities",
+            "Ignoring all leases",
+            "Only capital leases recorded",
+            "Off-balance sheet treatment"
+        ]
+    },
+    {
+        "q": "Under ASC 842, operating leases are recognized on the balance sheet.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a right-of-use (ROU) asset?",
+        "type": "mcq",
+        "o": [
+            "An asset representing the lessee's right to use the underlying asset for the lease term",
+            "The leased asset itself",
+            "Cash paid for the lease",
+            "The lessor's equipment"
+        ]
+    },
+    {
+        "q": "Match the lease type with its expense pattern:",
+        "type": "match",
+        "left": [
+            "Finance lease",
+            "Operating lease"
+        ],
+        "right": [
+            "Front-loaded expense (interest + depreciation)",
+            "Straight-line lease expense"
+        ]
+    },
+    {
+        "q": "The lease liability is measured at the ______ value of lease payments.",
+        "type": "fill_blank",
+        "answers": [
+            "present"
+        ],
+        "other_options": [
+            "future",
+            "total",
+            "nominal"
+        ]
+    },
+    {
+        "q": "What is a finance lease?",
+        "type": "mcq",
+        "o": [
+            "A lease that transfers substantially all the risks and rewards of ownership",
+            "Always a short-term lease",
+            "An operating lease",
+            "A lease under one year"
+        ]
+    },
+    {
+        "q": "Finance lease criteria include transfer of ownership and bargain purchase option.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the short-term lease exemption?",
+        "type": "mcq",
+        "o": [
+            "Leases of 12 months or less do not require ROU asset and liability recognition",
+            "All leases are exempt",
+            "Only finance leases",
+            "Leases over 5 years"
+        ]
+    },
+    {
+        "q": "The ______ test compares lease term to the remaining economic life of the asset.",
+        "type": "fill_blank",
+        "answers": [
+            "75%"
+        ],
+        "other_options": [
+            "50%",
+            "90%",
+            "100%"
+        ]
+    },
+    {
+        "q": "What is inventory valuation under GAAP?",
+        "type": "mcq",
+        "o": [
+            "Inventory is valued at the lower of cost or net realizable value",
+            "Always at cost",
+            "Always at market",
+            "At selling price"
+        ]
+    },
+    {
+        "q": "Net realizable value is selling price minus costs to complete and sell.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What inventory cost flow assumptions are permitted under GAAP?",
+        "type": "mcq",
+        "o": [
+            "FIFO, LIFO, weighted average, and specific identification",
+            "Only FIFO",
+            "Only LIFO",
+            "Only weighted average"
+        ]
+    },
+    {
+        "q": "Match the cost flow method with its characteristic:",
+        "type": "match",
+        "left": [
+            "FIFO",
+            "LIFO",
+            "Weighted average",
+            "Specific ID"
+        ],
+        "right": [
+            "First costs to COGS",
+            "Last costs to COGS",
+            "Average cost to units",
+            "Actual cost tracking"
+        ]
+    },
+    {
+        "q": "LIFO is not permitted under ______.",
+        "type": "fill_blank",
+        "answers": [
+            "IFRS"
+        ],
+        "other_options": [
+            "US GAAP",
+            "SEC rules",
+            "federal law"
+        ]
+    },
+    {
+        "q": "What is the LIFO reserve?",
+        "type": "mcq",
+        "o": [
+            "The difference between LIFO and FIFO inventory values",
+            "A tax account",
+            "Cash set aside",
+            "An allowance account"
+        ]
+    },
+    {
+        "q": "During inflation, LIFO results in lower taxable income than FIFO.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is LIFO liquidation?",
+        "type": "mcq",
+        "o": [
+            "When old LIFO layers are sold, causing older costs to flow to COGS",
+            "Converting to FIFO",
+            "Selling all inventory",
+            "Writing off inventory"
+        ]
+    },
+    {
+        "q": "LIFO liquidation can increase ______ in periods of rising prices.",
+        "type": "fill_blank",
+        "answers": [
+            "gross profit"
+        ],
+        "other_options": [
+            "inventory",
+            "assets",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "What is property, plant, and equipment (PPE)?",
+        "type": "mcq",
+        "o": [
+            "Tangible long-lived assets used in operations",
+            "Inventory",
+            "Investments",
+            "Intangible assets"
+        ]
+    },
+    {
+        "q": "PPE is initially measured at historical cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What costs are capitalized for PPE?",
+        "type": "mcq",
+        "o": [
+            "All costs necessary to get the asset ready for its intended use",
+            "Only purchase price",
+            "Only installation",
+            "Only testing"
+        ]
+    },
+    {
+        "q": "Match the PPE cost with its classification:",
+        "type": "match",
+        "left": [
+            "Purchase price",
+            "Delivery",
+            "Installation",
+            "Testing"
+        ],
+        "right": [
+            "Capitalize",
+            "Capitalize",
+            "Capitalize",
+            "Capitalize"
+        ]
+    },
+    {
+        "q": "Interest during construction is ______ for qualifying assets.",
+        "type": "fill_blank",
+        "answers": [
+            "capitalized"
+        ],
+        "other_options": [
+            "expensed",
+            "ignored",
+            "deferred"
+        ]
+    },
+    {
+        "q": "What is depreciation?",
+        "type": "mcq",
+        "o": [
+            "Systematic allocation of the cost of a tangible asset over its useful life",
+            "Market value decline",
+            "Physical deterioration",
+            "Tax deduction only"
+        ]
+    },
+    {
+        "q": "Land is not depreciated because it has an indefinite useful life.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the common depreciation methods?",
+        "type": "mcq",
+        "o": [
+            "Straight-line, declining balance, and units of production",
+            "Only straight-line",
+            "Only accelerated",
+            "Only units of production"
+        ]
+    },
+    {
+        "q": "Match the depreciation method with its calculation:",
+        "type": "match",
+        "left": [
+            "Straight-line",
+            "Double-declining balance",
+            "Units of production"
+        ],
+        "right": [
+            "(Cost - Salvage) / Life",
+            "2 x (1/Life) x Book Value",
+            "(Cost - Salvage) / Total Units x Units Used"
+        ]
+    },
+    {
+        "q": "Straight-line depreciation results in ______ expense each period.",
+        "type": "fill_blank",
+        "answers": [
+            "equal"
+        ],
+        "other_options": [
+            "increasing",
+            "decreasing",
+            "variable"
+        ]
+    },
+    {
+        "q": "What is accelerated depreciation?",
+        "type": "mcq",
+        "o": [
+            "Methods that allocate more depreciation expense to earlier years",
+            "Slow depreciation",
+            "No depreciation",
+            "Constant depreciation"
+        ]
+    },
+    {
+        "q": "Double-declining balance ignores salvage value in calculating annual depreciation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is sum-of-the-years'-digits depreciation?",
+        "type": "mcq",
+        "o": [
+            "An accelerated method using a fraction based on remaining years",
+            "Straight-line method",
+            "Units of production",
+            "No depreciation"
+        ]
+    },
+    {
+        "q": "The depreciable base is cost minus ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "salvage"
+        ],
+        "other_options": [
+            "book",
+            "fair",
+            "market"
+        ]
+    },
+    {
+        "q": "What is impairment of long-lived assets?",
+        "type": "mcq",
+        "o": [
+            "A writedown when the carrying amount is not recoverable",
+            "An increase in value",
+            "Normal depreciation",
+            "A revaluation"
+        ]
+    },
+    {
+        "q": "Impairment testing is triggered by events or changes in circumstances.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the two-step impairment test for long-lived assets?",
+        "type": "mcq",
+        "o": [
+            "Recoverability test (undiscounted cash flows) then measurement (fair value)",
+            "Only fair value test",
+            "Only cash flow test",
+            "No testing required"
+        ]
+    },
+    {
+        "q": "Match the impairment step with its purpose:",
+        "type": "match",
+        "left": [
+            "Recoverability test",
+            "Measurement"
+        ],
+        "right": [
+            "Determine if impaired",
+            "Calculate impairment loss"
+        ]
+    },
+    {
+        "q": "Impairment loss is the excess of carrying amount over ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "fair"
+        ],
+        "other_options": [
+            "book",
+            "historical",
+            "residual"
+        ]
+    },
+    {
+        "q": "Can impairment losses be reversed under US GAAP?",
+        "type": "mcq",
+        "o": [
+            "No, reversal is prohibited for assets held and used",
+            "Yes, always",
+            "Only for inventory",
+            "Only for goodwill"
+        ]
+    },
+    {
+        "q": "IFRS permits reversal of impairment losses (except goodwill).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are intangible assets?",
+        "type": "mcq",
+        "o": [
+            "Non-physical assets that provide future economic benefits",
+            "Physical assets",
+            "Inventory",
+            "Cash and equivalents"
+        ]
+    },
+    {
+        "q": "Match the intangible asset with its example:",
+        "type": "match",
+        "left": [
+            "Patents",
+            "Trademarks",
+            "Copyrights",
+            "Goodwill"
+        ],
+        "right": [
+            "Exclusive right to invention",
+            "Brand recognition",
+            "Creative works protection",
+            "Excess purchase price over net assets"
+        ]
+    },
+    {
+        "q": "Intangible assets with ______ lives are amortized.",
+        "type": "fill_blank",
+        "answers": [
+            "finite"
+        ],
+        "other_options": [
+            "indefinite",
+            "short",
+            "long"
+        ]
+    },
+    {
+        "q": "What is amortization?",
+        "type": "mcq",
+        "o": [
+            "Systematic allocation of an intangible asset's cost over its useful life",
+            "Depreciation of tangible assets",
+            "Impairment testing",
+            "Revaluation"
+        ]
+    },
+    {
+        "q": "Goodwill is not amortized under US GAAP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the accounting for internally developed intangibles?",
+        "type": "mcq",
+        "o": [
+            "Most research and development costs are expensed as incurred",
+            "All R&D is capitalized",
+            "No R&D is recorded",
+            "R&D is always capitalized"
+        ]
+    },
+    {
+        "q": "Research costs are ______ under both US GAAP and IFRS.",
+        "type": "fill_blank",
+        "answers": [
+            "expensed"
+        ],
+        "other_options": [
+            "capitalized",
+            "deferred",
+            "ignored"
+        ]
+    },
+    {
+        "q": "What is the difference between US GAAP and IFRS for development costs?",
+        "type": "mcq",
+        "o": [
+            "US GAAP expenses; IFRS capitalizes if criteria are met",
+            "Both expense all costs",
+            "Both capitalize all costs",
+            "IFRS expenses all costs"
+        ]
+    },
+    {
+        "q": "Match the intangible treatment with the accounting standard:",
+        "type": "match",
+        "left": [
+            "US GAAP R&D",
+            "IFRS development",
+            "Purchased intangibles",
+            "Goodwill"
+        ],
+        "right": [
+            "Expense all",
+            "Capitalize if criteria met",
+            "Capitalize",
+            "Test for impairment"
+        ]
+    },
+    {
+        "q": "What is goodwill?",
+        "type": "mcq",
+        "o": [
+            "The excess of acquisition cost over fair value of identifiable net assets acquired",
+            "A brand name",
+            "A patent",
+            "Cash"
+        ]
+    },
+    {
+        "q": "Goodwill is tested for impairment at least annually.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the goodwill impairment test under ASU 2017-04?",
+        "type": "mcq",
+        "o": [
+            "A one-step test comparing reporting unit fair value to carrying amount",
+            "A two-step test",
+            "No test required",
+            "Annual amortization"
+        ]
+    },
+    {
+        "q": "Goodwill impairment loss is limited to the ______ of goodwill.",
+        "type": "fill_blank",
+        "answers": [
+            "carrying amount"
+        ],
+        "other_options": [
+            "fair value",
+            "book value",
+            "original cost"
+        ]
+    },
+    {
+        "q": "What are investments in debt securities?",
+        "type": "mcq",
+        "o": [
+            "Bonds and other instruments representing a creditor relationship",
+            "Common stock",
+            "Preferred stock",
+            "Inventory"
+        ]
+    },
+    {
+        "q": "Match the debt security classification with its measurement:",
+        "type": "match",
+        "left": [
+            "Trading",
+            "Available-for-sale",
+            "Held-to-maturity"
+        ],
+        "right": [
+            "Fair value through NI",
+            "Fair value through OCI",
+            "Amortized cost"
+        ]
+    },
+    {
+        "q": "Held-to-maturity securities must be held to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "maturity"
+        ],
+        "other_options": [
+            "sale",
+            "year-end",
+            "impairment"
+        ]
+    },
+    {
+        "q": "What is amortized cost?",
+        "type": "mcq",
+        "o": [
+            "Face value adjusted for premium or discount amortization",
+            "Market value",
+            "Historical cost only",
+            "Fair value"
+        ]
+    },
+    {
+        "q": "Premium on bonds is amortized using the effective interest method.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the effective interest method?",
+        "type": "mcq",
+        "o": [
+            "Calculating interest expense using the market rate at issuance times carrying value",
+            "Using the stated rate",
+            "Straight-line method",
+            "Ignoring premium/discount"
+        ]
+    },
+    {
+        "q": "Interest expense under effective interest method equals carrying value times ______ rate.",
+        "type": "fill_blank",
+        "answers": [
+            "market"
+        ],
+        "other_options": [
+            "stated",
+            "coupon",
+            "nominal"
+        ]
+    },
+    {
+        "q": "What are investments in equity securities?",
+        "type": "mcq",
+        "o": [
+            "Stock investments representing an ownership interest",
+            "Bonds",
+            "Notes payable",
+            "Accounts receivable"
+        ]
+    },
+    {
+        "q": "Equity securities with readily determinable fair values are measured at fair value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the equity method?",
+        "type": "mcq",
+        "o": [
+            "Recording investment at cost plus share of investee's earnings less dividends",
+            "Fair value method",
+            "Cost method",
+            "Consolidation"
+        ]
+    },
+    {
+        "q": "Match the ownership level with its accounting method:",
+        "type": "match",
+        "left": [
+            "Under 20%",
+            "20-50%",
+            "Over 50%"
+        ],
+        "right": [
+            "Fair value or measurement alternative",
+            "Equity method",
+            "Consolidation"
+        ]
+    },
+    {
+        "q": "Equity method investments are increased by the investor's share of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "net income"
+        ],
+        "other_options": [
+            "dividends",
+            "assets",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "What happens to dividends received under the equity method?",
+        "type": "mcq",
+        "o": [
+            "They reduce the investment account",
+            "They are recorded as income",
+            "They are ignored",
+            "They increase the investment"
+        ]
+    },
+    {
+        "q": "Under equity method, dividends are a return of investment, not income.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is consolidated financial reporting?",
+        "type": "mcq",
+        "o": [
+            "Combining parent and subsidiary financial statements as one entity",
+            "Equity method accounting",
+            "Fair value reporting",
+            "Separate entity reporting"
+        ]
+    },
+    {
+        "q": "Intercompany transactions are ______ in consolidation.",
+        "type": "fill_blank",
+        "answers": [
+            "eliminated"
+        ],
+        "other_options": [
+            "added",
+            "displayed",
+            "highlighted"
+        ]
+    },
+    {
+        "q": "What is noncontrolling interest in consolidation?",
+        "type": "mcq",
+        "o": [
+            "The portion of subsidiary equity not owned by the parent",
+            "The parent's ownership",
+            "Treasury stock",
+            "Retained earnings"
+        ]
+    },
+    {
+        "q": "Noncontrolling interest is reported in the equity section of the consolidated balance sheet.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is bonds payable?",
+        "type": "mcq",
+        "o": [
+            "Long-term debt issued by a company to raise capital",
+            "Short-term debt",
+            "Equity",
+            "Revenue"
+        ]
+    },
+    {
+        "q": "Match the bond term with its definition:",
+        "type": "match",
+        "left": [
+            "Face value",
+            "Stated rate",
+            "Market rate",
+            "Discount"
+        ],
+        "right": [
+            "Principal amount",
+            "Coupon interest rate",
+            "Effective interest rate",
+            "Issued below face value"
+        ]
+    },
+    {
+        "q": "A bond sold at a ______ has a market rate higher than the stated rate.",
+        "type": "fill_blank",
+        "answers": [
+            "discount"
+        ],
+        "other_options": [
+            "premium",
+            "face",
+            "par"
+        ]
+    },
+    {
+        "q": "What is a bond premium?",
+        "type": "mcq",
+        "o": [
+            "When the issue price exceeds face value because stated rate exceeds market rate",
+            "A discount",
+            "Face value",
+            "A penalty"
+        ]
+    },
+    {
+        "q": "Bond premium is amortized over the life of the bond.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the journal entry to issue bonds at a discount?",
+        "type": "mcq",
+        "o": [
+            "Debit Cash, Debit Discount on Bonds Payable, Credit Bonds Payable",
+            "Debit Cash, Credit Bonds Payable only",
+            "Debit Bonds Payable, Credit Cash",
+            "Debit Interest Expense, Credit Cash"
+        ]
+    },
+    {
+        "q": "Discount on bonds payable is a ______ to the bonds payable liability.",
+        "type": "fill_blank",
+        "answers": [
+            "contra"
+        ],
+        "other_options": [
+            "addition",
+            "asset",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What happens when bonds are retired early?",
+        "type": "mcq",
+        "o": [
+            "A gain or loss is recognized for the difference between carrying value and payment",
+            "No gain or loss",
+            "Always a gain",
+            "Always a loss"
+        ]
+    },
+    {
+        "q": "Match the bond retirement scenario with its result:",
+        "type": "match",
+        "left": [
+            "Pay less than carrying value",
+            "Pay more than carrying value"
+        ],
+        "right": [
+            "Gain on retirement",
+            "Loss on retirement"
+        ]
+    },
+    {
+        "q": "Early retirement gains and losses are reported in ______ income.",
+        "type": "fill_blank",
+        "answers": [
+            "operating"
+        ],
+        "other_options": [
+            "other comprehensive",
+            "extraordinary",
+            "discontinued"
+        ]
+    },
+    {
+        "q": "What are convertible bonds?",
+        "type": "mcq",
+        "o": [
+            "Bonds that can be exchanged for shares of stock at the holder's option",
+            "Bonds with variable rates",
+            "Callable bonds",
+            "Zero-coupon bonds"
+        ]
+    },
+    {
+        "q": "Under US GAAP, convertible bonds are recorded entirely as debt at issuance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is IFRS treatment of convertible bonds?",
+        "type": "mcq",
+        "o": [
+            "Allocate proceeds between liability and equity components",
+            "Record entirely as debt",
+            "Record entirely as equity",
+            "Ignore the conversion feature"
+        ]
+    },
+    {
+        "q": "The equity component of convertible bonds under IFRS is credited to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "additional paid-in capital"
+        ],
+        "other_options": [
+            "retained earnings",
+            "common stock",
+            "bonds payable"
+        ]
+    },
+    {
+        "q": "What are callable bonds?",
+        "type": "mcq",
+        "o": [
+            "Bonds that can be redeemed by the issuer before maturity",
+            "Convertible bonds",
+            "Zero-coupon bonds",
+            "Non-redeemable bonds"
+        ]
+    },
+    {
+        "q": "Callable bonds typically have a call premium.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is notes payable?",
+        "type": "mcq",
+        "o": [
+            "Written promises to pay a stated sum at a future date",
+            "Equity",
+            "Revenue",
+            "Assets"
+        ]
+    },
+    {
+        "q": "Notes payable can be classified as current or ______.",
+        "type": "fill_blank",
+        "answers": [
+            "non-current"
+        ],
+        "other_options": [
+            "operating",
+            "investing",
+            "financing"
+        ]
+    },
+    {
+        "q": "What is a zero-interest-bearing note?",
+        "type": "mcq",
+        "o": [
+            "A note issued at a discount with no stated interest rate",
+            "A note with no maturity",
+            "A note with variable interest",
+            "An interest-only note"
+        ]
+    },
+    {
+        "q": "Zero-interest notes are recorded at present value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is stockholders' equity?",
+        "type": "mcq",
+        "o": [
+            "The residual interest in assets after deducting liabilities",
+            "Total assets",
+            "Total liabilities",
+            "Revenue"
+        ]
+    },
+    {
+        "q": "Match the equity component with its source:",
+        "type": "match",
+        "left": [
+            "Contributed capital",
+            "Retained earnings",
+            "Accumulated OCI",
+            "Treasury stock"
+        ],
+        "right": [
+            "Shareholder investments",
+            "Cumulative net income less dividends",
+            "OCI items",
+            "Repurchased shares"
+        ]
+    },
+    {
+        "q": "Common stock is recorded at ______ value when issued.",
+        "type": "fill_blank",
+        "answers": [
+            "par"
+        ],
+        "other_options": [
+            "market",
+            "book",
+            "fair"
+        ]
+    },
+    {
+        "q": "What is par value?",
+        "type": "mcq",
+        "o": [
+            "A nominal legal value assigned to each share of stock",
+            "Market price",
+            "Book value",
+            "Fair value"
+        ]
+    },
+    {
+        "q": "Stock issued above par increases Additional Paid-In Capital.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is treasury stock?",
+        "type": "mcq",
+        "o": [
+            "A company's own stock that has been repurchased",
+            "Authorized but unissued stock",
+            "Preferred stock",
+            "Stock dividends"
+        ]
+    },
+    {
+        "q": "Treasury stock is a ______ equity account.",
+        "type": "fill_blank",
+        "answers": [
+            "contra"
+        ],
+        "other_options": [
+            "positive",
+            "asset",
+            "liability"
+        ]
+    },
+    {
+        "q": "What are the two methods to account for treasury stock?",
+        "type": "mcq",
+        "o": [
+            "Cost method and par value method",
+            "FIFO and LIFO",
+            "Direct and indirect",
+            "Straight-line and accelerated"
+        ]
+    },
+    {
+        "q": "Under the cost method, treasury stock is recorded at acquisition cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are cash dividends?",
+        "type": "mcq",
+        "o": [
+            "Distributions of cash to shareholders based on shares owned",
+            "Stock splits",
+            "Stock dividends",
+            "Treasury stock purchases"
+        ]
+    },
+    {
+        "q": "Match the dividend date with its significance:",
+        "type": "match",
+        "left": [
+            "Declaration date",
+            "Record date",
+            "Payment date"
+        ],
+        "right": [
+            "Liability created",
+            "Ownership determined",
+            "Cash distributed"
+        ]
+    },
+    {
+        "q": "On declaration date, retained earnings is ______ for cash dividends.",
+        "type": "fill_blank",
+        "answers": [
+            "debited"
+        ],
+        "other_options": [
+            "credited",
+            "ignored",
+            "increased"
+        ]
+    },
+    {
+        "q": "What are stock dividends?",
+        "type": "mcq",
+        "o": [
+            "Distributions of additional shares to existing shareholders",
+            "Cash distributions",
+            "Treasury stock sales",
+            "Stock splits"
+        ]
+    },
+    {
+        "q": "Small stock dividends (under 20-25%) are recorded at market value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between small and large stock dividends?",
+        "type": "mcq",
+        "o": [
+            "Small recorded at fair value; large recorded at par value",
+            "Both at fair value",
+            "Both at par value",
+            "No difference"
+        ]
+    },
+    {
+        "q": "Large stock dividends are those exceeding ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "20-25"
+        ],
+        "other_options": [
+            "10",
+            "50",
+            "100"
+        ]
+    },
+    {
+        "q": "What is a stock split?",
+        "type": "mcq",
+        "o": [
+            "Increasing shares outstanding and reducing par value proportionally",
+            "A dividend",
+            "Treasury stock purchase",
+            "New stock issuance"
+        ]
+    },
+    {
+        "q": "Stock splits do not affect total stockholders' equity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a reverse stock split?",
+        "type": "mcq",
+        "o": [
+            "Reducing shares outstanding and increasing par value proportionally",
+            "A regular stock split",
+            "A stock dividend",
+            "A cash dividend"
+        ]
+    },
+    {
+        "q": "Rearrange equity transactions from most to least common:",
+        "type": "rearrange",
+        "words": [
+            "Issue stock",
+            "Pay dividends",
+            "Repurchase treasury stock",
+            "Stock split",
+            "Stock dividend"
+        ]
+    },
+    {
+        "q": "What is appropriated retained earnings?",
+        "type": "mcq",
+        "o": [
+            "Retained earnings restricted for specific purposes",
+            "Distributed earnings",
+            "Treasury stock",
+            "Paid-in capital"
+        ]
+    },
+    {
+        "q": "Appropriations do not affect total retained earnings.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is accumulated other comprehensive income (AOCI)?",
+        "type": "mcq",
+        "o": [
+            "Cumulative amounts of OCI items reported in equity",
+            "Net income",
+            "Retained earnings",
+            "Treasury stock"
+        ]
+    },
+    {
+        "q": "AOCI is a separate component of stockholders' ______.",
+        "type": "fill_blank",
+        "answers": [
+            "equity"
+        ],
+        "other_options": [
+            "assets",
+            "liabilities",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is earnings per share (EPS)?",
+        "type": "mcq",
+        "o": [
+            "Net income available to common shareholders divided by weighted average shares",
+            "Total revenue per share",
+            "Dividends per share",
+            "Book value per share"
+        ]
+    },
+    {
+        "q": "Match the EPS type with its calculation:",
+        "type": "match",
+        "left": [
+            "Basic EPS",
+            "Diluted EPS"
+        ],
+        "right": [
+            "Net income / Weighted avg shares",
+            "Net income adjusted / Shares + dilutive securities"
+        ]
+    },
+    {
+        "q": "Basic EPS uses ______ average common shares outstanding.",
+        "type": "fill_blank",
+        "answers": [
+            "weighted"
+        ],
+        "other_options": [
+            "simple",
+            "ending",
+            "beginning"
+        ]
+    },
+    {
+        "q": "What is diluted EPS?",
+        "type": "mcq",
+        "o": [
+            "EPS assuming all potentially dilutive securities are converted",
+            "Basic EPS",
+            "Revenue per share",
+            "Dividend per share"
+        ]
+    },
+    {
+        "q": "Stock options are dilutive when exercise price is below market price.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the treasury stock method for options?",
+        "type": "mcq",
+        "o": [
+            "Assumes options exercised and proceeds used to repurchase shares at average market price",
+            "Ignores options",
+            "Treats options as debt",
+            "Uses exercise price only"
+        ]
+    },
+    {
+        "q": "Antidilutive securities are ______ from diluted EPS.",
+        "type": "fill_blank",
+        "answers": [
+            "excluded"
+        ],
+        "other_options": [
+            "included",
+            "added",
+            "averaged"
+        ]
+    },
+    {
+        "q": "What is the if-converted method for convertible securities?",
+        "type": "mcq",
+        "o": [
+            "Assumes conversion at the beginning of the period, adjusting numerator and denominator",
+            "Ignores conversion",
+            "Uses end-of-period conversion",
+            "Uses face value only"
+        ]
+    },
+    {
+        "q": "Rearrange EPS calculation steps:",
+        "type": "rearrange",
+        "words": [
+            "Calculate net income for common",
+            "Determine weighted shares",
+            "Compute basic EPS",
+            "Identify dilutive securities",
+            "Compute diluted EPS"
+        ]
+    },
+    {
+        "q": "What is income tax expense?",
+        "type": "mcq",
+        "o": [
+            "The amount of income tax recognized on the income statement for the period",
+            "Cash paid for taxes",
+            "Taxes receivable",
+            "Deferred taxes only"
+        ]
+    },
+    {
+        "q": "Income tax expense includes both current and deferred tax components.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is current tax expense?",
+        "type": "mcq",
+        "o": [
+            "The amount of taxes payable or refundable for the current period",
+            "Future taxes",
+            "Deferred taxes",
+            "Tax credits"
+        ]
+    },
+    {
+        "q": "Match the tax term with its definition:",
+        "type": "match",
+        "left": [
+            "Current tax",
+            "Deferred tax",
+            "Permanent difference",
+            "Temporary difference"
+        ],
+        "right": [
+            "Taxes owed now",
+            "Taxes owed later",
+            "Never reverses",
+            "Reverses in future"
+        ]
+    },
+    {
+        "q": "Deferred taxes arise from ______ differences between book and tax basis.",
+        "type": "fill_blank",
+        "answers": [
+            "temporary"
+        ],
+        "other_options": [
+            "permanent",
+            "minor",
+            "current"
+        ]
+    },
+    {
+        "q": "What creates a deferred tax liability?",
+        "type": "mcq",
+        "o": [
+            "Taxable temporary differences that result in future taxable amounts",
+            "Deductible differences",
+            "Permanent differences",
+            "Tax credits"
+        ]
+    },
+    {
+        "q": "Accelerated depreciation for tax purposes creates a deferred tax liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What creates a deferred tax asset?",
+        "type": "mcq",
+        "o": [
+            "Deductible temporary differences that result in future deductible amounts",
+            "Taxable differences",
+            "Permanent differences",
+            "Tax penalties"
+        ]
+    },
+    {
+        "q": "Match the example with the deferred tax type:",
+        "type": "match",
+        "left": [
+            "Accelerated depreciation",
+            "Warranty expense accrual",
+            "Installment sales",
+            "Bad debt expense"
+        ],
+        "right": [
+            "DTL",
+            "DTA",
+            "DTL",
+            "DTA"
+        ]
+    },
+    {
+        "q": "A valuation allowance reduces a DTA when it is ______ likely than not unrealizable.",
+        "type": "fill_blank",
+        "answers": [
+            "more"
+        ],
+        "other_options": [
+            "less",
+            "probably",
+            "definitely"
+        ]
+    },
+    {
+        "q": "What is a permanent difference?",
+        "type": "mcq",
+        "o": [
+            "A difference between book and tax that will never reverse",
+            "A temporary difference",
+            "A timing difference",
+            "A deferred tax"
+        ]
+    },
+    {
+        "q": "Examples of permanent differences include municipal bond interest and fines.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "How are deferred taxes measured?",
+        "type": "mcq",
+        "o": [
+            "At the enacted tax rate expected when the difference reverses",
+            "At current rates only",
+            "At historical rates",
+            "At estimated rates"
+        ]
+    },
+    {
+        "q": "Deferred taxes are classified as ______ on the balance sheet.",
+        "type": "fill_blank",
+        "answers": [
+            "noncurrent"
+        ],
+        "other_options": [
+            "current",
+            "short-term",
+            "mixed"
+        ]
+    },
+    {
+        "q": "What is uncertain tax positions (ASC 740-10)?",
+        "type": "mcq",
+        "o": [
+            "Tax positions whose ultimate deductibility is uncertain",
+            "Certain tax deductions",
+            "Tax credits",
+            "Refunds"
+        ]
+    },
+    {
+        "q": "UTP requires a two-step process: recognition and measurement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the recognition threshold for UTP?",
+        "type": "mcq",
+        "o": [
+            "More-likely-than-not to be sustained on examination",
+            "Probable",
+            "Possible",
+            "Remote"
+        ]
+    },
+    {
+        "q": "UTP is measured at the ______ amount likely to be realized.",
+        "type": "fill_blank",
+        "answers": [
+            "largest"
+        ],
+        "other_options": [
+            "smallest",
+            "expected",
+            "average"
+        ]
+    },
+    {
+        "q": "What is pension accounting?",
+        "type": "mcq",
+        "o": [
+            "Accounting for employer-sponsored retirement benefit plans",
+            "Inventory accounting",
+            "Revenue recognition",
+            "Lease accounting"
+        ]
+    },
+    {
+        "q": "Match the pension term with its definition:",
+        "type": "match",
+        "left": [
+            "PBO",
+            "ABO",
+            "Plan assets",
+            "Funded status"
+        ],
+        "right": [
+            "Benefits with salary projection",
+            "Benefits at current salary",
+            "Investments to pay benefits",
+            "PBO minus plan assets"
+        ]
+    },
+    {
+        "q": "The projected benefit obligation is the present value of ______ benefits.",
+        "type": "fill_blank",
+        "answers": [
+            "future"
+        ],
+        "other_options": [
+            "current",
+            "past",
+            "historical"
+        ]
+    },
+    {
+        "q": "What is a defined benefit plan?",
+        "type": "mcq",
+        "o": [
+            "A plan specifying the benefits employees will receive at retirement",
+            "A contribution-based plan",
+            "A 401(k) plan",
+            "An optional plan"
+        ]
+    },
+    {
+        "q": "Defined contribution plans specify the employer contribution, not the benefit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the components of pension expense?",
+        "type": "mcq",
+        "o": [
+            "Service cost, interest cost, return on assets, amortization of prior service cost, and gains/losses",
+            "Only service cost",
+            "Only interest cost",
+            "Only contributions"
+        ]
+    },
+    {
+        "q": "Match the pension component with its calculation:",
+        "type": "match",
+        "left": [
+            "Service cost",
+            "Interest cost",
+            "Expected return",
+            "Amortization"
+        ],
+        "right": [
+            "Benefits earned this period",
+            "Discount rate x PBO",
+            "Expected rate x plan assets",
+            "Prior service cost and gains/losses"
+        ]
+    },
+    {
+        "q": "Service cost is the ______ component of pension expense.",
+        "type": "fill_blank",
+        "answers": [
+            "only"
+        ],
+        "other_options": [
+            "largest",
+            "smallest",
+            "primary"
+        ]
+    },
+    {
+        "q": "Where is the funded status of a pension plan reported?",
+        "type": "mcq",
+        "o": [
+            "On the balance sheet as an asset or liability",
+            "Only in notes",
+            "In OCI",
+            "Off-balance sheet"
+        ]
+    },
+    {
+        "q": "An underfunded pension plan is reported as a liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are prior service costs?",
+        "type": "mcq",
+        "o": [
+            "Costs from plan amendments that grant benefits for past service",
+            "Current service costs",
+            "Interest costs",
+            "Settlement costs"
+        ]
+    },
+    {
+        "q": "Prior service costs are recognized in ______ and amortized over time.",
+        "type": "fill_blank",
+        "answers": [
+            "OCI"
+        ],
+        "other_options": [
+            "net income",
+            "retained earnings",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is the corridor approach for pension gains and losses?",
+        "type": "mcq",
+        "o": [
+            "Amortizing gains/losses exceeding 10% of the greater of PBO or plan assets",
+            "Immediate recognition",
+            "No recognition",
+            "Deferral forever"
+        ]
+    },
+    {
+        "q": "The corridor equals 10% of the greater of PBO or plan assets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are other postretirement employee benefits (OPEB)?",
+        "type": "mcq",
+        "o": [
+            "Benefits other than pensions, such as healthcare, provided to retirees",
+            "Only pension benefits",
+            "Salary continuation",
+            "Disability benefits"
+        ]
+    },
+    {
+        "q": "OPEB accounting is similar to ______ accounting.",
+        "type": "fill_blank",
+        "answers": [
+            "pension"
+        ],
+        "other_options": [
+            "lease",
+            "inventory",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is segment reporting?",
+        "type": "mcq",
+        "o": [
+            "Disclosure of financial information by operating segment",
+            "Consolidated reporting only",
+            "Tax reporting",
+            "Internal reporting only"
+        ]
+    },
+    {
+        "q": "Segment reporting is required under ASC 280.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an operating segment?",
+        "type": "mcq",
+        "o": [
+            "A component that engages in revenue-producing activities and is reviewed by the CODM",
+            "A geographic area only",
+            "A product line only",
+            "A legal entity"
+        ]
+    },
+    {
+        "q": "Match the segment criterion with its threshold:",
+        "type": "match",
+        "left": [
+            "Revenue test",
+            "Asset test",
+            "Profit/loss test"
+        ],
+        "right": [
+            "10% of combined revenue",
+            "10% of combined assets",
+            "10% of greater of combined profit or loss"
+        ]
+    },
+    {
+        "q": "Segments meeting the ______ tests are reportable.",
+        "type": "fill_blank",
+        "answers": [
+            "10%"
+        ],
+        "other_options": [
+            "5%",
+            "15%",
+            "20%"
+        ]
+    },
+    {
+        "q": "What disclosures are required for reportable segments?",
+        "type": "mcq",
+        "o": [
+            "Revenue, profit/loss, assets, and reconciliations to consolidated amounts",
+            "Only revenue",
+            "Only assets",
+            "Only profit"
+        ]
+    },
+    {
+        "q": "Reportable segments must represent at least 75% of external revenue.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is interim financial reporting?",
+        "type": "mcq",
+        "o": [
+            "Financial reports for periods shorter than a full year",
+            "Annual reports",
+            "Tax returns",
+            "Internal reports only"
+        ]
+    },
+    {
+        "q": "Interim periods are viewed as integral parts of the ______ period.",
+        "type": "fill_blank",
+        "answers": [
+            "annual"
+        ],
+        "other_options": [
+            "quarterly",
+            "monthly",
+            "semi-annual"
+        ]
+    },
+    {
+        "q": "How is income tax expense calculated for interim periods?",
+        "type": "mcq",
+        "o": [
+            "Using the estimated annual effective tax rate applied to year-to-date income",
+            "Current quarter rate only",
+            "Prior year rate",
+            "Statutory rate"
+        ]
+    },
+    {
+        "q": "Match the interim concept with its treatment:",
+        "type": "match",
+        "left": [
+            "Revenue",
+            "COGS",
+            "Discrete items",
+            "Income tax"
+        ],
+        "right": [
+            "Recognize as earned",
+            "Estimate for inventory",
+            "Recognize in period incurred",
+            "Estimated annual rate"
+        ]
+    },
+    {
+        "q": "What is a change in accounting principle?",
+        "type": "mcq",
+        "o": [
+            "A change from one acceptable accounting method to another",
+            "Correction of an error",
+            "Change in estimate",
+            "Change in entity"
+        ]
+    },
+    {
+        "q": "Changes in accounting principle are generally applied retrospectively.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is retrospective application?",
+        "type": "mcq",
+        "o": [
+            "Applying the new principle to all prior periods as if it had always been used",
+            "Prospective application",
+            "Current period only",
+            "No change"
+        ]
+    },
+    {
+        "q": "Retrospective application requires ______ of prior financial statements.",
+        "type": "fill_blank",
+        "answers": [
+            "restatement"
+        ],
+        "other_options": [
+            "disclosure",
+            "footnotes",
+            "adjustment"
+        ]
+    },
+    {
+        "q": "What is a change in accounting estimate?",
+        "type": "mcq",
+        "o": [
+            "A revision of an estimate used in accounting due to new information",
+            "A change in principle",
+            "An error correction",
+            "A change in entity"
+        ]
+    },
+    {
+        "q": "Changes in estimate are applied prospectively.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is prospective application?",
+        "type": "mcq",
+        "o": [
+            "Applying the change to current and future periods only",
+            "Retrospective application",
+            "Restatement",
+            "No change"
+        ]
+    },
+    {
+        "q": "Examples of changes in estimate include useful life and ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "salvage"
+        ],
+        "other_options": [
+            "book",
+            "fair",
+            "historical"
+        ]
+    },
+    {
+        "q": "What is a change in reporting entity?",
+        "type": "mcq",
+        "o": [
+            "A change in the composition of the reporting entity",
+            "A change in principle",
+            "A change in estimate",
+            "An error"
+        ]
+    },
+    {
+        "q": "Changes in reporting entity are reported retrospectively.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is error correction?",
+        "type": "mcq",
+        "o": [
+            "Correction of an error in previously issued financial statements",
+            "A change in principle",
+            "A change in estimate",
+            "A change in entity"
+        ]
+    },
+    {
+        "q": "Error corrections are reported as ______ adjustments.",
+        "type": "fill_blank",
+        "answers": [
+            "prior period"
+        ],
+        "other_options": [
+            "current period",
+            "prospective",
+            "future"
+        ]
+    },
+    {
+        "q": "How are material errors corrected?",
+        "type": "mcq",
+        "o": [
+            "Restate prior period financial statements",
+            "Ignore them",
+            "Disclose only",
+            "Adjust current period only"
+        ]
+    },
+    {
+        "q": "Match the accounting change with its treatment:",
+        "type": "match",
+        "left": [
+            "Change in principle",
+            "Change in estimate",
+            "Change in entity",
+            "Error correction"
+        ],
+        "right": [
+            "Retrospective",
+            "Prospective",
+            "Retrospective",
+            "Restatement"
+        ]
+    },
+    {
+        "q": "What is fair value measurement (ASC 820)?",
+        "type": "mcq",
+        "o": [
+            "A framework for measuring and disclosing fair value",
+            "Historical cost accounting",
+            "Tax basis accounting",
+            "Cash basis accounting"
+        ]
+    },
+    {
+        "q": "Fair value is the ______ price in an orderly transaction.",
+        "type": "fill_blank",
+        "answers": [
+            "exit"
+        ],
+        "other_options": [
+            "entry",
+            "historical",
+            "book"
+        ]
+    },
+    {
+        "q": "What are the fair value hierarchy levels?",
+        "type": "mcq",
+        "o": [
+            "Level 1 (quoted prices), Level 2 (observable inputs), Level 3 (unobservable inputs)",
+            "Only Level 1",
+            "Only Level 3",
+            "Two levels"
+        ]
+    },
+    {
+        "q": "Match the fair value level with its inputs:",
+        "type": "match",
+        "left": [
+            "Level 1",
+            "Level 2",
+            "Level 3"
+        ],
+        "right": [
+            "Quoted prices in active markets",
+            "Observable inputs other than quoted prices",
+            "Unobservable inputs"
+        ]
+    },
+    {
+        "q": "Level ______ inputs provide the highest reliability.",
+        "type": "fill_blank",
+        "answers": [
+            "1"
+        ],
+        "other_options": [
+            "2",
+            "3",
+            "all"
+        ]
+    },
+    {
+        "q": "What is a principal market?",
+        "type": "mcq",
+        "o": [
+            "The market with the greatest volume and activity for the asset or liability",
+            "The cheapest market",
+            "Any market",
+            "The local market"
+        ]
+    },
+    {
+        "q": "Fair value assumes a transaction in the principal (or most advantageous) market.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What valuation techniques are used for fair value?",
+        "type": "mcq",
+        "o": [
+            "Market approach, income approach, and cost approach",
+            "Only market approach",
+            "Only income approach",
+            "Only cost approach"
+        ]
+    },
+    {
+        "q": "Match the valuation approach with its method:",
+        "type": "match",
+        "left": [
+            "Market approach",
+            "Income approach",
+            "Cost approach"
+        ],
+        "right": [
+            "Comparable transactions",
+            "Present value of cash flows",
+            "Replacement cost"
+        ]
+    },
+    {
+        "q": "The income approach uses ______ value techniques.",
+        "type": "fill_blank",
+        "answers": [
+            "present"
+        ],
+        "other_options": [
+            "future",
+            "historical",
+            "nominal"
+        ]
+    },
+    {
+        "q": "What is nonmonetary exchange?",
+        "type": "mcq",
+        "o": [
+            "An exchange of nonmonetary assets between parties",
+            "A cash sale",
+            "A credit sale",
+            "A bank transfer"
+        ]
+    },
+    {
+        "q": "Nonmonetary exchanges with commercial substance are recorded at fair value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is commercial substance?",
+        "type": "mcq",
+        "o": [
+            "The configuration of future cash flows will change significantly",
+            "No change in cash flows",
+            "A legal requirement",
+            "A tax concept"
+        ]
+    },
+    {
+        "q": "Exchanges lacking commercial substance are recorded at ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "book"
+        ],
+        "other_options": [
+            "fair",
+            "market",
+            "historical"
+        ]
+    },
+    {
+        "q": "What is asset retirement obligation (ARO)?",
+        "type": "mcq",
+        "o": [
+            "A liability for the estimated cost of retiring a tangible long-lived asset",
+            "Depreciation expense",
+            "An asset",
+            "Revenue"
+        ]
+    },
+    {
+        "q": "ARO is recorded at the present value of estimated retirement costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the journal entry to record an ARO?",
+        "type": "mcq",
+        "o": [
+            "Debit Asset, Credit ARO Liability",
+            "Debit Expense, Credit Cash",
+            "Debit Liability, Credit Revenue",
+            "Debit Cash, Credit Asset"
+        ]
+    },
+    {
+        "q": "Accretion expense increases the ARO liability over time using the ______ rate.",
+        "type": "fill_blank",
+        "answers": [
+            "discount"
+        ],
+        "other_options": [
+            "interest",
+            "inflation",
+            "tax"
+        ]
+    },
+    {
+        "q": "What is a derivative?",
+        "type": "mcq",
+        "o": [
+            "A financial instrument whose value is derived from an underlying asset, rate, or index",
+            "Common stock",
+            "A bond",
+            "Cash"
+        ]
+    },
+    {
+        "q": "Derivatives are measured at fair value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are common types of derivatives?",
+        "type": "mcq",
+        "o": [
+            "Options, forwards, futures, and swaps",
+            "Only options",
+            "Only futures",
+            "Only bonds"
+        ]
+    },
+    {
+        "q": "Match the derivative with its characteristic:",
+        "type": "match",
+        "left": [
+            "Option",
+            "Forward",
+            "Future",
+            "Swap"
+        ],
+        "right": [
+            "Right but not obligation",
+            "Customized contract",
+            "Exchange-traded",
+            "Exchange of cash flows"
+        ]
+    },
+    {
+        "q": "Derivatives have a small or no initial net ______.",
+        "type": "fill_blank",
+        "answers": [
+            "investment"
+        ],
+        "other_options": [
+            "value",
+            "cost",
+            "price"
+        ]
+    },
+    {
+        "q": "What is hedge accounting?",
+        "type": "mcq",
+        "o": [
+            "Special accounting treatment that matches gains and losses on hedges with hedged items",
+            "Normal derivative accounting",
+            "Tax accounting",
+            "Cash accounting"
+        ]
+    },
+    {
+        "q": "Hedge accounting requires formal documentation and effectiveness testing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the types of hedging relationships?",
+        "type": "mcq",
+        "o": [
+            "Fair value hedge, cash flow hedge, and net investment hedge",
+            "Only fair value hedge",
+            "Only cash flow hedge",
+            "Only interest rate hedge"
+        ]
+    },
+    {
+        "q": "Match the hedge type with its purpose:",
+        "type": "match",
+        "left": [
+            "Fair value hedge",
+            "Cash flow hedge",
+            "Net investment hedge"
+        ],
+        "right": [
+            "Offset changes in fair value",
+            "Offset variability in cash flows",
+            "Hedge foreign subsidiary investment"
+        ]
+    },
+    {
+        "q": "Cash flow hedge gains and losses are recognized in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "OCI"
+        ],
+        "other_options": [
+            "net income",
+            "assets",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "What is a foreign currency transaction?",
+        "type": "mcq",
+        "o": [
+            "A transaction denominated in a currency other than the functional currency",
+            "A domestic transaction",
+            "A cash-only transaction",
+            "An internal transaction"
+        ]
+    },
+    {
+        "q": "Foreign currency transactions create exchange gains and losses.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the functional currency?",
+        "type": "mcq",
+        "o": [
+            "The currency of the primary economic environment in which the entity operates",
+            "The reporting currency",
+            "The US dollar always",
+            "The local currency always"
+        ]
+    },
+    {
+        "q": "Receivables and payables in foreign currency are remeasured at the ______ rate.",
+        "type": "fill_blank",
+        "answers": [
+            "current"
+        ],
+        "other_options": [
+            "historical",
+            "average",
+            "forward"
+        ]
+    },
+    {
+        "q": "What is translation of foreign subsidiaries?",
+        "type": "mcq",
+        "o": [
+            "Converting subsidiary financial statements from functional to reporting currency",
+            "Remeasurement",
+            "Elimination",
+            "Consolidation only"
+        ]
+    },
+    {
+        "q": "Match the translation method with its application:",
+        "type": "match",
+        "left": [
+            "Current rate method",
+            "Temporal method"
+        ],
+        "right": [
+            "Functional currency differs from parent",
+            "Functional currency is parent's currency"
+        ]
+    },
+    {
+        "q": "Translation adjustments are reported in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "OCI"
+        ],
+        "other_options": [
+            "net income",
+            "assets",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "What is the current rate method?",
+        "type": "mcq",
+        "o": [
+            "Assets and liabilities at current rate, equity at historical, income/expense at average",
+            "Everything at historical rate",
+            "Everything at average rate",
+            "Only cash at current rate"
+        ]
+    },
+    {
+        "q": "Rearrange foreign currency accounting steps:",
+        "type": "rearrange",
+        "words": [
+            "Identify functional currency",
+            "Determine transaction currency",
+            "Record at spot rate",
+            "Remeasure at period end",
+            "Recognize gain/loss"
+        ]
+    },
+    {
+        "q": "What is governmental accounting?",
+        "type": "mcq",
+        "o": [
+            "Accounting for state and local government entities using fund-based reporting",
+            "Corporate accounting",
+            "Tax accounting",
+            "Nonprofit accounting"
+        ]
+    },
+    {
+        "q": "Governmental accounting uses fund accounting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a fund in governmental accounting?",
+        "type": "mcq",
+        "o": [
+            "A fiscal and accounting entity with self-balancing accounts",
+            "A bank account",
+            "A cash reserve",
+            "An investment"
+        ]
+    },
+    {
+        "q": "Match the fund type with its category:",
+        "type": "match",
+        "left": [
+            "General Fund",
+            "Special Revenue",
+            "Enterprise",
+            "Internal Service"
+        ],
+        "right": [
+            "Governmental",
+            "Governmental",
+            "Proprietary",
+            "Proprietary"
+        ]
+    },
+    {
+        "q": "The ______ Fund accounts for resources not restricted to specific purposes.",
+        "type": "fill_blank",
+        "answers": [
+            "General"
+        ],
+        "other_options": [
+            "Special Revenue",
+            "Capital Projects",
+            "Debt Service"
+        ]
+    },
+    {
+        "q": "What are governmental funds?",
+        "type": "mcq",
+        "o": [
+            "Funds that account for governmental activities using modified accrual",
+            "Proprietary funds",
+            "Fiduciary funds",
+            "Enterprise funds"
+        ]
+    },
+    {
+        "q": "Governmental funds use modified accrual accounting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is modified accrual accounting?",
+        "type": "mcq",
+        "o": [
+            "Revenues recognized when measurable and available; expenditures when liability incurred",
+            "Full accrual",
+            "Cash basis",
+            "Tax basis"
+        ]
+    },
+    {
+        "q": "Under modified accrual, revenues are recognized when ______ and available.",
+        "type": "fill_blank",
+        "answers": [
+            "measurable"
+        ],
+        "other_options": [
+            "earned",
+            "received",
+            "billed"
+        ]
+    },
+    {
+        "q": "What are proprietary funds?",
+        "type": "mcq",
+        "o": [
+            "Funds that account for business-type activities using full accrual",
+            "Governmental funds",
+            "Fiduciary funds",
+            "Agency funds"
+        ]
+    },
+    {
+        "q": "Match the fund type with its purpose:",
+        "type": "match",
+        "left": [
+            "Enterprise Fund",
+            "Internal Service Fund",
+            "Pension Trust"
+        ],
+        "right": [
+            "Fees for external users",
+            "Fees for internal units",
+            "Employee benefit funds"
+        ]
+    },
+    {
+        "q": "Proprietary funds use ______ accrual accounting.",
+        "type": "fill_blank",
+        "answers": [
+            "full"
+        ],
+        "other_options": [
+            "modified",
+            "cash",
+            "tax"
+        ]
+    },
+    {
+        "q": "What are fiduciary funds?",
+        "type": "mcq",
+        "o": [
+            "Funds for resources held in trust for others outside the government",
+            "Governmental funds",
+            "Proprietary funds",
+            "General Fund"
+        ]
+    },
+    {
+        "q": "Fiduciary funds are not included in government-wide statements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is GASB?",
+        "type": "mcq",
+        "o": [
+            "Governmental Accounting Standards Board - sets standards for state and local governments",
+            "General Accounting Standards Board",
+            "Government Auditing Standards Board",
+            "FASB for governments"
+        ]
+    },
+    {
+        "q": "GASB establishes accounting standards for ______ governments.",
+        "type": "fill_blank",
+        "answers": [
+            "state and local"
+        ],
+        "other_options": [
+            "federal",
+            "international",
+            "nonprofit"
+        ]
+    },
+    {
+        "q": "What are government-wide financial statements?",
+        "type": "mcq",
+        "o": [
+            "Statements presenting the government as a whole using accrual accounting",
+            "Fund-based statements",
+            "Budgetary statements",
+            "Tax returns"
+        ]
+    },
+    {
+        "q": "Government-wide statements include statement of net position and statement of activities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the measurement focus of governmental funds?",
+        "type": "mcq",
+        "o": [
+            "Current financial resources",
+            "Economic resources",
+            "Cash only",
+            "Long-term resources"
+        ]
+    },
+    {
+        "q": "Match the statement with the reporting level:",
+        "type": "match",
+        "left": [
+            "Statement of Net Position",
+            "Balance Sheet",
+            "Statement of Activities"
+        ],
+        "right": [
+            "Government-wide",
+            "Fund-level",
+            "Government-wide"
+        ]
+    },
+    {
+        "q": "Fund-level governmental statements report on ______ financial resources.",
+        "type": "fill_blank",
+        "answers": [
+            "current"
+        ],
+        "other_options": [
+            "total",
+            "economic",
+            "long-term"
+        ]
+    },
+    {
+        "q": "What is budgetary accounting?",
+        "type": "mcq",
+        "o": [
+            "Comparing actual results to legally adopted budgets",
+            "Cost accounting",
+            "Tax accounting",
+            "Financial accounting only"
+        ]
+    },
+    {
+        "q": "Budgetary comparison schedules are required for the General Fund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an encumbrance?",
+        "type": "mcq",
+        "o": [
+            "A commitment of budgetary resources for future expenditures",
+            "An actual expenditure",
+            "Revenue",
+            "Cash"
+        ]
+    },
+    {
+        "q": "Encumbrances reserve fund balance for anticipated ______.",
+        "type": "fill_blank",
+        "answers": [
+            "expenditures"
+        ],
+        "other_options": [
+            "revenues",
+            "assets",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "What is deferred inflow of resources?",
+        "type": "mcq",
+        "o": [
+            "An acquisition of net position applicable to future periods",
+            "Current revenue",
+            "A liability",
+            "An asset"
+        ]
+    },
+    {
+        "q": "Match the balance with its classification:",
+        "type": "match",
+        "left": [
+            "Deferred inflows",
+            "Deferred outflows",
+            "Fund balance"
+        ],
+        "right": [
+            "Future period resources",
+            "Future period expenses",
+            "Residual equity"
+        ]
+    },
+    {
+        "q": "What are the components of fund balance?",
+        "type": "mcq",
+        "o": [
+            "Nonspendable, restricted, committed, assigned, and unassigned",
+            "Only restricted",
+            "Only unassigned",
+            "Only committed"
+        ]
+    },
+    {
+        "q": "Nonspendable fund balance includes items like inventory and prepaid expenses.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange fund balance categories from most to least restrictive:",
+        "type": "rearrange",
+        "words": [
+            "Nonspendable",
+            "Restricted",
+            "Committed",
+            "Assigned",
+            "Unassigned"
+        ]
+    },
+    {
+        "q": "What is nonprofit (NFP) accounting?",
+        "type": "mcq",
+        "o": [
+            "Accounting for organizations without ownership interests focused on mission",
+            "Governmental accounting",
+            "Corporate accounting",
+            "Tax accounting"
+        ]
+    },
+    {
+        "q": "NFP entities report net assets rather than stockholders' equity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the required financial statements for NFPs?",
+        "type": "mcq",
+        "o": [
+            "Statement of financial position, statement of activities, statement of cash flows, and statement of functional expenses",
+            "Balance sheet only",
+            "Income statement only",
+            "Cash flow only"
+        ]
+    },
+    {
+        "q": "Match the NFP statement with its content:",
+        "type": "match",
+        "left": [
+            "Statement of financial position",
+            "Statement of activities",
+            "Statement of functional expenses"
+        ],
+        "right": [
+            "Assets and net assets",
+            "Revenue and expenses",
+            "Program vs management costs"
+        ]
+    },
+    {
+        "q": "NFP net assets are classified as with or without ______ restrictions.",
+        "type": "fill_blank",
+        "answers": [
+            "donor"
+        ],
+        "other_options": [
+            "legal",
+            "board",
+            "government"
+        ]
+    },
+    {
+        "q": "What are contributions in nonprofit accounting?",
+        "type": "mcq",
+        "o": [
+            "Unconditional transfers of assets to a nonprofit",
+            "Sales revenue",
+            "Loans",
+            "Investments"
+        ]
+    },
+    {
+        "q": "Unconditional contributions are recognized when received or promised.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a conditional contribution?",
+        "type": "mcq",
+        "o": [
+            "A contribution dependent on meeting specified conditions",
+            "An unconditional gift",
+            "A sale",
+            "A loan"
+        ]
+    },
+    {
+        "q": "Conditional contributions are recognized when ______ are substantially met.",
+        "type": "fill_blank",
+        "answers": [
+            "conditions"
+        ],
+        "other_options": [
+            "restrictions",
+            "requirements",
+            "standards"
+        ]
+    },
+    {
+        "q": "What is the difference between conditions and restrictions?",
+        "type": "mcq",
+        "o": [
+            "Conditions affect recognition timing; restrictions affect net asset classification",
+            "Both are the same",
+            "Conditions are less restrictive",
+            "Restrictions affect timing"
+        ]
+    },
+    {
+        "q": "Match the NFP revenue type with its treatment:",
+        "type": "match",
+        "left": [
+            "Unconditional contribution",
+            "Conditional contribution",
+            "Exchange transaction"
+        ],
+        "right": [
+            "Recognize immediately",
+            "Recognize when condition met",
+            "Recognize as earned"
+        ]
+    },
+    {
+        "q": "What is an exchange transaction for NFPs?",
+        "type": "mcq",
+        "o": [
+            "A reciprocal transfer where the NFP provides goods/services for payment",
+            "A donation",
+            "A grant",
+            "A pledge"
+        ]
+    },
+    {
+        "q": "Exchange transactions are recognized similar to ______ entities.",
+        "type": "fill_blank",
+        "answers": [
+            "for-profit"
+        ],
+        "other_options": [
+            "government",
+            "nonprofit",
+            "tax-exempt"
+        ]
+    },
+    {
+        "q": "What are functional expenses?",
+        "type": "mcq",
+        "o": [
+            "Expenses classified by the purpose for which costs are incurred",
+            "Natural classification",
+            "Object classification",
+            "Budget classification"
+        ]
+    },
+    {
+        "q": "NFPs must present expenses by both functional and natural classification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a multi-employer pension plan issue?",
+        "type": "mcq",
+        "o": [
+            "Plans maintained by two or more unrelated employers that create complex accounting",
+            "Single employer plans",
+            "Individual retirement accounts",
+            "401(k) plans"
+        ]
+    },
+    {
+        "q": "Multi-employer plan participants may face withdrawal liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is stock-based compensation?",
+        "type": "mcq",
+        "o": [
+            "Compensation paid to employees in the form of equity instruments",
+            "Cash salaries",
+            "Bonuses",
+            "Benefits"
+        ]
+    },
+    {
+        "q": "Stock options are measured at ______ value at grant date.",
+        "type": "fill_blank",
+        "answers": [
+            "fair"
+        ],
+        "other_options": [
+            "intrinsic",
+            "book",
+            "par"
+        ]
+    },
+    {
+        "q": "What is the service period for stock compensation?",
+        "type": "mcq",
+        "o": [
+            "The period over which compensation cost is recognized",
+            "The option life",
+            "The vesting period only",
+            "One year"
+        ]
+    },
+    {
+        "q": "Match the stock compensation term with its definition:",
+        "type": "match",
+        "left": [
+            "Grant date",
+            "Vesting period",
+            "Exercise",
+            "Expiration"
+        ],
+        "right": [
+            "Option awarded",
+            "Service requirement",
+            "Option converted",
+            "Option expired"
+        ]
+    },
+    {
+        "q": "Forfeitures of unvested options ______ recognized compensation expense.",
+        "type": "fill_blank",
+        "answers": [
+            "reverse"
+        ],
+        "other_options": [
+            "increase",
+            "ignore",
+            "defer"
+        ]
+    },
+    {
+        "q": "What is a business combination?",
+        "type": "mcq",
+        "o": [
+            "A transaction where an acquirer obtains control of one or more businesses",
+            "A stock split",
+            "A dividend",
+            "A loan"
+        ]
+    },
+    {
+        "q": "Business combinations are accounted for using the acquisition method.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is acquired in a business combination?",
+        "type": "mcq",
+        "o": [
+            "Identifiable assets, liabilities assumed, and goodwill",
+            "Only assets",
+            "Only liabilities",
+            "Only goodwill"
+        ]
+    },
+    {
+        "q": "Acquired assets and liabilities are recorded at ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "fair"
+        ],
+        "other_options": [
+            "book",
+            "historical",
+            "carrying"
+        ]
+    },
+    {
+        "q": "What is the measurement period in acquisitions?",
+        "type": "mcq",
+        "o": [
+            "Up to one year to finalize measurement of fair values",
+            "30 days",
+            "90 days",
+            "Indefinite"
+        ]
+    },
+    {
+        "q": "Match the acquisition element with its treatment:",
+        "type": "match",
+        "left": [
+            "Acquisition costs",
+            "Contingent consideration",
+            "Restructuring costs"
+        ],
+        "right": [
+            "Expense as incurred",
+            "Record at fair value",
+            "Not recognized in purchase price"
+        ]
+    },
+    {
+        "q": "What is bargain purchase?",
+        "type": "mcq",
+        "o": [
+            "When the fair value of net assets acquired exceeds the purchase price",
+            "Overpayment",
+            "Goodwill",
+            "Premium"
+        ]
+    },
+    {
+        "q": "Bargain purchase results in a gain recognized in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "income"
+        ],
+        "other_options": [
+            "OCI",
+            "equity",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is pushdown accounting?",
+        "type": "mcq",
+        "o": [
+            "Recording acquisition fair values on the subsidiary's separate books",
+            "Normal GAAP",
+            "Tax accounting",
+            "Consolidation only"
+        ]
+    },
+    {
+        "q": "Pushdown accounting is optional under US GAAP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is contingent consideration in acquisitions?",
+        "type": "mcq",
+        "o": [
+            "Additional payment based on future events or conditions",
+            "Upfront payment only",
+            "Stock issuance",
+            "Debt assumption"
+        ]
+    },
+    {
+        "q": "Contingent consideration classified as liability is remeasured at ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "fair"
+        ],
+        "other_options": [
+            "book",
+            "historical",
+            "fixed"
+        ]
+    },
+    {
+        "q": "What are related party disclosures?",
+        "type": "mcq",
+        "o": [
+            "Disclosures about transactions between parties with special relationships",
+            "All transactions",
+            "Cash transactions",
+            "Foreign transactions"
+        ]
+    },
+    {
+        "q": "Related party transactions may not be at arm's length.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a quasi-reorganization?",
+        "type": "mcq",
+        "o": [
+            "A fresh start achieved through accounting entries without legal reorganization",
+            "Bankruptcy",
+            "Merger",
+            "Acquisition"
+        ]
+    },
+    {
+        "q": "Quasi-reorganization eliminates accumulated ______.",
+        "type": "fill_blank",
+        "answers": [
+            "deficit"
+        ],
+        "other_options": [
+            "surplus",
+            "assets",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "What is troubled debt restructuring (TDR)?",
+        "type": "mcq",
+        "o": [
+            "A concession granted to a debtor experiencing financial difficulty",
+            "Normal debt repayment",
+            "Debt issuance",
+            "Bond premium"
+        ]
+    },
+    {
+        "q": "Match the TDR type with its accounting:",
+        "type": "match",
+        "left": [
+            "Settlement",
+            "Modification with gain",
+            "Modification without gain"
+        ],
+        "right": [
+            "Immediate gain/loss",
+            "Use new effective rate",
+            "No adjustment to carrying value"
+        ]
+    },
+    {
+        "q": "What is the difference between GAAP and IFRS for inventory?",
+        "type": "mcq",
+        "o": [
+            "IFRS prohibits LIFO; GAAP permits LIFO",
+            "Both allow LIFO",
+            "Both prohibit LIFO",
+            "GAAP prohibits LIFO"
+        ]
+    },
+    {
+        "q": "IFRS allows reversal of inventory writedowns; GAAP does not.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between GAAP and IFRS for PPE?",
+        "type": "mcq",
+        "o": [
+            "IFRS allows revaluation model; GAAP uses cost model only",
+            "Both use cost only",
+            "Both allow revaluation",
+            "GAAP allows revaluation"
+        ]
+    },
+    {
+        "q": "Under IFRS, PPE can be revalued to ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "fair"
+        ],
+        "other_options": [
+            "book",
+            "historical",
+            "residual"
+        ]
+    },
+    {
+        "q": "What is the difference between GAAP and IFRS for development costs?",
+        "type": "mcq",
+        "o": [
+            "IFRS capitalizes if criteria met; GAAP expenses all",
+            "Both capitalize",
+            "Both expense",
+            "GAAP capitalizes more"
+        ]
+    },
+    {
+        "q": "Match the GAAP vs IFRS difference with the topic:",
+        "type": "match",
+        "left": [
+            "LIFO",
+            "Impairment reversal",
+            "R&D",
+            "Revaluation"
+        ],
+        "right": [
+            "GAAP allows",
+            "IFRS allows",
+            "IFRS capitalizes development",
+            "IFRS allows"
+        ]
+    },
+    {
+        "q": "What is subsequent events disclosure period?",
+        "type": "mcq",
+        "o": [
+            "Events occurring through the date the financial statements are issued or available to be issued",
+            "30 days after year-end",
+            "90 days",
+            "One year"
+        ]
+    },
+    {
+        "q": "Type I subsequent events require adjustment to the financial statements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Type II subsequent event?",
+        "type": "mcq",
+        "o": [
+            "An event providing evidence of conditions that did not exist at year-end",
+            "A Type I event",
+            "An error",
+            "A restatement"
+        ]
+    },
+    {
+        "q": "Type II events require ______ only.",
+        "type": "fill_blank",
+        "answers": [
+            "disclosure"
+        ],
+        "other_options": [
+            "adjustment",
+            "restatement",
+            "correction"
+        ]
+    },
+    {
+        "q": "What is going concern assessment?",
+        "type": "mcq",
+        "o": [
+            "Evaluating if the entity can continue operating for 12 months",
+            "Valuation",
+            "Forecasting",
+            "Budgeting"
+        ]
+    },
+    {
+        "q": "Management must disclose substantial doubt about going concern if it exists.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a share-based payment with cash settlement?",
+        "type": "mcq",
+        "o": [
+            "A liability award settled in cash based on share price",
+            "Stock option",
+            "Restricted stock",
+            "Equity award"
+        ]
+    },
+    {
+        "q": "Cash-settled share awards are classified as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "liabilities"
+        ],
+        "other_options": [
+            "equity",
+            "assets",
+            "expenses"
+        ]
+    },
+    {
+        "q": "What is a convertible instrument with beneficial conversion feature?",
+        "type": "mcq",
+        "o": [
+            "A conversion price below market price at issuance creating additional value",
+            "A discount",
+            "A premium",
+            "Par value"
+        ]
+    },
+    {
+        "q": "BCF is recognized as a ______ to equity.",
+        "type": "fill_blank",
+        "answers": [
+            "credit"
+        ],
+        "other_options": [
+            "debit",
+            "expense",
+            "asset"
+        ]
+    },
+    {
+        "q": "What is an SEC registrant?",
+        "type": "mcq",
+        "o": [
+            "A company required to file reports with the SEC",
+            "Any company",
+            "A nonprofit",
+            "A government"
+        ]
+    },
+    {
+        "q": "SEC registrants must file 10-K and 10-Q reports.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Form 10-K?",
+        "type": "mcq",
+        "o": [
+            "Annual report filed with the SEC",
+            "Quarterly report",
+            "Registration statement",
+            "Proxy statement"
+        ]
+    },
+    {
+        "q": "Match the SEC form with its purpose:",
+        "type": "match",
+        "left": [
+            "10-K",
+            "10-Q",
+            "8-K",
+            "S-1"
+        ],
+        "right": [
+            "Annual report",
+            "Quarterly report",
+            "Current events",
+            "Registration"
+        ]
+    },
+    {
+        "q": "Form 8-K reports material ______ events.",
+        "type": "fill_blank",
+        "answers": [
+            "current"
+        ],
+        "other_options": [
+            "annual",
+            "quarterly",
+            "historical"
+        ]
+    },
+    {
+        "q": "What is Regulation S-X?",
+        "type": "mcq",
+        "o": [
+            "SEC rules for form and content of financial statements",
+            "Tax regulations",
+            "GAAP standards",
+            "Audit standards"
+        ]
+    },
+    {
+        "q": "Regulation S-X prescribes financial statement requirements for SEC filings.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are pro forma financial statements?",
+        "type": "mcq",
+        "o": [
+            "Hypothetical statements showing the effect of proposed transactions",
+            "Historical statements",
+            "Audited statements",
+            "Tax returns"
+        ]
+    },
+    {
+        "q": "Pro forma statements are used for ______ purposes.",
+        "type": "fill_blank",
+        "answers": [
+            "analytical"
+        ],
+        "other_options": [
+            "audit",
+            "tax",
+            "legal"
+        ]
+    },
+    {
+        "q": "What is MD&A?",
+        "type": "mcq",
+        "o": [
+            "Management's Discussion and Analysis - a required SEC narrative",
+            "A financial statement",
+            "An audit report",
+            "A tax form"
+        ]
+    },
+    {
+        "q": "MD&A discusses liquidity, capital resources, and results of operations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a special purpose entity (SPE)?",
+        "type": "mcq",
+        "o": [
+            "An entity created for a specific limited purpose",
+            "A subsidiary",
+            "A parent company",
+            "A partnership"
+        ]
+    },
+    {
+        "q": "Variable interest entities (VIEs) must be ______ if the company is the primary beneficiary.",
+        "type": "fill_blank",
+        "answers": [
+            "consolidated"
+        ],
+        "other_options": [
+            "disclosed",
+            "ignored",
+            "valued"
+        ]
+    },
+    {
+        "q": "What determines the primary beneficiary of a VIE?",
+        "type": "mcq",
+        "o": [
+            "Power to direct activities and obligation to absorb losses or right to receive benefits",
+            "Ownership percentage",
+            "Contract terms only",
+            "Voting rights only"
+        ]
+    },
+    {
+        "q": "Rearrange the FAR topics by complexity:",
+        "type": "rearrange",
+        "words": [
+            "Financial statements",
+            "Revenue recognition",
+            "Leases",
+            "Pensions",
+            "Consolidations"
+        ]
+    },
+    {
+        "q": "What is the credit loss model under ASC 326?",
+        "type": "mcq",
+        "o": [
+            "Current expected credit losses (CECL) - forward-looking loss estimate",
+            "Incurred loss model",
+            "Historical cost only",
+            "No allowance"
+        ]
+    },
+    {
+        "q": "CECL requires estimating expected losses over the life of the asset.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are available-for-sale debt securities under CECL?",
+        "type": "mcq",
+        "o": [
+            "Credit losses recorded in allowance, not writedown",
+            "Written off immediately",
+            "No impairment testing",
+            "Fair value through income"
+        ]
+    },
+    {
+        "q": "AFS debt securities use a ______ model for credit losses.",
+        "type": "fill_blank",
+        "answers": [
+            "allowance"
+        ],
+        "other_options": [
+            "writedown",
+            "reversal",
+            "direct"
+        ]
+    },
+    {
+        "q": "What is the accounting for joint ventures?",
+        "type": "mcq",
+        "o": [
+            "Equity method for significant but not controlling influence",
+            "Consolidation always",
+            "Cost method",
+            "Fair value always"
+        ]
+    },
+    {
+        "q": "Joint ventures are typically accounted for using the equity method.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a noncontrolling interest in a for-profit entity?",
+        "type": "mcq",
+        "o": [
+            "The equity in a subsidiary not attributable to the parent",
+            "Treasury stock",
+            "Retained earnings",
+            "Preferred stock"
+        ]
+    },
+    {
+        "q": "NCI is presented as a component of ______ in consolidated statements.",
+        "type": "fill_blank",
+        "answers": [
+            "equity"
+        ],
+        "other_options": [
+            "liabilities",
+            "assets",
+            "expenses"
+        ]
+    },
+    {
+        "q": "What is common control in combinations?",
+        "type": "mcq",
+        "o": [
+            "Entities under the same ultimate control, requiring different accounting treatment",
+            "Arm's length transaction",
+            "Unrelated parties",
+            "Independent entities"
+        ]
+    },
+    {
+        "q": "Common control transactions may be recorded at ______ rather than fair value.",
+        "type": "fill_blank",
+        "answers": [
+            "carryover basis"
+        ],
+        "other_options": [
+            "current value",
+            "market value",
+            "historical cost"
+        ]
+    },
+    {
+        "q": "What is the receivables financing treatment?",
+        "type": "mcq",
+        "o": [
+            "Determining whether a transfer is a sale or secured borrowing",
+            "Always a sale",
+            "Always borrowing",
+            "No distinction needed"
+        ]
+    },
+    {
+        "q": "Transfers that meet the sale criteria derecognize receivables from the balance sheet.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is software revenue recognition?",
+        "type": "mcq",
+        "o": [
+            "Specific guidance for software licensing now generally under ASC 606",
+            "Always at delivery",
+            "Cash basis only",
+            "No special rules"
+        ]
+    },
+    {
+        "q": "Software hosting is typically recognized ______ under ASC 606.",
+        "type": "fill_blank",
+        "answers": [
+            "over time"
+        ],
+        "other_options": [
+            "at delivery",
+            "at contract",
+            "immediately"
+        ]
+    },
+    {
+        "q": "What is real estate revenue recognition?",
+        "type": "mcq",
+        "o": [
+            "Application of ASC 606 control transfer principles to real estate sales",
+            "Always at closing",
+            "Always deposit method",
+            "No specific rules"
+        ]
+    },
+    {
+        "q": "Real estate sales meet control transfer when buyer can direct use.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is construction contract accounting?",
+        "type": "mcq",
+        "o": [
+            "Revenue recognition for long-term contracts, often over time",
+            "At completion only",
+            "Cash basis",
+            "No recognition"
+        ]
+    },
+    {
+        "q": "Match the construction method with its recognition:",
+        "type": "match",
+        "left": [
+            "Over time",
+            "Point in time"
+        ],
+        "right": [
+            "Progress measurement",
+            "Completion of performance"
+        ]
+    },
+    {
+        "q": "Input methods for measuring progress include cost incurred to ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "total"
+        ],
+        "other_options": [
+            "current",
+            "past",
+            "future"
+        ]
+    },
+    {
+        "q": "What is the output method for measuring progress?",
+        "type": "mcq",
+        "o": [
+            "Measuring progress based on value transferred to customer relative to total value",
+            "Cost-based method",
+            "Input method",
+            "Percentage of contract price received"
+        ]
+    },
+    {
+        "q": "Output methods may use units delivered or milestones achieved.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the percentage-of-completion method?",
+        "type": "mcq",
+        "o": [
+            "Recognizing revenue based on contract progress measured by input or output methods",
+            "Completed contract method",
+            "Cash basis",
+            "Installment method"
+        ]
+    },
+    {
+        "q": "Contract costs expected to be recovered are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capitalized"
+        ],
+        "other_options": [
+            "expensed",
+            "ignored",
+            "deferred"
+        ]
+    },
+    {
+        "q": "What is a loss contract?",
+        "type": "mcq",
+        "o": [
+            "A contract where total expected costs exceed total expected revenue",
+            "A profitable contract",
+            "A cancelled contract",
+            "A modified contract"
+        ]
+    },
+    {
+        "q": "Loss contracts require immediate recognition of the entire expected loss.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is warranty accounting?",
+        "type": "mcq",
+        "o": [
+            "Recognizing estimated warranty costs when revenue is recognized",
+            "Cash basis for repairs",
+            "No recognition until repair",
+            "Revenue deferral"
+        ]
+    },
+    {
+        "q": "Match the warranty type with its accounting:",
+        "type": "match",
+        "left": [
+            "Assurance warranty",
+            "Service warranty"
+        ],
+        "right": [
+            "Accrue as liability",
+            "Separate performance obligation"
+        ]
+    },
+    {
+        "q": "Assurance warranties are ______ with the product sale.",
+        "type": "fill_blank",
+        "answers": [
+            "included"
+        ],
+        "other_options": [
+            "separated",
+            "ignored",
+            "deferred"
+        ]
+    },
+    {
+        "q": "What is extended warranty accounting?",
+        "type": "mcq",
+        "o": [
+            "Separately priced warranty recognized as a separate performance obligation",
+            "Part of product price",
+            "Expensed immediately",
+            "Never recorded"
+        ]
+    },
+    {
+        "q": "Extended warranties are recognized over the ______ period.",
+        "type": "fill_blank",
+        "answers": [
+            "coverage"
+        ],
+        "other_options": [
+            "sale",
+            "product life",
+            "fiscal year"
+        ]
+    },
+    {
+        "q": "What is a contingency?",
+        "type": "mcq",
+        "o": [
+            "An existing condition involving uncertainty as to possible gain or loss",
+            "A certain outcome",
+            "An asset",
+            "Revenue"
+        ]
+    },
+    {
+        "q": "Loss contingencies are accrued when probable and reasonably estimable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the treatment of gain contingencies?",
+        "type": "mcq",
+        "o": [
+            "Disclose but do not recognize until realized",
+            "Recognize immediately",
+            "Ignore",
+            "Estimate and accrue"
+        ]
+    },
+    {
+        "q": "Match the contingency likelihood with its treatment:",
+        "type": "match",
+        "left": [
+            "Probable loss",
+            "Reasonably possible loss",
+            "Remote loss"
+        ],
+        "right": [
+            "Accrue",
+            "Disclose",
+            "No action"
+        ]
+    },
+    {
+        "q": "Litigation losses are accrued when the outcome is ______ and amount is estimable.",
+        "type": "fill_blank",
+        "answers": [
+            "probable"
+        ],
+        "other_options": [
+            "possible",
+            "remote",
+            "certain"
+        ]
+    },
+    {
+        "q": "What is environmental remediation liability?",
+        "type": "mcq",
+        "o": [
+            "Obligation to clean up environmental contamination",
+            "Asset impairment",
+            "Revenue",
+            "Depreciation"
+        ]
+    },
+    {
+        "q": "Environmental liabilities are measured at estimated cost to remediate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a guarantee?",
+        "type": "mcq",
+        "o": [
+            "A promise to pay if another party fails to perform",
+            "An asset",
+            "Revenue",
+            "An investment"
+        ]
+    },
+    {
+        "q": "Guarantees are initially recognized at ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "fair"
+        ],
+        "other_options": [
+            "book",
+            "face",
+            "zero"
+        ]
+    },
+    {
+        "q": "What is compensated absences?",
+        "type": "mcq",
+        "o": [
+            "Paid vacation, sick leave, and holidays earned by employees",
+            "Unpaid leave",
+            "Termination benefits",
+            "Pension benefits"
+        ]
+    },
+    {
+        "q": "Vesting compensated absences must be accrued.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is exit or disposal activity accounting?",
+        "type": "mcq",
+        "o": [
+            "Recognizing costs for discontinuing operations or closing facilities",
+            "Acquisition accounting",
+            "Normal operations",
+            "Revenue recognition"
+        ]
+    },
+    {
+        "q": "Exit costs are recognized when the liability is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "incurred"
+        ],
+        "other_options": [
+            "planned",
+            "announced",
+            "estimated"
+        ]
+    },
+    {
+        "q": "What is restructuring?",
+        "type": "mcq",
+        "o": [
+            "A program planned and controlled by management to change scope or manner of business",
+            "Normal operations",
+            "Acquisition",
+            "Revenue growth"
+        ]
+    },
+    {
+        "q": "Restructuring costs include severance and contract termination costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is discontinued operations?",
+        "type": "mcq",
+        "o": [
+            "A component held for sale or disposed that represents a strategic shift",
+            "Continuing operations",
+            "A segment",
+            "An acquisition"
+        ]
+    },
+    {
+        "q": "Match the discontinued operations element with its presentation:",
+        "type": "match",
+        "left": [
+            "Results",
+            "Gain/loss on disposal",
+            "Assets"
+        ],
+        "right": [
+            "Separate line on income statement",
+            "Part of discontinued operations",
+            "Held for sale classification"
+        ]
+    },
+    {
+        "q": "Discontinued operations are reported ______ income from continuing operations.",
+        "type": "fill_blank",
+        "answers": [
+            "after"
+        ],
+        "other_options": [
+            "before",
+            "with",
+            "as part of"
+        ]
+    },
+    {
+        "q": "What is held for sale classification?",
+        "type": "mcq",
+        "o": [
+            "Assets available for immediate sale and sale is probable within one year",
+            "Assets held for use",
+            "Disposed assets",
+            "Operating assets"
+        ]
+    },
+    {
+        "q": "Held for sale assets are measured at lower of carrying amount or fair value less costs to sell.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a spin-off?",
+        "type": "mcq",
+        "o": [
+            "Distribution of subsidiary shares to existing shareholders",
+            "A merger",
+            "An acquisition",
+            "A liquidation"
+        ]
+    },
+    {
+        "q": "Spin-offs are recorded at ______ value of distributed assets.",
+        "type": "fill_blank",
+        "answers": [
+            "book"
+        ],
+        "other_options": [
+            "fair",
+            "market",
+            "face"
+        ]
+    },
+    {
+        "q": "What is a split-off?",
+        "type": "mcq",
+        "o": [
+            "Exchange of parent shares for subsidiary shares",
+            "A spin-off",
+            "A merger",
+            "A liquidation"
+        ]
+    },
+    {
+        "q": "Split-offs may result in gain or loss recognition.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is liquidation basis accounting?",
+        "type": "mcq",
+        "o": [
+            "Accounting when liquidation is imminent",
+            "Normal GAAP",
+            "Going concern basis",
+            "Tax basis"
+        ]
+    },
+    {
+        "q": "Under liquidation basis, assets are measured at ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "liquidation"
+        ],
+        "other_options": [
+            "book",
+            "historical",
+            "fair"
+        ]
+    },
+    {
+        "q": "What is fresh start accounting?",
+        "type": "mcq",
+        "o": [
+            "Remeasuring assets and liabilities at fair value upon emergence from bankruptcy",
+            "Going concern accounting",
+            "Normal GAAP",
+            "Tax basis"
+        ]
+    },
+    {
+        "q": "Fresh start accounting requires meeting specific criteria.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a restatement?",
+        "type": "mcq",
+        "o": [
+            "Correction of a material error in previously issued financial statements",
+            "A change in estimate",
+            "A change in principle",
+            "Normal update"
+        ]
+    },
+    {
+        "q": "Restatements require disclosure of the ______ of the error.",
+        "type": "fill_blank",
+        "answers": [
+            "nature"
+        ],
+        "other_options": [
+            "date",
+            "amount only",
+            "location"
+        ]
+    },
+    {
+        "q": "What is a big R restatement?",
+        "type": "mcq",
+        "o": [
+            "Material error requiring reissuance of prior financials",
+            "Immaterial correction",
+            "Change in estimate",
+            "Voluntary correction"
+        ]
+    },
+    {
+        "q": "Match the error type with its correction:",
+        "type": "match",
+        "left": [
+            "Material prior period error",
+            "Immaterial prior period error",
+            "Current period error"
+        ],
+        "right": [
+            "Restatement",
+            "Correct in current period",
+            "Correct before issuance"
+        ]
+    },
+    {
+        "q": "What is a little r restatement?",
+        "type": "mcq",
+        "o": [
+            "Error correction in comparative statements without reissuance",
+            "Material error",
+            "Fraud",
+            "Change in principle"
+        ]
+    },
+    {
+        "q": "Little r restatements appear in the ______ comparative statements.",
+        "type": "fill_blank",
+        "answers": [
+            "next issued"
+        ],
+        "other_options": [
+            "same",
+            "prior",
+            "current only"
+        ]
+    },
+    {
+        "q": "What is a concentration of risk?",
+        "type": "mcq",
+        "o": [
+            "Exposure to potential loss from a single counterparty, product, or market",
+            "Diversified risk",
+            "No risk",
+            "Insured risk"
+        ]
+    },
+    {
+        "q": "Concentrations of credit risk require disclosure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a financial instrument with off-balance-sheet risk?",
+        "type": "mcq",
+        "o": [
+            "An instrument with risk of loss exceeding amounts recorded on balance sheet",
+            "No risk instrument",
+            "Cash",
+            "Inventory"
+        ]
+    },
+    {
+        "q": "Off-balance-sheet risk requires ______ of the nature and extent.",
+        "type": "fill_blank",
+        "answers": [
+            "disclosure"
+        ],
+        "other_options": [
+            "recognition",
+            "nothing",
+            "accrual"
+        ]
+    },
+    {
+        "q": "What is a healthcare entity?",
+        "type": "mcq",
+        "o": [
+            "An entity providing healthcare services with specialized accounting",
+            "A manufacturing company",
+            "A retail company",
+            "A bank"
+        ]
+    },
+    {
+        "q": "Healthcare entities recognize charity care as a reduction of revenue.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is higher education accounting?",
+        "type": "mcq",
+        "o": [
+            "Specialized accounting for colleges and universities",
+            "K-12 accounting",
+            "Corporate accounting",
+            "Government accounting only"
+        ]
+    },
+    {
+        "q": "Tuition revenue is recognized ______ the academic period.",
+        "type": "fill_blank",
+        "answers": [
+            "over"
+        ],
+        "other_options": [
+            "before",
+            "after",
+            "at start of"
+        ]
+    },
+    {
+        "q": "What is a broker-dealer?",
+        "type": "mcq",
+        "o": [
+            "A registered entity engaged in securities transactions",
+            "A bank",
+            "An insurance company",
+            "A manufacturer"
+        ]
+    },
+    {
+        "q": "Broker-dealers have specialized revenue recognition for commissions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is insurance accounting?",
+        "type": "mcq",
+        "o": [
+            "Specialized accounting for insurance contracts and reserves",
+            "Normal GAAP",
+            "Bank accounting",
+            "Retail accounting"
+        ]
+    },
+    {
+        "q": "Insurance loss reserves are estimates of ______ claims.",
+        "type": "fill_blank",
+        "answers": [
+            "future"
+        ],
+        "other_options": [
+            "past",
+            "current",
+            "historical"
+        ]
+    },
+    {
+        "q": "What is banking and thrift institution accounting?",
+        "type": "mcq",
+        "o": [
+            "Specialized accounting for deposit-taking and lending activities",
+            "Manufacturing accounting",
+            "Retail accounting",
+            "Healthcare accounting"
+        ]
+    },
+    {
+        "q": "Loan loss provisions reduce the value of loan receivables.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a participation right?",
+        "type": "mcq",
+        "o": [
+            "A right to receive distributions beyond a basic dividend",
+            "Voting right only",
+            "Conversion right",
+            "Redemption right"
+        ]
+    },
+    {
+        "q": "Participating securities affect ______ EPS calculation.",
+        "type": "fill_blank",
+        "answers": [
+            "basic"
+        ],
+        "other_options": [
+            "diluted only",
+            "neither",
+            "consolidated"
+        ]
+    },
+    {
+        "q": "What is the two-class method for EPS?",
+        "type": "mcq",
+        "o": [
+            "Allocating earnings to common stock and participating securities",
+            "Single class method",
+            "No allocation",
+            "Revenue allocation"
+        ]
+    },
+    {
+        "q": "The two-class method is used when participating securities exist.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a warrant?",
+        "type": "mcq",
+        "o": [
+            "A long-term option to purchase stock at a specified price",
+            "Common stock",
+            "Preferred stock",
+            "A bond"
+        ]
+    },
+    {
+        "q": "Warrants are potentially ______ securities.",
+        "type": "fill_blank",
+        "answers": [
+            "dilutive"
+        ],
+        "other_options": [
+            "antidilutive",
+            "neutral",
+            "converted"
+        ]
+    },
+    {
+        "q": "What is the weighted average shares calculation?",
+        "type": "mcq",
+        "o": [
+            "Time-weighting shares based on when they were outstanding",
+            "Simple average",
+            "Ending shares",
+            "Beginning shares"
+        ]
+    },
+    {
+        "q": "Stock splits are applied ______ to all periods presented.",
+        "type": "fill_blank",
+        "answers": [
+            "retroactively"
+        ],
+        "other_options": [
+            "prospectively",
+            "currently",
+            "never"
+        ]
+    },
+    {
+        "q": "What is a contingent share arrangement?",
+        "type": "mcq",
+        "o": [
+            "Shares issuable upon satisfaction of specified conditions",
+            "Outstanding shares",
+            "Treasury shares",
+            "Retired shares"
+        ]
+    },
+    {
+        "q": "Contingent shares affect EPS when conditions are met.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a complex capital structure?",
+        "type": "mcq",
+        "o": [
+            "A capital structure with potentially dilutive securities",
+            "Simple capital structure",
+            "All equity",
+            "All debt"
+        ]
+    },
+    {
+        "q": "Companies with complex capital structures must present ______ EPS.",
+        "type": "fill_blank",
+        "answers": [
+            "both basic and diluted"
+        ],
+        "other_options": [
+            "only basic",
+            "only diluted",
+            "neither"
+        ]
+    },
+    {
+        "q": "What is a redeemable preferred stock?",
+        "type": "mcq",
+        "o": [
+            "Preferred stock that must be redeemed at holder's option or specified date",
+            "Common stock",
+            "Treasury stock",
+            "Convertible bond"
+        ]
+    },
+    {
+        "q": "Mandatorily redeemable preferred is classified as a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "liability"
+        ],
+        "other_options": [
+            "equity",
+            "asset",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is temporary equity?",
+        "type": "mcq",
+        "o": [
+            "Equity that could require cash redemption under certain conditions",
+            "Permanent equity",
+            "Liability",
+            "Asset"
+        ]
+    },
+    {
+        "q": "Temporary equity is presented between liabilities and permanent equity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is pushdown goodwill?",
+        "type": "mcq",
+        "o": [
+            "Goodwill recorded on subsidiary books after acquisition",
+            "Parent-level goodwill only",
+            "No goodwill",
+            "Negative goodwill"
+        ]
+    },
+    {
+        "q": "Pushdown accounting records fair value adjustments on the ______ books.",
+        "type": "fill_blank",
+        "answers": [
+            "subsidiary"
+        ],
+        "other_options": [
+            "parent",
+            "consolidated",
+            "holding company"
+        ]
+    },
+    {
+        "q": "What is the complete set of financial statements?",
+        "type": "mcq",
+        "o": [
+            "Balance sheet, income statement, comprehensive income, cash flows, and equity changes",
+            "Balance sheet only",
+            "Income statement only",
+            "Cash flow only"
+        ]
+    },
+    {
+        "q": "Notes to financial statements are an ______ part of the statements.",
+        "type": "fill_blank",
+        "answers": [
+            "integral"
+        ],
+        "other_options": [
+            "optional",
+            "separate",
+            "minor"
+        ]
+    },
+    {
+        "q": "What is comparative financial statement presentation?",
+        "type": "mcq",
+        "o": [
+            "Presenting current and prior period statements side by side",
+            "Single period presentation",
+            "Quarterly only",
+            "Annual only"
+        ]
+    },
+    {
+        "q": "Comparative statements enhance ______.",
+        "type": "fill_blank",
+        "answers": [
+            "comparability"
+        ],
+        "other_options": [
+            "complexity",
+            "length",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is the liquidity order of balance sheet presentation?",
+        "type": "mcq",
+        "o": [
+            "Most liquid assets first (US GAAP) or least liquid first (IFRS option)",
+            "Random order",
+            "Alphabetical",
+            "Size order"
+        ]
+    },
+    {
+        "q": "US GAAP typically presents assets in ______ liquidity order.",
+        "type": "fill_blank",
+        "answers": [
+            "decreasing"
+        ],
+        "other_options": [
+            "increasing",
+            "random",
+            "alphabetical"
+        ]
+    },
+    {
+        "q": "What is the nature of expense classification?",
+        "type": "mcq",
+        "o": [
+            "Classifying expenses by type (salaries, depreciation, etc.)",
+            "Functional classification",
+            "Random classification",
+            "No classification"
+        ]
+    },
+    {
+        "q": "IFRS allows expense presentation by nature or ______.",
+        "type": "fill_blank",
+        "answers": [
+            "function"
+        ],
+        "other_options": [
+            "size",
+            "date",
+            "department"
+        ]
+    },
+    {
+        "q": "What is the direct method of cash flows?",
+        "type": "mcq",
+        "o": [
+            "Showing major classes of operating cash receipts and payments",
+            "Adjusting net income",
+            "No operating section",
+            "Balance sheet method"
+        ]
+    },
+    {
+        "q": "The direct method is ______ by standard setters.",
+        "type": "fill_blank",
+        "answers": [
+            "preferred"
+        ],
+        "other_options": [
+            "prohibited",
+            "required",
+            "the only method"
+        ]
+    },
+    {
+        "q": "What is a special purpose framework?",
+        "type": "mcq",
+        "o": [
+            "A non-GAAP framework such as cash, tax, or regulatory basis",
+            "US GAAP",
+            "IFRS",
+            "Governmental GAAP"
+        ]
+    },
+    {
+        "q": "Special purpose framework financial statements require disclosure of the basis used.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the financial statement elements by priority:",
+        "type": "rearrange",
+        "words": [
+            "Assets",
+            "Liabilities",
+            "Equity",
+            "Revenue",
+            "Expenses"
+        ]
+    },
+    {
+        "q": "What is personal financial statement accounting?",
+        "type": "mcq",
+        "o": [
+            "Financial statements prepared for individuals using estimated current values",
+            "Corporate statements",
+            "Government statements",
+            "Nonprofit statements"
+        ]
+    },
+    {
+        "q": "Personal financial statements present assets at estimated ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "current"
+        ],
+        "other_options": [
+            "historical",
+            "book",
+            "tax"
+        ]
+    },
+    {
+        "q": "What is development stage entity accounting?",
+        "type": "mcq",
+        "o": [
+            "No longer a separate presentation; same GAAP as operating entities",
+            "Special depreciation",
+            "No revenue recognition",
+            "All costs capitalized"
+        ]
+    },
+    {
+        "q": "Development stage presentation has been eliminated under current GAAP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a callable debt?",
+        "type": "mcq",
+        "o": [
+            "Debt the issuer can redeem before maturity",
+            "Non-redeemable debt",
+            "Convertible debt",
+            "Zero-coupon debt"
+        ]
+    },
+    {
+        "q": "Callable debt may result in ______ or loss on redemption.",
+        "type": "fill_blank",
+        "answers": [
+            "gain"
+        ],
+        "other_options": [
+            "only loss",
+            "neither",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is a put option on debt?",
+        "type": "mcq",
+        "o": [
+            "Holder's right to demand repayment before maturity",
+            "Issuer's option",
+            "Conversion right",
+            "No right"
+        ]
+    },
+    {
+        "q": "Puttable debt may be classified as current if put date is within one year.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a covenant?",
+        "type": "mcq",
+        "o": [
+            "A restriction or requirement in a debt agreement",
+            "An asset",
+            "Revenue",
+            "A liability type"
+        ]
+    },
+    {
+        "q": "Covenant violations may trigger ______ classification of debt.",
+        "type": "fill_blank",
+        "answers": [
+            "current"
+        ],
+        "other_options": [
+            "long-term",
+            "off-balance sheet",
+            "no change in"
+        ]
+    },
+    {
+        "q": "What is subjective acceleration clause?",
+        "type": "mcq",
+        "o": [
+            "A clause allowing lender to accelerate for subjective reasons",
+            "Objective clause",
+            "Standard clause",
+            "No acceleration"
+        ]
+    },
+    {
+        "q": "Subjective acceleration does not automatically require current classification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is refinancing of short-term debt?",
+        "type": "mcq",
+        "o": [
+            "Replacing short-term debt with long-term financing",
+            "Paying off debt",
+            "Increasing debt",
+            "Converting to equity"
+        ]
+    },
+    {
+        "q": "Short-term debt may be classified as long-term if refinancing is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "demonstrated"
+        ],
+        "other_options": [
+            "impossible",
+            "unlikely",
+            "prohibited"
+        ]
+    },
+    {
+        "q": "What is extinguishment of debt?",
+        "type": "mcq",
+        "o": [
+            "Satisfying a debt obligation through payment, exchange, or legal release",
+            "Issuing new debt",
+            "Refinancing",
+            "Renegotiating"
+        ]
+    },
+    {
+        "q": "Debt extinguishment results in gain or loss based on ______ and amount paid.",
+        "type": "fill_blank",
+        "answers": [
+            "carrying value"
+        ],
+        "other_options": [
+            "face value",
+            "original amount",
+            "market rate"
+        ]
+    },
+    {
+        "q": "What is in-substance defeasance?",
+        "type": "mcq",
+        "o": [
+            "Setting aside assets to pay debt but not achieving extinguishment",
+            "Legal defeasance",
+            "Debt forgiveness",
+            "Refinancing"
+        ]
+    },
+    {
+        "q": "In-substance defeasance does not remove the liability from the balance sheet.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a capital lease under old guidance?",
+        "type": "mcq",
+        "o": [
+            "A lease that transfers substantially all risks and rewards, now called finance lease",
+            "An operating lease",
+            "A short-term lease",
+            "A service contract"
+        ]
+    },
+    {
+        "q": "ASC 842 replaced the old lease standard (ASC 840).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the lessee incremental borrowing rate?",
+        "type": "mcq",
+        "o": [
+            "The rate a lessee would pay to borrow funds for a similar term and security",
+            "The lessor's rate",
+            "The prime rate",
+            "The risk-free rate"
+        ]
+    },
+    {
+        "q": "If implicit rate is not readily determinable, use the ______ borrowing rate.",
+        "type": "fill_blank",
+        "answers": [
+            "incremental"
+        ],
+        "other_options": [
+            "stated",
+            "prime",
+            "average"
+        ]
+    },
+    {
+        "q": "What is included in lease payments?",
+        "type": "mcq",
+        "o": [
+            "Fixed payments, purchase options reasonably certain, residual guarantees, and termination penalties",
+            "Only fixed payments",
+            "Only variable payments",
+            "Only deposits"
+        ]
+    },
+    {
+        "q": "Variable lease payments based on an index are ______ in the lease liability.",
+        "type": "fill_blank",
+        "answers": [
+            "included"
+        ],
+        "other_options": [
+            "excluded",
+            "deferred",
+            "ignored"
+        ]
+    },
+    {
+        "q": "What is a lessor sales-type lease?",
+        "type": "mcq",
+        "o": [
+            "A lease where the lessor derecognizes the asset and recognizes a receivable and profit",
+            "An operating lease",
+            "A direct financing lease",
+            "A short-term lease"
+        ]
+    },
+    {
+        "q": "Match the lessor lease classification with its accounting:",
+        "type": "match",
+        "left": [
+            "Sales-type",
+            "Direct financing",
+            "Operating"
+        ],
+        "right": [
+            "Profit at inception",
+            "Interest income over time",
+            "Rental income"
+        ]
+    },
+    {
+        "q": "What is a direct financing lease?",
+        "type": "mcq",
+        "o": [
+            "A lease where the lessor recognizes a receivable but defers any profit",
+            "A sales-type lease",
+            "An operating lease",
+            "A failed lease"
+        ]
+    },
+    {
+        "q": "Direct financing leases recognize profit over the ______ term.",
+        "type": "fill_blank",
+        "answers": [
+            "lease"
+        ],
+        "other_options": [
+            "asset",
+            "contract",
+            "payment"
+        ]
+    },
+    {
+        "q": "What is sale-leaseback accounting?",
+        "type": "mcq",
+        "o": [
+            "A seller sells an asset and leases it back, requiring analysis of whether sale criteria are met",
+            "A simple sale",
+            "A simple lease",
+            "A financing transaction only"
+        ]
+    },
+    {
+        "q": "If a sale-leaseback fails sale criteria, it is a ______ arrangement.",
+        "type": "fill_blank",
+        "answers": [
+            "financing"
+        ],
+        "other_options": [
+            "lease",
+            "operating",
+            "failed"
+        ]
+    },
+    {
+        "q": "What is a leveraged lease?",
+        "type": "mcq",
+        "o": [
+            "Old guidance for leases involving significant third-party financing",
+            "A current GAAP classification",
+            "A short-term lease",
+            "An operating lease"
+        ]
+    },
+    {
+        "q": "Leveraged lease accounting was eliminated under ASC 842.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the accounting for lease modifications?",
+        "type": "mcq",
+        "o": [
+            "Remeasure the lease liability using a revised discount rate for certain modifications",
+            "No change",
+            "Expense immediately",
+            "Capitalize entirely"
+        ]
+    },
+    {
+        "q": "A modification that is a separate contract is treated as a ______ lease.",
+        "type": "fill_blank",
+        "answers": [
+            "new"
+        ],
+        "other_options": [
+            "continuation of the original",
+            "cancelled",
+            "failed"
+        ]
+    },
+    {
+        "q": "What is the low-value asset exemption?",
+        "type": "mcq",
+        "o": [
+            "An IFRS 16 option to not recognize ROU assets for low-value items",
+            "US GAAP requirement",
+            "Governmental exemption",
+            "No such exemption exists"
+        ]
+    },
+    {
+        "q": "US GAAP does not have an explicit low-value lease exemption.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the portfolio approach for leases?",
+        "type": "mcq",
+        "o": [
+            "Applying lease guidance to a portfolio of similar leases",
+            "Individual lease analysis only",
+            "No grouping allowed",
+            "Tax approach"
+        ]
+    },
+    {
+        "q": "The portfolio approach is allowed when results are not ______ different.",
+        "type": "fill_blank",
+        "answers": [
+            "materially"
+        ],
+        "other_options": [
+            "slightly",
+            "completely",
+            "always"
+        ]
+    },
+    {
+        "q": "What is the accounting for initial direct costs?",
+        "type": "mcq",
+        "o": [
+            "Costs directly attributable to negotiating and arranging the lease",
+            "All costs",
+            "No costs",
+            "Only legal fees"
+        ]
+    },
+    {
+        "q": "Initial direct costs are ______ to the ROU asset or lease receivable.",
+        "type": "fill_blank",
+        "answers": [
+            "added"
+        ],
+        "other_options": [
+            "expensed",
+            "ignored",
+            "deferred separately"
+        ]
+    },
+    {
+        "q": "What is embedded derivative in a lease?",
+        "type": "mcq",
+        "o": [
+            "A derivative feature within the lease that may require separate accounting",
+            "No such concept",
+            "Only equity instruments",
+            "Only debt instruments"
+        ]
+    },
+    {
+        "q": "Embedded derivatives in leases are assessed under ASC 815.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is software capitalization under GAAP?",
+        "type": "mcq",
+        "o": [
+            "Capitalizing costs after technological feasibility for software sold, or application development for internal-use",
+            "Expense all costs",
+            "Capitalize all costs",
+            "No guidance exists"
+        ]
+    },
+    {
+        "q": "Internal-use software costs in the application development stage are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capitalized"
+        ],
+        "other_options": [
+            "expensed",
+            "ignored",
+            "deferred"
+        ]
+    },
+    {
+        "q": "What is technological feasibility for software?",
+        "type": "mcq",
+        "o": [
+            "The point when program design, coding, and testing are complete or working model exists",
+            "Project inception",
+            "Sale of product",
+            "After all development"
+        ]
+    },
+    {
+        "q": "Costs before technological feasibility are expensed as R&D.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cloud computing arrangement (CCA) accounting?",
+        "type": "mcq",
+        "o": [
+            "Determining whether arrangement includes a software license or is a service contract",
+            "Always capitalize",
+            "Always expense",
+            "No guidance"
+        ]
+    },
+    {
+        "q": "CCAs without software license are expensed over the ______ period.",
+        "type": "fill_blank",
+        "answers": [
+            "service"
+        ],
+        "other_options": [
+            "asset",
+            "contract",
+            "perpetual"
+        ]
+    },
+    {
+        "q": "What is implementation cost for hosted CCA?",
+        "type": "mcq",
+        "o": [
+            "Costs to implement software in a hosting arrangement, potentially capitalizable",
+            "Always expensed",
+            "Always capitalized as software",
+            "Ignored"
+        ]
+    },
+    {
+        "q": "CCA implementation costs are presented as prepaid assets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is website development cost accounting?",
+        "type": "mcq",
+        "o": [
+            "Capitalizing costs for graphics and content development during application stage",
+            "Expense all",
+            "Capitalize all",
+            "No guidance"
+        ]
+    },
+    {
+        "q": "Website planning stage costs are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "expensed"
+        ],
+        "other_options": [
+            "capitalized",
+            "deferred",
+            "ignored"
+        ]
+    },
+    {
+        "q": "What is broadcast rights accounting?",
+        "type": "mcq",
+        "o": [
+            "Accounting for rights to broadcast content over a license period",
+            "Only for radio",
+            "Only for television",
+            "No special accounting"
+        ]
+    },
+    {
+        "q": "Broadcast rights are typically amortized as content is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "broadcast"
+        ],
+        "other_options": [
+            "purchased",
+            "recorded",
+            "edited"
+        ]
+    },
+    {
+        "q": "What is film industry accounting?",
+        "type": "mcq",
+        "o": [
+            "Specialized accounting for film production, distribution, and exhibition",
+            "Normal inventory",
+            "Normal PPE",
+            "No special rules"
+        ]
+    },
+    {
+        "q": "Film costs are capitalized and amortized using the individual-film-forecast-computation method.",
+        "type": "true_false",
+        "correct": "true"
+    },
+    {
+        "q": "What is participating interest accounting?",
+        "type": "mcq",
+        "o": [
+            "Recording obligations to share film revenues with talent and others",
+            "Only equity",
+            "Only debt",
+            "No obligation"
+        ]
+    },
+    {
+        "q": "Participating interests are accrued as ______ is recognized.",
+        "type": "fill_blank",
+        "answers": [
+            "revenue"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "asset"
+        ]
+    },
+    {
+        "q": "What is royalty accounting?",
+        "type": "mcq",
+        "o": [
+            "Recognizing royalty revenue when earned and royalty expense when incurred",
+            "Cash basis only",
+            "Only for publishers",
+            "No special rules"
+        ]
+    },
+    {
+        "q": "Royalty revenue is typically recognized over the ______ period.",
+        "type": "fill_blank",
+        "answers": [
+            "license"
+        ],
+        "other_options": [
+            "payment",
+            "fiscal",
+            "calendar"
+        ]
+    },
+    {
+        "q": "What is franchise fee accounting?",
+        "type": "mcq",
+        "o": [
+            "Recognizing franchise fees as performance obligations are satisfied",
+            "Cash receipt basis",
+            "At contract signing",
+            "No recognition"
+        ]
+    },
+    {
+        "q": "Initial franchise fees are often recognized over the ______ term.",
+        "type": "fill_blank",
+        "answers": [
+            "franchise"
+        ],
+        "other_options": [
+            "payment",
+            "calendar",
+            "fiscal"
+        ]
+    },
+    {
+        "q": "What is advertising cost accounting?",
+        "type": "mcq",
+        "o": [
+            "Generally expense as incurred or when first aired",
+            "Always capitalize",
+            "Defer indefinitely",
+            "No guidance"
+        ]
+    },
+    {
+        "q": "Direct response advertising may be ______ if criteria are met.",
+        "type": "fill_blank",
+        "answers": [
+            "capitalized"
+        ],
+        "other_options": [
+            "expensed",
+            "ignored",
+            "deferred indefinitely"
+        ]
+    },
+    {
+        "q": "What is preproduction cost accounting?",
+        "type": "mcq",
+        "o": [
+            "Costs incurred before production begins that may or may not be capitalizable",
+            "Always expense",
+            "Always capitalize",
+            "Not addressed by GAAP"
+        ]
+    },
+    {
+        "q": "Preproduction design and development costs for long-term contracts may be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capitalized"
+        ],
+        "other_options": [
+            "expensed immediately",
+            "ignored",
+            "deferred"
+        ]
+    },
+    {
+        "q": "What is start-up cost accounting?",
+        "type": "mcq",
+        "o": [
+            "Expense start-up and organization costs as incurred",
+            "Capitalize all",
+            "Defer",
+            "No guidance"
+        ]
+    },
+    {
+        "q": "Organization costs are ______ under GAAP.",
+        "type": "fill_blank",
+        "answers": [
+            "expensed"
+        ],
+        "other_options": [
+            "capitalized",
+            "deferred",
+            "ignored"
+        ]
+    },
+    {
+        "q": "What is a contract cost prepayment?",
+        "type": "mcq",
+        "o": [
+            "An asset representing payments made before performance",
+            "A liability",
+            "Revenue",
+            "Expense"
+        ]
+    },
+    {
+        "q": "Prepaid contract costs are expensed as the related ______ is consumed.",
+        "type": "fill_blank",
+        "answers": [
+            "service"
+        ],
+        "other_options": [
+            "cash",
+            "asset",
+            "inventory"
+        ]
+    },
+    {
+        "q": "What is the markdown cancellation in retail inventory method?",
+        "type": "mcq",
+        "o": [
+            "A reversal of a previous markdown back toward original price",
+            "Additional markdown",
+            "Markup",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "Markdown cancellations increase the cost-to-retail ratio.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the conventional retail inventory method?",
+        "type": "mcq",
+        "o": [
+            "Excludes markdowns from cost-to-retail ratio to approximate lower of cost or market",
+            "Includes markdowns",
+            "Uses LIFO",
+            "Uses FIFO only"
+        ]
+    },
+    {
+        "q": "The conventional method produces a ______ inventory value than the cost method.",
+        "type": "fill_blank",
+        "answers": [
+            "lower"
+        ],
+        "other_options": [
+            "higher",
+            "same",
+            "variable"
+        ]
+    },
+    {
+        "q": "What is the dollar-value LIFO method?",
+        "type": "mcq",
+        "o": [
+            "LIFO applied to dollar pools rather than unit quantities",
+            "Standard LIFO",
+            "FIFO",
+            "Weighted average"
+        ]
+    },
+    {
+        "q": "Dollar-value LIFO uses price ______ to adjust for inflation.",
+        "type": "fill_blank",
+        "answers": [
+            "indices"
+        ],
+        "other_options": [
+            "lists",
+            "tags",
+            "codes"
+        ]
+    },
+    {
+        "q": "What is a LIFO layer?",
+        "type": "mcq",
+        "o": [
+            "An increment of inventory added at a particular price level",
+            "FIFO base",
+            "Weighted average",
+            "Current cost"
+        ]
+    },
+    {
+        "q": "LIFO layers are ______ into before being liquidated.",
+        "type": "fill_blank",
+        "answers": [
+            "dipped"
+        ],
+        "other_options": [
+            "added",
+            "averaged",
+            "ignored"
+        ]
+    },
+    {
+        "q": "What is gross profit method for inventory?",
+        "type": "mcq",
+        "o": [
+            "Estimating ending inventory using historical gross profit percentage",
+            "Physical count",
+            "Perpetual system",
+            "Exact costing"
+        ]
+    },
+    {
+        "q": "Gross profit method is used for ______ financial statements.",
+        "type": "fill_blank",
+        "answers": [
+            "interim"
+        ],
+        "other_options": [
+            "annual",
+            "audit",
+            "tax"
+        ]
+    },
+    {
+        "q": "What is consigned inventory?",
+        "type": "mcq",
+        "o": [
+            "Inventory held by another party but still owned by the consignor",
+            "Sold inventory",
+            "Purchased inventory",
+            "Obsolete inventory"
+        ]
+    },
+    {
+        "q": "Consigned inventory remains on the ______ balance sheet.",
+        "type": "fill_blank",
+        "answers": [
+            "consignor's"
+        ],
+        "other_options": [
+            "consignee's",
+            "customer's",
+            "no one's"
+        ]
+    },
+    {
+        "q": "What is a product financing arrangement?",
+        "type": "mcq",
+        "o": [
+            "A sale with obligation to repurchase that is accounted for as financing",
+            "A true sale",
+            "A lease",
+            "An operating transaction"
+        ]
+    },
+    {
+        "q": "Product financing does not transfer ______ of inventory.",
+        "type": "fill_blank",
+        "answers": [
+            "ownership"
+        ],
+        "other_options": [
+            "possession",
+            "custody",
+            "storage"
+        ]
+    },
+    {
+        "q": "What is the retail land sales accounting?",
+        "type": "mcq",
+        "o": [
+            "Specialized guidance for sales of lots or land parcels to retail buyers",
+            "Normal real estate",
+            "Commercial sales",
+            "No special rules"
+        ]
+    },
+    {
+        "q": "Retail land sales may use the percentage-of-completion method.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an installment sale?",
+        "type": "mcq",
+        "o": [
+            "A sale where payment is received over an extended period",
+            "A cash sale",
+            "A credit sale collected quickly",
+            "A lease"
+        ]
+    },
+    {
+        "q": "Under GAAP, most installment sales recognize revenue ______.",
+        "type": "fill_blank",
+        "answers": [
+            "at sale"
+        ],
+        "other_options": [
+            "as cash received",
+            "at maturity",
+            "never"
+        ]
+    },
+    {
+        "q": "What is the cost recovery method?",
+        "type": "mcq",
+        "o": [
+            "No profit recognized until all costs are recovered through cash receipts",
+            "Percentage of completion",
+            "Completed contract",
+            "Normal revenue recognition"
+        ]
+    },
+    {
+        "q": "Cost recovery is used when collection is highly ______.",
+        "type": "fill_blank",
+        "answers": [
+            "uncertain"
+        ],
+        "other_options": [
+            "certain",
+            "probable",
+            "guaranteed"
+        ]
+    },
+    {
+        "q": "What is bill-and-hold arrangement?",
+        "type": "mcq",
+        "o": [
+            "Customer takes title but seller retains possession at customer's request",
+            "Normal sale",
+            "Consignment",
+            "Lease"
+        ]
+    },
+    {
+        "q": "Bill-and-hold requires specific ______ transfer criteria.",
+        "type": "fill_blank",
+        "answers": [
+            "control"
+        ],
+        "other_options": [
+            "cash",
+            "invoice",
+            "shipping"
+        ]
+    },
+    {
+        "q": "What is the right of return accounting?",
+        "type": "mcq",
+        "o": [
+            "Estimating returns and recording a refund liability and asset for returned goods",
+            "Ignoring returns",
+            "Full revenue deferral",
+            "No liability"
+        ]
+    },
+    {
+        "q": "Return assets are measured at the ______ expected carrying amount.",
+        "type": "fill_blank",
+        "answers": [
+            "former"
+        ],
+        "other_options": [
+            "current",
+            "fair",
+            "market"
+        ]
+    },
+    {
+        "q": "What is a loyalty program in revenue recognition?",
+        "type": "mcq",
+        "o": [
+            "Customer rewards that represent a separate performance obligation",
+            "Marketing expense only",
+            "Not part of revenue",
+            "Liability only"
+        ]
+    },
+    {
+        "q": "Loyalty points allocate a portion of transaction price as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "deferred revenue"
+        ],
+        "other_options": [
+            "expense",
+            "asset",
+            "immediate revenue"
+        ]
+    },
+    {
+        "q": "What is gift card breakage?",
+        "type": "mcq",
+        "o": [
+            "The portion of gift cards not expected to be redeemed",
+            "All gift cards",
+            "Refunded amounts",
+            "Initial sale"
+        ]
+    },
+    {
+        "q": "Breakage is recognized in proportion to ______ redemptions.",
+        "type": "fill_blank",
+        "answers": [
+            "pattern of"
+        ],
+        "other_options": [
+            "all",
+            "initial",
+            "expected future"
+        ]
+    },
+    {
+        "q": "What is slotting fee accounting?",
+        "type": "mcq",
+        "o": [
+            "Payments to retailers for shelf space treated as reduction of revenue",
+            "An asset",
+            "An expense only",
+            "Capitalized cost"
+        ]
+    },
+    {
+        "q": "Slotting fees reduce transaction ______.",
+        "type": "fill_blank",
+        "answers": [
+            "price"
+        ],
+        "other_options": [
+            "cost",
+            "volume",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is cooperative advertising?",
+        "type": "mcq",
+        "o": [
+            "Vendor funding of retailer advertising, often reducing revenue",
+            "Only an expense",
+            "Only an asset",
+            "Capitalized"
+        ]
+    },
+    {
+        "q": "Cooperative advertising from vendor to customer is generally a ______ of revenue.",
+        "type": "fill_blank",
+        "answers": [
+            "reduction"
+        ],
+        "other_options": [
+            "addition",
+            "capitalization",
+            "deferral"
+        ]
+    },
+    {
+        "q": "What is a material right in revenue recognition?",
+        "type": "mcq",
+        "o": [
+            "A right that provides a benefit the customer would not receive without the contract",
+            "No value",
+            "A liability",
+            "An expense"
+        ]
+    },
+    {
+        "q": "Material rights are accounted for as separate ______ obligations.",
+        "type": "fill_blank",
+        "answers": [
+            "performance"
+        ],
+        "other_options": [
+            "payment",
+            "delivery",
+            "contract"
+        ]
+    },
+    {
+        "q": "Rearrange revenue recognition hierarchy:",
+        "type": "rearrange",
+        "words": [
+            "Contract identification",
+            "Obligation identification",
+            "Price determination",
+            "Price allocation",
+            "Revenue recognition"
+        ]
+    },
+    {
+        "q": "What is a significant financing component?",
+        "type": "mcq",
+        "o": [
+            "When payment timing provides customer or entity with financing benefit exceeding one year",
+            "All payment terms",
+            "Cash sales only",
+            "Short-term credit"
+        ]
+    },
+    {
+        "q": "Significant financing adjusts the transaction price for time value of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "money"
+        ],
+        "other_options": [
+            "goods",
+            "services",
+            "inventory"
+        ]
+    },
+    {
+        "q": "What is the practical expedient for significant financing?",
+        "type": "mcq",
+        "o": [
+            "Ignore significant financing if payment is within one year of transfer",
+            "Always adjust",
+            "Never adjust",
+            "Use only for cash sales"
+        ]
+    },
+    {
+        "q": "The one-year practical expedient eliminates the need to ______ for time value.",
+        "type": "fill_blank",
+        "answers": [
+            "adjust"
+        ],
+        "other_options": [
+            "calculate",
+            "report",
+            "estimate"
+        ]
+    },
+    {
+        "q": "What is a nonrefundable upfront fee?",
+        "type": "mcq",
+        "o": [
+            "A payment at contract inception that may not relate to a distinct good or service",
+            "Always revenue immediately",
+            "Always deferred",
+            "A refund"
+        ]
+    },
+    {
+        "q": "Nonrefundable fees without distinct goods are recognized over the ______ period.",
+        "type": "fill_blank",
+        "answers": [
+            "service"
+        ],
+        "other_options": [
+            "payment",
+            "contract only",
+            "fiscal"
+        ]
+    },
+    {
+        "q": "What is the capitalize-or-expense threshold?",
+        "type": "mcq",
+        "o": [
+            "The policy determining when expenditures are capitalized vs. expensed",
+            "A fixed dollar amount",
+            "A percentage",
+            "A GAAP rule"
+        ]
+    },
+    {
+        "q": "Capitalization thresholds are set by ______ policy.",
+        "type": "fill_blank",
+        "answers": [
+            "company"
+        ],
+        "other_options": [
+            "GAAP",
+            "IRS",
+            "industry"
+        ]
+    },
+    {
+        "q": "What is asset impairment in NFP entities?",
+        "type": "mcq",
+        "o": [
+            "Similar to for-profit impairment testing for long-lived assets",
+            "Not applicable to NFP",
+            "Different standards",
+            "No testing required"
+        ]
+    },
+    {
+        "q": "NFP long-lived assets are tested for impairment using the same guidance as for-profit entities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is contributed services in NFP accounting?",
+        "type": "mcq",
+        "o": [
+            "Donated services recognized if they create or enhance nonfinancial assets or require specialized skills",
+            "All volunteering",
+            "Never recognized",
+            "Always recognized"
+        ]
+    },
+    {
+        "q": "Contributed services are recognized at ______ value.",
+        "type": "fill_blank",
+        "answers": [
+            "fair"
+        ],
+        "other_options": [
+            "book",
+            "historical",
+            "zero"
+        ]
+    },
+    {
+        "q": "What is split-interest agreement?",
+        "type": "mcq",
+        "o": [
+            "An arrangement where the NFP shares interest with other beneficiaries",
+            "A simple gift",
+            "An exchange transaction",
+            "A grant"
+        ]
+    },
+    {
+        "q": "Examples of split-interest agreements include charitable remainder ______.",
+        "type": "fill_blank",
+        "answers": [
+            "trusts"
+        ],
+        "other_options": [
+            "gifts",
+            "donations",
+            "grants"
+        ]
+    },
+    {
+        "q": "What is collection items accounting for NFPs?",
+        "type": "mcq",
+        "o": [
+            "NFPs may elect to not recognize collections if specific conditions are met",
+            "Must capitalize all",
+            "Must expense all",
+            "No guidance"
+        ]
+    },
+    {
+        "q": "If collections are capitalized, they are typically not ______.",
+        "type": "fill_blank",
+        "answers": [
+            "depreciated"
+        ],
+        "other_options": [
+            "valued",
+            "displayed",
+            "insured"
+        ]
+    }
+]

@@ -1,0 +1,143 @@
+{
+    "id": "learn_cima_f2",
+    "topicId": "cima_f2",
+    "topicTitle": "F2 - Advanced Financial Reporting",
+    "description": "Master CIMA F2 covering Complex Groups, Financial Instruments, and Current Issues",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "f2_1",
+            "type": "content",
+            "title": "Welcome to CIMA F2",
+            "content": "# F2 - Advanced Financial Reporting\n\nF2 covers **complex reporting** and **analysis**.\n\n## What You Will Learn\n\n- **Groups** - Complex structures\n- **Standards** - Advanced IFRS\n- **Analysis** - Interpretation\n- **Issues** - Current developments\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Group accounting | 35% |\n| Financial instruments | 25% |\n| Analysis | 20% |\n| Current issues | 20% |"
+        },
+        {
+            "id": "f2_2",
+            "type": "content",
+            "title": "Complex Groups",
+            "content": "# Group Structures\n\n## Vertical Groups\n\n```\nParent\n   |\n   v\nSubsidiary\n   |\n   v\nSub-subsidiary\n```\n\n## Mixed Groups\n\n| Structure | Ownership |\n|-----------|----------|\n| D-shaped | Multiple subs |\n| Vertical | Chain |\n| Mixed | Both |\n\n## Effective Interest\n\n```\nP owns 80% of S\nS owns 60% of SS\nP's effective = 80% x 60% = 48%\n```"
+        },
+        {
+            "id": "f2_3",
+            "type": "content",
+            "title": "Associates and JVs",
+            "content": "# Equity Method\n\n## Associate\n\n```\nSignificant influence (20-50%)\nEquity method\n```\n\n## Joint Arrangement (IFRS 11)\n\n| Type | Treatment |\n|------|----------|\n| Joint operation | Proportionate |\n| Joint venture | Equity method |\n\n## Equity Method\n\n```\nInvestment:\n= Cost + Share of post-acq profits\n- Dividends received\n- Impairment\n```"
+        },
+        {
+            "id": "f2_quiz_1",
+            "type": "quiz",
+            "title": "Groups Quiz",
+            "content": "Test your group accounting!",
+            "quizQuestion": "Associates use which method?",
+            "quizOptions": [
+                "Full consolidation",
+                "Proportionate",
+                "Equity method",
+                "Cost method"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "f2_4",
+            "type": "content",
+            "title": "IFRS 9 Financial Instruments",
+            "content": "# Classification and Measurement\n\n## Categories\n\n| Category | Measurement |\n|----------|-------------|\n| Amortized cost | EIR |\n| FVOCI | To OCI |\n| FVPL | To P&L |\n\n## Business Model Test\n\n| Model | Objective |\n|-------|----------|\n| Hold to collect | Amortized |\n| Collect and sell | FVOCI |\n| Other | FVPL |\n\n## SPPI Test\n\n```\nSolely Payments of Principal and Interest\n```"
+        },
+        {
+            "id": "f2_5",
+            "type": "content",
+            "title": "Impairment - ECL Model",
+            "content": "# Expected Credit Losses\n\n## Three Stages\n\n| Stage | ECL | Interest |\n|-------|-----|----------|\n| 1 | 12-month | Gross |\n| 2 | Lifetime | Gross |\n| 3 | Lifetime | Net |\n\n## Stage Movement\n\n```\nInitial: Stage 1\nCredit risk increase: Stage 2\nCredit-impaired: Stage 3\n```\n\n## Simplified Approach\n\n- Trade receivables\n- Lifetime ECL always"
+        },
+        {
+            "id": "f2_6",
+            "type": "content",
+            "title": "Hedge Accounting",
+            "content": "# Risk Management\n\n## Hedge Types\n\n| Type | Hedged Risk |\n|------|-------------|\n| Fair value | Value changes |\n| Cash flow | Variability |\n| Net investment | Translation |\n\n## Effectiveness\n\n| Requirement | Criterion |\n|-------------|----------|\n| Economic relationship | Between items |\n| Credit risk | Not dominant |\n| Hedge ratio | Appropriate |\n\n## Accounting\n\n- Fair value: P&L\n- Cash flow: OCI then P&L"
+        },
+        {
+            "id": "f2_quiz_2",
+            "type": "quiz",
+            "title": "IFRS 9 Quiz",
+            "content": "Test your IFRS 9 knowledge!",
+            "quizQuestion": "ECL stands for Expected Credit?",
+            "quizOptions": [
+                "Cost",
+                "Loss",
+                "Liability",
+                "Level"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "f2_7",
+            "type": "content",
+            "title": "Deferred Tax (IAS 12)",
+            "content": "# Tax Accounting\n\n## Temporary Differences\n\n| Difference | Effect |\n|------------|--------|\n| Deductible | DT asset |\n| Taxable | DT liability |\n\n## Examples\n\n| Item | Tax vs Book |\n|------|-------------|\n| PPE | Depreciation difference |\n| Provisions | Timing |\n| Losses | Carry forward |\n\n## Recognition\n\n```\nDT Asset: Only if probable recovery\nDT Liability: Always recognize\n```"
+        },
+        {
+            "id": "f2_8",
+            "type": "content",
+            "title": "Performance Analysis",
+            "content": "# Financial Ratios\n\n## Profitability\n\n| Ratio | Formula |\n|-------|--------|\n| ROCE | PBIT / CE |\n| Gross margin | GP / Revenue |\n| Operating margin | PBIT / Revenue |\n\n## Liquidity\n\n| Ratio | Formula |\n|-------|--------|\n| Current | CA / CL |\n| Quick | (CA - Inv) / CL |\n\n## Gearing\n\n| Ratio | Formula |\n|-------|--------|\n| Debt/Equity | D / E |\n| Interest cover | PBIT / Interest |"
+        },
+        {
+            "id": "f2_9",
+            "type": "content",
+            "title": "Cash Flow Analysis",
+            "content": "# Statement of Cash Flows\n\n## Categories\n\n| Activity | Examples |\n|----------|----------|\n| Operating | Trading |\n| Investing | PPE, investments |\n| Financing | Debt, equity |\n\n## Free Cash Flow\n\n```\nOperating cash flow\n- Capital expenditure\n= Free cash flow\n```\n\n## Analysis Points\n\n- Quality of earnings\n- Sustainability\n- Investment pattern"
+        },
+        {
+            "id": "f2_quiz_3",
+            "type": "quiz",
+            "title": "Analysis Quiz",
+            "content": "Test your analysis knowledge!",
+            "quizQuestion": "ROCE uses which profit?",
+            "quizOptions": [
+                "Net profit",
+                "Gross profit",
+                "PBIT",
+                "EPS"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "f2_10",
+            "type": "content",
+            "title": "Share-Based Payments",
+            "content": "# IFRS 2\n\n## Types\n\n| Type | Settlement |\n|------|------------|\n| Equity-settled | Shares |\n| Cash-settled | Cash |\n\n## Measurement\n\n| Type | Basis |\n|------|-------|\n| Equity | Grant date FV |\n| Cash | Reporting date FV |\n\n## Vesting Conditions\n\n| Type | Treatment |\n|------|----------|\n| Service | Time-based |\n| Performance (market) | Factor in FV |\n| Performance (non-market) | Adjust number |"
+        },
+        {
+            "id": "f2_11",
+            "type": "content",
+            "title": "Segment Reporting",
+            "content": "# IFRS 8\n\n## Operating Segments\n\n```\nComponent that:\n- Engages in activities\n- Discrete financial info\n- Regularly reviewed\n```\n\n## Quantitative Thresholds\n\n| Test | Threshold |\n|------|----------|\n| Revenue | 10% |\n| Profit/Loss | 10% |\n| Assets | 10% |\n\n## Disclosures\n\n- Segment revenue\n- Segment profit\n- Segment assets\n- Reconciliations"
+        },
+        {
+            "id": "f2_12",
+            "type": "content",
+            "title": "Current Issues",
+            "content": "# Emerging Topics\n\n## Sustainability Reporting\n\n| Framework | Focus |\n|-----------|-------|\n| ISSB | Sustainability |\n| TCFD | Climate |\n| GRI | Broad ESG |\n\n## Digital Assets\n\n- Cryptocurrencies\n- NFTs\n- Classification challenges\n\n## Integrated Reporting\n\n- Six capitals\n- Value creation\n- Connectivity"
+        },
+        {
+            "id": "f2_quiz_4",
+            "type": "quiz",
+            "title": "Current Quiz",
+            "content": "Test your current issues knowledge!",
+            "quizQuestion": "ISSB focuses on?",
+            "quizOptions": [
+                "Auditing",
+                "Sustainability",
+                "Taxation",
+                "Internal control"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "f2_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CIMA F2 - Advanced Financial Reporting**!\n\n## Key Topics\n\n### Groups\n- Complex structures\n- Associates and JVs\n- Deferred tax\n\n### Financial Instruments\n- IFRS 9 classification\n- ECL impairment\n- Hedge accounting\n\n### Analysis\n- Ratio analysis\n- Cash flow analysis\n\n### Current\n- Sustainability\n- Integrated reporting\n\n## Key Standards\n\n| Standard | Topic |\n|----------|-------|\n| IFRS 9 | Financial instruments |\n| IFRS 2 | Share-based |\n| IAS 12 | Deferred tax |\n\n## What is Next?\n\nExplore E3 - Strategic Management!"
+        }
+    ]
+}

@@ -1,0 +1,4986 @@
+[
+    {
+        "q": "GST registration is mandatory for persons making taxable supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST stands for Goods and Services Tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration under GST is governed by section ______ of CGST Act.",
+        "type": "fill_blank",
+        "answers": [
+            "22"
+        ],
+        "other_options": [
+            "23",
+            "24",
+            "25"
+        ]
+    },
+    {
+        "q": "What is the basic threshold limit for GST registration for goods in most states?",
+        "type": "mcq",
+        "o": [
+            "Rs. 40 lakh",
+            "Rs. 20 lakh",
+            "Rs. 10 lakh",
+            "Rs. 50 lakh"
+        ]
+    },
+    {
+        "q": "Threshold limit for GST registration for services is Rs. ______ lakh.",
+        "type": "fill_blank",
+        "answers": [
+            "20"
+        ],
+        "other_options": [
+            "10",
+            "40",
+            "50"
+        ]
+    },
+    {
+        "q": "Special category states have a lower threshold limit for registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Threshold limit for special category states is Rs. ______ lakh.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "20",
+            "5",
+            "15"
+        ]
+    },
+    {
+        "q": "Which of the following is a special category state?",
+        "type": "mcq",
+        "o": [
+            "Manipur",
+            "Maharashtra",
+            "Gujarat",
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "q": "Aggregate turnover includes exempt supplies for threshold calculation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Aggregate turnover excludes ______ taxes.",
+        "type": "fill_blank",
+        "answers": [
+            "CGST, SGST, IGST"
+        ],
+        "other_options": [
+            "Income",
+            "Property",
+            "Customs"
+        ]
+    },
+    {
+        "q": "Match the threshold limits with state category:",
+        "type": "match",
+        "left": [
+            "Normal states (goods)",
+            "Normal states (services)",
+            "Special states (goods)",
+            "Special states (services)"
+        ],
+        "right": [
+            "Rs. 40 lakh",
+            "Rs. 20 lakh",
+            "Rs. 20 lakh",
+            "Rs. 10 lakh"
+        ]
+    },
+    {
+        "q": "Casual taxable person must register regardless of turnover.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-resident taxable person must register under GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Persons making inter-state supply must register compulsorily.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-commerce operator must register irrespective of turnover.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is NOT a case of compulsory registration?",
+        "type": "mcq",
+        "o": [
+            "Intra-state supply below threshold",
+            "Inter-state supply",
+            "E-commerce operator",
+            "Input Service Distributor"
+        ]
+    },
+    {
+        "q": "Person liable to pay tax under RCM must register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Input Service Distributor must obtain ______ registration.",
+        "type": "fill_blank",
+        "answers": [
+            "separate"
+        ],
+        "other_options": [
+            "same",
+            "additional",
+            "voluntary"
+        ]
+    },
+    {
+        "q": "TDS deductor under GST must register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS collector (e-commerce) must register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the registration requirement check process:",
+        "type": "rearrange",
+        "words": [
+            "Calculate turnover",
+            "Check threshold",
+            "Identify compulsory cases",
+            "Apply for registration"
+        ]
+    },
+    {
+        "q": "Person exclusively supplying exempt goods need not register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Agriculturist supplying produce out of cultivation is exempt from registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Government departments are exempt from registration for sovereign functions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Persons supplying only non-taxable goods are exempt from registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the exempt categories:",
+        "type": "match",
+        "left": [
+            "Agriculturist",
+            "Government",
+            "Exempt supplier",
+            "Non-taxable supplier"
+        ],
+        "right": [
+            "Cultivation produce",
+            "Sovereign functions",
+            "No registration needed",
+            "No registration needed"
+        ]
+    },
+    {
+        "q": "Registration application is filed in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "01"
+        ],
+        "other_options": [
+            "02",
+            "03",
+            "04"
+        ]
+    },
+    {
+        "q": "Part A of REG-01 contains basic details for TRN generation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TRN stands for:",
+        "type": "mcq",
+        "o": [
+            "Temporary Reference Number",
+            "Tax Registration Number",
+            "Transaction Reference Number",
+            "Temporary Registration Number"
+        ]
+    },
+    {
+        "q": "TRN is valid for ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "15"
+        ],
+        "other_options": [
+            "30",
+            "7",
+            "60"
+        ]
+    },
+    {
+        "q": "Part B of REG-01 contains detailed information about business.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Documents required for registration include:",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "PAN card",
+            "Address proof",
+            "Bank account details"
+        ]
+    },
+    {
+        "q": "Photograph of promoters is required for registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Authorization letter is required if authorized signatory is different from promoter.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Digital signature is mandatory for ______ type of taxpayers.",
+        "type": "fill_blank",
+        "answers": [
+            "companies and LLPs"
+        ],
+        "other_options": [
+            "all",
+            "proprietors",
+            "partnerships"
+        ]
+    },
+    {
+        "q": "Rearrange the registration application process:",
+        "type": "rearrange",
+        "words": [
+            "Part A submission",
+            "Get TRN",
+            "Part B with documents",
+            "Verification",
+            "Registration certificate"
+        ]
+    },
+    {
+        "q": "Officer must grant or reject registration within ______ working days.",
+        "type": "fill_blank",
+        "answers": [
+            "7"
+        ],
+        "other_options": [
+            "3",
+            "15",
+            "30"
+        ]
+    },
+    {
+        "q": "If officer does not respond within time, registration is deemed approved.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Clarification request is issued in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "03"
+        ],
+        "other_options": [
+            "02",
+            "04",
+            "05"
+        ]
+    },
+    {
+        "q": "Reply to clarification is filed in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "04"
+        ],
+        "other_options": [
+            "03",
+            "05",
+            "06"
+        ]
+    },
+    {
+        "q": "Registration certificate is issued in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "06"
+        ],
+        "other_options": [
+            "05",
+            "07",
+            "01"
+        ]
+    },
+    {
+        "q": "Registration rejection order is in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "05"
+        ],
+        "other_options": [
+            "06",
+            "07",
+            "04"
+        ]
+    },
+    {
+        "q": "Match the registration forms:",
+        "type": "match",
+        "left": [
+            "REG-01",
+            "REG-03",
+            "REG-05",
+            "REG-06"
+        ],
+        "right": [
+            "Application",
+            "Clarification request",
+            "Rejection order",
+            "Certificate"
+        ]
+    },
+    {
+        "q": "GSTIN is granted upon successful registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTIN is ______ digit alphanumeric number.",
+        "type": "fill_blank",
+        "answers": [
+            "15"
+        ],
+        "other_options": [
+            "12",
+            "18",
+            "10"
+        ]
+    },
+    {
+        "q": "First 2 digits of GSTIN represent:",
+        "type": "mcq",
+        "o": [
+            "State code",
+            "Entity type",
+            "PAN",
+            "Check digit"
+        ]
+    },
+    {
+        "q": "Digits 3 to 12 of GSTIN contain ______ of the taxpayer.",
+        "type": "fill_blank",
+        "answers": [
+            "PAN"
+        ],
+        "other_options": [
+            "TAN",
+            "CIN",
+            "DIN"
+        ]
+    },
+    {
+        "q": "13th digit indicates entity number within a state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "14th digit is by default ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Z"
+        ],
+        "other_options": [
+            "A",
+            "0",
+            "X"
+        ]
+    },
+    {
+        "q": "15th digit is the check digit for validation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Effective date of registration is date of application if applied within ______ days of liability.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "45",
+            "60"
+        ]
+    },
+    {
+        "q": "If registration is applied after 30 days, effective date is date of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "grant of registration"
+        ],
+        "other_options": [
+            "application",
+            "liability",
+            "approval"
+        ]
+    },
+    {
+        "q": "Voluntary registration is allowed under GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Person registering voluntarily has all obligations of regular taxpayer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Voluntary registration cannot be cancelled within ______ year.",
+        "type": "fill_blank",
+        "answers": [
+            "1"
+        ],
+        "other_options": [
+            "2",
+            "3",
+            "6 months"
+        ]
+    },
+    {
+        "q": "Rearrange the GSTIN structure:",
+        "type": "rearrange",
+        "words": [
+            "State code",
+            "PAN",
+            "Entity number",
+            "Default Z",
+            "Check digit"
+        ]
+    },
+    {
+        "q": "Casual taxable person must apply for registration at least ______ days before business.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "7",
+            "15",
+            "30"
+        ]
+    },
+    {
+        "q": "Casual taxable person registration is valid for ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "90"
+        ],
+        "other_options": [
+            "30",
+            "180",
+            "365"
+        ]
+    },
+    {
+        "q": "CTP registration can be extended by another ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "90"
+        ],
+        "other_options": [
+            "30",
+            "60",
+            "180"
+        ]
+    },
+    {
+        "q": "Casual taxable person must pay advance tax as per estimated liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-resident taxable person registration process is similar to CTP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NRTP must apply at least ______ days before making supply.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "7",
+            "15",
+            "30"
+        ]
+    },
+    {
+        "q": "Match CTP and NRTP characteristics:",
+        "type": "match",
+        "left": [
+            "Prior application",
+            "Validity",
+            "Extension",
+            "Advance tax"
+        ],
+        "right": [
+            "5 days before",
+            "90 days",
+            "90 days more",
+            "Required"
+        ]
+    },
+    {
+        "q": "Amendment of registration is required for changes in core fields.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Core fields include PAN, legal name, and principal place of business.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amendment application is filed in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "14"
+        ],
+        "other_options": [
+            "13",
+            "15",
+            "16"
+        ]
+    },
+    {
+        "q": "Amendment of core fields requires officer approval.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-core field amendments are approved automatically.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-core fields include bank account details and authorized signatory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amendment must be filed within ______ days of change.",
+        "type": "fill_blank",
+        "answers": [
+            "15"
+        ],
+        "other_options": [
+            "7",
+            "30",
+            "45"
+        ]
+    },
+    {
+        "q": "Rearrange core field amendment process:",
+        "type": "rearrange",
+        "words": [
+            "File REG-14",
+            "Upload documents",
+            "Officer verification",
+            "Approval in REG-15"
+        ]
+    },
+    {
+        "q": "Cancellation of registration can be voluntary or by officer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Application for cancellation is filed in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "16"
+        ],
+        "other_options": [
+            "15",
+            "17",
+            "18"
+        ]
+    },
+    {
+        "q": "Grounds for cancellation by officer include:",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Non-filing of returns",
+            "Fraudulent registration",
+            "Violation of provisions"
+        ]
+    },
+    {
+        "q": "Show cause notice for cancellation is in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "17"
+        ],
+        "other_options": [
+            "16",
+            "18",
+            "19"
+        ]
+    },
+    {
+        "q": "Reply to show cause notice is in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "18"
+        ],
+        "other_options": [
+            "17",
+            "19",
+            "20"
+        ]
+    },
+    {
+        "q": "Cancellation order is issued in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "19"
+        ],
+        "other_options": [
+            "18",
+            "20",
+            "17"
+        ]
+    },
+    {
+        "q": "Match cancellation forms:",
+        "type": "match",
+        "left": [
+            "REG-16",
+            "REG-17",
+            "REG-18",
+            "REG-19"
+        ],
+        "right": [
+            "Voluntary application",
+            "SCN",
+            "Reply",
+            "Cancellation order"
+        ]
+    },
+    {
+        "q": "Upon cancellation, ITC on stock must be reversed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC to be reversed is calculated on market value or original ITC, whichever is higher.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Final return after cancellation is filed in FORM GSTR-______.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "9",
+            "11",
+            "3B"
+        ]
+    },
+    {
+        "q": "GSTR-10 must be filed within ______ months of cancellation.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "1",
+            "6",
+            "12"
+        ]
+    },
+    {
+        "q": "Revocation of cancellation is possible within 30 days of cancellation order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Revocation application is filed in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "21"
+        ],
+        "other_options": [
+            "20",
+            "22",
+            "19"
+        ]
+    },
+    {
+        "q": "Revocation requires filing all pending returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Revocation requires payment of all pending dues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange revocation process:",
+        "type": "rearrange",
+        "words": [
+            "File pending returns",
+            "Pay dues",
+            "Apply REG-21",
+            "Officer approval",
+            "Revocation order"
+        ]
+    },
+    {
+        "q": "Suo moto cancellation happens for returns not filed for ______ consecutive months.",
+        "type": "fill_blank",
+        "answers": [
+            "6"
+        ],
+        "other_options": [
+            "3",
+            "12",
+            "9"
+        ]
+    },
+    {
+        "q": "Composition taxpayer faces cancellation for non-filing for ______ consecutive quarters.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "2",
+            "4",
+            "6"
+        ]
+    },
+    {
+        "q": "Registration in multiple states requires separate registration in each state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ unit requires separate registration from DTA unit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Multiple business verticals in same state can get separate registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match registration types:",
+        "type": "match",
+        "left": [
+            "Regular",
+            "Composition",
+            "ISD",
+            "CTP"
+        ],
+        "right": [
+            "Normal taxpayer",
+            "Small taxpayer",
+            "Credit distribution",
+            "Temporary business"
+        ]
+    },
+    {
+        "q": "UIN registration is for:",
+        "type": "mcq",
+        "o": [
+            "UN bodies and embassies",
+            "Unique individual taxpayer",
+            "Unregistered dealer",
+            "Union territory taxpayer"
+        ]
+    },
+    {
+        "q": "UIN stands for Unique Identification Number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "UIN holders can claim refund of taxes paid on inward supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 23 of CGST Act lists persons not liable for registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Person engaged exclusively in supplying goods not liable to tax need not register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Aadhar authentication is mandatory for new GST registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Aadhar authentication can be completed at ______ center.",
+        "type": "fill_blank",
+        "answers": [
+            "GST Suvidha"
+        ],
+        "other_options": [
+            "Bank",
+            "Post office",
+            "Any government"
+        ]
+    },
+    {
+        "q": "If Aadhar not authenticated, physical verification is done within ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "21"
+        ],
+        "other_options": [
+            "15",
+            "30",
+            "7"
+        ]
+    },
+    {
+        "q": "Section 25 of CGST Act deals with procedure for registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Every person liable for registration must apply within ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "45",
+            "60"
+        ]
+    },
+    {
+        "q": "PAN is mandatory for GST registration except for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "NRTP and TDS deductors"
+        ],
+        "other_options": [
+            "all",
+            "exporters",
+            "importers"
+        ]
+    },
+    {
+        "q": "Match registration related provisions:",
+        "type": "match",
+        "left": [
+            "Section 22",
+            "Section 23",
+            "Section 24",
+            "Section 25"
+        ],
+        "right": [
+            "Persons liable",
+            "Persons not liable",
+            "Compulsory registration",
+            "Procedure"
+        ]
+    },
+    {
+        "q": "A person having multiple business verticals may obtain separate registration for each vertical.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Separate registration for business vertical is at the option of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "taxpayer"
+        ],
+        "other_options": [
+            "officer",
+            "council",
+            "government"
+        ]
+    },
+    {
+        "q": "A registered person may have multiple registrations in different states.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Each registration in different state gets ______ GSTIN.",
+        "type": "fill_blank",
+        "answers": [
+            "separate"
+        ],
+        "other_options": [
+            "same",
+            "linked",
+            "common"
+        ]
+    },
+    {
+        "q": "Place of business includes warehouse, godown, or fixed establishment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Principal place of business is the main location of operations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Additional place of business must be added in registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the multi-state registration process:",
+        "type": "rearrange",
+        "words": [
+            "Identify presence in states",
+            "Apply separately",
+            "Get separate GSTINs",
+            "File state-wise returns"
+        ]
+    },
+    {
+        "q": "SEZ developer must obtain separate registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ unit and DTA unit of same entity are treated as distinct persons.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Transfer of goods between SEZ and DTA of same owner is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "taxable supply"
+        ],
+        "other_options": [
+            "exempt",
+            "not supply",
+            "zero-rated"
+        ]
+    },
+    {
+        "q": "OIDAR service provider must register in India if supplying to unregistered person.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "OIDAR registration is done through simplified procedure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "OIDAR provider can appoint ______ in India.",
+        "type": "fill_blank",
+        "answers": [
+            "representative"
+        ],
+        "other_options": [
+            "agent",
+            "distributor",
+            "manager"
+        ]
+    },
+    {
+        "q": "Match special registration categories:",
+        "type": "match",
+        "left": [
+            "SEZ",
+            "OIDAR",
+            "UN bodies",
+            "Embassies"
+        ],
+        "right": [
+            "Separate registration",
+            "Simplified procedure",
+            "UIN",
+            "UIN"
+        ]
+    },
+    {
+        "q": "TDS deductor registration is done in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "07"
+        ],
+        "other_options": [
+            "01",
+            "05",
+            "10"
+        ]
+    },
+    {
+        "q": "TDS deductor certificate is issued in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "06"
+        ],
+        "other_options": [
+            "07",
+            "08",
+            "09"
+        ]
+    },
+    {
+        "q": "TDS registration requires TAN of entity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS (e-commerce) registration uses FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "07"
+        ],
+        "other_options": [
+            "01",
+            "08",
+            "10"
+        ]
+    },
+    {
+        "q": "E-commerce operator collecting TCS must file GSTR-8.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition levy requires separate intimation in FORM GST CMP-______.",
+        "type": "fill_blank",
+        "answers": [
+            "02"
+        ],
+        "other_options": [
+            "01",
+            "03",
+            "04"
+        ]
+    },
+    {
+        "q": "Existing taxpayer opting for composition must file CMP-02 before ______ of financial year.",
+        "type": "fill_blank",
+        "answers": [
+            "31st March"
+        ],
+        "other_options": [
+            "1st April",
+            "30th June",
+            "31st December"
+        ]
+    },
+    {
+        "q": "New registrant can opt for composition in Part B of REG-01.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange composition scheme opting process:",
+        "type": "rearrange",
+        "words": [
+            "Check eligibility",
+            "File CMP-02",
+            "Pay tax at composition rate",
+            "File quarterly statement"
+        ]
+    },
+    {
+        "q": "Section 26 deals with deemed registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If no action is taken within 7 working days, registration is deemed granted.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Deemed registration is subject to post-registration verification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration certificate can be downloaded from ______ portal.",
+        "type": "fill_blank",
+        "answers": [
+            "GST"
+        ],
+        "other_options": [
+            "Income tax",
+            "MCA",
+            "Bank"
+        ]
+    },
+    {
+        "q": "Registration certificate contains GSTIN, legal name, and trade name.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Certificate shows principal and additional places of business.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match registration certificate details:",
+        "type": "match",
+        "left": [
+            "GSTIN",
+            "Legal name",
+            "Trade name",
+            "Constitution"
+        ],
+        "right": [
+            "15 digit number",
+            "As per PAN",
+            "Business name",
+            "Entity type"
+        ]
+    },
+    {
+        "q": "Migration from earlier tax regime to GST required FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "26"
+        ],
+        "other_options": [
+            "25",
+            "27",
+            "01"
+        ]
+    },
+    {
+        "q": "Migrated taxpayers were given provisional GSTIN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Provisional ID started with ______ digits.",
+        "type": "fill_blank",
+        "answers": [
+            "15"
+        ],
+        "other_options": [
+            "12",
+            "10",
+            "18"
+        ]
+    },
+    {
+        "q": "Final registration was granted after verification of documents.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxpayer migrating from VAT had to submit Part B details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Physical verification is done if registration is obtained by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "fraud or misrepresentation"
+        ],
+        "other_options": [
+            "normal means",
+            "Aadhar",
+            "voluntary"
+        ]
+    },
+    {
+        "q": "Rearrange the migration process from old regime:",
+        "type": "rearrange",
+        "words": [
+            "Get provisional ID",
+            "Login to portal",
+            "Complete Part B",
+            "Get final GSTIN",
+            "Start compliance"
+        ]
+    },
+    {
+        "q": "Registration can be suspended pending cancellation proceedings.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "During suspension, taxpayer cannot make outward supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Suspension notice is issued in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "31"
+        ],
+        "other_options": [
+            "30",
+            "32",
+            "17"
+        ]
+    },
+    {
+        "q": "Suspended taxpayer can file pending returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Suspension is lifted on dropping of proceedings or revocation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match suspension scenarios:",
+        "type": "match",
+        "left": [
+            "Non-filing 6 months",
+            "Fraudulent registration",
+            "Voluntary cancellation",
+            "Revocation"
+        ],
+        "right": [
+            "Auto suspension",
+            "Investigation",
+            "REG-16 filed",
+            "Suspension lifted"
+        ]
+    },
+    {
+        "q": "Aggregate turnover is calculated for all registrations under same PAN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Aggregate turnover includes turnover of all branches.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Value of exempt supplies is ______ in aggregate turnover.",
+        "type": "fill_blank",
+        "answers": [
+            "included"
+        ],
+        "other_options": [
+            "excluded",
+            "partially included",
+            "optional"
+        ]
+    },
+    {
+        "q": "Value of zero-rated supplies is included in aggregate turnover.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Value of non-taxable supplies is ______ in aggregate turnover.",
+        "type": "fill_blank",
+        "answers": [
+            "included"
+        ],
+        "other_options": [
+            "excluded",
+            "optional",
+            "conditional"
+        ]
+    },
+    {
+        "q": "Inward supplies on which RCM is paid are ______ from aggregate turnover.",
+        "type": "fill_blank",
+        "answers": [
+            "excluded"
+        ],
+        "other_options": [
+            "included",
+            "optional",
+            "calculated"
+        ]
+    },
+    {
+        "q": "CGST, SGST, IGST are excluded from value for turnover calculation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange components of aggregate turnover:",
+        "type": "rearrange",
+        "words": [
+            "Taxable supplies",
+            "Exempt supplies",
+            "Zero-rated",
+            "Non-taxable",
+            "Inter-state"
+        ]
+    },
+    {
+        "q": "Agent registering on behalf of non-resident must have ______.",
+        "type": "fill_blank",
+        "answers": [
+            "authorization letter"
+        ],
+        "other_options": [
+            "PAN",
+            "Aadhar",
+            "passport"
+        ]
+    },
+    {
+        "q": "Non-resident can register using passport number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax Identification Number of non-resident's country is accepted.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NRTP registration requires ______ tax deposit.",
+        "type": "fill_blank",
+        "answers": [
+            "advance"
+        ],
+        "other_options": [
+            "no",
+            "partial",
+            "refundable"
+        ]
+    },
+    {
+        "q": "Advance tax for NRTP is based on estimated ______.",
+        "type": "fill_blank",
+        "answers": [
+            "liability"
+        ],
+        "other_options": [
+            "turnover",
+            "profit",
+            "value"
+        ]
+    },
+    {
+        "q": "Match NRTP requirements:",
+        "type": "match",
+        "left": [
+            "Passport",
+            "Advance tax",
+            "Validity",
+            "Form"
+        ],
+        "right": [
+            "Identity proof",
+            "Mandatory",
+            "90 days",
+            "REG-09"
+        ]
+    },
+    {
+        "q": "NRTP registration application is in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "09"
+        ],
+        "other_options": [
+            "07",
+            "01",
+            "10"
+        ]
+    },
+    {
+        "q": "NRTP extension application is in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "11"
+        ],
+        "other_options": [
+            "09",
+            "10",
+            "12"
+        ]
+    },
+    {
+        "q": "CTP registration application is in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "01"
+        ],
+        "other_options": [
+            "09",
+            "07",
+            "10"
+        ]
+    },
+    {
+        "q": "CTP extension uses FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "11"
+        ],
+        "other_options": [
+            "01",
+            "12",
+            "10"
+        ]
+    },
+    {
+        "q": "Suo moto registration by officer is under section ______ of CGST Act.",
+        "type": "fill_blank",
+        "answers": [
+            "25(8)"
+        ],
+        "other_options": [
+            "22",
+            "23",
+            "24"
+        ]
+    },
+    {
+        "q": "Officer can register person who fails to register despite being liable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange suo moto registration process:",
+        "type": "rearrange",
+        "words": [
+            "Identify liable person",
+            "Issue show cause",
+            "Verify liability",
+            "Grant registration",
+            "Collect dues"
+        ]
+    },
+    {
+        "q": "GST registration is valid until cancelled or surrendered.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration does not have annual renewal requirement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration once granted, remains valid for ______ period.",
+        "type": "fill_blank",
+        "answers": [
+            "indefinite"
+        ],
+        "other_options": [
+            "1 year",
+            "5 years",
+            "10 years"
+        ]
+    },
+    {
+        "q": "Only CTP and NRTP registrations have limited validity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISD registration is also permanent registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match registration validity:",
+        "type": "match",
+        "left": [
+            "Regular",
+            "CTP",
+            "NRTP",
+            "ISD"
+        ],
+        "right": [
+            "Permanent",
+            "90 days",
+            "90 days",
+            "Permanent"
+        ]
+    },
+    {
+        "q": "GST registration number must be displayed at principal place.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTIN must be mentioned on all ______.",
+        "type": "fill_blank",
+        "answers": [
+            "invoices"
+        ],
+        "other_options": [
+            "letters",
+            "emails",
+            "advertisements"
+        ]
+    },
+    {
+        "q": "Failure to display registration number attracts penalty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration details are public information on GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTIN can be verified by any person on ______ portal.",
+        "type": "fill_blank",
+        "answers": [
+            "GST"
+        ],
+        "other_options": [
+            "Income tax",
+            "MCA",
+            "Bank"
+        ]
+    },
+    {
+        "q": "Details shown on verification include registration status.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange verification steps:",
+        "type": "rearrange",
+        "words": [
+            "Visit GST portal",
+            "Search taxpayer",
+            "Enter GSTIN",
+            "View details",
+            "Verify status"
+        ]
+    },
+    {
+        "q": "Section 27 of CGST Act deals with special provisions for CTP and NRTP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CTP must have fixed establishment in ______ where registration is sought.",
+        "type": "fill_blank",
+        "answers": [
+            "none of the states"
+        ],
+        "other_options": [
+            "same state",
+            "any state",
+            "home state"
+        ]
+    },
+    {
+        "q": "Person having place of business in different state is not CTP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NRTP has no fixed place of business in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "India"
+        ],
+        "other_options": [
+            "state",
+            "territory",
+            "region"
+        ]
+    },
+    {
+        "q": "NRTP may supply goods or services in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "India"
+        ],
+        "other_options": [
+            "home country",
+            "any country",
+            "SEZ"
+        ]
+    },
+    {
+        "q": "Match CTP and NRTP characteristics:",
+        "type": "match",
+        "left": [
+            "CTP residence",
+            "NRTP residence",
+            "CTP fixed place",
+            "NRTP fixed place"
+        ],
+        "right": [
+            "India",
+            "Outside India",
+            "None in same state",
+            "None in India"
+        ]
+    },
+    {
+        "q": "Penalty for delay in registration application is higher tax or Rs. 10000.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Making supply without registration is an offence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Penalty for supply without registration is ______ of tax due.",
+        "type": "fill_blank",
+        "answers": [
+            "100%"
+        ],
+        "other_options": [
+            "50%",
+            "200%",
+            "10%"
+        ]
+    },
+    {
+        "q": "Minimum penalty for non-registration is Rs. ______.",
+        "type": "fill_blank",
+        "answers": [
+            "10000"
+        ],
+        "other_options": [
+            "5000",
+            "25000",
+            "1000"
+        ]
+    },
+    {
+        "q": "Interest on tax due from effective date of registration is at ______ per annum.",
+        "type": "fill_blank",
+        "answers": [
+            "18%"
+        ],
+        "other_options": [
+            "12%",
+            "24%",
+            "15%"
+        ]
+    },
+    {
+        "q": "Rearrange consequences of non-registration:",
+        "type": "rearrange",
+        "words": [
+            "Identification",
+            "Tax calculation",
+            "Interest from liability date",
+            "Penalty 100%",
+            "Recovery"
+        ]
+    },
+    {
+        "q": "Core fields amendment approval takes up to ______ working days.",
+        "type": "fill_blank",
+        "answers": [
+            "15"
+        ],
+        "other_options": [
+            "7",
+            "30",
+            "45"
+        ]
+    },
+    {
+        "q": "Non-core fields are amended within ______ working days.",
+        "type": "fill_blank",
+        "answers": [
+            "15"
+        ],
+        "other_options": [
+            "7",
+            "30",
+            "45"
+        ]
+    },
+    {
+        "q": "Amendment of mobile number is a ______ field change.",
+        "type": "fill_blank",
+        "answers": [
+            "non-core"
+        ],
+        "other_options": [
+            "core",
+            "critical",
+            "major"
+        ]
+    },
+    {
+        "q": "Amendment of email ID is a ______ field change.",
+        "type": "fill_blank",
+        "answers": [
+            "non-core"
+        ],
+        "other_options": [
+            "core",
+            "critical",
+            "major"
+        ]
+    },
+    {
+        "q": "Amendment of constitution of business is a ______ field change.",
+        "type": "fill_blank",
+        "answers": [
+            "core"
+        ],
+        "other_options": [
+            "non-core",
+            "minor",
+            "optional"
+        ]
+    },
+    {
+        "q": "Match field categories:",
+        "type": "match",
+        "left": [
+            "PAN",
+            "Bank details",
+            "Legal name",
+            "Authorized signatory"
+        ],
+        "right": [
+            "Core",
+            "Non-core",
+            "Core",
+            "Non-core"
+        ]
+    },
+    {
+        "q": "Addition of new partner requires amendment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Removal of partner requires filing of amendment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Change in authorized signatory requires REG-14 filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Addition of additional place of business uses ______ form.",
+        "type": "fill_blank",
+        "answers": [
+            "REG-14"
+        ],
+        "other_options": [
+            "REG-01",
+            "REG-16",
+            "REG-11"
+        ]
+    },
+    {
+        "q": "Closure of additional place requires amendment filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange amendment process:",
+        "type": "rearrange",
+        "words": [
+            "Identify change",
+            "Prepare documents",
+            "File REG-14",
+            "Officer verification",
+            "Amendment in REG-15"
+        ]
+    },
+    {
+        "q": "Death of proprietor leads to registration of legal heir.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Legal heir must apply for registration within ______ days of death.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "45",
+            "60"
+        ]
+    },
+    {
+        "q": "Transfer of business requires transfer of registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Merger of entities requires fresh registration of merged entity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "De-merger requires ______ registration for new entity.",
+        "type": "fill_blank",
+        "answers": [
+            "new"
+        ],
+        "other_options": [
+            "same",
+            "linked",
+            "common"
+        ]
+    },
+    {
+        "q": "Match succession scenarios:",
+        "type": "match",
+        "left": [
+            "Death",
+            "Sale",
+            "Merger",
+            "De-merger"
+        ],
+        "right": [
+            "Legal heir registration",
+            "Transfer/new registration",
+            "Fresh registration",
+            "New entity registration"
+        ]
+    },
+    {
+        "q": "Revocation period can be extended by ______ days by Additional Commissioner.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "45",
+            "60"
+        ]
+    },
+    {
+        "q": "Commissioner can extend revocation period by another ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "45",
+            "60"
+        ]
+    },
+    {
+        "q": "Total maximum revocation period is ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "90"
+        ],
+        "other_options": [
+            "60",
+            "120",
+            "180"
+        ]
+    },
+    {
+        "q": "Revocation is granted in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "22"
+        ],
+        "other_options": [
+            "21",
+            "23",
+            "20"
+        ]
+    },
+    {
+        "q": "Revocation rejection is issued in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "05"
+        ],
+        "other_options": [
+            "22",
+            "23",
+            "21"
+        ]
+    },
+    {
+        "q": "Rearrange revocation timeline:",
+        "type": "rearrange",
+        "words": [
+            "Cancellation",
+            "30 days regular",
+            "30 days extension 1",
+            "30 days extension 2",
+            "Final deadline"
+        ]
+    },
+    {
+        "q": "GST Suvidha Kendra assists in registration process.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST Suvidha Provider (GSP) helps in IT interface for GST compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Application Service Provider (ASP) provides application layer services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSP registration is done by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "GSTN"
+        ],
+        "other_options": [
+            "Government",
+            "Council",
+            "Banks"
+        ]
+    },
+    {
+        "q": "ASP works through ______ for connectivity.",
+        "type": "fill_blank",
+        "answers": [
+            "GSP"
+        ],
+        "other_options": [
+            "directly",
+            "banks",
+            "government"
+        ]
+    },
+    {
+        "q": "Match GST service providers:",
+        "type": "match",
+        "left": [
+            "GSK",
+            "GSP",
+            "ASP",
+            "GSTN"
+        ],
+        "right": [
+            "Physical assistance",
+            "IT infrastructure",
+            "Applications",
+            "Central system"
+        ]
+    },
+    {
+        "q": "Registration under CGST implies registration under SGST of same state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Single registration grants status under both CGST and SGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IGST registration is not separate from CGST registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration under one state does not cover ______ state supplies.",
+        "type": "fill_blank",
+        "answers": [
+            "other"
+        ],
+        "other_options": [
+            "same",
+            "any",
+            "all"
+        ]
+    },
+    {
+        "q": "Export of services without registration is allowed if turnover is below threshold.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange tax types covered under single registration:",
+        "type": "rearrange",
+        "words": [
+            "CGST",
+            "SGST same state",
+            "IGST on inter-state",
+            "Compensation cess if applicable"
+        ]
+    },
+    {
+        "q": "Registration certificate is digitally signed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Certificate can be printed from ______ section of portal.",
+        "type": "fill_blank",
+        "answers": [
+            "Services"
+        ],
+        "other_options": [
+            "Returns",
+            "Payments",
+            "Registration"
+        ]
+    },
+    {
+        "q": "Amendment in certificate is auto-reflected after approval.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Certificate shows date of liability to register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Certificate shows effective date of registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Date of liability is when turnover exceeds ______.",
+        "type": "fill_blank",
+        "answers": [
+            "threshold"
+        ],
+        "other_options": [
+            "exemption",
+            "limit",
+            "cap"
+        ]
+    },
+    {
+        "q": "Match certificate details:",
+        "type": "match",
+        "left": [
+            "Liability date",
+            "Effective date",
+            "GSTIN",
+            "Constitution"
+        ],
+        "right": [
+            "When threshold crossed",
+            "Registration commencement",
+            "Unique identifier",
+            "Business type"
+        ]
+    },
+    {
+        "q": "Trader supplying goods below Rs. 40 lakh need not register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Service provider below Rs. 20 lakh need not register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Mixed supplier must calculate turnover of ______ for threshold.",
+        "type": "fill_blank",
+        "answers": [
+            "both goods and services"
+        ],
+        "other_options": [
+            "goods only",
+            "services only",
+            "higher of two"
+        ]
+    },
+    {
+        "q": "Threshold for registration applies to aggregate turnover across ______.",
+        "type": "fill_blank",
+        "answers": [
+            "all GSTINs under same PAN"
+        ],
+        "other_options": [
+            "each GSTIN",
+            "each state",
+            "each business"
+        ]
+    },
+    {
+        "q": "Once registered, person remains registered until cancellation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange threshold checking process:",
+        "type": "rearrange",
+        "words": [
+            "Calculate turnover",
+            "Check all states",
+            "Add all GSTINs",
+            "Compare with threshold",
+            "Determine liability"
+        ]
+    },
+    {
+        "q": "Electronic verification code (EVC) can be used for authentication.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "EVC is sent to registered ______ and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "mobile and email"
+        ],
+        "other_options": [
+            "address",
+            "bank",
+            "officer"
+        ]
+    },
+    {
+        "q": "DSC is mandatory for companies and LLPs for filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Proprietors can use EVC for authentication.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Partnership firms can use EVC for authentication.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match authentication methods:",
+        "type": "match",
+        "left": [
+            "Company",
+            "LLP",
+            "Proprietor",
+            "Partnership"
+        ],
+        "right": [
+            "DSC mandatory",
+            "DSC mandatory",
+            "EVC allowed",
+            "EVC allowed"
+        ]
+    },
+    {
+        "q": "Biometric verification may be required for suspicious registrations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Physical verification report is in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "29",
+            "31",
+            "28"
+        ]
+    },
+    {
+        "q": "Verification must be completed within ______ days of application.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "45",
+            "60"
+        ]
+    },
+    {
+        "q": "Premises verification includes checking of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "business existence"
+        ],
+        "other_options": [
+            "personal residence",
+            "bank",
+            "vehicles"
+        ]
+    },
+    {
+        "q": "Adverse verification report may lead to rejection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange verification process:",
+        "type": "rearrange",
+        "words": [
+            "Application received",
+            "Risk assessed",
+            "Verification assigned",
+            "Physical visit",
+            "Report submitted"
+        ]
+    },
+    {
+        "q": "Inter-state job work above Rs. ______ requires registration.",
+        "type": "fill_blank",
+        "answers": [
+            "20 lakh"
+        ],
+        "other_options": [
+            "10 lakh",
+            "40 lakh",
+            "5 lakh"
+        ]
+    },
+    {
+        "q": "Threshold for inter-state services is lower than goods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Inter-state supply of handicraft goods has exemption up to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Rs. 20 lakh"
+        ],
+        "other_options": [
+            "Rs. 40 lakh",
+            "Rs. 10 lakh",
+            "No limit"
+        ]
+    },
+    {
+        "q": "Notify handicraft goods are exempt from inter-state compulsory registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Job worker of notified goods has higher threshold.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match special thresholds:",
+        "type": "match",
+        "left": [
+            "Inter-state services",
+            "Handicraft goods",
+            "Job work",
+            "E-commerce through operator"
+        ],
+        "right": [
+            "Rs. 20 lakh",
+            "Rs. 20 lakh",
+            "Rs. 20 lakh for notified",
+            "Rs. 20 lakh"
+        ]
+    },
+    {
+        "q": "E-commerce supplier of goods must register in ______ state.",
+        "type": "fill_blank",
+        "answers": [
+            "home"
+        ],
+        "other_options": [
+            "all",
+            "any",
+            "operator"
+        ]
+    },
+    {
+        "q": "Supply through e-commerce operator of notified goods requires compulsory registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 24(x) covers persons making inter-state supply of services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Aggregator of services must register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Aggregator means person with IT platform enabling suppliers to connect with recipients.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Exemption from registration is not available to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "compulsory registration categories"
+        ],
+        "other_options": [
+            "all",
+            "composition",
+            "voluntary"
+        ]
+    },
+    {
+        "q": "Rearrange e-commerce registration check:",
+        "type": "rearrange",
+        "words": [
+            "Identify operator or supplier",
+            "Check notified goods",
+            "Determine if compulsory",
+            "Register if required"
+        ]
+    },
+    {
+        "q": "Late application fee for registration is Rs. ______ per day.",
+        "type": "fill_blank",
+        "answers": [
+            "No late fee"
+        ],
+        "other_options": [
+            "50",
+            "100",
+            "200"
+        ]
+    },
+    {
+        "q": "Registration application has no fee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amendment application has no fee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cancellation application has no fee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Revocation application has no fee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "All registration related applications are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "free of cost"
+        ],
+        "other_options": [
+            "chargeable",
+            "nominal fee",
+            "government fee"
+        ]
+    },
+    {
+        "q": "Match registration process features:",
+        "type": "match",
+        "left": [
+            "Application fee",
+            "Timeline",
+            "Approval",
+            "Certificate"
+        ],
+        "right": [
+            "Free",
+            "7 working days",
+            "Deemed if no action",
+            "Digital"
+        ]
+    },
+    {
+        "q": "GST registration is state-specific.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "One PAN can have multiple GSTINs across states.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Maximum number of GSTINs per PAN is ______ per state.",
+        "type": "fill_blank",
+        "answers": [
+            "up to entity number limit"
+        ],
+        "other_options": [
+            "1",
+            "10",
+            "unlimited"
+        ]
+    },
+    {
+        "q": "13th digit of GSTIN indicates number of registrations within state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Entity number starts from ______ for first registration in state.",
+        "type": "fill_blank",
+        "answers": [
+            "1"
+        ],
+        "other_options": [
+            "0",
+            "A",
+            "Z"
+        ]
+    },
+    {
+        "q": "Entity number uses alphanumeric sequence for multiple registrations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange GSTIN assignment for multi-business:",
+        "type": "rearrange",
+        "words": [
+            "First registration",
+            "Entity 1",
+            "Second registration",
+            "Entity 2",
+            "Continues alphanumeric"
+        ]
+    },
+    {
+        "q": "Persons not making taxable supply need not register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Making only exempt supplies does not require registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Diplomat with UIN can claim refund of tax paid.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "UIN application is in FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "13"
+        ],
+        "other_options": [
+            "01",
+            "07",
+            "09"
+        ]
+    },
+    {
+        "q": "UIN does not have return filing requirement under GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "UIN holder files claim for refund in FORM GSTR-______.",
+        "type": "fill_blank",
+        "answers": [
+            "11"
+        ],
+        "other_options": [
+            "10",
+            "3B",
+            "1"
+        ]
+    },
+    {
+        "q": "Match UIN registration details:",
+        "type": "match",
+        "left": [
+            "Application form",
+            "Certificate",
+            "Refund form",
+            "Return"
+        ],
+        "right": [
+            "REG-13",
+            "REG-06",
+            "GSTR-11",
+            "Not required"
+        ]
+    },
+    {
+        "q": "Registration once granted continues unless cancelled.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxpayer must keep registration details updated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Failure to update details may lead to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "penalty"
+        ],
+        "other_options": [
+            "reward",
+            "waiver",
+            "exemption"
+        ]
+    },
+    {
+        "q": "Annual compliance includes updating authorized signatory if changed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bank account must be added within ______ days of registration.",
+        "type": "fill_blank",
+        "answers": [
+            "45"
+        ],
+        "other_options": [
+            "30",
+            "60",
+            "90"
+        ]
+    },
+    {
+        "q": "Failure to add bank account may lead to registration issues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTIN verification shows whether registration is active or cancelled.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Public search on GST portal requires only ______ to verify.",
+        "type": "fill_blank",
+        "answers": [
+            "GSTIN or PAN"
+        ],
+        "other_options": [
+            "password",
+            "OTP",
+            "login"
+        ]
+    },
+    {
+        "q": "Search result shows taxpayer's trade name and legal name.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Search result shows principal place of business state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Search result shows registration date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match GST search features:",
+        "type": "match",
+        "left": [
+            "Search by GSTIN",
+            "Search by PAN",
+            "Filing status",
+            "Compliance rating"
+        ],
+        "right": [
+            "Single result",
+            "Multiple results",
+            "Return filing check",
+            "Not shown"
+        ]
+    },
+    {
+        "q": "Compliance rating of taxpayer is publicly displayed.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Return filing status can be checked by any person.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Filing status check requires GSTIN and ______ period.",
+        "type": "fill_blank",
+        "answers": [
+            "financial"
+        ],
+        "other_options": [
+            "calendar",
+            "quarterly",
+            "monthly"
+        ]
+    },
+    {
+        "q": "Non-filing of returns is visible on GSTIN search.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Person can verify supplier's GSTIN before transaction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange supplier verification steps:",
+        "type": "rearrange",
+        "words": [
+            "Get supplier GSTIN",
+            "Search on portal",
+            "Verify name and address",
+            "Check filing status",
+            "Proceed with transaction"
+        ]
+    },
+    {
+        "q": "HSN/SAC code is visible on GSTIN search.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Additional place of business details are shown on search.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Only state of additional place is visible, not full address.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cancellation date is shown for cancelled registrations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Reason for cancellation is visible on search.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match visibility of registration details:",
+        "type": "match",
+        "left": [
+            "Trade name",
+            "Full address",
+            "Filing status",
+            "Turnover"
+        ],
+        "right": [
+            "Visible",
+            "Only state shown",
+            "Visible",
+            "Not shown"
+        ]
+    },
+    {
+        "q": "Composition dealer status is visible on GSTIN search.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Constitution of business (proprietor, partnership, etc.) is visible.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Date of commencement of liability is shown on search.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Effective date of registration is shown in search result.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Time limit to apply for composition from regular is ______ of financial year.",
+        "type": "fill_blank",
+        "answers": [
+            "beginning"
+        ],
+        "other_options": [
+            "end",
+            "middle",
+            "any time"
+        ]
+    },
+    {
+        "q": "CMP-02 is filed for opting into composition scheme.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange composition opting timeline:",
+        "type": "rearrange",
+        "words": [
+            "Check eligibility",
+            "File CMP-02 before 31st March",
+            "Effect from 1st April",
+            "Start composition compliance"
+        ]
+    },
+    {
+        "q": "Withdrawal from composition uses FORM GST CMP-______.",
+        "type": "fill_blank",
+        "answers": [
+            "04"
+        ],
+        "other_options": [
+            "02",
+            "03",
+            "05"
+        ]
+    },
+    {
+        "q": "Withdrawal from composition can be voluntary or mandatory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Mandatory withdrawal happens when eligibility conditions are violated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Upon withdrawal from composition, ITC can be claimed on ______.",
+        "type": "fill_blank",
+        "answers": [
+            "closing stock"
+        ],
+        "other_options": [
+            "all purchases",
+            "capital goods only",
+            "nothing"
+        ]
+    },
+    {
+        "q": "FORM ITC-01 is filed within ______ days of withdrawal from composition.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "45",
+            "60"
+        ]
+    },
+    {
+        "q": "Match composition scheme forms:",
+        "type": "match",
+        "left": [
+            "CMP-02",
+            "CMP-04",
+            "CMP-08",
+            "ITC-01"
+        ],
+        "right": [
+            "Opt in",
+            "Opt out",
+            "Quarterly statement",
+            "Stock ITC claim"
+        ]
+    },
+    {
+        "q": "Composition dealer cannot collect tax from customers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition dealer cannot issue tax invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition dealer issues ______ instead of tax invoice.",
+        "type": "fill_blank",
+        "answers": [
+            "bill of supply"
+        ],
+        "other_options": [
+            "receipt",
+            "delivery note",
+            "cash memo"
+        ]
+    },
+    {
+        "q": "Composition dealer must mention 'composition taxable person' on bills.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition dealer cannot make inter-state ______ supply.",
+        "type": "fill_blank",
+        "answers": [
+            "outward"
+        ],
+        "other_options": [
+            "inward",
+            "any",
+            "nil"
+        ]
+    },
+    {
+        "q": "Rearrange composition scheme restrictions:",
+        "type": "rearrange",
+        "words": [
+            "No ITC",
+            "No inter-state supply",
+            "No tax collection",
+            "Bill of supply only"
+        ]
+    },
+    {
+        "q": "Threshold amnesty was provided for pre-GST pending registrations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Migration window was open until ______.",
+        "type": "fill_blank",
+        "answers": [
+            "extended multiple times"
+        ],
+        "other_options": [
+            "1st July 2017",
+            "31st December 2017",
+            "permanent"
+        ]
+    },
+    {
+        "q": "Taxpayer failing to complete migration faced consequences.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Incomplete migration led to suspension of registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Migrated registration shows migration date on certificate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match migration concepts:",
+        "type": "match",
+        "left": [
+            "Provisional ID",
+            "Final GSTIN",
+            "Part B completion",
+            "REG-26"
+        ],
+        "right": [
+            "Temporary number",
+            "After verification",
+            "Document upload",
+            "Migration form"
+        ]
+    },
+    {
+        "q": "OIDAR stands for Online Information Database Access and Retrieval.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "OIDAR services are supplied over the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "internet"
+        ],
+        "other_options": [
+            "telephone",
+            "post",
+            "courier"
+        ]
+    },
+    {
+        "q": "OIDAR services are essentially automated with minimal human intervention.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Examples of OIDAR include:",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Cloud services",
+            "Online advertising",
+            "Database access"
+        ]
+    },
+    {
+        "q": "OIDAR supplier located outside India must register if supplying to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "unregistered persons"
+        ],
+        "other_options": [
+            "registered only",
+            "government",
+            "businesses"
+        ]
+    },
+    {
+        "q": "Simplified registration for OIDAR uses FORM GST REG-______.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "01",
+            "09",
+            "13"
+        ]
+    },
+    {
+        "q": "Rearrange OIDAR registration process:",
+        "type": "rearrange",
+        "words": [
+            "Identify OIDAR supply",
+            "Apply REG-10",
+            "Appoint representative",
+            "Get simplified registration",
+            "File returns"
+        ]
+    },
+    {
+        "q": "SEZ developer requires registration under section ______ of CGST.",
+        "type": "fill_blank",
+        "answers": [
+            "24(i)"
+        ],
+        "other_options": [
+            "22",
+            "23",
+            "25"
+        ]
+    },
+    {
+        "q": "SEZ unit supplies are zero-rated under GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ developer can claim refund on inward supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DTA supplier to SEZ can claim refund of IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Letter of Undertaking is required for supply to SEZ without payment of tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match SEZ provisions:",
+        "type": "match",
+        "left": [
+            "SEZ supply",
+            "SEZ purchase",
+            "DTA to SEZ",
+            "SEZ to DTA"
+        ],
+        "right": [
+            "Zero-rated",
+            "Refund eligible",
+            "Zero-rated with LUT",
+            "Taxable as import"
+        ]
+    },
+    {
+        "q": "EOU supplies to DTA attract normal GST rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "EOU can claim refund of GST paid on inputs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export from EOU is zero-rated supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Inter-unit transfer within EOU is not a supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "EOU registration is at option of the unit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange EOU GST treatment:",
+        "type": "rearrange",
+        "words": [
+            "Procure inputs with GST",
+            "Export goods",
+            "Claim refund",
+            "DTA sale with GST"
+        ]
+    },
+    {
+        "q": "FTWZ stands for Free Trade Warehousing Zone.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "FTWZ is a special category SEZ.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supply to FTWZ is zero-rated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "FTWZ unit must register under GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Goods in FTWZ are considered outside India for GST purposes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match special zones:",
+        "type": "match",
+        "left": [
+            "SEZ",
+            "EOU",
+            "FTWZ",
+            "EHTP"
+        ],
+        "right": [
+            "Special Economic Zone",
+            "Export Oriented Unit",
+            "Warehousing Zone",
+            "Hardware Park"
+        ]
+    },
+    {
+        "q": "EHTP stands for Electronic Hardware Technology Park.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "STP stands for Software Technology Park.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "EHTP and STP units can claim GST benefits.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bonded warehouse transaction requires GST registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Goods in bonded warehouse are not subject to GST until cleared for home consumption.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange bonded warehouse flow:",
+        "type": "rearrange",
+        "words": [
+            "Import goods",
+            "Store in bonded warehouse",
+            "Pay customs duty on clearance",
+            "Pay GST on clearance",
+            "Home consumption"
+        ]
+    },
+    {
+        "q": "Registration under multiple acts was streamlined under GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Single registration replaced multiple registrations under VAT, Service Tax, etc.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST registration is simpler than pre-GST era.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Online registration reduced paperwork significantly.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration process is completely ______.",
+        "type": "fill_blank",
+        "answers": [
+            "electronic"
+        ],
+        "other_options": [
+            "manual",
+            "hybrid",
+            "offline"
+        ]
+    },
+    {
+        "q": "Match GST registration benefits:",
+        "type": "match",
+        "left": [
+            "Single registration",
+            "Online process",
+            "Quick approval",
+            "Free of cost"
+        ],
+        "right": [
+            "Replaces multiple",
+            "No manual submission",
+            "7 working days",
+            "No fees"
+        ]
+    },
+    {
+        "q": "Registration enables claiming of ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Without registration, ITC cannot be claimed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration is required for inter-state supply regardless of threshold.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration enables legal supply of taxable goods and services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration gives recognition as legitimate supplier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange benefits of GST registration:",
+        "type": "rearrange",
+        "words": [
+            "Legal recognition",
+            "ITC eligibility",
+            "Inter-state supply ability",
+            "Government contracts eligibility"
+        ]
+    },
+    {
+        "q": "Unregistered supplier cannot charge GST to customers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unregistered supplier cannot issue tax invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unregistered supplier's supplies may attract RCM on recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Large buyers prefer registered suppliers for ITC benefit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration enhances business credibility.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match registration vs non-registration:",
+        "type": "match",
+        "left": [
+            "Registered",
+            "Unregistered",
+            "ITC",
+            "Tax invoice"
+        ],
+        "right": [
+            "Can charge GST",
+            "Cannot charge GST",
+            "Only for registered",
+            "Only by registered"
+        ]
+    },
+    {
+        "q": "Section 29 deals with cancellation of registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cancellation can be initiated by proper officer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cancellation can be initiated by legal heirs in case of death.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amalgamated company must intimate cancellation of predecessor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Discontinuation of business requires cancellation application.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange cancellation scenarios:",
+        "type": "rearrange",
+        "words": [
+            "Business discontinuation",
+            "Death of proprietor",
+            "Merger",
+            "Violation of law",
+            "Non-filing"
+        ]
+    },
+    {
+        "q": "Fraud in obtaining registration leads to cancellation ab initio.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Ab initio cancellation means from the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "beginning"
+        ],
+        "other_options": [
+            "date of order",
+            "end",
+            "current date"
+        ]
+    },
+    {
+        "q": "Retrospective cancellation has serious consequences.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC claimed during cancelled period must be reversed if cancellation is ab initio.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoices issued during cancelled period are invalid if ab initio.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match cancellation effects:",
+        "type": "match",
+        "left": [
+            "Normal cancellation",
+            "Ab initio",
+            "Prospective",
+            "Retrospective"
+        ],
+        "right": [
+            "From date of order",
+            "From beginning",
+            "Future effect",
+            "Past effect"
+        ]
+    },
+    {
+        "q": "Section 30 deals with revocation of cancellation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Revocation restores registration to active status.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Revocation is possible only for suo moto cancellation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Voluntary cancellation cannot be revoked.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Revocation requires showing cause for non-compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange revocation requirements:",
+        "type": "rearrange",
+        "words": [
+            "File pending returns",
+            "Pay pending dues",
+            "Show cause for default",
+            "Apply within 30 days",
+            "Get revocation order"
+        ]
+    },
+    {
+        "q": "Amnesty schemes were provided for late revocation applications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "One-time amnesty allowed filing revocation even after 30 days.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amnesty was extended multiple times during COVID period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Late fee waiver was provided during amnesty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Conditional waiver required filing all pending returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match amnesty provisions:",
+        "type": "match",
+        "left": [
+            "Late revocation",
+            "Late fee waiver",
+            "Return filing",
+            "Extended dates"
+        ],
+        "right": [
+            "Allowed during amnesty",
+            "Conditional",
+            "Mandatory",
+            "COVID relief"
+        ]
+    },
+    {
+        "q": "Physical verification is risk-based approach.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "High-risk applications undergo mandatory verification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Risk parameters include ______ authentication status.",
+        "type": "fill_blank",
+        "answers": [
+            "Aadhar"
+        ],
+        "other_options": [
+            "PAN",
+            "bank",
+            "email"
+        ]
+    },
+    {
+        "q": "Verification may include video conference.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Premises verification checks actual existence of business.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange risk-based verification:",
+        "type": "rearrange",
+        "words": [
+            "Application received",
+            "Risk scoring",
+            "Low risk auto-approved",
+            "High risk verification",
+            "Report submission"
+        ]
+    },
+    {
+        "q": "GST Practitioner examination is conducted by NACIN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NACIN stands for National Academy of Customs, Indirect Taxes and Narcotics.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST Practitioner can file returns on behalf of taxpayers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST Practitioner registration is valid for ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "3",
+            "1",
+            "10"
+        ]
+    },
+    {
+        "q": "GST Practitioner must renew registration before expiry.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match GST Practitioner requirements:",
+        "type": "match",
+        "left": [
+            "Qualification",
+            "Examination",
+            "Registration form",
+            "Validity"
+        ],
+        "right": [
+            "CA/CMA/CS/Advocate",
+            "NACIN",
+            "REG-01",
+            "5 years"
+        ]
+    },
+    {
+        "q": "Taxpayer must authorize GST Practitioner through portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Multiple GST Practitioners can be authorized by same taxpayer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST Practitioner misconduct leads to debarment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debarred practitioner cannot practice for notified period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxpayer remains responsible for accuracy of returns filed by practitioner.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange GSTP engagement process:",
+        "type": "rearrange",
+        "words": [
+            "Taxpayer selects GSTP",
+            "Authorize on portal",
+            "GSTP accepts",
+            "File returns",
+            "Taxpayer signs off"
+        ]
+    },
+    {
+        "q": "Input Service Distributor has separate registration requirement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISD registration is additional to normal registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISD distributes credit of input services to branches.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISD cannot distribute credit of input goods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISD credit must be distributed in same month of receipt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match ISD provisions:",
+        "type": "match",
+        "left": [
+            "Credit type",
+            "Distribution",
+            "Return",
+            "Document"
+        ],
+        "right": [
+            "Input services only",
+            "To registered branches",
+            "GSTR-6",
+            "ISD invoice"
+        ]
+    },
+    {
+        "q": "ISD invoice must mention that it is an ISD invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISD files return in FORM GSTR-______.",
+        "type": "fill_blank",
+        "answers": [
+            "6"
+        ],
+        "other_options": [
+            "1",
+            "3B",
+            "8"
+        ]
+    },
+    {
+        "q": "GSTR-6 is due by ______ of following month.",
+        "type": "fill_blank",
+        "answers": [
+            "13th"
+        ],
+        "other_options": [
+            "10th",
+            "20th",
+            "11th"
+        ]
+    },
+    {
+        "q": "ISD credit appears in recipient's GSTR-2B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISD must distribute credit pro-rata based on ______.",
+        "type": "fill_blank",
+        "answers": [
+            "turnover in previous year"
+        ],
+        "other_options": [
+            "equal basis",
+            "arbitrary",
+            "request"
+        ]
+    },
+    {
+        "q": "Rearrange ISD credit flow:",
+        "type": "rearrange",
+        "words": [
+            "Head office receives invoice",
+            "Claim as ISD credit",
+            "Distribute to branches",
+            "Issue ISD invoice",
+            "Branches claim credit"
+        ]
+    },
+    {
+        "q": "TDS deductor under GST includes government departments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS deductor includes local authority.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS deductor includes PSU.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS is deducted at ______ of contract value.",
+        "type": "fill_blank",
+        "answers": [
+            "2%"
+        ],
+        "other_options": [
+            "1%",
+            "5%",
+            "10%"
+        ]
+    },
+    {
+        "q": "TDS is deducted when contract value exceeds Rs. ______ lakh.",
+        "type": "fill_blank",
+        "answers": [
+            "2.5"
+        ],
+        "other_options": [
+            "1",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "q": "Match TDS provisions:",
+        "type": "match",
+        "left": [
+            "Deduction rate",
+            "Threshold",
+            "Return form",
+            "Due date"
+        ],
+        "right": [
+            "2%",
+            "Rs. 2.5 lakh",
+            "GSTR-7",
+            "10th of next month"
+        ]
+    },
+    {
+        "q": "TDS deductor files return in FORM GSTR-______.",
+        "type": "fill_blank",
+        "answers": [
+            "7"
+        ],
+        "other_options": [
+            "6",
+            "8",
+            "1"
+        ]
+    },
+    {
+        "q": "GSTR-7 is due by ______ of following month.",
+        "type": "fill_blank",
+        "answers": [
+            "10th"
+        ],
+        "other_options": [
+            "13th",
+            "20th",
+            "11th"
+        ]
+    },
+    {
+        "q": "TDS certificate is issued in FORM GSTR-______.",
+        "type": "fill_blank",
+        "answers": [
+            "7A"
+        ],
+        "other_options": [
+            "7B",
+            "7",
+            "8"
+        ]
+    },
+    {
+        "q": "TDS amount is credited to supplier's cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplier can use TDS credit for payment of tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange TDS compliance:",
+        "type": "rearrange",
+        "words": [
+            "Deduct TDS",
+            "File GSTR-7",
+            "Issue GSTR-7A",
+            "Credit to supplier",
+            "Supplier uses credit"
+        ]
+    },
+    {
+        "q": "E-commerce operator registration is mandatory under section 24(x).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-commerce operator collects TCS from suppliers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS rate for e-commerce is ______ of net value.",
+        "type": "fill_blank",
+        "answers": [
+            "1%"
+        ],
+        "other_options": [
+            "2%",
+            "0.5%",
+            "5%"
+        ]
+    },
+    {
+        "q": "Net value for TCS excludes returned goods value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-commerce operator files GSTR-8 by ______ of following month.",
+        "type": "fill_blank",
+        "answers": [
+            "10th"
+        ],
+        "other_options": [
+            "13th",
+            "20th",
+            "11th"
+        ]
+    },
+    {
+        "q": "Match TCS provisions:",
+        "type": "match",
+        "left": [
+            "Collection rate",
+            "Return form",
+            "Credit to",
+            "Penalty"
+        ],
+        "right": [
+            "1%",
+            "GSTR-8",
+            "Supplier cash ledger",
+            "100% of TCS"
+        ]
+    },
+    {
+        "q": "Supplier selling through e-commerce can verify TCS in GSTR-2A.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS collected by operator is auto-credited to supplier's ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplier can use TCS credit for payment of output tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Mismatch in TCS can be rectified in next month's return.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-commerce operator must report supplier-wise TCS details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange TCS flow:",
+        "type": "rearrange",
+        "words": [
+            "Supplier sells through ECO",
+            "ECO collects TCS",
+            "Files GSTR-8",
+            "Credit to supplier",
+            "Supplier uses credit"
+        ]
+    },
+    {
+        "q": "Registration under wrong category can be amended.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Change from regular to composition requires withdrawal and fresh intimation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Change from composition to regular is automatic on violation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Entity type change (proprietor to company) requires fresh registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "PAN change is not possible through amendment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match registration changes:",
+        "type": "match",
+        "left": [
+            "Address change",
+            "Partner change",
+            "PAN change",
+            "Entity type change"
+        ],
+        "right": [
+            "Amendment",
+            "Amendment",
+            "Fresh registration",
+            "Fresh registration"
+        ]
+    },
+    {
+        "q": "Shifting principal place to another state requires fresh registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Shifting within same state is by amendment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Additional place of business can be in different state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Additional place in different state is separate registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cancellation in one state does not affect other state registrations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange state-wise registration concept:",
+        "type": "rearrange",
+        "words": [
+            "One PAN multiple states",
+            "Separate GSTIN per state",
+            "Separate returns per GSTIN",
+            "State-wise compliance"
+        ]
+    },
+    {
+        "q": "Deemed registration is automatic if officer takes no action.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Deemed registration can be cancelled if found irregular.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Post-registration verification can lead to cancellation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Deemed registration gives full rights as normal registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxpayer must still complete KYC after deemed registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match deemed registration aspects:",
+        "type": "match",
+        "left": [
+            "Trigger",
+            "Rights",
+            "Verification",
+            "Risk"
+        ],
+        "right": [
+            "No officer action in 7 days",
+            "Same as normal",
+            "Post-registration",
+            "Later cancellation"
+        ]
+    },
+    {
+        "q": "GST portal allows tracking of registration application status.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Status can be tracked using TRN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Status can be tracked using ARN after Part B submission.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ARN stands for Application Reference Number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ARN is generated after complete submission of application.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange application tracking:",
+        "type": "rearrange",
+        "words": [
+            "Part A submit",
+            "Get TRN",
+            "Part B submit",
+            "Get ARN",
+            "Track with ARN"
+        ]
+    },
+    {
+        "q": "Registration of holding company and subsidiary requires separate GSTINs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Related parties must have separate registrations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supply between related parties is taxable even if below market value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Valuation for related party supplies is based on open market value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Related parties include holding and subsidiary companies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match related party provisions:",
+        "type": "match",
+        "left": [
+            "Holding-subsidiary",
+            "Director common",
+            "Spouse business",
+            "Control test"
+        ],
+        "right": [
+            "Related",
+            "Related",
+            "Related",
+            "Common control = related"
+        ]
+    },
+    {
+        "q": "Nil rated supplies do not require registration if no other taxable supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Zero rated supplies count towards aggregate turnover.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Exporter making only zero-rated supplies must register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Person making only intrastate exempt supplies need not register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Combination of exempt and taxable supplies requires registration based on taxable turnover only.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "All supplies count for aggregate turnover including exempt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration under GST is state-specific and business-vertical-specific.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Person operating in multiple states needs registration in ______ state.",
+        "type": "fill_blank",
+        "answers": [
+            "each"
+        ],
+        "other_options": [
+            "any one",
+            "head office",
+            "largest turnover"
+        ]
+    },
+    {
+        "q": "Inter-state supplies between own GSTINs are taxable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Stock transfer between own branches in different states attracts ______.",
+        "type": "fill_blank",
+        "answers": [
+            "IGST"
+        ],
+        "other_options": [
+            "CGST",
+            "SGST",
+            "No tax"
+        ]
+    },
+    {
+        "q": "Stock transfer within same state is not a supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match inter-unit transactions:",
+        "type": "match",
+        "left": [
+            "Same state transfer",
+            "Different state transfer",
+            "Same GSTIN",
+            "Different GSTIN"
+        ],
+        "right": [
+            "Not supply",
+            "Supply",
+            "Not supply",
+            "Supply"
+        ]
+    },
+    {
+        "q": "Constitution of business includes proprietorship, partnership, company.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Constitution type is selected while applying for registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "LLP is a ______ type of constitution.",
+        "type": "fill_blank",
+        "answers": [
+            "separate"
+        ],
+        "other_options": [
+            "same as partnership",
+            "same as company",
+            "same as proprietor"
+        ]
+    },
+    {
+        "q": "HUF can obtain GST registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Trust can obtain GST registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange constitution types by complexity:",
+        "type": "rearrange",
+        "words": [
+            "Proprietorship",
+            "Partnership",
+            "LLP",
+            "Private company",
+            "Public company"
+        ]
+    },
+    {
+        "q": "Society registered under Societies Act can obtain GST registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Club or association can obtain GST registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "AOP means Association of Persons.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "BOI means Body of Individuals.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Foreign company having place of business in India must register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match constitution types:",
+        "type": "match",
+        "left": [
+            "HUF",
+            "Trust",
+            "Society",
+            "AOP"
+        ],
+        "right": [
+            "Hindu Undivided Family",
+            "Charitable/business trust",
+            "Registered under Societies Act",
+            "Association of Persons"
+        ]
+    },
+    {
+        "q": "Authorized signatory must be added for portal access.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Primary authorized signatory has main access to GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Multiple authorized signatories can be added.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Authorized signatory can file returns and applications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Change of authorized signatory requires ______ form.",
+        "type": "fill_blank",
+        "answers": [
+            "REG-14"
+        ],
+        "other_options": [
+            "REG-01",
+            "REG-16",
+            "REG-21"
+        ]
+    },
+    {
+        "q": "Rearrange authorized signatory setup:",
+        "type": "rearrange",
+        "words": [
+            "Identify signatory",
+            "Upload documents",
+            "Add in registration",
+            "Grant portal access",
+            "Enable DSC/EVC"
+        ]
+    },
+    {
+        "q": "DSC class 2 or higher is required for companies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DSC is registered on GST portal for the user.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DSC can be issued by ______ certifying authority.",
+        "type": "fill_blank",
+        "answers": [
+            "licensed"
+        ],
+        "other_options": [
+            "any",
+            "government",
+            "bank"
+        ]
+    },
+    {
+        "q": "Emudhra is a licensed DSC issuing authority.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "n-Code is a licensed DSC issuing authority.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match DSC requirements:",
+        "type": "match",
+        "left": [
+            "Company",
+            "LLP",
+            "Proprietor",
+            "Partnership"
+        ],
+        "right": [
+            "Mandatory DSC",
+            "Mandatory DSC",
+            "EVC allowed",
+            "EVC allowed"
+        ]
+    },
+    {
+        "q": "Registration may be rejected for incomplete or false information.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Appeal against rejection is possible to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "appellate authority"
+        ],
+        "other_options": [
+            "same officer",
+            "council",
+            "GSTN"
+        ]
+    },
+    {
+        "q": "Appeal period for registration rejection is ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "45",
+            "60"
+        ]
+    },
+    {
+        "q": "Rejection order must give reasons for rejection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fresh application can be made after addressing deficiencies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange rejection handling:",
+        "type": "rearrange",
+        "words": [
+            "Receive rejection order",
+            "Review reasons",
+            "Appeal or fresh application",
+            "Address deficiencies",
+            "Reapply"
+        ]
+    },
+    {
+        "q": "Voluntary registration allows persons below threshold to register.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Benefit of voluntary registration includes ITC claim.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Voluntary registrant must file ______ returns.",
+        "type": "fill_blank",
+        "answers": [
+            "all regular"
+        ],
+        "other_options": [
+            "no",
+            "simplified",
+            "annual only"
+        ]
+    },
+    {
+        "q": "Voluntary registration is useful for B2B suppliers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Voluntary registration enables participation in government tenders.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match voluntary registration aspects:",
+        "type": "match",
+        "left": [
+            "Benefit",
+            "Obligation",
+            "Cancellation",
+            "ITC"
+        ],
+        "right": [
+            "ITC and credibility",
+            "Full compliance",
+            "After 1 year",
+            "Eligible"
+        ]
+    },
+    {
+        "q": "Changes in law regarding registration are notified through ______.",
+        "type": "fill_blank",
+        "answers": [
+            "official gazette"
+        ],
+        "other_options": [
+            "newspapers",
+            "email",
+            "SMS"
+        ]
+    },
+    {
+        "q": "Circulars clarify registration procedures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Notifications amend registration rules.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST Council recommends changes in registration provisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "State-level notifications may differ for state-specific provisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange law amendment process:",
+        "type": "rearrange",
+        "words": [
+            "Council recommendation",
+            "Central notification",
+            "State adoption",
+            "Portal update",
+            "Compliance change"
+        ]
+    },
+    {
+        "q": "GST registration details are protected under privacy provisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Only limited details are publicly visible on search.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Sensitive details like bank account are not publicly visible.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Full address is not shown on public search.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxpayer can view own complete details on login.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match data visibility:",
+        "type": "match",
+        "left": [
+            "Trade name",
+            "Bank account",
+            "Full address",
+            "Filing status"
+        ],
+        "right": [
+            "Public",
+            "Private",
+            "Private",
+            "Public"
+        ]
+    },
+    {
+        "q": "Registration errors can be corrected through amendment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Typographical errors in certificate are corrected via ______.",
+        "type": "fill_blank",
+        "answers": [
+            "REG-14"
+        ],
+        "other_options": [
+            "REG-01",
+            "fresh application",
+            "grievance"
+        ]
+    },
+    {
+        "q": "Incorrect HSN in registration can be amended.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Wrong constitution selection requires fresh registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Wrong PAN cannot be corrected, requires fresh registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange error correction flow:",
+        "type": "rearrange",
+        "words": [
+            "Identify error",
+            "Check if amendable",
+            "File REG-14 if yes",
+            "Fresh registration if no",
+            "Verify correction"
+        ]
+    },
+    {
+        "q": "Late registration does not affect liability from date of crossing threshold.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax liability starts from date of crossing threshold, not registration date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest is payable on tax not paid from date of liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Late registration attracts penalty under section ______.",
+        "type": "fill_blank",
+        "answers": [
+            "122"
+        ],
+        "other_options": [
+            "123",
+            "124",
+            "125"
+        ]
+    },
+    {
+        "q": "Minimum penalty for late registration is Rs. ______.",
+        "type": "fill_blank",
+        "answers": [
+            "10000"
+        ],
+        "other_options": [
+            "5000",
+            "25000",
+            "50000"
+        ]
+    },
+    {
+        "q": "Match late registration consequences:",
+        "type": "match",
+        "left": [
+            "Tax",
+            "Interest",
+            "Penalty",
+            "Returns"
+        ],
+        "right": [
+            "From liability date",
+            "18% from due date",
+            "Minimum Rs. 10000",
+            "From liability date"
+        ]
+    },
+    {
+        "q": "Compliance rating was proposed for taxpayers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Compliance rating considers return filing timeliness.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Compliance rating considers tax payment timeliness.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Higher compliance rating indicates better taxpayer behavior.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Compliance rating may influence ITC eligibility in future.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange compliance rating factors:",
+        "type": "rearrange",
+        "words": [
+            "Return filing",
+            "Tax payment",
+            "Discrepancy minimization",
+            "Refund claims",
+            "Overall compliance"
+        ]
+    },
+    {
+        "q": "Portal downtime is considered for late filing penalty waiver.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Technical glitches may allow extension for compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTN issues notifications for portal maintenance windows.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Due date extensions are notified through ______.",
+        "type": "fill_blank",
+        "answers": [
+            "official notifications"
+        ],
+        "other_options": [
+            "SMS",
+            "email",
+            "newspapers"
+        ]
+    },
+    {
+        "q": "Taxpayer should document portal errors for records.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match portal issues:",
+        "type": "match",
+        "left": [
+            "Downtime",
+            "Glitch",
+            "Maintenance",
+            "Extension"
+        ],
+        "right": [
+            "System unavailable",
+            "Functional error",
+            "Planned unavailability",
+            "Due date postponement"
+        ]
+    },
+    {
+        "q": "Section 28 provides for amendment of registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rule 19 of CGST Rules deals with amendment procedure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amendment is allowed for both core and non-core fields.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Core field amendment requires document verification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-core field amendment is ______ approved.",
+        "type": "fill_blank",
+        "answers": [
+            "auto"
+        ],
+        "other_options": [
+            "manually",
+            "conditionally",
+            "never"
+        ]
+    },
+    {
+        "q": "Rearrange amendment provisions:",
+        "type": "rearrange",
+        "words": [
+            "Section 28 CGST",
+            "Rule 19 CGST Rules",
+            "Form REG-14",
+            "Approval REG-15"
+        ]
+    },
+    {
+        "q": "Registration in special category states follows same procedure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Special category states include north-eastern states.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Jammu and Kashmir was a special category state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Himachal Pradesh is a special category state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Uttarakhand is a special category state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match special category states:",
+        "type": "match",
+        "left": [
+            "Arunachal Pradesh",
+            "Nagaland",
+            "Manipur",
+            "Tripura"
+        ],
+        "right": [
+            "Special category",
+            "Special category",
+            "Special category",
+            "Special category"
+        ]
+    },
+    {
+        "q": "Registration timeline is same for all categories of taxpayers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Processing time is 7 working days for all applications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Weekends and holidays are excluded from working days count.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Public holidays notified by government are excluded.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "State-specific holidays may affect state officer processing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange application processing timeline:",
+        "type": "rearrange",
+        "words": [
+            "Day 1 application",
+            "Day 2-3 verification",
+            "Day 4-6 clarification",
+            "Day 7 decision",
+            "Certificate issued"
+        ]
+    },
+    {
+        "q": "Zone and division are administrative units for GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Jurisdiction of taxpayer is assigned based on location.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Centre and state have separate jurisdictions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CGST and SGST officers have concurrent jurisdiction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Assignment of jurisdiction is based on PAN and turnover.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match jurisdiction concepts:",
+        "type": "match",
+        "left": [
+            "Zone",
+            "Division",
+            "Range",
+            "Sector"
+        ],
+        "right": [
+            "Largest unit",
+            "Medium unit",
+            "Smaller unit",
+            "Smallest unit"
+        ]
+    },
+    {
+        "q": "Taxpayer can view assigned jurisdiction on GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Jurisdiction change can be requested by taxpayer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cross-empowerment allows officers of one tax to administer other.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Single interface policy avoids dual control issues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxpayer need not report to both CGST and SGST officers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange jurisdiction assignment:",
+        "type": "rearrange",
+        "words": [
+            "Registration granted",
+            "Jurisdiction assigned",
+            "Officer allocated",
+            "Notices to taxpayer",
+            "Single interface"
+        ]
+    },
+    {
+        "q": "Audit and assessment are conducted by assigned jurisdiction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Scrutiny is based on risk parameters and random selection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Registration status affects audit selection.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Compliance history affects audit selection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Turnover is a factor in audit selection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match audit triggers:",
+        "type": "match",
+        "left": [
+            "High turnover",
+            "Poor compliance",
+            "Mismatch",
+            "Random"
+        ],
+        "right": [
+            "Higher chance of audit",
+            "Higher chance",
+            "Targeted scrutiny",
+            "Lottery selection"
+        ]
+    },
+    {
+        "q": "Registration certificate is proof of GST registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Certificate is valid till cancellation or surrender.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Certificate number is same as GSTIN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Certificate is digitally signed by system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Physical certificate is not issued, only digital.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange certificate uses:",
+        "type": "rearrange",
+        "words": [
+            "Proof of registration",
+            "Display at premises",
+            "Verify with portal",
+            "Submit for contracts",
+            "Open bank account"
+        ]
+    }
+]

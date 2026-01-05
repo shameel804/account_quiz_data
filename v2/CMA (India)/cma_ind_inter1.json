@@ -1,0 +1,6538 @@
+[
+    {
+        "q": "Financial Accounting is primarily concerned with recording business transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the basic accounting equation?",
+        "type": "mcq",
+        "o": [
+            "Assets = Liabilities + Equity",
+            "Assets = Liabilities - Equity",
+            "Assets + Liabilities = Equity",
+            "Assets - Liabilities = Revenue"
+        ]
+    },
+    {
+        "q": "The ______ records all transactions in chronological order.",
+        "type": "fill_blank",
+        "answers": [
+            "journal"
+        ],
+        "other_options": [
+            "ledger",
+            "trial balance",
+            "balance sheet"
+        ]
+    },
+    {
+        "q": "What is the purpose of a ledger?",
+        "type": "mcq",
+        "o": [
+            "To classify transactions by accounts",
+            "To record transactions chronologically",
+            "To summarize cash transactions only",
+            "To prepare tax returns"
+        ]
+    },
+    {
+        "q": "A debit entry increases asset accounts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is double-entry bookkeeping?",
+        "type": "mcq",
+        "o": [
+            "Every transaction affects at least two accounts",
+            "Recording transactions twice",
+            "Using two ledgers",
+            "Making entries in two journals"
+        ]
+    },
+    {
+        "q": "Match the account types with their normal balances:",
+        "type": "match",
+        "left": [
+            "Assets",
+            "Liabilities",
+            "Revenue",
+            "Expenses"
+        ],
+        "right": [
+            "Debit",
+            "Credit",
+            "Credit",
+            "Debit"
+        ]
+    },
+    {
+        "q": "What is a trial balance?",
+        "type": "mcq",
+        "o": [
+            "List of all ledger balances to verify arithmetic accuracy",
+            "Final financial statement",
+            "Cash register record",
+            "Bank statement reconciliation"
+        ]
+    },
+    {
+        "q": "The trial balance always guarantees error-free books.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What are adjusting entries used for?",
+        "type": "mcq",
+        "o": [
+            "Updating accounts at period end under accrual accounting",
+            "Correcting errors only",
+            "Recording cash transactions",
+            "Preparing budgets"
+        ]
+    },
+    {
+        "q": "______ expenses are expenses incurred but not yet paid.",
+        "type": "fill_blank",
+        "answers": [
+            "Accrued"
+        ],
+        "other_options": [
+            "Prepaid",
+            "Deferred",
+            "Direct"
+        ]
+    },
+    {
+        "q": "What is depreciation?",
+        "type": "mcq",
+        "o": [
+            "Systematic allocation of asset cost over useful life",
+            "Increase in asset value",
+            "Cash payment for assets",
+            "Interest on borrowed funds"
+        ]
+    },
+    {
+        "q": "Match the depreciation methods with their characteristics:",
+        "type": "match",
+        "left": [
+            "Straight-line",
+            "Reducing balance",
+            "Units of production",
+            "Sum of years digits"
+        ],
+        "right": [
+            "Equal charges each year",
+            "Higher early charges",
+            "Based on usage",
+            "Accelerated method"
+        ]
+    },
+    {
+        "q": "What is FIFO inventory method?",
+        "type": "mcq",
+        "o": [
+            "First goods purchased are first goods sold",
+            "Last goods purchased are first goods sold",
+            "Average cost method",
+            "Specific identification method"
+        ]
+    },
+    {
+        "q": "Under LIFO, closing stock is valued at ______ prices.",
+        "type": "fill_blank",
+        "answers": [
+            "earlier"
+        ],
+        "other_options": [
+            "later",
+            "average",
+            "current"
+        ]
+    },
+    {
+        "q": "What is weighted average cost method?",
+        "type": "mcq",
+        "o": [
+            "Cost calculated based on weighted average of all purchases",
+            "Equal weighting to all items",
+            "First purchase price used",
+            "Last purchase price used"
+        ]
+    },
+    {
+        "q": "Lower of cost or net realizable value is applied to inventory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the treatment of trade receivables?",
+        "type": "mcq",
+        "o": [
+            "Shown as current asset less provision for doubtful debts",
+            "Shown as fixed asset",
+            "Shown as liability",
+            "Not recorded until collected"
+        ]
+    },
+    {
+        "q": "Match the financial statements with their purposes:",
+        "type": "match",
+        "left": [
+            "Balance Sheet",
+            "Income Statement",
+            "Cash Flow Statement",
+            "Statement of Changes in Equity"
+        ],
+        "right": [
+            "Financial position",
+            "Performance",
+            "Cash movements",
+            "Capital changes"
+        ]
+    },
+    {
+        "q": "What is gross profit?",
+        "type": "mcq",
+        "o": [
+            "Sales minus cost of goods sold",
+            "Total revenue minus all expenses",
+            "Net profit plus tax",
+            "Operating profit"
+        ]
+    },
+    {
+        "q": "Operating profit is also called ______ from operations.",
+        "type": "fill_blank",
+        "answers": [
+            "EBIT"
+        ],
+        "other_options": [
+            "gross profit",
+            "net income",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is net profit?",
+        "type": "mcq",
+        "o": [
+            "Profit after all expenses including tax",
+            "Sales revenue only",
+            "Gross profit",
+            "Operating income"
+        ]
+    },
+    {
+        "q": "Current assets are expected to be converted to cash within one year.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are current liabilities?",
+        "type": "mcq",
+        "o": [
+            "Obligations due within one year",
+            "Long-term debt",
+            "Share capital",
+            "Fixed assets"
+        ]
+    },
+    {
+        "q": "Match the items with their classifications:",
+        "type": "match",
+        "left": [
+            "Inventory",
+            "Debentures",
+            "Patents",
+            "Accounts payable"
+        ],
+        "right": [
+            "Current asset",
+            "Non-current liability",
+            "Intangible asset",
+            "Current liability"
+        ]
+    },
+    {
+        "q": "What is direct tax?",
+        "type": "mcq",
+        "o": [
+            "Tax paid directly by person on whom it is imposed",
+            "Tax passed on to consumers",
+            "Sales tax",
+            "Customs duty"
+        ]
+    },
+    {
+        "q": "Income tax is an example of ______ tax.",
+        "type": "fill_blank",
+        "answers": [
+            "direct"
+        ],
+        "other_options": [
+            "indirect",
+            "progressive",
+            "regressive"
+        ]
+    },
+    {
+        "q": "What is indirect tax?",
+        "type": "mcq",
+        "o": [
+            "Tax passed on from taxpayer to another person",
+            "Tax paid directly by earner",
+            "Wealth tax",
+            "Property tax"
+        ]
+    },
+    {
+        "q": "GST is an indirect tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does GST stand for?",
+        "type": "mcq",
+        "o": [
+            "Goods and Services Tax",
+            "General Sales Tax",
+            "Government Service Tax",
+            "Gross Sales Tax"
+        ]
+    },
+    {
+        "q": "Match the tax types with their examples:",
+        "type": "match",
+        "left": [
+            "Direct tax",
+            "Indirect tax",
+            "Progressive tax",
+            "Proportional tax"
+        ],
+        "right": [
+            "Income tax",
+            "GST",
+            "Income tax slabs",
+            "Flat rate tax"
+        ]
+    },
+    {
+        "q": "What is a previous year under Income Tax Act?",
+        "type": "mcq",
+        "o": [
+            "Year in which income is earned",
+            "Year in which tax is paid",
+            "Calendar year",
+            "Accounting year always April to March"
+        ]
+    },
+    {
+        "q": "Assessment year is the year ______ the previous year.",
+        "type": "fill_blank",
+        "answers": [
+            "after"
+        ],
+        "other_options": [
+            "before",
+            "during",
+            "same as"
+        ]
+    },
+    {
+        "q": "What is residential status for tax purposes?",
+        "type": "mcq",
+        "o": [
+            "Classification determining scope of income taxable",
+            "Permanent address only",
+            "Citizenship status",
+            "Voter registration"
+        ]
+    },
+    {
+        "q": "A resident and ordinarily resident is taxable on global income.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the heads of income under Income Tax Act?",
+        "type": "mcq",
+        "o": [
+            "Salary, House Property, Business/Profession, Capital Gains, Other Sources",
+            "Only salary and business income",
+            "Salary and investment income",
+            "Business income only"
+        ]
+    },
+    {
+        "q": "Arrange the heads of income in the order specified in Income Tax Act:",
+        "type": "rearrange",
+        "words": [
+            "Salary",
+            "House Property",
+            "Business/Profession",
+            "Capital Gains",
+            "Other Sources"
+        ]
+    },
+    {
+        "q": "What is gross total income?",
+        "type": "mcq",
+        "o": [
+            "Sum of income from all heads before deductions",
+            "Net taxable income",
+            "Salary income only",
+            "Business income only"
+        ]
+    },
+    {
+        "q": "Section 80C deductions are allowed up to Rs ______ lakh.",
+        "type": "fill_blank",
+        "answers": [
+            "1.5"
+        ],
+        "other_options": [
+            "1",
+            "2",
+            "2.5"
+        ]
+    },
+    {
+        "q": "What is TDS?",
+        "type": "mcq",
+        "o": [
+            "Tax Deducted at Source",
+            "Total Deduction System",
+            "Tax Deposit Scheme",
+            "Taxable Deduction Schedule"
+        ]
+    },
+    {
+        "q": "Advance tax is payable if estimated tax liability exceeds Rs 10,000.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is PAN?",
+        "type": "mcq",
+        "o": [
+            "Permanent Account Number for tax identification",
+            "Personal Account Number",
+            "Primary Account Number",
+            "Payment Account Number"
+        ]
+    },
+    {
+        "q": "Match the sections with their deductions:",
+        "type": "match",
+        "left": [
+            "Section 80C",
+            "Section 80D",
+            "Section 80G",
+            "Section 80E"
+        ],
+        "right": [
+            "Investment deductions",
+            "Health insurance premium",
+            "Donations",
+            "Education loan interest"
+        ]
+    },
+    {
+        "q": "What is cost accounting?",
+        "type": "mcq",
+        "o": [
+            "Accounting for costs of production and operations",
+            "Financial accounting only",
+            "Tax accounting",
+            "Audit of accounts"
+        ]
+    },
+    {
+        "q": "Cost accounting provides ______ information for decision making.",
+        "type": "fill_blank",
+        "answers": [
+            "internal"
+        ],
+        "other_options": [
+            "external",
+            "public",
+            "statutory"
+        ]
+    },
+    {
+        "q": "What is prime cost?",
+        "type": "mcq",
+        "o": [
+            "Direct materials plus direct labor",
+            "All manufacturing costs",
+            "Fixed costs only",
+            "Overhead costs"
+        ]
+    },
+    {
+        "q": "Factory overhead is also called manufacturing overhead.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are direct costs?",
+        "type": "mcq",
+        "o": [
+            "Costs directly traceable to cost object",
+            "All fixed costs",
+            "Overhead expenses",
+            "Administrative costs"
+        ]
+    },
+    {
+        "q": "Match the cost classifications with their examples:",
+        "type": "match",
+        "left": [
+            "Direct material",
+            "Direct labor",
+            "Factory overhead",
+            "Administrative expense"
+        ],
+        "right": [
+            "Raw materials used",
+            "Production workers' wages",
+            "Factory rent",
+            "Office salaries"
+        ]
+    },
+    {
+        "q": "What is conversion cost?",
+        "type": "mcq",
+        "o": [
+            "Direct labor plus factory overhead",
+            "Only material costs",
+            "Selling expenses",
+            "Distribution costs"
+        ]
+    },
+    {
+        "q": "Fixed costs remain ______ in total within relevant range regardless of activity.",
+        "type": "fill_blank",
+        "answers": [
+            "constant"
+        ],
+        "other_options": [
+            "variable",
+            "zero",
+            "negative"
+        ]
+    },
+    {
+        "q": "What are variable costs?",
+        "type": "mcq",
+        "o": [
+            "Costs that change in proportion to activity level",
+            "Costs that never change",
+            "Fixed costs",
+            "Sunk costs"
+        ]
+    },
+    {
+        "q": "Semi-variable costs have both fixed and variable components.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a cost center?",
+        "type": "mcq",
+        "o": [
+            "Unit for which costs are collected and controlled",
+            "Profit generating unit",
+            "Investment center",
+            "Revenue center"
+        ]
+    },
+    {
+        "q": "Match the cost behavior with their characteristics:",
+        "type": "match",
+        "left": [
+            "Fixed cost",
+            "Variable cost",
+            "Step cost",
+            "Mixed cost"
+        ],
+        "right": [
+            "Constant total",
+            "Constant per unit",
+            "Increases in steps",
+            "Has fixed and variable parts"
+        ]
+    },
+    {
+        "q": "What is job costing?",
+        "type": "mcq",
+        "o": [
+            "Costing method for specific orders or jobs",
+            "Costing for continuous production",
+            "Standard costing only",
+            "Activity-based costing"
+        ]
+    },
+    {
+        "q": "Process costing is used for ______ production of similar units.",
+        "type": "fill_blank",
+        "answers": [
+            "continuous"
+        ],
+        "other_options": [
+            "batch",
+            "job",
+            "custom"
+        ]
+    },
+    {
+        "q": "What is a cost sheet?",
+        "type": "mcq",
+        "o": [
+            "Statement showing detailed breakdown of costs",
+            "Balance sheet for costs",
+            "Income statement",
+            "Cash flow statement"
+        ]
+    },
+    {
+        "q": "Works cost equals factory cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CPU?",
+        "type": "mcq",
+        "o": [
+            "Central Processing Unit",
+            "Computer Processing Unit",
+            "Central Program Unit",
+            "Computer Program Unit"
+        ]
+    },
+    {
+        "q": "The ______ is the main memory directly accessible by CPU.",
+        "type": "fill_blank",
+        "answers": [
+            "RAM"
+        ],
+        "other_options": [
+            "ROM",
+            "Hard disk",
+            "SSD"
+        ]
+    },
+    {
+        "q": "What is ROM?",
+        "type": "mcq",
+        "o": [
+            "Read Only Memory containing permanent instructions",
+            "Random Access Memory",
+            "Removable Output Memory",
+            "Rewritable Output Memory"
+        ]
+    },
+    {
+        "q": "RAM is volatile memory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the function of operating system?",
+        "type": "mcq",
+        "o": [
+            "Manage computer hardware and provide services for applications",
+            "Word processing only",
+            "Spreadsheet calculations",
+            "Internet browsing"
+        ]
+    },
+    {
+        "q": "Match the hardware components with their functions:",
+        "type": "match",
+        "left": [
+            "CPU",
+            "RAM",
+            "Hard disk",
+            "Monitor"
+        ],
+        "right": [
+            "Processing",
+            "Temporary storage",
+            "Permanent storage",
+            "Output display"
+        ]
+    },
+    {
+        "q": "What is an input device?",
+        "type": "mcq",
+        "o": [
+            "Device used to enter data into computer",
+            "Device that displays output",
+            "Storage device",
+            "Processing device"
+        ]
+    },
+    {
+        "q": "Keyboard and mouse are examples of ______ devices.",
+        "type": "fill_blank",
+        "answers": [
+            "input"
+        ],
+        "other_options": [
+            "output",
+            "storage",
+            "processing"
+        ]
+    },
+    {
+        "q": "What is software?",
+        "type": "mcq",
+        "o": [
+            "Set of instructions that tell computer what to do",
+            "Physical parts of computer",
+            "Keyboard and mouse",
+            "Monitor and printer"
+        ]
+    },
+    {
+        "q": "System software includes the operating system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is application software?",
+        "type": "mcq",
+        "o": [
+            "Software designed for end users to perform specific tasks",
+            "Operating system",
+            "Device drivers",
+            "BIOS"
+        ]
+    },
+    {
+        "q": "Match the software types with their examples:",
+        "type": "match",
+        "left": [
+            "System software",
+            "Application software",
+            "Utility software",
+            "Programming language"
+        ],
+        "right": [
+            "Windows OS",
+            "MS Word",
+            "Antivirus",
+            "Python"
+        ]
+    },
+    {
+        "q": "What is a binary number system?",
+        "type": "mcq",
+        "o": [
+            "Number system using only 0 and 1",
+            "Decimal system",
+            "Hexadecimal system",
+            "Octal system"
+        ]
+    },
+    {
+        "q": "Computers use ______ system internally.",
+        "type": "fill_blank",
+        "answers": [
+            "binary"
+        ],
+        "other_options": [
+            "decimal",
+            "octal",
+            "hexadecimal"
+        ]
+    },
+    {
+        "q": "What is a byte?",
+        "type": "mcq",
+        "o": [
+            "Group of 8 bits",
+            "Single bit",
+            "16 bits",
+            "32 bits"
+        ]
+    },
+    {
+        "q": "1 KB equals 1024 bytes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is LAN?",
+        "type": "mcq",
+        "o": [
+            "Local Area Network connecting computers in limited area",
+            "Large Area Network",
+            "Long Area Network",
+            "Linked Access Network"
+        ]
+    },
+    {
+        "q": "Match the network types with their scope:",
+        "type": "match",
+        "left": [
+            "LAN",
+            "WAN",
+            "MAN",
+            "PAN"
+        ],
+        "right": [
+            "Building/Campus",
+            "Countries/Globe",
+            "City",
+            "Personal devices"
+        ]
+    },
+    {
+        "q": "What is the Internet?",
+        "type": "mcq",
+        "o": [
+            "Global network of interconnected networks",
+            "Single computer network",
+            "Local office network",
+            "Intranet only"
+        ]
+    },
+    {
+        "q": "WWW stands for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "World Wide Web"
+        ],
+        "other_options": [
+            "Wide World Web",
+            "Web World Wide",
+            "World Web Wide"
+        ]
+    },
+    {
+        "q": "What is a URL?",
+        "type": "mcq",
+        "o": [
+            "Uniform Resource Locator - web address",
+            "Universal Resource Link",
+            "Unique Reference Locator",
+            "Unified Resource Language"
+        ]
+    },
+    {
+        "q": "HTTP is a protocol used for web communication.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an IP address?",
+        "type": "mcq",
+        "o": [
+            "Unique numerical identifier for network devices",
+            "Email address",
+            "Physical address",
+            "Website name"
+        ]
+    },
+    {
+        "q": "Match the terms with their meanings:",
+        "type": "match",
+        "left": [
+            "Browser",
+            "Search engine",
+            "Email",
+            "Website"
+        ],
+        "right": [
+            "Software to view web pages",
+            "Tool to find information",
+            "Electronic mail",
+            "Collection of web pages"
+        ]
+    },
+    {
+        "q": "What is a spreadsheet?",
+        "type": "mcq",
+        "o": [
+            "Software for organizing data in rows and columns",
+            "Word processing software",
+            "Presentation software",
+            "Database software"
+        ]
+    },
+    {
+        "q": "Microsoft Excel is an example of ______ software.",
+        "type": "fill_blank",
+        "answers": [
+            "spreadsheet"
+        ],
+        "other_options": [
+            "word processing",
+            "presentation",
+            "database"
+        ]
+    },
+    {
+        "q": "What is a cell in a spreadsheet?",
+        "type": "mcq",
+        "o": [
+            "Intersection of row and column",
+            "Single row",
+            "Single column",
+            "Entire worksheet"
+        ]
+    },
+    {
+        "q": "Formulas in spreadsheets begin with equals sign (=).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a database?",
+        "type": "mcq",
+        "o": [
+            "Organized collection of structured data",
+            "Single text file",
+            "Spreadsheet only",
+            "Web browser"
+        ]
+    },
+    {
+        "q": "Match the database terms with their meanings:",
+        "type": "match",
+        "left": [
+            "Table",
+            "Record",
+            "Field",
+            "Query"
+        ],
+        "right": [
+            "Collection of related records",
+            "Single row of data",
+            "Single data item",
+            "Data retrieval request"
+        ]
+    },
+    {
+        "q": "What is DBMS?",
+        "type": "mcq",
+        "o": [
+            "Database Management System",
+            "Data Backup Management System",
+            "Digital Business Management System",
+            "Document Base Management System"
+        ]
+    },
+    {
+        "q": "SQL is a language used to manage ______.",
+        "type": "fill_blank",
+        "answers": [
+            "databases"
+        ],
+        "other_options": [
+            "spreadsheets",
+            "documents",
+            "presentations"
+        ]
+    },
+    {
+        "q": "What is computer virus?",
+        "type": "mcq",
+        "o": [
+            "Malicious program that replicates and damages systems",
+            "Beneficial software",
+            "Operating system component",
+            "Hardware device"
+        ]
+    },
+    {
+        "q": "Antivirus software protects computers from malware.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is backup?",
+        "type": "mcq",
+        "o": [
+            "Copy of data for recovery purposes",
+            "Deleting old files",
+            "Installing new software",
+            "Upgrading hardware"
+        ]
+    },
+    {
+        "q": "Match the security terms with their meanings:",
+        "type": "match",
+        "left": [
+            "Firewall",
+            "Encryption",
+            "Password",
+            "Backup"
+        ],
+        "right": [
+            "Network security barrier",
+            "Data encoding",
+            "Access control",
+            "Data protection copy"
+        ]
+    },
+    {
+        "q": "What is the difference between capital and revenue expenditure?",
+        "type": "mcq",
+        "o": [
+            "Capital creates asset; revenue is for current period operations",
+            "Both are same",
+            "Revenue creates assets",
+            "Capital is for daily expenses"
+        ]
+    },
+    {
+        "q": "Capital expenditure is shown as ______ in balance sheet.",
+        "type": "fill_blank",
+        "answers": [
+            "asset"
+        ],
+        "other_options": [
+            "expense",
+            "liability",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is rectification of errors in accounting?",
+        "type": "mcq",
+        "o": [
+            "Correcting mistakes in books of accounts",
+            "Preparing new books",
+            "Closing old accounts",
+            "Opening new accounts"
+        ]
+    },
+    {
+        "q": "Suspense account is used to balance trial balance when errors exist.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are compensating errors?",
+        "type": "mcq",
+        "o": [
+            "Errors that cancel each other's effect",
+            "Errors in one account only",
+            "Errors affecting trial balance",
+            "Deliberate errors"
+        ]
+    },
+    {
+        "q": "Match the error types with their descriptions:",
+        "type": "match",
+        "left": [
+            "Error of omission",
+            "Error of commission",
+            "Error of principle",
+            "Compensating error"
+        ],
+        "right": [
+            "Transaction not recorded",
+            "Wrong amount recorded",
+            "Wrong classification",
+            "Errors offset each other"
+        ]
+    },
+    {
+        "q": "What is a provision for depreciation account?",
+        "type": "mcq",
+        "o": [
+            "Accumulated depreciation charged on asset",
+            "Reserve for future purchases",
+            "Cash set aside for assets",
+            "Asset purchase account"
+        ]
+    },
+    {
+        "q": "Written down value method charges ______ depreciation in earlier years.",
+        "type": "fill_blank",
+        "answers": [
+            "higher"
+        ],
+        "other_options": [
+            "lower",
+            "equal",
+            "zero"
+        ]
+    },
+    {
+        "q": "What is the treatment of profit on sale of fixed asset?",
+        "type": "mcq",
+        "o": [
+            "Credited to Profit and Loss Account",
+            "Added to the asset",
+            "Shown as liability",
+            "Transferred to reserve"
+        ]
+    },
+    {
+        "q": "Loss on sale of fixed asset is debited to Profit and Loss Account.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is revaluation of assets?",
+        "type": "mcq",
+        "o": [
+            "Reassessing asset value to reflect current worth",
+            "Selling assets",
+            "Disposing assets",
+            "Purchasing new assets"
+        ]
+    },
+    {
+        "q": "Match the accounting concepts with their applications:",
+        "type": "match",
+        "left": [
+            "Going concern",
+            "Accrual",
+            "Matching",
+            "Consistency"
+        ],
+        "right": [
+            "Business will continue",
+            "Record when incurred",
+            "Expenses matched with revenue",
+            "Same methods each period"
+        ]
+    },
+    {
+        "q": "What is a contingent liability?",
+        "type": "mcq",
+        "o": [
+            "Potential obligation depending on future event",
+            "Certain liability",
+            "Current liability",
+            "Long-term debt"
+        ]
+    },
+    {
+        "q": "Contingent liabilities are usually disclosed in ______ to accounts.",
+        "type": "fill_blank",
+        "answers": [
+            "notes"
+        ],
+        "other_options": [
+            "balance sheet",
+            "income statement",
+            "cash flow"
+        ]
+    },
+    {
+        "q": "What is the treatment of bad debts?",
+        "type": "mcq",
+        "o": [
+            "Debited to Profit and Loss Account as expense",
+            "Added to debtors",
+            "Shown as asset",
+            "Credited to sales"
+        ]
+    },
+    {
+        "q": "Provision for doubtful debts is created for potential uncollectible amounts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is bank reconciliation statement?",
+        "type": "mcq",
+        "o": [
+            "Statement explaining differences between cash book and bank statement",
+            "Bank loan statement",
+            "Fixed deposit receipt",
+            "Bank guarantee document"
+        ]
+    },
+    {
+        "q": "Match the reconciliation items with their treatments:",
+        "type": "match",
+        "left": [
+            "Cheques not presented",
+            "Direct deposits",
+            "Bank charges",
+            "Cheques deposited not cleared"
+        ],
+        "right": [
+            "Add to pass book balance",
+            "Add to cash book",
+            "Deduct from cash book",
+            "Add to pass book balance"
+        ]
+    },
+    {
+        "q": "What is final accounts preparation?",
+        "type": "mcq",
+        "o": [
+            "Preparing Trading, P&L Account and Balance Sheet",
+            "Opening new books",
+            "Recording daily transactions",
+            "Preparing vouchers"
+        ]
+    },
+    {
+        "q": "The ______ account shows gross profit or loss for the period.",
+        "type": "fill_blank",
+        "answers": [
+            "Trading"
+        ],
+        "other_options": [
+            "Profit and Loss",
+            "Balance Sheet",
+            "Cash Flow"
+        ]
+    },
+    {
+        "q": "What is the nature of capital account?",
+        "type": "mcq",
+        "o": [
+            "Personal account representing owner's interest",
+            "Real account",
+            "Nominal account",
+            "Expense account"
+        ]
+    },
+    {
+        "q": "Capital account has a credit balance normally.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CGST?",
+        "type": "mcq",
+        "o": [
+            "Central Goods and Services Tax",
+            "Common Goods and Services Tax",
+            "Combined Goods and Services Tax",
+            "Customs Goods and Services Tax"
+        ]
+    },
+    {
+        "q": "Match the GST components with their applicability:",
+        "type": "match",
+        "left": [
+            "CGST",
+            "SGST",
+            "IGST",
+            "UTGST"
+        ],
+        "right": [
+            "Central government",
+            "State government",
+            "Inter-state supply",
+            "Union territory"
+        ]
+    },
+    {
+        "q": "What is input tax credit under GST?",
+        "type": "mcq",
+        "o": [
+            "Credit for taxes paid on inputs used in business",
+            "Tax refund",
+            "Tax exemption",
+            "Tax liability"
+        ]
+    },
+    {
+        "q": "Input tax credit can be set off against ______ liability.",
+        "type": "fill_blank",
+        "answers": [
+            "output tax"
+        ],
+        "other_options": [
+            "income tax",
+            "property tax",
+            "wealth tax"
+        ]
+    },
+    {
+        "q": "What is the GST registration threshold for goods?",
+        "type": "mcq",
+        "o": [
+            "Rs 40 lakhs for most states",
+            "Rs 10 lakhs",
+            "Rs 100 lakhs",
+            "Rs 50 lakhs"
+        ]
+    },
+    {
+        "q": "Composition scheme under GST allows simplified compliance for small taxpayers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is e-way bill?",
+        "type": "mcq",
+        "o": [
+            "Electronic document for movement of goods above threshold value",
+            "Invoice only",
+            "Purchase order",
+            "Delivery challan"
+        ]
+    },
+    {
+        "q": "Match the GST rates with typical goods:",
+        "type": "match",
+        "left": [
+            "0%",
+            "5%",
+            "12%",
+            "18%"
+        ],
+        "right": [
+            "Essential goods",
+            "Mass consumption items",
+            "Standard goods",
+            "Services mostly"
+        ]
+    },
+    {
+        "q": "What is reverse charge mechanism?",
+        "type": "mcq",
+        "o": [
+            "Recipient pays GST instead of supplier",
+            "Supplier pays extra tax",
+            "Both pay equal tax",
+            "No tax payable"
+        ]
+    },
+    {
+        "q": "Under RCM, the ______ is liable to pay GST.",
+        "type": "fill_blank",
+        "answers": [
+            "recipient"
+        ],
+        "other_options": [
+            "supplier",
+            "transporter",
+            "agent"
+        ]
+    },
+    {
+        "q": "What is a tax invoice under GST?",
+        "type": "mcq",
+        "o": [
+            "Document showing supply details including GST charged",
+            "Only purchase receipt",
+            "Bank statement",
+            "Delivery note"
+        ]
+    },
+    {
+        "q": "GSTIN is a unique 15-digit identification number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the basic exemption limit for income tax for individuals?",
+        "type": "mcq",
+        "o": [
+            "Rs 2.5 lakhs under old regime",
+            "Rs 1 lakh",
+            "Rs 5 lakhs",
+            "Rs 10 lakhs"
+        ]
+    },
+    {
+        "q": "Match the income slabs with old regime tax rates:",
+        "type": "match",
+        "left": [
+            "Up to 2.5 lakh",
+            "2.5-5 lakh",
+            "5-10 lakh",
+            "Above 10 lakh"
+        ],
+        "right": [
+            "Nil",
+            "5%",
+            "20%",
+            "30%"
+        ]
+    },
+    {
+        "q": "What are perquisites in salary income?",
+        "type": "mcq",
+        "o": [
+            "Non-monetary benefits provided by employer",
+            "Only cash salary",
+            "Deductions from salary",
+            "Tax refunds"
+        ]
+    },
+    {
+        "q": "House Rent Allowance (HRA) exemption is calculated under Section ______.",
+        "type": "fill_blank",
+        "answers": [
+            "10(13A)"
+        ],
+        "other_options": [
+            "80C",
+            "80D",
+            "24"
+        ]
+    },
+    {
+        "q": "What is standard deduction in salary income?",
+        "type": "mcq",
+        "o": [
+            "Flat deduction from gross salary",
+            "Allowance for rent",
+            "Medical reimbursement",
+            "Travel allowance"
+        ]
+    },
+    {
+        "q": "Leave encashment is fully exempt for government employees.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is annual value for house property income?",
+        "type": "mcq",
+        "o": [
+            "Expected rent if property were let out",
+            "Purchase price of property",
+            "Construction cost",
+            "Market value"
+        ]
+    },
+    {
+        "q": "Match the deductions with their sections:",
+        "type": "match",
+        "left": [
+            "Home loan interest",
+            "Medical insurance",
+            "Donations",
+            "NPS contribution"
+        ],
+        "right": [
+            "Section 24",
+            "Section 80D",
+            "Section 80G",
+            "Section 80CCD"
+        ]
+    },
+    {
+        "q": "What is short-term capital gain?",
+        "type": "mcq",
+        "o": [
+            "Gain on asset held for less than specified period",
+            "Gain on any asset sale",
+            "Only stock market gains",
+            "Only property gains"
+        ]
+    },
+    {
+        "q": "Long-term capital gain on equity shares is taxed at ______ percent above Rs 1 lakh.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "15",
+            "20",
+            "5"
+        ]
+    },
+    {
+        "q": "What is indexation in capital gains?",
+        "type": "mcq",
+        "o": [
+            "Adjusting purchase cost for inflation",
+            "Increasing selling price",
+            "Reducing tax rate",
+            "Calculating interest"
+        ]
+    },
+    {
+        "q": "Indexation benefit is available for long-term capital gains.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is presumptive taxation?",
+        "type": "mcq",
+        "o": [
+            "Simplified scheme presuming income at specified percentage of turnover",
+            "Normal detailed accounting",
+            "Tax-free income scheme",
+            "Government subsidy scheme"
+        ]
+    },
+    {
+        "q": "Match the presumptive sections with their applicability:",
+        "type": "match",
+        "left": [
+            "Section 44AD",
+            "Section 44ADA",
+            "Section 44AE",
+            "Section 44B"
+        ],
+        "right": [
+            "Small businesses",
+            "Professionals",
+            "Transporters",
+            "Shipping business"
+        ]
+    },
+    {
+        "q": "What is cost of production in cost accounting?",
+        "type": "mcq",
+        "o": [
+            "Total cost of manufacturing goods",
+            "Selling price of goods",
+            "Only material cost",
+            "Only labor cost"
+        ]
+    },
+    {
+        "q": "Cost of production equals prime cost plus ______.",
+        "type": "fill_blank",
+        "answers": [
+            "factory overhead"
+        ],
+        "other_options": [
+            "selling expenses",
+            "administrative expenses",
+            "net profit"
+        ]
+    },
+    {
+        "q": "What is cost of sales?",
+        "type": "mcq",
+        "o": [
+            "Cost of production plus selling and distribution expenses",
+            "Only production cost",
+            "Only distribution cost",
+            "Purchase cost"
+        ]
+    },
+    {
+        "q": "Total cost includes all expenses to bring product to sale condition.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is marginal costing?",
+        "type": "mcq",
+        "o": [
+            "Costing method considering only variable costs for decisions",
+            "All costs considered",
+            "Fixed costs only",
+            "Standard costing"
+        ]
+    },
+    {
+        "q": "Match the costing terms with their definitions:",
+        "type": "match",
+        "left": [
+            "Contribution",
+            "Break-even point",
+            "Margin of safety",
+            "P/V ratio"
+        ],
+        "right": [
+            "Sales minus variable cost",
+            "No profit no loss point",
+            "Sales above break-even",
+            "Contribution to sales ratio"
+        ]
+    },
+    {
+        "q": "What is break-even analysis?",
+        "type": "mcq",
+        "o": [
+            "Analysis to find point where revenues equal costs",
+            "Profit maximization analysis",
+            "Loss minimization only",
+            "Revenue analysis only"
+        ]
+    },
+    {
+        "q": "Break-even point in units equals fixed costs divided by ______ per unit.",
+        "type": "fill_blank",
+        "answers": [
+            "contribution"
+        ],
+        "other_options": [
+            "sales",
+            "variable cost",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is standard costing?",
+        "type": "mcq",
+        "o": [
+            "System using predetermined costs for control",
+            "Historical costing",
+            "Actual costing only",
+            "Estimated costing"
+        ]
+    },
+    {
+        "q": "Variance analysis compares actual performance with standards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is material price variance?",
+        "type": "mcq",
+        "o": [
+            "Difference due to actual price differing from standard price",
+            "Quantity difference",
+            "Labor variance",
+            "Overhead variance"
+        ]
+    },
+    {
+        "q": "Match the variances with their causes:",
+        "type": "match",
+        "left": [
+            "Material price variance",
+            "Material usage variance",
+            "Labor rate variance",
+            "Labor efficiency variance"
+        ],
+        "right": [
+            "Price change",
+            "Quantity difference",
+            "Wage rate change",
+            "Time difference"
+        ]
+    },
+    {
+        "q": "What is favorable variance?",
+        "type": "mcq",
+        "o": [
+            "Actual is better than standard",
+            "Actual is worse than standard",
+            "No difference",
+            "Cannot be determined"
+        ]
+    },
+    {
+        "q": "Adverse variance indicates actual performance is ______ than standard.",
+        "type": "fill_blank",
+        "answers": [
+            "worse"
+        ],
+        "other_options": [
+            "better",
+            "same",
+            "unknown"
+        ]
+    },
+    {
+        "q": "What is budget in cost accounting?",
+        "type": "mcq",
+        "o": [
+            "Financial plan for future period",
+            "Historical record",
+            "Actual expenses",
+            "Tax calculation"
+        ]
+    },
+    {
+        "q": "Flexible budget adjusts for different activity levels.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is operating system kernel?",
+        "type": "mcq",
+        "o": [
+            "Core component managing hardware and software resources",
+            "User interface",
+            "Application program",
+            "File type"
+        ]
+    },
+    {
+        "q": "Match the OS types with their examples:",
+        "type": "match",
+        "left": [
+            "Single-user",
+            "Multi-user",
+            "Real-time",
+            "Network"
+        ],
+        "right": [
+            "DOS",
+            "UNIX",
+            "RTOS",
+            "Windows Server"
+        ]
+    },
+    {
+        "q": "What is file management in OS?",
+        "type": "mcq",
+        "o": [
+            "Organizing, storing, and retrieving files",
+            "Hardware management only",
+            "Memory management only",
+            "Process management only"
+        ]
+    },
+    {
+        "q": "A directory is also called a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "folder"
+        ],
+        "other_options": [
+            "file",
+            "disk",
+            "memory"
+        ]
+    },
+    {
+        "q": "What is primary key in database?",
+        "type": "mcq",
+        "o": [
+            "Unique identifier for each record",
+            "Any column",
+            "First column",
+            "Last column"
+        ]
+    },
+    {
+        "q": "Foreign key establishes relationship between tables.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is normalization in databases?",
+        "type": "mcq",
+        "o": [
+            "Process of organizing data to reduce redundancy",
+            "Adding more tables",
+            "Deleting tables",
+            "Copying data"
+        ]
+    },
+    {
+        "q": "Match the SQL commands with their functions:",
+        "type": "match",
+        "left": [
+            "SELECT",
+            "INSERT",
+            "UPDATE",
+            "DELETE"
+        ],
+        "right": [
+            "Retrieve data",
+            "Add new record",
+            "Modify existing data",
+            "Remove record"
+        ]
+    },
+    {
+        "q": "What is cloud computing?",
+        "type": "mcq",
+        "o": [
+            "Delivery of computing services over internet",
+            "Local server only",
+            "Personal computer storage",
+            "USB storage"
+        ]
+    },
+    {
+        "q": "SaaS stands for ______ as a Service.",
+        "type": "fill_blank",
+        "answers": [
+            "Software"
+        ],
+        "other_options": [
+            "System",
+            "Server",
+            "Storage"
+        ]
+    },
+    {
+        "q": "What is phishing?",
+        "type": "mcq",
+        "o": [
+            "Fraudulent attempt to obtain sensitive information",
+            "Legitimate marketing",
+            "Software update",
+            "Data backup"
+        ]
+    },
+    {
+        "q": "Two-factor authentication enhances security.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data encryption?",
+        "type": "mcq",
+        "o": [
+            "Converting data into coded format",
+            "Deleting data",
+            "Copying data",
+            "Printing data"
+        ]
+    },
+    {
+        "q": "Match the cyber threats with their descriptions:",
+        "type": "match",
+        "left": [
+            "Malware",
+            "Ransomware",
+            "Trojan",
+            "Spyware"
+        ],
+        "right": [
+            "Malicious software",
+            "Encrypts and demands payment",
+            "Disguised harmful program",
+            "Secret surveillance"
+        ]
+    },
+    {
+        "q": "What is ERP system?",
+        "type": "mcq",
+        "o": [
+            "Enterprise Resource Planning integrating business processes",
+            "Email resource program",
+            "Electronic report program",
+            "External recording process"
+        ]
+    },
+    {
+        "q": "Tally is an example of ______ software.",
+        "type": "fill_blank",
+        "answers": [
+            "accounting"
+        ],
+        "other_options": [
+            "word processing",
+            "graphics",
+            "multimedia"
+        ]
+    },
+    {
+        "q": "What is e-commerce?",
+        "type": "mcq",
+        "o": [
+            "Buying and selling goods electronically",
+            "Traditional retail only",
+            "Manufacturing process",
+            "Warehouse management"
+        ]
+    },
+    {
+        "q": "B2B refers to business-to-business e-commerce.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital signature?",
+        "type": "mcq",
+        "o": [
+            "Electronic authentication of document",
+            "Physical signature scan",
+            "Written signature",
+            "Typed name"
+        ]
+    },
+    {
+        "q": "Match the e-commerce types with their examples:",
+        "type": "match",
+        "left": [
+            "B2C",
+            "B2B",
+            "C2C",
+            "G2C"
+        ],
+        "right": [
+            "Amazon retail",
+            "Alibaba wholesale",
+            "OLX classifieds",
+            "Government services portal"
+        ]
+    },
+    {
+        "q": "What is cost control?",
+        "type": "mcq",
+        "o": [
+            "Managing costs to keep within budget",
+            "Increasing costs",
+            "Eliminating all costs",
+            "Ignoring costs"
+        ]
+    },
+    {
+        "q": "Cost reduction aims to permanently ______ costs without affecting quality.",
+        "type": "fill_blank",
+        "answers": [
+            "lower"
+        ],
+        "other_options": [
+            "increase",
+            "maintain",
+            "double"
+        ]
+    },
+    {
+        "q": "What is overhead absorption?",
+        "type": "mcq",
+        "o": [
+            "Allocating overheads to cost units",
+            "Reducing overheads",
+            "Eliminating overheads",
+            "Increasing overheads"
+        ]
+    },
+    {
+        "q": "Pre-determined overhead rate is calculated before actual production.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is under-absorption of overhead?",
+        "type": "mcq",
+        "o": [
+            "Actual overhead exceeds absorbed overhead",
+            "Absorbed exceeds actual",
+            "Both are equal",
+            "No overhead exists"
+        ]
+    },
+    {
+        "q": "Match the overhead terms with their meanings:",
+        "type": "match",
+        "left": [
+            "Production overhead",
+            "Administrative overhead",
+            "Selling overhead",
+            "Distribution overhead"
+        ],
+        "right": [
+            "Factory indirect costs",
+            "Office management costs",
+            "Sales promotion costs",
+            "Delivery costs"
+        ]
+    },
+    {
+        "q": "What is activity-based costing (ABC)?",
+        "type": "mcq",
+        "o": [
+            "Costing based on activities that drive costs",
+            "Traditional absorption costing",
+            "Only direct cost allocation",
+            "Random cost allocation"
+        ]
+    },
+    {
+        "q": "Cost drivers in ABC are factors that cause ______ to be incurred.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "revenue",
+            "profit",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is target costing?",
+        "type": "mcq",
+        "o": [
+            "Setting cost targets based on market price minus desired profit",
+            "Historical cost plus markup",
+            "Random pricing method",
+            "Cost plus method"
+        ]
+    },
+    {
+        "q": "Kaizen costing focuses on continuous cost reduction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is life cycle costing?",
+        "type": "mcq",
+        "o": [
+            "Considering total costs over product life from design to disposal",
+            "Only production costs",
+            "Only selling costs",
+            "Current period costs only"
+        ]
+    },
+    {
+        "q": "Match the modern costing methods with their features:",
+        "type": "match",
+        "left": [
+            "ABC",
+            "Target costing",
+            "Kaizen",
+            "Throughput"
+        ],
+        "right": [
+            "Activity-based allocation",
+            "Market-driven cost",
+            "Continuous improvement",
+            "Bottleneck focus"
+        ]
+    },
+    {
+        "q": "What is throughput accounting?",
+        "type": "mcq",
+        "o": [
+            "Focus on maximizing throughput while minimizing operating expenses",
+            "Traditional cost accounting",
+            "Only material costing",
+            "Labor costing only"
+        ]
+    },
+    {
+        "q": "Throughput equals sales minus ______ variable costs.",
+        "type": "fill_blank",
+        "answers": [
+            "totally"
+        ],
+        "other_options": [
+            "fixed",
+            "semi",
+            "overhead"
+        ]
+    },
+    {
+        "q": "What is just-in-time (JIT) costing?",
+        "type": "mcq",
+        "o": [
+            "Simplified costing with minimal inventory",
+            "Maximum inventory holding",
+            "Traditional costing",
+            "No costing required"
+        ]
+    },
+    {
+        "q": "JIT aims to eliminate waste in production process.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is service costing?",
+        "type": "mcq",
+        "o": [
+            "Costing for service industries like transport and hospitals",
+            "Product manufacturing costing",
+            "Only inventory valuation",
+            "Cost of raw materials"
+        ]
+    },
+    {
+        "q": "Match the costing methods with their industries:",
+        "type": "match",
+        "left": [
+            "Job costing",
+            "Process costing",
+            "Service costing",
+            "Contract costing"
+        ],
+        "right": [
+            "Printing press",
+            "Oil refinery",
+            "Hospital",
+            "Construction"
+        ]
+    },
+    {
+        "q": "What is equivalent units in process costing?",
+        "type": "mcq",
+        "o": [
+            "Partially completed units expressed as complete units",
+            "Only completed units",
+            "Only WIP units",
+            "Raw material units"
+        ]
+    },
+    {
+        "q": "Normal loss in process costing is treated as part of ______ cost.",
+        "type": "fill_blank",
+        "answers": [
+            "production"
+        ],
+        "other_options": [
+            "selling",
+            "administrative",
+            "distribution"
+        ]
+    },
+    {
+        "q": "What is abnormal loss?",
+        "type": "mcq",
+        "o": [
+            "Loss exceeding normal expected loss",
+            "Expected loss",
+            "Standard loss",
+            "Planned loss"
+        ]
+    },
+    {
+        "q": "Abnormal loss is transferred to Profit and Loss Account.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is joint product costing?",
+        "type": "mcq",
+        "o": [
+            "Allocating costs to products produced simultaneously from common input",
+            "Single product costing",
+            "Service costing",
+            "Job costing"
+        ]
+    },
+    {
+        "q": "Match joint costing terms with their meanings:",
+        "type": "match",
+        "left": [
+            "Split-off point",
+            "Joint costs",
+            "By-product",
+            "Co-product"
+        ],
+        "right": [
+            "Products become identifiable",
+            "Common costs before split-off",
+            "Minor value product",
+            "Similar value products"
+        ]
+    },
+    {
+        "q": "What is transfer pricing?",
+        "type": "mcq",
+        "o": [
+            "Price charged for goods transferred between divisions",
+            "External market price",
+            "Standard cost only",
+            "Random pricing"
+        ]
+    },
+    {
+        "q": "Transfer pricing should ideally motivate ______ decisions for divisional managers.",
+        "type": "fill_blank",
+        "answers": [
+            "optimal"
+        ],
+        "other_options": [
+            "random",
+            "incorrect",
+            "costly"
+        ]
+    },
+    {
+        "q": "What is cost-plus transfer pricing?",
+        "type": "mcq",
+        "o": [
+            "Transfer price based on cost plus markup",
+            "Market price only",
+            "Zero margin pricing",
+            "Random pricing"
+        ]
+    },
+    {
+        "q": "Market-based transfer pricing uses external market price.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is responsibility accounting?",
+        "type": "mcq",
+        "o": [
+            "Holding managers accountable for items under their control",
+            "Centralized control only",
+            "No accountability system",
+            "External reporting only"
+        ]
+    },
+    {
+        "q": "Match the responsibility centers with controllable items:",
+        "type": "match",
+        "left": [
+            "Cost center",
+            "Profit center",
+            "Revenue center",
+            "Investment center"
+        ],
+        "right": [
+            "Costs only",
+            "Revenue and costs",
+            "Revenue only",
+            "Revenue, costs, and investment"
+        ]
+    },
+    {
+        "q": "What is return on investment (ROI)?",
+        "type": "mcq",
+        "o": [
+            "Profit as percentage of investment",
+            "Revenue only",
+            "Cost only",
+            "Sales volume"
+        ]
+    },
+    {
+        "q": "ROI equals profit divided by ______ times 100.",
+        "type": "fill_blank",
+        "answers": [
+            "investment"
+        ],
+        "other_options": [
+            "sales",
+            "cost",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is residual income?",
+        "type": "mcq",
+        "o": [
+            "Operating profit minus imputed interest on investment",
+            "Gross profit",
+            "Net profit only",
+            "Sales revenue"
+        ]
+    },
+    {
+        "q": "EVA considers cost of all capital including equity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is performance measurement?",
+        "type": "mcq",
+        "o": [
+            "Evaluating organizational and individual achievement",
+            "Only financial measures",
+            "Sales tracking only",
+            "Cost tracking only"
+        ]
+    },
+    {
+        "q": "Match the performance measures with their types:",
+        "type": "match",
+        "left": [
+            "Revenue growth",
+            "Customer satisfaction",
+            "Production efficiency",
+            "Employee retention"
+        ],
+        "right": [
+            "Financial",
+            "Customer perspective",
+            "Internal process",
+            "Learning and growth"
+        ]
+    },
+    {
+        "q": "What is balanced scorecard?",
+        "type": "mcq",
+        "o": [
+            "Performance measurement from multiple perspectives",
+            "Financial perspective only",
+            "Customer perspective only",
+            "Single measure system"
+        ]
+    },
+    {
+        "q": "The balanced scorecard includes ______ key perspectives.",
+        "type": "fill_blank",
+        "answers": [
+            "four"
+        ],
+        "other_options": [
+            "two",
+            "three",
+            "five"
+        ]
+    },
+    {
+        "q": "What is benchmarking?",
+        "type": "mcq",
+        "o": [
+            "Comparing performance against best practices",
+            "Internal comparison only",
+            "No comparison needed",
+            "Random selection"
+        ]
+    },
+    {
+        "q": "Key performance indicators (KPIs) help track progress toward goals.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is zero-based budgeting?",
+        "type": "mcq",
+        "o": [
+            "Building budget from scratch each period",
+            "Using last year's budget",
+            "Incremental budgeting",
+            "No budgeting required"
+        ]
+    },
+    {
+        "q": "Match the budget types with their features:",
+        "type": "match",
+        "left": [
+            "Fixed budget",
+            "Flexible budget",
+            "Zero-based",
+            "Rolling budget"
+        ],
+        "right": [
+            "Single activity level",
+            "Multiple activity levels",
+            "Fresh start each period",
+            "Continuously updated"
+        ]
+    },
+    {
+        "q": "What is master budget?",
+        "type": "mcq",
+        "o": [
+            "Comprehensive budget including all functional budgets",
+            "Single department budget",
+            "Cash budget only",
+            "Sales budget only"
+        ]
+    },
+    {
+        "q": "Capital budget deals with ______ assets investment.",
+        "type": "fill_blank",
+        "answers": [
+            "fixed"
+        ],
+        "other_options": [
+            "current",
+            "intangible",
+            "inventory"
+        ]
+    },
+    {
+        "q": "What is cash budget?",
+        "type": "mcq",
+        "o": [
+            "Forecast of cash receipts and payments",
+            "Income statement projection",
+            "Balance sheet projection",
+            "Sales forecast only"
+        ]
+    },
+    {
+        "q": "Functional budgets feed into the master budget.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Ind AS compliance?",
+        "type": "mcq",
+        "o": [
+            "Following Indian Accounting Standards for financial reporting",
+            "US GAAP compliance",
+            "No standard required",
+            "Internal standards only"
+        ]
+    },
+    {
+        "q": "Match Ind AS with their topics:",
+        "type": "match",
+        "left": [
+            "Ind AS 2",
+            "Ind AS 16",
+            "Ind AS 38",
+            "Ind AS 40"
+        ],
+        "right": [
+            "Inventories",
+            "Property Plant Equipment",
+            "Intangible Assets",
+            "Investment Property"
+        ]
+    },
+    {
+        "q": "What is impairment of assets under Ind AS 36?",
+        "type": "mcq",
+        "o": [
+            "Recognizing loss when carrying amount exceeds recoverable amount",
+            "Increasing asset value",
+            "No adjustment needed",
+            "Only reducing depreciation"
+        ]
+    },
+    {
+        "q": "Recoverable amount is higher of fair value less costs to sell and ______ in use.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "cost",
+            "price",
+            "amount"
+        ]
+    },
+    {
+        "q": "What is provisions under Ind AS 37?",
+        "type": "mcq",
+        "o": [
+            "Liability of uncertain timing or amount",
+            "Definite liability",
+            "Asset only",
+            "Revenue item"
+        ]
+    },
+    {
+        "q": "Contingent assets are generally not recognized but may be disclosed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is employee benefits under Ind AS 19?",
+        "type": "mcq",
+        "o": [
+            "All forms of consideration given to employees",
+            "Only salary",
+            "Only bonus",
+            "Only pension"
+        ]
+    },
+    {
+        "q": "Match the employee benefits with their types:",
+        "type": "match",
+        "left": [
+            "Salary",
+            "Provident fund",
+            "Gratuity",
+            "Leave encashment"
+        ],
+        "right": [
+            "Short-term",
+            "Post-employment defined contribution",
+            "Post-employment defined benefit",
+            "Other long-term"
+        ]
+    },
+    {
+        "q": "What is share-based payment under Ind AS 102?",
+        "type": "mcq",
+        "o": [
+            "Transactions where entity receives goods/services for equity instruments",
+            "Only cash payments",
+            "Dividend payments",
+            "Loan transactions"
+        ]
+    },
+    {
+        "q": "ESOPs are an example of ______ share-based payments.",
+        "type": "fill_blank",
+        "answers": [
+            "equity-settled"
+        ],
+        "other_options": [
+            "cash-settled",
+            "liability",
+            "asset"
+        ]
+    },
+    {
+        "q": "What is financial instruments under Ind AS 109?",
+        "type": "mcq",
+        "o": [
+            "Contract creating financial asset for one party and liability for another",
+            "Physical assets only",
+            "Inventory only",
+            "Property only"
+        ]
+    },
+    {
+        "q": "Financial instruments are classified based on business model and cash flow characteristics.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is new tax regime for individuals?",
+        "type": "mcq",
+        "o": [
+            "Simplified slabs with reduced rates but fewer deductions",
+            "Higher tax rates",
+            "More deductions allowed",
+            "Same as old regime"
+        ]
+    },
+    {
+        "q": "Match the new regime slabs with rates:",
+        "type": "match",
+        "left": [
+            "0-3 lakh",
+            "3-6 lakh",
+            "6-9 lakh",
+            "9-12 lakh"
+        ],
+        "right": [
+            "Nil",
+            "5%",
+            "10%",
+            "15%"
+        ]
+    },
+    {
+        "q": "What is tax audit under Section 44AB?",
+        "type": "mcq",
+        "o": [
+            "Mandatory audit for businesses exceeding specified turnover",
+            "Voluntary audit",
+            "Only for companies",
+            "No audit required"
+        ]
+    },
+    {
+        "q": "Tax audit limit for business is Rs ______ crores under presumptive taxation.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "1",
+            "5",
+            "2"
+        ]
+    },
+    {
+        "q": "What is Form 26AS?",
+        "type": "mcq",
+        "o": [
+            "Annual tax statement showing TDS credits",
+            "Income tax return",
+            "Audit report",
+            "Balance sheet"
+        ]
+    },
+    {
+        "q": "AIS (Annual Information Statement) provides comprehensive taxpayer information.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is set-off and carry forward of losses?",
+        "type": "mcq",
+        "o": [
+            "Adjusting losses against profits current or future years",
+            "Only current year adjustment",
+            "No adjustment allowed",
+            "Only business losses"
+        ]
+    },
+    {
+        "q": "Match the loss types with carry forward periods:",
+        "type": "match",
+        "left": [
+            "Business loss",
+            "Speculation loss",
+            "Capital loss",
+            "House property loss"
+        ],
+        "right": [
+            "8 years",
+            "4 years",
+            "8 years",
+            "8 years"
+        ]
+    },
+    {
+        "q": "What is depreciation under Income Tax Act?",
+        "type": "mcq",
+        "o": [
+            "Deduction for wear and tear on assets used for business",
+            "Revaluation of assets",
+            "Asset purchase cost",
+            "No deduction allowed"
+        ]
+    },
+    {
+        "q": "Additional depreciation of ______ percent is available for new plant and machinery.",
+        "type": "fill_blank",
+        "answers": [
+            "20"
+        ],
+        "other_options": [
+            "10",
+            "15",
+            "25"
+        ]
+    },
+    {
+        "q": "What is minimum alternate tax (MAT)?",
+        "type": "mcq",
+        "o": [
+            "Tax on book profits when normal tax is lower",
+            "Maximum tax",
+            "No tax payable",
+            "Regular income tax"
+        ]
+    },
+    {
+        "q": "MAT credit is available for carry forward and set-off.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is GST Council?",
+        "type": "mcq",
+        "o": [
+            "Constitutional body making recommendations on GST matters",
+            "State government body only",
+            "Tax collection agency",
+            "Court for GST disputes"
+        ]
+    },
+    {
+        "q": "Match the GST returns with their purposes:",
+        "type": "match",
+        "left": [
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-9",
+            "GSTR-2A"
+        ],
+        "right": [
+            "Outward supplies",
+            "Summary return",
+            "Annual return",
+            "Auto-populated inward supplies"
+        ]
+    },
+    {
+        "q": "What is HSN code?",
+        "type": "mcq",
+        "o": [
+            "Harmonized System of Nomenclature for product classification",
+            "Tax payment code",
+            "Invoice number",
+            "Registration number"
+        ]
+    },
+    {
+        "q": "SAC code is used for ______ under GST.",
+        "type": "fill_blank",
+        "answers": [
+            "services"
+        ],
+        "other_options": [
+            "goods",
+            "imports",
+            "exports"
+        ]
+    },
+    {
+        "q": "What is time of supply in GST?",
+        "type": "mcq",
+        "o": [
+            "Point at which liability to pay GST arises",
+            "Date of payment only",
+            "Date of invoice only",
+            "Date of delivery only"
+        ]
+    },
+    {
+        "q": "Place of supply determines whether transaction is intra-state or inter-state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is anti-profiteering under GST?",
+        "type": "mcq",
+        "o": [
+            "Passing benefit of tax reduction to consumers",
+            "Increasing prices",
+            "Avoiding tax payment",
+            "No compliance required"
+        ]
+    },
+    {
+        "q": "Match the e-invoicing thresholds with applicability:",
+        "type": "match",
+        "left": [
+            "Rs 100 cr+",
+            "Rs 50 cr+",
+            "Rs 20 cr+",
+            "Rs 10 cr+"
+        ],
+        "right": [
+            "Phase 1",
+            "Phase 2",
+            "Phase 3",
+            "Phase 4"
+        ]
+    },
+    {
+        "q": "What is QR code mandate in GST?",
+        "type": "mcq",
+        "o": [
+            "Dynamic QR code on B2C invoices for specified taxpayers",
+            "B2B only requirement",
+            "No QR code needed",
+            "Optional requirement"
+        ]
+    },
+    {
+        "q": "E-invoicing generates unique ______ for each invoice.",
+        "type": "fill_blank",
+        "answers": [
+            "IRN"
+        ],
+        "other_options": [
+            "GST",
+            "HSN",
+            "SAC"
+        ]
+    },
+    {
+        "q": "What is data analytics in accounting?",
+        "type": "mcq",
+        "o": [
+            "Using data analysis techniques for accounting insights",
+            "Manual accounting only",
+            "No technology used",
+            "Paper-based records"
+        ]
+    },
+    {
+        "q": "Big data analytics helps identify patterns in large datasets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is robotic process automation (RPA)?",
+        "type": "mcq",
+        "o": [
+            "Software robots automating repetitive tasks",
+            "Physical robots only",
+            "Manual processing",
+            "No automation"
+        ]
+    },
+    {
+        "q": "Match the IT tools with their accounting applications:",
+        "type": "match",
+        "left": [
+            "Excel",
+            "Tally",
+            "SAP",
+            "Power BI"
+        ],
+        "right": [
+            "Spreadsheet analysis",
+            "Accounting software",
+            "ERP system",
+            "Business intelligence"
+        ]
+    },
+    {
+        "q": "What is blockchain in accounting?",
+        "type": "mcq",
+        "o": [
+            "Distributed ledger technology for secure transactions",
+            "Centralized database",
+            "Paper records",
+            "Single server storage"
+        ]
+    },
+    {
+        "q": "Blockchain provides ______ and transparency in record keeping.",
+        "type": "fill_blank",
+        "answers": [
+            "immutability"
+        ],
+        "other_options": [
+            "flexibility",
+            "deletion",
+            "modification"
+        ]
+    },
+    {
+        "q": "What is artificial intelligence in auditing?",
+        "type": "mcq",
+        "o": [
+            "Using AI for pattern recognition and anomaly detection",
+            "Manual review only",
+            "No technology use",
+            "Paper-based audit"
+        ]
+    },
+    {
+        "q": "Machine learning improves with more data and experience.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is MIS in business?",
+        "type": "mcq",
+        "o": [
+            "Management Information System for decision support",
+            "Marketing Information System only",
+            "Manufacturing system",
+            "Manual information system"
+        ]
+    },
+    {
+        "q": "Match the system types with their purposes:",
+        "type": "match",
+        "left": [
+            "TPS",
+            "MIS",
+            "DSS",
+            "EIS"
+        ],
+        "right": [
+            "Transaction processing",
+            "Management reporting",
+            "Decision support",
+            "Executive information"
+        ]
+    },
+    {
+        "q": "What is data warehousing?",
+        "type": "mcq",
+        "o": [
+            "Central repository for integrated data from multiple sources",
+            "Single database only",
+            "Temporary storage",
+            "No data storage"
+        ]
+    },
+    {
+        "q": "OLAP allows ______ analysis of business data.",
+        "type": "fill_blank",
+        "answers": [
+            "multidimensional"
+        ],
+        "other_options": [
+            "single",
+            "simple",
+            "basic"
+        ]
+    },
+    {
+        "q": "What is data mining?",
+        "type": "mcq",
+        "o": [
+            "Discovering patterns in large datasets",
+            "Physical mining",
+            "Data deletion",
+            "Manual data entry"
+        ]
+    },
+    {
+        "q": "Predictive analytics uses historical data to forecast future outcomes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is XBRL?",
+        "type": "mcq",
+        "o": [
+            "Extensible Business Reporting Language for standardized reporting",
+            "Excel format",
+            "PDF format",
+            "Word format"
+        ]
+    },
+    {
+        "q": "Match the reporting formats with their purposes:",
+        "type": "match",
+        "left": [
+            "XBRL",
+            "PDF",
+            "HTML",
+            "XML"
+        ],
+        "right": [
+            "Standardized filing",
+            "Print document",
+            "Web display",
+            "Data exchange"
+        ]
+    },
+    {
+        "q": "What is cyber forensics?",
+        "type": "mcq",
+        "o": [
+            "Investigation of digital evidence for legal purposes",
+            "Regular IT support",
+            "Software development",
+            "Hardware repair"
+        ]
+    },
+    {
+        "q": "Digital signatures provide authentication, integrity, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "non-repudiation"
+        ],
+        "other_options": [
+            "deletion",
+            "modification",
+            "duplication"
+        ]
+    },
+    {
+        "q": "What is IT governance?",
+        "type": "mcq",
+        "o": [
+            "Framework ensuring IT investments support business objectives",
+            "IT department only",
+            "No governance needed",
+            "External regulation only"
+        ]
+    },
+    {
+        "q": "COBIT is a framework for IT governance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is general controls in IT audit?",
+        "type": "mcq",
+        "o": [
+            "Controls over IT environment as a whole",
+            "Application-specific controls",
+            "No controls needed",
+            "Physical security only"
+        ]
+    },
+    {
+        "q": "Match the IT controls with their types:",
+        "type": "match",
+        "left": [
+            "Access control",
+            "Input validation",
+            "Backup",
+            "Audit trail"
+        ],
+        "right": [
+            "Preventive",
+            "Detective",
+            "Corrective",
+            "Detective"
+        ]
+    },
+    {
+        "q": "What is business continuity planning?",
+        "type": "mcq",
+        "o": [
+            "Planning for businesses to continue operations during disruptions",
+            "Marketing planning",
+            "Sales planning",
+            "HR planning"
+        ]
+    },
+    {
+        "q": "Disaster recovery focuses on restoring ______ systems after disruption.",
+        "type": "fill_blank",
+        "answers": [
+            "IT"
+        ],
+        "other_options": [
+            "manual",
+            "paper",
+            "physical"
+        ]
+    },
+    {
+        "q": "What is sensitivity analysis?",
+        "type": "mcq",
+        "o": [
+            "Examining how changes in variables affect outcomes",
+            "Single variable analysis",
+            "No analysis needed",
+            "Historical analysis only"
+        ]
+    },
+    {
+        "q": "What-if analysis helps evaluate different scenarios.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is scenario planning?",
+        "type": "mcq",
+        "o": [
+            "Developing and analyzing multiple future scenarios",
+            "Single future prediction",
+            "No planning needed",
+            "Historical review only"
+        ]
+    },
+    {
+        "q": "Match the analysis types with their purposes:",
+        "type": "match",
+        "left": [
+            "Sensitivity",
+            "Scenario",
+            "Monte Carlo",
+            "Break-even"
+        ],
+        "right": [
+            "Variable impact",
+            "Future possibilities",
+            "Probability simulation",
+            "No profit point"
+        ]
+    },
+    {
+        "q": "What is risk assessment?",
+        "type": "mcq",
+        "o": [
+            "Identifying and evaluating potential risks",
+            "Ignoring risks",
+            "No assessment needed",
+            "Only financial risks"
+        ]
+    },
+    {
+        "q": "Risk matrix plots likelihood against ______ of risks.",
+        "type": "fill_blank",
+        "answers": [
+            "impact"
+        ],
+        "other_options": [
+            "frequency",
+            "duration",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is internal control?",
+        "type": "mcq",
+        "o": [
+            "Processes to ensure reliability, compliance, and efficiency",
+            "External audit only",
+            "No control needed",
+            "Tax compliance only"
+        ]
+    },
+    {
+        "q": "Segregation of duties is a key internal control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is COSO framework?",
+        "type": "mcq",
+        "o": [
+            "Framework for internal control and risk management",
+            "Accounting standard",
+            "Tax regulation",
+            "Audit standard"
+        ]
+    },
+    {
+        "q": "Match the COSO components with their descriptions:",
+        "type": "match",
+        "left": [
+            "Control environment",
+            "Risk assessment",
+            "Control activities",
+            "Information and communication"
+        ],
+        "right": [
+            "Tone at top",
+            "Risk identification",
+            "Policies and procedures",
+            "Information flow"
+        ]
+    },
+    {
+        "q": "What is corporate governance?",
+        "type": "mcq",
+        "o": [
+            "System of rules and practices governing company direction",
+            "Government regulation only",
+            "Marketing strategy",
+            "Sales management"
+        ]
+    },
+    {
+        "q": "Independent directors enhance board ______.",
+        "type": "fill_blank",
+        "answers": [
+            "independence"
+        ],
+        "other_options": [
+            "salary",
+            "meetings",
+            "travel"
+        ]
+    },
+    {
+        "q": "What is audit committee?",
+        "type": "mcq",
+        "o": [
+            "Committee overseeing financial reporting and audit process",
+            "Sales committee",
+            "HR committee",
+            "Marketing committee"
+        ]
+    },
+    {
+        "q": "Audit committee should have majority independent directors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is related party transaction?",
+        "type": "mcq",
+        "o": [
+            "Transaction between company and parties with relationship",
+            "All transactions",
+            "No special treatment",
+            "Third party only"
+        ]
+    },
+    {
+        "q": "Match the governance requirements with their purposes:",
+        "type": "match",
+        "left": [
+            "Board diversity",
+            "Audit rotation",
+            "Whistleblower policy",
+            "Related party approval"
+        ],
+        "right": [
+            "Different perspectives",
+            "Independence",
+            "Report misconduct",
+            "Arm's length pricing"
+        ]
+    },
+    {
+        "q": "What is integrated reporting?",
+        "type": "mcq",
+        "o": [
+            "Combining financial and non-financial information",
+            "Only financial reporting",
+            "Only sustainability reporting",
+            "No reporting required"
+        ]
+    },
+    {
+        "q": "ESG stands for Environmental, Social, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Governance"
+        ],
+        "other_options": [
+            "Growth",
+            "General",
+            "Global"
+        ]
+    },
+    {
+        "q": "What is sustainability reporting?",
+        "type": "mcq",
+        "o": [
+            "Reporting on environmental, social and governance impacts",
+            "Only financial results",
+            "Sales report only",
+            "Tax return only"
+        ]
+    },
+    {
+        "q": "GRI standards provide framework for sustainability reporting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is carbon footprint?",
+        "type": "mcq",
+        "o": [
+            "Total greenhouse gas emissions from organization",
+            "Physical footprint",
+            "Market share",
+            "Revenue size"
+        ]
+    },
+    {
+        "q": "Match the sustainability terms with their meanings:",
+        "type": "match",
+        "left": [
+            "Carbon neutral",
+            "Net zero",
+            "Scope 1",
+            "Scope 3"
+        ],
+        "right": [
+            "Offset emissions",
+            "Remove emissions",
+            "Direct emissions",
+            "Value chain emissions"
+        ]
+    },
+    {
+        "q": "What is circular economy?",
+        "type": "mcq",
+        "o": [
+            "Economic system minimizing waste through reuse and recycling",
+            "Linear production",
+            "Dispose after use",
+            "Maximum consumption"
+        ]
+    },
+    {
+        "q": "Triple bottom line considers people, planet, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit"
+        ],
+        "other_options": [
+            "power",
+            "politics",
+            "process"
+        ]
+    },
+    {
+        "q": "What is social audit?",
+        "type": "mcq",
+        "o": [
+            "Evaluation of organization's social and ethical performance",
+            "Financial audit only",
+            "Tax audit",
+            "IT audit"
+        ]
+    },
+    {
+        "q": "CSR reporting shows company's social responsibility activities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is professional skepticism?",
+        "type": "mcq",
+        "o": [
+            "Questioning mind and critical assessment of evidence",
+            "Accepting everything",
+            "No questioning",
+            "Trusting management completely"
+        ]
+    },
+    {
+        "q": "Match the professional qualities with their descriptions:",
+        "type": "match",
+        "left": [
+            "Integrity",
+            "Objectivity",
+            "Confidentiality",
+            "Professional behavior"
+        ],
+        "right": [
+            "Honesty",
+            "Unbiased judgment",
+            "Information protection",
+            "Compliance with standards"
+        ]
+    },
+    {
+        "q": "What is conflict of interest?",
+        "type": "mcq",
+        "o": [
+            "Situation where personal interests may impair objectivity",
+            "No personal stake",
+            "Objective assessment",
+            "Independent judgment"
+        ]
+    },
+    {
+        "q": "Professionals should avoid ______ that compromise objectivity.",
+        "type": "fill_blank",
+        "answers": [
+            "conflicts"
+        ],
+        "other_options": [
+            "learning",
+            "development",
+            "growth"
+        ]
+    },
+    {
+        "q": "What is due professional care?",
+        "type": "mcq",
+        "o": [
+            "Acting diligently and with competence expected of professional",
+            "Minimal effort",
+            "No standards followed",
+            "Casual approach"
+        ]
+    },
+    {
+        "q": "Continuing professional development is mandatory for accountants.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is ethical leadership?",
+        "type": "mcq",
+        "o": [
+            "Leading by example with integrity and ethical behavior",
+            "Profit maximization only",
+            "No ethical considerations",
+            "Personal gain focus"
+        ]
+    },
+    {
+        "q": "Match the ethical principles with their applications:",
+        "type": "match",
+        "left": [
+            "Fairness",
+            "Transparency",
+            "Accountability",
+            "Responsibility"
+        ],
+        "right": [
+            "Equal treatment",
+            "Open communication",
+            "Answer for actions",
+            "Take ownership"
+        ]
+    },
+    {
+        "q": "What is professional independence for auditors?",
+        "type": "mcq",
+        "o": [
+            "Freedom from factors compromising objective judgment",
+            "Dependence on client",
+            "Management influence",
+            "No independence required"
+        ]
+    },
+    {
+        "q": "Independence includes both independence of ______ and appearance.",
+        "type": "fill_blank",
+        "answers": [
+            "mind"
+        ],
+        "other_options": [
+            "body",
+            "location",
+            "time"
+        ]
+    },
+    {
+        "q": "What threatens auditor independence?",
+        "type": "mcq",
+        "o": [
+            "Financial interest, family relationships, long association",
+            "Professional competence",
+            "Due care",
+            "Following standards"
+        ]
+    },
+    {
+        "q": "Cooling-off period applies before auditor joins client management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is consolidation of financial statements?",
+        "type": "mcq",
+        "o": [
+            "Combining financial statements of parent and subsidiaries",
+            "Single company statement",
+            "Tax return preparation",
+            "Budget preparation"
+        ]
+    },
+    {
+        "q": "Minority interest is now called ______ interest.",
+        "type": "fill_blank",
+        "answers": [
+            "non-controlling"
+        ],
+        "other_options": [
+            "majority",
+            "preferred",
+            "common"
+        ]
+    },
+    {
+        "q": "What is elimination of inter-company transactions?",
+        "type": "mcq",
+        "o": [
+            "Removing transactions between group companies in consolidation",
+            "Recording all transactions",
+            "Adding extra transactions",
+            "No adjustment needed"
+        ]
+    },
+    {
+        "q": "Goodwill on consolidation arises when purchase price exceeds net assets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is investment property under Ind AS 40?",
+        "type": "mcq",
+        "o": [
+            "Property held for rental income or capital appreciation",
+            "Owner-occupied property",
+            "Inventory property",
+            "Property for sale"
+        ]
+    },
+    {
+        "q": "Match the property types with their classifications:",
+        "type": "match",
+        "left": [
+            "Investment property",
+            "Owner-occupied",
+            "Property for sale",
+            "Property under construction"
+        ],
+        "right": [
+            "Ind AS 40",
+            "Ind AS 16",
+            "Ind AS 2",
+            "Depends on intended use"
+        ]
+    },
+    {
+        "q": "What is biological asset under Ind AS 41?",
+        "type": "mcq",
+        "o": [
+            "Living animal or plant",
+            "Building",
+            "Machinery",
+            "Intangible asset"
+        ]
+    },
+    {
+        "q": "Agricultural produce is measured at ______ less costs to sell.",
+        "type": "fill_blank",
+        "answers": [
+            "fair value"
+        ],
+        "other_options": [
+            "cost",
+            "book value",
+            "market value"
+        ]
+    },
+    {
+        "q": "What is borrowing cost under Ind AS 23?",
+        "type": "mcq",
+        "o": [
+            "Interest and other costs incurred on borrowed funds",
+            "Principal repayment",
+            "Dividend payment",
+            "Share issue cost"
+        ]
+    },
+    {
+        "q": "Borrowing costs directly attributable to qualifying assets are capitalized.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is discontinued operation under Ind AS 105?",
+        "type": "mcq",
+        "o": [
+            "Component disposed or held for sale representing separate business",
+            "Any asset sale",
+            "Inventory write-off",
+            "Bad debt write-off"
+        ]
+    },
+    {
+        "q": "Match the events with their accounting treatment:",
+        "type": "match",
+        "left": [
+            "Adjusting event",
+            "Non-adjusting event",
+            "Asset disposal",
+            "Subsequent dividend"
+        ],
+        "right": [
+            "Adjust financial statements",
+            "Disclosure only",
+            "Recognize gain/loss",
+            "No adjustment to statements"
+        ]
+    },
+    {
+        "q": "What is first-time adoption of Ind AS?",
+        "type": "mcq",
+        "o": [
+            "Transition from previous GAAP to Ind AS",
+            "Continuing Ind AS application",
+            "No change in standards",
+            "Voluntary adoption"
+        ]
+    },
+    {
+        "q": "Opening balance sheet on transition date is called ______ balance sheet.",
+        "type": "fill_blank",
+        "answers": [
+            "Ind AS"
+        ],
+        "other_options": [
+            "final",
+            "closing",
+            "adjusted"
+        ]
+    },
+    {
+        "q": "What is TCS under Income Tax?",
+        "type": "mcq",
+        "o": [
+            "Tax Collected at Source",
+            "Tax Computed at Source",
+            "Tax Calculated at Source",
+            "Tax Consolidated at Source"
+        ]
+    },
+    {
+        "q": "TCS is collected by seller and deposited with government.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is equalization levy?",
+        "type": "mcq",
+        "o": [
+            "Tax on digital transactions by non-residents",
+            "Income tax",
+            "GST",
+            "Property tax"
+        ]
+    },
+    {
+        "q": "Match the tax concepts with their applications:",
+        "type": "match",
+        "left": [
+            "TDS",
+            "TCS",
+            "Advance tax",
+            "Self-assessment tax"
+        ],
+        "right": [
+            "Payer deducts",
+            "Seller collects",
+            "Quarterly payment",
+            "Balance tax on return"
+        ]
+    },
+    {
+        "q": "What is faceless assessment?",
+        "type": "mcq",
+        "o": [
+            "Electronic assessment without physical interface",
+            "Face-to-face assessment",
+            "No assessment",
+            "Third-party assessment"
+        ]
+    },
+    {
+        "q": "E-verification of ITR can be done through ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Aadhaar OTP"
+        ],
+        "other_options": [
+            "physical signature",
+            "email",
+            "phone call"
+        ]
+    },
+    {
+        "q": "What is updated return under Income Tax?",
+        "type": "mcq",
+        "o": [
+            "Return filed to report additional income with additional tax",
+            "Regular return",
+            "Belated return",
+            "Revised return"
+        ]
+    },
+    {
+        "q": "Updated return can be filed within 24 months from end of assessment year.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is DTAA?",
+        "type": "mcq",
+        "o": [
+            "Double Taxation Avoidance Agreement",
+            "Direct Tax Assessment Act",
+            "Domestic Tax Application Act",
+            "Digital Tax Administration Act"
+        ]
+    },
+    {
+        "q": "Match the international tax concepts with their meanings:",
+        "type": "match",
+        "left": [
+            "DTAA",
+            "Transfer pricing",
+            "POEM",
+            "MAP"
+        ],
+        "right": [
+            "Avoid double taxation",
+            "Arm's length pricing",
+            "Place of Effective Management",
+            "Mutual Agreement Procedure"
+        ]
+    },
+    {
+        "q": "What is safe harbor rules in transfer pricing?",
+        "type": "mcq",
+        "o": [
+            "Pre-determined margins accepted without detailed scrutiny",
+            "Detailed documentation required",
+            "No margins applicable",
+            "Zero pricing"
+        ]
+    },
+    {
+        "q": "APA stands for ______ Pricing Agreement.",
+        "type": "fill_blank",
+        "answers": [
+            "Advance"
+        ],
+        "other_options": [
+            "Annual",
+            "Alternative",
+            "Applied"
+        ]
+    },
+    {
+        "q": "What is GST compensation cess?",
+        "type": "mcq",
+        "o": [
+            "Cess to compensate states for revenue loss under GST",
+            "Additional GST",
+            "No compensation",
+            "State-only tax"
+        ]
+    },
+    {
+        "q": "GST compensation cess was initially planned for 5 years.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is refund mechanism under GST?",
+        "type": "mcq",
+        "o": [
+            "Process to claim excess tax or tax on exports",
+            "No refund available",
+            "Input credit only",
+            "Output tax refund prohibited"
+        ]
+    },
+    {
+        "q": "Match the GST compliance requirements with timelines:",
+        "type": "match",
+        "left": [
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-9",
+            "GSTR-9C"
+        ],
+        "right": [
+            "11th of next month",
+            "20th of next month",
+            "31st December",
+            "31st December (if applicable)"
+        ]
+    },
+    {
+        "q": "What is late fee for delayed GST return?",
+        "type": "mcq",
+        "o": [
+            "Per day fee for delayed filing",
+            "No penalty",
+            "Only interest",
+            "One-time fee"
+        ]
+    },
+    {
+        "q": "Interest on delayed GST payment is calculated at ______ percent per annum.",
+        "type": "fill_blank",
+        "answers": [
+            "18"
+        ],
+        "other_options": [
+            "12",
+            "24",
+            "15"
+        ]
+    },
+    {
+        "q": "What is GST audit?",
+        "type": "mcq",
+        "o": [
+            "Verification of records and returns by tax authorities",
+            "Internal audit only",
+            "Financial audit",
+            "Cost audit"
+        ]
+    },
+    {
+        "q": "Self-certified reconciliation statement replaced mandatory GST audit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is material requisition note?",
+        "type": "mcq",
+        "o": [
+            "Document requesting materials from store for production",
+            "Purchase order",
+            "Invoice",
+            "Delivery note"
+        ]
+    },
+    {
+        "q": "Match the cost documents with their purposes:",
+        "type": "match",
+        "left": [
+            "Material requisition",
+            "Job card",
+            "Stores ledger",
+            "Bin card"
+        ],
+        "right": [
+            "Request materials",
+            "Record labor time",
+            "Track material value",
+            "Track material quantity"
+        ]
+    },
+    {
+        "q": "What is perpetual inventory system?",
+        "type": "mcq",
+        "o": [
+            "Continuous record of inventory movements",
+            "Annual physical count only",
+            "No inventory record",
+            "Periodic system"
+        ]
+    },
+    {
+        "q": "ABC analysis classifies inventory by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "quantity",
+            "size",
+            "weight"
+        ]
+    },
+    {
+        "q": "What is re-order level?",
+        "type": "mcq",
+        "o": [
+            "Inventory level at which new order is placed",
+            "Maximum stock level",
+            "Minimum stock level",
+            "Average stock level"
+        ]
+    },
+    {
+        "q": "Safety stock provides buffer against demand uncertainty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is piece rate system?",
+        "type": "mcq",
+        "o": [
+            "Payment based on units produced",
+            "Fixed salary only",
+            "Time-based payment",
+            "Commission-based payment"
+        ]
+    },
+    {
+        "q": "Match wage systems with their features:",
+        "type": "match",
+        "left": [
+            "Time rate",
+            "Piece rate",
+            "Halsey plan",
+            "Rowan plan"
+        ],
+        "right": [
+            "Based on hours",
+            "Based on output",
+            "50% time saved shared",
+            "Proportional bonus"
+        ]
+    },
+    {
+        "q": "What is idle time in labor costing?",
+        "type": "mcq",
+        "o": [
+            "Time for which workers are paid but no production occurs",
+            "Productive time",
+            "Overtime",
+            "Leave period"
+        ]
+    },
+    {
+        "q": "Normal idle time is treated as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "overhead"
+        ],
+        "other_options": [
+            "direct labor",
+            "selling expense",
+            "administrative expense"
+        ]
+    },
+    {
+        "q": "What is labor turnover?",
+        "type": "mcq",
+        "o": [
+            "Rate at which employees leave and join organization",
+            "Production output rate",
+            "Sales turnover",
+            "Inventory turnover"
+        ]
+    },
+    {
+        "q": "High labor turnover increases training costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is machine hour rate?",
+        "type": "mcq",
+        "o": [
+            "Overhead absorption rate based on machine hours",
+            "Labor rate",
+            "Material rate",
+            "Selling overhead rate"
+        ]
+    },
+    {
+        "q": "Match the overhead absorption bases with their suitability:",
+        "type": "match",
+        "left": [
+            "Direct labor hour",
+            "Machine hour",
+            "Direct material cost",
+            "Prime cost"
+        ],
+        "right": [
+            "Labor-intensive work",
+            "Machine-intensive work",
+            "Material-dominant cost",
+            "Combined base"
+        ]
+    },
+    {
+        "q": "What is blanket rate?",
+        "type": "mcq",
+        "o": [
+            "Single overhead rate for entire factory",
+            "Multiple rates for different departments",
+            "Zero overhead rate",
+            "Variable rate only"
+        ]
+    },
+    {
+        "q": "Departmental rates provide more accurate product costing than blanket rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is reciprocal service department allocation?",
+        "type": "mcq",
+        "o": [
+            "Allocation when service departments provide services to each other",
+            "One-way allocation only",
+            "No allocation needed",
+            "Direct allocation"
+        ]
+    },
+    {
+        "q": "Simultaneous equation method is used for ______ allocation.",
+        "type": "fill_blank",
+        "answers": [
+            "reciprocal"
+        ],
+        "other_options": [
+            "direct",
+            "step",
+            "simple"
+        ]
+    },
+    {
+        "q": "What is operating costing?",
+        "type": "mcq",
+        "o": [
+            "Costing for transport and similar service operations",
+            "Product costing only",
+            "Job costing",
+            "Process costing"
+        ]
+    },
+    {
+        "q": "Cost per passenger kilometer is a unit in transport costing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is composite cost unit?",
+        "type": "mcq",
+        "o": [
+            "Cost unit combining two measures like passenger-km",
+            "Single cost unit",
+            "No cost unit",
+            "Random cost unit"
+        ]
+    },
+    {
+        "q": "Match the service industries with their cost units:",
+        "type": "match",
+        "left": [
+            "Transport",
+            "Hospital",
+            "Hotel",
+            "Electricity"
+        ],
+        "right": [
+            "Passenger-km",
+            "Patient-day",
+            "Room-day",
+            "kWh"
+        ]
+    },
+    {
+        "q": "What is work certification in contract costing?",
+        "type": "mcq",
+        "o": [
+            "Value of work completed certified by architect/engineer",
+            "Material purchase",
+            "Labor payment",
+            "Overhead allocation"
+        ]
+    },
+    {
+        "q": "Retention money is held back by ______ from certified value.",
+        "type": "fill_blank",
+        "answers": [
+            "contractee"
+        ],
+        "other_options": [
+            "contractor",
+            "government",
+            "bank"
+        ]
+    },
+    {
+        "q": "What is escalation clause?",
+        "type": "mcq",
+        "o": [
+            "Clause allowing price adjustment for cost increases",
+            "Fixed price contract",
+            "No price change",
+            "Price decrease clause"
+        ]
+    },
+    {
+        "q": "Contract costing uses notional profit concept for incomplete contracts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is batch costing?",
+        "type": "mcq",
+        "o": [
+            "Costing for group of similar products manufactured together",
+            "Single unit costing",
+            "Continuous process costing",
+            "Service costing"
+        ]
+    },
+    {
+        "q": "Match the costing methods with their applications:",
+        "type": "match",
+        "left": [
+            "Batch costing",
+            "Contract costing",
+            "Operating costing",
+            "Multiple costing"
+        ],
+        "right": [
+            "Bakery products",
+            "Building construction",
+            "Hospital services",
+            "Automobiles"
+        ]
+    },
+    {
+        "q": "What is uniform costing?",
+        "type": "mcq",
+        "o": [
+            "Same costing methods used by different firms in industry",
+            "Single firm costing",
+            "No standard costing",
+            "Random costing"
+        ]
+    },
+    {
+        "q": "Inter-firm comparison is facilitated by uniform costing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost audit?",
+        "type": "mcq",
+        "o": [
+            "Verification of cost records and cost statements",
+            "Financial audit only",
+            "Tax audit",
+            "Internal audit"
+        ]
+    },
+    {
+        "q": "Cost audit is mandatory for specified companies under ______ Act.",
+        "type": "fill_blank",
+        "answers": [
+            "Companies"
+        ],
+        "other_options": [
+            "Income Tax",
+            "GST",
+            "SEBI"
+        ]
+    },
+    {
+        "q": "What is cost records?",
+        "type": "mcq",
+        "o": [
+            "Records maintained as per cost accounting standards",
+            "Financial statements",
+            "Tax returns",
+            "Bank statements"
+        ]
+    },
+    {
+        "q": "Match the cost accounting standards with their topics:",
+        "type": "match",
+        "left": [
+            "CAS-1",
+            "CAS-4",
+            "CAS-6",
+            "CAS-8"
+        ],
+        "right": [
+            "Classification",
+            "Cost of production",
+            "Material cost",
+            "Cost of utilities"
+        ]
+    },
+    {
+        "q": "What is profitability analysis?",
+        "type": "mcq",
+        "o": [
+            "Analysis of profits by products, customers, or regions",
+            "Single profit figure",
+            "Only sales analysis",
+            "Cost analysis only"
+        ]
+    },
+    {
+        "q": "Segment profitability helps identify ______ and loss-making segments.",
+        "type": "fill_blank",
+        "answers": [
+            "profitable"
+        ],
+        "other_options": [
+            "growing",
+            "declining",
+            "stable"
+        ]
+    },
+    {
+        "q": "What is contribution margin analysis?",
+        "type": "mcq",
+        "o": [
+            "Analysis of sales minus variable costs for different products",
+            "Net profit analysis",
+            "Gross profit analysis",
+            "Operating profit analysis"
+        ]
+    },
+    {
+        "q": "High contribution margin products should be prioritized.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is limiting factor analysis?",
+        "type": "mcq",
+        "o": [
+            "Maximizing profit when resources are constrained",
+            "Unlimited resource analysis",
+            "No constraint analysis",
+            "Sales-only analysis"
+        ]
+    },
+    {
+        "q": "Match the decision types with their analyses:",
+        "type": "match",
+        "left": [
+            "Make or buy",
+            "Product mix",
+            "Pricing",
+            "Shutdown"
+        ],
+        "right": [
+            "Outsourcing decision",
+            "Resource constraint",
+            "Cost-plus or market",
+            "Continue or cease"
+        ]
+    },
+    {
+        "q": "What is special order pricing?",
+        "type": "mcq",
+        "o": [
+            "Accepting orders below normal price if marginal contribution is positive",
+            "Always at full cost plus profit",
+            "No special orders accepted",
+            "Free goods given"
+        ]
+    },
+    {
+        "q": "Special orders should cover at least ______ costs to be acceptable.",
+        "type": "fill_blank",
+        "answers": [
+            "variable"
+        ],
+        "other_options": [
+            "fixed",
+            "total",
+            "overhead"
+        ]
+    },
+    {
+        "q": "What is opportunity cost in decision-making?",
+        "type": "mcq",
+        "o": [
+            "Value of next best alternative foregone",
+            "Actual cost incurred",
+            "Sunk cost",
+            "Fixed cost"
+        ]
+    },
+    {
+        "q": "Sunk costs are relevant for decision-making.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is capital budgeting?",
+        "type": "mcq",
+        "o": [
+            "Evaluation of long-term investment projects",
+            "Short-term budget",
+            "Operating budget",
+            "Cash budget"
+        ]
+    },
+    {
+        "q": "Match the capital budgeting methods with their features:",
+        "type": "match",
+        "left": [
+            "NPV",
+            "IRR",
+            "Payback",
+            "ARR"
+        ],
+        "right": [
+            "Present value of cash flows",
+            "Discount rate equating flows",
+            "Recovery time",
+            "Accounting profit rate"
+        ]
+    },
+    {
+        "q": "What is net present value?",
+        "type": "mcq",
+        "o": [
+            "Present value of inflows minus present value of outflows",
+            "Total cash inflows",
+            "Total cash outflows",
+            "Accounting profit"
+        ]
+    },
+    {
+        "q": "If NPV is positive, project should be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "accepted"
+        ],
+        "other_options": [
+            "rejected",
+            "delayed",
+            "ignored"
+        ]
+    },
+    {
+        "q": "What is internal rate of return?",
+        "type": "mcq",
+        "o": [
+            "Discount rate at which NPV equals zero",
+            "External rate",
+            "Required return",
+            "Actual return"
+        ]
+    },
+    {
+        "q": "IRR should exceed cost of capital for project acceptance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is payback period?",
+        "type": "mcq",
+        "o": [
+            "Time to recover initial investment from cash flows",
+            "Project life",
+            "Depreciation period",
+            "Loan period"
+        ]
+    },
+    {
+        "q": "Match the investment criteria with their basis:",
+        "type": "match",
+        "left": [
+            "NPV",
+            "IRR",
+            "Payback",
+            "Profitability index"
+        ],
+        "right": [
+            "Absolute value",
+            "Percentage return",
+            "Time period",
+            "Ratio of benefits to cost"
+        ]
+    },
+    {
+        "q": "What is profitability index?",
+        "type": "mcq",
+        "o": [
+            "Ratio of present value of inflows to initial investment",
+            "Absolute profit",
+            "Cash flow ratio",
+            "Debt ratio"
+        ]
+    },
+    {
+        "q": "Profitability index greater than ______ indicates acceptable project.",
+        "type": "fill_blank",
+        "answers": [
+            "1"
+        ],
+        "other_options": [
+            "0",
+            "2",
+            "0.5"
+        ]
+    },
+    {
+        "q": "What is post-completion audit?",
+        "type": "mcq",
+        "o": [
+            "Review of actual performance against projected for completed projects",
+            "Pre-investment audit",
+            "Financial audit",
+            "Tax audit"
+        ]
+    },
+    {
+        "q": "Capital rationing occurs when investment funds are limited.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is database normalization?",
+        "type": "mcq",
+        "o": [
+            "Process to reduce data redundancy and improve integrity",
+            "Data duplication",
+            "Random data arrangement",
+            "Delete all data"
+        ]
+    },
+    {
+        "q": "Match normalization forms with their rules:",
+        "type": "match",
+        "left": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "right": [
+            "Atomic values",
+            "Full dependency",
+            "No transitive dependency",
+            "Stricter 3NF"
+        ]
+    },
+    {
+        "q": "What is entity-relationship diagram?",
+        "type": "mcq",
+        "o": [
+            "Visual representation of database entities and relationships",
+            "Program flowchart",
+            "System diagram",
+            "Network diagram"
+        ]
+    },
+    {
+        "q": "In ER diagram, rectangle represents ______.",
+        "type": "fill_blank",
+        "answers": [
+            "entity"
+        ],
+        "other_options": [
+            "attribute",
+            "relationship",
+            "key"
+        ]
+    },
+    {
+        "q": "What is referential integrity?",
+        "type": "mcq",
+        "o": [
+            "Ensuring foreign key values match primary key values",
+            "Random data validation",
+            "No validation needed",
+            "Primary key only"
+        ]
+    },
+    {
+        "q": "Relational database uses tables to store data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data backup strategy?",
+        "type": "mcq",
+        "o": [
+            "Plan for regular data copies to prevent loss",
+            "Delete old data",
+            "No backup needed",
+            "Store on same drive"
+        ]
+    },
+    {
+        "q": "Match the backup types with their features:",
+        "type": "match",
+        "left": [
+            "Full backup",
+            "Incremental",
+            "Differential",
+            "Mirror"
+        ],
+        "right": [
+            "Complete copy",
+            "Changes since last backup",
+            "Changes since full backup",
+            "Exact replica"
+        ]
+    },
+    {
+        "q": "What is RPO in disaster recovery?",
+        "type": "mcq",
+        "o": [
+            "Recovery Point Objective - acceptable data loss",
+            "Recovery Process Outline",
+            "Rapid Processing Order",
+            "Regular Protocol Operation"
+        ]
+    },
+    {
+        "q": "RTO refers to maximum tolerable ______ time.",
+        "type": "fill_blank",
+        "answers": [
+            "downtime"
+        ],
+        "other_options": [
+            "uptime",
+            "processing",
+            "storage"
+        ]
+    },
+    {
+        "q": "What is data governance?",
+        "type": "mcq",
+        "o": [
+            "Framework for data management and quality",
+            "Government data only",
+            "No governance needed",
+            "IT department only"
+        ]
+    },
+    {
+        "q": "Data steward is responsible for data quality in their domain.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is pivot table?",
+        "type": "mcq",
+        "o": [
+            "Interactive tool for summarizing and analyzing data",
+            "Regular table",
+            "Chart type",
+            "Database table"
+        ]
+    },
+    {
+        "q": "Match the Excel functions with their purposes:",
+        "type": "match",
+        "left": [
+            "VLOOKUP",
+            "SUMIF",
+            "COUNTIF",
+            "INDEX-MATCH"
+        ],
+        "right": [
+            "Vertical lookup",
+            "Conditional sum",
+            "Conditional count",
+            "Flexible lookup"
+        ]
+    },
+    {
+        "q": "What is data visualization?",
+        "type": "mcq",
+        "o": [
+            "Graphical representation of data for insights",
+            "Raw data display",
+            "Text-only reports",
+            "No visual elements"
+        ]
+    },
+    {
+        "q": "Dashboards provide at-a-glance view of key ______.",
+        "type": "fill_blank",
+        "answers": [
+            "metrics"
+        ],
+        "other_options": [
+            "data",
+            "tables",
+            "codes"
+        ]
+    },
+    {
+        "q": "What is VBA in Excel?",
+        "type": "mcq",
+        "o": [
+            "Visual Basic for Applications for automation",
+            "Validation and Backup Application",
+            "Virtual Business Analysis",
+            "Variable Based Algorithm"
+        ]
+    },
+    {
+        "q": "Macros automate repetitive tasks in spreadsheets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is API in software integration?",
+        "type": "mcq",
+        "o": [
+            "Application Programming Interface for system communication",
+            "Annual Programming Invoice",
+            "Applied Process Integration",
+            "Automated Processing Input"
+        ]
+    },
+    {
+        "q": "Match the integration approaches with their descriptions:",
+        "type": "match",
+        "left": [
+            "API",
+            "ETL",
+            "Middleware",
+            "Web services"
+        ],
+        "right": [
+            "Direct interface",
+            "Extract Transform Load",
+            "Intermediary layer",
+            "Internet-based integration"
+        ]
+    },
+    {
+        "q": "What is ethical hacking?",
+        "type": "mcq",
+        "o": [
+            "Authorized testing of system security vulnerabilities",
+            "Illegal hacking",
+            "No hacking",
+            "Random attacks"
+        ]
+    },
+    {
+        "q": "Penetration testing identifies ______ before malicious attackers do.",
+        "type": "fill_blank",
+        "answers": [
+            "vulnerabilities"
+        ],
+        "other_options": [
+            "features",
+            "users",
+            "reports"
+        ]
+    },
+    {
+        "q": "What is access control list?",
+        "type": "mcq",
+        "o": [
+            "List defining who can access which resources",
+            "User registration list",
+            "Employee directory",
+            "Vendor list"
+        ]
+    },
+    {
+        "q": "Principle of least privilege limits access to minimum required.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is network segmentation?",
+        "type": "mcq",
+        "o": [
+            "Dividing network into separate sections for security",
+            "Combining all networks",
+            "No network division",
+            "Random network setup"
+        ]
+    },
+    {
+        "q": "Match the security measures with their purposes:",
+        "type": "match",
+        "left": [
+            "Firewall",
+            "IDS",
+            "VPN",
+            "Antivirus"
+        ],
+        "right": [
+            "Network barrier",
+            "Intrusion detection",
+            "Secure remote access",
+            "Malware protection"
+        ]
+    },
+    {
+        "q": "What is GDPR?",
+        "type": "mcq",
+        "o": [
+            "General Data Protection Regulation for EU data privacy",
+            "Government Data Processing Rule",
+            "Global Digital Privacy Requirement",
+            "Guide to Data Protection Rights"
+        ]
+    },
+    {
+        "q": "Personal data protection requires ______ consent.",
+        "type": "fill_blank",
+        "answers": [
+            "informed"
+        ],
+        "other_options": [
+            "forced",
+            "implied",
+            "assumed"
+        ]
+    },
+    {
+        "q": "What is data breach notification?",
+        "type": "mcq",
+        "o": [
+            "Requirement to inform affected parties of security breach",
+            "Hide all breaches",
+            "No notification required",
+            "Internal report only"
+        ]
+    },
+    {
+        "q": "Privacy by design incorporates privacy from inception.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is materiality in accounting?",
+        "type": "mcq",
+        "o": [
+            "Significance of item to influence user decisions",
+            "Physical material",
+            "All items material",
+            "No item material"
+        ]
+    },
+    {
+        "q": "Match the accounting qualitative characteristics with their meanings:",
+        "type": "match",
+        "left": [
+            "Relevance",
+            "Reliability",
+            "Comparability",
+            "Understandability"
+        ],
+        "right": [
+            "Decision usefulness",
+            "Faithful representation",
+            "Consistency across entities",
+            "Clear presentation"
+        ]
+    },
+    {
+        "q": "What is substance over form?",
+        "type": "mcq",
+        "o": [
+            "Accounting based on economic reality not legal form",
+            "Legal form prevails",
+            "Both equally important",
+            "Only form matters"
+        ]
+    },
+    {
+        "q": "True and fair view is the ultimate objective of financial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "statements"
+        ],
+        "other_options": [
+            "analysis",
+            "audit",
+            "planning"
+        ]
+    },
+    {
+        "q": "What is window dressing in accounting?",
+        "type": "mcq",
+        "o": [
+            "Manipulating accounts to present better picture",
+            "Transparent reporting",
+            "Standard accounting",
+            "External audit"
+        ]
+    },
+    {
+        "q": "Creative accounting is unethical manipulation of figures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is whistleblower protection?",
+        "type": "mcq",
+        "o": [
+            "Legal safeguards for those reporting misconduct",
+            "Punishment for reporting",
+            "No protection available",
+            "Only management protected"
+        ]
+    },
+    {
+        "q": "Match the ethical violations with their consequences:",
+        "type": "match",
+        "left": [
+            "Financial fraud",
+            "Insider trading",
+            "Tax evasion",
+            "Audit failure"
+        ],
+        "right": [
+            "Criminal prosecution",
+            "Securities violation",
+            "Penalties and prosecution",
+            "Professional sanctions"
+        ]
+    },
+    {
+        "q": "What is anti-money laundering?",
+        "type": "mcq",
+        "o": [
+            "Measures to prevent disguising illegal money sources",
+            "Money laundering support",
+            "No regulations",
+            "Only bank responsibility"
+        ]
+    },
+    {
+        "q": "KYC stands for Know Your ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Customer"
+        ],
+        "other_options": [
+            "Company",
+            "Capital",
+            "Cost"
+        ]
+    },
+    {
+        "q": "What is the role of independent directors?",
+        "type": "mcq",
+        "o": [
+            "Provide objective oversight and protect stakeholder interests",
+            "Support management only",
+            "No specific role",
+            "Only attend meetings"
+        ]
+    },
+    {
+        "q": "Board evaluation assesses effectiveness of governance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cash flow from operating activities?",
+        "type": "mcq",
+        "o": [
+            "Cash generated from core business operations",
+            "Cash from investments",
+            "Cash from borrowings",
+            "Cash from share issue"
+        ]
+    },
+    {
+        "q": "Under indirect method, net profit is adjusted for ______ items.",
+        "type": "fill_blank",
+        "answers": [
+            "non-cash"
+        ],
+        "other_options": [
+            "cash",
+            "revenue",
+            "expense"
+        ]
+    },
+    {
+        "q": "What is free cash flow?",
+        "type": "mcq",
+        "o": [
+            "Operating cash flow minus capital expenditure",
+            "Total cash flow",
+            "Cash from financing",
+            "Cash from investing"
+        ]
+    },
+    {
+        "q": "Negative operating cash flow indicates potential liquidity issues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is working capital management?",
+        "type": "mcq",
+        "o": [
+            "Managing current assets and current liabilities",
+            "Long-term asset management",
+            "Equity management",
+            "Debt management"
+        ]
+    },
+    {
+        "q": "Match the working capital components with their examples:",
+        "type": "match",
+        "left": [
+            "Cash management",
+            "Receivables management",
+            "Inventory management",
+            "Payables management"
+        ],
+        "right": [
+            "Optimal cash balance",
+            "Credit policy",
+            "EOQ and reorder level",
+            "Payment timing"
+        ]
+    },
+    {
+        "q": "What is operating cycle?",
+        "type": "mcq",
+        "o": [
+            "Time from purchase of materials to collection from sales",
+            "Production time only",
+            "Sales time only",
+            "Collection time only"
+        ]
+    },
+    {
+        "q": "Cash conversion cycle equals operating cycle minus ______ period.",
+        "type": "fill_blank",
+        "answers": [
+            "payables"
+        ],
+        "other_options": [
+            "receivables",
+            "inventory",
+            "cash"
+        ]
+    },
+    {
+        "q": "What is deferred tax asset?",
+        "type": "mcq",
+        "o": [
+            "Future tax benefit from temporary differences",
+            "Current tax payable",
+            "Tax liability",
+            "Permanent difference"
+        ]
+    },
+    {
+        "q": "Deferred tax arises from timing differences between accounting and tax treatment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is segment reporting under Ind AS 108?",
+        "type": "mcq",
+        "o": [
+            "Disclosure of financial information by operating segments",
+            "Single segment reporting",
+            "No disclosure required",
+            "Optional reporting"
+        ]
+    },
+    {
+        "q": "Match the reporting requirements with their standards:",
+        "type": "match",
+        "left": [
+            "Segment reporting",
+            "Related parties",
+            "Events after reporting",
+            "Interim reporting"
+        ],
+        "right": [
+            "Ind AS 108",
+            "Ind AS 24",
+            "Ind AS 10",
+            "Ind AS 34"
+        ]
+    },
+    {
+        "q": "What is earnings per share (EPS)?",
+        "type": "mcq",
+        "o": [
+            "Net profit attributable to equity holders divided by shares",
+            "Gross profit per share",
+            "Revenue per share",
+            "Assets per share"
+        ]
+    },
+    {
+        "q": "Diluted EPS considers potential ______ shares.",
+        "type": "fill_blank",
+        "answers": [
+            "equity"
+        ],
+        "other_options": [
+            "debt",
+            "preference",
+            "bonus"
+        ]
+    },
+    {
+        "q": "What is complex financial instrument?",
+        "type": "mcq",
+        "o": [
+            "Instrument with both liability and equity components",
+            "Simple equity share",
+            "Simple debt",
+            "Trade payable"
+        ]
+    },
+    {
+        "q": "Convertible bonds must be split into liability and equity components.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is hedge accounting?",
+        "type": "mcq",
+        "o": [
+            "Matching gains and losses on hedging instruments with hedged items",
+            "No matching required",
+            "Record all gains immediately",
+            "Ignore losses"
+        ]
+    },
+    {
+        "q": "Match the hedge types with their purposes:",
+        "type": "match",
+        "left": [
+            "Fair value hedge",
+            "Cash flow hedge",
+            "Net investment hedge",
+            "Natural hedge"
+        ],
+        "right": [
+            "Asset/liability value",
+            "Future transaction",
+            "Foreign operation",
+            "Internal offsetting"
+        ]
+    },
+    {
+        "q": "What is fair value measurement under Ind AS 113?",
+        "type": "mcq",
+        "o": [
+            "Exit price in orderly transaction between market participants",
+            "Entry price",
+            "Historical cost",
+            "Book value"
+        ]
+    },
+    {
+        "q": "Level 1 inputs in fair value hierarchy use ______ prices.",
+        "type": "fill_blank",
+        "answers": [
+            "quoted"
+        ],
+        "other_options": [
+            "estimated",
+            "calculated",
+            "assumed"
+        ]
+    },
+    {
+        "q": "What is hyperinflation accounting under Ind AS 29?",
+        "type": "mcq",
+        "o": [
+            "Restating financial statements for hyperinflationary economy",
+            "Normal accounting",
+            "No adjustment needed",
+            "Ignore inflation"
+        ]
+    },
+    {
+        "q": "Cumulative inflation over 3 years approaching 100% indicates hyperinflation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is leases under Ind AS 116?",
+        "type": "mcq",
+        "o": [
+            "Contract conveying right to use asset for period",
+            "Asset purchase",
+            "Service contract",
+            "Rent agreement only"
+        ]
+    },
+    {
+        "q": "Match the lease accounting terms:",
+        "type": "match",
+        "left": [
+            "Right-of-use asset",
+            "Lease liability",
+            "Short-term lease",
+            "Low-value lease"
+        ],
+        "right": [
+            "Capitalized lease",
+            "Present value of payments",
+            "12 months or less",
+            "Immaterial value"
+        ]
+    },
+    {
+        "q": "What is insurance under Ind AS 117?",
+        "type": "mcq",
+        "o": [
+            "Contract where one party accepts significant insurance risk",
+            "Investment contract",
+            "Service agreement",
+            "Loan agreement"
+        ]
+    },
+    {
+        "q": "Contractual service margin represents ______ profit in insurance contract.",
+        "type": "fill_blank",
+        "answers": [
+            "unearned"
+        ],
+        "other_options": [
+            "earned",
+            "lost",
+            "distributed"
+        ]
+    },
+    {
+        "q": "What is scrutiny assessment under Income Tax?",
+        "type": "mcq",
+        "o": [
+            "Detailed examination of return by tax authorities",
+            "Summary assessment",
+            "Self-assessment",
+            "No assessment"
+        ]
+    },
+    {
+        "q": "Scrutiny assessment notices are now issued through faceless assessment system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is best judgment assessment?",
+        "type": "mcq",
+        "o": [
+            "Assessment when assessee fails to comply with notices",
+            "Regular assessment",
+            "Summary assessment",
+            "Provisional assessment"
+        ]
+    },
+    {
+        "q": "Match the assessment types with their triggers:",
+        "type": "match",
+        "left": [
+            "Scrutiny",
+            "Best judgment",
+            "Re-assessment",
+            "Protective"
+        ],
+        "right": [
+            "Random/specific selection",
+            "Non-compliance",
+            "Escaped income",
+            "Multiple assessees"
+        ]
+    },
+    {
+        "q": "What is appeal mechanism under Income Tax?",
+        "type": "mcq",
+        "o": [
+            "Dispute resolution through appeals to higher authorities",
+            "No appeals allowed",
+            "Only litigation",
+            "Arbitration only"
+        ]
+    },
+    {
+        "q": "First appeal against assessment order lies to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "CIT(Appeals)"
+        ],
+        "other_options": [
+            "ITAT",
+            "High Court",
+            "Supreme Court"
+        ]
+    },
+    {
+        "q": "What is advance ruling under Income Tax?",
+        "type": "mcq",
+        "o": [
+            "Prior determination of tax liability for proposed transaction",
+            "Post-transaction ruling",
+            "No ruling available",
+            "Court judgment"
+        ]
+    },
+    {
+        "q": "ITAT decisions are binding on assessing officers within its jurisdiction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is settlement commission?",
+        "type": "mcq",
+        "o": [
+            "Body for settlement of tax disputes with full disclosure",
+            "Tax collection agency",
+            "Assessment authority",
+            "Appeal body"
+        ]
+    },
+    {
+        "q": "Match the dispute resolution mechanisms:",
+        "type": "match",
+        "left": [
+            "DRP",
+            "ITAT",
+            "Settlement Commission",
+            "Vivad se Vishwas"
+        ],
+        "right": [
+            "Dispute Resolution Panel",
+            "Income Tax Appellate Tribunal",
+            "Settlement with disclosure",
+            "Tax amnesty scheme"
+        ]
+    },
+    {
+        "q": "What is penalty under Income Tax Act?",
+        "type": "mcq",
+        "o": [
+            "Monetary punishment for tax defaults",
+            "Interest only",
+            "Criminal prosecution",
+            "Warning only"
+        ]
+    },
+    {
+        "q": "Penalty for concealment of income is ______ percent of tax sought to be evaded.",
+        "type": "fill_blank",
+        "answers": [
+            "200"
+        ],
+        "other_options": [
+            "100",
+            "50",
+            "300"
+        ]
+    },
+    {
+        "q": "What is prosecution under Income Tax?",
+        "type": "mcq",
+        "o": [
+            "Criminal proceedings for serious tax offenses",
+            "Penalty only",
+            "Interest recovery",
+            "Civil proceedings"
+        ]
+    },
+    {
+        "q": "Wilful attempt to evade tax is punishable with imprisonment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Survey under Income Tax?",
+        "type": "mcq",
+        "o": [
+            "Entry and inspection of business premises",
+            "Search and seizure",
+            "Assessment",
+            "Appeal"
+        ]
+    },
+    {
+        "q": "Match the enforcement actions:",
+        "type": "match",
+        "left": [
+            "Survey",
+            "Search",
+            "Seizure",
+            "Attachment"
+        ],
+        "right": [
+            "Inspection",
+            "Authorized entry",
+            "Property taken",
+            "Asset frozen"
+        ]
+    },
+    {
+        "q": "What is GAAR under Income Tax?",
+        "type": "mcq",
+        "o": [
+            "General Anti-Avoidance Rules to counter aggressive tax planning",
+            "General Assessment and Audit Rules",
+            "Government Accounting Rules",
+            "GST Administration Rules"
+        ]
+    },
+    {
+        "q": "GAAR applies when main purpose of arrangement is to obtain ______ benefit.",
+        "type": "fill_blank",
+        "answers": [
+            "tax"
+        ],
+        "other_options": [
+            "business",
+            "legal",
+            "commercial"
+        ]
+    },
+    {
+        "q": "What is GST anti-evasion?",
+        "type": "mcq",
+        "o": [
+            "Measures to prevent fraudulent input credit claims",
+            "Tax collection only",
+            "No enforcement",
+            "Self-compliance only"
+        ]
+    },
+    {
+        "q": "E-invoice matching helps detect fake input tax credit claims.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is GST Tribunal?",
+        "type": "mcq",
+        "o": [
+            "Appellate body for GST disputes",
+            "Tax collection agency",
+            "Assessment authority",
+            "Registration authority"
+        ]
+    },
+    {
+        "q": "Match the GST authorities with their functions:",
+        "type": "match",
+        "left": [
+            "CGST Commissioner",
+            "SGST Commissioner",
+            "AAR",
+            "AAAR"
+        ],
+        "right": [
+            "Central GST administration",
+            "State GST administration",
+            "Advance Ruling Authority",
+            "Appellate Advance Ruling"
+        ]
+    },
+    {
+        "q": "What is blocking of ITC?",
+        "type": "mcq",
+        "o": [
+            "Restricting certain items from ITC eligibility",
+            "All ITC allowed",
+            "No restrictions",
+            "Only partial block"
+        ]
+    },
+    {
+        "q": "ITC on motor vehicles is generally ______ under GST.",
+        "type": "fill_blank",
+        "answers": [
+            "blocked"
+        ],
+        "other_options": [
+            "allowed",
+            "partially allowed",
+            "refundable"
+        ]
+    },
+    {
+        "q": "What is GST on export?",
+        "type": "mcq",
+        "o": [
+            "Zero-rated supply with input tax credit available",
+            "Full GST applicable",
+            "No credit available",
+            "Exempt supply"
+        ]
+    },
+    {
+        "q": "Exporters can claim refund of accumulated input tax credit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is special economic zone under GST?",
+        "type": "mcq",
+        "o": [
+            "Designated area with special GST treatment for export promotion",
+            "Normal GST area",
+            "No GST applicable",
+            "Higher GST area"
+        ]
+    },
+    {
+        "q": "Match the supply types with GST treatment:",
+        "type": "match",
+        "left": [
+            "Export",
+            "Import",
+            "SEZ supply",
+            "Deemed export"
+        ],
+        "right": [
+            "Zero-rated",
+            "IGST levied",
+            "Zero-rated",
+            "Refund eligible"
+        ]
+    },
+    {
+        "q": "What is valuation under GST?",
+        "type": "mcq",
+        "o": [
+            "Determining taxable value for GST levy",
+            "Fixed price always",
+            "No valuation needed",
+            "Market price only"
+        ]
+    },
+    {
+        "q": "Transaction value excludes ______ received.",
+        "type": "fill_blank",
+        "answers": [
+            "discounts"
+        ],
+        "other_options": [
+            "taxes",
+            "charges",
+            "fees"
+        ]
+    },
+    {
+        "q": "What is cost plus pricing?",
+        "type": "mcq",
+        "o": [
+            "Adding markup to total cost to determine price",
+            "Market-based pricing",
+            "Competitive pricing",
+            "Penetration pricing"
+        ]
+    },
+    {
+        "q": "Target profit is incorporated in cost plus pricing formula.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is value analysis?",
+        "type": "mcq",
+        "o": [
+            "Systematic approach to reduce cost without reducing function",
+            "Price increase analysis",
+            "No analysis needed",
+            "Revenue analysis only"
+        ]
+    },
+    {
+        "q": "Match the cost management techniques:",
+        "type": "match",
+        "left": [
+            "Value analysis",
+            "Value engineering",
+            "Pareto analysis",
+            "Variance analysis"
+        ],
+        "right": [
+            "Cost reduction",
+            "Design optimization",
+            "80-20 rule",
+            "Standard vs actual"
+        ]
+    },
+    {
+        "q": "What is cost estimation?",
+        "type": "mcq",
+        "o": [
+            "Predicting future costs for planning and control",
+            "Recording historical costs",
+            "Actual cost calculation",
+            "No estimation needed"
+        ]
+    },
+    {
+        "q": "High-low method uses ______ and lowest activity levels for estimation.",
+        "type": "fill_blank",
+        "answers": [
+            "highest"
+        ],
+        "other_options": [
+            "average",
+            "median",
+            "random"
+        ]
+    },
+    {
+        "q": "What is regression analysis in cost estimation?",
+        "type": "mcq",
+        "o": [
+            "Statistical method to establish cost-activity relationship",
+            "Simple averaging",
+            "Random estimation",
+            "No analysis"
+        ]
+    },
+    {
+        "q": "Coefficient of determination (R-squared) measures goodness of fit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is learning curve?",
+        "type": "mcq",
+        "o": [
+            "Decrease in unit cost as production experience increases",
+            "Constant cost",
+            "Increasing cost",
+            "Random variation"
+        ]
+    },
+    {
+        "q": "Match the cost estimation techniques:",
+        "type": "match",
+        "left": [
+            "High-low",
+            "Regression",
+            "Engineering estimate",
+            "Account analysis"
+        ],
+        "right": [
+            "Two points method",
+            "Statistical relationship",
+            "Technical analysis",
+            "Cost classification by judgment"
+        ]
+    },
+    {
+        "q": "What is transfer price for tax purposes?",
+        "type": "mcq",
+        "o": [
+            "Price between related parties subject to arm's length principle",
+            "Any price acceptable",
+            "No regulation",
+            "Cost price only"
+        ]
+    },
+    {
+        "q": "Arm's length price ensures transactions are at ______ prices.",
+        "type": "fill_blank",
+        "answers": [
+            "market"
+        ],
+        "other_options": [
+            "cost",
+            "discounted",
+            "negotiated"
+        ]
+    },
+    {
+        "q": "What is TP documentation?",
+        "type": "mcq",
+        "o": [
+            "Documentation maintaining transfer pricing policies and analysis",
+            "No documentation required",
+            "Optional records",
+            "Bank statements only"
+        ]
+    },
+    {
+        "q": "Master file and local file are required under transfer pricing documentation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Country-by-Country reporting?",
+        "type": "mcq",
+        "o": [
+            "Report providing global allocation of income and taxes",
+            "Single country report",
+            "No reporting needed",
+            "Optional disclosure"
+        ]
+    },
+    {
+        "q": "Match the TP methods with their basis:",
+        "type": "match",
+        "left": [
+            "CUP",
+            "RPM",
+            "Cost plus",
+            "TNMM"
+        ],
+        "right": [
+            "Comparable price",
+            "Resale minus margin",
+            "Cost plus markup",
+            "Net margin comparison"
+        ]
+    },
+    {
+        "q": "What is neural network in analytics?",
+        "type": "mcq",
+        "o": [
+            "Machine learning model inspired by human brain structure",
+            "Traditional programming",
+            "Simple calculation",
+            "Database query"
+        ]
+    },
+    {
+        "q": "Deep learning uses multiple ______ of neural networks.",
+        "type": "fill_blank",
+        "answers": [
+            "layers"
+        ],
+        "other_options": [
+            "nodes",
+            "inputs",
+            "outputs"
+        ]
+    },
+    {
+        "q": "What is natural language processing?",
+        "type": "mcq",
+        "o": [
+            "AI capability to understand and generate human language",
+            "Programming language",
+            "Database language",
+            "Spreadsheet formula"
+        ]
+    },
+    {
+        "q": "NLP enables chatbots and automated text analysis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Internet of Things (IoT)?",
+        "type": "mcq",
+        "o": [
+            "Network of connected devices exchanging data",
+            "Website network",
+            "Social media",
+            "Email system"
+        ]
+    },
+    {
+        "q": "Match the emerging technologies with applications:",
+        "type": "match",
+        "left": [
+            "IoT",
+            "AI",
+            "Blockchain",
+            "5G"
+        ],
+        "right": [
+            "Smart devices",
+            "Automation",
+            "Secure transactions",
+            "Fast connectivity"
+        ]
+    },
+    {
+        "q": "What is quantum computing?",
+        "type": "mcq",
+        "o": [
+            "Computing using quantum mechanical phenomena",
+            "Traditional computing",
+            "Cloud computing",
+            "Edge computing"
+        ]
+    },
+    {
+        "q": "Quantum computers use ______ instead of bits.",
+        "type": "fill_blank",
+        "answers": [
+            "qubits"
+        ],
+        "other_options": [
+            "bytes",
+            "pixels",
+            "vectors"
+        ]
+    },
+    {
+        "q": "What is edge computing?",
+        "type": "mcq",
+        "o": [
+            "Processing data near source rather than centralized data center",
+            "Cloud computing only",
+            "Mainframe computing",
+            "Terminal computing"
+        ]
+    },
+    {
+        "q": "Edge computing reduces latency for real-time applications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital twin?",
+        "type": "mcq",
+        "o": [
+            "Virtual replica of physical asset for simulation",
+            "Duplicate file",
+            "Backup system",
+            "Mirror website"
+        ]
+    },
+    {
+        "q": "Match the data science concepts:",
+        "type": "match",
+        "left": [
+            "Supervised learning",
+            "Unsupervised learning",
+            "Reinforcement learning",
+            "Transfer learning"
+        ],
+        "right": [
+            "Labeled data",
+            "Pattern discovery",
+            "Reward-based",
+            "Pre-trained model"
+        ]
+    },
+    {
+        "q": "What is continuous auditing?",
+        "type": "mcq",
+        "o": [
+            "Real-time assurance using technology",
+            "Annual audit only",
+            "No technology used",
+            "Periodic sampling"
+        ]
+    },
+    {
+        "q": "CAAT stands for Computer ______ Audit Techniques.",
+        "type": "fill_blank",
+        "answers": [
+            "Assisted"
+        ],
+        "other_options": [
+            "Automated",
+            "Advanced",
+            "Applied"
+        ]
+    },
+    {
+        "q": "What is data analytics in auditing?",
+        "type": "mcq",
+        "o": [
+            "Using analytics for complete population testing and anomaly detection",
+            "Sampling only",
+            "No analytics",
+            "Manual testing"
+        ]
+    },
+    {
+        "q": "Benford's Law analysis can detect potential fraud in financial data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is audit trail in IT environment?",
+        "type": "mcq",
+        "o": [
+            "Chronological record of system activities",
+            "File backup",
+            "User manual",
+            "System configuration"
+        ]
+    },
+    {
+        "q": "Match the audit concepts with IT context:",
+        "type": "match",
+        "left": [
+            "ITGC",
+            "ITAC",
+            "SOX compliance",
+            "ISAE 3402"
+        ],
+        "right": [
+            "IT General Controls",
+            "IT Application Controls",
+            "Public company controls",
+            "Service organization controls"
+        ]
+    },
+    {
+        "q": "What is integrated audit?",
+        "type": "mcq",
+        "o": [
+            "Combined audit of financial statements and internal controls",
+            "Financial audit only",
+            "Internal control review only",
+            "Compliance audit only"
+        ]
+    },
+    {
+        "q": "Integrated reporting addresses value creation for ______ stakeholders.",
+        "type": "fill_blank",
+        "answers": [
+            "multiple"
+        ],
+        "other_options": [
+            "single",
+            "financial",
+            "internal"
+        ]
+    },
+    {
+        "q": "What is assurance on non-financial information?",
+        "type": "mcq",
+        "o": [
+            "Verification of sustainability and ESG disclosures",
+            "Financial audit only",
+            "No assurance available",
+            "Internal review only"
+        ]
+    },
+    {
+        "q": "ISAE 3000 provides standards for assurance on non-financial information.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is forensic accounting?",
+        "type": "mcq",
+        "o": [
+            "Investigative accounting for legal disputes and fraud",
+            "Regular bookkeeping",
+            "Tax preparation",
+            "Management accounting"
+        ]
+    },
+    {
+        "q": "Match the forensic investigation types:",
+        "type": "match",
+        "left": [
+            "Fraud investigation",
+            "Dispute resolution",
+            "Due diligence",
+            "Insurance claims"
+        ],
+        "right": [
+            "Detect misconduct",
+            "Litigation support",
+            "Transaction analysis",
+            "Loss quantification"
+        ]
+    },
+    {
+        "q": "What is red flag in fraud detection?",
+        "type": "mcq",
+        "o": [
+            "Warning sign indicating potential fraud",
+            "Normal transaction",
+            "Approval sign",
+            "Completion indicator"
+        ]
+    },
+    {
+        "q": "Unusual vendor relationships may indicate ______ fraud risk.",
+        "type": "fill_blank",
+        "answers": [
+            "procurement"
+        ],
+        "other_options": [
+            "payroll",
+            "inventory",
+            "cash"
+        ]
+    },
+    {
+        "q": "What is fraud triangle?",
+        "type": "mcq",
+        "o": [
+            "Pressure, opportunity, and rationalization",
+            "Single factor",
+            "Two factors",
+            "Four factors"
+        ]
+    },
+    {
+        "q": "Segregation of duties reduces opportunity for fraud.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is strategic cost management?",
+        "type": "mcq",
+        "o": [
+            "Using cost information for strategic decision making",
+            "Cost reduction only",
+            "Short-term focus",
+            "No strategic link"
+        ]
+    },
+    {
+        "q": "Match the strategic frameworks:",
+        "type": "match",
+        "left": [
+            "Value chain",
+            "Porter's forces",
+            "SWOT",
+            "PESTEL"
+        ],
+        "right": [
+            "Activity analysis",
+            "Industry competition",
+            "Internal-external",
+            "Macro environment"
+        ]
+    },
+    {
+        "q": "What is value chain analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing activities adding value from input to output",
+            "Cost sheet only",
+            "Revenue analysis",
+            "Balance sheet analysis"
+        ]
+    },
+    {
+        "q": "Primary activities include inbound logistics, operations, outbound logistics, marketing, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "service"
+        ],
+        "other_options": [
+            "procurement",
+            "technology",
+            "HR"
+        ]
+    },
+    {
+        "q": "What is supply chain costing?",
+        "type": "mcq",
+        "o": [
+            "Costing across entire supply chain from supplier to customer",
+            "Internal costing only",
+            "Supplier costing only",
+            "Customer costing only"
+        ]
+    },
+    {
+        "q": "Supply chain optimization can reduce total cost of ownership.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is strategic pricing?",
+        "type": "mcq",
+        "o": [
+            "Pricing aligned with strategic objectives and market position",
+            "Cost-based only",
+            "Random pricing",
+            "Competition matching only"
+        ]
+    },
+    {
+        "q": "Match the pricing strategies:",
+        "type": "match",
+        "left": [
+            "Penetration",
+            "Skimming",
+            "Premium",
+            "Value"
+        ],
+        "right": [
+            "Low initial price",
+            "High initial price",
+            "Luxury positioning",
+            "Customer perceived value"
+        ]
+    },
+    {
+        "q": "What is enterprise risk management?",
+        "type": "mcq",
+        "o": [
+            "Holistic approach to identifying and managing organizational risks",
+            "Financial risk only",
+            "IT risk only",
+            "No risk management"
+        ]
+    },
+    {
+        "q": "ERM considers both risks and ______ in decision making.",
+        "type": "fill_blank",
+        "answers": [
+            "opportunities"
+        ],
+        "other_options": [
+            "costs",
+            "revenues",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is risk appetite?",
+        "type": "mcq",
+        "o": [
+            "Level of risk organization is willing to accept",
+            "Zero risk tolerance",
+            "Maximum risk taking",
+            "No risk consideration"
+        ]
+    },
+    {
+        "q": "Risk tolerance defines boundaries within risk appetite.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is scenario analysis for risk?",
+        "type": "mcq",
+        "o": [
+            "Evaluating impact of different risk scenarios on organization",
+            "Single outcome analysis",
+            "No analysis",
+            "Historical analysis only"
+        ]
+    },
+    {
+        "q": "Match the risk response strategies:",
+        "type": "match",
+        "left": [
+            "Avoid",
+            "Transfer",
+            "Mitigate",
+            "Accept"
+        ],
+        "right": [
+            "Eliminate activity",
+            "Insurance/outsource",
+            "Reduce likelihood",
+            "Tolerate residual risk"
+        ]
+    },
+    {
+        "q": "What is key risk indicator?",
+        "type": "mcq",
+        "o": [
+            "Metric providing early warning of risk exposure",
+            "Key performance indicator",
+            "Financial ratio",
+            "Audit finding"
+        ]
+    },
+    {
+        "q": "Leading indicators provide advance warning of ______ risks.",
+        "type": "fill_blank",
+        "answers": [
+            "emerging"
+        ],
+        "other_options": [
+            "historical",
+            "past",
+            "concluded"
+        ]
+    },
+    {
+        "q": "What is three lines of defense model?",
+        "type": "mcq",
+        "o": [
+            "Risk management framework with operational, oversight, and assurance functions",
+            "Single defense line",
+            "Two lines only",
+            "Four lines"
+        ]
+    },
+    {
+        "q": "Internal audit forms the third line of defense providing independent assurance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is business model assessment?",
+        "type": "mcq",
+        "o": [
+            "Evaluating how organization creates and delivers value",
+            "Single product analysis",
+            "Market research only",
+            "Competitor analysis only"
+        ]
+    },
+    {
+        "q": "Revenue model defines how organization ______ from its offerings.",
+        "type": "fill_blank",
+        "answers": [
+            "generates income"
+        ],
+        "other_options": [
+            "reduces cost",
+            "manages risk",
+            "controls expenses"
+        ]
+    },
+    {
+        "q": "What is customer value proposition?",
+        "type": "mcq",
+        "o": [
+            "Statement of unique value offered to customers",
+            "Cost statement",
+            "Profit statement",
+            "Tax statement"
+        ]
+    },
+    {
+        "q": "Business model canvas provides visual framework for strategy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is operational excellence in strategy?",
+        "type": "mcq",
+        "o": [
+            "Achieving efficiency and reliability in operations",
+            "Product innovation only",
+            "Customer focus only",
+            "Market expansion only"
+        ]
+    },
+    {
+        "q": "Match the strategic positions:",
+        "type": "match",
+        "left": [
+            "Cost leadership",
+            "Differentiation",
+            "Focus",
+            "Hybrid"
+        ],
+        "right": [
+            "Lowest cost provider",
+            "Unique offering",
+            "Niche market",
+            "Cost and differentiation"
+        ]
+    },
+    {
+        "q": "What is competitive intelligence?",
+        "type": "mcq",
+        "o": [
+            "Systematic gathering of competitor information",
+            "Internal data only",
+            "Financial statements only",
+            "Customer data only"
+        ]
+    },
+    {
+        "q": "SWOT analysis combines internal and ______ factors.",
+        "type": "fill_blank",
+        "answers": [
+            "external"
+        ],
+        "other_options": [
+            "financial",
+            "historical",
+            "political"
+        ]
+    },
+    {
+        "q": "What is change management in organizations?",
+        "type": "mcq",
+        "o": [
+            "Structured approach to transitioning to desired future state",
+            "No change allowed",
+            "Random changes",
+            "Status quo maintenance"
+        ]
+    },
+    {
+        "q": "Resistance to change is natural and should be managed proactively.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is performance management system?",
+        "type": "mcq",
+        "o": [
+            "Framework for setting goals, monitoring and improving performance",
+            "Compensation only",
+            "Hiring process",
+            "Exit process"
+        ]
+    },
+    {
+        "q": "Match the performance concepts:",
+        "type": "match",
+        "left": [
+            "KPI",
+            "OKR",
+            "MBO",
+            "BSC"
+        ],
+        "right": [
+            "Key Performance Indicator",
+            "Objectives and Key Results",
+            "Management by Objectives",
+            "Balanced Scorecard"
+        ]
+    },
+    {
+        "q": "What is stakeholder analysis?",
+        "type": "mcq",
+        "o": [
+            "Identifying and assessing interests of stakeholders",
+            "Shareholder analysis only",
+            "Employee analysis only",
+            "Customer analysis only"
+        ]
+    },
+    {
+        "q": "Stakeholder mapping plots influence against ______.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "cost",
+            "time",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is operational risk?",
+        "type": "mcq",
+        "o": [
+            "Risk of loss from inadequate processes, people, or systems",
+            "Market risk",
+            "Credit risk",
+            "Interest rate risk"
+        ]
+    },
+    {
+        "q": "Operational risk includes fraud and compliance failures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is business process reengineering?",
+        "type": "mcq",
+        "o": [
+            "Radical redesign of processes for improvement",
+            "Minor adjustments",
+            "Status quo",
+            "No change"
+        ]
+    },
+    {
+        "q": "Match the process concepts:",
+        "type": "match",
+        "left": [
+            "BPR",
+            "Six Sigma",
+            "Lean",
+            "TQM"
+        ],
+        "right": [
+            "Radical redesign",
+            "Defect reduction",
+            "Waste elimination",
+            "Total quality focus"
+        ]
+    },
+    {
+        "q": "What is process automation?",
+        "type": "mcq",
+        "o": [
+            "Using technology to perform tasks without human intervention",
+            "Manual processing",
+            "Paper-based systems",
+            "No technology"
+        ]
+    },
+    {
+        "q": "RPA automates ______ tasks following defined rules.",
+        "type": "fill_blank",
+        "answers": [
+            "repetitive"
+        ],
+        "other_options": [
+            "creative",
+            "strategic",
+            "analytical"
+        ]
+    },
+    {
+        "q": "What is digital transformation?",
+        "type": "mcq",
+        "o": [
+            "Integration of digital technology across business areas",
+            "Website creation only",
+            "Email adoption",
+            "No change"
+        ]
+    },
+    {
+        "q": "Digital transformation requires cultural change along with technology.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is fintech in finance?",
+        "type": "mcq",
+        "o": [
+            "Technology innovation in financial services",
+            "Traditional banking only",
+            "Paper checks",
+            "Cash transactions"
+        ]
+    },
+    {
+        "q": "Match the fintech applications:",
+        "type": "match",
+        "left": [
+            "UPI",
+            "Blockchain",
+            "Robo-advisory",
+            "Crowdfunding"
+        ],
+        "right": [
+            "Instant payments",
+            "Cryptocurrency",
+            "Automated investing",
+            "Alternative financing"
+        ]
+    },
+    {
+        "q": "What is regtech?",
+        "type": "mcq",
+        "o": [
+            "Technology for regulatory compliance",
+            "Regular technology",
+            "No technology",
+            "Hardware only"
+        ]
+    },
+    {
+        "q": "KYC and AML compliance can be automated using ______.",
+        "type": "fill_blank",
+        "answers": [
+            "regtech"
+        ],
+        "other_options": [
+            "fintech",
+            "martech",
+            "edtech"
+        ]
+    },
+    {
+        "q": "What is data-driven decision making?",
+        "type": "mcq",
+        "o": [
+            "Using data and analytics to inform decisions",
+            "Intuition only",
+            "Experience only",
+            "Random decisions"
+        ]
+    },
+    {
+        "q": "Descriptive analytics answers what happened.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is prescriptive analytics?",
+        "type": "mcq",
+        "o": [
+            "Recommending actions based on analysis",
+            "Only describing past",
+            "Only predicting future",
+            "No recommendations"
+        ]
+    },
+    {
+        "q": "Match the analytics types:",
+        "type": "match",
+        "left": [
+            "Descriptive",
+            "Diagnostic",
+            "Predictive",
+            "Prescriptive"
+        ],
+        "right": [
+            "What happened",
+            "Why happened",
+            "What will happen",
+            "What to do"
+        ]
+    },
+    {
+        "q": "What is data lake?",
+        "type": "mcq",
+        "o": [
+            "Storage repository for large volumes of raw data",
+            "Structured data only",
+            "Small database",
+            "Spreadsheet file"
+        ]
+    },
+    {
+        "q": "Data lake stores data in ______ format until needed.",
+        "type": "fill_blank",
+        "answers": [
+            "raw"
+        ],
+        "other_options": [
+            "processed",
+            "cleaned",
+            "transformed"
+        ]
+    },
+    {
+        "q": "What is real-time reporting?",
+        "type": "mcq",
+        "o": [
+            "Immediate reporting as transactions occur",
+            "Monthly reporting",
+            "Annual reporting",
+            "No reporting"
+        ]
+    },
+    {
+        "q": "Real-time data enables faster decision making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is intercompany reconciliation?",
+        "type": "mcq",
+        "o": [
+            "Matching transactions between group companies",
+            "Bank reconciliation",
+            "Tax reconciliation",
+            "Cash reconciliation"
+        ]
+    },
+    {
+        "q": "Match the reconciliation challenges:",
+        "type": "match",
+        "left": [
+            "Timing differences",
+            "Currency differences",
+            "Pricing differences",
+            "Cut-off differences"
+        ],
+        "right": [
+            "Recording dates vary",
+            "Exchange rates vary",
+            "Transfer pricing issues",
+            "Period end timing"
+        ]
+    },
+    {
+        "q": "What is shared services center?",
+        "type": "mcq",
+        "o": [
+            "Centralized unit providing services to multiple business units",
+            "Decentralized services",
+            "No services",
+            "Outsourcing only"
+        ]
+    },
+    {
+        "q": "Shared services reduce costs through ______ and standardization.",
+        "type": "fill_blank",
+        "answers": [
+            "centralization"
+        ],
+        "other_options": [
+            "decentralization",
+            "duplication",
+            "fragmentation"
+        ]
+    },
+    {
+        "q": "What is outsourcing in business?",
+        "type": "mcq",
+        "o": [
+            "Contracting external party to perform business functions",
+            "Only internal processes",
+            "No external parties",
+            "Self-sourcing only"
+        ]
+    },
+    {
+        "q": "Outsourcing decisions require cost-benefit analysis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is service level agreement?",
+        "type": "mcq",
+        "o": [
+            "Agreement defining expected service standards",
+            "Purchase agreement",
+            "Sales contract",
+            "Employment contract"
+        ]
+    },
+    {
+        "q": "Match the service management concepts:",
+        "type": "match",
+        "left": [
+            "SLA",
+            "KPI",
+            "OLA",
+            "UC"
+        ],
+        "right": [
+            "Customer agreement",
+            "Measurable metric",
+            "Internal agreement",
+            "Third-party agreement"
+        ]
+    },
+    {
+        "q": "What is vendor management?",
+        "type": "mcq",
+        "o": [
+            "Managing relationships and performance of suppliers",
+            "Customer management",
+            "Employee management",
+            "Investor management"
+        ]
+    },
+    {
+        "q": "Vendor due diligence assesses ______ before engagement.",
+        "type": "fill_blank",
+        "answers": [
+            "risks"
+        ],
+        "other_options": [
+            "profits",
+            "sales",
+            "revenues"
+        ]
+    },
+    {
+        "q": "What is business continuity?",
+        "type": "mcq",
+        "o": [
+            "Maintaining operations during and after disruption",
+            "Normal operations only",
+            "No planning",
+            "Shutdown procedures"
+        ]
+    },
+    {
+        "q": "Business impact analysis identifies critical business functions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is crisis management?",
+        "type": "mcq",
+        "o": [
+            "Managing response to major disruptive event",
+            "Normal management",
+            "No management",
+            "Routine management"
+        ]
+    },
+    {
+        "q": "Match the continuity concepts:",
+        "type": "match",
+        "left": [
+            "BIA",
+            "BCP",
+            "DRP",
+            "Crisis management"
+        ],
+        "right": [
+            "Impact analysis",
+            "Continuity planning",
+            "IT recovery",
+            "Event response"
+        ]
+    },
+    {
+        "q": "What is zero trust security?",
+        "type": "mcq",
+        "o": [
+            "Never trust, always verify security approach",
+            "Trust all users",
+            "No security",
+            "Perimeter only"
+        ]
+    },
+    {
+        "q": "Zero trust assumes threats exist both outside and ______ network.",
+        "type": "fill_blank",
+        "answers": [
+            "inside"
+        ],
+        "other_options": [
+            "above",
+            "around",
+            "below"
+        ]
+    },
+    {
+        "q": "What is identity and access management?",
+        "type": "mcq",
+        "o": [
+            "Framework for managing digital identities and access",
+            "Physical security",
+            "No access control",
+            "Open access"
+        ]
+    },
+    {
+        "q": "Single sign-on improves user experience and security.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is multi-factor authentication?",
+        "type": "mcq",
+        "o": [
+            "Using multiple verification methods for access",
+            "Single password only",
+            "No authentication",
+            "Optional login"
+        ]
+    },
+    {
+        "q": "Match the security controls:",
+        "type": "match",
+        "left": [
+            "MFA",
+            "SSO",
+            "PAM",
+            "SIEM"
+        ],
+        "right": [
+            "Multiple verification",
+            "Single sign-on",
+            "Privileged access",
+            "Security monitoring"
+        ]
+    },
+    {
+        "q": "What is configuration management?",
+        "type": "mcq",
+        "o": [
+            "Tracking and controlling changes to IT components",
+            "No tracking",
+            "Random changes",
+            "User preferences only"
+        ]
+    }
+]

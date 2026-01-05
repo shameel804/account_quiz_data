@@ -1,0 +1,152 @@
+[
+    {
+        "title": "IFRS Framework 📚",
+        "ques": "What is the **Conceptual Framework** for IFRS?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Framework Purpose**:\n* Assist IASB in developing standards\n* Help preparers apply standards\n* Guide when no standard applies\n* Help users understand statements\n\n**Key elements**: Qualitative characteristics, elements, recognition, measurement"
+        },
+        "explanation": "Framework is ***not a standard*** but provides foundation."
+    },
+    {
+        "title": "IAS 1 Presentation 📊",
+        "ques": "What are the **components of financial statements** under IAS 1?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Components**:\n1. Statement of Financial Position\n2. Statement of Profit or Loss and OCI\n3. Statement of Changes in Equity\n4. Statement of Cash Flows\n5. Notes to Financial Statements"
+        },
+        "explanation": "Complete set provides ***comprehensive view***."
+    },
+    {
+        "title": "IAS 16 PPE 🏗️",
+        "ques": "How is **property, plant and equipment** measured?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Initial Measurement**: Cost (purchase + directly attributable)\n\n**Subsequent Measurement**:\n* Cost model: Cost less depreciation and impairment\n* Revaluation model: Fair value less subsequent depreciation\n\n**Depreciation**: Systematic allocation over useful life"
+        },
+        "explanation": "Choice of model applied ***consistently*** within class."
+    },
+    {
+        "title": "IFRS 15 Revenue 💰",
+        "ques": "What is the **5-step model** for revenue recognition?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**5 Steps**:\n1. Identify contract\n2. Identify performance obligations\n3. Determine transaction price\n4. Allocate price to obligations\n5. Recognize when obligation satisfied\n\n**Principle**: Recognize when control transfers"
+        },
+        "explanation": "Apply to ***each contract*** with customer."
+    },
+    {
+        "title": "IFRS 9 Financial Instruments 💳",
+        "ques": "How are **financial assets** classified under IFRS 9?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Classification**:\n* Amortised cost (hold to collect, SPPI cash flows)\n* FVOCI (hold to collect and sell, SPPI)\n* FVPL (all others)\n\n**Based on**: Business model and cash flow characteristics"
+        },
+        "explanation": "Classification determines ***measurement*** approach."
+    },
+    {
+        "title": "IAS 37 Provisions 📋",
+        "ques": "When is a **provision** recognized?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Recognition Criteria**:\n1. Present obligation from past event\n2. Probable outflow of resources\n3. Reliable estimate of amount\n\n**Contingent liability**: Disclose only if possible\n**Contingent asset**: Disclose only if probable"
+        },
+        "explanation": "Measure at ***best estimate*** of expenditure."
+    },
+    {
+        "title": "IFRS 16 Leases 🏢",
+        "ques": "How does a **lessee** account for leases?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Lessee Accounting**:\n* Recognize right-of-use asset and lease liability\n* Depreciate ROU asset\n* Accrue interest on liability\n* Reduce liability with payments\n\n**Exceptions**: Short-term, low-value leases"
+        },
+        "explanation": "Most leases now ***on balance sheet***."
+    },
+    {
+        "title": "IAS 36 Impairment 📉",
+        "ques": "How is **impairment** of assets tested?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Test**: Compare carrying amount to recoverable amount\n\n**Recoverable Amount** = Higher of:\n* Fair value less costs of disposal\n* Value in use (discounted cash flows)\n\n**Impairment loss**: Carrying > Recoverable"
+        },
+        "explanation": "Test when indicators exist (***annually for goodwill***)."
+    },
+    {
+        "title": "IFRS 3 Business Combinations 🤝",
+        "ques": "How is **goodwill** measured on acquisition?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Goodwill** = Consideration + NCI - Fair value of net assets\n\n**Consideration**: Cash, shares, contingent, deferred\n\n**NCI**: Fair value or share of net assets (choice)\n\n**Bargain purchase**: Gain in P/L"
+        },
+        "explanation": "Goodwill tested for impairment ***annually***."
+    },
+    {
+        "title": "IAS 21 Foreign Currency 🌍",
+        "ques": "How are **foreign currency transactions** accounted for?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Initial Recognition**: Spot rate on transaction date\n\n**Subsequent**:\n* Monetary items: Closing rate (difference to P/L)\n* Non-monetary (cost): Historical rate\n* Non-monetary (FV): Rate when FV measured"
+        },
+        "explanation": "***Functional currency*** is primary economic environment."
+    },
+    {
+        "title": "IAS 10 Events After Reporting 📅",
+        "ques": "Distinguish **adjusting** and **non-adjusting** events.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Adjusting**: Evidence of conditions at reporting date\n* Adjust financial statements\n* Example: Settlement of lawsuit, bad debt confirmation\n\n**Non-adjusting**: Arise after reporting date\n* Disclose if material\n* Example: Fire, major acquisition"
+        },
+        "explanation": "Cut-off date is when FS ***authorized for issue***."
+    },
+    {
+        "title": "IAS 12 Deferred Tax 📋",
+        "ques": "What creates **deferred tax** assets and liabilities?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Deferred Tax Liability**: Taxable temporary difference\n* Carrying amount > Tax base\n* Example: Accelerated depreciation\n\n**Deferred Tax Asset**: Deductible temporary difference\n* Carrying amount < Tax base\n* Example: Provisions not yet deductible"
+        },
+        "explanation": "Recognized for ***temporary differences*** between book and tax."
+    },
+    {
+        "title": "Consolidation Principles 📊",
+        "ques": "When must **consolidated financial statements** be prepared?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Required when**: Parent controls one or more subsidiaries\n\n**Control**: Power over investee, exposure to variable returns, ability to affect returns\n\n**Process**: Combine line by line, eliminate intercompany"
+        },
+        "explanation": "Control is ***key criterion*** for consolidation."
+    },
+    {
+        "title": "IAS 7 Cash Flows 💵",
+        "ques": "What are the **classifications** in a cash flow statement?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Classifications**:\n1. **Operating**: From principal revenue activities\n2. **Investing**: Acquisition/disposal of long-term assets\n3. **Financing**: Changes in equity and borrowings"
+        },
+        "explanation": "***Operating*** can be direct or indirect method."
+    },
+    {
+        "title": "Professional Ethics IESBA 🎭",
+        "ques": "What are the **IESBA fundamental principles**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Five Principles**:\n1. Integrity\n2. Objectivity\n3. Professional competence and due care\n4. Confidentiality\n5. Professional behavior\n\n**Apply**: Conceptual framework to threats and safeguards"
+        },
+        "explanation": "Principles apply to ***all professional accountants***."
+    }
+]

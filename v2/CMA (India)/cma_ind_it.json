@@ -1,0 +1,6528 @@
+[
+    {
+        "q": "What is ERP?",
+        "type": "mcq",
+        "o": [
+            "Enterprise Resource Planning",
+            "External Resource Planning",
+            "No meaning",
+            "Random acronym"
+        ]
+    },
+    {
+        "q": "ERP integrates business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "processes"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "separate"
+        ]
+    },
+    {
+        "q": "What is ERP system?",
+        "type": "mcq",
+        "o": [
+            "Integrated software for managing operations",
+            "Separate systems",
+            "No system",
+            "Random software"
+        ]
+    },
+    {
+        "q": "ERP provides single source of truth.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is ERP module?",
+        "type": "mcq",
+        "o": [
+            "Functional component of ERP system",
+            "No module",
+            "Random part",
+            "External system"
+        ]
+    },
+    {
+        "q": "Match the ERP modules:",
+        "type": "match",
+        "left": [
+            "Finance",
+            "HR",
+            "Inventory",
+            "Sales"
+        ],
+        "right": [
+            "Accounting",
+            "Personnel",
+            "Stock",
+            "Revenue"
+        ]
+    },
+    {
+        "q": "What is finance module in ERP?",
+        "type": "mcq",
+        "o": [
+            "Managing financial transactions and reporting",
+            "No module",
+            "Random function",
+            "External finance"
+        ]
+    },
+    {
+        "q": "Finance module handles general ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ledger"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "inventory"
+        ]
+    },
+    {
+        "q": "What is inventory module?",
+        "type": "mcq",
+        "o": [
+            "Managing stock and materials",
+            "No module",
+            "Random function",
+            "External inventory"
+        ]
+    },
+    {
+        "q": "Inventory module tracks stock levels.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is HR module?",
+        "type": "mcq",
+        "o": [
+            "Managing human resources functions",
+            "No module",
+            "Random function",
+            "External HR"
+        ]
+    },
+    {
+        "q": "Match the HR functions:",
+        "type": "match",
+        "left": [
+            "Payroll",
+            "Recruitment",
+            "Training",
+            "Performance"
+        ],
+        "right": [
+            "Salary",
+            "Hiring",
+            "Development",
+            "Appraisal"
+        ]
+    },
+    {
+        "q": "What is sales module?",
+        "type": "mcq",
+        "o": [
+            "Managing sales orders and customers",
+            "No module",
+            "Random function",
+            "External sales"
+        ]
+    },
+    {
+        "q": "Sales module processes customer ______.",
+        "type": "fill_blank",
+        "answers": [
+            "orders"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "inventory"
+        ]
+    },
+    {
+        "q": "What is procurement module?",
+        "type": "mcq",
+        "o": [
+            "Managing purchasing and vendors",
+            "No module",
+            "Random function",
+            "External procurement"
+        ]
+    },
+    {
+        "q": "Procurement module handles purchase orders.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is production module?",
+        "type": "mcq",
+        "o": [
+            "Managing manufacturing processes",
+            "No module",
+            "Random function",
+            "External production"
+        ]
+    },
+    {
+        "q": "Match the production functions:",
+        "type": "match",
+        "left": [
+            "BOM",
+            "Routing",
+            "Scheduling",
+            "MRP"
+        ],
+        "right": [
+            "Materials",
+            "Process",
+            "Timing",
+            "Planning"
+        ]
+    },
+    {
+        "q": "What is BOM?",
+        "type": "mcq",
+        "o": [
+            "Bill of Materials",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "BOM lists required ______.",
+        "type": "fill_blank",
+        "answers": [
+            "materials"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is MRP?",
+        "type": "mcq",
+        "o": [
+            "Material Requirements Planning",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "MRP plans material needs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CRM?",
+        "type": "mcq",
+        "o": [
+            "Customer Relationship Management",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the CRM functions:",
+        "type": "match",
+        "left": [
+            "Lead",
+            "Opportunity",
+            "Customer",
+            "Service"
+        ],
+        "right": [
+            "Potential",
+            "Sales chance",
+            "Client",
+            "Support"
+        ]
+    },
+    {
+        "q": "What is SCM?",
+        "type": "mcq",
+        "o": [
+            "Supply Chain Management",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "SCM manages supply ______.",
+        "type": "fill_blank",
+        "answers": [
+            "chain"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "finance"
+        ]
+    },
+    {
+        "q": "What is data analytics?",
+        "type": "mcq",
+        "o": [
+            "Analyzing data to gain insights",
+            "No analysis",
+            "Random data",
+            "External analytics"
+        ]
+    },
+    {
+        "q": "Data analytics supports decision making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is business intelligence?",
+        "type": "mcq",
+        "o": [
+            "Tools for analyzing business data",
+            "No intelligence",
+            "Random tools",
+            "External BI"
+        ]
+    },
+    {
+        "q": "Match the BI components:",
+        "type": "match",
+        "left": [
+            "Dashboard",
+            "Report",
+            "KPI",
+            "Drill-down"
+        ],
+        "right": [
+            "Visual",
+            "Summary",
+            "Metric",
+            "Detail"
+        ]
+    },
+    {
+        "q": "What is dashboard?",
+        "type": "mcq",
+        "o": [
+            "Visual display of key metrics",
+            "No display",
+            "Random visual",
+            "External dashboard"
+        ]
+    },
+    {
+        "q": "Dashboard provides at-a-glance ______.",
+        "type": "fill_blank",
+        "answers": [
+            "view"
+        ],
+        "other_options": [
+            "random",
+            "detail",
+            "confusion"
+        ]
+    },
+    {
+        "q": "What is KPI?",
+        "type": "mcq",
+        "o": [
+            "Key Performance Indicator",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "KPIs measure business performance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data warehouse?",
+        "type": "mcq",
+        "o": [
+            "Central repository for business data",
+            "No warehouse",
+            "Random storage",
+            "External data"
+        ]
+    },
+    {
+        "q": "Match the data concepts:",
+        "type": "match",
+        "left": [
+            "Warehouse",
+            "Data lake",
+            "Data mart",
+            "ETL"
+        ],
+        "right": [
+            "Structured",
+            "Raw",
+            "Subset",
+            "Process"
+        ]
+    },
+    {
+        "q": "What is ETL?",
+        "type": "mcq",
+        "o": [
+            "Extract, Transform, Load",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "ETL moves data to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "warehouse"
+        ],
+        "other_options": [
+            "random",
+            "nowhere",
+            "source"
+        ]
+    },
+    {
+        "q": "What is data lake?",
+        "type": "mcq",
+        "o": [
+            "Repository for raw data",
+            "No lake",
+            "Random storage",
+            "External data"
+        ]
+    },
+    {
+        "q": "Data lake stores unstructured data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data mart?",
+        "type": "mcq",
+        "o": [
+            "Subset of data warehouse for specific area",
+            "All data",
+            "No mart",
+            "Random subset"
+        ]
+    },
+    {
+        "q": "Match the analytics levels:",
+        "type": "match",
+        "left": [
+            "Descriptive",
+            "Diagnostic",
+            "Predictive",
+            "Prescriptive"
+        ],
+        "right": [
+            "What",
+            "Why",
+            "Future",
+            "Action"
+        ]
+    },
+    {
+        "q": "What is descriptive analytics?",
+        "type": "mcq",
+        "o": [
+            "Analyzing historical data",
+            "Future prediction",
+            "No analytics",
+            "Random analysis"
+        ]
+    },
+    {
+        "q": "Descriptive analytics summarizes ______.",
+        "type": "fill_blank",
+        "answers": [
+            "past"
+        ],
+        "other_options": [
+            "future",
+            "random",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is predictive analytics?",
+        "type": "mcq",
+        "o": [
+            "Forecasting future outcomes",
+            "Past analysis",
+            "No analytics",
+            "Random prediction"
+        ]
+    },
+    {
+        "q": "Predictive analytics uses machine learning.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is prescriptive analytics?",
+        "type": "mcq",
+        "o": [
+            "Recommending actions to take",
+            "Describing past",
+            "No analytics",
+            "Random recommendation"
+        ]
+    },
+    {
+        "q": "Match the data analysis methods:",
+        "type": "match",
+        "left": [
+            "Regression",
+            "Clustering",
+            "Classification",
+            "Association"
+        ],
+        "right": [
+            "Relationship",
+            "Groups",
+            "Categories",
+            "Rules"
+        ]
+    },
+    {
+        "q": "What is regression analysis?",
+        "type": "mcq",
+        "o": [
+            "Finding relationships between variables",
+            "No relationship",
+            "Random analysis",
+            "External method"
+        ]
+    },
+    {
+        "q": "Regression predicts ______ variable.",
+        "type": "fill_blank",
+        "answers": [
+            "dependent"
+        ],
+        "other_options": [
+            "random",
+            "independent",
+            "none"
+        ]
+    },
+    {
+        "q": "What is clustering?",
+        "type": "mcq",
+        "o": [
+            "Grouping similar data points",
+            "No grouping",
+            "Random clustering",
+            "External method"
+        ]
+    },
+    {
+        "q": "Clustering finds natural groups in data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is classification?",
+        "type": "mcq",
+        "o": [
+            "Assigning data to categories",
+            "No categories",
+            "Random classification",
+            "External method"
+        ]
+    },
+    {
+        "q": "Match the digital transformation:",
+        "type": "match",
+        "left": [
+            "Digitization",
+            "Digitalization",
+            "Transformation",
+            "Disruption"
+        ],
+        "right": [
+            "Convert",
+            "Process",
+            "Change",
+            "Innovation"
+        ]
+    },
+    {
+        "q": "What is digital transformation?",
+        "type": "mcq",
+        "o": [
+            "Using technology to change business models",
+            "No change",
+            "Random transformation",
+            "External process"
+        ]
+    },
+    {
+        "q": "Digital transformation improves ______.",
+        "type": "fill_blank",
+        "answers": [
+            "efficiency"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is cloud computing?",
+        "type": "mcq",
+        "o": [
+            "Computing services over internet",
+            "Local computing",
+            "No computing",
+            "Random cloud"
+        ]
+    },
+    {
+        "q": "Cloud computing provides scalability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is SaaS?",
+        "type": "mcq",
+        "o": [
+            "Software as a Service",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the cloud services:",
+        "type": "match",
+        "left": [
+            "IaaS",
+            "PaaS",
+            "SaaS",
+            "FaaS"
+        ],
+        "right": [
+            "Infrastructure",
+            "Platform",
+            "Software",
+            "Function"
+        ]
+    },
+    {
+        "q": "What is IaaS?",
+        "type": "mcq",
+        "o": [
+            "Infrastructure as a Service",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "IaaS provides virtual ______.",
+        "type": "fill_blank",
+        "answers": [
+            "infrastructure"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "software"
+        ]
+    },
+    {
+        "q": "What is PaaS?",
+        "type": "mcq",
+        "o": [
+            "Platform as a Service",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "PaaS provides development platform.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is artificial intelligence?",
+        "type": "mcq",
+        "o": [
+            "Machines simulating human intelligence",
+            "Human intelligence",
+            "No AI",
+            "Random intelligence"
+        ]
+    },
+    {
+        "q": "Match the AI concepts:",
+        "type": "match",
+        "left": [
+            "AI",
+            "ML",
+            "DL",
+            "NLP"
+        ],
+        "right": [
+            "Intelligence",
+            "Learning",
+            "Neural",
+            "Language"
+        ]
+    },
+    {
+        "q": "What is machine learning?",
+        "type": "mcq",
+        "o": [
+            "Algorithms learning from data",
+            "No learning",
+            "Random algorithm",
+            "External tool"
+        ]
+    },
+    {
+        "q": "Machine learning improves with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "coding"
+        ]
+    },
+    {
+        "q": "What is deep learning?",
+        "type": "mcq",
+        "o": [
+            "Neural networks with multiple layers",
+            "Single layer",
+            "No learning",
+            "Random method"
+        ]
+    },
+    {
+        "q": "Deep learning uses neural networks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is RPA?",
+        "type": "mcq",
+        "o": [
+            "Robotic Process Automation",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the automation:",
+        "type": "match",
+        "left": [
+            "RPA",
+            "Workflow",
+            "BPM",
+            "Integration"
+        ],
+        "right": [
+            "Bot",
+            "Process flow",
+            "Management",
+            "Connection"
+        ]
+    },
+    {
+        "q": "What is blockchain?",
+        "type": "mcq",
+        "o": [
+            "Distributed ledger technology",
+            "Central ledger",
+            "No blockchain",
+            "Random technology"
+        ]
+    },
+    {
+        "q": "Blockchain provides ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transparency"
+        ],
+        "other_options": [
+            "random",
+            "secrecy",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is IoT?",
+        "type": "mcq",
+        "o": [
+            "Internet of Things",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "IoT connects devices to internet.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cybersecurity?",
+        "type": "mcq",
+        "o": [
+            "Protecting systems from cyber threats",
+            "No protection",
+            "Random security",
+            "External protection"
+        ]
+    },
+    {
+        "q": "Match the security concepts:",
+        "type": "match",
+        "left": [
+            "Confidentiality",
+            "Integrity",
+            "Availability",
+            "CIA"
+        ],
+        "right": [
+            "Secret",
+            "Accurate",
+            "Access",
+            "Triad"
+        ]
+    },
+    {
+        "q": "What is CIA triad?",
+        "type": "mcq",
+        "o": [
+            "Confidentiality, Integrity, Availability",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "CIA is foundation of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "security"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "analytics"
+        ]
+    },
+    {
+        "q": "What is data protection?",
+        "type": "mcq",
+        "o": [
+            "Safeguarding personal and sensitive data",
+            "No protection",
+            "Random protection",
+            "External measure"
+        ]
+    },
+    {
+        "q": "Data protection is a legal requirement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is encryption?",
+        "type": "mcq",
+        "o": [
+            "Converting data to unreadable format",
+            "Readable format",
+            "No encryption",
+            "Random conversion"
+        ]
+    },
+    {
+        "q": "Match the security controls:",
+        "type": "match",
+        "left": [
+            "Encryption",
+            "Firewall",
+            "Antivirus",
+            "Backup"
+        ],
+        "right": [
+            "Scramble",
+            "Filter",
+            "Protect",
+            "Copy"
+        ]
+    },
+    {
+        "q": "What is firewall?",
+        "type": "mcq",
+        "o": [
+            "Network security device filtering traffic",
+            "No filtering",
+            "Random device",
+            "External firewall"
+        ]
+    },
+    {
+        "q": "Firewall controls network ______.",
+        "type": "fill_blank",
+        "answers": [
+            "access"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "data"
+        ]
+    },
+    {
+        "q": "What is malware?",
+        "type": "mcq",
+        "o": [
+            "Malicious software",
+            "Good software",
+            "No malware",
+            "Random software"
+        ]
+    },
+    {
+        "q": "Malware includes viruses and trojans.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is phishing?",
+        "type": "mcq",
+        "o": [
+            "Fraudulent attempt to obtain information",
+            "Legitimate request",
+            "No phishing",
+            "Random attempt"
+        ]
+    },
+    {
+        "q": "Match the cyber threats:",
+        "type": "match",
+        "left": [
+            "Phishing",
+            "Ransomware",
+            "DDoS",
+            "Social engineering"
+        ],
+        "right": [
+            "Email fraud",
+            "Encrypt demand",
+            "Overload",
+            "Manipulation"
+        ]
+    },
+    {
+        "q": "What is ransomware?",
+        "type": "mcq",
+        "o": [
+            "Malware demanding payment",
+            "Free software",
+            "No ransomware",
+            "Random malware"
+        ]
+    },
+    {
+        "q": "Ransomware encrypts victim ______.",
+        "type": "fill_blank",
+        "answers": [
+            "files"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "money"
+        ]
+    },
+    {
+        "q": "What is authentication?",
+        "type": "mcq",
+        "o": [
+            "Verifying user identity",
+            "No verification",
+            "Random check",
+            "External authentication"
+        ]
+    },
+    {
+        "q": "Strong authentication uses multiple factors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is MFA?",
+        "type": "mcq",
+        "o": [
+            "Multi-Factor Authentication",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "MFA combines something you know, have, ______.",
+        "type": "fill_blank",
+        "answers": [
+            "are"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "want"
+        ]
+    },
+    {
+        "q": "What is access control?",
+        "type": "mcq",
+        "o": [
+            "Restricting system access to authorized users",
+            "Open access",
+            "No control",
+            "Random access"
+        ]
+    },
+    {
+        "q": "Access control implements least privilege.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is RBAC?",
+        "type": "mcq",
+        "o": [
+            "Role-Based Access Control",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the access models:",
+        "type": "match",
+        "left": [
+            "RBAC",
+            "DAC",
+            "MAC",
+            "ABAC"
+        ],
+        "right": [
+            "Role",
+            "Discretionary",
+            "Mandatory",
+            "Attribute"
+        ]
+    },
+    {
+        "q": "What is SSO?",
+        "type": "mcq",
+        "o": [
+            "Single Sign-On",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "SSO uses one ______ for multiple apps.",
+        "type": "fill_blank",
+        "answers": [
+            "login"
+        ],
+        "other_options": [
+            "random",
+            "password",
+            "system"
+        ]
+    },
+    {
+        "q": "What is data backup?",
+        "type": "mcq",
+        "o": [
+            "Copying data for recovery",
+            "No backup",
+            "Random copy",
+            "External backup"
+        ]
+    },
+    {
+        "q": "Regular backups protect against data loss.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is disaster recovery?",
+        "type": "mcq",
+        "o": [
+            "Restoring operations after disruption",
+            "No recovery",
+            "Random restoration",
+            "External recovery"
+        ]
+    },
+    {
+        "q": "Match the backup types:",
+        "type": "match",
+        "left": [
+            "Full",
+            "Incremental",
+            "Differential",
+            "Mirror"
+        ],
+        "right": [
+            "Complete",
+            "Changes since last",
+            "Changes since full",
+            "Exact copy"
+        ]
+    },
+    {
+        "q": "What is RTO?",
+        "type": "mcq",
+        "o": [
+            "Recovery Time Objective",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "RTO is maximum downtime ______.",
+        "type": "fill_blank",
+        "answers": [
+            "acceptable"
+        ],
+        "other_options": [
+            "random",
+            "required",
+            "minimum"
+        ]
+    },
+    {
+        "q": "What is RPO?",
+        "type": "mcq",
+        "o": [
+            "Recovery Point Objective",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "RPO defines acceptable data loss.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is BCP?",
+        "type": "mcq",
+        "o": [
+            "Business Continuity Planning",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the continuity concepts:",
+        "type": "match",
+        "left": [
+            "BCP",
+            "DRP",
+            "RTO",
+            "RPO"
+        ],
+        "right": [
+            "Continuity",
+            "Recovery",
+            "Time",
+            "Point"
+        ]
+    },
+    {
+        "q": "What is GDPR?",
+        "type": "mcq",
+        "o": [
+            "General Data Protection Regulation",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "GDPR protects personal ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "systems"
+        ]
+    },
+    {
+        "q": "What is data privacy?",
+        "type": "mcq",
+        "o": [
+            "Right to control personal information",
+            "No privacy",
+            "Random privacy",
+            "External privacy"
+        ]
+    },
+    {
+        "q": "Data privacy is a fundamental right.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data governance?",
+        "type": "mcq",
+        "o": [
+            "Managing data assets across organization",
+            "No governance",
+            "Random management",
+            "External governance"
+        ]
+    },
+    {
+        "q": "Match the data governance:",
+        "type": "match",
+        "left": [
+            "Policy",
+            "Standard",
+            "Procedure",
+            "Control"
+        ],
+        "right": [
+            "Rule",
+            "Measure",
+            "Step",
+            "Check"
+        ]
+    },
+    {
+        "q": "What is data quality?",
+        "type": "mcq",
+        "o": [
+            "Accuracy and reliability of data",
+            "No quality",
+            "Random quality",
+            "External quality"
+        ]
+    },
+    {
+        "q": "Data quality ensures ______ decisions.",
+        "type": "fill_blank",
+        "answers": [
+            "informed"
+        ],
+        "other_options": [
+            "random",
+            "wrong",
+            "none"
+        ]
+    },
+    {
+        "q": "What is master data?",
+        "type": "mcq",
+        "o": [
+            "Core business data shared across systems",
+            "Random data",
+            "No master",
+            "External data"
+        ]
+    },
+    {
+        "q": "Master data includes customer and product data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is MDM?",
+        "type": "mcq",
+        "o": [
+            "Master Data Management",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the data types:",
+        "type": "match",
+        "left": [
+            "Master",
+            "Transaction",
+            "Reference",
+            "Metadata"
+        ],
+        "right": [
+            "Core",
+            "Event",
+            "Lookup",
+            "About data"
+        ]
+    },
+    {
+        "q": "What is transaction data?",
+        "type": "mcq",
+        "o": [
+            "Data from business events",
+            "Static data",
+            "No transaction",
+            "Random data"
+        ]
+    },
+    {
+        "q": "Transaction data records business ______.",
+        "type": "fill_blank",
+        "answers": [
+            "events"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "static"
+        ]
+    },
+    {
+        "q": "What is reference data?",
+        "type": "mcq",
+        "o": [
+            "Standard codes and lookup values",
+            "Random data",
+            "No reference",
+            "External data"
+        ]
+    },
+    {
+        "q": "Reference data standardizes classifications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is metadata?",
+        "type": "mcq",
+        "o": [
+            "Data about data",
+            "No meaning",
+            "Random data",
+            "External data"
+        ]
+    },
+    {
+        "q": "Match the integration patterns:",
+        "type": "match",
+        "left": [
+            "API",
+            "File",
+            "Message",
+            "Database"
+        ],
+        "right": [
+            "Interface",
+            "Batch",
+            "Queue",
+            "Direct"
+        ]
+    },
+    {
+        "q": "What is API?",
+        "type": "mcq",
+        "o": [
+            "Application Programming Interface",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "API enables system ______.",
+        "type": "fill_blank",
+        "answers": [
+            "integration"
+        ],
+        "other_options": [
+            "random",
+            "isolation",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is REST API?",
+        "type": "mcq",
+        "o": [
+            "Web service using HTTP methods",
+            "No API",
+            "Random service",
+            "External API"
+        ]
+    },
+    {
+        "q": "REST is stateless architecture.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is middleware?",
+        "type": "mcq",
+        "o": [
+            "Software connecting systems",
+            "No middleware",
+            "Random software",
+            "External connection"
+        ]
+    },
+    {
+        "q": "Match the middleware types:",
+        "type": "match",
+        "left": [
+            "EAI",
+            "ESB",
+            "MQ",
+            "API Gateway"
+        ],
+        "right": [
+            "Integration",
+            "Bus",
+            "Queue",
+            "Management"
+        ]
+    },
+    {
+        "q": "What is ESB?",
+        "type": "mcq",
+        "o": [
+            "Enterprise Service Bus",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "ESB provides enterprise ______.",
+        "type": "fill_blank",
+        "answers": [
+            "integration"
+        ],
+        "other_options": [
+            "random",
+            "isolation",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is data visualization?",
+        "type": "mcq",
+        "o": [
+            "Graphical representation of data",
+            "Text only",
+            "No visualization",
+            "Random graphics"
+        ]
+    },
+    {
+        "q": "Visualization makes data understandable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is chart?",
+        "type": "mcq",
+        "o": [
+            "Visual representation of data",
+            "No chart",
+            "Random visual",
+            "External chart"
+        ]
+    },
+    {
+        "q": "Match the chart types:",
+        "type": "match",
+        "left": [
+            "Bar",
+            "Line",
+            "Pie",
+            "Scatter"
+        ],
+        "right": [
+            "Comparison",
+            "Trend",
+            "Proportion",
+            "Correlation"
+        ]
+    },
+    {
+        "q": "What is bar chart?",
+        "type": "mcq",
+        "o": [
+            "Comparing categories with bars",
+            "No comparison",
+            "Random chart",
+            "External chart"
+        ]
+    },
+    {
+        "q": "Bar chart compares ______.",
+        "type": "fill_blank",
+        "answers": [
+            "categories"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "time"
+        ]
+    },
+    {
+        "q": "What is line chart?",
+        "type": "mcq",
+        "o": [
+            "Showing trends over time",
+            "No trend",
+            "Random chart",
+            "External chart"
+        ]
+    },
+    {
+        "q": "Line charts display time series data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is pie chart?",
+        "type": "mcq",
+        "o": [
+            "Showing proportions of whole",
+            "No proportion",
+            "Random chart",
+            "External chart"
+        ]
+    },
+    {
+        "q": "Match the visualization tools:",
+        "type": "match",
+        "left": [
+            "Tableau",
+            "Power BI",
+            "Excel",
+            "Looker"
+        ],
+        "right": [
+            "Salesforce",
+            "Microsoft",
+            "Spreadsheet",
+            "Google"
+        ]
+    },
+    {
+        "q": "What is heatmap?",
+        "type": "mcq",
+        "o": [
+            "Showing data intensity with colors",
+            "No colors",
+            "Random map",
+            "External map"
+        ]
+    },
+    {
+        "q": "Heatmaps use color ______.",
+        "type": "fill_blank",
+        "answers": [
+            "intensity"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "text"
+        ]
+    },
+    {
+        "q": "What is ERP implementation?",
+        "type": "mcq",
+        "o": [
+            "Process of deploying ERP system",
+            "No implementation",
+            "Random deployment",
+            "External process"
+        ]
+    },
+    {
+        "q": "ERP implementation requires change management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is go-live in ERP?",
+        "type": "mcq",
+        "o": [
+            "When ERP system becomes operational",
+            "Never operational",
+            "Random event",
+            "External go-live"
+        ]
+    },
+    {
+        "q": "Match the implementation phases:",
+        "type": "match",
+        "left": [
+            "Planning",
+            "Design",
+            "Build",
+            "Deploy"
+        ],
+        "right": [
+            "Initiate",
+            "Blueprint",
+            "Develop",
+            "Launch"
+        ]
+    },
+    {
+        "q": "What is data migration?",
+        "type": "mcq",
+        "o": [
+            "Moving data to new system",
+            "No migration",
+            "Random move",
+            "External migration"
+        ]
+    },
+    {
+        "q": "Data migration requires data ______.",
+        "type": "fill_blank",
+        "answers": [
+            "cleansing"
+        ],
+        "other_options": [
+            "random",
+            "corruption",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is parallel run?",
+        "type": "mcq",
+        "o": [
+            "Running old and new systems together",
+            "Only new system",
+            "No run",
+            "Random run"
+        ]
+    },
+    {
+        "q": "Parallel run validates new system accuracy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is user acceptance testing?",
+        "type": "mcq",
+        "o": [
+            "End users testing system functionality",
+            "No testing",
+            "Random testing",
+            "External testing"
+        ]
+    },
+    {
+        "q": "Match the testing types:",
+        "type": "match",
+        "left": [
+            "Unit",
+            "Integration",
+            "System",
+            "UAT"
+        ],
+        "right": [
+            "Component",
+            "Combined",
+            "Full",
+            "User"
+        ]
+    },
+    {
+        "q": "What is customization in ERP?",
+        "type": "mcq",
+        "o": [
+            "Modifying ERP to fit business needs",
+            "No modification",
+            "Random change",
+            "External customization"
+        ]
+    },
+    {
+        "q": "Customization may affect system ______.",
+        "type": "fill_blank",
+        "answers": [
+            "upgrades"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "benefits"
+        ]
+    },
+    {
+        "q": "What is configuration in ERP?",
+        "type": "mcq",
+        "o": [
+            "Setting up ERP without code changes",
+            "Code changes",
+            "No configuration",
+            "Random setup"
+        ]
+    },
+    {
+        "q": "Configuration is preferred over customization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is SAP?",
+        "type": "mcq",
+        "o": [
+            "Leading ERP software vendor",
+            "No meaning",
+            "Random vendor",
+            "External software"
+        ]
+    },
+    {
+        "q": "Match the ERP vendors:",
+        "type": "match",
+        "left": [
+            "SAP",
+            "Oracle",
+            "Microsoft",
+            "Infor"
+        ],
+        "right": [
+            "S/4HANA",
+            "NetSuite",
+            "Dynamics",
+            "CloudSuite"
+        ]
+    },
+    {
+        "q": "What is cloud ERP?",
+        "type": "mcq",
+        "o": [
+            "ERP hosted on cloud infrastructure",
+            "On-premise only",
+            "No cloud",
+            "Random hosting"
+        ]
+    },
+    {
+        "q": "Cloud ERP offers subscription ______.",
+        "type": "fill_blank",
+        "answers": [
+            "pricing"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "ownership"
+        ]
+    },
+    {
+        "q": "What is on-premise ERP?",
+        "type": "mcq",
+        "o": [
+            "ERP installed on company servers",
+            "Cloud only",
+            "No ERP",
+            "Random installation"
+        ]
+    },
+    {
+        "q": "On-premise ERP requires in-house IT.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is hybrid ERP?",
+        "type": "mcq",
+        "o": [
+            "Combination of cloud and on-premise",
+            "Only cloud",
+            "Only on-premise",
+            "No ERP"
+        ]
+    },
+    {
+        "q": "Match the deployment models:",
+        "type": "match",
+        "left": [
+            "Cloud",
+            "On-premise",
+            "Hybrid",
+            "Hosted"
+        ],
+        "right": [
+            "Internet",
+            "Local",
+            "Mixed",
+            "Third-party"
+        ]
+    },
+    {
+        "q": "What is TCO?",
+        "type": "mcq",
+        "o": [
+            "Total Cost of Ownership",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "TCO includes all system ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "random",
+            "benefits",
+            "none"
+        ]
+    },
+    {
+        "q": "What is ROI?",
+        "type": "mcq",
+        "o": [
+            "Return on Investment",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "ROI measures investment effectiveness.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is ERP benefits realization?",
+        "type": "mcq",
+        "o": [
+            "Achieving expected returns from ERP",
+            "No benefits",
+            "Random realization",
+            "External benefits"
+        ]
+    },
+    {
+        "q": "Match the benefits:",
+        "type": "match",
+        "left": [
+            "Efficiency",
+            "Visibility",
+            "Integration",
+            "Compliance"
+        ],
+        "right": [
+            "Productivity",
+            "Insight",
+            "Connected",
+            "Rules"
+        ]
+    },
+    {
+        "q": "What is big data?",
+        "type": "mcq",
+        "o": [
+            "Large volumes of structured and unstructured data",
+            "Small data",
+            "No data",
+            "Random data"
+        ]
+    },
+    {
+        "q": "Big data has volume, velocity, ______.",
+        "type": "fill_blank",
+        "answers": [
+            "variety"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "small"
+        ]
+    },
+    {
+        "q": "What are the 3 Vs of big data?",
+        "type": "mcq",
+        "o": [
+            "Volume, Velocity, Variety",
+            "No Vs",
+            "Random Vs",
+            "External Vs"
+        ]
+    },
+    {
+        "q": "Big data enables advanced analytics.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Hadoop?",
+        "type": "mcq",
+        "o": [
+            "Framework for distributed data processing",
+            "No framework",
+            "Random tool",
+            "External system"
+        ]
+    },
+    {
+        "q": "Match the big data:",
+        "type": "match",
+        "left": [
+            "Hadoop",
+            "Spark",
+            "NoSQL",
+            "HDFS"
+        ],
+        "right": [
+            "Framework",
+            "Engine",
+            "Database",
+            "Storage"
+        ]
+    },
+    {
+        "q": "What is data mining?",
+        "type": "mcq",
+        "o": [
+            "Discovering patterns in large datasets",
+            "No discovery",
+            "Random mining",
+            "External mining"
+        ]
+    },
+    {
+        "q": "Data mining extracts useful ______.",
+        "type": "fill_blank",
+        "answers": [
+            "patterns"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "errors"
+        ]
+    },
+    {
+        "q": "What is text mining?",
+        "type": "mcq",
+        "o": [
+            "Extracting insights from text data",
+            "Numeric only",
+            "No mining",
+            "Random text"
+        ]
+    },
+    {
+        "q": "Text mining analyzes unstructured data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is sentiment analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing opinions in text",
+            "No analysis",
+            "Random sentiment",
+            "External analysis"
+        ]
+    },
+    {
+        "q": "Match the analysis methods:",
+        "type": "match",
+        "left": [
+            "Sentiment",
+            "Text",
+            "Voice",
+            "Image"
+        ],
+        "right": [
+            "Opinion",
+            "Words",
+            "Speech",
+            "Visual"
+        ]
+    },
+    {
+        "q": "What is NLP?",
+        "type": "mcq",
+        "o": [
+            "Natural Language Processing",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "NLP enables machines to understand ______.",
+        "type": "fill_blank",
+        "answers": [
+            "language"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "numbers"
+        ]
+    },
+    {
+        "q": "What is computer vision?",
+        "type": "mcq",
+        "o": [
+            "Enabling computers to interpret images",
+            "No vision",
+            "Random processing",
+            "External vision"
+        ]
+    },
+    {
+        "q": "Computer vision analyzes visual data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is OCR?",
+        "type": "mcq",
+        "o": [
+            "Optical Character Recognition",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the AI applications in finance:",
+        "type": "match",
+        "left": [
+            "Fraud detection",
+            "Credit scoring",
+            "Trading",
+            "Customer service"
+        ],
+        "right": [
+            "Anomaly",
+            "Risk",
+            "Algo",
+            "Chatbot"
+        ]
+    },
+    {
+        "q": "What is algorithmic trading?",
+        "type": "mcq",
+        "o": [
+            "Automated trading using algorithms",
+            "Manual trading",
+            "No trading",
+            "Random trading"
+        ]
+    },
+    {
+        "q": "Algorithms execute trades at high ______.",
+        "type": "fill_blank",
+        "answers": [
+            "speed"
+        ],
+        "other_options": [
+            "random",
+            "slow",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is chatbot?",
+        "type": "mcq",
+        "o": [
+            "AI-powered conversational interface",
+            "Human only",
+            "No chat",
+            "Random bot"
+        ]
+    },
+    {
+        "q": "Chatbots provide 24/7 customer support.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cognitive automation?",
+        "type": "mcq",
+        "o": [
+            "AI combined with RPA",
+            "RPA only",
+            "No automation",
+            "Random process"
+        ]
+    },
+    {
+        "q": "Match the automation levels:",
+        "type": "match",
+        "left": [
+            "Basic RPA",
+            "Enhanced RPA",
+            "Cognitive",
+            "Autonomous"
+        ],
+        "right": [
+            "Rules",
+            "Decisions",
+            "Learning",
+            "Self-managing"
+        ]
+    },
+    {
+        "q": "What is intelligent automation?",
+        "type": "mcq",
+        "o": [
+            "Combining AI, RPA and analytics",
+            "Basic automation",
+            "No automation",
+            "Random intelligence"
+        ]
+    },
+    {
+        "q": "Intelligent automation handles complex ______.",
+        "type": "fill_blank",
+        "answers": [
+            "processes"
+        ],
+        "other_options": [
+            "random",
+            "simple",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is process mining?",
+        "type": "mcq",
+        "o": [
+            "Analyzing business processes from logs",
+            "No mining",
+            "Random analysis",
+            "External process"
+        ]
+    },
+    {
+        "q": "Process mining discovers actual workflows.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital twin?",
+        "type": "mcq",
+        "o": [
+            "Virtual replica of physical asset",
+            "No replica",
+            "Random twin",
+            "External digital"
+        ]
+    },
+    {
+        "q": "Match the digital concepts:",
+        "type": "match",
+        "left": [
+            "Digital twin",
+            "Simulation",
+            "Modeling",
+            "Virtual reality"
+        ],
+        "right": [
+            "Replica",
+            "Test",
+            "Design",
+            "Immersive"
+        ]
+    },
+    {
+        "q": "What is fintech?",
+        "type": "mcq",
+        "o": [
+            "Financial technology innovation",
+            "No technology",
+            "Random finance",
+            "External fintech"
+        ]
+    },
+    {
+        "q": "Fintech disrupts traditional ______.",
+        "type": "fill_blank",
+        "answers": [
+            "banking"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "technology"
+        ]
+    },
+    {
+        "q": "What is digital payment?",
+        "type": "mcq",
+        "o": [
+            "Electronic fund transfer",
+            "Cash only",
+            "No payment",
+            "Random payment"
+        ]
+    },
+    {
+        "q": "Digital payments are convenient and fast.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is mobile banking?",
+        "type": "mcq",
+        "o": [
+            "Banking through mobile apps",
+            "Branch only",
+            "No mobile",
+            "Random banking"
+        ]
+    },
+    {
+        "q": "Match the payment methods:",
+        "type": "match",
+        "left": [
+            "UPI",
+            "Credit card",
+            "Wallet",
+            "NEFT"
+        ],
+        "right": [
+            "Instant",
+            "Credit",
+            "Stored",
+            "Batch"
+        ]
+    },
+    {
+        "q": "What is UPI?",
+        "type": "mcq",
+        "o": [
+            "Unified Payments Interface",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "UPI enables instant bank ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transfers"
+        ],
+        "other_options": [
+            "random",
+            "blocks",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is e-wallet?",
+        "type": "mcq",
+        "o": [
+            "Digital wallet for storing money",
+            "Physical wallet",
+            "No wallet",
+            "Random storage"
+        ]
+    },
+    {
+        "q": "E-wallets store payment information digitally.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cryptocurrency?",
+        "type": "mcq",
+        "o": [
+            "Digital currency using cryptography",
+            "Physical currency",
+            "No currency",
+            "Random money"
+        ]
+    },
+    {
+        "q": "Match the crypto concepts:",
+        "type": "match",
+        "left": [
+            "Bitcoin",
+            "Ethereum",
+            "Smart contract",
+            "DeFi"
+        ],
+        "right": [
+            "Currency",
+            "Platform",
+            "Automated",
+            "Decentralized"
+        ]
+    },
+    {
+        "q": "What is smart contract?",
+        "type": "mcq",
+        "o": [
+            "Self-executing contract on blockchain",
+            "Paper contract",
+            "No contract",
+            "Random agreement"
+        ]
+    },
+    {
+        "q": "Smart contracts execute automatically when ______.",
+        "type": "fill_blank",
+        "answers": [
+            "conditions"
+        ],
+        "other_options": [
+            "random",
+            "never",
+            "always"
+        ]
+    },
+    {
+        "q": "What is DeFi?",
+        "type": "mcq",
+        "o": [
+            "Decentralized Finance",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "DeFi eliminates intermediaries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is RegTech?",
+        "type": "mcq",
+        "o": [
+            "Regulatory Technology",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the tech categories:",
+        "type": "match",
+        "left": [
+            "FinTech",
+            "RegTech",
+            "InsurTech",
+            "SupTech"
+        ],
+        "right": [
+            "Finance",
+            "Regulation",
+            "Insurance",
+            "Supervision"
+        ]
+    },
+    {
+        "q": "What is InsurTech?",
+        "type": "mcq",
+        "o": [
+            "Insurance technology innovation",
+            "No insurance",
+            "Random tech",
+            "External insur"
+        ]
+    },
+    {
+        "q": "InsurTech improves insurance ______.",
+        "type": "fill_blank",
+        "answers": [
+            "processes"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "costs"
+        ]
+    },
+    {
+        "q": "What is zero trust security?",
+        "type": "mcq",
+        "o": [
+            "Never trust, always verify approach",
+            "Trust everyone",
+            "No security",
+            "Random trust"
+        ]
+    },
+    {
+        "q": "Zero trust assumes breach has occurred.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is least privilege?",
+        "type": "mcq",
+        "o": [
+            "Minimum access needed for job",
+            "Maximum access",
+            "No access",
+            "Random access"
+        ]
+    },
+    {
+        "q": "Match the security principles:",
+        "type": "match",
+        "left": [
+            "Least privilege",
+            "Defense in depth",
+            "Zero trust",
+            "Separation of duties"
+        ],
+        "right": [
+            "Minimum",
+            "Layers",
+            "Verify",
+            "Divide"
+        ]
+    },
+    {
+        "q": "What is defense in depth?",
+        "type": "mcq",
+        "o": [
+            "Multiple layers of security",
+            "Single layer",
+            "No defense",
+            "Random depth"
+        ]
+    },
+    {
+        "q": "Defense in depth uses layered ______.",
+        "type": "fill_blank",
+        "answers": [
+            "controls"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "access"
+        ]
+    },
+    {
+        "q": "What is SOC?",
+        "type": "mcq",
+        "o": [
+            "Security Operations Center",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "SOC monitors security threats 24/7.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is SIEM?",
+        "type": "mcq",
+        "o": [
+            "Security Information and Event Management",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the security tools:",
+        "type": "match",
+        "left": [
+            "SIEM",
+            "IDS",
+            "IPS",
+            "WAF"
+        ],
+        "right": [
+            "Events",
+            "Detection",
+            "Prevention",
+            "Web"
+        ]
+    },
+    {
+        "q": "What is IDS?",
+        "type": "mcq",
+        "o": [
+            "Intrusion Detection System",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "IDS detects suspicious ______.",
+        "type": "fill_blank",
+        "answers": [
+            "activity"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "normal"
+        ]
+    },
+    {
+        "q": "What is IPS?",
+        "type": "mcq",
+        "o": [
+            "Intrusion Prevention System",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "IPS blocks malicious traffic.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is VPN?",
+        "type": "mcq",
+        "o": [
+            "Virtual Private Network",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the network security:",
+        "type": "match",
+        "left": [
+            "VPN",
+            "Firewall",
+            "Proxy",
+            "DMZ"
+        ],
+        "right": [
+            "Tunnel",
+            "Filter",
+            "Intermediary",
+            "Zone"
+        ]
+    },
+    {
+        "q": "What is DMZ in networking?",
+        "type": "mcq",
+        "o": [
+            "Demilitarized zone between networks",
+            "No zone",
+            "Random area",
+            "External network"
+        ]
+    },
+    {
+        "q": "DMZ hosts public-facing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "servers"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "internal"
+        ]
+    },
+    {
+        "q": "What is DDoS attack?",
+        "type": "mcq",
+        "o": [
+            "Distributed Denial of Service",
+            "No meaning",
+            "Random attack",
+            "External attack"
+        ]
+    },
+    {
+        "q": "DDoS overwhelms target with traffic.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is SQL injection?",
+        "type": "mcq",
+        "o": [
+            "Inserting malicious SQL code",
+            "Valid SQL",
+            "No injection",
+            "Random SQL"
+        ]
+    },
+    {
+        "q": "Match the attack types:",
+        "type": "match",
+        "left": [
+            "SQL injection",
+            "XSS",
+            "CSRF",
+            "Man-in-middle"
+        ],
+        "right": [
+            "Database",
+            "Script",
+            "Forgery",
+            "Intercept"
+        ]
+    },
+    {
+        "q": "What is XSS?",
+        "type": "mcq",
+        "o": [
+            "Cross-Site Scripting",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "XSS injects malicious ______.",
+        "type": "fill_blank",
+        "answers": [
+            "scripts"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "SQL"
+        ]
+    },
+    {
+        "q": "What is social engineering?",
+        "type": "mcq",
+        "o": [
+            "Manipulating people for information",
+            "Technical hacking",
+            "No engineering",
+            "Random manipulation"
+        ]
+    },
+    {
+        "q": "Social engineering exploits human trust.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is penetration testing?",
+        "type": "mcq",
+        "o": [
+            "Authorized simulated attack",
+            "Unauthorized attack",
+            "No testing",
+            "Random penetration"
+        ]
+    },
+    {
+        "q": "Match the security testing:",
+        "type": "match",
+        "left": [
+            "Pen test",
+            "Vulnerability scan",
+            "Red team",
+            "Blue team"
+        ],
+        "right": [
+            "Simulated",
+            "Automated",
+            "Attack",
+            "Defense"
+        ]
+    },
+    {
+        "q": "What is vulnerability assessment?",
+        "type": "mcq",
+        "o": [
+            "Identifying security weaknesses",
+            "No assessment",
+            "Random assessment",
+            "External assessment"
+        ]
+    },
+    {
+        "q": "Vulnerability assessment precedes ______.",
+        "type": "fill_blank",
+        "answers": [
+            "remediation"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "exploitation"
+        ]
+    },
+    {
+        "q": "What is patch management?",
+        "type": "mcq",
+        "o": [
+            "Updating software to fix vulnerabilities",
+            "No updates",
+            "Random patching",
+            "External patches"
+        ]
+    },
+    {
+        "q": "Patch management reduces security risks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is endpoint security?",
+        "type": "mcq",
+        "o": [
+            "Protecting devices connecting to network",
+            "Network only",
+            "No endpoint",
+            "Random security"
+        ]
+    },
+    {
+        "q": "Match the endpoint protection:",
+        "type": "match",
+        "left": [
+            "Antivirus",
+            "EDR",
+            "MDM",
+            "DLP"
+        ],
+        "right": [
+            "Malware",
+            "Detection",
+            "Mobile",
+            "Data"
+        ]
+    },
+    {
+        "q": "What is EDR?",
+        "type": "mcq",
+        "o": [
+            "Endpoint Detection and Response",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "EDR monitors endpoint ______.",
+        "type": "fill_blank",
+        "answers": [
+            "behavior"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "network"
+        ]
+    },
+    {
+        "q": "What is DLP?",
+        "type": "mcq",
+        "o": [
+            "Data Loss Prevention",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "DLP prevents unauthorized data transfer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is identity management?",
+        "type": "mcq",
+        "o": [
+            "Managing user identities and access",
+            "No management",
+            "Random identity",
+            "External management"
+        ]
+    },
+    {
+        "q": "Match the IAM components:",
+        "type": "match",
+        "left": [
+            "Authentication",
+            "Authorization",
+            "Provisioning",
+            "Federation"
+        ],
+        "right": [
+            "Identity",
+            "Permission",
+            "Create",
+            "Trust"
+        ]
+    },
+    {
+        "q": "What is provisioning?",
+        "type": "mcq",
+        "o": [
+            "Creating user accounts and access",
+            "Deleting accounts",
+            "No provisioning",
+            "Random provision"
+        ]
+    },
+    {
+        "q": "Provisioning automates account ______.",
+        "type": "fill_blank",
+        "answers": [
+            "creation"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "deletion"
+        ]
+    },
+    {
+        "q": "What is de-provisioning?",
+        "type": "mcq",
+        "o": [
+            "Removing user access",
+            "Adding access",
+            "No action",
+            "Random removal"
+        ]
+    },
+    {
+        "q": "De-provisioning occurs when employee leaves.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is privileged access management?",
+        "type": "mcq",
+        "o": [
+            "Controlling admin and superuser access",
+            "Normal access",
+            "No management",
+            "Random privilege"
+        ]
+    },
+    {
+        "q": "Match the access types:",
+        "type": "match",
+        "left": [
+            "Standard",
+            "Privileged",
+            "Service account",
+            "Shared"
+        ],
+        "right": [
+            "Normal",
+            "Admin",
+            "System",
+            "Common"
+        ]
+    },
+    {
+        "q": "What is session management?",
+        "type": "mcq",
+        "o": [
+            "Controlling user login sessions",
+            "No sessions",
+            "Random sessions",
+            "External management"
+        ]
+    },
+    {
+        "q": "Session timeout protects inactive ______.",
+        "type": "fill_blank",
+        "answers": [
+            "accounts"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "active"
+        ]
+    },
+    {
+        "q": "What is threat intelligence?",
+        "type": "mcq",
+        "o": [
+            "Information about cyber threats",
+            "No intelligence",
+            "Random threats",
+            "External info"
+        ]
+    },
+    {
+        "q": "Threat intelligence helps proactive defense.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is security awareness training?",
+        "type": "mcq",
+        "o": [
+            "Educating employees about security",
+            "No training",
+            "Random education",
+            "External training"
+        ]
+    },
+    {
+        "q": "Match the training topics:",
+        "type": "match",
+        "left": [
+            "Phishing",
+            "Password",
+            "Social engineering",
+            "Data handling"
+        ],
+        "right": [
+            "Email",
+            "Strength",
+            "Manipulation",
+            "Classification"
+        ]
+    },
+    {
+        "q": "What is incident response?",
+        "type": "mcq",
+        "o": [
+            "Handling security breaches",
+            "No response",
+            "Random incident",
+            "External response"
+        ]
+    },
+    {
+        "q": "Incident response minimizes breach ______.",
+        "type": "fill_blank",
+        "answers": [
+            "impact"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "benefits"
+        ]
+    },
+    {
+        "q": "What is GDPR consent?",
+        "type": "mcq",
+        "o": [
+            "Permission to process personal data",
+            "No consent",
+            "Random permission",
+            "External consent"
+        ]
+    },
+    {
+        "q": "GDPR requires explicit consent for processing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data subject rights?",
+        "type": "mcq",
+        "o": [
+            "Individual's rights over their data",
+            "No rights",
+            "Random rights",
+            "External rights"
+        ]
+    },
+    {
+        "q": "Match the GDPR rights:",
+        "type": "match",
+        "left": [
+            "Access",
+            "Rectification",
+            "Erasure",
+            "Portability"
+        ],
+        "right": [
+            "View",
+            "Correct",
+            "Delete",
+            "Move"
+        ]
+    },
+    {
+        "q": "What is right to erasure?",
+        "type": "mcq",
+        "o": [
+            "Right to have data deleted",
+            "Right to keep",
+            "No right",
+            "Random erasure"
+        ]
+    },
+    {
+        "q": "Right to erasure is also called right to be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "forgotten"
+        ],
+        "other_options": [
+            "random",
+            "remembered",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is data portability?",
+        "type": "mcq",
+        "o": [
+            "Right to transfer data to another service",
+            "No transfer",
+            "Random portability",
+            "External transfer"
+        ]
+    },
+    {
+        "q": "Data portability enables service switching.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is privacy by design?",
+        "type": "mcq",
+        "o": [
+            "Building privacy into systems from start",
+            "Add later",
+            "No privacy",
+            "Random design"
+        ]
+    },
+    {
+        "q": "Match the privacy principles:",
+        "type": "match",
+        "left": [
+            "By design",
+            "By default",
+            "Minimization",
+            "Purpose limitation"
+        ],
+        "right": [
+            "Built-in",
+            "Automatic",
+            "Least data",
+            "Specific use"
+        ]
+    },
+    {
+        "q": "What is data minimization?",
+        "type": "mcq",
+        "o": [
+            "Collecting only necessary data",
+            "All data",
+            "No minimization",
+            "Random collection"
+        ]
+    },
+    {
+        "q": "Data minimization reduces ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "random",
+            "benefits",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is DPIA?",
+        "type": "mcq",
+        "o": [
+            "Data Protection Impact Assessment",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "DPIA is required for high-risk processing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is IT audit?",
+        "type": "mcq",
+        "o": [
+            "Examining IT controls and processes",
+            "No audit",
+            "Random examination",
+            "External audit"
+        ]
+    },
+    {
+        "q": "Match the IT frameworks:",
+        "type": "match",
+        "left": [
+            "COBIT",
+            "ITIL",
+            "ISO 27001",
+            "NIST"
+        ],
+        "right": [
+            "Governance",
+            "Service",
+            "Security",
+            "Framework"
+        ]
+    },
+    {
+        "q": "What is COBIT?",
+        "type": "mcq",
+        "o": [
+            "Control Objectives for IT",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "COBIT is for IT ______.",
+        "type": "fill_blank",
+        "answers": [
+            "governance"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "coding"
+        ]
+    },
+    {
+        "q": "What is ITIL?",
+        "type": "mcq",
+        "o": [
+            "IT Infrastructure Library",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "ITIL focuses on IT service management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is ISO 27001?",
+        "type": "mcq",
+        "o": [
+            "Information security management standard",
+            "No standard",
+            "Random ISO",
+            "External standard"
+        ]
+    },
+    {
+        "q": "Match the ISO standards:",
+        "type": "match",
+        "left": [
+            "ISO 27001",
+            "ISO 22301",
+            "ISO 20000",
+            "ISO 31000"
+        ],
+        "right": [
+            "Security",
+            "Continuity",
+            "Service",
+            "Risk"
+        ]
+    },
+    {
+        "q": "What is NIST framework?",
+        "type": "mcq",
+        "o": [
+            "US cybersecurity standards",
+            "No framework",
+            "Random NIST",
+            "External framework"
+        ]
+    },
+    {
+        "q": "NIST provides cybersecurity ______.",
+        "type": "fill_blank",
+        "answers": [
+            "guidelines"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "code"
+        ]
+    },
+    {
+        "q": "What is IT governance?",
+        "type": "mcq",
+        "o": [
+            "Framework for IT decision-making",
+            "No governance",
+            "Random IT",
+            "External governance"
+        ]
+    },
+    {
+        "q": "IT governance aligns IT with business.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is IT strategy?",
+        "type": "mcq",
+        "o": [
+            "Long-term IT planning",
+            "No strategy",
+            "Random planning",
+            "External strategy"
+        ]
+    },
+    {
+        "q": "Match the IT planning:",
+        "type": "match",
+        "left": [
+            "Strategy",
+            "Roadmap",
+            "Budget",
+            "Portfolio"
+        ],
+        "right": [
+            "Direction",
+            "Timeline",
+            "Resources",
+            "Projects"
+        ]
+    },
+    {
+        "q": "What is IT portfolio management?",
+        "type": "mcq",
+        "o": [
+            "Managing IT investments",
+            "No portfolio",
+            "Random management",
+            "External portfolio"
+        ]
+    },
+    {
+        "q": "Portfolio management prioritizes ______.",
+        "type": "fill_blank",
+        "answers": [
+            "investments"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "all"
+        ]
+    },
+    {
+        "q": "What is agile methodology?",
+        "type": "mcq",
+        "o": [
+            "Iterative development approach",
+            "Waterfall only",
+            "No methodology",
+            "Random approach"
+        ]
+    },
+    {
+        "q": "Agile embraces change.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Scrum?",
+        "type": "mcq",
+        "o": [
+            "Agile framework for projects",
+            "No framework",
+            "Random scrum",
+            "External method"
+        ]
+    },
+    {
+        "q": "Match the agile terms:",
+        "type": "match",
+        "left": [
+            "Sprint",
+            "Backlog",
+            "Daily standup",
+            "Retrospective"
+        ],
+        "right": [
+            "Iteration",
+            "Priorities",
+            "Meeting",
+            "Review"
+        ]
+    },
+    {
+        "q": "What is DevOps?",
+        "type": "mcq",
+        "o": [
+            "Development and operations collaboration",
+            "Dev only",
+            "Ops only",
+            "No DevOps"
+        ]
+    },
+    {
+        "q": "DevOps enables faster ______.",
+        "type": "fill_blank",
+        "answers": [
+            "deployment"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "delay"
+        ]
+    },
+    {
+        "q": "What is CI/CD?",
+        "type": "mcq",
+        "o": [
+            "Continuous Integration/Continuous Deployment",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "CI/CD automates software delivery.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is containerization?",
+        "type": "mcq",
+        "o": [
+            "Packaging applications in containers",
+            "No containers",
+            "Random packaging",
+            "External container"
+        ]
+    },
+    {
+        "q": "Match the DevOps tools:",
+        "type": "match",
+        "left": [
+            "Docker",
+            "Kubernetes",
+            "Jenkins",
+            "Git"
+        ],
+        "right": [
+            "Container",
+            "Orchestration",
+            "CI/CD",
+            "Version"
+        ]
+    },
+    {
+        "q": "What is Docker?",
+        "type": "mcq",
+        "o": [
+            "Container platform",
+            "No platform",
+            "Random docker",
+            "External tool"
+        ]
+    },
+    {
+        "q": "Docker packages apps with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "dependencies"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "issues"
+        ]
+    },
+    {
+        "q": "What is Kubernetes?",
+        "type": "mcq",
+        "o": [
+            "Container orchestration system",
+            "No orchestration",
+            "Random system",
+            "External tool"
+        ]
+    },
+    {
+        "q": "Kubernetes manages container deployment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is microservices architecture?",
+        "type": "mcq",
+        "o": [
+            "Small, independent services",
+            "Monolithic only",
+            "No microservices",
+            "Random architecture"
+        ]
+    },
+    {
+        "q": "Match the architectures:",
+        "type": "match",
+        "left": [
+            "Monolithic",
+            "Microservices",
+            "Serverless",
+            "Hybrid"
+        ],
+        "right": [
+            "Single",
+            "Distributed",
+            "Function",
+            "Mixed"
+        ]
+    },
+    {
+        "q": "What is API gateway?",
+        "type": "mcq",
+        "o": [
+            "Managing API traffic and security",
+            "No gateway",
+            "Random API",
+            "External gateway"
+        ]
+    },
+    {
+        "q": "API gateway handles request ______.",
+        "type": "fill_blank",
+        "answers": [
+            "routing"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "blocking"
+        ]
+    },
+    {
+        "q": "What is service mesh?",
+        "type": "mcq",
+        "o": [
+            "Infrastructure for microservices communication",
+            "No mesh",
+            "Random service",
+            "External mesh"
+        ]
+    },
+    {
+        "q": "Service mesh handles inter-service communication.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is load balancing?",
+        "type": "mcq",
+        "o": [
+            "Distributing traffic across servers",
+            "Single server",
+            "No balancing",
+            "Random load"
+        ]
+    },
+    {
+        "q": "Match the reliability concepts:",
+        "type": "match",
+        "left": [
+            "Load balancing",
+            "Failover",
+            "Redundancy",
+            "Scaling"
+        ],
+        "right": [
+            "Distribute",
+            "Backup",
+            "Duplicate",
+            "Expand"
+        ]
+    },
+    {
+        "q": "What is auto-scaling?",
+        "type": "mcq",
+        "o": [
+            "Automatically adjusting resources",
+            "Manual scaling",
+            "No scaling",
+            "Random adjustment"
+        ]
+    },
+    {
+        "q": "Auto-scaling responds to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "demand"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "manual"
+        ]
+    },
+    {
+        "q": "What is high availability?",
+        "type": "mcq",
+        "o": [
+            "System always accessible",
+            "Sometimes available",
+            "No availability",
+            "Random access"
+        ]
+    },
+    {
+        "q": "High availability minimizes downtime.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is fault tolerance?",
+        "type": "mcq",
+        "o": [
+            "Continuing operation despite failures",
+            "Stop on failure",
+            "No tolerance",
+            "Random fault"
+        ]
+    },
+    {
+        "q": "Match the availability metrics:",
+        "type": "match",
+        "left": [
+            "Uptime",
+            "MTTR",
+            "MTBF",
+            "SLA"
+        ],
+        "right": [
+            "Operational",
+            "Repair",
+            "Failure",
+            "Agreement"
+        ]
+    },
+    {
+        "q": "What is MTTR?",
+        "type": "mcq",
+        "o": [
+            "Mean Time To Repair",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "MTTR measures recovery ______.",
+        "type": "fill_blank",
+        "answers": [
+            "time"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is MTBF?",
+        "type": "mcq",
+        "o": [
+            "Mean Time Between Failures",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Higher MTBF indicates better reliability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is SLA?",
+        "type": "mcq",
+        "o": [
+            "Service Level Agreement",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the SLA elements:",
+        "type": "match",
+        "left": [
+            "Uptime",
+            "Response time",
+            "Resolution",
+            "Penalty"
+        ],
+        "right": [
+            "Availability",
+            "Speed",
+            "Fix time",
+            "Consequence"
+        ]
+    },
+    {
+        "q": "What is cloud cost optimization?",
+        "type": "mcq",
+        "o": [
+            "Reducing cloud spending",
+            "Increasing cost",
+            "No optimization",
+            "Random cost"
+        ]
+    },
+    {
+        "q": "Cloud optimization reduces ______.",
+        "type": "fill_blank",
+        "answers": [
+            "waste"
+        ],
+        "other_options": [
+            "random",
+            "benefits",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is reserved instance?",
+        "type": "mcq",
+        "o": [
+            "Pre-paid cloud capacity",
+            "On-demand only",
+            "No reservation",
+            "Random instance"
+        ]
+    },
+    {
+        "q": "Reserved instances offer cost savings.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is spot instance?",
+        "type": "mcq",
+        "o": [
+            "Discounted unused cloud capacity",
+            "Full price",
+            "No spot",
+            "Random instance"
+        ]
+    },
+    {
+        "q": "Match the cloud pricing:",
+        "type": "match",
+        "left": [
+            "On-demand",
+            "Reserved",
+            "Spot",
+            "Savings plan"
+        ],
+        "right": [
+            "Flexible",
+            "Committed",
+            "Variable",
+            "Discount"
+        ]
+    },
+    {
+        "q": "What is cloud migration?",
+        "type": "mcq",
+        "o": [
+            "Moving applications to cloud",
+            "Staying on-premise",
+            "No migration",
+            "Random move"
+        ]
+    },
+    {
+        "q": "Cloud migration requires ______.",
+        "type": "fill_blank",
+        "answers": [
+            "planning"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "luck"
+        ]
+    },
+    {
+        "q": "What is lift and shift?",
+        "type": "mcq",
+        "o": [
+            "Moving apps without modification",
+            "Rewriting apps",
+            "No migration",
+            "Random move"
+        ]
+    },
+    {
+        "q": "Lift and shift is fastest migration approach.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is refactoring?",
+        "type": "mcq",
+        "o": [
+            "Modifying apps for cloud",
+            "No modification",
+            "Random refactor",
+            "External change"
+        ]
+    },
+    {
+        "q": "Match the migration strategies:",
+        "type": "match",
+        "left": [
+            "Rehost",
+            "Refactor",
+            "Revise",
+            "Rebuild"
+        ],
+        "right": [
+            "Lift",
+            "Modify",
+            "Update",
+            "Rewrite"
+        ]
+    },
+    {
+        "q": "What is multi-cloud?",
+        "type": "mcq",
+        "o": [
+            "Using multiple cloud providers",
+            "Single cloud",
+            "No cloud",
+            "Random multi"
+        ]
+    },
+    {
+        "q": "Multi-cloud reduces vendor ______.",
+        "type": "fill_blank",
+        "answers": [
+            "lock-in"
+        ],
+        "other_options": [
+            "random",
+            "benefits",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is AWS?",
+        "type": "mcq",
+        "o": [
+            "Amazon Web Services",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "AWS is a major cloud provider.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Azure?",
+        "type": "mcq",
+        "o": [
+            "Microsoft cloud platform",
+            "No platform",
+            "Random cloud",
+            "External azure"
+        ]
+    },
+    {
+        "q": "Match the cloud providers:",
+        "type": "match",
+        "left": [
+            "AWS",
+            "Azure",
+            "GCP",
+            "IBM Cloud"
+        ],
+        "right": [
+            "Amazon",
+            "Microsoft",
+            "Google",
+            "IBM"
+        ]
+    },
+    {
+        "q": "What is GCP?",
+        "type": "mcq",
+        "o": [
+            "Google Cloud Platform",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "GCP is known for analytics and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "AI"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "hardware"
+        ]
+    },
+    {
+        "q": "What is edge computing?",
+        "type": "mcq",
+        "o": [
+            "Processing data near source",
+            "Centralized processing",
+            "No edge",
+            "Random computing"
+        ]
+    },
+    {
+        "q": "Edge computing reduces latency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is fog computing?",
+        "type": "mcq",
+        "o": [
+            "Layer between edge and cloud",
+            "No fog",
+            "Random computing",
+            "External fog"
+        ]
+    },
+    {
+        "q": "Match the computing models:",
+        "type": "match",
+        "left": [
+            "Cloud",
+            "Edge",
+            "Fog",
+            "Hybrid"
+        ],
+        "right": [
+            "Central",
+            "Local",
+            "Middle",
+            "Mixed"
+        ]
+    },
+    {
+        "q": "What is 5G?",
+        "type": "mcq",
+        "o": [
+            "Fifth generation mobile network",
+            "Fourth generation",
+            "No generation",
+            "Random network"
+        ]
+    },
+    {
+        "q": "5G enables faster data ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transfer"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "delay"
+        ]
+    },
+    {
+        "q": "What is network virtualization?",
+        "type": "mcq",
+        "o": [
+            "Creating virtual networks",
+            "Physical only",
+            "No virtualization",
+            "Random network"
+        ]
+    },
+    {
+        "q": "Network virtualization improves flexibility.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is SDN?",
+        "type": "mcq",
+        "o": [
+            "Software-Defined Networking",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the network concepts:",
+        "type": "match",
+        "left": [
+            "SDN",
+            "NFV",
+            "SD-WAN",
+            "VLAN"
+        ],
+        "right": [
+            "Software",
+            "Function",
+            "Wide area",
+            "Virtual LAN"
+        ]
+    },
+    {
+        "q": "What is quantum computing?",
+        "type": "mcq",
+        "o": [
+            "Computing using quantum mechanics",
+            "Classical computing",
+            "No quantum",
+            "Random computing"
+        ]
+    },
+    {
+        "q": "Quantum computing uses ______.",
+        "type": "fill_blank",
+        "answers": [
+            "qubits"
+        ],
+        "other_options": [
+            "random",
+            "bits",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is automation in finance?",
+        "type": "mcq",
+        "o": [
+            "Technology replacing manual tasks",
+            "All manual",
+            "No automation",
+            "Random automation"
+        ]
+    },
+    {
+        "q": "Automation reduces processing time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is continuous auditing?",
+        "type": "mcq",
+        "o": [
+            "Real-time audit monitoring",
+            "Annual audit only",
+            "No auditing",
+            "Random audit"
+        ]
+    },
+    {
+        "q": "Match the audit technology:",
+        "type": "match",
+        "left": [
+            "Continuous auditing",
+            "CAAT",
+            "GRC",
+            "Audit analytics"
+        ],
+        "right": [
+            "Real-time",
+            "Tools",
+            "Governance",
+            "Analysis"
+        ]
+    },
+    {
+        "q": "What is CAAT?",
+        "type": "mcq",
+        "o": [
+            "Computer-Assisted Audit Techniques",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "CAAT automates audit ______.",
+        "type": "fill_blank",
+        "answers": [
+            "procedures"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "delays"
+        ]
+    },
+    {
+        "q": "What is GRC software?",
+        "type": "mcq",
+        "o": [
+            "Governance, Risk, Compliance tools",
+            "No meaning",
+            "Random software",
+            "External GRC"
+        ]
+    },
+    {
+        "q": "GRC integrates risk and compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data lake architecture?",
+        "type": "mcq",
+        "o": [
+            "Centralized repository for raw data",
+            "Structured only",
+            "No lake",
+            "Random architecture"
+        ]
+    },
+    {
+        "q": "Data lake stores raw ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "reports"
+        ]
+    },
+    {
+        "q": "What is data lakehouse?",
+        "type": "mcq",
+        "o": [
+            "Combining data lake and warehouse",
+            "Lake only",
+            "Warehouse only",
+            "No lakehouse"
+        ]
+    },
+    {
+        "q": "Lakehouse combines flexibility and governance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is streaming analytics?",
+        "type": "mcq",
+        "o": [
+            "Real-time data analysis",
+            "Batch only",
+            "No streaming",
+            "Random analytics"
+        ]
+    },
+    {
+        "q": "Match the data processing:",
+        "type": "match",
+        "left": [
+            "Batch",
+            "Stream",
+            "Real-time",
+            "Near real-time"
+        ],
+        "right": [
+            "Scheduled",
+            "Continuous",
+            "Immediate",
+            "Minutes"
+        ]
+    },
+    {
+        "q": "What is Apache Kafka?",
+        "type": "mcq",
+        "o": [
+            "Distributed streaming platform",
+            "No Kafka",
+            "Random platform",
+            "External tool"
+        ]
+    },
+    {
+        "q": "Kafka handles event ______.",
+        "type": "fill_blank",
+        "answers": [
+            "streaming"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "batch"
+        ]
+    },
+    {
+        "q": "What is Apache Spark?",
+        "type": "mcq",
+        "o": [
+            "Fast data processing engine",
+            "Slow processing",
+            "No Spark",
+            "Random engine"
+        ]
+    },
+    {
+        "q": "Spark processes data in memory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is feature engineering?",
+        "type": "mcq",
+        "o": [
+            "Creating ML input features",
+            "No engineering",
+            "Random features",
+            "External process"
+        ]
+    },
+    {
+        "q": "Match the ML concepts:",
+        "type": "match",
+        "left": [
+            "Feature",
+            "Training",
+            "Testing",
+            "Validation"
+        ],
+        "right": [
+            "Input",
+            "Learning",
+            "Evaluation",
+            "Tuning"
+        ]
+    },
+    {
+        "q": "What is model training?",
+        "type": "mcq",
+        "o": [
+            "Teaching ML model from data",
+            "No training",
+            "Random process",
+            "External training"
+        ]
+    },
+    {
+        "q": "Model training requires ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "luck"
+        ]
+    },
+    {
+        "q": "What is overfitting?",
+        "type": "mcq",
+        "o": [
+            "Model too specific to training data",
+            "Good fit",
+            "No fitting",
+            "Random fit"
+        ]
+    },
+    {
+        "q": "Overfitting reduces model generalization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cross-validation?",
+        "type": "mcq",
+        "o": [
+            "Testing model on multiple data splits",
+            "Single split",
+            "No validation",
+            "Random validation"
+        ]
+    },
+    {
+        "q": "Match the model metrics:",
+        "type": "match",
+        "left": [
+            "Accuracy",
+            "Precision",
+            "Recall",
+            "F1"
+        ],
+        "right": [
+            "Correct",
+            "Positive",
+            "Sensitivity",
+            "Harmonic"
+        ]
+    },
+    {
+        "q": "What is neural network?",
+        "type": "mcq",
+        "o": [
+            "Computing system inspired by brain",
+            "No network",
+            "Random system",
+            "External network"
+        ]
+    },
+    {
+        "q": "Neural networks have ______.",
+        "type": "fill_blank",
+        "answers": [
+            "layers"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "single"
+        ]
+    },
+    {
+        "q": "What is CNN?",
+        "type": "mcq",
+        "o": [
+            "Convolutional Neural Network for images",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "CNNs excel at image recognition.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is RNN?",
+        "type": "mcq",
+        "o": [
+            "Recurrent Neural Network for sequences",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the neural networks:",
+        "type": "match",
+        "left": [
+            "CNN",
+            "RNN",
+            "LSTM",
+            "Transformer"
+        ],
+        "right": [
+            "Image",
+            "Sequence",
+            "Memory",
+            "Attention"
+        ]
+    },
+    {
+        "q": "What is transformer architecture?",
+        "type": "mcq",
+        "o": [
+            "Attention-based neural network",
+            "No transformer",
+            "Random architecture",
+            "External term"
+        ]
+    },
+    {
+        "q": "Transformers power large language ______.",
+        "type": "fill_blank",
+        "answers": [
+            "models"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "data"
+        ]
+    },
+    {
+        "q": "What is GPT?",
+        "type": "mcq",
+        "o": [
+            "Generative Pre-trained Transformer",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "GPT is a large language model.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is generative AI?",
+        "type": "mcq",
+        "o": [
+            "AI creating new content",
+            "No generation",
+            "Random AI",
+            "External AI"
+        ]
+    },
+    {
+        "q": "Match the AI types:",
+        "type": "match",
+        "left": [
+            "Generative",
+            "Discriminative",
+            "Supervised",
+            "Unsupervised"
+        ],
+        "right": [
+            "Create",
+            "Classify",
+            "Labeled",
+            "Unlabeled"
+        ]
+    },
+    {
+        "q": "What is AI ethics?",
+        "type": "mcq",
+        "o": [
+            "Responsible AI development and use",
+            "No ethics",
+            "Random ethics",
+            "External ethics"
+        ]
+    },
+    {
+        "q": "AI ethics addresses bias and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "fairness"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "speed"
+        ]
+    },
+    {
+        "q": "What is explainable AI?",
+        "type": "mcq",
+        "o": [
+            "AI with interpretable decisions",
+            "Black box only",
+            "No explanation",
+            "Random AI"
+        ]
+    },
+    {
+        "q": "Explainable AI improves trust.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is AI bias?",
+        "type": "mcq",
+        "o": [
+            "Systematic errors from training data",
+            "No bias",
+            "Random bias",
+            "External bias"
+        ]
+    },
+    {
+        "q": "Match the AI risks:",
+        "type": "match",
+        "left": [
+            "Bias",
+            "Hallucination",
+            "Privacy",
+            "Security"
+        ],
+        "right": [
+            "Unfair",
+            "False",
+            "Data",
+            "Attack"
+        ]
+    },
+    {
+        "q": "What is MLOps?",
+        "type": "mcq",
+        "o": [
+            "ML operations and deployment",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "MLOps manages ML ______.",
+        "type": "fill_blank",
+        "answers": [
+            "lifecycle"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "code"
+        ]
+    },
+    {
+        "q": "What is model versioning?",
+        "type": "mcq",
+        "o": [
+            "Tracking ML model changes",
+            "No versioning",
+            "Random tracking",
+            "External version"
+        ]
+    },
+    {
+        "q": "Model versioning enables reproducibility.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is model registry?",
+        "type": "mcq",
+        "o": [
+            "Central repository for ML models",
+            "No registry",
+            "Random storage",
+            "External registry"
+        ]
+    },
+    {
+        "q": "Match the MLOps concepts:",
+        "type": "match",
+        "left": [
+            "Registry",
+            "Pipeline",
+            "Monitoring",
+            "Feature store"
+        ],
+        "right": [
+            "Storage",
+            "Workflow",
+            "Tracking",
+            "Features"
+        ]
+    },
+    {
+        "q": "What is A/B testing?",
+        "type": "mcq",
+        "o": [
+            "Comparing two variants",
+            "Single variant",
+            "No testing",
+            "Random testing"
+        ]
+    },
+    {
+        "q": "A/B testing measures ______.",
+        "type": "fill_blank",
+        "answers": [
+            "impact"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "everything"
+        ]
+    },
+    {
+        "q": "What is canary deployment?",
+        "type": "mcq",
+        "o": [
+            "Gradual rollout to subset of users",
+            "Full rollout",
+            "No deployment",
+            "Random rollout"
+        ]
+    },
+    {
+        "q": "Canary deployment reduces release risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is blue-green deployment?",
+        "type": "mcq",
+        "o": [
+            "Two identical environments for deployment",
+            "Single environment",
+            "No deployment",
+            "Random color"
+        ]
+    },
+    {
+        "q": "Match the deployment strategies:",
+        "type": "match",
+        "left": [
+            "Canary",
+            "Blue-green",
+            "Rolling",
+            "Recreate"
+        ],
+        "right": [
+            "Gradual",
+            "Switch",
+            "Sequential",
+            "Replace"
+        ]
+    },
+    {
+        "q": "What is infrastructure as code?",
+        "type": "mcq",
+        "o": [
+            "Managing infra through code",
+            "Manual config",
+            "No code",
+            "Random infrastructure"
+        ]
+    },
+    {
+        "q": "IaC enables reproducible ______.",
+        "type": "fill_blank",
+        "answers": [
+            "infrastructure"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "manual"
+        ]
+    },
+    {
+        "q": "What is Terraform?",
+        "type": "mcq",
+        "o": [
+            "Infrastructure as code tool",
+            "No tool",
+            "Random software",
+            "External terraform"
+        ]
+    },
+    {
+        "q": "Terraform manages cloud resources.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Ansible?",
+        "type": "mcq",
+        "o": [
+            "Configuration management tool",
+            "No tool",
+            "Random software",
+            "External ansible"
+        ]
+    },
+    {
+        "q": "Match the IaC tools:",
+        "type": "match",
+        "left": [
+            "Terraform",
+            "Ansible",
+            "Puppet",
+            "Chef"
+        ],
+        "right": [
+            "Provision",
+            "Configure",
+            "Manifest",
+            "Recipe"
+        ]
+    },
+    {
+        "q": "What is observability?",
+        "type": "mcq",
+        "o": [
+            "Understanding system state from outputs",
+            "No observation",
+            "Random observing",
+            "External view"
+        ]
+    },
+    {
+        "q": "Observability includes logs, metrics, ______.",
+        "type": "fill_blank",
+        "answers": [
+            "traces"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "code"
+        ]
+    },
+    {
+        "q": "What is distributed tracing?",
+        "type": "mcq",
+        "o": [
+            "Tracking requests across services",
+            "Single service",
+            "No tracing",
+            "Random tracking"
+        ]
+    },
+    {
+        "q": "Distributed tracing helps debug microservices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is APM?",
+        "type": "mcq",
+        "o": [
+            "Application Performance Monitoring",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the monitoring tools:",
+        "type": "match",
+        "left": [
+            "Prometheus",
+            "Grafana",
+            "Datadog",
+            "New Relic"
+        ],
+        "right": [
+            "Metrics",
+            "Dashboard",
+            "Full stack",
+            "APM"
+        ]
+    },
+    {
+        "q": "What is chaos engineering?",
+        "type": "mcq",
+        "o": [
+            "Testing system resilience",
+            "No testing",
+            "Random chaos",
+            "External engineering"
+        ]
+    },
+    {
+        "q": "Chaos engineering introduces controlled ______.",
+        "type": "fill_blank",
+        "answers": [
+            "failures"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "success"
+        ]
+    },
+    {
+        "q": "What is site reliability engineering?",
+        "type": "mcq",
+        "o": [
+            "Software engineering for operations",
+            "No engineering",
+            "Random reliability",
+            "External SRE"
+        ]
+    },
+    {
+        "q": "SRE bridges development and operations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is toil?",
+        "type": "mcq",
+        "o": [
+            "Manual, repetitive operational work",
+            "Creative work",
+            "No toil",
+            "Random work"
+        ]
+    },
+    {
+        "q": "Match the SRE concepts:",
+        "type": "match",
+        "left": [
+            "SLO",
+            "SLI",
+            "Error budget",
+            "Toil"
+        ],
+        "right": [
+            "Objective",
+            "Indicator",
+            "Allowance",
+            "Manual work"
+        ]
+    },
+    {
+        "q": "What is SLO?",
+        "type": "mcq",
+        "o": [
+            "Service Level Objective",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "SLO defines reliability ______.",
+        "type": "fill_blank",
+        "answers": [
+            "target"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "minimum"
+        ]
+    },
+    {
+        "q": "What is error budget?",
+        "type": "mcq",
+        "o": [
+            "Allowable unreliability",
+            "No errors allowed",
+            "Random budget",
+            "External budget"
+        ]
+    },
+    {
+        "q": "Error budget balances reliability and innovation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital customer experience?",
+        "type": "mcq",
+        "o": [
+            "Online customer interactions",
+            "In-person only",
+            "No experience",
+            "Random digital"
+        ]
+    },
+    {
+        "q": "Match the customer experience:",
+        "type": "match",
+        "left": [
+            "CX",
+            "UX",
+            "UI",
+            "Journey"
+        ],
+        "right": [
+            "Customer",
+            "User",
+            "Interface",
+            "Path"
+        ]
+    },
+    {
+        "q": "What is omnichannel?",
+        "type": "mcq",
+        "o": [
+            "Integrated customer experience across channels",
+            "Single channel",
+            "No channel",
+            "Random channel"
+        ]
+    },
+    {
+        "q": "Omnichannel provides seamless ______.",
+        "type": "fill_blank",
+        "answers": [
+            "experience"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "confusion"
+        ]
+    },
+    {
+        "q": "What is personalization?",
+        "type": "mcq",
+        "o": [
+            "Tailoring experience to individual",
+            "Same for all",
+            "No personalization",
+            "Random personal"
+        ]
+    },
+    {
+        "q": "Personalization increases customer engagement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is recommendation engine?",
+        "type": "mcq",
+        "o": [
+            "System suggesting relevant items",
+            "No suggestions",
+            "Random recommendations",
+            "External engine"
+        ]
+    },
+    {
+        "q": "Match the personalization:",
+        "type": "match",
+        "left": [
+            "Recommendation",
+            "Targeting",
+            "Segmentation",
+            "Dynamic content"
+        ],
+        "right": [
+            "Suggest",
+            "Focus",
+            "Group",
+            "Adaptive"
+        ]
+    },
+    {
+        "q": "What is customer data platform?",
+        "type": "mcq",
+        "o": [
+            "Unified customer data system",
+            "Separate systems",
+            "No platform",
+            "Random CDP"
+        ]
+    },
+    {
+        "q": "CDP creates unified customer ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profile"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "confusion"
+        ]
+    },
+    {
+        "q": "What is first-party data?",
+        "type": "mcq",
+        "o": [
+            "Data collected directly from customers",
+            "Third-party data",
+            "No data",
+            "Random data"
+        ]
+    },
+    {
+        "q": "First-party data is more reliable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data-driven decision making?",
+        "type": "mcq",
+        "o": [
+            "Using data to inform decisions",
+            "Gut feeling",
+            "No data",
+            "Random decisions"
+        ]
+    },
+    {
+        "q": "Match the decision approaches:",
+        "type": "match",
+        "left": [
+            "Data-driven",
+            "Intuitive",
+            "Evidence-based",
+            "Hypothesis-driven"
+        ],
+        "right": [
+            "Analytics",
+            "Experience",
+            "Research",
+            "Testing"
+        ]
+    },
+    {
+        "q": "What is OpenAI API?",
+        "type": "mcq",
+        "o": [
+            "API for AI language models",
+            "No API",
+            "Random API",
+            "External API"
+        ]
+    },
+    {
+        "q": "OpenAI API provides LLM ______.",
+        "type": "fill_blank",
+        "answers": [
+            "access"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "block"
+        ]
+    },
+    {
+        "q": "What is prompt engineering?",
+        "type": "mcq",
+        "o": [
+            "Crafting effective AI prompts",
+            "No engineering",
+            "Random prompts",
+            "External engineering"
+        ]
+    },
+    {
+        "q": "Prompt engineering improves AI outputs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is RAG?",
+        "type": "mcq",
+        "o": [
+            "Retrieval Augmented Generation",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Match the AI techniques:",
+        "type": "match",
+        "left": [
+            "RAG",
+            "Fine-tuning",
+            "Few-shot",
+            "Zero-shot"
+        ],
+        "right": [
+            "Retrieval",
+            "Training",
+            "Examples",
+            "Direct"
+        ]
+    },
+    {
+        "q": "What is vector database?",
+        "type": "mcq",
+        "o": [
+            "Database for embedding vectors",
+            "Regular database",
+            "No vectors",
+            "Random database"
+        ]
+    },
+    {
+        "q": "Vector databases enable semantic ______.",
+        "type": "fill_blank",
+        "answers": [
+            "search"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "confusion"
+        ]
+    },
+    {
+        "q": "What is embedding?",
+        "type": "mcq",
+        "o": [
+            "Numerical representation of data",
+            "Text only",
+            "No embedding",
+            "Random representation"
+        ]
+    },
+    {
+        "q": "Embeddings capture semantic meaning.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is semantic search?",
+        "type": "mcq",
+        "o": [
+            "Search understanding meaning",
+            "Keyword only",
+            "No search",
+            "Random search"
+        ]
+    },
+    {
+        "q": "Match the search types:",
+        "type": "match",
+        "left": [
+            "Keyword",
+            "Semantic",
+            "Fuzzy",
+            "Faceted"
+        ],
+        "right": [
+            "Exact",
+            "Meaning",
+            "Approximate",
+            "Filtered"
+        ]
+    },
+    {
+        "q": "What is knowledge graph?",
+        "type": "mcq",
+        "o": [
+            "Network of entities and relationships",
+            "No graph",
+            "Random network",
+            "External graph"
+        ]
+    },
+    {
+        "q": "Knowledge graphs connect ______.",
+        "type": "fill_blank",
+        "answers": [
+            "entities"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "isolation"
+        ]
+    },
+    {
+        "q": "What is graph database?",
+        "type": "mcq",
+        "o": [
+            "Database using graph structures",
+            "Relational only",
+            "No graph",
+            "Random database"
+        ]
+    },
+    {
+        "q": "Graph databases excel at relationship queries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Neo4j?",
+        "type": "mcq",
+        "o": [
+            "Popular graph database",
+            "No database",
+            "Random software",
+            "External tool"
+        ]
+    },
+    {
+        "q": "Match the database types:",
+        "type": "match",
+        "left": [
+            "Relational",
+            "Document",
+            "Key-value",
+            "Graph"
+        ],
+        "right": [
+            "Tables",
+            "JSON",
+            "Simple",
+            "Relationships"
+        ]
+    },
+    {
+        "q": "What is MongoDB?",
+        "type": "mcq",
+        "o": [
+            "Document database",
+            "Relational only",
+            "No database",
+            "Random software"
+        ]
+    },
+    {
+        "q": "MongoDB stores data as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "documents"
+        ],
+        "other_options": [
+            "random",
+            "tables",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is Redis?",
+        "type": "mcq",
+        "o": [
+            "In-memory data store",
+            "Disk only",
+            "No Redis",
+            "Random database"
+        ]
+    },
+    {
+        "q": "Redis provides fast data access.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data ethics?",
+        "type": "mcq",
+        "o": [
+            "Responsible data collection and use",
+            "No ethics",
+            "Random ethics",
+            "External ethics"
+        ]
+    },
+    {
+        "q": "Match the data ethics:",
+        "type": "match",
+        "left": [
+            "Consent",
+            "Transparency",
+            "Fairness",
+            "Accountability"
+        ],
+        "right": [
+            "Permission",
+            "Openness",
+            "Equity",
+            "Responsibility"
+        ]
+    },
+    {
+        "q": "What is digital ethics?",
+        "type": "mcq",
+        "o": [
+            "Ethical considerations in technology",
+            "No ethics",
+            "Random digital",
+            "External ethics"
+        ]
+    },
+    {
+        "q": "Digital ethics guides technology ______.",
+        "type": "fill_blank",
+        "answers": [
+            "use"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "abuse"
+        ]
+    },
+    {
+        "q": "What is sustainable IT?",
+        "type": "mcq",
+        "o": [
+            "Environmentally responsible technology",
+            "No sustainability",
+            "Random IT",
+            "External sustainable"
+        ]
+    },
+    {
+        "q": "Sustainable IT reduces environmental impact.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is green computing?",
+        "type": "mcq",
+        "o": [
+            "Energy-efficient computing practices",
+            "No green",
+            "Random computing",
+            "External green"
+        ]
+    },
+    {
+        "q": "Match the sustainable tech:",
+        "type": "match",
+        "left": [
+            "Green data center",
+            "E-waste",
+            "Carbon footprint",
+            "Energy efficiency"
+        ],
+        "right": [
+            "Eco facility",
+            "Electronic waste",
+            "Emissions",
+            "Power usage"
+        ]
+    },
+    {
+        "q": "What is PUE?",
+        "type": "mcq",
+        "o": [
+            "Power Usage Effectiveness",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "Lower PUE indicates better ______.",
+        "type": "fill_blank",
+        "answers": [
+            "efficiency"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "waste"
+        ]
+    },
+    {
+        "q": "What is carbon-neutral computing?",
+        "type": "mcq",
+        "o": [
+            "Zero net carbon emissions from IT",
+            "High carbon",
+            "No neutrality",
+            "Random carbon"
+        ]
+    },
+    {
+        "q": "Carbon-neutral goals drive sustainable IT.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is circular economy in IT?",
+        "type": "mcq",
+        "o": [
+            "Reusing and recycling IT equipment",
+            "Linear only",
+            "No circular",
+            "Random economy"
+        ]
+    },
+    {
+        "q": "Match the future tech:",
+        "type": "match",
+        "left": [
+            "Metaverse",
+            "Web3",
+            "AR",
+            "VR"
+        ],
+        "right": [
+            "Virtual world",
+            "Decentralized",
+            "Augmented",
+            "Immersive"
+        ]
+    },
+    {
+        "q": "What is Web3?",
+        "type": "mcq",
+        "o": [
+            "Decentralized internet",
+            "Centralized only",
+            "No Web3",
+            "Random web"
+        ]
+    },
+    {
+        "q": "Web3 uses blockchain ______.",
+        "type": "fill_blank",
+        "answers": [
+            "technology"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "centralization"
+        ]
+    },
+    {
+        "q": "What is metaverse?",
+        "type": "mcq",
+        "o": [
+            "Shared virtual reality space",
+            "No metaverse",
+            "Random virtual",
+            "External meta"
+        ]
+    },
+    {
+        "q": "Metaverse enables immersive experiences.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is tokenization in business?",
+        "type": "mcq",
+        "o": [
+            "Creating digital tokens for assets",
+            "No tokenization",
+            "Random tokens",
+            "External token"
+        ]
+    },
+    {
+        "q": "Match the blockchain applications:",
+        "type": "match",
+        "left": [
+            "NFT",
+            "Token",
+            "DAO",
+            "DApp"
+        ],
+        "right": [
+            "Unique asset",
+            "Digital unit",
+            "Organization",
+            "Application"
+        ]
+    },
+    {
+        "q": "What is DAO?",
+        "type": "mcq",
+        "o": [
+            "Decentralized Autonomous Organization",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "DAO operates through smart ______.",
+        "type": "fill_blank",
+        "answers": [
+            "contracts"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "people"
+        ]
+    },
+    {
+        "q": "What is NFT?",
+        "type": "mcq",
+        "o": [
+            "Non-Fungible Token",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "NFT represents unique digital ownership.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is spatial computing?",
+        "type": "mcq",
+        "o": [
+            "Computing in 3D space",
+            "2D only",
+            "No spatial",
+            "Random computing"
+        ]
+    },
+    {
+        "q": "Match the computing paradigms:",
+        "type": "match",
+        "left": [
+            "Spatial",
+            "Ambient",
+            "Ubiquitous",
+            "Wearable"
+        ],
+        "right": [
+            "3D",
+            "Surrounding",
+            "Everywhere",
+            "Body"
+        ]
+    },
+    {
+        "q": "What is digital identity?",
+        "type": "mcq",
+        "o": [
+            "Online representation of a person",
+            "Physical only",
+            "No identity",
+            "Random digital"
+        ]
+    },
+    {
+        "q": "Digital identity enables online ______.",
+        "type": "fill_blank",
+        "answers": [
+            "verification"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "anonymity"
+        ]
+    },
+    {
+        "q": "What is self-sovereign identity?",
+        "type": "mcq",
+        "o": [
+            "User-controlled digital identity",
+            "Centralized only",
+            "No identity",
+            "Random sovereign"
+        ]
+    },
+    {
+        "q": "Self-sovereign identity gives users control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is post-quantum cryptography?",
+        "type": "mcq",
+        "o": [
+            "Encryption resistant to quantum attacks",
+            "Current encryption",
+            "No cryptography",
+            "Random quantum"
+        ]
+    },
+    {
+        "q": "Match the security futures:",
+        "type": "match",
+        "left": [
+            "Post-quantum",
+            "Homomorphic",
+            "Zero-knowledge",
+            "Confidential"
+        ],
+        "right": [
+            "Future proof",
+            "Compute encrypted",
+            "Prove without reveal",
+            "Private compute"
+        ]
+    },
+    {
+        "q": "IT continues to transform business.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is low-code development?",
+        "type": "mcq",
+        "o": [
+            "Building apps with minimal coding",
+            "Full coding only",
+            "No development",
+            "Random low"
+        ]
+    },
+    {
+        "q": "Low-code accelerates app ______.",
+        "type": "fill_blank",
+        "answers": [
+            "development"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "delay"
+        ]
+    },
+    {
+        "q": "What is no-code platform?",
+        "type": "mcq",
+        "o": [
+            "Building apps without programming",
+            "Coding required",
+            "No platform",
+            "Random code"
+        ]
+    },
+    {
+        "q": "No-code enables citizen developers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is citizen developer?",
+        "type": "mcq",
+        "o": [
+            "Non-IT person building apps",
+            "IT professional",
+            "No citizen",
+            "Random developer"
+        ]
+    },
+    {
+        "q": "Match the development approaches:",
+        "type": "match",
+        "left": [
+            "Low-code",
+            "No-code",
+            "Pro-code",
+            "Hybrid"
+        ],
+        "right": [
+            "Minimal",
+            "None",
+            "Full",
+            "Mixed"
+        ]
+    },
+    {
+        "q": "What is process automation platform?",
+        "type": "mcq",
+        "o": [
+            "End-to-end workflow automation",
+            "Single task",
+            "No platform",
+            "Random automation"
+        ]
+    },
+    {
+        "q": "Process platforms orchestrate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "workflows"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "manual"
+        ]
+    },
+    {
+        "q": "What is business process management?",
+        "type": "mcq",
+        "o": [
+            "Systematic process optimization",
+            "No management",
+            "Random process",
+            "External BPM"
+        ]
+    },
+    {
+        "q": "BPM improves operational efficiency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is workflow automation?",
+        "type": "mcq",
+        "o": [
+            "Automating business workflows",
+            "Manual workflows",
+            "No automation",
+            "Random workflow"
+        ]
+    },
+    {
+        "q": "Match the automation scope:",
+        "type": "match",
+        "left": [
+            "Task",
+            "Process",
+            "Enterprise",
+            "Hyperautomation"
+        ],
+        "right": [
+            "Single",
+            "Workflow",
+            "Organization",
+            "All technologies"
+        ]
+    },
+    {
+        "q": "What is hyperautomation?",
+        "type": "mcq",
+        "o": [
+            "Combining multiple automation technologies",
+            "Single technology",
+            "No automation",
+            "Random hyper"
+        ]
+    },
+    {
+        "q": "Hyperautomation uses AI, RPA, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "analytics"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "manual"
+        ]
+    },
+    {
+        "q": "What is intelligent document processing?",
+        "type": "mcq",
+        "o": [
+            "AI extracting data from documents",
+            "Manual extraction",
+            "No processing",
+            "Random document"
+        ]
+    },
+    {
+        "q": "IDP automates document-based processes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is conversational AI?",
+        "type": "mcq",
+        "o": [
+            "AI enabling human-like conversations",
+            "No conversation",
+            "Random AI",
+            "External AI"
+        ]
+    },
+    {
+        "q": "Match the AI interfaces:",
+        "type": "match",
+        "left": [
+            "Chatbot",
+            "Voice assistant",
+            "Virtual agent",
+            "Conversational AI"
+        ],
+        "right": [
+            "Text",
+            "Speech",
+            "Automated",
+            "Dialogue"
+        ]
+    },
+    {
+        "q": "What is voice assistant?",
+        "type": "mcq",
+        "o": [
+            "AI responding to voice commands",
+            "Text only",
+            "No assistant",
+            "Random voice"
+        ]
+    },
+    {
+        "q": "Voice assistants understand natural ______.",
+        "type": "fill_blank",
+        "answers": [
+            "language"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "code"
+        ]
+    },
+    {
+        "q": "What is synthetic data?",
+        "type": "mcq",
+        "o": [
+            "Artificially generated data",
+            "Real data only",
+            "No data",
+            "Random synthetic"
+        ]
+    },
+    {
+        "q": "Synthetic data protects privacy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data augmentation?",
+        "type": "mcq",
+        "o": [
+            "Expanding training data",
+            "Reducing data",
+            "No augmentation",
+            "Random data"
+        ]
+    },
+    {
+        "q": "Match the data techniques:",
+        "type": "match",
+        "left": [
+            "Synthetic",
+            "Augmentation",
+            "Anonymization",
+            "Masking"
+        ],
+        "right": [
+            "Generated",
+            "Expanded",
+            "Hidden identity",
+            "Concealed"
+        ]
+    },
+    {
+        "q": "What is data anonymization?",
+        "type": "mcq",
+        "o": [
+            "Removing identifying information",
+            "Keeping identity",
+            "No anonymization",
+            "Random data"
+        ]
+    },
+    {
+        "q": "Anonymization protects personal ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "systems"
+        ]
+    },
+    {
+        "q": "What is data masking?",
+        "type": "mcq",
+        "o": [
+            "Hiding sensitive data values",
+            "Showing all data",
+            "No masking",
+            "Random data"
+        ]
+    },
+    {
+        "q": "Data masking uses replacement characters.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data tokenization?",
+        "type": "mcq",
+        "o": [
+            "Replacing data with tokens",
+            "Keeping original",
+            "No tokenization",
+            "Random tokens"
+        ]
+    },
+    {
+        "q": "Match the data protection:",
+        "type": "match",
+        "left": [
+            "Tokenization",
+            "Encryption",
+            "Hashing",
+            "Obfuscation"
+        ],
+        "right": [
+            "Replace",
+            "Encrypt",
+            "One-way",
+            "Obscure"
+        ]
+    },
+    {
+        "q": "What is homomorphic encryption?",
+        "type": "mcq",
+        "o": [
+            "Computing on encrypted data",
+            "Decrypt first",
+            "No encryption",
+            "Random crypto"
+        ]
+    },
+    {
+        "q": "Homomorphic encryption enables secure ______.",
+        "type": "fill_blank",
+        "answers": [
+            "computation"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "exposure"
+        ]
+    },
+    {
+        "q": "What is differential privacy?",
+        "type": "mcq",
+        "o": [
+            "Adding noise to protect individuals",
+            "No privacy",
+            "Random differential",
+            "External privacy"
+        ]
+    },
+    {
+        "q": "Differential privacy enables aggregate analysis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is federated learning?",
+        "type": "mcq",
+        "o": [
+            "Training models on distributed data",
+            "Centralized only",
+            "No learning",
+            "Random federated"
+        ]
+    },
+    {
+        "q": "Match the privacy-preserving ML:",
+        "type": "match",
+        "left": [
+            "Federated",
+            "Differential privacy",
+            "Secure aggregation",
+            "Confidential"
+        ],
+        "right": [
+            "Distributed",
+            "Noise",
+            "Combine",
+            "TEE"
+        ]
+    },
+    {
+        "q": "What is trusted execution environment?",
+        "type": "mcq",
+        "o": [
+            "Secure area for processing",
+            "No security",
+            "Random environment",
+            "External TEE"
+        ]
+    },
+    {
+        "q": "TEE provides isolated ______.",
+        "type": "fill_blank",
+        "answers": [
+            "processing"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "exposure"
+        ]
+    },
+    {
+        "q": "What is confidential computing?",
+        "type": "mcq",
+        "o": [
+            "Processing data in encrypted state",
+            "Unencrypted only",
+            "No computing",
+            "Random confidential"
+        ]
+    },
+    {
+        "q": "Confidential computing protects data in use.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is edge AI?",
+        "type": "mcq",
+        "o": [
+            "AI processing at network edge",
+            "Cloud only",
+            "No edge",
+            "Random AI"
+        ]
+    },
+    {
+        "q": "Match the AI deployment:",
+        "type": "match",
+        "left": [
+            "Cloud AI",
+            "Edge AI",
+            "Hybrid AI",
+            "On-device AI"
+        ],
+        "right": [
+            "Server",
+            "Local",
+            "Mixed",
+            "Device"
+        ]
+    },
+    {
+        "q": "What is TinyML?",
+        "type": "mcq",
+        "o": [
+            "ML for resource-constrained devices",
+            "Large ML only",
+            "No TinyML",
+            "Random tiny"
+        ]
+    },
+    {
+        "q": "TinyML runs on low-power ______.",
+        "type": "fill_blank",
+        "answers": [
+            "devices"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "servers"
+        ]
+    },
+    {
+        "q": "What is neuromorphic computing?",
+        "type": "mcq",
+        "o": [
+            "Brain-inspired computing architecture",
+            "Traditional only",
+            "No neuromorphic",
+            "Random computing"
+        ]
+    },
+    {
+        "q": "Neuromorphic chips mimic neural structures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is AI accelerator?",
+        "type": "mcq",
+        "o": [
+            "Hardware optimized for AI",
+            "General CPU only",
+            "No accelerator",
+            "Random AI"
+        ]
+    },
+    {
+        "q": "Match the AI hardware:",
+        "type": "match",
+        "left": [
+            "GPU",
+            "TPU",
+            "NPU",
+            "FPGA"
+        ],
+        "right": [
+            "Graphics",
+            "Tensor",
+            "Neural",
+            "Programmable"
+        ]
+    },
+    {
+        "q": "What is GPU computing?",
+        "type": "mcq",
+        "o": [
+            "Using graphics processors for computation",
+            "CPU only",
+            "No GPU",
+            "Random computing"
+        ]
+    },
+    {
+        "q": "GPUs excel at parallel ______.",
+        "type": "fill_blank",
+        "answers": [
+            "processing"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "sequential"
+        ]
+    },
+    {
+        "q": "What is TPU?",
+        "type": "mcq",
+        "o": [
+            "Tensor Processing Unit",
+            "No meaning",
+            "Random acronym",
+            "External term"
+        ]
+    },
+    {
+        "q": "TPUs are optimized for deep learning.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is AI governance?",
+        "type": "mcq",
+        "o": [
+            "Managing AI systems responsibly",
+            "No governance",
+            "Random AI",
+            "External governance"
+        ]
+    },
+    {
+        "q": "Match the AI governance:",
+        "type": "match",
+        "left": [
+            "Policy",
+            "Standards",
+            "Ethics",
+            "Compliance"
+        ],
+        "right": [
+            "Rules",
+            "Norms",
+            "Values",
+            "Regulations"
+        ]
+    },
+    {
+        "q": "What is model governance?",
+        "type": "mcq",
+        "o": [
+            "Managing ML models lifecycle",
+            "No governance",
+            "Random models",
+            "External model"
+        ]
+    },
+    {
+        "q": "Model governance ensures ______.",
+        "type": "fill_blank",
+        "answers": [
+            "accountability"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "chaos"
+        ]
+    },
+    {
+        "q": "What is model risk management?",
+        "type": "mcq",
+        "o": [
+            "Identifying and mitigating ML risks",
+            "No risk",
+            "Random model",
+            "External risk"
+        ]
+    },
+    {
+        "q": "Model risk includes bias and errors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is AI regulation?",
+        "type": "mcq",
+        "o": [
+            "Laws governing AI use",
+            "No regulation",
+            "Random AI",
+            "External regulation"
+        ]
+    },
+    {
+        "q": "Match the AI regulations:",
+        "type": "match",
+        "left": [
+            "EU AI Act",
+            "GDPR",
+            "CCPA",
+            "Industry standards"
+        ],
+        "right": [
+            "Risk-based",
+            "Privacy",
+            "California",
+            "Sector"
+        ]
+    },
+    {
+        "q": "What is responsible AI?",
+        "type": "mcq",
+        "o": [
+            "Developing AI ethically",
+            "No responsibility",
+            "Random AI",
+            "External responsible"
+        ]
+    },
+    {
+        "q": "Responsible AI prioritizes human ______.",
+        "type": "fill_blank",
+        "answers": [
+            "welfare"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "replacement"
+        ]
+    },
+    {
+        "q": "What is AI for good?",
+        "type": "mcq",
+        "o": [
+            "AI addressing social challenges",
+            "Profit only",
+            "No good",
+            "Random AI"
+        ]
+    },
+    {
+        "q": "AI for good targets sustainability and health.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital accessibility?",
+        "type": "mcq",
+        "o": [
+            "Technology usable by all",
+            "Limited access",
+            "No accessibility",
+            "Random digital"
+        ]
+    },
+    {
+        "q": "Match the accessibility:",
+        "type": "match",
+        "left": [
+            "WCAG",
+            "Screen reader",
+            "Alt text",
+            "Keyboard nav"
+        ],
+        "right": [
+            "Guidelines",
+            "Audio",
+            "Image desc",
+            "No mouse"
+        ]
+    },
+    {
+        "q": "What is inclusive design?",
+        "type": "mcq",
+        "o": [
+            "Design for diverse abilities",
+            "One group only",
+            "No design",
+            "Random inclusive"
+        ]
+    },
+    {
+        "q": "Inclusive design benefits ______.",
+        "type": "fill_blank",
+        "answers": [
+            "everyone"
+        ],
+        "other_options": [
+            "random",
+            "few",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is digital divide?",
+        "type": "mcq",
+        "o": [
+            "Gap in technology access",
+            "Equal access",
+            "No divide",
+            "Random digital"
+        ]
+    },
+    {
+        "q": "Bridging digital divide improves equity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is tech for social impact?",
+        "type": "mcq",
+        "o": [
+            "Technology solving social problems",
+            "Profit only",
+            "No impact",
+            "Random tech"
+        ]
+    },
+    {
+        "q": "Match the social impact:",
+        "type": "match",
+        "left": [
+            "Education",
+            "Health",
+            "Environment",
+            "Inclusion"
+        ],
+        "right": [
+            "Learning",
+            "Wellness",
+            "Sustainability",
+            "Access"
+        ]
+    },
+    {
+        "q": "What is digital literacy?",
+        "type": "mcq",
+        "o": [
+            "Ability to use technology effectively",
+            "No literacy",
+            "Random digital",
+            "External literacy"
+        ]
+    },
+    {
+        "q": "Digital literacy is essential for modern ______.",
+        "type": "fill_blank",
+        "answers": [
+            "work"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "past"
+        ]
+    },
+    {
+        "q": "What is data literacy?",
+        "type": "mcq",
+        "o": [
+            "Understanding and using data",
+            "No literacy",
+            "Random data",
+            "External literacy"
+        ]
+    },
+    {
+        "q": "Data literacy improves decision-making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is AI literacy?",
+        "type": "mcq",
+        "o": [
+            "Understanding AI capabilities and limits",
+            "No literacy",
+            "Random AI",
+            "External literacy"
+        ]
+    },
+    {
+        "q": "Match the literacy types:",
+        "type": "match",
+        "left": [
+            "Digital",
+            "Data",
+            "AI",
+            "Cyber"
+        ],
+        "right": [
+            "Technology",
+            "Analytics",
+            "Machine learning",
+            "Security"
+        ]
+    },
+    {
+        "q": "What is future of work?",
+        "type": "mcq",
+        "o": [
+            "Evolution of work through technology",
+            "Static work",
+            "No future",
+            "Random work"
+        ]
+    },
+    {
+        "q": "Future of work involves AI ______.",
+        "type": "fill_blank",
+        "answers": [
+            "augmentation"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "replacement"
+        ]
+    },
+    {
+        "q": "What is human-AI collaboration?",
+        "type": "mcq",
+        "o": [
+            "Humans and AI working together",
+            "AI only",
+            "Human only",
+            "No collaboration"
+        ]
+    },
+    {
+        "q": "Human-AI collaboration enhances capabilities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is augmented intelligence?",
+        "type": "mcq",
+        "o": [
+            "AI enhancing human abilities",
+            "Replacing humans",
+            "No augmentation",
+            "Random intelligence"
+        ]
+    },
+    {
+        "q": "Match the AI human relationship:",
+        "type": "match",
+        "left": [
+            "Augmentation",
+            "Automation",
+            "Collaboration",
+            "Replacement"
+        ],
+        "right": [
+            "Enhance",
+            "Replace task",
+            "Together",
+            "Substitute"
+        ]
+    },
+    {
+        "q": "What is upskilling?",
+        "type": "mcq",
+        "o": [
+            "Learning new skills for current role",
+            "No learning",
+            "Random skills",
+            "External upskill"
+        ]
+    },
+    {
+        "q": "Upskilling prepares for technology ______.",
+        "type": "fill_blank",
+        "answers": [
+            "changes"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "past"
+        ]
+    },
+    {
+        "q": "What is reskilling?",
+        "type": "mcq",
+        "o": [
+            "Learning skills for new role",
+            "Same skills",
+            "No reskilling",
+            "Random skills"
+        ]
+    },
+    {
+        "q": "Reskilling enables career transitions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IT and analytics drive competitive advantage.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is continuous learning in tech?",
+        "type": "mcq",
+        "o": [
+            "Ongoing skill development",
+            "One-time learning",
+            "No learning",
+            "Random continuous"
+        ]
+    },
+    {
+        "q": "Continuous learning adapts to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "change"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "static"
+        ]
+    },
+    {
+        "q": "What is technology roadmap?",
+        "type": "mcq",
+        "o": [
+            "Strategic plan for technology adoption",
+            "No plan",
+            "Random roadmap",
+            "External roadmap"
+        ]
+    },
+    {
+        "q": "Technology roadmaps guide IT investments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is digital maturity?",
+        "type": "mcq",
+        "o": [
+            "Organization's digital capabilities level",
+            "No maturity",
+            "Random digital",
+            "External maturity"
+        ]
+    },
+    {
+        "q": "Match the digital maturity:",
+        "type": "match",
+        "left": [
+            "Nascent",
+            "Emerging",
+            "Connected",
+            "Intelligent"
+        ],
+        "right": [
+            "Starting",
+            "Growing",
+            "Integrated",
+            "Optimized"
+        ]
+    },
+    {
+        "q": "What is IT value realization?",
+        "type": "mcq",
+        "o": [
+            "Achieving expected IT benefits",
+            "No value",
+            "Random realization",
+            "External value"
+        ]
+    },
+    {
+        "q": "IT value must be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "measured"
+        ],
+        "other_options": [
+            "random",
+            "nothing",
+            "ignored"
+        ]
+    },
+    {
+        "q": "What is business-IT alignment?",
+        "type": "mcq",
+        "o": [
+            "IT supporting business objectives",
+            "IT isolated",
+            "No alignment",
+            "Random alignment"
+        ]
+    },
+    {
+        "q": "Effective IT management creates business value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Data-driven organizations outperform competitors.",
+        "type": "true_false",
+        "correct": "True"
+    }
+]

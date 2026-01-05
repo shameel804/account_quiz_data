@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_found",
+    "topicId": "ca_found",
+    "topicTitle": "CA Foundation",
+    "description": "Master CA Foundation covering Accounting, Law, Economics, and Quantitative Aptitude",
+    "baseKP": 50,
+    "slides": [
+        {
+            "id": "ca_f1",
+            "type": "content",
+            "title": "Welcome to CA Foundation",
+            "content": "# CA Foundation\n\nThe **first step** in your Chartered Accountancy journey.\n\n## What You Will Learn\n\n- **Paper 1** - Accounting Principles\n- **Paper 2** - Business Laws & BCR\n- **Paper 3** - Quantitative Aptitude\n- **Paper 4** - Business Economics\n\n## Exam Pattern\n\n| Paper | Marks |\n|-------|-------|\n| Accounting | 100 |\n| Law & BCR | 100 |\n| Quantitative | 100 |\n| Economics | 100 |"
+        },
+        {
+            "id": "ca_f2",
+            "type": "content",
+            "title": "Accounting Principles",
+            "content": "# Paper 1 - Accounting\n\n## Key Topics\n\n| Topic | Coverage |\n|-------|----------|\n| Concepts | GAAP, Conventions |\n| Journal | Double entry |\n| Ledger | Posting |\n| Trial Balance | Balancing |\n| Final Accounts | P&L, Balance Sheet |\n\n## Accounting Equation\n\n```\nAssets = Liabilities + Capital\n\nOr\n\nA = L + C + R - E\n```"
+        },
+        {
+            "id": "ca_f3",
+            "type": "content",
+            "title": "Depreciation and Inventory",
+            "content": "# Key Adjustments\n\n## Depreciation Methods\n\n| Method | Pattern |\n|--------|--------|\n| Straight Line | Equal |\n| WDV | Diminishing |\n\n## Formulas\n\n```\nSLM = (Cost - Salvage) / Life\n\nWDV = Book Value x Rate\n```\n\n## Inventory Valuation\n\n| Method | Cost Flow |\n|--------|----------|\n| FIFO | First in first out |\n| Weighted Average | Average cost |\n\n## Rule\n\n```\nLower of Cost and NRV\n```"
+        },
+        {
+            "id": "ca_f_quiz1",
+            "type": "quiz",
+            "title": "Accounting Quiz",
+            "content": "Test your accounting knowledge!",
+            "quizQuestion": "WDV stands for Written Down?",
+            "quizOptions": [
+                "Duration",
+                "Depreciation",
+                "Value",
+                "Variance"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ca_f4",
+            "type": "content",
+            "title": "Partnership Accounts",
+            "content": "# Partnership\n\n## Key Topics\n\n| Topic | Content |\n|-------|--------|\n| Admission | New partner |\n| Retirement | Outgoing partner |\n| Death | Settlement |\n| Dissolution | Closing |\n\n## Goodwill Methods\n\n| Method | Calculation |\n|--------|-------------|\n| Average profit | Average x Years |\n| Super profit | Excess x Years |\n| Capitalization | Super / Normal rate |"
+        },
+        {
+            "id": "ca_f5",
+            "type": "content",
+            "title": "Business Laws",
+            "content": "# Paper 2A - Law\n\n## Indian Contract Act 1872\n\n| Topic | Content |\n|-------|--------|\n| Contract | Essential elements |\n| Offer | Proposal |\n| Acceptance | Agreement |\n| Consideration | Value |\n| Void | Invalid |\n\n## Sale of Goods Act 1930\n\n| Topic | Content |\n|-------|--------|\n| Sale | Transfer of ownership |\n| Conditions | Major terms |\n| Warranties | Minor terms |"
+        },
+        {
+            "id": "ca_f6",
+            "type": "content",
+            "title": "Companies Act and LLP",
+            "content": "# Corporate Law\n\n## Companies Act 2013\n\n| Concept | Meaning |\n|---------|--------|\n| Incorporation | Formation |\n| MOA | Constitution |\n| AOA | Rules |\n| Directors | Management |\n\n## LLP Act 2008\n\n| Feature | LLP |\n|---------|-----|\n| Liability | Limited |\n| Body corporate | Yes |\n| Partners | Minimum 2 |"
+        },
+        {
+            "id": "ca_f_quiz2",
+            "type": "quiz",
+            "title": "Law Quiz",
+            "content": "Test your law knowledge!",
+            "quizQuestion": "MOA stands for Memorandum of?",
+            "quizOptions": [
+                "Acknowledgment",
+                "Agreement",
+                "Association",
+                "Acceptance"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ca_f7",
+            "type": "content",
+            "title": "Business Mathematics",
+            "content": "# Paper 3A - QA\n\n## Topics\n\n| Topic | Content |\n|-------|--------|\n| Ratio | Proportion |\n| Indices | Powers |\n| Logarithms | Calculations |\n| Equations | Linear, quadratic |\n| Interest | Simple, compound |\n\n## Key Formulas\n\n```\nSimple Interest = P x R x T / 100\n\nCompound Interest = P(1 + r)^n - P\n\nAnnuity = P x [(1+r)^n - 1] / r\n```"
+        },
+        {
+            "id": "ca_f8",
+            "type": "content",
+            "title": "Statistics",
+            "content": "# Statistical Measures\n\n## Central Tendency\n\n| Measure | Use |\n|---------|-----|\n| Mean | Average |\n| Median | Middle |\n| Mode | Most frequent |\n\n## Dispersion\n\n| Measure | Formula Concept |\n|---------|----------------|\n| Range | Max - Min |\n| Variance | Average squared deviation |\n| SD | Square root of variance |\n\n## Correlation\n\n```\nr = -1 to +1\n+1 = Perfect positive\n-1 = Perfect negative\n0 = No correlation\n```"
+        },
+        {
+            "id": "ca_f9",
+            "type": "content",
+            "title": "Logical Reasoning",
+            "content": "# Paper 3B - LR\n\n## Topics\n\n| Type | Content |\n|------|--------|\n| Number series | Patterns |\n| Direction | North, South |\n| Seating | Arrangement |\n| Blood relations | Family |\n| Coding | Decoding |\n\n## Approach\n\n```\n1. Read carefully\n2. Identify pattern\n3. Apply logic\n4. Verify answer\n```"
+        },
+        {
+            "id": "ca_f_quiz3",
+            "type": "quiz",
+            "title": "Math Quiz",
+            "content": "Test your quantitative aptitude!",
+            "quizQuestion": "Standard deviation is the square root of?",
+            "quizOptions": [
+                "Mean",
+                "Median",
+                "Variance",
+                "Range"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ca_f10",
+            "type": "content",
+            "title": "Business Economics",
+            "content": "# Paper 4A - Economics\n\n## Microeconomics\n\n| Topic | Content |\n|-------|--------|\n| Demand | Law, elasticity |\n| Supply | Law, elasticity |\n| Equilibrium | Market price |\n| Production | Costs, revenue |\n\n## Market Structures\n\n| Structure | Sellers |\n|-----------|--------|\n| Perfect competition | Many |\n| Monopoly | One |\n| Oligopoly | Few |\n| Monopolistic | Many, differentiated |"
+        },
+        {
+            "id": "ca_f11",
+            "type": "content",
+            "title": "Macroeconomics",
+            "content": "# National Economy\n\n## Key Concepts\n\n| Concept | Meaning |\n|---------|--------|\n| GDP | Gross Domestic Product |\n| GNP | Gross National Product |\n| NI | National Income |\n| Inflation | Price rise |\n\n## Monetary Policy\n\n| Tool | Effect |\n|------|--------|\n| Repo rate | Borrowing cost |\n| CRR | Money supply |\n| SLR | Liquidity |"
+        },
+        {
+            "id": "ca_f12",
+            "type": "content",
+            "title": "Business Communication",
+            "content": "# Paper 4B - BCR\n\n## Communication Basics\n\n| Element | Role |\n|---------|------|\n| Sender | Initiator |\n| Message | Content |\n| Channel | Medium |\n| Receiver | Recipient |\n| Feedback | Response |\n\n## Business Correspondence\n\n| Type | Purpose |\n|------|--------|\n| Letters | Formal |\n| Memos | Internal |\n| Reports | Analysis |\n| Email | Quick |\n\n## Barriers\n\n- Language\n- Cultural\n- Psychological\n- Physical"
+        },
+        {
+            "id": "ca_f_quiz4",
+            "type": "quiz",
+            "title": "Economics Quiz",
+            "content": "Test your economics knowledge!",
+            "quizQuestion": "GDP measures output within?",
+            "quizOptions": [
+                "Company",
+                "State",
+                "Country boundaries",
+                "Global"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ca_f17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CA Foundation**!\n\n## Key Topics\n\n### Accounting\n- Double entry\n- Final accounts\n- Depreciation\n\n### Law\n- Contract Act\n- Sale of Goods\n- Companies Act\n\n### Quantitative\n- Mathematics\n- Statistics\n- Logical reasoning\n\n### Economics\n- Micro and macro\n- Business communication\n\n## Exam Tips\n\n| Paper | Focus |\n|-------|-------|\n| Accounting | Practice |\n| Law | Sections |\n| QA | Speed |\n| Economics | Concepts |\n\n## What is Next?\n\nExplore CA Intermediate - Group I!"
+        }
+    ]
+}

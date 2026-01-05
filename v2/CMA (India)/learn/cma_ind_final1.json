@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_ind_final1",
+    "topicId": "cma_ind_final1",
+    "topicTitle": "CMA Final - Group I",
+    "description": "Master CMA India Final Group I covering Corporate Laws, Strategic Financial Management, and Direct Tax Laws",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "cma_f1_1",
+            "type": "content",
+            "title": "Welcome to Final Group I",
+            "content": "# CMA Final - Group I\n\nGroup I covers **advanced finance**, **law**, and **taxation**.\n\n## What You Will Learn\n\n- **Corporate Laws** - Advanced compliance\n- **Strategic Finance** - Financial management\n- **Direct Tax** - Advanced taxation\n- **Strategic Cost** - Cost management\n\n## Group I Papers\n\n| Paper | Subject |\n|-------|--------|\n| 13 | Corporate Laws & Compliance |\n| 14 | Strategic Financial Management |\n| 15 | Strategic Cost Management |\n| 16 | Direct Tax Laws |"
+        },
+        {
+            "id": "cma_f1_2",
+            "type": "content",
+            "title": "Corporate Laws Advanced",
+            "content": "# Corporate Governance\n\n## Key Regulations\n\n| Regulation | Focus |\n|------------|-------|\n| SEBI LODR | Listed companies |\n| Companies Act | All companies |\n| FEMA | Foreign exchange |\n| IBC | Insolvency |\n\n## Board Governance\n\n| Committee | Purpose |\n|-----------|--------|\n| Audit | Financial oversight |\n| Nomination | Director appointments |\n| CSR | Social responsibility |\n| Stakeholder | Grievance redressal |"
+        },
+        {
+            "id": "cma_f1_3",
+            "type": "content",
+            "title": "Strategic Financial Management",
+            "content": "# Financial Strategy\n\n## Investment Decisions\n\n| Method | Criterion |\n|--------|----------|\n| NPV | > 0 Accept |\n| IRR | > CoC Accept |\n| Payback | < Target |\n| PI | > 1 Accept |\n\n## Cost of Capital\n\n```\nWACC = (E/V x Ke) + (D/V x Kd)\n\nKe = Cost of equity\nKd = After-tax cost of debt\n```\n\n## Capital Structure\n\n- Optimal structure\n- Financial leverage\n- M&M theory"
+        },
+        {
+            "id": "cma_f1_quiz_1",
+            "type": "quiz",
+            "title": "Finance Quiz",
+            "content": "Test your financial management!",
+            "quizQuestion": "NPV decision rule is to accept if NPV is?",
+            "quizOptions": [
+                "Negative",
+                "Zero",
+                "Positive",
+                "Unknown"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cma_f1_4",
+            "type": "content",
+            "title": "Portfolio Management",
+            "content": "# Investment Portfolio\n\n## CAPM\n\n```\nKe = Rf + beta(Rm - Rf)\n\nRf = Risk-free rate\nbeta = Systematic risk\nRm = Market return\n```\n\n## Portfolio Theory\n\n| Concept | Meaning |\n|---------|--------|\n| Diversification | Risk reduction |\n| Efficient frontier | Optimal portfolios |\n| Beta | Market sensitivity |\n\n## Valuation\n\n- DDM (Dividend discount)\n- P/E multiples\n- DCF analysis"
+        },
+        {
+            "id": "cma_f1_5",
+            "type": "content",
+            "title": "Working Capital",
+            "content": "# Working Capital Management\n\n## Cash Conversion Cycle\n\n```\nInventory days + Receivable days - Payable days\n= CCC\n```\n\n## Working Capital Financing\n\n| Source | Nature |\n|--------|--------|\n| Trade credit | Supplier finance |\n| Bank CC | Working capital loan |\n| Factoring | Receivables sale |\n| CP | Short-term notes |\n\n## Cash Management\n\n- Baumol model\n- Miller-Orr model\n- Cash budgeting"
+        },
+        {
+            "id": "cma_f1_6",
+            "type": "content",
+            "title": "Strategic Cost Management",
+            "content": "# Advanced Cost Strategies\n\n## Strategic Costing\n\n| Technique | Purpose |\n|-----------|--------|\n| ABC | Activity-based |\n| Target costing | Market-driven |\n| Life cycle | Full cost |\n| Kaizen | Continuous improvement |\n\n## Value Chain\n\n```\nInbound -> Operations -> Outbound -> Marketing -> Service\n\nIdentify cost drivers at each stage\n```\n\n## Benchmarking\n\n- Internal\n- Competitive\n- Functional\n- Generic"
+        },
+        {
+            "id": "cma_f1_quiz_2",
+            "type": "quiz",
+            "title": "Cost Quiz",
+            "content": "Test your strategic costing!",
+            "quizQuestion": "Target costing starts from?",
+            "quizOptions": [
+                "Production cost",
+                "Market price",
+                "Variable cost",
+                "Historical cost"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_f1_7",
+            "type": "content",
+            "title": "Transfer Pricing",
+            "content": "# Internal Pricing\n\n## Methods\n\n| Method | Basis |\n|--------|-------|\n| Market | External price |\n| Cost-plus | Cost + margin |\n| Negotiated | Agreement |\n| Dual | Different bases |\n\n## Arm's Length\n\n```\nPrice between unrelated parties\nfor comparable transactions\n```\n\n## Regulations\n\n- Section 92\n- TP documentation\n- APA (Advance pricing)\n- Country-by-country reporting"
+        },
+        {
+            "id": "cma_f1_8",
+            "type": "content",
+            "title": "Direct Tax Advanced",
+            "content": "# Corporate Taxation\n\n## Tax Rates\n\n| Company | Rate |\n|---------|------|\n| Domestic | 25% + surcharge |\n| New manufacturing | 15% |\n| Foreign | 40% |\n\n## MAT\n\n```\nMinimum Alternate Tax\n18.5% of book profit\n\nPayable if normal tax < MAT\n```\n\n## Carry Forward\n\n| Loss | Period |\n|------|--------|\n| Business | 8 years |\n| Capital | 8 years |\n| House property | 8 years |"
+        },
+        {
+            "id": "cma_f1_9",
+            "type": "content",
+            "title": "International Taxation",
+            "content": "# Cross-Border Tax\n\n## Residence\n\n| Status | Taxable Income |\n|--------|----------------|\n| Resident | Worldwide |\n| Non-resident | India source |\n\n## DTAA\n\n```\nDouble Taxation Avoidance Agreement\n\nMethods:\n- Credit\n- Exemption\n```\n\n## GAAR\n\n- General Anti-Avoidance Rule\n- Targets tax avoidance\n- Chapter X-A provisions"
+        },
+        {
+            "id": "cma_f1_quiz_3",
+            "type": "quiz",
+            "title": "Tax Quiz",
+            "content": "Test your international tax!",
+            "quizQuestion": "MAT stands for Minimum Alternate?",
+            "quizOptions": [
+                "Tariff",
+                "Tax",
+                "Toll",
+                "Transfer"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_f1_10",
+            "type": "content",
+            "title": "Business Valuations",
+            "content": "# Valuation Methods\n\n## Approaches\n\n| Approach | Methods |\n|----------|--------|\n| Income | DCF, Capitalized earnings |\n| Market | Comparables, multiples |\n| Asset | Book value, liquidation |\n\n## DCF Valuation\n\n```\nValue = Sum of PV of FCF + Terminal value\n\nTerminal = FCF(1+g) / (WACC - g)\n```\n\n## Due Diligence\n\n- Financial\n- Legal\n- Operational\n- Commercial"
+        },
+        {
+            "id": "cma_f1_11",
+            "type": "content",
+            "title": "Mergers and Acquisitions",
+            "content": "# M&A Transactions\n\n## Types\n\n| Type | Description |\n|------|-------------|\n| Horizontal | Same industry |\n| Vertical | Supply chain |\n| Conglomerate | Unrelated |\n\n## Regulatory\n\n| Authority | Approval |\n|-----------|----------|\n| CCI | Competition |\n| NCLT | Companies Act |\n| SEBI | Listed companies |\n| RBI | Foreign investment |\n\n## Swap Ratio\n\n```\nExchange ratio for shares\nbased on relative valuations\n```"
+        },
+        {
+            "id": "cma_f1_12",
+            "type": "content",
+            "title": "Risk Management",
+            "content": "# Financial Risk\n\n## Types of Risk\n\n| Risk | Source |\n|------|--------|\n| Currency | Exchange rates |\n| Interest | Rate changes |\n| Credit | Default |\n| Liquidity | Cash availability |\n\n## Hedging\n\n| Instrument | Use |\n|------------|-----|\n| Forwards | Lock in rate |\n| Futures | Exchange-traded |\n| Options | Right, not obligation |\n| Swaps | Exchange payments |"
+        },
+        {
+            "id": "cma_f1_quiz_4",
+            "type": "quiz",
+            "title": "Risk Quiz",
+            "content": "Test your risk management!",
+            "quizQuestion": "A forward contract locks in?",
+            "quizOptions": [
+                "Current price",
+                "Future price",
+                "Historical price",
+                "Average price"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_f1_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Final - Group I**!\n\n## Key Topics\n\n### Corporate Laws\n- Governance\n- SEBI regulations\n- Compliance\n\n### Strategic Finance\n- Capital budgeting\n- Cost of capital\n- Portfolio management\n\n### Strategic Cost\n- ABC, target costing\n- Transfer pricing\n- Value chain\n\n### Direct Tax\n- Corporate taxation\n- International tax\n- MAT\n\n## Group I Papers\n\n| Paper | Subject |\n|-------|--------|\n| 13 | Corporate Laws |\n| 14 | Strategic Finance |\n| 15 | Strategic Cost |\n| 16 | Direct Tax |\n\n## What is Next?\n\nExplore CMA Final - Group II!"
+        }
+    ]
+}

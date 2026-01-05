@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_afm",
+    "topicId": "acca_afm",
+    "topicTitle": "Advanced Taxation (ATX)",
+    "description": "Master ACCA ATX including Personal Tax Planning, Corporate Tax, CGT Planning, and Inheritance Tax",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "atx_1",
+            "type": "content",
+            "title": "Welcome to ACCA ATX",
+            "content": "# Advanced Taxation (ATX)\n\nATX covers **tax planning** for individuals and businesses.\n\n## What You Will Learn\n\n- **Personal Tax** - Income tax planning\n- **Corporate Tax** - Company planning\n- **CGT** - Capital gains strategies\n- **IHT** - Inheritance planning\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Ethics | 10% |\n| Income tax | 25% |\n| Corporation tax | 30% |\n| CGT | 15% |\n| IHT | 10% |\n| Admin | 10% |"
+        },
+        {
+            "id": "atx_2",
+            "type": "content",
+            "title": "Income Tax Planning",
+            "content": "# Personal Tax Strategies\n\n## Use of Allowances\n\n| Strategy | Benefit |\n|----------|--------|\n| Personal allowance | Tax-free income |\n| Marriage allowance | Transfer to spouse |\n| Savings nil rate | Interest tax-free |\n| Dividend allowance | Dividend tax-free |\n\n## Income Shifting\n\n- Salary vs dividends\n- Spousal transfers\n- Settlement rules\n\n## Pension Planning\n\n```\nContributions get:\n- Tax relief at marginal rate\n- Tax-free growth\n- 25% tax-free lump sum\n```\n\n## Avoiding Higher Rates\n\n- Personal allowance taper\n- Child benefit charge\n- Pension contributions timing"
+        },
+        {
+            "id": "atx_3",
+            "type": "content",
+            "title": "Employment vs Self-Employment",
+            "content": "# Status Planning\n\n## Tax Differences\n\n| Factor | Employee | Self-employed |\n|--------|----------|---------------|\n| Tax | PAYE | Self-assessment |\n| NIC | Class 1 | Class 2 & 4 |\n| Expenses | Limited | More deductible |\n| Benefits | Taxable | N/A |\n\n## IR35\n\nOff-payroll working rules.\n\n| Inside IR35 | Outside IR35 |\n|-------------|---------------|\n| Treated as employee | Normal self-employed |\n| Client/agency deduct tax | Own arrangements |\n\n## MSC Rules\n\nManaged Service Company provisions."
+        },
+        {
+            "id": "atx_quiz_1",
+            "type": "quiz",
+            "title": "Personal Tax Quiz",
+            "content": "Test your income tax knowledge!",
+            "quizQuestion": "IR35 rules apply to workers who are?",
+            "quizOptions": [
+                "Definitely employees",
+                "Definitely self-employed",
+                "Operating through a company but effectively employees",
+                "Partners in LLP"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "atx_4",
+            "type": "content",
+            "title": "Business Structures",
+            "content": "# Choice of Structure\n\n## Options\n\n| Structure | Tax Treatment |\n|-----------|---------------|\n| Sole trader | Income tax |\n| Partnership | Income tax (partners) |\n| LLP | Income tax (members) |\n| Company | Corporation tax |\n\n## Company Advantages\n\n- Lower CT rates\n- Retained profits flexibility\n- National Insurance savings\n- Pension contributions\n\n## Incorporation\n\n| Relief | Effect |\n|--------|--------|\n| Incorporation relief | Defer CGT |\n| Gift relief | Hold-over gain |\n\n## Disincorporation\n\n- CGT on shares\n- Distribution rules\n- Phoenix company rules"
+        },
+        {
+            "id": "atx_5",
+            "type": "content",
+            "title": "Corporation Tax Planning",
+            "content": "# Company Tax Strategies\n\n## Rate Planning\n\n| Profits | Rate |\n|---------|------|\n| Small | Lower rate |\n| Main | Higher rate |\n| Marginal | Relief applies |\n\n## Associated Companies\n\nShare thresholds among group.\n\n## Loss Relief Options\n\n| Option | Effect |\n|--------|--------|\n| Carry back | Prior year relief |\n| Carry forward | Future profits |\n| Group relief | Surrender |\n| Terminal relief | Final period |\n\n## Capital Allowances\n\n- AIA timing\n- Structures and buildings\n- Enhanced deductions"
+        },
+        {
+            "id": "atx_6",
+            "type": "content",
+            "title": "Groups of Companies",
+            "content": "# Group Taxation\n\n## Group Relief\n\n| Type | Definition |\n|------|------------|\n| 75% subsidiary | 75% ownership |\n| Consortium | 75% jointly |\n\n## Surrender of Losses\n\n```\nCurrent year losses\nSurrendered to group\nReduce their profits\n```\n\n## Capital Gains Group\n\n| Feature | Effect |\n|---------|--------|\n| Asset transfers | No gain/no loss |\n| Degrouping | Charge arises |\n| Roll-over | Within group |\n\n## Stamp Duty\n\n- Group relief available\n- Reconstruction relief\n- Acquisition relief"
+        },
+        {
+            "id": "atx_7",
+            "type": "content",
+            "title": "CGT Planning",
+            "content": "# Capital Gains Strategies\n\n## Use of Reliefs\n\n| Relief | Effect |\n|--------|--------|\n| Annual exemption | Tax-free gain |\n| Business Asset Disposal | 10% rate |\n| Investors' relief | 10% rate |\n| Roll-over | Defer gain |\n| Gift relief | Hold-over |\n\n## Business Asset Disposal Relief\n\n```\nConditions:\n- Trading business\n- 2-year ownership\n- Officer/employee\n- 5% shareholding\n\nLifetime limit applies\n```\n\n## Planning Points\n\n- Use annual exemption\n- Timing of disposals\n- Spousal transfers\n- Loss utilization"
+        },
+        {
+            "id": "atx_quiz_2",
+            "type": "quiz",
+            "title": "CGT Quiz",
+            "content": "Test your CGT planning knowledge!",
+            "quizQuestion": "Business Asset Disposal Relief provides a rate of?",
+            "quizOptions": [
+                "0%",
+                "10%",
+                "18%",
+                "20%"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "atx_8",
+            "type": "content",
+            "title": "IHT Planning",
+            "content": "# Inheritance Tax Strategies\n\n## Lifetime Planning\n\n| Strategy | Effect |\n|----------|--------|\n| PETs | Exempt if survive 7 years |\n| CLTs | Chargeable at 20% |\n| Annual exemption | Reduce transfers |\n| Normal expenditure | Regular gifts |\n\n## Business Relief\n\n| Rate | Assets |\n|------|--------|\n| 100% | Trading business |\n| 50% | Business premises |\n\n## Agricultural Relief\n\n| Rate | Property |\n|------|----------|\n| 100% | Farming land |\n\n## Trust Planning\n\n- Discretionary trusts\n- Interest in possession\n- Relevant property charges"
+        },
+        {
+            "id": "atx_9",
+            "type": "content",
+            "title": "International Tax",
+            "content": "# Cross-Border Tax\n\n## Residence\n\n| Status | Tax Position |\n|--------|---------------|\n| UK resident | Worldwide income |\n| Non-resident | UK source only |\n| Non-dom | Remittance basis |\n\n## Double Taxation Relief\n\n| Method | Calculation |\n|--------|-------------|\n| Credit | Lower of UK/foreign |\n| Exemption | Exclude income |\n\n## Transfer Pricing\n\n```\nArm's length principle:\nTransactions at market price\n```\n\n## Diverted Profits Tax\n\nAnti-avoidance for multinationals."
+        },
+        {
+            "id": "atx_10",
+            "type": "content",
+            "title": "VAT Planning",
+            "content": "# VAT Strategies\n\n## Registration\n\n| Type | Effect |\n|------|--------|\n| Compulsory | Above threshold |\n| Voluntary | Recover input VAT |\n\n## Schemes\n\n| Scheme | Benefit |\n|--------|--------|\n| Flat rate | Simplified |\n| Cash accounting | Cash flow |\n| Annual | Fewer returns |\n\n## Partial Exemption\n\n```\nMixed supplies:\n- Taxable: Full recovery\n- Exempt: No recovery\n- Mixed: Pro rata\n```\n\n## Planning Points\n\n- Opt to tax property\n- Capital goods scheme\n- Transfer as going concern"
+        },
+        {
+            "id": "atx_11",
+            "type": "content",
+            "title": "Ethics in Tax",
+            "content": "# Professional Ethics\n\n## Tax Advisor Duties\n\n| To Client | To HMRC |\n|-----------|--------|\n| Best advice | Not mislead |\n| Confidentiality | Accurate returns |\n| Professional | Comply with law |\n\n## Avoidance vs Evasion\n\n| Avoidance | Evasion |\n|-----------|--------|\n| Legal | Illegal |\n| Use reliefs | Fraud |\n| Tax planning | Criminal |\n\n## POTAS\n\nProfessional Conduct in Relation to Taxation.\n\n## GAAR\n\nGeneral Anti-Abuse Rule.\n\n- Targets abusive arrangements\n- Double taxation of tax"
+        },
+        {
+            "id": "atx_quiz_3",
+            "type": "quiz",
+            "title": "Ethics Quiz",
+            "content": "Test your ethics knowledge!",
+            "quizQuestion": "GAAR stands for General Anti-?",
+            "quizOptions": [
+                "Avoidance Rule",
+                "Abuse Rule",
+                "Assessment Rule",
+                "Application Rule"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "atx_12",
+            "type": "content",
+            "title": "Tax Administration",
+            "content": "# Compliance\n\n## Penalties\n\n| Default | Penalty |\n|---------|--------|\n| Late filing | Fixed + % |\n| Late payment | % of tax |\n| Errors | Behavior-based |\n\n## Behavior Penalties\n\n| Type | Range |\n|------|-------|\n| Careless | 0-30% |\n| Deliberate | 20-70% |\n| Deliberate and concealed | 30-100% |\n\n## Enquiries\n\n- HMRC powers\n- Information notices\n- Discovery assessments\n\n## Appeals\n\n- Internal review\n- First-tier tribunal\n- Upper tribunal"
+        },
+        {
+            "id": "atx_13",
+            "type": "content",
+            "title": "Succession Planning",
+            "content": "# Business Succession\n\n## Exit Options\n\n| Option | Tax Treatment |\n|--------|---------------|\n| Sale to third party | CGT on proceeds |\n| Family sale | CGT + gift relief |\n| MBO | CGT planning |\n| Liquidation | Capital distribution |\n\n## Reliefs Available\n\n| Relief | Effect |\n|--------|--------|\n| Business asset disposal | 10% rate |\n| Hold-over relief | Defer gain |\n| Roll-over | Reinvest proceeds |\n\n## IHT on Death\n\n- Business relief (100%)\n- Instalment option\n- Quick succession relief"
+        },
+        {
+            "id": "atx_14",
+            "type": "content",
+            "title": "Trusts",
+            "content": "# Trust Taxation\n\n## Types of Trust\n\n| Trust | Tax Treatment |\n|-------|---------------|\n| Bare | Beneficiary taxed |\n| Life interest | Trust taxed at basic |\n| Discretionary | Trust at 45% |\n\n## IHT on Trusts\n\n| Entry | Charge |\n|-------|--------|\n| Creation | 20% over NRB |\n| Exit | Proportionate |\n| 10-year | Principal charge |\n\n## Income Tax\n\n- Trustees pay at trust rates\n- Tax credits on distribution"
+        },
+        {
+            "id": "atx_quiz_4",
+            "type": "quiz",
+            "title": "Trust Quiz",
+            "content": "Test your trust knowledge!",
+            "quizQuestion": "What is the income tax rate for discretionary trusts?",
+            "quizOptions": [
+                "20%",
+                "40%",
+                "45%",
+                "50%"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "atx_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA ATX - Advanced Taxation**!\n\n## Key Topics\n\n### Personal Tax\n- Income planning\n- Employment vs self-employment\n- Business structures\n\n### Corporate Tax\n- Rate planning\n- Loss relief\n- Groups\n\n### Capital Taxes\n- CGT reliefs\n- IHT planning\n- Trusts\n\n### Other\n- International tax\n- VAT planning\n- Ethics\n\n## Key Reliefs\n\n| Relief | Rate |\n|--------|------|\n| Business Asset Disposal | 10% |\n| Business Relief (IHT) | 100% |\n| Hold-over | Defer |\n\n## What is Next?\n\nExplore ACCA AAA - Advanced Audit!"
+        }
+    ]
+}

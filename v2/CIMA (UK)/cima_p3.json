@@ -1,0 +1,671 @@
+[
+    {
+        "q": "What is risk management?",
+        "type": "mcq",
+        "o": [
+            "Process of identifying, assessing, and responding to risks",
+            "Ignoring risks",
+            "No management",
+            "Random approach"
+        ]
+    },
+    {
+        "q": "Risk management is a continuous and iterative ______.",
+        "type": "fill_blank",
+        "answers": [
+            "process"
+        ],
+        "other_options": [
+            "event",
+            "point",
+            "moment"
+        ]
+    },
+    {
+        "q": "Enterprise risk management takes a holistic view of organizational risks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is enterprise risk management (ERM)?",
+        "type": "mcq",
+        "o": [
+            "Organization-wide approach to managing all risks",
+            "Single risk focus",
+            "No framework",
+            "Random approach"
+        ]
+    },
+    {
+        "q": "ERM considers risks across the entire ______.",
+        "type": "fill_blank",
+        "answers": [
+            "organization"
+        ],
+        "other_options": [
+            "department",
+            "function",
+            "team"
+        ]
+    },
+    {
+        "q": "COSO ERM framework is widely used for enterprise risk management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is risk identification?",
+        "type": "mcq",
+        "o": [
+            "Process of finding and describing risks",
+            "Ignoring risks",
+            "No identification",
+            "Random finding"
+        ]
+    },
+    {
+        "q": "Risk identification uses techniques like brainstorming and risk ______.",
+        "type": "fill_blank",
+        "answers": [
+            "registers"
+        ],
+        "other_options": [
+            "ignoring",
+            "hiding",
+            "removing"
+        ]
+    },
+    {
+        "q": "A risk register documents identified risks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is risk assessment?",
+        "type": "mcq",
+        "o": [
+            "Evaluating likelihood and impact of risks",
+            "Ignoring risks",
+            "No assessment",
+            "Random evaluation"
+        ]
+    },
+    {
+        "q": "Risk = Likelihood × ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Impact"
+        ],
+        "other_options": [
+            "Time",
+            "Cost",
+            "Duration"
+        ]
+    },
+    {
+        "q": "Risk matrices help visualize and prioritize risks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the risk response strategies?",
+        "type": "mcq",
+        "o": [
+            "Avoid, reduce, transfer, accept",
+            "Single response",
+            "Ignore all",
+            "Random response"
+        ]
+    },
+    {
+        "q": "Match risk responses:",
+        "type": "match",
+        "left": [
+            "Avoid",
+            "Reduce",
+            "Transfer",
+            "Accept"
+        ],
+        "right": [
+            "Eliminate risk",
+            "Mitigate risk",
+            "Share risk",
+            "Retain risk"
+        ]
+    },
+    {
+        "q": "Insurance is a common method of risk ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transfer"
+        ],
+        "other_options": [
+            "avoidance",
+            "acceptance",
+            "increase"
+        ]
+    },
+    {
+        "q": "Not all risks can be eliminated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is risk appetite?",
+        "type": "mcq",
+        "o": [
+            "Amount of risk an organization is willing to take",
+            "No risk",
+            "All risks",
+            "Random amount"
+        ]
+    },
+    {
+        "q": "Risk appetite should align with strategic ______.",
+        "type": "fill_blank",
+        "answers": [
+            "objectives"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Risk appetite varies between organizations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is risk tolerance?",
+        "type": "mcq",
+        "o": [
+            "Acceptable variation from risk appetite",
+            "No tolerance",
+            "Unlimited tolerance",
+            "Random variation"
+        ]
+    },
+    {
+        "q": "Risk tolerance sets specific boundaries for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "cost"
+        ]
+    },
+    {
+        "q": "Risk tolerance is more specific than risk appetite.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is strategic risk?",
+        "type": "mcq",
+        "o": [
+            "Risk affecting achievement of strategic objectives",
+            "Operating risk",
+            "Financial risk",
+            "Compliance risk"
+        ]
+    },
+    {
+        "q": "Strategic risks include competitive threats and market ______.",
+        "type": "fill_blank",
+        "answers": [
+            "changes"
+        ],
+        "other_options": [
+            "stability",
+            "permanence",
+            "constants"
+        ]
+    },
+    {
+        "q": "Strategic risks can threaten organizational survival.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is operational risk?",
+        "type": "mcq",
+        "o": [
+            "Risk from inadequate internal processes, people, systems",
+            "Strategic risk",
+            "Financial risk",
+            "Market risk"
+        ]
+    },
+    {
+        "q": "Operational risks include fraud, errors, and system ______.",
+        "type": "fill_blank",
+        "answers": [
+            "failures"
+        ],
+        "other_options": [
+            "successes",
+            "profits",
+            "revenues"
+        ]
+    },
+    {
+        "q": "Internal controls mitigate operational risks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is financial risk?",
+        "type": "mcq",
+        "o": [
+            "Risk related to financial markets and transactions",
+            "Operational risk",
+            "Strategic risk",
+            "Compliance risk"
+        ]
+    },
+    {
+        "q": "Financial risks include market, credit, and liquidity ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "asset"
+        ]
+    },
+    {
+        "q": "Financial risks can be hedged using derivatives.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is market risk?",
+        "type": "mcq",
+        "o": [
+            "Risk from changes in market prices",
+            "Credit risk",
+            "Liquidity risk",
+            "Operational risk"
+        ]
+    },
+    {
+        "q": "Market risk includes interest rate, currency, and equity price ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "asset"
+        ]
+    },
+    {
+        "q": "Value at Risk (VaR) measures potential loss from market risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is credit risk?",
+        "type": "mcq",
+        "o": [
+            "Risk of loss from counterparty default",
+            "Market risk",
+            "Liquidity risk",
+            "Operational risk"
+        ]
+    },
+    {
+        "q": "Credit risk increases with weak counterparty ______.",
+        "type": "fill_blank",
+        "answers": [
+            "creditworthiness"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "assets"
+        ]
+    },
+    {
+        "q": "Credit ratings assess counterparty default risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is liquidity risk?",
+        "type": "mcq",
+        "o": [
+            "Risk of inability to meet financial obligations",
+            "Credit risk",
+            "Market risk",
+            "Operational risk"
+        ]
+    },
+    {
+        "q": "Liquidity risk can arise from cash flow ______.",
+        "type": "fill_blank",
+        "answers": [
+            "mismatches"
+        ],
+        "other_options": [
+            "surpluses",
+            "excesses",
+            "abundances"
+        ]
+    },
+    {
+        "q": "Liquidity management ensures adequate cash availability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is compliance risk?",
+        "type": "mcq",
+        "o": [
+            "Risk of failing to comply with laws and regulations",
+            "Strategic risk",
+            "Operational risk",
+            "Market risk"
+        ]
+    },
+    {
+        "q": "Compliance failures can result in fines and reputational ______.",
+        "type": "fill_blank",
+        "answers": [
+            "damage"
+        ],
+        "other_options": [
+            "gains",
+            "profits",
+            "revenues"
+        ]
+    },
+    {
+        "q": "Regulatory compliance is mandatory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is reputational risk?",
+        "type": "mcq",
+        "o": [
+            "Risk of damage to organization's reputation",
+            "Financial risk",
+            "Operational risk",
+            "Market risk"
+        ]
+    },
+    {
+        "q": "Reputational damage can arise from other risk ______.",
+        "type": "fill_blank",
+        "answers": [
+            "events"
+        ],
+        "other_options": [
+            "successes",
+            "profits",
+            "gains"
+        ]
+    },
+    {
+        "q": "Reputation takes years to build but moments to destroy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is internal control?",
+        "type": "mcq",
+        "o": [
+            "Process to provide reasonable assurance about objectives",
+            "No control",
+            "External control",
+            "Random control"
+        ]
+    },
+    {
+        "q": "COSO Internal Control Framework has five ______.",
+        "type": "fill_blank",
+        "answers": [
+            "components"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Internal controls mitigate risks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the COSO Internal Control components?",
+        "type": "mcq",
+        "o": [
+            "Control environment, risk assessment, control activities, information, monitoring",
+            "Single component",
+            "No components",
+            "Random elements"
+        ]
+    },
+    {
+        "q": "Control environment sets the tone at the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "top"
+        ],
+        "other_options": [
+            "bottom",
+            "middle",
+            "side"
+        ]
+    },
+    {
+        "q": "Monitoring ensures controls continue operating effectively.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is internal audit?",
+        "type": "mcq",
+        "o": [
+            "Independent function providing assurance and consulting",
+            "External audit",
+            "No audit",
+            "Random review"
+        ]
+    },
+    {
+        "q": "Internal audit evaluates risk management, control, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "governance"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Internal audit should be independent and objective.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cyber risk?",
+        "type": "mcq",
+        "o": [
+            "Risk from cyber attacks and technology failures",
+            "No technology risk",
+            "Physical risk only",
+            "Random risk"
+        ]
+    },
+    {
+        "q": "Cyber risks include data breaches and system ______.",
+        "type": "fill_blank",
+        "answers": [
+            "disruptions"
+        ],
+        "other_options": [
+            "improvements",
+            "successes",
+            "gains"
+        ]
+    },
+    {
+        "q": "Cybersecurity is increasingly critical.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is business continuity management?",
+        "type": "mcq",
+        "o": [
+            "Planning for continuing operations during disruptions",
+            "No planning",
+            "Stopping operations",
+            "Random response"
+        ]
+    },
+    {
+        "q": "Business continuity plans address disaster ______.",
+        "type": "fill_blank",
+        "answers": [
+            "recovery"
+        ],
+        "other_options": [
+            "creation",
+            "causing",
+            "making"
+        ]
+    },
+    {
+        "q": "Testing business continuity plans is essential.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is crisis management?",
+        "type": "mcq",
+        "o": [
+            "Managing response to significant disruptive events",
+            "Ignoring crises",
+            "No management",
+            "Random response"
+        ]
+    },
+    {
+        "q": "Crisis communication is critical during major ______.",
+        "type": "fill_blank",
+        "answers": [
+            "incidents"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "gains"
+        ]
+    },
+    {
+        "q": "Preparation improves crisis response.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is risk governance?",
+        "type": "mcq",
+        "o": [
+            "Framework for managing risks at organizational level",
+            "No governance",
+            "Random approach",
+            "Single person"
+        ]
+    },
+    {
+        "q": "Board responsibility for risk oversight is a governance ______.",
+        "type": "fill_blank",
+        "answers": [
+            "requirement"
+        ],
+        "other_options": [
+            "option",
+            "suggestion",
+            "idea"
+        ]
+    },
+    {
+        "q": "Risk governance includes roles, responsibilities, and accountability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is three lines model?",
+        "type": "mcq",
+        "o": [
+            "Model defining roles in risk management and internal control",
+            "Single line",
+            "No model",
+            "Random structure"
+        ]
+    },
+    {
+        "q": "First line is operational management; second is risk and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "compliance"
+        ],
+        "other_options": [
+            "operations",
+            "production",
+            "sales"
+        ]
+    },
+    {
+        "q": "Third line is internal audit providing independent assurance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Emerging risks are new and evolving risks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Climate change is an emerging ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "asset"
+        ]
+    },
+    {
+        "q": "Scenario planning helps prepare for uncertain futures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Risk culture influences how people think about and respond to risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Ethical behavior is essential in risk management.",
+        "type": "true_false",
+        "correct": "True"
+    }
+]

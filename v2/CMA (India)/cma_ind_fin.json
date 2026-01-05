@@ -1,0 +1,6559 @@
+[
+    {
+        "q": "What is financial management?",
+        "type": "mcq",
+        "o": [
+            "Management of financial resources",
+            "Management of employees",
+            "Management of operations",
+            "Management of marketing"
+        ]
+    },
+    {
+        "q": "Financial management involves planning, organizing, and controlling ______.",
+        "type": "fill_blank",
+        "answers": [
+            "finances"
+        ],
+        "other_options": [
+            "employees",
+            "products",
+            "buildings"
+        ]
+    },
+    {
+        "q": "What is the primary goal of financial management?",
+        "type": "mcq",
+        "o": [
+            "Maximize shareholder wealth",
+            "Maximize sales",
+            "Minimize costs",
+            "Maximize employees"
+        ]
+    },
+    {
+        "q": "Shareholder wealth maximization is the primary objective.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is working capital?",
+        "type": "mcq",
+        "o": [
+            "Current assets minus current liabilities",
+            "Fixed assets",
+            "Total assets",
+            "Total liabilities"
+        ]
+    },
+    {
+        "q": "Match the working capital components:",
+        "type": "match",
+        "left": [
+            "Cash",
+            "Receivables",
+            "Inventory",
+            "Payables"
+        ],
+        "right": [
+            "Liquid asset",
+            "Customer credit",
+            "Stock",
+            "Supplier credit"
+        ]
+    },
+    {
+        "q": "What is positive working capital?",
+        "type": "mcq",
+        "o": [
+            "Current assets exceed current liabilities",
+            "Current liabilities exceed current assets",
+            "No difference",
+            "Zero assets"
+        ]
+    },
+    {
+        "q": "Positive working capital indicates good short-term ______.",
+        "type": "fill_blank",
+        "answers": [
+            "liquidity"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is net working capital?",
+        "type": "mcq",
+        "o": [
+            "Current assets minus current liabilities",
+            "Total assets",
+            "Fixed assets",
+            "Total liabilities"
+        ]
+    },
+    {
+        "q": "Net working capital measures liquidity position.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is current ratio?",
+        "type": "mcq",
+        "o": [
+            "Current assets divided by current liabilities",
+            "Total assets divided by liabilities",
+            "Fixed assets ratio",
+            "No ratio"
+        ]
+    },
+    {
+        "q": "Match the liquidity ratios:",
+        "type": "match",
+        "left": [
+            "Current ratio",
+            "Quick ratio",
+            "Cash ratio",
+            "Operating cycle"
+        ],
+        "right": [
+            "CA/CL",
+            "(CA-Inventory)/CL",
+            "Cash/CL",
+            "Days"
+        ]
+    },
+    {
+        "q": "What is quick ratio?",
+        "type": "mcq",
+        "o": [
+            "Current assets minus inventory divided by current liabilities",
+            "Current ratio",
+            "No ratio",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Quick ratio excludes ______ from current assets.",
+        "type": "fill_blank",
+        "answers": [
+            "inventory"
+        ],
+        "other_options": [
+            "cash",
+            "receivables",
+            "payables"
+        ]
+    },
+    {
+        "q": "What is cash ratio?",
+        "type": "mcq",
+        "o": [
+            "Cash and cash equivalents divided by current liabilities",
+            "Quick ratio",
+            "Current ratio",
+            "No ratio"
+        ]
+    },
+    {
+        "q": "Cash ratio is the most conservative liquidity measure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is operating cycle?",
+        "type": "mcq",
+        "o": [
+            "Time from purchase to cash collection",
+            "Single day",
+            "No cycle",
+            "Fixed period"
+        ]
+    },
+    {
+        "q": "Match the cycle components:",
+        "type": "match",
+        "left": [
+            "Inventory period",
+            "Receivables period",
+            "Payables period",
+            "Cash cycle"
+        ],
+        "right": [
+            "Holding days",
+            "Collection days",
+            "Payment days",
+            "Net cycle"
+        ]
+    },
+    {
+        "q": "What is cash conversion cycle?",
+        "type": "mcq",
+        "o": [
+            "Operating cycle minus payables period",
+            "Operating cycle",
+            "No cycle",
+            "Fixed days"
+        ]
+    },
+    {
+        "q": "Shorter cash cycle means faster cash ______.",
+        "type": "fill_blank",
+        "answers": [
+            "recovery"
+        ],
+        "other_options": [
+            "loss",
+            "expense",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is inventory management?",
+        "type": "mcq",
+        "o": [
+            "Managing stock levels efficiently",
+            "No management",
+            "Random storage",
+            "Unlimited stock"
+        ]
+    },
+    {
+        "q": "Inventory management balances holding costs and stockouts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is EOQ?",
+        "type": "mcq",
+        "o": [
+            "Economic Order Quantity",
+            "Extra Order Quantity",
+            "No quantity",
+            "Random order"
+        ]
+    },
+    {
+        "q": "Match the inventory costs:",
+        "type": "match",
+        "left": [
+            "Ordering cost",
+            "Holding cost",
+            "Stockout cost",
+            "Purchase cost"
+        ],
+        "right": [
+            "Per order",
+            "Per unit per year",
+            "Lost sales",
+            "Unit price"
+        ]
+    },
+    {
+        "q": "What is reorder point?",
+        "type": "mcq",
+        "o": [
+            "Inventory level to place new order",
+            "Maximum level",
+            "Zero level",
+            "No level"
+        ]
+    },
+    {
+        "q": "Reorder point considers lead time ______.",
+        "type": "fill_blank",
+        "answers": [
+            "demand"
+        ],
+        "other_options": [
+            "cost",
+            "revenue",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is safety stock?",
+        "type": "mcq",
+        "o": [
+            "Buffer inventory for uncertainties",
+            "Maximum stock",
+            "No stock",
+            "Random stock"
+        ]
+    },
+    {
+        "q": "Safety stock protects against demand fluctuations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is receivables management?",
+        "type": "mcq",
+        "o": [
+            "Managing customer credit and collections",
+            "Managing inventory",
+            "No management",
+            "Random billing"
+        ]
+    },
+    {
+        "q": "Match the credit terms:",
+        "type": "match",
+        "left": [
+            "Credit period",
+            "Discount period",
+            "Cash discount",
+            "Net terms"
+        ],
+        "right": [
+            "Payment days",
+            "Discount days",
+            "Early payment",
+            "Full payment"
+        ]
+    },
+    {
+        "q": "What is credit policy?",
+        "type": "mcq",
+        "o": [
+            "Guidelines for extending credit",
+            "No policy",
+            "Random credit",
+            "Cash only"
+        ]
+    },
+    {
+        "q": "Credit policy balances sales and bad debt ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is accounts receivable turnover?",
+        "type": "mcq",
+        "o": [
+            "Credit sales divided by average receivables",
+            "Total sales",
+            "No turnover",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Higher receivables turnover indicates faster collection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is days sales outstanding?",
+        "type": "mcq",
+        "o": [
+            "Average collection period in days",
+            "No days",
+            "Random period",
+            "Fixed days"
+        ]
+    },
+    {
+        "q": "Match the collection metrics:",
+        "type": "match",
+        "left": [
+            "DSO",
+            "Turnover",
+            "Aging",
+            "Bad debts"
+        ],
+        "right": [
+            "Collection days",
+            "Times",
+            "Age analysis",
+            "Uncollectible"
+        ]
+    },
+    {
+        "q": "What is aging schedule?",
+        "type": "mcq",
+        "o": [
+            "Receivables classified by age",
+            "No schedule",
+            "Random grouping",
+            "Fixed list"
+        ]
+    },
+    {
+        "q": "Aging schedule helps identify overdue ______.",
+        "type": "fill_blank",
+        "answers": [
+            "accounts"
+        ],
+        "other_options": [
+            "products",
+            "inventory",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is cash management?",
+        "type": "mcq",
+        "o": [
+            "Managing cash inflows and outflows",
+            "No management",
+            "Random cash",
+            "Fixed cash"
+        ]
+    },
+    {
+        "q": "Cash management ensures adequate liquidity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is minimum cash balance?",
+        "type": "mcq",
+        "o": [
+            "Lowest cash needed for operations",
+            "Maximum cash",
+            "No balance",
+            "Random amount"
+        ]
+    },
+    {
+        "q": "Match the cash motives:",
+        "type": "match",
+        "left": [
+            "Transaction",
+            "Precautionary",
+            "Speculative",
+            "Compensating"
+        ],
+        "right": [
+            "Operations",
+            "Emergencies",
+            "Opportunities",
+            "Bank requirement"
+        ]
+    },
+    {
+        "q": "What is payables management?",
+        "type": "mcq",
+        "o": [
+            "Managing supplier payments",
+            "Managing receivables",
+            "No management",
+            "Random payments"
+        ]
+    },
+    {
+        "q": "Payables management optimizes cash ______.",
+        "type": "fill_blank",
+        "answers": [
+            "outflows"
+        ],
+        "other_options": [
+            "inflows",
+            "profits",
+            "revenues"
+        ]
+    },
+    {
+        "q": "What is trade credit?",
+        "type": "mcq",
+        "o": [
+            "Credit extended by suppliers",
+            "Bank credit",
+            "No credit",
+            "Customer credit"
+        ]
+    },
+    {
+        "q": "Trade credit is a source of short-term financing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is capital budgeting?",
+        "type": "mcq",
+        "o": [
+            "Planning for long-term investments",
+            "Short-term budgeting",
+            "No planning",
+            "Random investing"
+        ]
+    },
+    {
+        "q": "Match the capital budgeting methods:",
+        "type": "match",
+        "left": [
+            "NPV",
+            "IRR",
+            "Payback",
+            "PI"
+        ],
+        "right": [
+            "Present value",
+            "Rate of return",
+            "Recovery time",
+            "Profitability index"
+        ]
+    },
+    {
+        "q": "What is NPV?",
+        "type": "mcq",
+        "o": [
+            "Net Present Value",
+            "Net Profit Value",
+            "No Present Value",
+            "Random value"
+        ]
+    },
+    {
+        "q": "NPV calculates present value of future cash ______.",
+        "type": "fill_blank",
+        "answers": [
+            "flows"
+        ],
+        "other_options": [
+            "costs",
+            "expenses",
+            "losses"
+        ]
+    },
+    {
+        "q": "What is positive NPV?",
+        "type": "mcq",
+        "o": [
+            "Present value of inflows exceeds outflows",
+            "Negative value",
+            "Zero value",
+            "No value"
+        ]
+    },
+    {
+        "q": "Positive NPV projects should be accepted.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is IRR?",
+        "type": "mcq",
+        "o": [
+            "Internal Rate of Return",
+            "Interest Rate Return",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Match the IRR concepts:",
+        "type": "match",
+        "left": [
+            "IRR definition",
+            "Decision rule",
+            "NPV at IRR",
+            "Multiple IRR"
+        ],
+        "right": [
+            "Discount rate for zero NPV",
+            "Accept if > cost",
+            "Zero",
+            "Non-conventional flows"
+        ]
+    },
+    {
+        "q": "What is payback period?",
+        "type": "mcq",
+        "o": [
+            "Time to recover initial investment",
+            "Project life",
+            "No period",
+            "Random time"
+        ]
+    },
+    {
+        "q": "Payback period ignores time value of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "money"
+        ],
+        "other_options": [
+            "cost",
+            "revenue",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is discounted payback?",
+        "type": "mcq",
+        "o": [
+            "Payback using discounted cash flows",
+            "Simple payback",
+            "No payback",
+            "Random period"
+        ]
+    },
+    {
+        "q": "Discounted payback considers time value of money.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is profitability index?",
+        "type": "mcq",
+        "o": [
+            "Present value of inflows divided by initial investment",
+            "NPV",
+            "No index",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Match the PI interpretation:",
+        "type": "match",
+        "left": [
+            "PI > 1",
+            "PI = 1",
+            "PI < 1",
+            "Ranking"
+        ],
+        "right": [
+            "Accept",
+            "Indifferent",
+            "Reject",
+            "Capital rationing"
+        ]
+    },
+    {
+        "q": "What is cost of capital?",
+        "type": "mcq",
+        "o": [
+            "Required return on investment",
+            "No cost",
+            "Random rate",
+            "Fixed rate"
+        ]
+    },
+    {
+        "q": "Cost of capital is the discount rate for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "projects"
+        ],
+        "other_options": [
+            "cash",
+            "inventory",
+            "receivables"
+        ]
+    },
+    {
+        "q": "What is WACC?",
+        "type": "mcq",
+        "o": [
+            "Weighted Average Cost of Capital",
+            "Working Average Cost of Capital",
+            "No cost",
+            "Random average"
+        ]
+    },
+    {
+        "q": "WACC considers debt and equity weights.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost of debt?",
+        "type": "mcq",
+        "o": [
+            "Interest rate on borrowed funds",
+            "Equity cost",
+            "No cost",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Match the capital costs:",
+        "type": "match",
+        "left": [
+            "Cost of debt",
+            "Cost of equity",
+            "Cost of preferred",
+            "WACC"
+        ],
+        "right": [
+            "Interest rate",
+            "Required return",
+            "Dividend rate",
+            "Weighted average"
+        ]
+    },
+    {
+        "q": "What is cost of equity?",
+        "type": "mcq",
+        "o": [
+            "Return required by shareholders",
+            "Interest rate",
+            "No cost",
+            "Random return"
+        ]
+    },
+    {
+        "q": "Cost of equity is higher than cost of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "debt"
+        ],
+        "other_options": [
+            "revenue",
+            "profit",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is financial market?",
+        "type": "mcq",
+        "o": [
+            "Market for trading financial instruments",
+            "Goods market",
+            "No market",
+            "Random trading"
+        ]
+    },
+    {
+        "q": "Financial markets channel funds from savers to borrowers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is money market?",
+        "type": "mcq",
+        "o": [
+            "Market for short-term instruments",
+            "Capital market",
+            "No market",
+            "Random market"
+        ]
+    },
+    {
+        "q": "Match the market types:",
+        "type": "match",
+        "left": [
+            "Money market",
+            "Capital market",
+            "Primary market",
+            "Secondary market"
+        ],
+        "right": [
+            "Short-term",
+            "Long-term",
+            "New issues",
+            "Existing securities"
+        ]
+    },
+    {
+        "q": "What is capital market?",
+        "type": "mcq",
+        "o": [
+            "Market for long-term instruments",
+            "Money market",
+            "No market",
+            "Random market"
+        ]
+    },
+    {
+        "q": "Capital market trades stocks and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "bonds"
+        ],
+        "other_options": [
+            "cash",
+            "inventory",
+            "receivables"
+        ]
+    },
+    {
+        "q": "What is primary market?",
+        "type": "mcq",
+        "o": [
+            "Market for new securities issuance",
+            "Secondary market",
+            "No market",
+            "Random market"
+        ]
+    },
+    {
+        "q": "Primary market involves IPOs and new issues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is secondary market?",
+        "type": "mcq",
+        "o": [
+            "Market for trading existing securities",
+            "Primary market",
+            "No market",
+            "Random trading"
+        ]
+    },
+    {
+        "q": "Match the trading venues:",
+        "type": "match",
+        "left": [
+            "Stock exchange",
+            "OTC",
+            "Bond market",
+            "Derivatives"
+        ],
+        "right": [
+            "Equity trading",
+            "Over-the-counter",
+            "Fixed income",
+            "Futures/options"
+        ]
+    },
+    {
+        "q": "What is IPO?",
+        "type": "mcq",
+        "o": [
+            "Initial Public Offering",
+            "Internal Public Offering",
+            "No offering",
+            "Random public"
+        ]
+    },
+    {
+        "q": "IPO is a company's first sale of stock to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "public"
+        ],
+        "other_options": [
+            "private",
+            "single",
+            "few"
+        ]
+    },
+    {
+        "q": "What is FPO?",
+        "type": "mcq",
+        "o": [
+            "Follow-on Public Offering",
+            "First Public Offering",
+            "No offering",
+            "Random offering"
+        ]
+    },
+    {
+        "q": "FPO is a subsequent offering after IPO.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is dividend?",
+        "type": "mcq",
+        "o": [
+            "Distribution of profit to shareholders",
+            "Interest payment",
+            "No distribution",
+            "Random payment"
+        ]
+    },
+    {
+        "q": "Match the dividend types:",
+        "type": "match",
+        "left": [
+            "Cash dividend",
+            "Stock dividend",
+            "Interim dividend",
+            "Final dividend"
+        ],
+        "right": [
+            "Cash payment",
+            "Share issue",
+            "Before year-end",
+            "Year-end"
+        ]
+    },
+    {
+        "q": "What is dividend policy?",
+        "type": "mcq",
+        "o": [
+            "Decision on dividend payment amount",
+            "No policy",
+            "Random payment",
+            "Fixed amount"
+        ]
+    },
+    {
+        "q": "Dividend policy balances payouts and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "retention"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is dividend payout ratio?",
+        "type": "mcq",
+        "o": [
+            "Dividend divided by earnings",
+            "Retention ratio",
+            "No ratio",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Higher payout ratio means less retained earnings.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is retention ratio?",
+        "type": "mcq",
+        "o": [
+            "Proportion of earnings retained",
+            "Payout ratio",
+            "No ratio",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Match the retention concepts:",
+        "type": "match",
+        "left": [
+            "Retention",
+            "Payout",
+            "Growth",
+            "Dividend"
+        ],
+        "right": [
+            "Reinvestment",
+            "Distribution",
+            "Expansion",
+            "Shareholder return"
+        ]
+    },
+    {
+        "q": "What is corporate restructuring?",
+        "type": "mcq",
+        "o": [
+            "Reorganizing corporate structure",
+            "No change",
+            "Random structure",
+            "Fixed structure"
+        ]
+    },
+    {
+        "q": "Restructuring aims to improve ______.",
+        "type": "fill_blank",
+        "answers": [
+            "efficiency"
+        ],
+        "other_options": [
+            "cost only",
+            "revenue only",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is merger?",
+        "type": "mcq",
+        "o": [
+            "Combination of two companies into one",
+            "Single company",
+            "No combination",
+            "Random joining"
+        ]
+    },
+    {
+        "q": "Mergers can create synergies and economies of scale.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is acquisition?",
+        "type": "mcq",
+        "o": [
+            "One company buying another",
+            "Merger",
+            "No purchase",
+            "Random buying"
+        ]
+    },
+    {
+        "q": "Match the restructuring types:",
+        "type": "match",
+        "left": [
+            "Merger",
+            "Acquisition",
+            "Demerger",
+            "Divestiture"
+        ],
+        "right": [
+            "Combine",
+            "Purchase",
+            "Separate",
+            "Sell off"
+        ]
+    },
+    {
+        "q": "What is horizontal merger?",
+        "type": "mcq",
+        "o": [
+            "Merger between competitors in same industry",
+            "Vertical merger",
+            "Conglomerate",
+            "No merger"
+        ]
+    },
+    {
+        "q": "Horizontal mergers combine ______ competitors.",
+        "type": "fill_blank",
+        "answers": [
+            "direct"
+        ],
+        "other_options": [
+            "indirect",
+            "unrelated",
+            "random"
+        ]
+    },
+    {
+        "q": "What is vertical merger?",
+        "type": "mcq",
+        "o": [
+            "Merger between firms in supply chain",
+            "Horizontal merger",
+            "Conglomerate",
+            "No merger"
+        ]
+    },
+    {
+        "q": "Vertical integration combines supplier and buyer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is conglomerate merger?",
+        "type": "mcq",
+        "o": [
+            "Merger between unrelated businesses",
+            "Horizontal",
+            "Vertical",
+            "No merger"
+        ]
+    },
+    {
+        "q": "Match the merger types:",
+        "type": "match",
+        "left": [
+            "Horizontal",
+            "Vertical",
+            "Conglomerate",
+            "Concentric"
+        ],
+        "right": [
+            "Same industry",
+            "Supply chain",
+            "Unrelated",
+            "Related diversification"
+        ]
+    },
+    {
+        "q": "What is takeover?",
+        "type": "mcq",
+        "o": [
+            "Acquiring control of target company",
+            "No control",
+            "Random purchase",
+            "Fixed joining"
+        ]
+    },
+    {
+        "q": "Takeover can be friendly or ______.",
+        "type": "fill_blank",
+        "answers": [
+            "hostile"
+        ],
+        "other_options": [
+            "neutral",
+            "passive",
+            "random"
+        ]
+    },
+    {
+        "q": "What is hostile takeover?",
+        "type": "mcq",
+        "o": [
+            "Acquisition against management's wishes",
+            "Friendly takeover",
+            "No takeover",
+            "Random purchase"
+        ]
+    },
+    {
+        "q": "Hostile takeovers bypass target management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is LBO?",
+        "type": "mcq",
+        "o": [
+            "Leveraged Buyout",
+            "Large Business Operation",
+            "No buyout",
+            "Random purchase"
+        ]
+    },
+    {
+        "q": "Match the buyout types:",
+        "type": "match",
+        "left": [
+            "LBO",
+            "MBO",
+            "LMBO",
+            "Private equity"
+        ],
+        "right": [
+            "Leveraged",
+            "Management",
+            "Leveraged management",
+            "PE fund"
+        ]
+    },
+    {
+        "q": "What is MBO?",
+        "type": "mcq",
+        "o": [
+            "Management Buyout",
+            "Market Buyout",
+            "No buyout",
+            "Random purchase"
+        ]
+    },
+    {
+        "q": "MBO involves management acquiring the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "company"
+        ],
+        "other_options": [
+            "product",
+            "service",
+            "customer"
+        ]
+    },
+    {
+        "q": "What is synergy?",
+        "type": "mcq",
+        "o": [
+            "Value creation from combination",
+            "No value",
+            "Random benefit",
+            "Fixed gain"
+        ]
+    },
+    {
+        "q": "Synergy means combined value exceeds sum of parts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is operating synergy?",
+        "type": "mcq",
+        "o": [
+            "Efficiency gains from combination",
+            "Financial synergy",
+            "No synergy",
+            "Random benefit"
+        ]
+    },
+    {
+        "q": "Match the synergy types:",
+        "type": "match",
+        "left": [
+            "Operating",
+            "Financial",
+            "Revenue",
+            "Cost"
+        ],
+        "right": [
+            "Efficiency",
+            "Funding advantage",
+            "Sales increase",
+            "Expense reduction"
+        ]
+    },
+    {
+        "q": "What is financial synergy?",
+        "type": "mcq",
+        "o": [
+            "Lower cost of capital from combination",
+            "Operating synergy",
+            "No synergy",
+            "Random benefit"
+        ]
+    },
+    {
+        "q": "Financial synergy reduces borrowing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "revenues",
+            "profits",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is due diligence?",
+        "type": "mcq",
+        "o": [
+            "Investigation before acquisition",
+            "No investigation",
+            "Random review",
+            "Fixed analysis"
+        ]
+    },
+    {
+        "q": "Due diligence assesses target company value and risks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is valuation?",
+        "type": "mcq",
+        "o": [
+            "Determining company worth",
+            "No value",
+            "Random price",
+            "Fixed amount"
+        ]
+    },
+    {
+        "q": "Match the valuation methods:",
+        "type": "match",
+        "left": [
+            "DCF",
+            "Comparable",
+            "Asset-based",
+            "EVA"
+        ],
+        "right": [
+            "Cash flows",
+            "Market multiples",
+            "Book value",
+            "Economic profit"
+        ]
+    },
+    {
+        "q": "What is DCF valuation?",
+        "type": "mcq",
+        "o": [
+            "Discounted Cash Flow analysis",
+            "No valuation",
+            "Random method",
+            "Fixed value"
+        ]
+    },
+    {
+        "q": "DCF calculates present value of future cash ______.",
+        "type": "fill_blank",
+        "answers": [
+            "flows"
+        ],
+        "other_options": [
+            "costs",
+            "expenses",
+            "losses"
+        ]
+    },
+    {
+        "q": "What is terminal value?",
+        "type": "mcq",
+        "o": [
+            "Value beyond forecast period",
+            "Starting value",
+            "No value",
+            "Random amount"
+        ]
+    },
+    {
+        "q": "Terminal value represents continuing value after forecast.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is comparable company analysis?",
+        "type": "mcq",
+        "o": [
+            "Valuation using peer multiples",
+            "No comparison",
+            "Random values",
+            "Fixed ratios"
+        ]
+    },
+    {
+        "q": "Match the valuation multiples:",
+        "type": "match",
+        "left": [
+            "P/E",
+            "EV/EBITDA",
+            "P/B",
+            "P/S"
+        ],
+        "right": [
+            "Price to earnings",
+            "Enterprise value",
+            "Price to book",
+            "Price to sales"
+        ]
+    },
+    {
+        "q": "What is P/E ratio?",
+        "type": "mcq",
+        "o": [
+            "Price to Earnings ratio",
+            "Profit ratio",
+            "No ratio",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "P/E ratio shows market price per ______ of earnings.",
+        "type": "fill_blank",
+        "answers": [
+            "rupee"
+        ],
+        "other_options": [
+            "unit",
+            "share",
+            "item"
+        ]
+    },
+    {
+        "q": "What is EV?",
+        "type": "mcq",
+        "o": [
+            "Enterprise Value",
+            "Equity Value",
+            "No value",
+            "Random value"
+        ]
+    },
+    {
+        "q": "EV equals market cap plus debt minus cash.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is book value?",
+        "type": "mcq",
+        "o": [
+            "Assets minus liabilities",
+            "Market value",
+            "No value",
+            "Random amount"
+        ]
+    },
+    {
+        "q": "Match the value concepts:",
+        "type": "match",
+        "left": [
+            "Book value",
+            "Market value",
+            "Fair value",
+            "Intrinsic value"
+        ],
+        "right": [
+            "Accounting",
+            "Trading price",
+            "Arm's length",
+            "True worth"
+        ]
+    },
+    {
+        "q": "What is CAPM?",
+        "type": "mcq",
+        "o": [
+            "Capital Asset Pricing Model",
+            "Cost Analysis Pricing Model",
+            "No model",
+            "Random model"
+        ]
+    },
+    {
+        "q": "CAPM calculates cost of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "equity"
+        ],
+        "other_options": [
+            "debt",
+            "liability",
+            "asset"
+        ]
+    },
+    {
+        "q": "What is beta?",
+        "type": "mcq",
+        "o": [
+            "Measure of systematic risk",
+            "Unsystematic risk",
+            "No risk",
+            "Random measure"
+        ]
+    },
+    {
+        "q": "Beta of 1 indicates market-average risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is risk-free rate?",
+        "type": "mcq",
+        "o": [
+            "Return on risk-free investment",
+            "Risky return",
+            "No return",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Match the CAPM components:",
+        "type": "match",
+        "left": [
+            "Risk-free rate",
+            "Beta",
+            "Market premium",
+            "Expected return"
+        ],
+        "right": [
+            "Government bond",
+            "Systematic risk",
+            "Market minus risk-free",
+            "Required return"
+        ]
+    },
+    {
+        "q": "What is market risk premium?",
+        "type": "mcq",
+        "o": [
+            "Market return minus risk-free rate",
+            "Risk-free rate",
+            "No premium",
+            "Random premium"
+        ]
+    },
+    {
+        "q": "Market premium compensates for market ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "return",
+            "profit",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is systematic risk?",
+        "type": "mcq",
+        "o": [
+            "Market-wide risk affecting all securities",
+            "Specific risk",
+            "No risk",
+            "Random risk"
+        ]
+    },
+    {
+        "q": "Systematic risk cannot be diversified away.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is unsystematic risk?",
+        "type": "mcq",
+        "o": [
+            "Company-specific risk",
+            "Market risk",
+            "No risk",
+            "Random risk"
+        ]
+    },
+    {
+        "q": "Match the risk types:",
+        "type": "match",
+        "left": [
+            "Systematic",
+            "Unsystematic",
+            "Total",
+            "Diversifiable"
+        ],
+        "right": [
+            "Market",
+            "Specific",
+            "Combined",
+            "Can be reduced"
+        ]
+    },
+    {
+        "q": "What is diversification?",
+        "type": "mcq",
+        "o": [
+            "Reducing risk through varied investments",
+            "Concentration",
+            "No risk reduction",
+            "Random investing"
+        ]
+    },
+    {
+        "q": "Diversification reduces unsystematic ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "return",
+            "profit",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is portfolio?",
+        "type": "mcq",
+        "o": [
+            "Collection of investments",
+            "Single investment",
+            "No investment",
+            "Random selection"
+        ]
+    },
+    {
+        "q": "Portfolio diversification reduces overall risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is efficient frontier?",
+        "type": "mcq",
+        "o": [
+            "Optimal portfolios for given risk levels",
+            "Single portfolio",
+            "No frontier",
+            "Random portfolios"
+        ]
+    },
+    {
+        "q": "Match the portfolio concepts:",
+        "type": "match",
+        "left": [
+            "Efficient frontier",
+            "Optimal portfolio",
+            "Risk-return",
+            "Correlation"
+        ],
+        "right": [
+            "Best combinations",
+            "Maximum sharpe",
+            "Trade-off",
+            "Asset relationship"
+        ]
+    },
+    {
+        "q": "What is Sharpe ratio?",
+        "type": "mcq",
+        "o": [
+            "Risk-adjusted return measure",
+            "Simple return",
+            "No ratio",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Sharpe ratio equals excess return divided by standard ______.",
+        "type": "fill_blank",
+        "answers": [
+            "deviation"
+        ],
+        "other_options": [
+            "return",
+            "profit",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is treasury bill?",
+        "type": "mcq",
+        "o": [
+            "Short-term government security",
+            "Long-term bond",
+            "No security",
+            "Random instrument"
+        ]
+    },
+    {
+        "q": "Treasury bills are sold at discount and mature at par.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is commercial paper?",
+        "type": "mcq",
+        "o": [
+            "Short-term unsecured corporate debt",
+            "Government security",
+            "No paper",
+            "Random instrument"
+        ]
+    },
+    {
+        "q": "Match the money market instruments:",
+        "type": "match",
+        "left": [
+            "T-bills",
+            "Commercial paper",
+            "Certificate of deposit",
+            "Repo"
+        ],
+        "right": [
+            "Government",
+            "Corporate",
+            "Bank",
+            "Secured lending"
+        ]
+    },
+    {
+        "q": "What is certificate of deposit?",
+        "type": "mcq",
+        "o": [
+            "Bank-issued time deposit",
+            "Government security",
+            "No deposit",
+            "Random instrument"
+        ]
+    },
+    {
+        "q": "CDs have fixed maturity and interest ______.",
+        "type": "fill_blank",
+        "answers": [
+            "rate"
+        ],
+        "other_options": [
+            "variable",
+            "zero",
+            "negative"
+        ]
+    },
+    {
+        "q": "What is repo?",
+        "type": "mcq",
+        "o": [
+            "Repurchase agreement",
+            "No agreement",
+            "Random contract",
+            "Fixed deal"
+        ]
+    },
+    {
+        "q": "Repo involves selling securities with agreement to repurchase.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is call money?",
+        "type": "mcq",
+        "o": [
+            "Overnight interbank lending",
+            "Long-term borrowing",
+            "No lending",
+            "Random loan"
+        ]
+    },
+    {
+        "q": "Match the interbank rates:",
+        "type": "match",
+        "left": [
+            "Call rate",
+            "MIBOR",
+            "LIBOR",
+            "Repo rate"
+        ],
+        "right": [
+            "Overnight",
+            "Mumbai",
+            "London",
+            "RBI rate"
+        ]
+    },
+    {
+        "q": "What is MIBOR?",
+        "type": "mcq",
+        "o": [
+            "Mumbai Interbank Offer Rate",
+            "Market rate",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "MIBOR is benchmark for interbank ______.",
+        "type": "fill_blank",
+        "answers": [
+            "lending"
+        ],
+        "other_options": [
+            "borrowing",
+            "investing",
+            "saving"
+        ]
+    },
+    {
+        "q": "What is debenture?",
+        "type": "mcq",
+        "o": [
+            "Corporate debt instrument",
+            "Equity share",
+            "No instrument",
+            "Random security"
+        ]
+    },
+    {
+        "q": "Debentures may be secured or unsecured.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is bond?",
+        "type": "mcq",
+        "o": [
+            "Fixed income security with periodic interest",
+            "Equity share",
+            "No security",
+            "Random instrument"
+        ]
+    },
+    {
+        "q": "Match the bond types:",
+        "type": "match",
+        "left": [
+            "Government bond",
+            "Corporate bond",
+            "Municipal bond",
+            "Zero coupon"
+        ],
+        "right": [
+            "Sovereign",
+            "Company",
+            "Local authority",
+            "No periodic interest"
+        ]
+    },
+    {
+        "q": "What is coupon rate?",
+        "type": "mcq",
+        "o": [
+            "Annual interest rate on bond",
+            "Market rate",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Coupon rate determines periodic interest ______.",
+        "type": "fill_blank",
+        "answers": [
+            "payments"
+        ],
+        "other_options": [
+            "receipts",
+            "investments",
+            "savings"
+        ]
+    },
+    {
+        "q": "What is YTM?",
+        "type": "mcq",
+        "o": [
+            "Yield to Maturity",
+            "Year to Maturity",
+            "No yield",
+            "Random yield"
+        ]
+    },
+    {
+        "q": "YTM is the total return if bond is held to maturity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is current yield?",
+        "type": "mcq",
+        "o": [
+            "Annual coupon divided by market price",
+            "YTM",
+            "No yield",
+            "Random yield"
+        ]
+    },
+    {
+        "q": "Match the yield concepts:",
+        "type": "match",
+        "left": [
+            "Coupon yield",
+            "Current yield",
+            "YTM",
+            "Duration"
+        ],
+        "right": [
+            "Stated rate",
+            "Annual/Price",
+            "Total return",
+            "Interest sensitivity"
+        ]
+    },
+    {
+        "q": "What is duration?",
+        "type": "mcq",
+        "o": [
+            "Measure of bond price sensitivity to interest rates",
+            "Maturity period",
+            "No measure",
+            "Random period"
+        ]
+    },
+    {
+        "q": "Higher duration means greater interest rate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "sensitivity"
+        ],
+        "other_options": [
+            "stability",
+            "certainty",
+            "security"
+        ]
+    },
+    {
+        "q": "What is convexity?",
+        "type": "mcq",
+        "o": [
+            "Curvature in price-yield relationship",
+            "Straight line",
+            "No curve",
+            "Random shape"
+        ]
+    },
+    {
+        "q": "Convexity improves duration estimate for large rate changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is equity share?",
+        "type": "mcq",
+        "o": [
+            "Ownership stake in company",
+            "Debt instrument",
+            "No ownership",
+            "Random security"
+        ]
+    },
+    {
+        "q": "Match the equity features:",
+        "type": "match",
+        "left": [
+            "Voting rights",
+            "Dividend",
+            "Capital appreciation",
+            "Residual claim"
+        ],
+        "right": [
+            "Shareholder say",
+            "Profit share",
+            "Price increase",
+            "After debt"
+        ]
+    },
+    {
+        "q": "What is preference share?",
+        "type": "mcq",
+        "o": [
+            "Fixed dividend priority share",
+            "Equity share",
+            "No share",
+            "Random security"
+        ]
+    },
+    {
+        "q": "Preference shares have priority over equity for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "dividends"
+        ],
+        "other_options": [
+            "voting",
+            "management",
+            "control"
+        ]
+    },
+    {
+        "q": "What is convertible preference?",
+        "type": "mcq",
+        "o": [
+            "Preference convertible to equity",
+            "Non-convertible",
+            "No conversion",
+            "Random type"
+        ]
+    },
+    {
+        "q": "Convertible preference offers conversion option.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is derivative?",
+        "type": "mcq",
+        "o": [
+            "Contract deriving value from underlying asset",
+            "Direct investment",
+            "No contract",
+            "Random instrument"
+        ]
+    },
+    {
+        "q": "Match the derivative types:",
+        "type": "match",
+        "left": [
+            "Future",
+            "Option",
+            "Forward",
+            "Swap"
+        ],
+        "right": [
+            "Exchange traded",
+            "Right not obligation",
+            "OTC contract",
+            "Exchange payments"
+        ]
+    },
+    {
+        "q": "What is future contract?",
+        "type": "mcq",
+        "o": [
+            "Standardized contract to buy/sell at future date",
+            "Spot transaction",
+            "No contract",
+            "Random deal"
+        ]
+    },
+    {
+        "q": "Futures are traded on organized ______.",
+        "type": "fill_blank",
+        "answers": [
+            "exchanges"
+        ],
+        "other_options": [
+            "banks",
+            "companies",
+            "individuals"
+        ]
+    },
+    {
+        "q": "What is option?",
+        "type": "mcq",
+        "o": [
+            "Right but not obligation to buy/sell",
+            "Obligation",
+            "No right",
+            "Random contract"
+        ]
+    },
+    {
+        "q": "Option buyers pay premium for the right.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is call option?",
+        "type": "mcq",
+        "o": [
+            "Right to buy underlying asset",
+            "Right to sell",
+            "No right",
+            "Random option"
+        ]
+    },
+    {
+        "q": "Match the option types:",
+        "type": "match",
+        "left": [
+            "Call",
+            "Put",
+            "American",
+            "European"
+        ],
+        "right": [
+            "Right to buy",
+            "Right to sell",
+            "Anytime exercise",
+            "Expiry exercise"
+        ]
+    },
+    {
+        "q": "What is put option?",
+        "type": "mcq",
+        "o": [
+            "Right to sell underlying asset",
+            "Right to buy",
+            "No right",
+            "Random option"
+        ]
+    },
+    {
+        "q": "Put option profits when asset price ______.",
+        "type": "fill_blank",
+        "answers": [
+            "falls"
+        ],
+        "other_options": [
+            "rises",
+            "stays",
+            "fluctuates"
+        ]
+    },
+    {
+        "q": "What is strike price?",
+        "type": "mcq",
+        "o": [
+            "Exercise price of option",
+            "Market price",
+            "No price",
+            "Random price"
+        ]
+    },
+    {
+        "q": "Strike price is the predetermined exercise price.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is option premium?",
+        "type": "mcq",
+        "o": [
+            "Price paid for option contract",
+            "Strike price",
+            "No premium",
+            "Random price"
+        ]
+    },
+    {
+        "q": "Match the option values:",
+        "type": "match",
+        "left": [
+            "Intrinsic value",
+            "Time value",
+            "Premium",
+            "Expiry"
+        ],
+        "right": [
+            "In-the-money",
+            "Remaining life",
+            "Total price",
+            "Deadline"
+        ]
+    },
+    {
+        "q": "What is in-the-money option?",
+        "type": "mcq",
+        "o": [
+            "Option with intrinsic value",
+            "Out-of-the-money",
+            "No value",
+            "Random state"
+        ]
+    },
+    {
+        "q": "In-the-money call has strike below market ______.",
+        "type": "fill_blank",
+        "answers": [
+            "price"
+        ],
+        "other_options": [
+            "value",
+            "cost",
+            "expense"
+        ]
+    },
+    {
+        "q": "What is swap?",
+        "type": "mcq",
+        "o": [
+            "Contract to exchange cash flows",
+            "No exchange",
+            "Random contract",
+            "Fixed deal"
+        ]
+    },
+    {
+        "q": "Interest rate swaps exchange fixed for floating payments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is currency swap?",
+        "type": "mcq",
+        "o": [
+            "Exchange of different currency cash flows",
+            "Interest rate swap",
+            "No swap",
+            "Random exchange"
+        ]
+    },
+    {
+        "q": "Match the swap types:",
+        "type": "match",
+        "left": [
+            "Interest rate",
+            "Currency",
+            "Commodity",
+            "Equity"
+        ],
+        "right": [
+            "Fixed-floating",
+            "Different currencies",
+            "Raw materials",
+            "Stock returns"
+        ]
+    },
+    {
+        "q": "What is hedging?",
+        "type": "mcq",
+        "o": [
+            "Reducing risk through offsetting positions",
+            "Speculating",
+            "No risk reduction",
+            "Random trading"
+        ]
+    },
+    {
+        "q": "Hedging protects against adverse price ______.",
+        "type": "fill_blank",
+        "answers": [
+            "movements"
+        ],
+        "other_options": [
+            "increases",
+            "stable",
+            "certain"
+        ]
+    },
+    {
+        "q": "What is speculation?",
+        "type": "mcq",
+        "o": [
+            "Taking positions for profit from price changes",
+            "Hedging",
+            "No position",
+            "Random trading"
+        ]
+    },
+    {
+        "q": "Speculators accept risk for potential profit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is arbitrage?",
+        "type": "mcq",
+        "o": [
+            "Profiting from price differences in same asset",
+            "Speculation",
+            "Hedging",
+            "Random trading"
+        ]
+    },
+    {
+        "q": "Match the trading motives:",
+        "type": "match",
+        "left": [
+            "Hedging",
+            "Speculation",
+            "Arbitrage",
+            "Market making"
+        ],
+        "right": [
+            "Risk reduction",
+            "Profit seeking",
+            "Price differences",
+            "Liquidity provision"
+        ]
+    },
+    {
+        "q": "What is foreign exchange market?",
+        "type": "mcq",
+        "o": [
+            "Market for currency trading",
+            "Stock market",
+            "Bond market",
+            "No market"
+        ]
+    },
+    {
+        "q": "Forex market operates 24 hours ______.",
+        "type": "fill_blank",
+        "answers": [
+            "globally"
+        ],
+        "other_options": [
+            "locally",
+            "regionally",
+            "nationally"
+        ]
+    },
+    {
+        "q": "What is exchange rate?",
+        "type": "mcq",
+        "o": [
+            "Price of one currency in another",
+            "Interest rate",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Exchange rate fluctuates based on supply and demand.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is spot rate?",
+        "type": "mcq",
+        "o": [
+            "Current exchange rate for immediate delivery",
+            "Forward rate",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Match the forex rates:",
+        "type": "match",
+        "left": [
+            "Spot",
+            "Forward",
+            "Bid",
+            "Ask"
+        ],
+        "right": [
+            "Immediate",
+            "Future",
+            "Buying",
+            "Selling"
+        ]
+    },
+    {
+        "q": "What is forward rate?",
+        "type": "mcq",
+        "o": [
+            "Exchange rate for future delivery",
+            "Spot rate",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Forward rate locks in future exchange ______.",
+        "type": "fill_blank",
+        "answers": [
+            "rate"
+        ],
+        "other_options": [
+            "spot",
+            "current",
+            "today"
+        ]
+    },
+    {
+        "q": "What is currency appreciation?",
+        "type": "mcq",
+        "o": [
+            "Increase in currency value",
+            "Depreciation",
+            "No change",
+            "Random change"
+        ]
+    },
+    {
+        "q": "Currency appreciation makes imports cheaper.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is currency depreciation?",
+        "type": "mcq",
+        "o": [
+            "Decrease in currency value",
+            "Appreciation",
+            "No change",
+            "Random change"
+        ]
+    },
+    {
+        "q": "Match the currency effects:",
+        "type": "match",
+        "left": [
+            "Appreciation",
+            "Depreciation",
+            "Devaluation",
+            "Revaluation"
+        ],
+        "right": [
+            "Stronger",
+            "Weaker",
+            "Official decrease",
+            "Official increase"
+        ]
+    },
+    {
+        "q": "What is exchange rate risk?",
+        "type": "mcq",
+        "o": [
+            "Risk from currency fluctuations",
+            "Interest rate risk",
+            "No risk",
+            "Random risk"
+        ]
+    },
+    {
+        "q": "Exchange rate risk affects international ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transactions"
+        ],
+        "other_options": [
+            "local",
+            "domestic",
+            "internal"
+        ]
+    },
+    {
+        "q": "What is transaction exposure?",
+        "type": "mcq",
+        "o": [
+            "Risk from outstanding foreign currency obligations",
+            "Translation exposure",
+            "No exposure",
+            "Random exposure"
+        ]
+    },
+    {
+        "q": "Transaction exposure affects cash flows.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is translation exposure?",
+        "type": "mcq",
+        "o": [
+            "Risk from consolidating foreign subsidiary",
+            "Transaction exposure",
+            "No exposure",
+            "Random exposure"
+        ]
+    },
+    {
+        "q": "Match the forex exposures:",
+        "type": "match",
+        "left": [
+            "Transaction",
+            "Translation",
+            "Economic",
+            "Operating"
+        ],
+        "right": [
+            "Contractual",
+            "Accounting",
+            "Competitive position",
+            "Long-term"
+        ]
+    },
+    {
+        "q": "What is economic exposure?",
+        "type": "mcq",
+        "o": [
+            "Impact on competitive position from currency changes",
+            "Transaction",
+            "Translation",
+            "No exposure"
+        ]
+    },
+    {
+        "q": "Economic exposure affects long-term ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is dividend irrelevance theory?",
+        "type": "mcq",
+        "o": [
+            "MM theory that dividends don't affect value",
+            "Dividend relevance",
+            "No theory",
+            "Random theory"
+        ]
+    },
+    {
+        "q": "MM theory assumes perfect capital markets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is dividend relevance?",
+        "type": "mcq",
+        "o": [
+            "Theory that dividends affect share value",
+            "Irrelevance",
+            "No effect",
+            "Random impact"
+        ]
+    },
+    {
+        "q": "Match the dividend theories:",
+        "type": "match",
+        "left": [
+            "MM irrelevance",
+            "Bird in hand",
+            "Tax preference",
+            "Signaling"
+        ],
+        "right": [
+            "No effect",
+            "Current dividends preferred",
+            "Capital gains preferred",
+            "Information content"
+        ]
+    },
+    {
+        "q": "What is bird in hand theory?",
+        "type": "mcq",
+        "o": [
+            "Investors prefer current dividends over future gains",
+            "Irrelevance",
+            "No preference",
+            "Random choice"
+        ]
+    },
+    {
+        "q": "Bird in hand suggests dividends are less ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risky"
+        ],
+        "other_options": [
+            "valuable",
+            "important",
+            "relevant"
+        ]
+    },
+    {
+        "q": "What is tax preference theory?",
+        "type": "mcq",
+        "o": [
+            "Investors prefer capital gains due to tax",
+            "Bird in hand",
+            "No preference",
+            "Random choice"
+        ]
+    },
+    {
+        "q": "Tax preference favors lower dividend payouts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is signaling theory?",
+        "type": "mcq",
+        "o": [
+            "Dividends convey information about future",
+            "No signal",
+            "Random message",
+            "Fixed information"
+        ]
+    },
+    {
+        "q": "Match the dividend signals:",
+        "type": "match",
+        "left": [
+            "Dividend increase",
+            "Dividend cut",
+            "Stable dividend",
+            "Special dividend"
+        ],
+        "right": [
+            "Positive outlook",
+            "Financial trouble",
+            "Consistency",
+            "One-time event"
+        ]
+    },
+    {
+        "q": "What is clientele effect?",
+        "type": "mcq",
+        "o": [
+            "Investors attracted to specific dividend policies",
+            "No effect",
+            "Random attraction",
+            "Fixed preference"
+        ]
+    },
+    {
+        "q": "Clientele effect segments investors by dividend ______.",
+        "type": "fill_blank",
+        "answers": [
+            "preference"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is stable dividend policy?",
+        "type": "mcq",
+        "o": [
+            "Consistent dividend payments over time",
+            "Fluctuating",
+            "No policy",
+            "Random payments"
+        ]
+    },
+    {
+        "q": "Stable dividend policy reduces investor uncertainty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is residual dividend policy?",
+        "type": "mcq",
+        "o": [
+            "Dividends from earnings after investment needs",
+            "Stable policy",
+            "No policy",
+            "Random policy"
+        ]
+    },
+    {
+        "q": "Match the dividend policies:",
+        "type": "match",
+        "left": [
+            "Stable",
+            "Residual",
+            "Constant payout",
+            "Low regular plus extra"
+        ],
+        "right": [
+            "Consistent amount",
+            "After investments",
+            "Fixed percentage",
+            "Base plus bonus"
+        ]
+    },
+    {
+        "q": "What is stock split?",
+        "type": "mcq",
+        "o": [
+            "Dividing shares into more shares",
+            "Reverse split",
+            "No change",
+            "Random split"
+        ]
+    },
+    {
+        "q": "Stock split reduces price per share but not total ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is reverse stock split?",
+        "type": "mcq",
+        "o": [
+            "Combining shares into fewer shares",
+            "Stock split",
+            "No change",
+            "Random combination"
+        ]
+    },
+    {
+        "q": "Reverse split increases price per share.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is buyback?",
+        "type": "mcq",
+        "o": [
+            "Company repurchasing its own shares",
+            "Issuing shares",
+            "No purchase",
+            "Random buying"
+        ]
+    },
+    {
+        "q": "Match the buyback effects:",
+        "type": "match",
+        "left": [
+            "EPS increase",
+            "Cash reduction",
+            "Share reduction",
+            "Signal"
+        ],
+        "right": [
+            "Earnings per share",
+            "Less cash",
+            "Fewer shares",
+            "Undervaluation"
+        ]
+    },
+    {
+        "q": "What is rights issue?",
+        "type": "mcq",
+        "o": [
+            "Offering new shares to existing shareholders",
+            "IPO",
+            "No offering",
+            "Random issue"
+        ]
+    },
+    {
+        "q": "Rights issue gives shareholders pre-emptive ______.",
+        "type": "fill_blank",
+        "answers": [
+            "rights"
+        ],
+        "other_options": [
+            "costs",
+            "expenses",
+            "losses"
+        ]
+    },
+    {
+        "q": "What is bonus issue?",
+        "type": "mcq",
+        "o": [
+            "Free shares to existing shareholders",
+            "Rights issue",
+            "No issue",
+            "Random distribution"
+        ]
+    },
+    {
+        "q": "Bonus issue capitalizes reserves into share capital.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is spin-off?",
+        "type": "mcq",
+        "o": [
+            "Creating independent company from division",
+            "Merger",
+            "No separation",
+            "Random split"
+        ]
+    },
+    {
+        "q": "Match the restructuring actions:",
+        "type": "match",
+        "left": [
+            "Spin-off",
+            "Carve-out",
+            "Split-off",
+            "Liquidation"
+        ],
+        "right": [
+            "Pro-rata distribution",
+            "Partial IPO",
+            "Exchange shares",
+            "Wind up"
+        ]
+    },
+    {
+        "q": "What is carve-out?",
+        "type": "mcq",
+        "o": [
+            "IPO of subsidiary while parent retains stake",
+            "Spin-off",
+            "No sale",
+            "Random separation"
+        ]
+    },
+    {
+        "q": "Carve-out allows subsidiary to trade ______.",
+        "type": "fill_blank",
+        "answers": [
+            "publicly"
+        ],
+        "other_options": [
+            "privately",
+            "internally",
+            "secretly"
+        ]
+    },
+    {
+        "q": "What is liquidation?",
+        "type": "mcq",
+        "o": [
+            "Winding up company and selling assets",
+            "Merger",
+            "No closure",
+            "Random sale"
+        ]
+    },
+    {
+        "q": "Liquidation distributes proceeds to creditors and shareholders.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is financial leverage?",
+        "type": "mcq",
+        "o": [
+            "Use of debt to increase returns",
+            "No debt",
+            "Random financing",
+            "Fixed structure"
+        ]
+    },
+    {
+        "q": "Match the leverage effects:",
+        "type": "match",
+        "left": [
+            "Positive leverage",
+            "Negative leverage",
+            "Financial risk",
+            "DFL"
+        ],
+        "right": [
+            "ROE > ROA",
+            "ROE < ROA",
+            "Increased risk",
+            "Degree of"
+        ]
+    },
+    {
+        "q": "What is capital structure?",
+        "type": "mcq",
+        "o": [
+            "Mix of debt and equity financing",
+            "Assets only",
+            "No structure",
+            "Random mix"
+        ]
+    },
+    {
+        "q": "Capital structure affects cost of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capital"
+        ],
+        "other_options": [
+            "sales",
+            "revenue",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is optimal capital structure?",
+        "type": "mcq",
+        "o": [
+            "Mix that minimizes WACC",
+            "Maximum debt",
+            "No debt",
+            "Random mix"
+        ]
+    },
+    {
+        "q": "Optimal capital structure maximizes firm value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is debt-equity ratio?",
+        "type": "mcq",
+        "o": [
+            "Total debt divided by total equity",
+            "Equity ratio",
+            "No ratio",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Match the leverage ratios:",
+        "type": "match",
+        "left": [
+            "Debt-equity",
+            "Debt ratio",
+            "Interest coverage",
+            "DSCR"
+        ],
+        "right": [
+            "D/E",
+            "D/Assets",
+            "EBIT/Interest",
+            "Debt service"
+        ]
+    },
+    {
+        "q": "What is interest coverage ratio?",
+        "type": "mcq",
+        "o": [
+            "EBIT divided by interest expense",
+            "Debt ratio",
+            "No ratio",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Interest coverage measures ability to pay ______.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "principal",
+            "dividend",
+            "salary"
+        ]
+    },
+    {
+        "q": "What is pecking order theory?",
+        "type": "mcq",
+        "o": [
+            "Preference for internal over external financing",
+            "No preference",
+            "Random choice",
+            "Fixed order"
+        ]
+    },
+    {
+        "q": "Pecking order suggests internal funds first, then debt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is trade-off theory?",
+        "type": "mcq",
+        "o": [
+            "Balancing tax benefits against financial distress",
+            "No trade-off",
+            "Random balance",
+            "Fixed structure"
+        ]
+    },
+    {
+        "q": "Match the capital structure theories:",
+        "type": "match",
+        "left": [
+            "MM no tax",
+            "MM with tax",
+            "Trade-off",
+            "Pecking order"
+        ],
+        "right": [
+            "Irrelevance",
+            "Debt advantage",
+            "Optimal mix",
+            "Internal first"
+        ]
+    },
+    {
+        "q": "What is financial distress?",
+        "type": "mcq",
+        "o": [
+            "Difficulty meeting debt obligations",
+            "No difficulty",
+            "Random trouble",
+            "Fixed problem"
+        ]
+    },
+    {
+        "q": "Financial distress costs include legal and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "restructuring"
+        ],
+        "other_options": [
+            "revenue",
+            "profit",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is bankruptcy?",
+        "type": "mcq",
+        "o": [
+            "Legal inability to pay debts",
+            "No debt",
+            "Random failure",
+            "Fixed problem"
+        ]
+    },
+    {
+        "q": "Bankruptcy can lead to liquidation or reorganization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is capital rationing?",
+        "type": "mcq",
+        "o": [
+            "Limited capital for all positive NPV projects",
+            "Unlimited capital",
+            "No rationing",
+            "Random allocation"
+        ]
+    },
+    {
+        "q": "Match the rationing types:",
+        "type": "match",
+        "left": [
+            "Soft rationing",
+            "Hard rationing",
+            "PI ranking",
+            "Divisible projects"
+        ],
+        "right": [
+            "Internal limits",
+            "External limits",
+            "Ranking method",
+            "Partial acceptance"
+        ]
+    },
+    {
+        "q": "What is sensitivity analysis?",
+        "type": "mcq",
+        "o": [
+            "Testing impact of variable changes on outcome",
+            "Fixed analysis",
+            "No analysis",
+            "Random testing"
+        ]
+    },
+    {
+        "q": "Sensitivity analysis identifies critical ______.",
+        "type": "fill_blank",
+        "answers": [
+            "variables"
+        ],
+        "other_options": [
+            "costs",
+            "revenues",
+            "profits"
+        ]
+    },
+    {
+        "q": "What is scenario analysis?",
+        "type": "mcq",
+        "o": [
+            "Evaluating project under different scenarios",
+            "Single scenario",
+            "No analysis",
+            "Random scenarios"
+        ]
+    },
+    {
+        "q": "Scenario analysis considers best, worst, and most likely cases.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is simulation?",
+        "type": "mcq",
+        "o": [
+            "Monte Carlo analysis using random variables",
+            "Fixed analysis",
+            "No simulation",
+            "Random guess"
+        ]
+    },
+    {
+        "q": "Match the risk analysis methods:",
+        "type": "match",
+        "left": [
+            "Sensitivity",
+            "Scenario",
+            "Simulation",
+            "Decision tree"
+        ],
+        "right": [
+            "Variable impact",
+            "Multiple cases",
+            "Probabilistic",
+            "Sequential decisions"
+        ]
+    },
+    {
+        "q": "What is real options?",
+        "type": "mcq",
+        "o": [
+            "Flexibility in investment decisions",
+            "Financial options only",
+            "No options",
+            "Random choice"
+        ]
+    },
+    {
+        "q": "Real options include expansion, abandonment, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "deferral"
+        ],
+        "other_options": [
+            "cost",
+            "revenue",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is NPV profile?",
+        "type": "mcq",
+        "o": [
+            "Graph showing NPV at different discount rates",
+            "Single NPV",
+            "No profile",
+            "Random graph"
+        ]
+    },
+    {
+        "q": "NPV profile crosses x-axis at IRR.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is crossover rate?",
+        "type": "mcq",
+        "o": [
+            "Discount rate where two projects have same NPV",
+            "Single rate",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Match the NPV analysis:",
+        "type": "match",
+        "left": [
+            "NPV profile",
+            "Crossover",
+            "IRR conflict",
+            "NPV ranking"
+        ],
+        "right": [
+            "Rate vs NPV",
+            "Equal NPV",
+            "Different rankings",
+            "Best project"
+        ]
+    },
+    {
+        "q": "What is mutually exclusive projects?",
+        "type": "mcq",
+        "o": [
+            "Accepting one precludes the other",
+            "Independent",
+            "No exclusion",
+            "Random selection"
+        ]
+    },
+    {
+        "q": "Mutually exclusive projects require choosing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "one"
+        ],
+        "other_options": [
+            "all",
+            "none",
+            "many"
+        ]
+    },
+    {
+        "q": "What is independent project?",
+        "type": "mcq",
+        "o": [
+            "Project evaluation not affected by others",
+            "Mutually exclusive",
+            "Dependent",
+            "No project"
+        ]
+    },
+    {
+        "q": "Independent projects can all be accepted if positive NPV.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is project risk?",
+        "type": "mcq",
+        "o": [
+            "Uncertainty in project cash flows",
+            "No risk",
+            "Random risk",
+            "Fixed outcome"
+        ]
+    },
+    {
+        "q": "Match the project risk types:",
+        "type": "match",
+        "left": [
+            "Stand-alone",
+            "Corporate",
+            "Market",
+            "Systematic"
+        ],
+        "right": [
+            "Project only",
+            "Firm portfolio",
+            "CAPM beta",
+            "Undiversifiable"
+        ]
+    },
+    {
+        "q": "What is MIRR?",
+        "type": "mcq",
+        "o": [
+            "Modified Internal Rate of Return",
+            "Multiple IRR",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "MIRR assumes reinvestment at cost of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capital"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is incremental cash flow?",
+        "type": "mcq",
+        "o": [
+            "Additional cash flow from project",
+            "Total cash flow",
+            "No cash flow",
+            "Random flow"
+        ]
+    },
+    {
+        "q": "Incremental cash flows are relevant for project decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is sunk cost in capital budgeting?",
+        "type": "mcq",
+        "o": [
+            "Past cost irrelevant to decision",
+            "Relevant cost",
+            "No cost",
+            "Random cost"
+        ]
+    },
+    {
+        "q": "Match the cash flow relevance:",
+        "type": "match",
+        "left": [
+            "Sunk cost",
+            "Opportunity cost",
+            "Incremental",
+            "Cannibalization"
+        ],
+        "right": [
+            "Irrelevant",
+            "Relevant",
+            "Relevant",
+            "Negative effect"
+        ]
+    },
+    {
+        "q": "What is opportunity cost?",
+        "type": "mcq",
+        "o": [
+            "Value of next best alternative forgone",
+            "No cost",
+            "Sunk cost",
+            "Random cost"
+        ]
+    },
+    {
+        "q": "Opportunity cost is relevant for capital budgeting ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decisions"
+        ],
+        "other_options": [
+            "ignore",
+            "exclude",
+            "eliminate"
+        ]
+    },
+    {
+        "q": "What is cannibalization?",
+        "type": "mcq",
+        "o": [
+            "New project reducing sales of existing products",
+            "No effect",
+            "Sales increase",
+            "Random impact"
+        ]
+    },
+    {
+        "q": "Cannibalization is an externality to consider in NPV.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is depreciation tax shield?",
+        "type": "mcq",
+        "o": [
+            "Tax savings from depreciation expense",
+            "No savings",
+            "Random benefit",
+            "Fixed shield"
+        ]
+    },
+    {
+        "q": "Match the tax effects:",
+        "type": "match",
+        "left": [
+            "Depreciation shield",
+            "Interest shield",
+            "Tax rate",
+            "After-tax cost"
+        ],
+        "right": [
+            "Non-cash expense",
+            "Debt benefit",
+            "Percentage",
+            "Net of tax"
+        ]
+    },
+    {
+        "q": "What is terminal cash flow?",
+        "type": "mcq",
+        "o": [
+            "Cash flow at end of project life",
+            "Initial flow",
+            "No flow",
+            "Random flow"
+        ]
+    },
+    {
+        "q": "Terminal cash flow includes salvage value and working capital ______.",
+        "type": "fill_blank",
+        "answers": [
+            "recovery"
+        ],
+        "other_options": [
+            "loss",
+            "expense",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is replacement decision?",
+        "type": "mcq",
+        "o": [
+            "Evaluating new asset versus existing",
+            "New asset only",
+            "No decision",
+            "Random choice"
+        ]
+    },
+    {
+        "q": "Replacement analysis compares incremental cash flows.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is equivalent annual cost?",
+        "type": "mcq",
+        "o": [
+            "Annual cost for comparing assets with different lives",
+            "Total cost",
+            "No cost",
+            "Random cost"
+        ]
+    },
+    {
+        "q": "Match the EAC calculation:",
+        "type": "match",
+        "left": [
+            "NPV of costs",
+            "Annuity factor",
+            "EAC",
+            "Comparison"
+        ],
+        "right": [
+            "Present value",
+            "Discount factor",
+            "Annual equivalent",
+            "Different lives"
+        ]
+    },
+    {
+        "q": "What is working capital investment?",
+        "type": "mcq",
+        "o": [
+            "Funds tied up in current assets",
+            "Fixed asset only",
+            "No investment",
+            "Random funds"
+        ]
+    },
+    {
+        "q": "Working capital is recovered at project ______.",
+        "type": "fill_blank",
+        "answers": [
+            "end"
+        ],
+        "other_options": [
+            "start",
+            "middle",
+            "never"
+        ]
+    },
+    {
+        "q": "What is inflation in capital budgeting?",
+        "type": "mcq",
+        "o": [
+            "Price level increase affecting cash flows",
+            "No inflation",
+            "Deflation",
+            "Random change"
+        ]
+    },
+    {
+        "q": "Nominal cash flows use nominal discount rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Fisher equation?",
+        "type": "mcq",
+        "o": [
+            "Relationship between nominal and real rates",
+            "No equation",
+            "Random formula",
+            "Fixed equation"
+        ]
+    },
+    {
+        "q": "Match the rate types:",
+        "type": "match",
+        "left": [
+            "Nominal rate",
+            "Real rate",
+            "Inflation",
+            "Fisher equation"
+        ],
+        "right": [
+            "Includes inflation",
+            "Excludes inflation",
+            "Price change",
+            "Converts rates"
+        ]
+    },
+    {
+        "q": "What is foreign project evaluation?",
+        "type": "mcq",
+        "o": [
+            "Evaluating investment in foreign country",
+            "Domestic only",
+            "No evaluation",
+            "Random analysis"
+        ]
+    },
+    {
+        "q": "Foreign projects face exchange rate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "return",
+            "profit",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is political risk?",
+        "type": "mcq",
+        "o": [
+            "Risk from government actions affecting investment",
+            "Market risk",
+            "No risk",
+            "Random risk"
+        ]
+    },
+    {
+        "q": "Political risk includes expropriation and currency controls.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is country risk?",
+        "type": "mcq",
+        "o": [
+            "Combined political and economic risk",
+            "Market risk only",
+            "No risk",
+            "Random risk"
+        ]
+    },
+    {
+        "q": "Match the international risks:",
+        "type": "match",
+        "left": [
+            "Political",
+            "Exchange rate",
+            "Country",
+            "Sovereign"
+        ],
+        "right": [
+            "Government action",
+            "Currency change",
+            "Combined",
+            "Debt default"
+        ]
+    },
+    {
+        "q": "What is Baumol model?",
+        "type": "mcq",
+        "o": [
+            "Cash management model balancing opportunity cost",
+            "No model",
+            "Random approach",
+            "Fixed cash"
+        ]
+    },
+    {
+        "q": "Baumol model treats cash like ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inventory"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is Miller-Orr model?",
+        "type": "mcq",
+        "o": [
+            "Cash management with variable flows",
+            "Fixed cash model",
+            "No model",
+            "Random approach"
+        ]
+    },
+    {
+        "q": "Miller-Orr uses upper and lower control limits.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cash budget?",
+        "type": "mcq",
+        "o": [
+            "Forecast of cash inflows and outflows",
+            "Profit budget",
+            "No budget",
+            "Random forecast"
+        ]
+    },
+    {
+        "q": "Match the cash management models:",
+        "type": "match",
+        "left": [
+            "Baumol",
+            "Miller-Orr",
+            "Stone",
+            "Orgler"
+        ],
+        "right": [
+            "Deterministic",
+            "Stochastic",
+            "Look-ahead",
+            "LP model"
+        ]
+    },
+    {
+        "q": "What is float in cash management?",
+        "type": "mcq",
+        "o": [
+            "Time lag between payment and clearing",
+            "No delay",
+            "Random timing",
+            "Fixed period"
+        ]
+    },
+    {
+        "q": "Float represents unavailable ______.",
+        "type": "fill_blank",
+        "answers": [
+            "funds"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is collection float?",
+        "type": "mcq",
+        "o": [
+            "Delay between customer payment and funds availability",
+            "Disbursement float",
+            "No float",
+            "Random delay"
+        ]
+    },
+    {
+        "q": "Reducing collection float improves cash position.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is disbursement float?",
+        "type": "mcq",
+        "o": [
+            "Delay between payment and funds leaving account",
+            "Collection float",
+            "No float",
+            "Random delay"
+        ]
+    },
+    {
+        "q": "Match the float types:",
+        "type": "match",
+        "left": [
+            "Mail float",
+            "Processing float",
+            "Availability float",
+            "Net float"
+        ],
+        "right": [
+            "Transit time",
+            "Company processing",
+            "Bank processing",
+            "Difference"
+        ]
+    },
+    {
+        "q": "What is lockbox system?",
+        "type": "mcq",
+        "o": [
+            "Bank collects and processes customer payments",
+            "No collection",
+            "Random system",
+            "Fixed method"
+        ]
+    },
+    {
+        "q": "Lockbox reduces collection ______.",
+        "type": "fill_blank",
+        "answers": [
+            "float"
+        ],
+        "other_options": [
+            "cost",
+            "revenue",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is concentration banking?",
+        "type": "mcq",
+        "o": [
+            "Pooling funds from multiple accounts",
+            "Distributed banking",
+            "No banking",
+            "Random system"
+        ]
+    },
+    {
+        "q": "Concentration banking centralizes cash management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is zero balance account?",
+        "type": "mcq",
+        "o": [
+            "Account with zero balance at day end",
+            "Maximum balance",
+            "No account",
+            "Random balance"
+        ]
+    },
+    {
+        "q": "Match the disbursement techniques:",
+        "type": "match",
+        "left": [
+            "ZBA",
+            "Controlled disbursement",
+            "Remote disbursement",
+            "Payable through draft"
+        ],
+        "right": [
+            "Zero balance",
+            "Daily funding",
+            "Distant bank",
+            "Delayed clearing"
+        ]
+    },
+    {
+        "q": "What is factoring?",
+        "type": "mcq",
+        "o": [
+            "Selling receivables to third party",
+            "No sale",
+            "Random transfer",
+            "Fixed arrangement"
+        ]
+    },
+    {
+        "q": "Factoring provides immediate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "cash"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is forfaiting?",
+        "type": "mcq",
+        "o": [
+            "Export receivables financing without recourse",
+            "Factoring",
+            "No financing",
+            "Random method"
+        ]
+    },
+    {
+        "q": "Forfaiting is used for medium to long-term export receivables.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is commercial bank lending?",
+        "type": "mcq",
+        "o": [
+            "Short-term loans from banks",
+            "Long-term only",
+            "No lending",
+            "Random loans"
+        ]
+    },
+    {
+        "q": "Match the short-term financing:",
+        "type": "match",
+        "left": [
+            "Bank loan",
+            "Commercial paper",
+            "Trade credit",
+            "Factoring"
+        ],
+        "right": [
+            "Interest-bearing",
+            "Unsecured",
+            "Supplier credit",
+            "Receivables sale"
+        ]
+    },
+    {
+        "q": "What is line of credit?",
+        "type": "mcq",
+        "o": [
+            "Pre-approved borrowing limit",
+            "Fixed loan",
+            "No limit",
+            "Random credit"
+        ]
+    },
+    {
+        "q": "Line of credit provides borrowing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "flexibility"
+        ],
+        "other_options": [
+            "rigidity",
+            "fixed",
+            "limited"
+        ]
+    },
+    {
+        "q": "What is revolving credit?",
+        "type": "mcq",
+        "o": [
+            "Credit line that renews after repayment",
+            "Term loan",
+            "No renewal",
+            "Random credit"
+        ]
+    },
+    {
+        "q": "Revolving credit allows repeated borrowing and repayment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is term loan?",
+        "type": "mcq",
+        "o": [
+            "Loan with fixed repayment schedule",
+            "Revolving loan",
+            "No schedule",
+            "Random loan"
+        ]
+    },
+    {
+        "q": "Match the loan types:",
+        "type": "match",
+        "left": [
+            "Term loan",
+            "Revolving",
+            "Bridge loan",
+            "Working capital loan"
+        ],
+        "right": [
+            "Fixed schedule",
+            "Renewable",
+            "Temporary",
+            "Short-term"
+        ]
+    },
+    {
+        "q": "What is bridge financing?",
+        "type": "mcq",
+        "o": [
+            "Short-term financing pending long-term",
+            "Permanent financing",
+            "No financing",
+            "Random loan"
+        ]
+    },
+    {
+        "q": "Bridge loan fills temporary funding ______.",
+        "type": "fill_blank",
+        "answers": [
+            "gap"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is asset-based lending?",
+        "type": "mcq",
+        "o": [
+            "Loans secured by company assets",
+            "Unsecured lending",
+            "No lending",
+            "Random loans"
+        ]
+    },
+    {
+        "q": "Asset-based lending uses receivables or inventory as collateral.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cash flow lending?",
+        "type": "mcq",
+        "o": [
+            "Loans based on borrower's cash flow",
+            "Asset-based",
+            "No lending",
+            "Random loans"
+        ]
+    },
+    {
+        "q": "Match the lending bases:",
+        "type": "match",
+        "left": [
+            "Asset-based",
+            "Cash flow",
+            "Unsecured",
+            "Secured"
+        ],
+        "right": [
+            "Collateral value",
+            "Income",
+            "No collateral",
+            "With collateral"
+        ]
+    },
+    {
+        "q": "What is venture capital?",
+        "type": "mcq",
+        "o": [
+            "Equity financing for startups",
+            "Debt financing",
+            "No financing",
+            "Random funding"
+        ]
+    },
+    {
+        "q": "Venture capital targets high-growth ______.",
+        "type": "fill_blank",
+        "answers": [
+            "companies"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "costs"
+        ]
+    },
+    {
+        "q": "What is private equity?",
+        "type": "mcq",
+        "o": [
+            "Investment in private companies",
+            "Public markets",
+            "No investment",
+            "Random equity"
+        ]
+    },
+    {
+        "q": "Private equity often involves LBOs and growth capital.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is angel investor?",
+        "type": "mcq",
+        "o": [
+            "Individual investing in early-stage startups",
+            "Institutional investor",
+            "No investor",
+            "Random funding"
+        ]
+    },
+    {
+        "q": "Match the equity financing stages:",
+        "type": "match",
+        "left": [
+            "Seed",
+            "Series A",
+            "Growth",
+            "Pre-IPO"
+        ],
+        "right": [
+            "Early concept",
+            "First round",
+            "Expansion",
+            "Before listing"
+        ]
+    },
+    {
+        "q": "What is mezzanine financing?",
+        "type": "mcq",
+        "o": [
+            "Hybrid of debt and equity",
+            "Pure debt",
+            "Pure equity",
+            "No financing"
+        ]
+    },
+    {
+        "q": "Mezzanine is subordinated to senior ______.",
+        "type": "fill_blank",
+        "answers": [
+            "debt"
+        ],
+        "other_options": [
+            "equity",
+            "assets",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is convertible debt?",
+        "type": "mcq",
+        "o": [
+            "Debt convertible to equity",
+            "Non-convertible",
+            "No debt",
+            "Random instrument"
+        ]
+    },
+    {
+        "q": "Convertible debt provides downside protection with upside.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is warrant?",
+        "type": "mcq",
+        "o": [
+            "Right to buy shares at fixed price",
+            "Obligation",
+            "No right",
+            "Random contract"
+        ]
+    },
+    {
+        "q": "Match the hybrid instruments:",
+        "type": "match",
+        "left": [
+            "Convertible bond",
+            "Warrant",
+            "Preferred stock",
+            "Mezzanine"
+        ],
+        "right": [
+            "Debt to equity",
+            "Purchase right",
+            "Fixed dividend",
+            "Subordinated"
+        ]
+    },
+    {
+        "q": "What is Modigliani-Miller theorem?",
+        "type": "mcq",
+        "o": [
+            "Capital structure irrelevance under perfect markets",
+            "Relevance",
+            "No theorem",
+            "Random theory"
+        ]
+    },
+    {
+        "q": "MM Proposition I states firm value is unaffected by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "leverage"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is MM Proposition II?",
+        "type": "mcq",
+        "o": [
+            "Cost of equity increases with leverage",
+            "Decreases",
+            "No change",
+            "Random effect"
+        ]
+    },
+    {
+        "q": "MM with taxes shows debt creates tax shield.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is static trade-off theory?",
+        "type": "mcq",
+        "o": [
+            "Optimal debt balances tax benefit and distress",
+            "No trade-off",
+            "Random balance",
+            "Fixed structure"
+        ]
+    },
+    {
+        "q": "Match the capital structure theories:",
+        "type": "match",
+        "left": [
+            "MM no tax",
+            "MM with tax",
+            "Static trade-off",
+            "Agency cost"
+        ],
+        "right": [
+            "Irrelevance",
+            "Tax shield",
+            "Optimal mix",
+            "Conflict of interest"
+        ]
+    },
+    {
+        "q": "What is agency cost of debt?",
+        "type": "mcq",
+        "o": [
+            "Costs from conflict between shareholders and creditors",
+            "No cost",
+            "Random cost",
+            "Fixed cost"
+        ]
+    },
+    {
+        "q": "Agency costs include monitoring and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "bonding"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is asset substitution?",
+        "type": "mcq",
+        "o": [
+            "Shareholders investing in riskier projects",
+            "Safe investment",
+            "No change",
+            "Random investment"
+        ]
+    },
+    {
+        "q": "Asset substitution transfers wealth from creditors to shareholders.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is underinvestment problem?",
+        "type": "mcq",
+        "o": [
+            "Shareholders rejecting positive NPV projects",
+            "Overinvestment",
+            "No problem",
+            "Random decision"
+        ]
+    },
+    {
+        "q": "Match the agency problems:",
+        "type": "match",
+        "left": [
+            "Asset substitution",
+            "Underinvestment",
+            "Debt overhang",
+            "Empire building"
+        ],
+        "right": [
+            "Risk shifting",
+            "Rejecting NPV",
+            "Excess debt",
+            "Overinvestment"
+        ]
+    },
+    {
+        "q": "What is free cash flow hypothesis?",
+        "type": "mcq",
+        "o": [
+            "Managers waste free cash flow",
+            "No waste",
+            "Random use",
+            "Fixed allocation"
+        ]
+    },
+    {
+        "q": "Debt disciplines managers by reducing free cash ______.",
+        "type": "fill_blank",
+        "answers": [
+            "flow"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is signaling with capital structure?",
+        "type": "mcq",
+        "o": [
+            "Debt issuance signals management confidence",
+            "No signal",
+            "Random message",
+            "Fixed information"
+        ]
+    },
+    {
+        "q": "Equity issuance may signal overvaluation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is financial flexibility?",
+        "type": "mcq",
+        "o": [
+            "Ability to respond to opportunities and threats",
+            "Rigidity",
+            "No flexibility",
+            "Random response"
+        ]
+    },
+    {
+        "q": "Match the flexibility factors:",
+        "type": "match",
+        "left": [
+            "Spare debt capacity",
+            "Cash reserves",
+            "Asset liquidity",
+            "Credit lines"
+        ],
+        "right": [
+            "Borrowing room",
+            "Available cash",
+            "Sellable assets",
+            "Committed funding"
+        ]
+    },
+    {
+        "q": "What is target capital structure?",
+        "type": "mcq",
+        "o": [
+            "Desired mix of debt and equity",
+            "Current mix",
+            "No target",
+            "Random mix"
+        ]
+    },
+    {
+        "q": "Target capital structure guides financing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decisions"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "costs"
+        ]
+    },
+    {
+        "q": "What is debt capacity?",
+        "type": "mcq",
+        "o": [
+            "Maximum debt a firm can carry",
+            "Minimum debt",
+            "No limit",
+            "Random amount"
+        ]
+    },
+    {
+        "q": "Debt capacity depends on cash flow stability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is debt covenant?",
+        "type": "mcq",
+        "o": [
+            "Restrictions in loan agreement",
+            "No restrictions",
+            "Random terms",
+            "Fixed terms"
+        ]
+    },
+    {
+        "q": "Match the covenant types:",
+        "type": "match",
+        "left": [
+            "Affirmative",
+            "Negative",
+            "Financial",
+            "Incurrence"
+        ],
+        "right": [
+            "Must do",
+            "Must not do",
+            "Ratio maintenance",
+            "Event-triggered"
+        ]
+    },
+    {
+        "q": "What is interest rate parity?",
+        "type": "mcq",
+        "o": [
+            "Relationship between interest and exchange rates",
+            "No relationship",
+            "Random connection",
+            "Fixed rate"
+        ]
+    },
+    {
+        "q": "Interest rate parity links forward premium to interest rate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "differential"
+        ],
+        "other_options": [
+            "sum",
+            "product",
+            "average"
+        ]
+    },
+    {
+        "q": "What is purchasing power parity?",
+        "type": "mcq",
+        "o": [
+            "Exchange rate adjusts for inflation differences",
+            "No adjustment",
+            "Random rate",
+            "Fixed rate"
+        ]
+    },
+    {
+        "q": "PPP suggests currencies adjust for relative inflation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is covered interest parity?",
+        "type": "mcq",
+        "o": [
+            "Interest differential equals forward premium",
+            "Uncovered parity",
+            "No parity",
+            "Random relationship"
+        ]
+    },
+    {
+        "q": "Match the parity conditions:",
+        "type": "match",
+        "left": [
+            "Interest rate parity",
+            "Purchasing power",
+            "Covered",
+            "Uncovered"
+        ],
+        "right": [
+            "Interest-forward",
+            "Inflation-exchange",
+            "Arbitrage-free",
+            "Expected spot"
+        ]
+    },
+    {
+        "q": "What is international Fisher effect?",
+        "type": "mcq",
+        "o": [
+            "Interest rate difference predicts exchange rate change",
+            "No prediction",
+            "Random effect",
+            "Fixed relationship"
+        ]
+    },
+    {
+        "q": "International Fisher links nominal rates to expected ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inflation"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is foreign direct investment?",
+        "type": "mcq",
+        "o": [
+            "Investment in foreign business operations",
+            "Portfolio investment",
+            "No investment",
+            "Random investment"
+        ]
+    },
+    {
+        "q": "FDI involves long-term commitment and control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is foreign portfolio investment?",
+        "type": "mcq",
+        "o": [
+            "Investment in foreign securities without control",
+            "FDI",
+            "No investment",
+            "Random investment"
+        ]
+    },
+    {
+        "q": "Match the international investments:",
+        "type": "match",
+        "left": [
+            "FDI",
+            "Portfolio",
+            "Joint venture",
+            "Strategic alliance"
+        ],
+        "right": [
+            "Control",
+            "No control",
+            "Shared control",
+            "Cooperation"
+        ]
+    },
+    {
+        "q": "What is transfer pricing?",
+        "type": "mcq",
+        "o": [
+            "Pricing between related entities",
+            "Market pricing",
+            "No pricing",
+            "Random pricing"
+        ]
+    },
+    {
+        "q": "Transfer pricing affects tax obligations across ______.",
+        "type": "fill_blank",
+        "answers": [
+            "jurisdictions"
+        ],
+        "other_options": [
+            "products",
+            "services",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is arm's length principle?",
+        "type": "mcq",
+        "o": [
+            "Pricing as if parties were unrelated",
+            "Related party pricing",
+            "No principle",
+            "Random pricing"
+        ]
+    },
+    {
+        "q": "Arm's length ensures fair transfer pricing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is double taxation?",
+        "type": "mcq",
+        "o": [
+            "Same income taxed in two countries",
+            "Single tax",
+            "No tax",
+            "Random tax"
+        ]
+    },
+    {
+        "q": "Match the tax concepts:",
+        "type": "match",
+        "left": [
+            "Double taxation",
+            "Tax treaty",
+            "Tax credit",
+            "Tax haven"
+        ],
+        "right": [
+            "Dual tax",
+            "Relief agreement",
+            "Foreign tax offset",
+            "Low tax jurisdiction"
+        ]
+    },
+    {
+        "q": "What is repatriation of profits?",
+        "type": "mcq",
+        "o": [
+            "Transferring foreign earnings to home country",
+            "Retaining abroad",
+            "No transfer",
+            "Random movement"
+        ]
+    },
+    {
+        "q": "Repatriation may trigger additional ______.",
+        "type": "fill_blank",
+        "answers": [
+            "taxes"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "costs"
+        ]
+    },
+    {
+        "q": "What is blocked funds?",
+        "type": "mcq",
+        "o": [
+            "Funds restricted from leaving country",
+            "Free funds",
+            "No restriction",
+            "Random blocking"
+        ]
+    },
+    {
+        "q": "Currency controls can create blocked funds.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is operating leverage?",
+        "type": "mcq",
+        "o": [
+            "Fixed cost proportion in cost structure",
+            "Financial leverage",
+            "No leverage",
+            "Random structure"
+        ]
+    },
+    {
+        "q": "Match the leverage types:",
+        "type": "match",
+        "left": [
+            "Operating",
+            "Financial",
+            "Combined",
+            "DOL"
+        ],
+        "right": [
+            "Fixed costs",
+            "Debt",
+            "Both",
+            "Degree of operating"
+        ]
+    },
+    {
+        "q": "What is degree of operating leverage?",
+        "type": "mcq",
+        "o": [
+            "Sensitivity of EBIT to sales changes",
+            "DFL",
+            "No measure",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "DOL equals contribution margin divided by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "EBIT"
+        ],
+        "other_options": [
+            "sales",
+            "revenue",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is degree of financial leverage?",
+        "type": "mcq",
+        "o": [
+            "Sensitivity of EPS to EBIT changes",
+            "DOL",
+            "No measure",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Higher DFL means greater EPS volatility.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is degree of combined leverage?",
+        "type": "mcq",
+        "o": [
+            "DOL multiplied by DFL",
+            "DOL only",
+            "DFL only",
+            "No measure"
+        ]
+    },
+    {
+        "q": "Match the leverage formulas:",
+        "type": "match",
+        "left": [
+            "DOL",
+            "DFL",
+            "DCL",
+            "Break-even"
+        ],
+        "right": [
+            "CM/EBIT",
+            "EBIT/EBT",
+            "DOL x DFL",
+            "FC/CM"
+        ]
+    },
+    {
+        "q": "What is EBIT-EPS analysis?",
+        "type": "mcq",
+        "o": [
+            "Comparing financing alternatives at different EBIT levels",
+            "Single point",
+            "No analysis",
+            "Random comparison"
+        ]
+    },
+    {
+        "q": "EBIT-EPS analysis shows indifference ______.",
+        "type": "fill_blank",
+        "answers": [
+            "point"
+        ],
+        "other_options": [
+            "cost",
+            "revenue",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is indifference point?",
+        "type": "mcq",
+        "o": [
+            "EBIT where EPS is same under alternatives",
+            "Maximum EBIT",
+            "Minimum EBIT",
+            "No point"
+        ]
+    },
+    {
+        "q": "Below indifference point, lower debt is preferred.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is financial break-even?",
+        "type": "mcq",
+        "o": [
+            "EBIT level where EPS equals zero",
+            "Operating break-even",
+            "No break-even",
+            "Random point"
+        ]
+    },
+    {
+        "q": "Match the break-even concepts:",
+        "type": "match",
+        "left": [
+            "Operating",
+            "Cash",
+            "Financial",
+            "Accounting"
+        ],
+        "right": [
+            "FC/CM",
+            "Cash FC/CM",
+            "Interest",
+            "Including depreciation"
+        ]
+    },
+    {
+        "q": "What is dividend discount model?",
+        "type": "mcq",
+        "o": [
+            "Stock valuation using present value of dividends",
+            "No model",
+            "Random valuation",
+            "Fixed value"
+        ]
+    },
+    {
+        "q": "DDM calculates intrinsic stock ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is Gordon growth model?",
+        "type": "mcq",
+        "o": [
+            "DDM assuming constant dividend growth",
+            "No growth",
+            "Variable growth",
+            "Random model"
+        ]
+    },
+    {
+        "q": "Gordon model requires growth less than required return.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is two-stage growth model?",
+        "type": "mcq",
+        "o": [
+            "High growth followed by stable growth",
+            "Single stage",
+            "No growth",
+            "Random stages"
+        ]
+    },
+    {
+        "q": "Match the DDM variations:",
+        "type": "match",
+        "left": [
+            "Gordon",
+            "Two-stage",
+            "Three-stage",
+            "H-model"
+        ],
+        "right": [
+            "Constant growth",
+            "Two phases",
+            "Three phases",
+            "Declining to stable"
+        ]
+    },
+    {
+        "q": "What is free cash flow to firm?",
+        "type": "mcq",
+        "o": [
+            "Cash available to all capital providers",
+            "FCFE",
+            "No cash flow",
+            "Random cash"
+        ]
+    },
+    {
+        "q": "FCFF is discounted at ______.",
+        "type": "fill_blank",
+        "answers": [
+            "WACC"
+        ],
+        "other_options": [
+            "cost of equity",
+            "cost of debt",
+            "interest"
+        ]
+    },
+    {
+        "q": "What is free cash flow to equity?",
+        "type": "mcq",
+        "o": [
+            "Cash available to shareholders after debt payments",
+            "FCFF",
+            "No cash flow",
+            "Random cash"
+        ]
+    },
+    {
+        "q": "FCFE is discounted at cost of equity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is residual income model?",
+        "type": "mcq",
+        "o": [
+            "Valuation using earnings above required return",
+            "DDM",
+            "No model",
+            "Random valuation"
+        ]
+    },
+    {
+        "q": "Match the valuation approaches:",
+        "type": "match",
+        "left": [
+            "DDM",
+            "FCFF",
+            "FCFE",
+            "Residual income"
+        ],
+        "right": [
+            "Dividends",
+            "Firm cash",
+            "Equity cash",
+            "Excess earnings"
+        ]
+    },
+    {
+        "q": "What is economic value added?",
+        "type": "mcq",
+        "o": [
+            "Operating profit minus capital charge",
+            "Accounting profit",
+            "No value",
+            "Random measure"
+        ]
+    },
+    {
+        "q": "EVA shows value created above cost of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capital"
+        ],
+        "other_options": [
+            "sales",
+            "revenue",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is market value added?",
+        "type": "mcq",
+        "o": [
+            "Market value minus invested capital",
+            "Book value",
+            "No value",
+            "Random measure"
+        ]
+    },
+    {
+        "q": "Positive MVA indicates value creation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Tobin's Q?",
+        "type": "mcq",
+        "o": [
+            "Market value divided by replacement cost",
+            "Book ratio",
+            "No ratio",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Match the value metrics:",
+        "type": "match",
+        "left": [
+            "EVA",
+            "MVA",
+            "Tobin's Q",
+            "ROIC"
+        ],
+        "right": [
+            "Economic profit",
+            "Market premium",
+            "Replacement cost",
+            "Return on invested"
+        ]
+    },
+    {
+        "q": "What is return on invested capital?",
+        "type": "mcq",
+        "o": [
+            "Operating income divided by invested capital",
+            "ROE",
+            "No return",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "ROIC above WACC creates ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is sustainable growth rate?",
+        "type": "mcq",
+        "o": [
+            "Maximum growth without external financing",
+            "Actual growth",
+            "No growth",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Sustainable growth equals ROE times retention ratio.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is internal growth rate?",
+        "type": "mcq",
+        "o": [
+            "Growth using only retained earnings",
+            "External growth",
+            "No growth",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Match the growth concepts:",
+        "type": "match",
+        "left": [
+            "Internal",
+            "Sustainable",
+            "Actual",
+            "Target"
+        ],
+        "right": [
+            "No external",
+            "No debt change",
+            "Real growth",
+            "Planned growth"
+        ]
+    },
+    {
+        "q": "What is DuPont analysis?",
+        "type": "mcq",
+        "o": [
+            "Breaking ROE into components",
+            "Single ratio",
+            "No analysis",
+            "Random breakdown"
+        ]
+    },
+    {
+        "q": "DuPont shows profit margin, turnover, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "leverage"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is extended DuPont?",
+        "type": "mcq",
+        "o": [
+            "Five-factor ROE analysis",
+            "Three-factor",
+            "No extension",
+            "Random factors"
+        ]
+    },
+    {
+        "q": "Extended DuPont adds tax and interest burden.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is profit margin in DuPont?",
+        "type": "mcq",
+        "o": [
+            "Net income divided by sales",
+            "Gross margin",
+            "No margin",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Match the DuPont components:",
+        "type": "match",
+        "left": [
+            "Profit margin",
+            "Asset turnover",
+            "Equity multiplier",
+            "Tax burden"
+        ],
+        "right": [
+            "NI/Sales",
+            "Sales/Assets",
+            "Assets/Equity",
+            "NI/EBT"
+        ]
+    },
+    {
+        "q": "What is credit risk?",
+        "type": "mcq",
+        "o": [
+            "Risk of borrower default",
+            "Market risk",
+            "No risk",
+            "Random risk"
+        ]
+    },
+    {
+        "q": "Credit risk management prevents loan ______.",
+        "type": "fill_blank",
+        "answers": [
+            "losses"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "gains"
+        ]
+    },
+    {
+        "q": "What is credit scoring?",
+        "type": "mcq",
+        "o": [
+            "Statistical model to assess creditworthiness",
+            "No scoring",
+            "Random score",
+            "Fixed rating"
+        ]
+    },
+    {
+        "q": "Credit scores predict probability of default.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is credit rating?",
+        "type": "mcq",
+        "o": [
+            "Assessment of debt repayment ability",
+            "Equity rating",
+            "No rating",
+            "Random assessment"
+        ]
+    },
+    {
+        "q": "Match the credit ratings:",
+        "type": "match",
+        "left": [
+            "AAA",
+            "BBB",
+            "BB",
+            "D"
+        ],
+        "right": [
+            "Highest quality",
+            "Investment grade",
+            "Speculative",
+            "Default"
+        ]
+    },
+    {
+        "q": "What is investment grade?",
+        "type": "mcq",
+        "o": [
+            "Rating of BBB or higher",
+            "Junk grade",
+            "No grade",
+            "Random grade"
+        ]
+    },
+    {
+        "q": "Investment grade indicates lower default ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "return",
+            "profit",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is junk bond?",
+        "type": "mcq",
+        "o": [
+            "High-yield bond below investment grade",
+            "Investment grade",
+            "No bond",
+            "Random bond"
+        ]
+    },
+    {
+        "q": "Junk bonds offer higher yields for higher risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is credit spread?",
+        "type": "mcq",
+        "o": [
+            "Yield difference over risk-free rate",
+            "No spread",
+            "Random difference",
+            "Fixed spread"
+        ]
+    },
+    {
+        "q": "Match the spread concepts:",
+        "type": "match",
+        "left": [
+            "Credit spread",
+            "Term spread",
+            "TED spread",
+            "Bid-ask spread"
+        ],
+        "right": [
+            "Default premium",
+            "Maturity premium",
+            "Bank risk",
+            "Trading cost"
+        ]
+    },
+    {
+        "q": "What is interest rate risk?",
+        "type": "mcq",
+        "o": [
+            "Risk from interest rate changes",
+            "Credit risk",
+            "No risk",
+            "Random risk"
+        ]
+    },
+    {
+        "q": "Interest rate risk affects bond ______.",
+        "type": "fill_blank",
+        "answers": [
+            "prices"
+        ],
+        "other_options": [
+            "coupons",
+            "maturities",
+            "issuers"
+        ]
+    },
+    {
+        "q": "What is reinvestment risk?",
+        "type": "mcq",
+        "o": [
+            "Risk of reinvesting at lower rates",
+            "Interest rate risk",
+            "No risk",
+            "Random risk"
+        ]
+    },
+    {
+        "q": "Reinvestment risk is opposite of price risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is liquidity risk?",
+        "type": "mcq",
+        "o": [
+            "Risk of difficulty selling asset",
+            "Market risk",
+            "No risk",
+            "Random risk"
+        ]
+    },
+    {
+        "q": "Match the financial risks:",
+        "type": "match",
+        "left": [
+            "Credit",
+            "Market",
+            "Liquidity",
+            "Operational"
+        ],
+        "right": [
+            "Default",
+            "Price change",
+            "Selling difficulty",
+            "Process failure"
+        ]
+    },
+    {
+        "q": "What is operational risk?",
+        "type": "mcq",
+        "o": [
+            "Risk from internal processes and systems",
+            "Market risk",
+            "No risk",
+            "Random risk"
+        ]
+    },
+    {
+        "q": "Operational risk includes fraud and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "errors"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is Value at Risk?",
+        "type": "mcq",
+        "o": [
+            "Maximum potential loss at confidence level",
+            "Minimum loss",
+            "No measure",
+            "Random loss"
+        ]
+    },
+    {
+        "q": "VaR quantifies downside risk in normal markets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is stress testing?",
+        "type": "mcq",
+        "o": [
+            "Testing portfolio under extreme scenarios",
+            "Normal testing",
+            "No testing",
+            "Random scenarios"
+        ]
+    },
+    {
+        "q": "Match the risk measures:",
+        "type": "match",
+        "left": [
+            "VaR",
+            "CVaR",
+            "Stress test",
+            "Sensitivity"
+        ],
+        "right": [
+            "Maximum loss",
+            "Expected tail loss",
+            "Extreme scenario",
+            "Variable impact"
+        ]
+    },
+    {
+        "q": "What is enterprise risk management?",
+        "type": "mcq",
+        "o": [
+            "Integrated approach to managing all risks",
+            "Single risk",
+            "No management",
+            "Random approach"
+        ]
+    },
+    {
+        "q": "ERM provides holistic view of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is risk appetite?",
+        "type": "mcq",
+        "o": [
+            "Amount of risk willing to accept",
+            "Risk aversion",
+            "No appetite",
+            "Random tolerance"
+        ]
+    },
+    {
+        "q": "Risk appetite guides strategic decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is risk tolerance?",
+        "type": "mcq",
+        "o": [
+            "Acceptable variation from objectives",
+            "Risk appetite",
+            "No tolerance",
+            "Random range"
+        ]
+    },
+    {
+        "q": "Match the risk concepts:",
+        "type": "match",
+        "left": [
+            "Appetite",
+            "Tolerance",
+            "Capacity",
+            "Profile"
+        ],
+        "right": [
+            "Desired level",
+            "Acceptable range",
+            "Maximum bearable",
+            "Risk composition"
+        ]
+    },
+    {
+        "q": "What is hurdle rate?",
+        "type": "mcq",
+        "o": [
+            "Minimum acceptable return for investment",
+            "Maximum return",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Hurdle rate represents cost of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capital"
+        ],
+        "other_options": [
+            "sales",
+            "revenue",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is risk-adjusted return?",
+        "type": "mcq",
+        "o": [
+            "Return per unit of risk taken",
+            "Absolute return",
+            "No adjustment",
+            "Random return"
+        ]
+    },
+    {
+        "q": "Risk-adjusted return compares performance across risk levels.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Treynor ratio?",
+        "type": "mcq",
+        "o": [
+            "Excess return per unit of beta",
+            "Sharpe ratio",
+            "No ratio",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Match the performance ratios:",
+        "type": "match",
+        "left": [
+            "Sharpe",
+            "Treynor",
+            "Jensen's alpha",
+            "Information ratio"
+        ],
+        "right": [
+            "Total risk",
+            "Systematic risk",
+            "Excess return",
+            "Active management"
+        ]
+    },
+    {
+        "q": "What is Jensen's alpha?",
+        "type": "mcq",
+        "o": [
+            "Return above CAPM prediction",
+            "Below prediction",
+            "No alpha",
+            "Random measure"
+        ]
+    },
+    {
+        "q": "Jensen's alpha measures manager ______.",
+        "type": "fill_blank",
+        "answers": [
+            "skill"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is tracking error?",
+        "type": "mcq",
+        "o": [
+            "Standard deviation of return differences",
+            "No error",
+            "Random error",
+            "Fixed deviation"
+        ]
+    },
+    {
+        "q": "Tracking error measures deviation from benchmark.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is information ratio?",
+        "type": "mcq",
+        "o": [
+            "Active return divided by tracking error",
+            "Sharpe ratio",
+            "No ratio",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Match the portfolio metrics:",
+        "type": "match",
+        "left": [
+            "Alpha",
+            "Beta",
+            "R-squared",
+            "Tracking error"
+        ],
+        "right": [
+            "Excess return",
+            "Sensitivity",
+            "Explanation",
+            "Deviation"
+        ]
+    },
+    {
+        "q": "What is benchmark portfolio?",
+        "type": "mcq",
+        "o": [
+            "Standard for comparing performance",
+            "No standard",
+            "Random portfolio",
+            "Fixed portfolio"
+        ]
+    },
+    {
+        "q": "Benchmark represents the investable ______.",
+        "type": "fill_blank",
+        "answers": [
+            "market"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is active management?",
+        "type": "mcq",
+        "o": [
+            "Attempting to beat benchmark through selection",
+            "Passive management",
+            "No management",
+            "Random selection"
+        ]
+    },
+    {
+        "q": "Active management aims to generate alpha.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is passive management?",
+        "type": "mcq",
+        "o": [
+            "Tracking benchmark with minimal trading",
+            "Active management",
+            "No management",
+            "Random strategy"
+        ]
+    },
+    {
+        "q": "Match the management styles:",
+        "type": "match",
+        "left": [
+            "Active",
+            "Passive",
+            "Index",
+            "Smart beta"
+        ],
+        "right": [
+            "Beat benchmark",
+            "Track benchmark",
+            "Replication",
+            "Factor exposure"
+        ]
+    },
+    {
+        "q": "What is asset allocation?",
+        "type": "mcq",
+        "o": [
+            "Distributing investment across asset classes",
+            "Single asset",
+            "No allocation",
+            "Random distribution"
+        ]
+    },
+    {
+        "q": "Asset allocation is primary driver of portfolio ______.",
+        "type": "fill_blank",
+        "answers": [
+            "return"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is strategic asset allocation?",
+        "type": "mcq",
+        "o": [
+            "Long-term target mix based on objectives",
+            "Short-term",
+            "No allocation",
+            "Random mix"
+        ]
+    },
+    {
+        "q": "Strategic allocation sets policy portfolio.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is tactical asset allocation?",
+        "type": "mcq",
+        "o": [
+            "Short-term deviation from strategic mix",
+            "Strategic only",
+            "No deviation",
+            "Random timing"
+        ]
+    },
+    {
+        "q": "Match the allocation types:",
+        "type": "match",
+        "left": [
+            "Strategic",
+            "Tactical",
+            "Dynamic",
+            "Insured"
+        ],
+        "right": [
+            "Long-term",
+            "Short-term",
+            "Continuous",
+            "CPPI"
+        ]
+    },
+    {
+        "q": "What is rebalancing?",
+        "type": "mcq",
+        "o": [
+            "Restoring portfolio to target weights",
+            "No adjustment",
+            "Random change",
+            "Fixed weights"
+        ]
+    },
+    {
+        "q": "Rebalancing maintains risk ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profile"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is calendar rebalancing?",
+        "type": "mcq",
+        "o": [
+            "Rebalancing at fixed time intervals",
+            "Threshold",
+            "No rebalancing",
+            "Random timing"
+        ]
+    },
+    {
+        "q": "Threshold rebalancing triggers at percentage deviation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is behavioral finance?",
+        "type": "mcq",
+        "o": [
+            "Study of psychological influences on investors",
+            "Traditional finance",
+            "No study",
+            "Random behavior"
+        ]
+    },
+    {
+        "q": "Match the behavioral biases:",
+        "type": "match",
+        "left": [
+            "Overconfidence",
+            "Loss aversion",
+            "Anchoring",
+            "Herding"
+        ],
+        "right": [
+            "Excess certainty",
+            "Fear of loss",
+            "Reference point",
+            "Following crowd"
+        ]
+    },
+    {
+        "q": "What is loss aversion?",
+        "type": "mcq",
+        "o": [
+            "Losses hurt more than equivalent gains please",
+            "Gain preference",
+            "No preference",
+            "Random feeling"
+        ]
+    },
+    {
+        "q": "Loss aversion leads to holding ______.",
+        "type": "fill_blank",
+        "answers": [
+            "losers"
+        ],
+        "other_options": [
+            "winners",
+            "neutrals",
+            "all"
+        ]
+    },
+    {
+        "q": "What is confirmation bias?",
+        "type": "mcq",
+        "o": [
+            "Seeking information that confirms beliefs",
+            "Seeking contrary",
+            "No bias",
+            "Random search"
+        ]
+    },
+    {
+        "q": "Confirmation bias can lead to poor decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is anchoring bias?",
+        "type": "mcq",
+        "o": [
+            "Over-reliance on initial information",
+            "No reliance",
+            "Random reference",
+            "All information"
+        ]
+    },
+    {
+        "q": "Match the cognitive biases:",
+        "type": "match",
+        "left": [
+            "Anchoring",
+            "Framing",
+            "Mental accounting",
+            "Availability"
+        ],
+        "right": [
+            "Reference point",
+            "Presentation effect",
+            "Separate accounts",
+            "Recent events"
+        ]
+    },
+    {
+        "q": "What is herding behavior?",
+        "type": "mcq",
+        "o": [
+            "Following crowd rather than own analysis",
+            "Independent thinking",
+            "No behavior",
+            "Random action"
+        ]
+    },
+    {
+        "q": "Herding can create market ______.",
+        "type": "fill_blank",
+        "answers": [
+            "bubbles"
+        ],
+        "other_options": [
+            "stability",
+            "efficiency",
+            "balance"
+        ]
+    },
+    {
+        "q": "What is market efficiency?",
+        "type": "mcq",
+        "o": [
+            "Prices reflect available information",
+            "Prices wrong",
+            "No reflection",
+            "Random prices"
+        ]
+    },
+    {
+        "q": "Efficient market hypothesis has three forms.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is weak form efficiency?",
+        "type": "mcq",
+        "o": [
+            "Prices reflect past trading information",
+            "All information",
+            "No efficiency",
+            "Random form"
+        ]
+    },
+    {
+        "q": "Match the EMH forms:",
+        "type": "match",
+        "left": [
+            "Weak",
+            "Semi-strong",
+            "Strong",
+            "Anomaly"
+        ],
+        "right": [
+            "Past prices",
+            "Public info",
+            "All info",
+            "Market pattern"
+        ]
+    },
+    {
+        "q": "What is semi-strong efficiency?",
+        "type": "mcq",
+        "o": [
+            "Prices reflect all public information",
+            "Private only",
+            "No efficiency",
+            "Random form"
+        ]
+    },
+    {
+        "q": "Semi-strong efficiency implies fundamental analysis is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ineffective"
+        ],
+        "other_options": [
+            "effective",
+            "useful",
+            "valuable"
+        ]
+    },
+    {
+        "q": "What is strong form efficiency?",
+        "type": "mcq",
+        "o": [
+            "Prices reflect all information including private",
+            "Public only",
+            "No efficiency",
+            "Random form"
+        ]
+    },
+    {
+        "q": "Strong form efficiency implies insider trading adds no value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is market anomaly?",
+        "type": "mcq",
+        "o": [
+            "Pattern that contradicts efficiency",
+            "Supports efficiency",
+            "No pattern",
+            "Random occurrence"
+        ]
+    },
+    {
+        "q": "Match the market anomalies:",
+        "type": "match",
+        "left": [
+            "January effect",
+            "Momentum",
+            "Value premium",
+            "Size effect"
+        ],
+        "right": [
+            "Month pattern",
+            "Price continuation",
+            "Low P/B",
+            "Small cap"
+        ]
+    },
+    {
+        "q": "What is momentum effect?",
+        "type": "mcq",
+        "o": [
+            "Past winners continue to outperform",
+            "Reversal",
+            "No effect",
+            "Random performance"
+        ]
+    },
+    {
+        "q": "Momentum suggests prices trend in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "direction"
+        ],
+        "other_options": [
+            "random",
+            "opposite",
+            "neutral"
+        ]
+    },
+    {
+        "q": "What is mean reversion?",
+        "type": "mcq",
+        "o": [
+            "Prices tend to return to average",
+            "Trend continuation",
+            "No reversion",
+            "Random movement"
+        ]
+    },
+    {
+        "q": "Mean reversion contradicts momentum effect.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is factor investing?",
+        "type": "mcq",
+        "o": [
+            "Targeting specific return drivers",
+            "Single factor",
+            "No factor",
+            "Random investing"
+        ]
+    },
+    {
+        "q": "Match the investment factors:",
+        "type": "match",
+        "left": [
+            "Value",
+            "Size",
+            "Momentum",
+            "Quality"
+        ],
+        "right": [
+            "Low P/B",
+            "Small cap",
+            "Price trend",
+            "Profitability"
+        ]
+    },
+    {
+        "q": "What is Fama-French model?",
+        "type": "mcq",
+        "o": [
+            "Three-factor extension of CAPM",
+            "Single factor",
+            "No model",
+            "Random factors"
+        ]
+    },
+    {
+        "q": "Fama-French adds size and value ______.",
+        "type": "fill_blank",
+        "answers": [
+            "factors"
+        ],
+        "other_options": [
+            "costs",
+            "expenses",
+            "losses"
+        ]
+    },
+    {
+        "q": "What is arbitrage pricing theory?",
+        "type": "mcq",
+        "o": [
+            "Multi-factor asset pricing model",
+            "Single factor",
+            "No theory",
+            "Random pricing"
+        ]
+    },
+    {
+        "q": "APT allows multiple systematic risk factors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is risk parity?",
+        "type": "mcq",
+        "o": [
+            "Equal risk contribution from each asset",
+            "Equal weight",
+            "No parity",
+            "Random allocation"
+        ]
+    },
+    {
+        "q": "Match the portfolio strategies:",
+        "type": "match",
+        "left": [
+            "Risk parity",
+            "Equal weight",
+            "Market cap",
+            "Min variance"
+        ],
+        "right": [
+            "Equal risk",
+            "Equal allocation",
+            "Cap weighted",
+            "Lowest volatility"
+        ]
+    },
+    {
+        "q": "What is minimum variance portfolio?",
+        "type": "mcq",
+        "o": [
+            "Portfolio with lowest possible risk",
+            "Maximum risk",
+            "No portfolio",
+            "Random mix"
+        ]
+    },
+    {
+        "q": "Minimum variance is on the efficient ______.",
+        "type": "fill_blank",
+        "answers": [
+            "frontier"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is maximum Sharpe portfolio?",
+        "type": "mcq",
+        "o": [
+            "Portfolio with highest risk-adjusted return",
+            "Minimum variance",
+            "No portfolio",
+            "Random mix"
+        ]
+    },
+    {
+        "q": "Maximum Sharpe is the tangency portfolio.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is capital market line?",
+        "type": "mcq",
+        "o": [
+            "Line from risk-free to tangent portfolio",
+            "Security line",
+            "No line",
+            "Random line"
+        ]
+    },
+    {
+        "q": "Match the CAPM lines:",
+        "type": "match",
+        "left": [
+            "CML",
+            "SML",
+            "CAL",
+            "Characteristic"
+        ],
+        "right": [
+            "Total risk",
+            "Systematic risk",
+            "Investor specific",
+            "Fund performance"
+        ]
+    },
+    {
+        "q": "What is security market line?",
+        "type": "mcq",
+        "o": [
+            "Expected return versus beta relationship",
+            "CML",
+            "No line",
+            "Random line"
+        ]
+    },
+    {
+        "q": "SML shows required return for given ______.",
+        "type": "fill_blank",
+        "answers": [
+            "beta"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is market portfolio in CAPM?",
+        "type": "mcq",
+        "o": [
+            "All investable assets weighted by value",
+            "Single asset",
+            "No portfolio",
+            "Random selection"
+        ]
+    },
+    {
+        "q": "Market portfolio has beta of one.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is capital allocation line?",
+        "type": "mcq",
+        "o": [
+            "Combinations of risk-free and risky portfolio",
+            "CML only",
+            "No line",
+            "Random line"
+        ]
+    },
+    {
+        "q": "Match the portfolio theory concepts:",
+        "type": "match",
+        "left": [
+            "CAL slope",
+            "Risk premium",
+            "Utility function",
+            "Indifference curve"
+        ],
+        "right": [
+            "Sharpe ratio",
+            "Excess return",
+            "Preference",
+            "Equal utility"
+        ]
+    },
+    {
+        "q": "What is utility function in finance?",
+        "type": "mcq",
+        "o": [
+            "Investor preference for risk and return",
+            "No preference",
+            "Random utility",
+            "Fixed function"
+        ]
+    },
+    {
+        "q": "Utility depends on risk ______.",
+        "type": "fill_blank",
+        "answers": [
+            "aversion"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is indifference curve?",
+        "type": "mcq",
+        "o": [
+            "Combinations giving equal satisfaction",
+            "Single point",
+            "No curve",
+            "Random line"
+        ]
+    },
+    {
+        "q": "Higher indifference curves represent more utility.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is certainty equivalent?",
+        "type": "mcq",
+        "o": [
+            "Guaranteed return giving same utility as risky",
+            "Risky return",
+            "No equivalent",
+            "Random return"
+        ]
+    },
+    {
+        "q": "Match the investor types:",
+        "type": "match",
+        "left": [
+            "Risk averse",
+            "Risk neutral",
+            "Risk seeking",
+            "Loss averse"
+        ],
+        "right": [
+            "Dislikes risk",
+            "Indifferent",
+            "Prefers risk",
+            "Hates losses"
+        ]
+    },
+    {
+        "q": "What is risk premium in investment?",
+        "type": "mcq",
+        "o": [
+            "Extra return for bearing risk",
+            "Risk-free return",
+            "No premium",
+            "Random return"
+        ]
+    },
+    {
+        "q": "Risk premium compensates for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "uncertainty"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is expected utility theory?",
+        "type": "mcq",
+        "o": [
+            "Decision making under uncertainty framework",
+            "No theory",
+            "Random decisions",
+            "Fixed choices"
+        ]
+    },
+    {
+        "q": "Expected utility maximizes weighted outcomes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is prospect theory?",
+        "type": "mcq",
+        "o": [
+            "Decision making with loss aversion and framing",
+            "Expected utility",
+            "No theory",
+            "Random theory"
+        ]
+    },
+    {
+        "q": "Match the decision frameworks:",
+        "type": "match",
+        "left": [
+            "Expected utility",
+            "Prospect",
+            "Regret",
+            "Bounded rationality"
+        ],
+        "right": [
+            "Probability weighted",
+            "Loss aversion",
+            "Minimize regret",
+            "Limited info"
+        ]
+    },
+    {
+        "q": "What is financial planning?",
+        "type": "mcq",
+        "o": [
+            "Comprehensive wealth management strategy",
+            "No planning",
+            "Random strategy",
+            "Fixed plan"
+        ]
+    },
+    {
+        "q": "Financial planning integrates all financial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "goals"
+        ],
+        "other_options": [
+            "costs",
+            "expenses",
+            "losses"
+        ]
+    },
+    {
+        "q": "What is investment policy statement?",
+        "type": "mcq",
+        "o": [
+            "Document defining investment objectives",
+            "No statement",
+            "Random document",
+            "Fixed policy"
+        ]
+    },
+    {
+        "q": "IPS guides portfolio construction and monitoring.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is time horizon in investing?",
+        "type": "mcq",
+        "o": [
+            "Investment period until goal achievement",
+            "No period",
+            "Random time",
+            "Fixed horizon"
+        ]
+    },
+    {
+        "q": "Match the IPS components:",
+        "type": "match",
+        "left": [
+            "Objectives",
+            "Constraints",
+            "Risk tolerance",
+            "Time horizon"
+        ],
+        "right": [
+            "Return/risk",
+            "Liquidity/legal",
+            "Ability/willingness",
+            "Investment period"
+        ]
+    },
+    {
+        "q": "What is liquidity constraint?",
+        "type": "mcq",
+        "o": [
+            "Need for readily accessible funds",
+            "No need",
+            "Random requirement",
+            "Fixed liquidity"
+        ]
+    },
+    {
+        "q": "Liquidity constraint affects asset ______.",
+        "type": "fill_blank",
+        "answers": [
+            "allocation"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is ethical investing?",
+        "type": "mcq",
+        "o": [
+            "Investing based on values and beliefs",
+            "No ethics",
+            "Random investing",
+            "Fixed rules"
+        ]
+    },
+    {
+        "q": "Ethical investing may exclude certain industries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is ESG investing?",
+        "type": "mcq",
+        "o": [
+            "Environmental, Social, Governance integration",
+            "No integration",
+            "Random factors",
+            "Fixed criteria"
+        ]
+    },
+    {
+        "q": "Match the sustainable investing:",
+        "type": "match",
+        "left": [
+            "ESG",
+            "SRI",
+            "Impact",
+            "Negative screening"
+        ],
+        "right": [
+            "Integration",
+            "Responsible",
+            "Measurable impact",
+            "Exclusion"
+        ]
+    },
+    {
+        "q": "What is impact investing?",
+        "type": "mcq",
+        "o": [
+            "Investing for measurable social impact",
+            "No impact",
+            "Random investing",
+            "Fixed return"
+        ]
+    },
+    {
+        "q": "Impact investing targets both return and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "impact"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is green bond?",
+        "type": "mcq",
+        "o": [
+            "Bond financing environmental projects",
+            "Regular bond",
+            "No bond",
+            "Random instrument"
+        ]
+    },
+    {
+        "q": "Green bonds fund climate-related investments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is corporate governance?",
+        "type": "mcq",
+        "o": [
+            "System of rules and practices for companies",
+            "No governance",
+            "Random rules",
+            "Fixed system"
+        ]
+    },
+    {
+        "q": "Match the governance elements:",
+        "type": "match",
+        "left": [
+            "Board",
+            "Shareholders",
+            "Management",
+            "Audit"
+        ],
+        "right": [
+            "Oversight",
+            "Owners",
+            "Operations",
+            "Verification"
+        ]
+    },
+    {
+        "q": "What is agency problem?",
+        "type": "mcq",
+        "o": [
+            "Conflict between principals and agents",
+            "No conflict",
+            "Random problem",
+            "Fixed issue"
+        ]
+    },
+    {
+        "q": "Agency problem arises from separation of ownership and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "control"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is stakeholder theory?",
+        "type": "mcq",
+        "o": [
+            "Considering all stakeholder interests",
+            "Shareholder only",
+            "No theory",
+            "Random consideration"
+        ]
+    },
+    {
+        "q": "Stakeholder theory broadens corporate responsibility.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is shareholder activism?",
+        "type": "mcq",
+        "o": [
+            "Shareholders influencing company decisions",
+            "Passive ownership",
+            "No activism",
+            "Random actions"
+        ]
+    },
+    {
+        "q": "Match the activism types:",
+        "type": "match",
+        "left": [
+            "Proxy voting",
+            "Engagement",
+            "Divestment",
+            "Shareholder proposal"
+        ],
+        "right": [
+            "Vote at meeting",
+            "Direct dialogue",
+            "Selling shares",
+            "Formal request"
+        ]
+    },
+    {
+        "q": "What is fiduciary duty?",
+        "type": "mcq",
+        "o": [
+            "Legal obligation to act in beneficiary's interest",
+            "No duty",
+            "Random obligation",
+            "Fixed requirement"
+        ]
+    },
+    {
+        "q": "Fiduciary duty requires loyalty and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "care"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "sales"
+        ]
+    },
+    {
+        "q": "What is prudent investor rule?",
+        "type": "mcq",
+        "o": [
+            "Standard of care for investment decisions",
+            "No rule",
+            "Random standard",
+            "Fixed guideline"
+        ]
+    },
+    {
+        "q": "Prudent investor considers portfolio as whole.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is securities regulation?",
+        "type": "mcq",
+        "o": [
+            "Laws governing securities markets",
+            "No regulation",
+            "Random rules",
+            "Fixed laws"
+        ]
+    },
+    {
+        "q": "Match the regulatory objectives:",
+        "type": "match",
+        "left": [
+            "Investor protection",
+            "Market integrity",
+            "Disclosure",
+            "Enforcement"
+        ],
+        "right": [
+            "Prevent fraud",
+            "Fair markets",
+            "Transparency",
+            "Compliance"
+        ]
+    },
+    {
+        "q": "What is insider trading?",
+        "type": "mcq",
+        "o": [
+            "Trading on material non-public information",
+            "Public information",
+            "No trading",
+            "Random trading"
+        ]
+    },
+    {
+        "q": "Insider trading is illegal in most ______.",
+        "type": "fill_blank",
+        "answers": [
+            "jurisdictions"
+        ],
+        "other_options": [
+            "markets",
+            "companies",
+            "products"
+        ]
+    },
+    {
+        "q": "What is market manipulation?",
+        "type": "mcq",
+        "o": [
+            "Artificial price influence for profit",
+            "Fair pricing",
+            "No manipulation",
+            "Random influence"
+        ]
+    },
+    {
+        "q": "Market manipulation undermines market integrity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is disclosure requirement?",
+        "type": "mcq",
+        "o": [
+            "Mandatory information sharing with stakeholders",
+            "No disclosure",
+            "Random sharing",
+            "Fixed information"
+        ]
+    },
+    {
+        "q": "Match the disclosure types:",
+        "type": "match",
+        "left": [
+            "Prospectus",
+            "Annual report",
+            "Quarterly report",
+            "Material event"
+        ],
+        "right": [
+            "IPO document",
+            "Yearly",
+            "Periodic",
+            "Significant news"
+        ]
+    },
+    {
+        "q": "What is compliance in finance?",
+        "type": "mcq",
+        "o": [
+            "Adhering to rules and regulations",
+            "No adherence",
+            "Random following",
+            "Fixed compliance"
+        ]
+    },
+    {
+        "q": "Compliance ensures legal and ethical ______.",
+        "type": "fill_blank",
+        "answers": [
+            "conduct"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "loss"
+        ]
+    },
+    {
+        "q": "What is risk management framework?",
+        "type": "mcq",
+        "o": [
+            "Structured approach to identify and manage risks",
+            "No framework",
+            "Random approach",
+            "Fixed method"
+        ]
+    },
+    {
+        "q": "Risk framework includes identification, assessment, and mitigation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is integrated reporting?",
+        "type": "mcq",
+        "o": [
+            "Combining financial and non-financial reporting",
+            "Financial only",
+            "No reporting",
+            "Random reporting"
+        ]
+    },
+    {
+        "q": "Match the reporting frameworks:",
+        "type": "match",
+        "left": [
+            "IFRS",
+            "GAAP",
+            "GRI",
+            "Integrated"
+        ],
+        "right": [
+            "International",
+            "US standards",
+            "Sustainability",
+            "Combined value"
+        ]
+    },
+    {
+        "q": "Integrated reporting provides holistic view of value creation.",
+        "type": "true_false",
+        "correct": "True"
+    }
+]

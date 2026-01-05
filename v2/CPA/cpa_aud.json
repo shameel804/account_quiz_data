@@ -1,0 +1,6240 @@
+[
+    {
+        "q": "What is an audit?",
+        "type": "mcq",
+        "o": [
+            "An independent examination of financial statements",
+            "A type of tax return",
+            "A method of bookkeeping",
+            "A financial investment strategy"
+        ]
+    },
+    {
+        "q": "Which organization sets auditing standards for public companies in the United States?",
+        "type": "mcq",
+        "o": [
+            "Public Company Accounting Oversight Board (PCAOB)",
+            "Financial Accounting Standards Board (FASB)",
+            "Securities and Exchange Commission (SEC)",
+            "American Institute of CPAs (AICPA)"
+        ]
+    },
+    {
+        "q": "The primary purpose of an audit is to provide reasonable assurance that financial statements are free from material misstatement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which type of audit opinion indicates financial statements are fairly presented in all material respects?",
+        "type": "mcq",
+        "o": [
+            "Unqualified opinion",
+            "Qualified opinion",
+            "Adverse opinion",
+            "Disclaimer of opinion"
+        ]
+    },
+    {
+        "q": "The ______ is responsible for the preparation and fair presentation of financial statements.",
+        "type": "fill_blank",
+        "answers": [
+            "management"
+        ],
+        "other_options": [
+            "auditor",
+            "board",
+            "shareholders"
+        ]
+    },
+    {
+        "q": "What does GAAS stand for?",
+        "type": "mcq",
+        "o": [
+            "Generally Accepted Auditing Standards",
+            "General Accounting and Auditing Standards",
+            "Government Approved Auditing Standards",
+            "Global Accounting Audit Standards"
+        ]
+    },
+    {
+        "q": "An auditor must be independent in both fact and appearance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is NOT a general standard under GAAS?",
+        "type": "mcq",
+        "o": [
+            "Adequate disclosure",
+            "Adequate training and proficiency",
+            "Independence",
+            "Due professional care"
+        ]
+    },
+    {
+        "q": "Match the audit opinion type with its meaning:",
+        "type": "match",
+        "left": [
+            "Unqualified",
+            "Qualified",
+            "Adverse",
+            "Disclaimer"
+        ],
+        "right": [
+            "Financial statements are fairly presented",
+            "Except for specific matter, statements are fair",
+            "Statements are NOT fairly presented",
+            "Unable to express an opinion"
+        ]
+    },
+    {
+        "q": "What is the concept of materiality in auditing?",
+        "type": "mcq",
+        "o": [
+            "The magnitude of an omission or misstatement that could influence user decisions",
+            "The physical materials used in accounting records",
+            "The cost of conducting an audit",
+            "The number of transactions in a period"
+        ]
+    },
+    {
+        "q": "Professional skepticism requires the auditor to have a questioning mind.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The ______ opinion is issued when the auditor cannot obtain sufficient appropriate audit evidence.",
+        "type": "fill_blank",
+        "answers": [
+            "disclaimer"
+        ],
+        "other_options": [
+            "qualified",
+            "adverse",
+            "unqualified"
+        ]
+    },
+    {
+        "q": "Which of the following is a fieldwork standard under GAAS?",
+        "type": "mcq",
+        "o": [
+            "Proper planning and supervision",
+            "Independence in mental attitude",
+            "Adequate training",
+            "Adequate disclosure"
+        ]
+    },
+    {
+        "q": "What is the purpose of an engagement letter?",
+        "type": "mcq",
+        "o": [
+            "To document the terms of the audit engagement",
+            "To summarize audit findings",
+            "To communicate with shareholders",
+            "To request management representations"
+        ]
+    },
+    {
+        "q": "What type of evidence is most reliable in an audit?",
+        "type": "mcq",
+        "o": [
+            "External documentary evidence",
+            "Internal documentation created by the client",
+            "Oral representations from management",
+            "Client-prepared schedules"
+        ]
+    },
+    {
+        "q": "The auditor is required to detect all fraud during an audit.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Rearrange the audit process phases in correct order:",
+        "type": "rearrange",
+        "words": [
+            "Planning",
+            "Risk Assessment",
+            "Testing",
+            "Evaluation",
+            "Reporting"
+        ]
+    },
+    {
+        "q": "Which document contains assertions by management about the financial statements?",
+        "type": "mcq",
+        "o": [
+            "Management representation letter",
+            "Engagement letter",
+            "Audit report",
+            "Internal control questionnaire"
+        ]
+    },
+    {
+        "q": "What is audit risk?",
+        "type": "mcq",
+        "o": [
+            "The risk that the auditor issues an inappropriate opinion",
+            "The risk of business failure",
+            "The risk of employee theft",
+            "The risk of management fraud"
+        ]
+    },
+    {
+        "q": "Control risk is the risk that a material misstatement will not be prevented or detected by internal controls.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The three components of audit risk are inherent risk, control risk, and ______ risk.",
+        "type": "fill_blank",
+        "answers": [
+            "detection"
+        ],
+        "other_options": [
+            "sampling",
+            "business",
+            "material"
+        ]
+    },
+    {
+        "q": "What does inherent risk refer to?",
+        "type": "mcq",
+        "o": [
+            "The susceptibility of an assertion to a material misstatement before considering internal controls",
+            "The risk that audit procedures will not detect a misstatement",
+            "The risk that internal controls will fail",
+            "The overall risk of the audit engagement"
+        ]
+    },
+    {
+        "q": "Match the audit risk component with its definition:",
+        "type": "match",
+        "left": [
+            "Inherent Risk",
+            "Control Risk",
+            "Detection Risk",
+            "Audit Risk"
+        ],
+        "right": [
+            "Susceptibility before controls",
+            "Controls fail to prevent error",
+            "Auditor fails to detect misstatement",
+            "Opinion is inappropriate"
+        ]
+    },
+    {
+        "q": "Which of the following increases detection risk?",
+        "type": "mcq",
+        "o": [
+            "Using less experienced audit staff",
+            "Increasing sample sizes",
+            "Performing more substantive procedures",
+            "Testing more controls"
+        ]
+    },
+    {
+        "q": "What is reasonable assurance in an audit context?",
+        "type": "mcq",
+        "o": [
+            "A high but not absolute level of assurance",
+            "A guarantee that no errors exist",
+            "A low level of confidence in findings",
+            "Assurance provided only to management"
+        ]
+    },
+    {
+        "q": "An auditor should maintain confidentiality of client information.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The AICPA Code of Professional Conduct applies to all CPA members.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which ethical principle requires CPAs to be straightforward and honest?",
+        "type": "mcq",
+        "o": [
+            "Integrity",
+            "Objectivity",
+            "Due care",
+            "Competence"
+        ]
+    },
+    {
+        "q": "The ______ threat occurs when a CPA promotes a client's position to the point of losing objectivity.",
+        "type": "fill_blank",
+        "answers": [
+            "advocacy"
+        ],
+        "other_options": [
+            "self-review",
+            "familiarity",
+            "intimidation"
+        ]
+    },
+    {
+        "q": "Match the ethical threat with its description:",
+        "type": "match",
+        "left": [
+            "Self-interest",
+            "Self-review",
+            "Advocacy",
+            "Familiarity"
+        ],
+        "right": [
+            "Financial interest affects judgment",
+            "Evaluating own previous work",
+            "Promoting client position",
+            "Close relationship impairs judgment"
+        ]
+    },
+    {
+        "q": "What is a safeguard against independence threats?",
+        "type": "mcq",
+        "o": [
+            "Peer review of audit work",
+            "Accepting gifts from clients",
+            "Having financial interest in the client",
+            "Auditing own work"
+        ]
+    },
+    {
+        "q": "Which of the following impairs auditor independence?",
+        "type": "mcq",
+        "o": [
+            "Direct financial interest in an audit client",
+            "Attending client industry conferences",
+            "Using client facilities for the audit",
+            "Receiving audit fees from the client"
+        ]
+    },
+    {
+        "q": "A CPA can perform bookkeeping services and audit the same public company client.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the purpose of professional skepticism?",
+        "type": "mcq",
+        "o": [
+            "To approach the audit with a questioning mind",
+            "To assume management is dishonest",
+            "To reduce audit costs",
+            "To speed up the audit process"
+        ]
+    },
+    {
+        "q": "An engagement quality review is required for audits of public companies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does the term due professional care mean?",
+        "type": "mcq",
+        "o": [
+            "Exercising professional skill and diligence expected of a competent auditor",
+            "Completing the audit as quickly as possible",
+            "Minimizing audit fees",
+            "Avoiding complex audit procedures"
+        ]
+    },
+    {
+        "q": "The ______ is the risk that the auditor's procedures will not detect a material misstatement.",
+        "type": "fill_blank",
+        "answers": [
+            "detection risk"
+        ],
+        "other_options": [
+            "inherent risk",
+            "control risk",
+            "audit risk"
+        ]
+    },
+    {
+        "q": "Which of the following is an example of substantive testing?",
+        "type": "mcq",
+        "o": [
+            "Confirming accounts receivable balances with customers",
+            "Testing segregation of duties",
+            "Observing physical security measures",
+            "Reviewing the organizational chart"
+        ]
+    },
+    {
+        "q": "What is the difference between tests of controls and substantive tests?",
+        "type": "mcq",
+        "o": [
+            "Tests of controls evaluate the operating effectiveness of controls; substantive tests detect errors in accounts",
+            "Tests of controls detect errors; substantive tests evaluate controls",
+            "Both serve the same purpose",
+            "Tests of controls are required; substantive tests are optional"
+        ]
+    },
+    {
+        "q": "Analytical procedures must be performed in both the planning and completion stages of an audit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are analytical procedures in auditing?",
+        "type": "mcq",
+        "o": [
+            "Evaluations of financial information through comparisons and relationships",
+            "Physical examination of assets",
+            "Confirmation of balances with third parties",
+            "Inquiry of management"
+        ]
+    },
+    {
+        "q": "Match the audit procedure with its type:",
+        "type": "match",
+        "left": [
+            "Vouching",
+            "Tracing",
+            "Confirmation",
+            "Observation"
+        ],
+        "right": [
+            "Testing source to ledger",
+            "Testing ledger to source",
+            "Obtaining external verification",
+            "Watching procedures performed"
+        ]
+    },
+    {
+        "q": "Vouching tests for the ______ assertion.",
+        "type": "fill_blank",
+        "answers": [
+            "occurrence"
+        ],
+        "other_options": [
+            "completeness",
+            "valuation",
+            "rights"
+        ]
+    },
+    {
+        "q": "Tracing tests for which assertion?",
+        "type": "mcq",
+        "o": [
+            "Completeness",
+            "Occurrence",
+            "Valuation",
+            "Presentation"
+        ]
+    },
+    {
+        "q": "What is the purpose of an internal control questionnaire?",
+        "type": "mcq",
+        "o": [
+            "To document the auditor's understanding of internal controls",
+            "To test account balances",
+            "To confirm transactions with third parties",
+            "To prepare the financial statements"
+        ]
+    },
+    {
+        "q": "Internal controls provide absolute assurance against fraud.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Rearrange the COSO internal control components in order:",
+        "type": "rearrange",
+        "words": [
+            "Control Environment",
+            "Risk Assessment",
+            "Control Activities",
+            "Information",
+            "Monitoring"
+        ]
+    },
+    {
+        "q": "Which COSO component is the foundation of all other components?",
+        "type": "mcq",
+        "o": [
+            "Control environment",
+            "Risk assessment",
+            "Control activities",
+            "Monitoring"
+        ]
+    },
+    {
+        "q": "What does COSO stand for?",
+        "type": "mcq",
+        "o": [
+            "Committee of Sponsoring Organizations",
+            "Commission on Standard Operating procedures",
+            "Council of Security Organizations",
+            "Committee on Standards and Operations"
+        ]
+    },
+    {
+        "q": "The ______ is responsible for establishing the tone at the top of an organization.",
+        "type": "fill_blank",
+        "answers": [
+            "board of directors"
+        ],
+        "other_options": [
+            "auditor",
+            "employees",
+            "regulators"
+        ]
+    },
+    {
+        "q": "Which of the following is an example of a preventive control?",
+        "type": "mcq",
+        "o": [
+            "Segregation of duties",
+            "Bank reconciliation",
+            "Exception report review",
+            "Variance analysis"
+        ]
+    },
+    {
+        "q": "A detective control is designed to identify errors after they occur.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the control type with its example:",
+        "type": "match",
+        "left": [
+            "Preventive",
+            "Detective",
+            "Corrective",
+            "Compensating"
+        ],
+        "right": [
+            "Segregation of duties",
+            "Bank reconciliation",
+            "Error correction procedures",
+            "Additional review when controls are weak"
+        ]
+    },
+    {
+        "q": "What is segregation of duties?",
+        "type": "mcq",
+        "o": [
+            "Dividing responsibilities among different people to reduce fraud risk",
+            "Assigning all duties to one person for efficiency",
+            "Rotating employees between departments",
+            "Hiring external consultants"
+        ]
+    },
+    {
+        "q": "Which three functions should be segregated for proper internal control?",
+        "type": "mcq",
+        "o": [
+            "Authorization, custody, and recording",
+            "Planning, execution, and reporting",
+            "Hiring, training, and evaluating",
+            "Purchasing, receiving, and selling"
+        ]
+    },
+    {
+        "q": "A significant deficiency is more severe than a material weakness.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is a material weakness in internal control?",
+        "type": "mcq",
+        "o": [
+            "A deficiency where there is a reasonable possibility a material misstatement will not be prevented or detected",
+            "A minor control weakness",
+            "A suggestion for improvement",
+            "An error in the financial statements"
+        ]
+    },
+    {
+        "q": "The auditor must communicate ______ weaknesses to those charged with governance.",
+        "type": "fill_blank",
+        "answers": [
+            "material"
+        ],
+        "other_options": [
+            "minor",
+            "all",
+            "documented"
+        ]
+    },
+    {
+        "q": "What is the purpose of walkthrough procedures?",
+        "type": "mcq",
+        "o": [
+            "To trace a transaction from initiation to recording in the financial statements",
+            "To physically count inventory",
+            "To confirm balances with third parties",
+            "To review the prior year audit report"
+        ]
+    },
+    {
+        "q": "Who are those charged with governance?",
+        "type": "mcq",
+        "o": [
+            "The persons responsible for overseeing the strategic direction and accountability of the entity",
+            "All employees of the company",
+            "External auditors only",
+            "Government regulators"
+        ]
+    },
+    {
+        "q": "The audit committee is typically composed of independent members of the board of directors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of audit documentation (working papers)?",
+        "type": "mcq",
+        "o": [
+            "To provide evidence of the basis for the auditor's conclusions",
+            "To replace the management representation letter",
+            "To serve as financial statements",
+            "To communicate with shareholders"
+        ]
+    },
+    {
+        "q": "Audit documentation should be retained for a minimum of ______ years for public companies under PCAOB standards.",
+        "type": "fill_blank",
+        "answers": [
+            "seven"
+        ],
+        "other_options": [
+            "five",
+            "three",
+            "ten"
+        ]
+    },
+    {
+        "q": "Match the documentation term with its description:",
+        "type": "match",
+        "left": [
+            "Permanent file",
+            "Current file",
+            "Lead schedule",
+            "Working trial balance"
+        ],
+        "right": [
+            "Ongoing significance documents",
+            "Current year documents",
+            "Summary of account detail",
+            "Adjusted account balances"
+        ]
+    },
+    {
+        "q": "What belongs in the permanent audit file?",
+        "type": "mcq",
+        "o": [
+            "Client's articles of incorporation",
+            "Current year bank reconciliations",
+            "This year's accounts receivable confirmations",
+            "Current period adjusting entries"
+        ]
+    },
+    {
+        "q": "What is the purpose of tick marks in audit documentation?",
+        "type": "mcq",
+        "o": [
+            "To indicate the nature of audit work performed",
+            "To replace written explanations",
+            "To identify errors",
+            "To sign off on the engagement"
+        ]
+    },
+    {
+        "q": "All audit documentation must be reviewed by a supervisor or manager.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a lead schedule?",
+        "type": "mcq",
+        "o": [
+            "A working paper that summarizes similar accounts and shows the relationships to supporting schedules",
+            "A list of audit team members",
+            "The first page of the audit report",
+            "A schedule of client contacts"
+        ]
+    },
+    {
+        "q": "Which of the following is considered a subsequent event?",
+        "type": "mcq",
+        "o": [
+            "An event occurring between the balance sheet date and the audit report date",
+            "A transaction recorded in the current period",
+            "An event that occurred in the prior period",
+            "A future planned transaction"
+        ]
+    },
+    {
+        "q": "Type I subsequent events require adjustment to the financial statements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The ______ is primarily responsible for identifying subsequent events.",
+        "type": "fill_blank",
+        "answers": [
+            "management"
+        ],
+        "other_options": [
+            "auditor",
+            "board",
+            "shareholders"
+        ]
+    },
+    {
+        "q": "What is a Type II subsequent event?",
+        "type": "mcq",
+        "o": [
+            "An event that provides evidence about conditions that did not exist at the balance sheet date",
+            "An event that provides evidence about conditions existing at the balance sheet date",
+            "A management representation",
+            "An audit procedure"
+        ]
+    },
+    {
+        "q": "Match the subsequent event type with its treatment:",
+        "type": "match",
+        "left": [
+            "Type I (Recognized)",
+            "Type II (Non-recognized)"
+        ],
+        "right": [
+            "Requires adjustment to financial statements",
+            "Requires disclosure only"
+        ]
+    },
+    {
+        "q": "Which of the following is an example of a Type I subsequent event?",
+        "type": "mcq",
+        "o": [
+            "Settlement of litigation that was pending at year-end",
+            "A fire that destroyed the warehouse after year-end",
+            "A stock split declared after year-end",
+            "Acquisition of a new company after year-end"
+        ]
+    },
+    {
+        "q": "What is the auditor's responsibility for events after the audit report date?",
+        "type": "mcq",
+        "o": [
+            "No active duty to investigate but must respond if facts come to attention",
+            "Continuous monitoring until financial statements are issued",
+            "No responsibility whatsoever",
+            "Must reissue the audit report"
+        ]
+    },
+    {
+        "q": "Going concern is an important consideration in every audit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does going concern mean?",
+        "type": "mcq",
+        "o": [
+            "The entity will continue operating for the foreseeable future",
+            "The entity is about to liquidate",
+            "The entity has significant debts",
+            "The entity needs to raise capital"
+        ]
+    },
+    {
+        "q": "The auditor must evaluate management's assessment of going concern for at least ______ year from the balance sheet date.",
+        "type": "fill_blank",
+        "answers": [
+            "one"
+        ],
+        "other_options": [
+            "two",
+            "three",
+            "five"
+        ]
+    },
+    {
+        "q": "Which of the following is a potential indicator of going concern problems?",
+        "type": "mcq",
+        "o": [
+            "Recurring operating losses",
+            "Steady profit growth",
+            "Low debt levels",
+            "Strong cash position"
+        ]
+    },
+    {
+        "q": "If substantial doubt about going concern exists, the auditor should issue an adverse opinion.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the effect on the audit report when there is substantial doubt about going concern?",
+        "type": "mcq",
+        "o": [
+            "Addition of an emphasis-of-matter paragraph",
+            "Automatic adverse opinion",
+            "Withdrawal from the engagement",
+            "No effect on the report"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in going concern evaluation:",
+        "type": "rearrange",
+        "words": [
+            "Identify conditions",
+            "Consider management plans",
+            "Evaluate adequacy",
+            "Conclude",
+            "Report"
+        ]
+    },
+    {
+        "q": "What is meant by audit sampling?",
+        "type": "mcq",
+        "o": [
+            "Selecting less than 100 percent of items for testing",
+            "Testing every transaction",
+            "Using only analytical procedures",
+            "Confirming all balances"
+        ]
+    },
+    {
+        "q": "Statistical sampling allows the auditor to quantify sampling risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The risk of incorrect acceptance is the risk that the sample supports the conclusion that the account balance is not materially misstated when it actually is.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the sampling risk with its consequence:",
+        "type": "match",
+        "left": [
+            "Risk of Incorrect Acceptance",
+            "Risk of Incorrect Rejection",
+            "Risk of Overreliance",
+            "Risk of Underreliance"
+        ],
+        "right": [
+            "Accept when should reject",
+            "Reject when should accept",
+            "Rely on controls that are weak",
+            "Not rely when controls are effective"
+        ]
+    },
+    {
+        "q": "What is the sampling unit?",
+        "type": "mcq",
+        "o": [
+            "The individual item comprising the population being sampled",
+            "The total population being tested",
+            "The sample size",
+            "The sampling method used"
+        ]
+    },
+    {
+        "q": "The ______ is the entire group of items from which the sample is selected.",
+        "type": "fill_blank",
+        "answers": [
+            "population"
+        ],
+        "other_options": [
+            "sample",
+            "unit",
+            "selection"
+        ]
+    },
+    {
+        "q": "Which of the following is a nonstatistical sampling method?",
+        "type": "mcq",
+        "o": [
+            "Haphazard selection",
+            "Random number sampling",
+            "Systematic sampling with a random start",
+            "Probability-proportional-to-size sampling"
+        ]
+    },
+    {
+        "q": "Sample size is inversely related to tolerable misstatement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is tolerable misstatement?",
+        "type": "mcq",
+        "o": [
+            "The maximum misstatement in the population that the auditor is willing to accept",
+            "The actual error found in the sample",
+            "The total balance of an account",
+            "The sampling risk level"
+        ]
+    },
+    {
+        "q": "What is the purpose of stratification in audit sampling?",
+        "type": "mcq",
+        "o": [
+            "To divide the population into subgroups to improve sampling efficiency",
+            "To test every item in the population",
+            "To reduce the overall sample size to zero",
+            "To eliminate the need for statistical methods"
+        ]
+    },
+    {
+        "q": "The ______ sample size depends on the desired confidence level, tolerable deviation rate, and expected deviation rate.",
+        "type": "fill_blank",
+        "answers": [
+            "attribute"
+        ],
+        "other_options": [
+            "variables",
+            "proportional",
+            "stratified"
+        ]
+    },
+    {
+        "q": "What is the difference between attribute sampling and variables sampling?",
+        "type": "mcq",
+        "o": [
+            "Attribute sampling tests for deviations; variables sampling estimates dollar amounts",
+            "Attribute sampling is for balances; variables sampling is for controls",
+            "Both are the same",
+            "Attribute sampling is statistical; variables sampling is not"
+        ]
+    },
+    {
+        "q": "What is probability-proportional-to-size (PPS) sampling?",
+        "type": "mcq",
+        "o": [
+            "A sampling method where larger items have a higher probability of selection",
+            "A method where all items have equal chance of selection",
+            "A nonstatistical approach",
+            "A method used only for control testing"
+        ]
+    },
+    {
+        "q": "PPS sampling is most appropriate for testing for overstatement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are management assertions?",
+        "type": "mcq",
+        "o": [
+            "Representations by management embodied in the financial statements",
+            "Audit procedures performed by the auditor",
+            "Statements made by third parties",
+            "Internal control objectives"
+        ]
+    },
+    {
+        "q": "Match the assertion category with the assertion:",
+        "type": "match",
+        "left": [
+            "Existence",
+            "Completeness",
+            "Rights and Obligations",
+            "Valuation"
+        ],
+        "right": [
+            "Assets and liabilities exist",
+            "All transactions are recorded",
+            "Entity owns the assets",
+            "Amounts are properly recorded"
+        ]
+    },
+    {
+        "q": "The ______ assertion addresses whether all transactions that should be recorded have been recorded.",
+        "type": "fill_blank",
+        "answers": [
+            "completeness"
+        ],
+        "other_options": [
+            "existence",
+            "valuation",
+            "rights"
+        ]
+    },
+    {
+        "q": "Which assertion is tested when confirming accounts receivable?",
+        "type": "mcq",
+        "o": [
+            "Existence",
+            "Completeness",
+            "Presentation",
+            "Classification"
+        ]
+    },
+    {
+        "q": "What is the purpose of performing cutoff tests?",
+        "type": "mcq",
+        "o": [
+            "To ensure transactions are recorded in the correct period",
+            "To verify account balances",
+            "To test segregation of duties",
+            "To confirm external balances"
+        ]
+    },
+    {
+        "q": "Cutoff tests address the completeness and occurrence assertions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an audit program?",
+        "type": "mcq",
+        "o": [
+            "A detailed list of audit procedures to be performed",
+            "Software used for auditing",
+            "The audit report",
+            "A training manual for auditors"
+        ]
+    },
+    {
+        "q": "The ______ is a summary of all audit adjustments proposed during the engagement.",
+        "type": "fill_blank",
+        "answers": [
+            "summary of audit differences"
+        ],
+        "other_options": [
+            "lead schedule",
+            "working trial balance",
+            "permanent file"
+        ]
+    },
+    {
+        "q": "What is a passed adjustment?",
+        "type": "mcq",
+        "o": [
+            "A misstatement that the auditor decides not to record because it is immaterial",
+            "An adjustment that management agreed to record",
+            "An error that was corrected",
+            "A prior period adjustment"
+        ]
+    },
+    {
+        "q": "Passed adjustments should be accumulated and considered in aggregate for materiality.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is fraud in an audit context?",
+        "type": "mcq",
+        "o": [
+            "An intentional act involving deception resulting in material misstatement",
+            "An unintentional error in the financial statements",
+            "A control deficiency",
+            "A violation of company policy"
+        ]
+    },
+    {
+        "q": "Match the fraud type with its description:",
+        "type": "match",
+        "left": [
+            "Fraudulent Financial Reporting",
+            "Misappropriation of Assets",
+            "Corruption"
+        ],
+        "right": [
+            "Intentional manipulation of statements",
+            "Theft of company resources",
+            "Bribery and kickbacks"
+        ]
+    },
+    {
+        "q": "The ______ triangle consists of incentive/pressure, opportunity, and rationalization.",
+        "type": "fill_blank",
+        "answers": [
+            "fraud"
+        ],
+        "other_options": [
+            "audit",
+            "risk",
+            "control"
+        ]
+    },
+    {
+        "q": "Which of the following is a fraud risk factor related to opportunity?",
+        "type": "mcq",
+        "o": [
+            "Weak internal controls",
+            "Financial distress",
+            "Personal financial problems",
+            "History of litigation"
+        ]
+    },
+    {
+        "q": "Management override of controls is a presumed fraud risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is revenue recognition fraud?",
+        "type": "mcq",
+        "o": [
+            "Recording fictitious sales or premature revenue recognition",
+            "Underreporting expenses",
+            "Misclassifying assets",
+            "Overstating liabilities"
+        ]
+    },
+    {
+        "q": "Which of the following is a response to identified fraud risks?",
+        "type": "mcq",
+        "o": [
+            "Increasing the unpredictability of audit procedures",
+            "Decreasing sample sizes",
+            "Relying more on management representations",
+            "Reducing testing of journal entries"
+        ]
+    },
+    {
+        "q": "Rearrange the auditor's response to fraud risks:",
+        "type": "rearrange",
+        "words": [
+            "Identify risks",
+            "Assess risks",
+            "Design responses",
+            "Perform procedures",
+            "Evaluate findings"
+        ]
+    },
+    {
+        "q": "What is the brainstorming session in a fraud context?",
+        "type": "mcq",
+        "o": [
+            "A required discussion among audit team members about fraud risks",
+            "A client meeting to discuss controls",
+            "A planning session for the audit budget",
+            "A review of prior year findings"
+        ]
+    },
+    {
+        "q": "Journal entry testing is required to address the risk of management override.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What should the auditor do when fraud is suspected?",
+        "type": "mcq",
+        "o": [
+            "Obtain additional evidence and consider the implications",
+            "Immediately withdraw from the engagement",
+            "Notify the police",
+            "Ignore it if immaterial"
+        ]
+    },
+    {
+        "q": "The auditor must communicate fraud involving management to those charged with governance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an illegal act in auditing?",
+        "type": "mcq",
+        "o": [
+            "Violations of laws or regulations",
+            "Errors in financial statements",
+            "Misstatements due to fraud",
+            "Violations of GAAP only"
+        ]
+    },
+    {
+        "q": "Match the communication requirement with its recipient:",
+        "type": "match",
+        "left": [
+            "Material weaknesses",
+            "Fraud by management",
+            "Audit scope limitations",
+            "Going concern doubts"
+        ],
+        "right": [
+            "Audit committee",
+            "Those charged with governance",
+            "Users of audit report",
+            "Financial statement users"
+        ]
+    },
+    {
+        "q": "The ______ opinion is issued when the scope of the audit was limited.",
+        "type": "fill_blank",
+        "answers": [
+            "qualified"
+        ],
+        "other_options": [
+            "adverse",
+            "unqualified",
+            "standard"
+        ]
+    },
+    {
+        "q": "What is an emphasis-of-matter paragraph?",
+        "type": "mcq",
+        "o": [
+            "A paragraph that draws attention to a matter already disclosed in the financial statements",
+            "A paragraph that modifies the auditor's opinion",
+            "A paragraph that limits the auditor's liability",
+            "A required paragraph in all audit reports"
+        ]
+    },
+    {
+        "q": "An emphasis-of-matter paragraph does not affect the auditor's opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an other-matter paragraph?",
+        "type": "mcq",
+        "o": [
+            "A paragraph about matters not disclosed in the financial statements relevant to understanding the audit",
+            "A paragraph that modifies the opinion",
+            "A standard paragraph in every report",
+            "A limitation on the auditor's responsibility"
+        ]
+    },
+    {
+        "q": "When is a qualified opinion appropriate?",
+        "type": "mcq",
+        "o": [
+            "When there is a material but not pervasive misstatement or scope limitation",
+            "When financial statements are materially misstated in a pervasive manner",
+            "When financial statements are fairly presented",
+            "When the auditor lacks independence"
+        ]
+    },
+    {
+        "q": "An adverse opinion indicates that financial statements are materially misstated in a pervasive manner.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange the levels of audit opinion from best to worst:",
+        "type": "rearrange",
+        "words": [
+            "Unqualified",
+            "Qualified",
+            "Adverse",
+            "Disclaimer"
+        ]
+    },
+    {
+        "q": "What does the phrase except for mean in a qualified opinion?",
+        "type": "mcq",
+        "o": [
+            "The financial statements are fairly presented except for a specific departure",
+            "The auditor is not responsible for certain areas",
+            "Management disagrees with the auditor",
+            "The engagement was terminated early"
+        ]
+    },
+    {
+        "q": "A disclaimer of opinion results from the auditor's inability to obtain sufficient evidence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the Key Audit Matters (KAM) section?",
+        "type": "mcq",
+        "o": [
+            "Matters communicated to those charged with governance that required significant auditor attention",
+            "A list of all audit procedures performed",
+            "A summary of financial statement errors",
+            "Management's responsibility statement"
+        ]
+    },
+    {
+        "q": "KAM is required for audits of ______ companies under PCAOB standards.",
+        "type": "fill_blank",
+        "answers": [
+            "public"
+        ],
+        "other_options": [
+            "private",
+            "small",
+            "nonprofit"
+        ]
+    },
+    {
+        "q": "Match the report section with its content:",
+        "type": "match",
+        "left": [
+            "Opinion",
+            "Basis for Opinion",
+            "Responsibilities of Management",
+            "Auditor's Responsibilities"
+        ],
+        "right": [
+            "Conclusion on financial statements",
+            "Work performed to support opinion",
+            "Preparation and fair presentation",
+            "Obtain reasonable assurance"
+        ]
+    },
+    {
+        "q": "What is meant by comparative financial statements?",
+        "type": "mcq",
+        "o": [
+            "Financial statements for two or more periods presented side by side",
+            "Statements compared to competitors",
+            "Statements compared to budgets",
+            "Statements compared to industry averages"
+        ]
+    },
+    {
+        "q": "When reissuing a report on prior period financial statements, the auditor uses the ______ date.",
+        "type": "fill_blank",
+        "answers": [
+            "original"
+        ],
+        "other_options": [
+            "current",
+            "updated",
+            "new"
+        ]
+    },
+    {
+        "q": "What is a reissued audit report?",
+        "type": "mcq",
+        "o": [
+            "A report that is issued again after the original report date without update",
+            "A new audit report for the current year",
+            "A report with a different opinion",
+            "A supplementary report"
+        ]
+    },
+    {
+        "q": "When a predecessor auditor's report is presented, the successor auditor may reference the predecessor's report.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a compilation engagement?",
+        "type": "mcq",
+        "o": [
+            "Presenting financial information without providing any assurance",
+            "Providing limited assurance on financial statements",
+            "Expressing an opinion on financial statements",
+            "Testing internal controls"
+        ]
+    },
+    {
+        "q": "A review engagement provides limited assurance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the attestation engagement with its level of assurance:",
+        "type": "match",
+        "left": [
+            "Audit",
+            "Review",
+            "Compilation",
+            "Agreed-Upon Procedures"
+        ],
+        "right": [
+            "Reasonable assurance",
+            "Limited assurance",
+            "No assurance",
+            "No assurance/findings only"
+        ]
+    },
+    {
+        "q": "Review procedures primarily consist of ______ and analytical procedures.",
+        "type": "fill_blank",
+        "answers": [
+            "inquiries"
+        ],
+        "other_options": [
+            "testing",
+            "confirmation",
+            "observation"
+        ]
+    },
+    {
+        "q": "What is an agreed-upon procedures engagement?",
+        "type": "mcq",
+        "o": [
+            "An engagement where the auditor performs specific procedures agreed upon with the client",
+            "A standard audit",
+            "A review with limited procedures",
+            "An engagement with no client input"
+        ]
+    },
+    {
+        "q": "In an agreed-upon procedures engagement, the practitioner issues a findings report, not an opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an examination engagement?",
+        "type": "mcq",
+        "o": [
+            "An attestation engagement providing reasonable assurance on subject matter",
+            "A review of internal controls only",
+            "A compilation of financial data",
+            "An engagement with no assurance"
+        ]
+    },
+    {
+        "q": "What is the purpose of attestation standards?",
+        "type": "mcq",
+        "o": [
+            "To provide a framework for engagements on subject matter other than financial statements",
+            "To replace GAAS",
+            "To govern tax preparation",
+            "To set ethical requirements"
+        ]
+    },
+    {
+        "q": "The ______ standards govern attestation engagements in the United States.",
+        "type": "fill_blank",
+        "answers": [
+            "SSAE"
+        ],
+        "other_options": [
+            "GAAS",
+            "GAAP",
+            "SAS"
+        ]
+    },
+    {
+        "q": "What is a SOC 1 report?",
+        "type": "mcq",
+        "o": [
+            "A report on controls at a service organization relevant to user entities' internal control over financial reporting",
+            "A report on privacy controls",
+            "A report on security controls for the public",
+            "A compliance report for regulators"
+        ]
+    },
+    {
+        "q": "Match the SOC report type with its purpose:",
+        "type": "match",
+        "left": [
+            "SOC 1",
+            "SOC 2",
+            "SOC 3"
+        ],
+        "right": [
+            "Financial reporting controls",
+            "Security and availability controls",
+            "General use public report"
+        ]
+    },
+    {
+        "q": "A Type 2 SOC report includes testing of controls over a period of time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between a Type 1 and Type 2 SOC report?",
+        "type": "mcq",
+        "o": [
+            "Type 1 reports on design only; Type 2 includes operating effectiveness over time",
+            "Type 1 is for public companies; Type 2 is for private",
+            "Type 1 covers more controls",
+            "There is no difference"
+        ]
+    },
+    {
+        "q": "A service auditor provides a report that can be used by user auditors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of a comfort letter?",
+        "type": "mcq",
+        "o": [
+            "To assist underwriters in securities offerings with due diligence",
+            "To provide an opinion on financial statements",
+            "To communicate with regulators",
+            "To replace the management letter"
+        ]
+    },
+    {
+        "q": "Comfort letters are typically issued by the ______ auditor.",
+        "type": "fill_blank",
+        "answers": [
+            "independent"
+        ],
+        "other_options": [
+            "internal",
+            "government",
+            "management"
+        ]
+    },
+    {
+        "q": "What is a prospective financial statement?",
+        "type": "mcq",
+        "o": [
+            "A financial statement that presents an entity's expected future results",
+            "A historical financial statement",
+            "A statement of cash flows only",
+            "A statement prepared for tax purposes"
+        ]
+    },
+    {
+        "q": "Match the prospective financial statement type with its description:",
+        "type": "match",
+        "left": [
+            "Financial Forecast",
+            "Financial Projection"
+        ],
+        "right": [
+            "Based on expected conditions",
+            "Based on hypothetical assumptions"
+        ]
+    },
+    {
+        "q": "Financial projections are for general use.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the difference between a forecast and a projection?",
+        "type": "mcq",
+        "o": [
+            "A forecast is based on expected conditions; a projection is based on hypothetical assumptions",
+            "A forecast is less reliable",
+            "A projection is for public use",
+            "There is no difference"
+        ]
+    },
+    {
+        "q": "Pro forma financial information shows the effect of hypothetical transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of internal auditing?",
+        "type": "mcq",
+        "o": [
+            "To provide independent assurance and consulting to improve operations",
+            "To issue an opinion on financial statements",
+            "To prepare tax returns",
+            "To replace external auditors"
+        ]
+    },
+    {
+        "q": "Internal auditors can provide assistance to external auditors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The ______ sets standards for internal auditing.",
+        "type": "fill_blank",
+        "answers": [
+            "IIA"
+        ],
+        "other_options": [
+            "AICPA",
+            "PCAOB",
+            "SEC"
+        ]
+    },
+    {
+        "q": "What factors affect the external auditor's use of internal auditors?",
+        "type": "mcq",
+        "o": [
+            "Competence, objectivity, and systematic approach",
+            "Number of internal auditors",
+            "Size of the company",
+            "Location of the company"
+        ]
+    },
+    {
+        "q": "Match the internal audit domain with its focus:",
+        "type": "match",
+        "left": [
+            "Operational Auditing",
+            "Compliance Auditing",
+            "Financial Auditing",
+            "IT Auditing"
+        ],
+        "right": [
+            "Efficiency and effectiveness",
+            "Adherence to laws and regulations",
+            "Financial statement reliability",
+            "Technology controls"
+        ]
+    },
+    {
+        "q": "What is government auditing?",
+        "type": "mcq",
+        "o": [
+            "Auditing of government entities following government auditing standards",
+            "Auditing performed only by the IRS",
+            "Private sector auditing",
+            "Auditing for public companies only"
+        ]
+    },
+    {
+        "q": "The ______ publishes Government Auditing Standards (Yellow Book).",
+        "type": "fill_blank",
+        "answers": [
+            "GAO"
+        ],
+        "other_options": [
+            "IRS",
+            "SEC",
+            "PCAOB"
+        ]
+    },
+    {
+        "q": "What is a single audit?",
+        "type": "mcq",
+        "o": [
+            "An audit of a non-federal entity that expends federal awards",
+            "An audit of a single financial statement",
+            "An audit performed by one auditor",
+            "An annual audit only"
+        ]
+    },
+    {
+        "q": "The Single Audit Act applies to entities expending more than $750,000 in federal awards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the Compliance Supplement?",
+        "type": "mcq",
+        "o": [
+            "A guide for auditing federal programs under the Single Audit",
+            "A tax preparation guide",
+            "A financial reporting standard",
+            "An IRS publication"
+        ]
+    },
+    {
+        "q": "Rearrange the components of a single audit report:",
+        "type": "rearrange",
+        "words": [
+            "Financial statements",
+            "Federal awards",
+            "Internal control",
+            "Compliance",
+            "Schedule"
+        ]
+    },
+    {
+        "q": "What is a major program in a single audit?",
+        "type": "mcq",
+        "o": [
+            "A federal program selected for audit based on risk and expenditure",
+            "Any federal program",
+            "The largest expense account",
+            "A program with no findings"
+        ]
+    },
+    {
+        "q": "Match the single audit component with its focus:",
+        "type": "match",
+        "left": [
+            "Schedule of Expenditures",
+            "Internal Control Opinion",
+            "Compliance Opinion",
+            "Schedule of Findings"
+        ],
+        "right": [
+            "Federal awards spent",
+            "Controls over federal programs",
+            "Compliance with program requirements",
+            "Audit findings and questioned costs"
+        ]
+    },
+    {
+        "q": "What is a questioned cost?",
+        "type": "mcq",
+        "o": [
+            "A cost that appears not to comply with federal requirements",
+            "A cost that management questions",
+            "A cost that is too high",
+            "A cost that was not budgeted"
+        ]
+    },
+    {
+        "q": "The ______ is the data collection form submitted after a single audit.",
+        "type": "fill_blank",
+        "answers": [
+            "SF-SAC"
+        ],
+        "other_options": [
+            "Form 990",
+            "1040",
+            "10-K"
+        ]
+    },
+    {
+        "q": "What is the purpose of the Federal Audit Clearinghouse?",
+        "type": "mcq",
+        "o": [
+            "To collect and maintain single audit data and reports",
+            "To perform federal audits",
+            "To set auditing standards",
+            "To approve federal grants"
+        ]
+    },
+    {
+        "q": "Independence standards for government audits are more restrictive than AICPA standards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the three types of government auditing standards independence threats?",
+        "type": "mcq",
+        "o": [
+            "Personal, external, and organizational impairments",
+            "Self-interest, advocacy, and familiarity",
+            "Financial, operational, and compliance",
+            "Audit, review, and compilation"
+        ]
+    },
+    {
+        "q": "Continuing professional education (CPE) is required for government auditors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a performance audit?",
+        "type": "mcq",
+        "o": [
+            "An audit that examines the economy, efficiency, and effectiveness of programs",
+            "An audit of financial statements only",
+            "An audit of tax returns",
+            "An audit of employee performance"
+        ]
+    },
+    {
+        "q": "Match the engagement type with its focus:",
+        "type": "match",
+        "left": [
+            "Financial Audit",
+            "Performance Audit",
+            "Agreed-Upon Procedures",
+            "Review"
+        ],
+        "right": [
+            "Financial statement opinion",
+            "Program economy and effectiveness",
+            "Specific procedure findings",
+            "Limited assurance"
+        ]
+    },
+    {
+        "q": "What is the purpose of quality control in an audit firm?",
+        "type": "mcq",
+        "o": [
+            "To provide reasonable assurance that professional standards are followed",
+            "To reduce audit fees",
+            "To train new employees only",
+            "To market audit services"
+        ]
+    },
+    {
+        "q": "The ______ are the quality control standards for CPA firms.",
+        "type": "fill_blank",
+        "answers": [
+            "SQCS"
+        ],
+        "other_options": [
+            "GAAS",
+            "SAS",
+            "SSAE"
+        ]
+    },
+    {
+        "q": "What are the elements of a quality control system?",
+        "type": "mcq",
+        "o": [
+            "Leadership, ethics, acceptance, human resources, engagement performance, and monitoring",
+            "Planning, testing, and reporting",
+            "Controls, risks, and procedures",
+            "Sampling, documentation, and review"
+        ]
+    },
+    {
+        "q": "Peer review is required for CPA firms that perform audits.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of an engagement quality control review?",
+        "type": "mcq",
+        "o": [
+            "To evaluate significant judgments and the audit report before issuance",
+            "To replace the audit manager's review",
+            "To train new auditors",
+            "To reduce audit costs"
+        ]
+    },
+    {
+        "q": "When does the auditor have a responsibility to communicate with the predecessor auditor?",
+        "type": "mcq",
+        "o": [
+            "Before accepting the engagement",
+            "After completing fieldwork",
+            "Only if fraud is discovered",
+            "Never - it is optional"
+        ]
+    },
+    {
+        "q": "What information should the successor auditor obtain from the predecessor?",
+        "type": "mcq",
+        "o": [
+            "Reasons for the change in auditors and disagreements with management",
+            "Only the prior year financial statements",
+            "Client billing information",
+            "Marketing strategies"
+        ]
+    },
+    {
+        "q": "The successor auditor must obtain the client's permission before communicating with the predecessor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary purpose of understanding the entity and its environment?",
+        "type": "mcq",
+        "o": [
+            "To identify and assess the risks of material misstatement",
+            "To reduce audit fees",
+            "To replace analytical procedures",
+            "To satisfy regulatory requirements only"
+        ]
+    },
+    {
+        "q": "Match the knowledge area with its example:",
+        "type": "match",
+        "left": [
+            "Industry conditions",
+            "Regulatory environment",
+            "Entity's objectives",
+            "Internal control"
+        ],
+        "right": [
+            "Competitive pressures",
+            "Tax laws and compliance",
+            "Business strategies",
+            "Control activities"
+        ]
+    },
+    {
+        "q": "The ______ is the process of identifying areas where material misstatements could occur.",
+        "type": "fill_blank",
+        "answers": [
+            "risk assessment"
+        ],
+        "other_options": [
+            "testing",
+            "reporting",
+            "planning"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a required procedure to understand the entity?",
+        "type": "mcq",
+        "o": [
+            "Confirming all receivables",
+            "Inquiries of management",
+            "Analytical procedures",
+            "Observation and inspection"
+        ]
+    },
+    {
+        "q": "What is a significant risk?",
+        "type": "mcq",
+        "o": [
+            "An identified risk of material misstatement requiring special audit consideration",
+            "Any risk in the audit",
+            "A risk that is not material",
+            "A risk that can be ignored"
+        ]
+    },
+    {
+        "q": "Revenue recognition is presumed to be a significant risk in most audits.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "How should the auditor respond to a significant risk?",
+        "type": "mcq",
+        "o": [
+            "Perform substantive procedures specifically responsive to that risk",
+            "Ignore it if internal controls are strong",
+            "Reduce sample sizes",
+            "Only document the risk"
+        ]
+    },
+    {
+        "q": "What is the difference between overall responses and responses at the assertion level?",
+        "type": "mcq",
+        "o": [
+            "Overall responses address risks at the financial statement level; assertion-level responses target specific risks",
+            "There is no difference",
+            "Overall responses are more detailed",
+            "Assertion-level responses are general"
+        ]
+    },
+    {
+        "q": "Match the risk level with the appropriate audit response:",
+        "type": "match",
+        "left": [
+            "High inherent risk",
+            "High control risk",
+            "Low detection risk needed",
+            "Significant risk"
+        ],
+        "right": [
+            "More substantive testing",
+            "Less reliance on controls",
+            "More audit evidence",
+            "Special audit consideration"
+        ]
+    },
+    {
+        "q": "Planning materiality is typically ______ than performance materiality.",
+        "type": "fill_blank",
+        "answers": [
+            "higher"
+        ],
+        "other_options": [
+            "lower",
+            "equal",
+            "unrelated"
+        ]
+    },
+    {
+        "q": "What is performance materiality?",
+        "type": "mcq",
+        "o": [
+            "The amount set below planning materiality to reduce the risk that aggregate misstatements exceed planning materiality",
+            "The same as planning materiality",
+            "Materiality for the entire financial statements",
+            "A measure of audit efficiency"
+        ]
+    },
+    {
+        "q": "How does the auditor determine materiality?",
+        "type": "mcq",
+        "o": [
+            "Using professional judgment based on a benchmark like total assets or net income",
+            "Asking management",
+            "Using a fixed percentage for all engagements",
+            "Based on audit fees"
+        ]
+    },
+    {
+        "q": "Materiality is a matter of professional judgment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What benchmark is commonly used for materiality in a for-profit entity?",
+        "type": "mcq",
+        "o": [
+            "Net income before taxes",
+            "Total liabilities",
+            "Number of employees",
+            "Market share"
+        ]
+    },
+    {
+        "q": "The auditor should revise materiality if circumstances change during the audit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the relationship between materiality and audit evidence?",
+        "type": "mcq",
+        "o": [
+            "Lower materiality requires more audit evidence",
+            "Higher materiality requires more evidence",
+            "There is no relationship",
+            "Materiality only affects reporting"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in determining materiality:",
+        "type": "rearrange",
+        "words": [
+            "Select benchmark",
+            "Apply percentage",
+            "Consider qualitative factors",
+            "Document judgment",
+            "Review"
+        ]
+    },
+    {
+        "q": "What is substantive testing?",
+        "type": "mcq",
+        "o": [
+            "Audit procedures designed to detect material misstatements at the assertion level",
+            "Testing of internal controls only",
+            "Preliminary analytical procedures",
+            "Client interviews"
+        ]
+    },
+    {
+        "q": "Substantive procedures include tests of details and ______ procedures.",
+        "type": "fill_blank",
+        "answers": [
+            "substantive analytical"
+        ],
+        "other_options": [
+            "control",
+            "planning",
+            "reporting"
+        ]
+    },
+    {
+        "q": "What is the purpose of a test of details?",
+        "type": "mcq",
+        "o": [
+            "To obtain audit evidence about specific account balances and disclosures",
+            "To evaluate internal controls",
+            "To understand the entity",
+            "To plan the audit"
+        ]
+    },
+    {
+        "q": "Match the substantive procedure with its description:",
+        "type": "match",
+        "left": [
+            "Confirmation",
+            "Recalculation",
+            "Reperformance",
+            "Inspection"
+        ],
+        "right": [
+            "External verification of balances",
+            "Checking mathematical accuracy",
+            "Independently executing procedures",
+            "Examining records or documents"
+        ]
+    },
+    {
+        "q": "External confirmation provides strong evidence for the ______ assertion.",
+        "type": "fill_blank",
+        "answers": [
+            "existence"
+        ],
+        "other_options": [
+            "completeness",
+            "valuation",
+            "presentation"
+        ]
+    },
+    {
+        "q": "What is a positive confirmation?",
+        "type": "mcq",
+        "o": [
+            "A request for the recipient to respond directly whether they agree or disagree",
+            "A request that requires no response if the balance is correct",
+            "An internal document",
+            "A management representation"
+        ]
+    },
+    {
+        "q": "Negative confirmations should only be used when certain conditions are met.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a condition for using negative confirmations?",
+        "type": "mcq",
+        "o": [
+            "Low assessed risk of material misstatement and large number of small balances",
+            "High risk of fraud",
+            "Complex transactions",
+            "First-year audit"
+        ]
+    },
+    {
+        "q": "What should the auditor do if no response is received to a positive confirmation?",
+        "type": "mcq",
+        "o": [
+            "Perform alternative procedures",
+            "Accept the balance as correct",
+            "Issue a disclaimer",
+            "Withdraw from the engagement"
+        ]
+    },
+    {
+        "q": "Match the confirmation type with its characteristic:",
+        "type": "match",
+        "left": [
+            "Positive",
+            "Negative",
+            "Blank"
+        ],
+        "right": [
+            "Always requires a response",
+            "Response only if disagrees",
+            "Recipient fills in the amount"
+        ]
+    },
+    {
+        "q": "What is a blank confirmation?",
+        "type": "mcq",
+        "o": [
+            "A confirmation that does not state the amount and requires the recipient to fill it in",
+            "A confirmation with no response",
+            "An unsigned confirmation",
+            "A confirmation for zero balances"
+        ]
+    },
+    {
+        "q": "Blank confirmations provide stronger evidence than positive confirmations with amounts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the auditor's responsibility for related party transactions?",
+        "type": "mcq",
+        "o": [
+            "To identify, assess risks, and evaluate related party transactions",
+            "To approve related party transactions",
+            "To prohibit related party transactions",
+            "No responsibility"
+        ]
+    },
+    {
+        "q": "Related party transactions may not be conducted at arm's length.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The ______ are parties that control or are controlled by the entity.",
+        "type": "fill_blank",
+        "answers": [
+            "related parties"
+        ],
+        "other_options": [
+            "auditors",
+            "regulators",
+            "competitors"
+        ]
+    },
+    {
+        "q": "What procedures help identify related parties?",
+        "type": "mcq",
+        "o": [
+            "Inquiring of management and reviewing board minutes",
+            "Only examining bank statements",
+            "Testing inventory counts",
+            "Confirming receivables"
+        ]
+    },
+    {
+        "q": "Which is an example of a related party transaction?",
+        "type": "mcq",
+        "o": [
+            "Sales to a company owned by the CEO's spouse",
+            "Sales to a regular customer",
+            "Payment of ordinary operating expenses",
+            "Normal dividend payments"
+        ]
+    },
+    {
+        "q": "The auditor should consider whether related party transactions were properly authorized.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an accounting estimate?",
+        "type": "mcq",
+        "o": [
+            "An approximation of a monetary amount in the absence of precise measurement",
+            "A confirmed balance",
+            "A historical cost",
+            "An exact amount"
+        ]
+    },
+    {
+        "q": "Match the accounting estimate with its example:",
+        "type": "match",
+        "left": [
+            "Bad debt allowance",
+            "Depreciation",
+            "Warranty liability",
+            "Fair value"
+        ],
+        "right": [
+            "Uncollectible receivables",
+            "Asset useful life",
+            "Future claims",
+            "Market valuation"
+        ]
+    },
+    {
+        "q": "Management is responsible for making accounting estimates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What should the auditor evaluate regarding accounting estimates?",
+        "type": "mcq",
+        "o": [
+            "Whether the estimates are reasonable and properly disclosed",
+            "Only whether estimates match prior year",
+            "Whether to decrease estimates",
+            "Only management's methodology"
+        ]
+    },
+    {
+        "q": "The ______ is the difference between the estimate and actual outcome.",
+        "type": "fill_blank",
+        "answers": [
+            "estimation uncertainty"
+        ],
+        "other_options": [
+            "audit risk",
+            "control risk",
+            "inherent risk"
+        ]
+    },
+    {
+        "q": "What is management bias in accounting estimates?",
+        "type": "mcq",
+        "o": [
+            "A lack of neutrality by management in preparing estimates",
+            "A mathematical error",
+            "A control deficiency",
+            "An ethical violation"
+        ]
+    },
+    {
+        "q": "Fair value measurements with significant unobservable inputs are Level ______.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "1",
+            "2",
+            "4"
+        ]
+    },
+    {
+        "q": "Match the fair value hierarchy level with its description:",
+        "type": "match",
+        "left": [
+            "Level 1",
+            "Level 2",
+            "Level 3"
+        ],
+        "right": [
+            "Quoted prices in active markets",
+            "Observable inputs other than Level 1",
+            "Unobservable inputs"
+        ]
+    },
+    {
+        "q": "What is the auditor's responsibility for fair value measurements?",
+        "type": "mcq",
+        "o": [
+            "To evaluate whether fair values are in accordance with the applicable framework",
+            "To determine fair values for management",
+            "To approve all valuations",
+            "No specific responsibility"
+        ]
+    },
+    {
+        "q": "The auditor may need to use a specialist for complex fair value measurements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an auditor's specialist?",
+        "type": "mcq",
+        "o": [
+            "A person with expertise in a field other than accounting or auditing",
+            "The audit partner",
+            "A client employee",
+            "A regulatory official"
+        ]
+    },
+    {
+        "q": "Examples of auditor's specialists include ______ and actuaries.",
+        "type": "fill_blank",
+        "answers": [
+            "appraisers"
+        ],
+        "other_options": [
+            "accountants",
+            "bookkeepers",
+            "managers"
+        ]
+    },
+    {
+        "q": "What should the auditor evaluate when using a specialist?",
+        "type": "mcq",
+        "o": [
+            "Competence, capabilities, and objectivity of the specialist",
+            "Only the specialist's fees",
+            "The specialist's marketing materials",
+            "The specialist's office location"
+        ]
+    },
+    {
+        "q": "The auditor can reference the specialist in an unqualified opinion.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is a management's specialist?",
+        "type": "mcq",
+        "o": [
+            "A specialist engaged by management to assist in preparing financial statements",
+            "An internal auditor",
+            "The external auditor",
+            "A board member"
+        ]
+    },
+    {
+        "q": "Match the specialist type with its engagement:",
+        "type": "match",
+        "left": [
+            "Auditor's specialist",
+            "Management's specialist"
+        ],
+        "right": [
+            "Assists auditor in obtaining evidence",
+            "Assists management in preparing information"
+        ]
+    },
+    {
+        "q": "What is the audit of inventory?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify existence, completeness, and valuation of inventory",
+            "Only counting inventory",
+            "Reviewing shipping documents",
+            "Confirming with suppliers"
+        ]
+    },
+    {
+        "q": "The auditor should attend physical inventory counting when inventory is material.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the primary objectives when observing inventory counts?",
+        "type": "mcq",
+        "o": [
+            "To evaluate management's procedures and verify quantities",
+            "To count all inventory personally",
+            "To supervise warehouse staff",
+            "To approve inventory levels"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in inventory observation:",
+        "type": "rearrange",
+        "words": [
+            "Plan observation",
+            "Review procedures",
+            "Observe counting",
+            "Perform test counts",
+            "Document results"
+        ]
+    },
+    {
+        "q": "The ______ assertion is tested by tracing from inventory records to physical counts.",
+        "type": "fill_blank",
+        "answers": [
+            "existence"
+        ],
+        "other_options": [
+            "completeness",
+            "valuation",
+            "rights"
+        ]
+    },
+    {
+        "q": "What procedures test the completeness assertion for inventory?",
+        "type": "mcq",
+        "o": [
+            "Tracing from physical counts to inventory records",
+            "Confirming with customers",
+            "Reviewing board minutes",
+            "Testing depreciation"
+        ]
+    },
+    {
+        "q": "What is the lower of cost or net realizable value test?",
+        "type": "mcq",
+        "o": [
+            "A test to ensure inventory is not overstated",
+            "A test of physical existence",
+            "A control test",
+            "A test of completeness"
+        ]
+    },
+    {
+        "q": "Inventory held at third parties should be confirmed or inspected.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the audit of accounts receivable?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify existence, rights, valuation, and collectability of receivables",
+            "Only sending confirmations",
+            "Reviewing cash receipts",
+            "Testing sales transactions"
+        ]
+    },
+    {
+        "q": "Match the receivables procedure with its assertion:",
+        "type": "match",
+        "left": [
+            "Confirmation",
+            "Allowance evaluation",
+            "Subsequent collection",
+            "Cutoff testing"
+        ],
+        "right": [
+            "Existence",
+            "Valuation",
+            "Collectability",
+            "Completeness and occurrence"
+        ]
+    },
+    {
+        "q": "Aging of receivables helps evaluate the ______ assertion.",
+        "type": "fill_blank",
+        "answers": [
+            "valuation"
+        ],
+        "other_options": [
+            "existence",
+            "rights",
+            "completeness"
+        ]
+    },
+    {
+        "q": "What is a lapping scheme?",
+        "type": "mcq",
+        "o": [
+            "Covering a shortage by applying subsequent receipts to earlier receivables",
+            "Falsifying inventory counts",
+            "Overstating expenses",
+            "Recording fictitious sales"
+        ]
+    },
+    {
+        "q": "Lapping is detected through confirmation and analysis of cash receipts timing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of testing subsequent cash receipts?",
+        "type": "mcq",
+        "o": [
+            "To provide evidence of collectability and existence of receivables",
+            "To test controls",
+            "To verify bank balances",
+            "To assess going concern"
+        ]
+    },
+    {
+        "q": "What is the audit of accounts payable?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify completeness, accuracy, and cutoff of liabilities",
+            "Confirming all payables",
+            "Testing inventory",
+            "Reviewing revenue"
+        ]
+    },
+    {
+        "q": "The primary assertion concern for accounts payable is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "completeness"
+        ],
+        "other_options": [
+            "existence",
+            "valuation",
+            "rights"
+        ]
+    },
+    {
+        "q": "What is a search for unrecorded liabilities?",
+        "type": "mcq",
+        "o": [
+            "Procedures to identify liabilities not recorded at year-end",
+            "Confirming recorded payables",
+            "Testing controls over payables",
+            "Reviewing purchase orders"
+        ]
+    },
+    {
+        "q": "Match the payables procedure with its purpose:",
+        "type": "match",
+        "left": [
+            "Cutoff testing",
+            "Vendor statement reconciliation",
+            "Subsequent payments review",
+            "Confirmation"
+        ],
+        "right": [
+            "Proper period recording",
+            "Reconcile to payables balance",
+            "Identify unrecorded liabilities",
+            "Verify balance with vendor"
+        ]
+    },
+    {
+        "q": "Payables confirmations are less effective than receivables confirmations because vendors have an incentive to confirm amounts owed to them.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the audit of property, plant, and equipment (PPE)?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify existence, valuation, and proper capitalization of fixed assets",
+            "Only physical inspection",
+            "Testing depreciation only",
+            "Confirming with vendors"
+        ]
+    },
+    {
+        "q": "Capitalization policies determine whether an expenditure is ______ or expensed.",
+        "type": "fill_blank",
+        "answers": [
+            "capitalized"
+        ],
+        "other_options": [
+            "confirmed",
+            "disclosed",
+            "recorded"
+        ]
+    },
+    {
+        "q": "What procedures test existence of PPE?",
+        "type": "mcq",
+        "o": [
+            "Physical inspection and vouching additions",
+            "Confirming with banks",
+            "Testing subsequent events",
+            "Reviewing going concern"
+        ]
+    },
+    {
+        "q": "Match the PPE assertion with its procedure:",
+        "type": "match",
+        "left": [
+            "Existence",
+            "Valuation",
+            "Completeness",
+            "Rights"
+        ],
+        "right": [
+            "Physical inspection",
+            "Review impairment",
+            "Vouch additions",
+            "Examine title documents"
+        ]
+    },
+    {
+        "q": "Depreciation testing is primarily related to the valuation assertion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the audit of long-term debt?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify existence, completeness, and proper classification of debt",
+            "Testing only interest payments",
+            "Reviewing equity only",
+            "Confirming receivables"
+        ]
+    },
+    {
+        "q": "Debt covenant compliance should be evaluated during the debt audit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What evidence is used to verify long-term debt?",
+        "type": "mcq",
+        "o": [
+            "Loan agreements, confirmations, and payment records",
+            "Inventory counts",
+            "Customer invoices",
+            "Employee records"
+        ]
+    },
+    {
+        "q": "The ______ classification of debt depends on whether it is due within one year.",
+        "type": "fill_blank",
+        "answers": [
+            "current"
+        ],
+        "other_options": [
+            "long-term",
+            "secured",
+            "convertible"
+        ]
+    },
+    {
+        "q": "What is the audit of equity?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify stock transactions, retained earnings, and proper authorization",
+            "Testing cash only",
+            "Reviewing inventory",
+            "Confirming receivables"
+        ]
+    },
+    {
+        "q": "Match the equity component with its audit procedure:",
+        "type": "match",
+        "left": [
+            "Common stock",
+            "Retained earnings",
+            "Treasury stock",
+            "Dividends"
+        ],
+        "right": [
+            "Review authorizations and share count",
+            "Reconcile opening to closing",
+            "Verify purchases and cost",
+            "Confirm declaration and payment"
+        ]
+    },
+    {
+        "q": "Stock option plans require disclosure and may require fair value measurement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the audit of revenue?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify occurrence, completeness, accuracy, and cutoff of revenue",
+            "Testing controls only",
+            "Reviewing only cash receipts",
+            "Confirming payables"
+        ]
+    },
+    {
+        "q": "Revenue recognition is a ______ risk in most audits.",
+        "type": "fill_blank",
+        "answers": [
+            "significant"
+        ],
+        "other_options": [
+            "minor",
+            "negligible",
+            "standard"
+        ]
+    },
+    {
+        "q": "What is the five-step model for revenue recognition under ASC 606?",
+        "type": "mcq",
+        "o": [
+            "Identify contract, identify obligations, determine price, allocate price, recognize revenue",
+            "Record, confirm, verify, report, close",
+            "Plan, test, evaluate, report, follow-up",
+            "Open, process, close, review, approve"
+        ]
+    },
+    {
+        "q": "Rearrange the revenue recognition steps under ASC 606:",
+        "type": "rearrange",
+        "words": [
+            "Identify contract",
+            "Identify obligations",
+            "Determine price",
+            "Allocate price",
+            "Recognize revenue"
+        ]
+    },
+    {
+        "q": "What are common revenue recognition fraud schemes?",
+        "type": "mcq",
+        "o": [
+            "Bill-and-hold, channel stuffing, and fictitious sales",
+            "Inventory shrinkage",
+            "Payroll fraud",
+            "Check kiting"
+        ]
+    },
+    {
+        "q": "What is channel stuffing?",
+        "type": "mcq",
+        "o": [
+            "Pressuring distributors to buy excess inventory to inflate sales",
+            "Shipping products to the wrong location",
+            "Recording payroll for nonexistent employees",
+            "Overstating inventory counts"
+        ]
+    },
+    {
+        "q": "A bill-and-hold arrangement may be legitimate if certain criteria are met.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the audit of expenses?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify occurrence, completeness, and proper classification of expenses",
+            "Testing revenue only",
+            "Confirming receivables",
+            "Observing inventory"
+        ]
+    },
+    {
+        "q": "Match the expense type with its primary assertion concern:",
+        "type": "match",
+        "left": [
+            "Payroll",
+            "Depreciation",
+            "Rent",
+            "Interest"
+        ],
+        "right": [
+            "Occurrence and accuracy",
+            "Valuation",
+            "Completeness",
+            "Accuracy and valuation"
+        ]
+    },
+    {
+        "q": "The ______ scheme involves recording personal expenses as business expenses.",
+        "type": "fill_blank",
+        "answers": [
+            "expense reimbursement fraud"
+        ],
+        "other_options": [
+            "payroll fraud",
+            "check kiting",
+            "lapping"
+        ]
+    },
+    {
+        "q": "What is payroll fraud?",
+        "type": "mcq",
+        "o": [
+            "Schemes involving fictitious employees, falsified hours, or unauthorized pay rates",
+            "Recording fictitious sales",
+            "Overstating inventory",
+            "Understating liabilities"
+        ]
+    },
+    {
+        "q": "Ghost employees are fictitious persons added to payroll.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What procedures detect ghost employees?",
+        "type": "mcq",
+        "o": [
+            "Comparing payroll records to HR files and observing payroll distribution",
+            "Confirming receivables",
+            "Counting inventory",
+            "Testing depreciation"
+        ]
+    },
+    {
+        "q": "What is the audit of cash?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify existence, completeness, and restriction of cash balances",
+            "Testing controls over payables",
+            "Reviewing revenue recognition",
+            "Observing inventory counts"
+        ]
+    },
+    {
+        "q": "Bank confirmations provide evidence for the ______ assertion of cash.",
+        "type": "fill_blank",
+        "answers": [
+            "existence"
+        ],
+        "other_options": [
+            "completeness",
+            "valuation",
+            "rights"
+        ]
+    },
+    {
+        "q": "Match the cash fraud scheme with its description:",
+        "type": "match",
+        "left": [
+            "Kiting",
+            "Skimming",
+            "Cash larceny",
+            "Fraudulent disbursements"
+        ],
+        "right": [
+            "Manipulating interbank transfers",
+            "Stealing before recording",
+            "Stealing after recording",
+            "Unauthorized payments"
+        ]
+    },
+    {
+        "q": "What is check kiting?",
+        "type": "mcq",
+        "o": [
+            "Manipulating cash balances by exploiting float time between bank accounts",
+            "Stealing cash from the register",
+            "Recording fictitious checks",
+            "Overstating bank deposits"
+        ]
+    },
+    {
+        "q": "A cash cutoff test verifies that cash transactions are recorded in the proper period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a bank reconciliation?",
+        "type": "mcq",
+        "o": [
+            "A schedule comparing the book balance to the bank statement balance and identifying differences",
+            "A list of all checks written",
+            "A bank confirmation",
+            "A cash flow statement"
+        ]
+    },
+    {
+        "q": "The auditor should ______ the client's bank reconciliation rather than prepare one.",
+        "type": "fill_blank",
+        "answers": [
+            "test"
+        ],
+        "other_options": [
+            "prepare",
+            "approve",
+            "ignore"
+        ]
+    },
+    {
+        "q": "What is a proof of cash?",
+        "type": "mcq",
+        "o": [
+            "A four-column bank reconciliation that includes receipts and disbursements",
+            "A bank confirmation",
+            "A simple bank reconciliation",
+            "A cash count"
+        ]
+    },
+    {
+        "q": "A proof of cash is used when there are concerns about internal controls over cash.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are compensating balances?",
+        "type": "mcq",
+        "o": [
+            "Minimum balances required to be maintained under loan agreements",
+            "Balances that offset debts",
+            "Petty cash funds",
+            "Overdraft amounts"
+        ]
+    },
+    {
+        "q": "Compensating balances must be disclosed in the financial statements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the standard bank confirmation form used for?",
+        "type": "mcq",
+        "o": [
+            "To confirm bank balances, loans, and other arrangements with financial institutions",
+            "To confirm receivables only",
+            "To test internal controls",
+            "To evaluate going concern"
+        ]
+    },
+    {
+        "q": "Rearrange the steps in testing bank reconciliations:",
+        "type": "rearrange",
+        "words": [
+            "Obtain reconciliation",
+            "Verify mathematical accuracy",
+            "Trace to bank statement",
+            "Test reconciling items",
+            "Evaluate timing"
+        ]
+    },
+    {
+        "q": "What is the audit of investments?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify existence, valuation, and proper classification of investment securities",
+            "Testing cash only",
+            "Reviewing payroll",
+            "Confirming receivables"
+        ]
+    },
+    {
+        "q": "Investment securities held by third parties should be confirmed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the investment classification with its measurement:",
+        "type": "match",
+        "left": [
+            "Trading securities",
+            "Available-for-sale",
+            "Held-to-maturity",
+            "Equity method"
+        ],
+        "right": [
+            "Fair value through income",
+            "Fair value through OCI",
+            "Amortized cost",
+            "Cost plus equity in earnings"
+        ]
+    },
+    {
+        "q": "The ______ method is used when an investor has significant influence over an investee.",
+        "type": "fill_blank",
+        "answers": [
+            "equity"
+        ],
+        "other_options": [
+            "cost",
+            "fair value",
+            "consolidation"
+        ]
+    },
+    {
+        "q": "What is impairment testing for investments?",
+        "type": "mcq",
+        "o": [
+            "Evaluating whether declines in fair value are other-than-temporary",
+            "Testing physical existence",
+            "Confirming dividends",
+            "Reviewing purchase agreements"
+        ]
+    },
+    {
+        "q": "What are derivatives?",
+        "type": "mcq",
+        "o": [
+            "Financial instruments whose value is derived from an underlying asset or index",
+            "Equity securities only",
+            "Cash equivalents",
+            "Bank loans"
+        ]
+    },
+    {
+        "q": "Derivatives are generally measured at fair value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is hedge accounting?",
+        "type": "mcq",
+        "o": [
+            "Special accounting treatment that matches gains and losses on hedging instruments with hedged items",
+            "Recording all derivatives at cost",
+            "Ignoring derivative transactions",
+            "A tax strategy"
+        ]
+    },
+    {
+        "q": "Match the hedge type with its characteristic:",
+        "type": "match",
+        "left": [
+            "Fair value hedge",
+            "Cash flow hedge",
+            "Net investment hedge"
+        ],
+        "right": [
+            "Hedges exposure to fair value changes",
+            "Hedges exposure to cash flow variability",
+            "Hedges foreign operation investment"
+        ]
+    },
+    {
+        "q": "The auditor should evaluate whether hedge relationships are properly ______.",
+        "type": "fill_blank",
+        "answers": [
+            "documented"
+        ],
+        "other_options": [
+            "ignored",
+            "eliminated",
+            "consolidated"
+        ]
+    },
+    {
+        "q": "What is the audit of commitments and contingencies?",
+        "type": "mcq",
+        "o": [
+            "Procedures to identify and evaluate potential future obligations",
+            "Testing only recorded liabilities",
+            "Confirming receivables",
+            "Observing inventory"
+        ]
+    },
+    {
+        "q": "A contingent liability should be recorded when it is probable and estimable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the contingency classification with its treatment:",
+        "type": "match",
+        "left": [
+            "Probable and estimable",
+            "Probable but not estimable",
+            "Reasonably possible",
+            "Remote"
+        ],
+        "right": [
+            "Record and disclose",
+            "Disclose only",
+            "Disclose only",
+            "No disclosure required"
+        ]
+    },
+    {
+        "q": "What is a letter of inquiry to legal counsel?",
+        "type": "mcq",
+        "o": [
+            "A letter requesting information about litigation and claims affecting the client",
+            "A confirmation of receivables",
+            "An engagement letter",
+            "A management representation"
+        ]
+    },
+    {
+        "q": "The ______ of a contingent liability is the likelihood that it will result in a loss.",
+        "type": "fill_blank",
+        "answers": [
+            "probability"
+        ],
+        "other_options": [
+            "amount",
+            "timing",
+            "classification"
+        ]
+    },
+    {
+        "q": "What should be disclosed when a loss contingency is reasonably possible?",
+        "type": "mcq",
+        "o": [
+            "The nature of the contingency and an estimate of loss or a statement that an estimate cannot be made",
+            "Only the amount",
+            "Nothing",
+            "Only in the notes to the audit report"
+        ]
+    },
+    {
+        "q": "A lawsuit filed after year-end but related to events before year-end is a subsequent event.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the audit of segment information?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify the accuracy and completeness of segment disclosures",
+            "Testing cash only",
+            "Reviewing only consolidated statements",
+            "Confirming receivables"
+        ]
+    },
+    {
+        "q": "Segment reporting is required under which standard?",
+        "type": "mcq",
+        "o": [
+            "ASC 280 (FASB) / IFRS 8",
+            "ASC 606",
+            "ASC 842",
+            "ASC 820"
+        ]
+    },
+    {
+        "q": "Operating segments are based on ______ reporting.",
+        "type": "fill_blank",
+        "answers": [
+            "internal"
+        ],
+        "other_options": [
+            "external",
+            "tax",
+            "audit"
+        ]
+    },
+    {
+        "q": "What is the chief operating decision maker (CODM)?",
+        "type": "mcq",
+        "o": [
+            "The individual who allocates resources and assesses performance of operating segments",
+            "The external auditor",
+            "The tax preparer",
+            "A regulatory official"
+        ]
+    },
+    {
+        "q": "Match the segment disclosure with its requirement:",
+        "type": "match",
+        "left": [
+            "Revenue",
+            "Profit or loss",
+            "Assets",
+            "Geographic information"
+        ],
+        "right": [
+            "By segment and externally",
+            "By segment",
+            "If regularly provided to CODM",
+            "By country of domicile and others"
+        ]
+    },
+    {
+        "q": "What is the audit of group financial statements?",
+        "type": "mcq",
+        "o": [
+            "The audit of consolidated or combined financial statements of a parent and its components",
+            "An audit of a single entity",
+            "A review engagement",
+            "An agreed-upon procedures engagement"
+        ]
+    },
+    {
+        "q": "The group engagement partner is responsible for the group audit opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a component auditor?",
+        "type": "mcq",
+        "o": [
+            "An auditor who performs work on a component of a group for the group audit",
+            "The group engagement partner",
+            "An internal auditor",
+            "A regulatory auditor"
+        ]
+    },
+    {
+        "q": "The group engagement team must evaluate the ______ of component auditors.",
+        "type": "fill_blank",
+        "answers": [
+            "competence"
+        ],
+        "other_options": [
+            "fees",
+            "location",
+            "clients"
+        ]
+    },
+    {
+        "q": "What is a significant component?",
+        "type": "mcq",
+        "o": [
+            "A component that is financially significant to the group or has significant risks",
+            "Any subsidiary",
+            "The smallest component",
+            "An immaterial component"
+        ]
+    },
+    {
+        "q": "Rearrange the group audit planning steps:",
+        "type": "rearrange",
+        "words": [
+            "Understand group",
+            "Identify components",
+            "Assess significance",
+            "Determine work required",
+            "Communicate with components"
+        ]
+    },
+    {
+        "q": "What are consolidation adjustments?",
+        "type": "mcq",
+        "o": [
+            "Entries to eliminate intercompany transactions and balances in consolidated statements",
+            "Year-end closing entries",
+            "Tax adjustments",
+            "Prior period corrections"
+        ]
+    },
+    {
+        "q": "Match the consolidation procedure with its purpose:",
+        "type": "match",
+        "left": [
+            "Eliminate intercompany sales",
+            "Eliminate investment in subsidiary",
+            "Recognize noncontrolling interest",
+            "Adjust for foreign currency"
+        ],
+        "right": [
+            "Avoid double counting revenue",
+            "Match investment to equity",
+            "Show minority ownership",
+            "Translate foreign operations"
+        ]
+    },
+    {
+        "q": "The auditor should test the ______ of consolidation adjustments.",
+        "type": "fill_blank",
+        "answers": [
+            "completeness"
+        ],
+        "other_options": [
+            "timing",
+            "location",
+            "formatting"
+        ]
+    },
+    {
+        "q": "What are non-controlling interests?",
+        "type": "mcq",
+        "o": [
+            "The portion of subsidiary equity not owned by the parent",
+            "Preferred stock",
+            "Treasury stock",
+            "Retained earnings"
+        ]
+    },
+    {
+        "q": "Non-controlling interests are presented within equity in the consolidated balance sheet.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between subsidiary and associate accounting?",
+        "type": "mcq",
+        "o": [
+            "Subsidiaries are consolidated; associates are accounted for using the equity method",
+            "Subsidiaries use equity method; associates are consolidated",
+            "Both are consolidated",
+            "Neither affects consolidated statements"
+        ]
+    },
+    {
+        "q": "Control typically exists when ownership exceeds ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "50"
+        ],
+        "other_options": [
+            "20",
+            "25",
+            "100"
+        ]
+    },
+    {
+        "q": "What is significant influence?",
+        "type": "mcq",
+        "o": [
+            "The ability to participate in financial and operating policy decisions without control",
+            "Complete control",
+            "No influence",
+            "Regulatory oversight"
+        ]
+    },
+    {
+        "q": "Significant influence is typically presumed with ownership between 20 and 50 percent.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a variable interest entity (VIE)?",
+        "type": "mcq",
+        "o": [
+            "An entity that lacks sufficient equity to finance its activities without additional support",
+            "A standard corporation",
+            "A partnership",
+            "A nonprofit organization"
+        ]
+    },
+    {
+        "q": "Match the entity type with its consolidation requirement:",
+        "type": "match",
+        "left": [
+            "Subsidiary over 50%",
+            "Associate 20-50%",
+            "VIE primary beneficiary",
+            "Investment under 20%"
+        ],
+        "right": [
+            "Full consolidation",
+            "Equity method",
+            "Consolidation",
+            "Cost or fair value"
+        ]
+    },
+    {
+        "q": "The ______ beneficiary must consolidate a VIE.",
+        "type": "fill_blank",
+        "answers": [
+            "primary"
+        ],
+        "other_options": [
+            "secondary",
+            "minority",
+            "external"
+        ]
+    },
+    {
+        "q": "What is the audit of fair value disclosures?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify the completeness and accuracy of fair value information in the notes",
+            "Testing physical existence",
+            "Confirming receivables",
+            "Reviewing payroll"
+        ]
+    },
+    {
+        "q": "Fair value hierarchy disclosures are required for financial instruments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What should be disclosed for Level 3 fair value measurements?",
+        "type": "mcq",
+        "o": [
+            "A reconciliation of changes during the period and description of valuation techniques",
+            "Only the fair value amount",
+            "Nothing additional",
+            "Auditor's opinion only"
+        ]
+    },
+    {
+        "q": "What is the audit of pension obligations?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify the accuracy of defined benefit pension plan liabilities and disclosures",
+            "Testing payroll only",
+            "Confirming receivables",
+            "Reviewing revenue"
+        ]
+    },
+    {
+        "q": "Actuarial assumptions significantly affect pension liability calculations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the pension term with its definition:",
+        "type": "match",
+        "left": [
+            "Projected benefit obligation",
+            "Plan assets",
+            "Service cost",
+            "Interest cost"
+        ],
+        "right": [
+            "Present value of future benefits",
+            "Assets held in pension trust",
+            "Benefits earned during period",
+            "Increase in PBO due to passage of time"
+        ]
+    },
+    {
+        "q": "The ______ is the company's net pension asset or liability on the balance sheet.",
+        "type": "fill_blank",
+        "answers": [
+            "funded status"
+        ],
+        "other_options": [
+            "service cost",
+            "interest cost",
+            "amortization"
+        ]
+    },
+    {
+        "q": "What is the role of an actuary in pension auditing?",
+        "type": "mcq",
+        "o": [
+            "To provide calculations of pension obligations based on assumptions",
+            "To audit the financial statements",
+            "To manage the pension fund",
+            "To set investment policy"
+        ]
+    },
+    {
+        "q": "The auditor should evaluate the reasonableness of actuarial assumptions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the audit of income taxes?",
+        "type": "mcq",
+        "o": [
+            "Procedures to verify the accuracy of current and deferred tax provisions",
+            "Preparing tax returns",
+            "Testing revenue only",
+            "Confirming receivables"
+        ]
+    },
+    {
+        "q": "A deferred tax asset arises from deductible ______ differences.",
+        "type": "fill_blank",
+        "answers": [
+            "temporary"
+        ],
+        "other_options": [
+            "permanent",
+            "ongoing",
+            "statutory"
+        ]
+    },
+    {
+        "q": "Match the tax term with its description:",
+        "type": "match",
+        "left": [
+            "Deferred tax asset",
+            "Deferred tax liability",
+            "Valuation allowance",
+            "Uncertain tax position"
+        ],
+        "right": [
+            "Future tax benefit",
+            "Future tax obligation",
+            "Reduction of DTA",
+            "Potential additional tax liability"
+        ]
+    },
+    {
+        "q": "What is ASC 740?",
+        "type": "mcq",
+        "o": [
+            "The accounting standard for income taxes under US GAAP",
+            "A revenue recognition standard",
+            "A leasing standard",
+            "A fair value standard"
+        ]
+    },
+    {
+        "q": "A valuation allowance is required when it is more likely than not that some portion of a DTA will not be realized.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an uncertain tax position (UTP)?",
+        "type": "mcq",
+        "o": [
+            "A tax position for which the ultimate outcome is uncertain",
+            "A filed tax return",
+            "A standard deduction",
+            "An automatic adjustment"
+        ]
+    },
+    {
+        "q": "The recognition threshold for uncertain tax positions is ______ than not.",
+        "type": "fill_blank",
+        "answers": [
+            "more likely"
+        ],
+        "other_options": [
+            "probable",
+            "certain",
+            "possible"
+        ]
+    },
+    {
+        "q": "What is the measurement of uncertain tax positions?",
+        "type": "mcq",
+        "o": [
+            "The largest amount of tax benefit that is greater than 50% likely to be realized",
+            "The full amount claimed",
+            "Zero",
+            "The average of possible outcomes"
+        ]
+    },
+    {
+        "q": "Rearrange UTPs evaluation steps:",
+        "type": "rearrange",
+        "words": [
+            "Identify positions",
+            "Apply recognition threshold",
+            "Measure benefit",
+            "Consider interest/penalties",
+            "Disclose"
+        ]
+    },
+    {
+        "q": "What is the effective tax rate?",
+        "type": "mcq",
+        "o": [
+            "Total tax expense divided by pre-tax income",
+            "The statutory tax rate",
+            "The deferred tax rate",
+            "The state tax rate only"
+        ]
+    },
+    {
+        "q": "The rate reconciliation explains differences between the effective and ______ tax rates.",
+        "type": "fill_blank",
+        "answers": [
+            "statutory"
+        ],
+        "other_options": [
+            "marginal",
+            "average",
+            "combined"
+        ]
+    },
+    {
+        "q": "What is IT auditing?",
+        "type": "mcq",
+        "o": [
+            "The audit of information technology controls over financial reporting",
+            "Testing hardware only",
+            "Software development",
+            "Network installation"
+        ]
+    },
+    {
+        "q": "Match the IT control type with its example:",
+        "type": "match",
+        "left": [
+            "General controls",
+            "Application controls",
+            "Access controls",
+            "Change management"
+        ],
+        "right": [
+            "IT environment-wide controls",
+            "Transaction processing controls",
+            "User authentication",
+            "System modification procedures"
+        ]
+    },
+    {
+        "q": "General IT controls (GITCs) affect the reliability of all applications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are IT general controls?",
+        "type": "mcq",
+        "o": [
+            "Controls that apply to all IT systems and support the effective functioning of application controls",
+            "Controls over specific transactions",
+            "Physical security only",
+            "Network hardware controls"
+        ]
+    },
+    {
+        "q": "Application controls are specific to ______ applications.",
+        "type": "fill_blank",
+        "answers": [
+            "individual"
+        ],
+        "other_options": [
+            "all",
+            "external",
+            "manual"
+        ]
+    },
+    {
+        "q": "What is segregation of duties in IT?",
+        "type": "mcq",
+        "o": [
+            "Separating programming, operations, and security functions",
+            "Combining all IT functions",
+            "Outsourcing all IT",
+            "Eliminating IT controls"
+        ]
+    },
+    {
+        "q": "Access controls ensure that only authorized users can access systems and data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is change management in IT?",
+        "type": "mcq",
+        "o": [
+            "Controls over modifications to programs and systems",
+            "Employee training",
+            "Hardware replacement",
+            "Network monitoring"
+        ]
+    },
+    {
+        "q": "Match the access control type with its description:",
+        "type": "match",
+        "left": [
+            "Preventive",
+            "Detective",
+            "Authentication",
+            "Authorization"
+        ],
+        "right": [
+            "Blocks unauthorized access",
+            "Identifies violations",
+            "Verifies identity",
+            "Grants permissions"
+        ]
+    },
+    {
+        "q": "The auditor should understand how IT affects internal control over financial reporting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is computer-assisted audit technique (CAAT)?",
+        "type": "mcq",
+        "o": [
+            "Using software to perform audit procedures such as data testing and analysis",
+            "Manual testing only",
+            "Physical inspection",
+            "Interviewing management"
+        ]
+    },
+    {
+        "q": "Examples of CAATs include test data and ______ audit software.",
+        "type": "fill_blank",
+        "answers": [
+            "generalized"
+        ],
+        "other_options": [
+            "specific",
+            "manual",
+            "physical"
+        ]
+    },
+    {
+        "q": "What is test data?",
+        "type": "mcq",
+        "o": [
+            "Fictitious data processed through the client's system to test controls",
+            "Real production data",
+            "Data from prior years",
+            "External benchmarks"
+        ]
+    },
+    {
+        "q": "Generalized audit software can sort, filter, and analyze large data sets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an integrated test facility (ITF)?",
+        "type": "mcq",
+        "o": [
+            "A CAAT that processes test data in the live production environment using dummy entities",
+            "A physical audit location",
+            "A training center",
+            "A backup system"
+        ]
+    },
+    {
+        "q": "An embedded audit module is code built into a client's application to capture data for audit purposes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data analytics in auditing?",
+        "type": "mcq",
+        "o": [
+            "Using statistical and computational techniques to analyze large data sets for audit evidence",
+            "Manual review of documents",
+            "Physical observation",
+            "Client interviews only"
+        ]
+    },
+    {
+        "q": "Match the data analytics technique with its purpose:",
+        "type": "match",
+        "left": [
+            "Benford's Law analysis",
+            "Duplicate testing",
+            "Gap testing",
+            "Trend analysis"
+        ],
+        "right": [
+            "Detect fraudulent entries",
+            "Identify duplicate payments",
+            "Find missing sequence numbers",
+            "Identify unusual patterns"
+        ]
+    },
+    {
+        "q": "Benford's Law analyzes the distribution of ______ digits in data.",
+        "type": "fill_blank",
+        "answers": [
+            "leading"
+        ],
+        "other_options": [
+            "trailing",
+            "random",
+            "middle"
+        ]
+    },
+    {
+        "q": "What is parallel simulation?",
+        "type": "mcq",
+        "o": [
+            "Using auditor-controlled software to reprocess client data and compare results",
+            "Running two separate audits",
+            "Testing hardware backup",
+            "Training new auditors"
+        ]
+    },
+    {
+        "q": "Cybersecurity is a growing concern in IT auditing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What should the auditor consider regarding cybersecurity?",
+        "type": "mcq",
+        "o": [
+            "How cybersecurity risks affect internal control over financial reporting",
+            "Only network speed",
+            "Hardware costs",
+            "Marketing strategies"
+        ]
+    },
+    {
+        "q": "What is the integrated audit under PCAOB standards?",
+        "type": "mcq",
+        "o": [
+            "An audit of both financial statements and internal control over financial reporting",
+            "An audit of subsidiaries only",
+            "A review engagement",
+            "A compilation engagement"
+        ]
+    },
+    {
+        "q": "Match the PCAOB standard with its focus:",
+        "type": "match",
+        "left": [
+            "AS 2201",
+            "AS 2301",
+            "AS 2401",
+            "AS 2810"
+        ],
+        "right": [
+            "Internal control audit",
+            "Responding to risk",
+            "Fraud considerations",
+            "Evaluating audit results"
+        ]
+    },
+    {
+        "q": "Under PCAOB standards, the auditor must express an opinion on internal control effectiveness.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a top-down approach to the internal control audit?",
+        "type": "mcq",
+        "o": [
+            "Starting with entity-level controls and focusing on significant accounts and relevant assertions",
+            "Testing every control",
+            "Bottom-up testing",
+            "Random selection"
+        ]
+    },
+    {
+        "q": "Entity-level controls include the control environment and ______ process.",
+        "type": "fill_blank",
+        "answers": [
+            "risk assessment"
+        ],
+        "other_options": [
+            "transaction",
+            "marketing",
+            "production"
+        ]
+    },
+    {
+        "q": "What are period-end financial reporting controls?",
+        "type": "mcq",
+        "o": [
+            "Controls over the recording of journal entries and preparation of financial statements",
+            "Daily transaction controls",
+            "Physical security controls",
+            "Marketing controls"
+        ]
+    },
+    {
+        "q": "Walkthroughs are required in an integrated audit to confirm understanding of significant processes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a significant deficiency under PCAOB standards?",
+        "type": "mcq",
+        "o": [
+            "A deficiency less severe than a material weakness but important enough to merit attention",
+            "A material weakness",
+            "A minor control issue",
+            "An observation only"
+        ]
+    },
+    {
+        "q": "Match the control deficiency level with its severity:",
+        "type": "match",
+        "left": [
+            "Material weakness",
+            "Significant deficiency",
+            "Deficiency"
+        ],
+        "right": [
+            "Reasonable possibility of material misstatement",
+            "Merits attention of those charged with governance",
+            "Less severe than significant deficiency"
+        ]
+    },
+    {
+        "q": "A ______ weakness must be disclosed in the auditor's report on internal control.",
+        "type": "fill_blank",
+        "answers": [
+            "material"
+        ],
+        "other_options": [
+            "significant",
+            "minor",
+            "documented"
+        ]
+    },
+    {
+        "q": "What is the relationship between the financial statement audit and the internal control audit?",
+        "type": "mcq",
+        "o": [
+            "Integrated - findings from one affect the other",
+            "Completely separate",
+            "Internal control audit is optional",
+            "Financial statement audit depends on tax audit"
+        ]
+    },
+    {
+        "q": "The PCAOB integrated audit requires testing controls for all significant accounts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the auditor's report on internal control over financial reporting?",
+        "type": "mcq",
+        "o": [
+            "An opinion on whether internal control is effective as of a point in time",
+            "A compilation report",
+            "A review report",
+            "A management letter only"
+        ]
+    },
+    {
+        "q": "Rearrange the integrated audit opinion components:",
+        "type": "rearrange",
+        "words": [
+            "Opinion",
+            "Basis for Opinion",
+            "Definition of ICFR",
+            "Management Responsibility",
+            "Auditor Responsibility"
+        ]
+    },
+    {
+        "q": "What triggers an adverse opinion on internal control?",
+        "type": "mcq",
+        "o": [
+            "Existence of a material weakness",
+            "Any control deficiency",
+            "Management disagreement",
+            "Going concern issues"
+        ]
+    },
+    {
+        "q": "An adverse opinion on ICFR does not necessarily affect the financial statement opinion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is AS 3101?",
+        "type": "mcq",
+        "o": [
+            "The PCAOB standard on the auditor's report",
+            "A tax standard",
+            "An internal control standard",
+            "A sampling standard"
+        ]
+    },
+    {
+        "q": "CAMs are required in audit reports under PCAOB standards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the report element with its PCAOB requirement:",
+        "type": "match",
+        "left": [
+            "Critical Audit Matters",
+            "Auditor tenure",
+            "Independence statement",
+            "PCAOB registration"
+        ],
+        "right": [
+            "Significant auditor attention",
+            "Years as auditor",
+            "Statement of independence",
+            "Firm identification"
+        ]
+    },
+    {
+        "q": "Critical Audit Matters arise from matters ______ with those charged with governance.",
+        "type": "fill_blank",
+        "answers": [
+            "communicated"
+        ],
+        "other_options": [
+            "hidden",
+            "ignored",
+            "delayed"
+        ]
+    },
+    {
+        "q": "What factors determine whether something is a CAM?",
+        "type": "mcq",
+        "o": [
+            "Significant auditor judgment, complex or subjective estimates, and significant risks",
+            "Audit fees",
+            "Client size only",
+            "Industry type"
+        ]
+    },
+    {
+        "q": "The auditor must describe the principal considerations in identifying a CAM.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is PCAOB inspection?",
+        "type": "mcq",
+        "o": [
+            "The PCAOB's review of audit firms to assess compliance with standards",
+            "An internal audit",
+            "A client review",
+            "A tax audit"
+        ]
+    },
+    {
+        "q": "Large audit firms are inspected ______ by the PCAOB.",
+        "type": "fill_blank",
+        "answers": [
+            "annually"
+        ],
+        "other_options": [
+            "weekly",
+            "monthly",
+            "never"
+        ]
+    },
+    {
+        "q": "What are Part I and Part II of PCAOB inspection reports?",
+        "type": "mcq",
+        "o": [
+            "Part I is public; Part II may become public if not remediated",
+            "Both are always public",
+            "Both are always confidential",
+            "Part I is confidential; Part II is public"
+        ]
+    },
+    {
+        "q": "Match the regulatory body with its jurisdiction:",
+        "type": "match",
+        "left": [
+            "PCAOB",
+            "AICPA",
+            "SEC",
+            "State boards"
+        ],
+        "right": [
+            "Public company audits",
+            "Private company standards",
+            "Securities regulation",
+            "CPA licensing"
+        ]
+    },
+    {
+        "q": "The PCAOB can sanction firms for violations of auditing standards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is audit partner rotation?",
+        "type": "mcq",
+        "o": [
+            "Requiring the lead partner to rotate off an engagement after a specified period",
+            "Rotating all staff annually",
+            "Changing audit firms",
+            "Rotating audit procedures"
+        ]
+    },
+    {
+        "q": "Under PCAOB rules, the lead partner must rotate after ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "five"
+        ],
+        "other_options": [
+            "three",
+            "seven",
+            "ten"
+        ]
+    },
+    {
+        "q": "What is the purpose of partner rotation?",
+        "type": "mcq",
+        "o": [
+            "To promote independence and fresh perspective",
+            "To reduce audit fees",
+            "To train new partners",
+            "To satisfy client preferences"
+        ]
+    },
+    {
+        "q": "After rotation, the partner must have a cooling-off period before returning to the engagement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the role of the audit committee under SOX?",
+        "type": "mcq",
+        "o": [
+            "Direct oversight of the external auditor",
+            "Preparing financial statements",
+            "Marketing the company",
+            "Setting executive compensation"
+        ]
+    },
+    {
+        "q": "Match the SOX section with its requirement:",
+        "type": "match",
+        "left": [
+            "Section 302",
+            "Section 404",
+            "Section 906",
+            "Section 802"
+        ],
+        "right": [
+            "CEO/CFO certification",
+            "ICFR assessment",
+            "Criminal certification",
+            "Document retention"
+        ]
+    },
+    {
+        "q": "Under SOX, the audit committee must be ______ of management.",
+        "type": "fill_blank",
+        "answers": [
+            "independent"
+        ],
+        "other_options": [
+            "supportive",
+            "part",
+            "representative"
+        ]
+    },
+    {
+        "q": "What is Section 404(a)?",
+        "type": "mcq",
+        "o": [
+            "Management's assessment of internal control over financial reporting",
+            "Auditor's opinion on ICFR",
+            "Whistleblower protection",
+            "Executive compensation disclosure"
+        ]
+    },
+    {
+        "q": "Section 404(b) requires auditor attestation on ICFR for larger public companies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are prohibited non-audit services for audit clients under SOX?",
+        "type": "mcq",
+        "o": [
+            "Bookkeeping, internal audit outsourcing, and management functions",
+            "Tax preparation only",
+            "Any consulting",
+            "Training services"
+        ]
+    },
+    {
+        "q": "Rearrange SOX compliance themes:",
+        "type": "rearrange",
+        "words": [
+            "Management responsibility",
+            "Auditor independence",
+            "Audit committee oversight",
+            "Internal control",
+            "Disclosure"
+        ]
+    },
+    {
+        "q": "What is the clawback provision under SOX?",
+        "type": "mcq",
+        "o": [
+            "Recovery of executive compensation when financial statements are restated",
+            "Return of audit fees",
+            "Reduction in stock price",
+            "Tax refund"
+        ]
+    },
+    {
+        "q": "Whistleblower protections are included in SOX Section 806.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the role of the SEC in auditing?",
+        "type": "mcq",
+        "o": [
+            "Oversight of public company financial reporting and relationships with auditors",
+            "Conducting audits",
+            "Setting GAAP",
+            "Licensing CPAs"
+        ]
+    },
+    {
+        "q": "Match the SEC form with its purpose:",
+        "type": "match",
+        "left": [
+            "10-K",
+            "10-Q",
+            "8-K",
+            "S-1"
+        ],
+        "right": [
+            "Annual report",
+            "Quarterly report",
+            "Current events",
+            "Registration statement"
+        ]
+    },
+    {
+        "q": "The SEC can require amendments to filings if they contain material ______.",
+        "type": "fill_blank",
+        "answers": [
+            "misstatements"
+        ],
+        "other_options": [
+            "details",
+            "footnotes",
+            "opinions"
+        ]
+    },
+    {
+        "q": "What is a restatement?",
+        "type": "mcq",
+        "o": [
+            "Correction and republication of previously issued financial statements",
+            "Initial issuance",
+            "A forecast",
+            "A projection"
+        ]
+    },
+    {
+        "q": "Restatements may result from errors or fraud discovered after financial statements were issued.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the auditor's responsibility when a restatement is required?",
+        "type": "mcq",
+        "o": [
+            "Perform procedures on the restated amounts and consider the impact on the audit report",
+            "Ignore the restatement",
+            "Issue a new audit engagement",
+            "Notify the SEC only"
+        ]
+    },
+    {
+        "q": "A ______ restatement involves reissuing financial statements with corrections.",
+        "type": "fill_blank",
+        "answers": [
+            "Big R"
+        ],
+        "other_options": [
+            "Little r",
+            "minor",
+            "trivial"
+        ]
+    },
+    {
+        "q": "What is a Big R vs. Little r restatement?",
+        "type": "mcq",
+        "o": [
+            "Big R requires amended filings; Little r corrects in subsequent filings",
+            "Big R is optional; Little r is mandatory",
+            "Both are the same",
+            "Big R is less severe"
+        ]
+    },
+    {
+        "q": "Match the restatement type with its characteristic:",
+        "type": "match",
+        "left": [
+            "Big R",
+            "Little r"
+        ],
+        "right": [
+            "Material error requiring amended filing",
+            "Immaterial error corrected in current period"
+        ]
+    },
+    {
+        "q": "What is interim review?",
+        "type": "mcq",
+        "o": [
+            "A review of quarterly financial information providing limited assurance",
+            "An annual audit",
+            "A compilation",
+            "A forecast examination"
+        ]
+    },
+    {
+        "q": "Interim reviews are ______ extensive than annual audits.",
+        "type": "fill_blank",
+        "answers": [
+            "less"
+        ],
+        "other_options": [
+            "more",
+            "equally",
+            "significantly"
+        ]
+    },
+    {
+        "q": "What procedures are performed in an interim review?",
+        "type": "mcq",
+        "o": [
+            "Inquiry and analytical procedures",
+            "Full substantive testing",
+            "Physical inventory counts",
+            "Bank confirmations"
+        ]
+    },
+    {
+        "q": "The auditor issues negative assurance in an interim review report.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the auditor's responsibility for other information in SEC filings?",
+        "type": "mcq",
+        "o": [
+            "Read other information for material inconsistencies with audited financial statements",
+            "Audit all other information",
+            "Ignore other information",
+            "Only read the cover page"
+        ]
+    },
+    {
+        "q": "Match the reading responsibility with its document:",
+        "type": "match",
+        "left": [
+            "MD&A",
+            "Press releases",
+            "Earnings calls",
+            "Proxy statements"
+        ],
+        "right": [
+            "Read for inconsistencies",
+            "Consider impact if aware",
+            "No required reading",
+            "Read when included in annual report"
+        ]
+    },
+    {
+        "q": "If the auditor finds a material inconsistency, the auditor should ______ the matter with management.",
+        "type": "fill_blank",
+        "answers": [
+            "discuss"
+        ],
+        "other_options": [
+            "ignore",
+            "publicize",
+            "withdraw"
+        ]
+    },
+    {
+        "q": "What is auditor liability?",
+        "type": "mcq",
+        "o": [
+            "Legal responsibility for audit failures under common law and statutory law",
+            "Insurance premiums",
+            "Audit fees",
+            "Training costs"
+        ]
+    },
+    {
+        "q": "Common law liability to clients arises from breach of contract or negligence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What must plaintiffs prove in a negligence case against auditors?",
+        "type": "mcq",
+        "o": [
+            "Duty, breach, causation, and damages",
+            "Only intent",
+            "Only damages",
+            "Fraud only"
+        ]
+    },
+    {
+        "q": "Match the liability concept with its description:",
+        "type": "match",
+        "left": [
+            "Privity",
+            "Foreseen third party",
+            "Reasonably foreseeable",
+            "Fraud"
+        ],
+        "right": [
+            "Direct contractual relationship",
+            "Known or anticipated user",
+            "Any potential user",
+            "Intentional deception"
+        ]
+    },
+    {
+        "q": "Under common law, auditors owe the highest duty to parties in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "privity"
+        ],
+        "other_options": [
+            "competition",
+            "government",
+            "media"
+        ]
+    },
+    {
+        "q": "What is the Securities Act of 1933 liability?",
+        "type": "mcq",
+        "o": [
+            "Liability related to material misstatements in registration statements",
+            "Liability for tax returns",
+            "Liability for internal audits",
+            "Liability for payroll"
+        ]
+    },
+    {
+        "q": "Under Section 11 of the 1933 Act, the burden of proof is on the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "auditor"
+        ],
+        "other_options": [
+            "plaintiff",
+            "SEC",
+            "client"
+        ]
+    },
+    {
+        "q": "What is the due diligence defense under the 1933 Act?",
+        "type": "mcq",
+        "o": [
+            "Showing a reasonable investigation was conducted and reasonable grounds for belief existed",
+            "Blaming management",
+            "Claiming ignorance",
+            "Hiding documents"
+        ]
+    },
+    {
+        "q": "Section 10(b) and Rule 10b-5 of the 1934 Act require proof of scienter.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is scienter?",
+        "type": "mcq",
+        "o": [
+            "Knowledge of wrongdoing or intent to deceive",
+            "Negligence",
+            "Good faith",
+            "Due care"
+        ]
+    },
+    {
+        "q": "Match the securities act with its scope:",
+        "type": "match",
+        "left": [
+            "1933 Act Section 11",
+            "1934 Act Section 10(b)",
+            "PSLRA",
+            "SOX"
+        ],
+        "right": [
+            "IPO registration",
+            "Secondary market fraud",
+            "Limits on class actions",
+            "Corporate governance"
+        ]
+    },
+    {
+        "q": "The Private Securities Litigation Reform Act (PSLRA) imposed stricter pleading requirements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is proportionate liability?",
+        "type": "mcq",
+        "o": [
+            "Liability based on the auditor's percentage of fault",
+            "Full liability for all damages",
+            "No liability",
+            "Criminal liability only"
+        ]
+    },
+    {
+        "q": "Joint and several liability means each defendant can be held responsible for the ______ amount.",
+        "type": "fill_blank",
+        "answers": [
+            "full"
+        ],
+        "other_options": [
+            "partial",
+            "estimated",
+            "insured"
+        ]
+    },
+    {
+        "q": "What is the effect of engagement letters on liability?",
+        "type": "mcq",
+        "o": [
+            "They define scope and may limit liability to the extent permitted by law",
+            "They eliminate all liability",
+            "They increase liability",
+            "They have no effect"
+        ]
+    },
+    {
+        "q": "Rearrange the professional liability defense strategies:",
+        "type": "rearrange",
+        "words": [
+            "Quality controls",
+            "Documentation",
+            "Engagement letters",
+            "Insurance",
+            "Legal consultation"
+        ]
+    },
+    {
+        "q": "What is professional liability insurance?",
+        "type": "mcq",
+        "o": [
+            "Insurance that covers claims arising from professional services",
+            "Health insurance",
+            "Life insurance",
+            "Property insurance"
+        ]
+    },
+    {
+        "q": "Most CPA firms carry errors and omissions insurance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the ethical requirements for CPAs regarding competence?",
+        "type": "mcq",
+        "o": [
+            "Only accept engagements where competence can be achieved through training or consultation",
+            "Accept all engagements",
+            "Reject all complex engagements",
+            "Outsource all work"
+        ]
+    },
+    {
+        "q": "Match the ethical principle with its application:",
+        "type": "match",
+        "left": [
+            "Competence",
+            "Confidentiality",
+            "Objectivity",
+            "Integrity"
+        ],
+        "right": [
+            "Skill and knowledge",
+            "Protecting client information",
+            "Avoiding bias",
+            "Honesty and truthfulness"
+        ]
+    },
+    {
+        "q": "CPAs must maintain confidentiality even after the client relationship ends.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "When can a CPA disclose confidential information?",
+        "type": "mcq",
+        "o": [
+            "With client consent, to comply with legal requirements, or during peer review",
+            "Never",
+            "Anytime",
+            "Only to competitors"
+        ]
+    },
+    {
+        "q": "What is the AICPA conceptual framework approach to ethics?",
+        "type": "mcq",
+        "o": [
+            "Identify threats, evaluate significance, apply safeguards until threats are acceptable",
+            "Follow rules exactly",
+            "Avoid all clients",
+            "Maximize fees"
+        ]
+    },
+    {
+        "q": "The ______ member is responsible for evaluating whether to accept an engagement.",
+        "type": "fill_blank",
+        "answers": [
+            "engagement partner"
+        ],
+        "other_options": [
+            "staff auditor",
+            "client",
+            "regulator"
+        ]
+    },
+    {
+        "q": "What is the difference between rules-based and principles-based ethics?",
+        "type": "mcq",
+        "o": [
+            "Rules-based provides specific guidance; principles-based requires judgment in applying broad concepts",
+            "Both are identical",
+            "Rules-based is more flexible",
+            "Principles-based has more specific rules"
+        ]
+    },
+    {
+        "q": "The AICPA Code of Professional Conduct uses a conceptual framework approach.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What threats to independence must be evaluated?",
+        "type": "mcq",
+        "o": [
+            "Self-interest, self-review, advocacy, familiarity, and intimidation",
+            "Only financial threats",
+            "Client size",
+            "Industry type"
+        ]
+    },
+    {
+        "q": "Match the safeguard with its threat mitigation:",
+        "type": "match",
+        "left": [
+            "Rotation of personnel",
+            "Consultation with third parties",
+            "Declining the engagement",
+            "Documentation review"
+        ],
+        "right": [
+            "Familiarity threat",
+            "Complex judgment situations",
+            "Unacceptable threats",
+            "Quality control"
+        ]
+    },
+    {
+        "q": "A ______ is an action or other measure that may eliminate or reduce a threat to an acceptable level.",
+        "type": "fill_blank",
+        "answers": [
+            "safeguard"
+        ],
+        "other_options": [
+            "rule",
+            "standard",
+            "procedure"
+        ]
+    },
+    {
+        "q": "What is the AICPA nonattest services rule?",
+        "type": "mcq",
+        "o": [
+            "Guidelines for providing services other than audits to attest clients while maintaining independence",
+            "Rules prohibiting all nonattest services",
+            "Tax standards",
+            "Consulting guidelines"
+        ]
+    },
+    {
+        "q": "When providing nonattest services, the client must take responsibility for decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the cooling-off period for former audit firm employees joining an audit client?",
+        "type": "mcq",
+        "o": [
+            "One year for those in positions involving influence over financial reporting",
+            "No waiting period",
+            "Two years",
+            "Immediate employment allowed"
+        ]
+    },
+    {
+        "q": "Match the independence rule with its focus:",
+        "type": "match",
+        "left": [
+            "Financial interests",
+            "Employment relationships",
+            "Business relationships",
+            "Fee matters"
+        ],
+        "right": [
+            "Ownership in client",
+            "Former firm employees",
+            "Commercial dealings",
+            "Contingent fees"
+        ]
+    },
+    {
+        "q": "Contingent fees impair independence for ______ engagements.",
+        "type": "fill_blank",
+        "answers": [
+            "attest"
+        ],
+        "other_options": [
+            "consulting",
+            "all",
+            "none"
+        ]
+    },
+    {
+        "q": "What is the difference between a covered member and a non-covered member?",
+        "type": "mcq",
+        "o": [
+            "Covered members have independence restrictions; non-covered members have fewer restrictions",
+            "Both have the same restrictions",
+            "Non-covered members cannot audit",
+            "Covered members are partners only"
+        ]
+    },
+    {
+        "q": "The firm, engagement team, and those who can influence the engagement are covered members.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the effect of a close relative's employment at an audit client?",
+        "type": "mcq",
+        "o": [
+            "May impair independence depending on the position and relationship",
+            "No effect",
+            "Always impairs independence",
+            "Never impairs independence"
+        ]
+    },
+    {
+        "q": "Rearrange the steps for evaluating independence threats:",
+        "type": "rearrange",
+        "words": [
+            "Identify threat",
+            "Evaluate significance",
+            "Consider safeguards",
+            "Make determination",
+            "Document conclusion"
+        ]
+    },
+    {
+        "q": "What is professional skepticism in practice?",
+        "type": "mcq",
+        "o": [
+            "Critically assessing evidence without assuming management is dishonest or honest",
+            "Assuming fraud exists",
+            "Trusting all representations",
+            "Avoiding difficult clients"
+        ]
+    },
+    {
+        "q": "Professional skepticism should be ______ throughout the audit.",
+        "type": "fill_blank",
+        "answers": [
+            "maintained"
+        ],
+        "other_options": [
+            "ignored",
+            "decreased",
+            "eliminated"
+        ]
+    },
+    {
+        "q": "What factors affect the auditor's professional judgment?",
+        "type": "mcq",
+        "o": [
+            "Training, experience, knowledge of the entity, and professional skepticism",
+            "Only audit fees",
+            "Client preferences",
+            "Industry norms only"
+        ]
+    },
+    {
+        "q": "Professional judgment must be documented in the working papers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the AICPA's interpretation process?",
+        "type": "mcq",
+        "o": [
+            "Developing guidance to help members apply the Code of Professional Conduct",
+            "Writing new standards",
+            "Setting fees",
+            "Licensing CPAs"
+        ]
+    },
+    {
+        "q": "Match the ethics document type with its authority:",
+        "type": "match",
+        "left": [
+            "Rules",
+            "Interpretations",
+            "Other guidance"
+        ],
+        "right": [
+            "Enforceable minimum standards",
+            "Explain application of rules",
+            "Provide non-authoritative guidance"
+        ]
+    },
+    {
+        "q": "What is the Joint Ethics Enforcement Program (JEEP)?",
+        "type": "mcq",
+        "o": [
+            "A cooperative effort between AICPA and state CPA societies to investigate complaints",
+            "A training program",
+            "An audit firm",
+            "A regulatory agency"
+        ]
+    },
+    {
+        "q": "Violations of ethics rules can result in ______ or suspension.",
+        "type": "fill_blank",
+        "answers": [
+            "expulsion"
+        ],
+        "other_options": [
+            "promotion",
+            "reward",
+            "continuation"
+        ]
+    },
+    {
+        "q": "What is the auditor's responsibility for laws and regulations?",
+        "type": "mcq",
+        "o": [
+            "Obtain reasonable assurance about material misstatements from compliance or non-compliance",
+            "Detect all violations",
+            "Enforce laws",
+            "Act as legal counsel"
+        ]
+    },
+    {
+        "q": "Direct effect laws and regulations are those that directly affect financial statement amounts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What should the auditor do upon discovering non-compliance with laws and regulations?",
+        "type": "mcq",
+        "o": [
+            "Obtain understanding, evaluate impact on financial statements, and communicate appropriately",
+            "Ignore it",
+            "Notify the police immediately",
+            "Terminate the engagement always"
+        ]
+    },
+    {
+        "q": "Match the non-compliance type with its audit consideration:",
+        "type": "match",
+        "left": [
+            "Direct effect",
+            "Indirect effect",
+            "Illegal acts"
+        ],
+        "right": [
+            "Material amounts affected",
+            "Contingent liabilities possible",
+            "Potential for fraud"
+        ]
+    },
+    {
+        "q": "The auditor may have a duty to report non-compliance to ______ authorities in certain circumstances.",
+        "type": "fill_blank",
+        "answers": [
+            "regulatory"
+        ],
+        "other_options": [
+            "marketing",
+            "international",
+            "financial"
+        ]
+    },
+    {
+        "q": "What is the auditor's documentation requirements for complex estimates?",
+        "type": "mcq",
+        "o": [
+            "Document the basis for conclusions about reasonableness, including sensitivity analysis if performed",
+            "Minimal documentation",
+            "No special requirements",
+            "Client documentation only"
+        ]
+    },
+    {
+        "q": "Sensitivity analysis evaluates how changes in assumptions affect estimates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is hindsight bias in auditing estimates?",
+        "type": "mcq",
+        "o": [
+            "Using subsequent events to judge reasonableness of estimates made at year-end",
+            "Ignoring prior year results",
+            "Overrelying on management",
+            "Avoiding complex transactions"
+        ]
+    },
+    {
+        "q": "The auditor should compare prior year estimates to actual outcomes to evaluate ______ bias.",
+        "type": "fill_blank",
+        "answers": [
+            "management"
+        ],
+        "other_options": [
+            "auditor",
+            "regulatory",
+            "industry"
+        ]
+    },
+    {
+        "q": "What is the auditor's approach to significant estimates in high-risk areas?",
+        "type": "mcq",
+        "o": [
+            "Develop an independent expectation or use a valuation specialist",
+            "Accept management's estimate",
+            "Ignore the estimate",
+            "Use prior year amounts"
+        ]
+    },
+    {
+        "q": "Match the estimate approach with its application:",
+        "type": "match",
+        "left": [
+            "Review management's process",
+            "Develop independent estimate",
+            "Use subsequent events",
+            "Engage specialist"
+        ],
+        "right": [
+            "Evaluate methodology and data",
+            "Create auditor's own expectation",
+            "Compare to actual outcomes",
+            "Obtain expert opinion"
+        ]
+    },
+    {
+        "q": "What is retrospective review of estimates?",
+        "type": "mcq",
+        "o": [
+            "Comparing prior period estimates to actual outcomes to assess estimation reliability",
+            "Ignoring prior years",
+            "Forward-looking analysis",
+            "Tax review"
+        ]
+    },
+    {
+        "q": "Retrospective review helps identify potential ______ in management's estimation process.",
+        "type": "fill_blank",
+        "answers": [
+            "bias"
+        ],
+        "other_options": [
+            "accuracy",
+            "compliance",
+            "efficiency"
+        ]
+    },
+    {
+        "q": "What are the auditor's considerations for accounting policies?",
+        "type": "mcq",
+        "o": [
+            "Whether policies are appropriate, consistently applied, and adequately disclosed",
+            "Only if policies are new",
+            "Ignore policy evaluation",
+            "Accept client's choices always"
+        ]
+    },
+    {
+        "q": "Changes in accounting policies require disclosure and may require restatement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the auditor's responsibility for financial statement presentation?",
+        "type": "mcq",
+        "o": [
+            "Evaluate whether presentation and disclosure comply with the applicable framework",
+            "Prepare the financial statements",
+            "Choose the format",
+            "Ignore presentation"
+        ]
+    },
+    {
+        "q": "Match the disclosure consideration with its evaluation:",
+        "type": "match",
+        "left": [
+            "Completeness",
+            "Accuracy",
+            "Classification",
+            "Understandability"
+        ],
+        "right": [
+            "All required disclosures included",
+            "Information is correct",
+            "Items properly categorized",
+            "Information is clear"
+        ]
+    },
+    {
+        "q": "The auditor evaluates whether disclosures are ______ and not misleading.",
+        "type": "fill_blank",
+        "answers": [
+            "relevant"
+        ],
+        "other_options": [
+            "minimal",
+            "lengthy",
+            "optional"
+        ]
+    },
+    {
+        "q": "What is the evaluation of uncorrected misstatements?",
+        "type": "mcq",
+        "o": [
+            "Determining whether individually or in aggregate they are material",
+            "Ignoring all misstatements",
+            "Correcting all automatically",
+            "Increasing materiality"
+        ]
+    },
+    {
+        "q": "The auditor should communicate uncorrected misstatements to those charged with governance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the summary of uncorrected misstatements?",
+        "type": "mcq",
+        "o": [
+            "A schedule showing all misstatements that management has not corrected",
+            "A list of corrected errors",
+            "The audit report",
+            "Client's trial balance"
+        ]
+    },
+    {
+        "q": "Known, likely, and ______ misstatements should be accumulated.",
+        "type": "fill_blank",
+        "answers": [
+            "projected"
+        ],
+        "other_options": [
+            "estimated",
+            "assumed",
+            "ignored"
+        ]
+    },
+    {
+        "q": "What is the auditor's final evaluation at audit completion?",
+        "type": "mcq",
+        "o": [
+            "Determine if sufficient appropriate evidence has been obtained to support the opinion",
+            "Calculate audit fees",
+            "Plan the next year's audit",
+            "Market to new clients"
+        ]
+    },
+    {
+        "q": "Rearrange the audit completion steps:",
+        "type": "rearrange",
+        "words": [
+            "Evaluate misstatements",
+            "Review documentation",
+            "Communicate findings",
+            "Form opinion",
+            "Issue report"
+        ]
+    },
+    {
+        "q": "What is the communication of audit findings?",
+        "type": "mcq",
+        "o": [
+            "Informing those charged with governance and management of significant audit matters",
+            "Marketing the firm",
+            "Billing the client",
+            "Training staff"
+        ]
+    },
+    {
+        "q": "Match the communication with its recipient:",
+        "type": "match",
+        "left": [
+            "Material weaknesses",
+            "Significant audit findings",
+            "Uncorrected misstatements",
+            "Management letter comments"
+        ],
+        "right": [
+            "Audit committee (written)",
+            "Those charged with governance",
+            "Management",
+            "Management for operational improvements"
+        ]
+    },
+    {
+        "q": "What matters should be communicated to those charged with governance?",
+        "type": "mcq",
+        "o": [
+            "Auditor independence, significant audit findings, and difficulties encountered",
+            "Only audit fees",
+            "Staff assignments",
+            "Marketing materials"
+        ]
+    },
+    {
+        "q": "Communication should be in writing for significant matters.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a management letter?",
+        "type": "mcq",
+        "o": [
+            "A letter with recommendations for operational improvements not rising to significant deficiency level",
+            "The audit report",
+            "An engagement letter",
+            "A confirmation request"
+        ]
+    },
+    {
+        "q": "The management letter is typically ______ to those charged with governance.",
+        "type": "fill_blank",
+        "answers": [
+            "separate from required communications"
+        ],
+        "other_options": [
+            "identical",
+            "required",
+            "prohibited"
+        ]
+    },
+    {
+        "q": "What is the auditor's responsibility after the audit report date?",
+        "type": "mcq",
+        "o": [
+            "No active duty but must respond if facts become known that would have affected the report",
+            "Continuous monitoring",
+            "Daily review of client",
+            "No responsibility"
+        ]
+    },
+    {
+        "q": "If the auditor discovers facts after issuance that would have changed the report, action is required.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What action should the auditor take upon discovering post-issuance facts?",
+        "type": "mcq",
+        "o": [
+            "Discuss with management, determine if amendment is needed, and consider notification requirements",
+            "Ignore the facts",
+            "Immediately resign",
+            "Issue a new opinion"
+        ]
+    },
+    {
+        "q": "Match the post-issuance scenario with the appropriate action:",
+        "type": "match",
+        "left": [
+            "Material error discovered",
+            "Management refuses to act",
+            "Auditor unable to assess",
+            "Facts existed at report date"
+        ],
+        "right": [
+            "Restatement needed",
+            "Consider legal advice and regulatory notification",
+            "Additional procedures needed",
+            "Amendment may be required"
+        ]
+    },
+    {
+        "q": "The auditor should add a(n) ______ date to the report if only a specific subsequent event is addressed.",
+        "type": "fill_blank",
+        "answers": [
+            "dual"
+        ],
+        "other_options": [
+            "single",
+            "original",
+            "new"
+        ]
+    },
+    {
+        "q": "What is dual dating in an audit report?",
+        "type": "mcq",
+        "o": [
+            "Two dates when the auditor's responsibility is extended only for a specific subsequent event",
+            "Dating errors",
+            "Incorrect report dating",
+            "Sequential dating"
+        ]
+    },
+    {
+        "q": "Dual dating limits the auditor's responsibility for events between the dates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of a representation letter dated as of the report date?",
+        "type": "mcq",
+        "o": [
+            "To confirm management representations made during the audit through the report date",
+            "To replace audit procedures",
+            "To eliminate liability",
+            "To satisfy regulators only"
+        ]
+    },
+    {
+        "q": "Representations in the letter should be specific and ______ the assertions tested.",
+        "type": "fill_blank",
+        "answers": [
+            "address"
+        ],
+        "other_options": [
+            "ignore",
+            "replace",
+            "duplicate"
+        ]
+    },
+    {
+        "q": "What should the representation letter include?",
+        "type": "mcq",
+        "o": [
+            "Acknowledgment of responsibility, access to information, and specific representations",
+            "Only management's signature",
+            "Auditor's opinion",
+            "Financial statements"
+        ]
+    },
+    {
+        "q": "Match the representation type with its content:",
+        "type": "match",
+        "left": [
+            "General",
+            "Fraud-related",
+            "Going concern",
+            "Compliance"
+        ],
+        "right": [
+            "Financial statement responsibility",
+            "No knowledge of fraud",
+            "Ability to continue operating",
+            "Adherence to laws"
+        ]
+    },
+    {
+        "q": "What is the effect of management refusing to sign the representation letter?",
+        "type": "mcq",
+        "o": [
+            "Scope limitation that may result in a qualified opinion or disclaimer",
+            "No effect",
+            "Issue an unqualified opinion",
+            "Withdraw immediately"
+        ]
+    },
+    {
+        "q": "The representation letter should be signed by the ______ and CFO.",
+        "type": "fill_blank",
+        "answers": [
+            "CEO"
+        ],
+        "other_options": [
+            "auditor",
+            "regulator",
+            "lawyer"
+        ]
+    },
+    {
+        "q": "What is the auditor's responsibility for the audit committee's charter?",
+        "type": "mcq",
+        "o": [
+            "Understand the committee's role and responsibilities as it relates to the audit",
+            "Write the charter",
+            "Approve the charter",
+            "Ignore the charter"
+        ]
+    },
+    {
+        "q": "The audit committee should pre-approve non-audit services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the auditor's role in evaluating the audit committee's effectiveness?",
+        "type": "mcq",
+        "o": [
+            "Consider the impact of audit committee oversight on control environment",
+            "Rate the committee",
+            "Replace committee functions",
+            "Ignore committee activities"
+        ]
+    },
+    {
+        "q": "Match the audit committee function with its importance:",
+        "type": "match",
+        "left": [
+            "Oversight of auditor",
+            "Review of financial statements",
+            "Whistleblower procedures",
+            "Internal audit supervision"
+        ],
+        "right": [
+            "Independence and quality",
+            "Reliability of reporting",
+            "Detection of fraud",
+            "Internal control monitoring"
+        ]
+    },
+    {
+        "q": "The auditor should assess whether the audit committee is ______ of management.",
+        "type": "fill_blank",
+        "answers": [
+            "independent"
+        ],
+        "other_options": [
+            "part",
+            "supportive",
+            "controlled by"
+        ]
+    },
+    {
+        "q": "What is comprehensive audit planning?",
+        "type": "mcq",
+        "o": [
+            "Developing an overall audit strategy and detailed audit plan",
+            "Only scheduling staff",
+            "Ignoring prior year results",
+            "Random selection of procedures"
+        ]
+    },
+    {
+        "q": "The audit plan should be updated as circumstances change during the engagement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What factors affect audit planning decisions?",
+        "type": "mcq",
+        "o": [
+            "Risk assessment, materiality, prior year results, and industry knowledge",
+            "Only audit fees",
+            "Client preferences",
+            "Weather conditions"
+        ]
+    },
+    {
+        "q": "Rearrange planning activities in order:",
+        "type": "rearrange",
+        "words": [
+            "Accept engagement",
+            "Understand entity",
+            "Assess risks",
+            "Develop strategy",
+            "Create detailed plan"
+        ]
+    },
+    {
+        "q": "What is the difference between audit strategy and audit plan?",
+        "type": "mcq",
+        "o": [
+            "Strategy sets scope, timing, and direction; plan details specific procedures",
+            "Both are identical",
+            "Plan comes before strategy",
+            "Strategy is optional"
+        ]
+    },
+    {
+        "q": "The audit ______ sets the scope, timing, and direction of the audit.",
+        "type": "fill_blank",
+        "answers": [
+            "strategy"
+        ],
+        "other_options": [
+            "plan",
+            "report",
+            "opinion"
+        ]
+    },
+    {
+        "q": "What documentation is required for the audit plan?",
+        "type": "mcq",
+        "o": [
+            "Overall strategy, detailed plan, and significant changes during the engagement",
+            "Only time budgets",
+            "Client financials",
+            "Marketing materials"
+        ]
+    },
+    {
+        "q": "Match the planning element with its purpose:",
+        "type": "match",
+        "left": [
+            "Risk assessment",
+            "Materiality determination",
+            "Staffing decisions",
+            "Timing of procedures"
+        ],
+        "right": [
+            "Identify areas of concern",
+            "Set testing thresholds",
+            "Assign qualified personnel",
+            "Schedule fieldwork"
+        ]
+    },
+    {
+        "q": "What is the purpose of understanding the entity's system of internal control?",
+        "type": "mcq",
+        "o": [
+            "To identify and assess risks of material misstatement",
+            "To prepare financial statements",
+            "To set management policies",
+            "To hire employees"
+        ]
+    },
+    {
+        "q": "The auditor must understand internal control regardless of the planned audit approach.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between understanding and testing controls?",
+        "type": "mcq",
+        "o": [
+            "Understanding identifies controls; testing evaluates operating effectiveness",
+            "Both are the same",
+            "Testing comes before understanding",
+            "Understanding is not required"
+        ]
+    },
+    {
+        "q": "The auditor may choose a ______ approach if controls are effective and testing is efficient.",
+        "type": "fill_blank",
+        "answers": [
+            "combined"
+        ],
+        "other_options": [
+            "substantive only",
+            "random",
+            "minimal"
+        ]
+    },
+    {
+        "q": "What is the primarily substantive approach?",
+        "type": "mcq",
+        "o": [
+            "An approach relying mainly on substantive procedures rather than testing controls",
+            "Testing controls only",
+            "No testing at all",
+            "Maximum reliance on management"
+        ]
+    },
+    {
+        "q": "Match the audit approach with its characteristic:",
+        "type": "match",
+        "left": [
+            "Primarily substantive",
+            "Combined approach",
+            "Controls testing only"
+        ],
+        "right": [
+            "Limited reliance on controls",
+            "Balance of controls and substantive",
+            "Not appropriate alone"
+        ]
+    },
+    {
+        "q": "What is the nature, timing, and extent of audit procedures?",
+        "type": "mcq",
+        "o": [
+            "What procedures to perform, when to perform them, and how extensively",
+            "Only the type of test",
+            "Client preferences",
+            "Audit fee structure"
+        ]
+    },
+    {
+        "q": "Increasing sample size affects the ______ of testing.",
+        "type": "fill_blank",
+        "answers": [
+            "extent"
+        ],
+        "other_options": [
+            "nature",
+            "timing",
+            "quality"
+        ]
+    },
+    {
+        "q": "What affects the timing of substantive procedures?",
+        "type": "mcq",
+        "o": [
+            "Risk assessment, control environment, and availability of evidence",
+            "Auditor's vacation schedule",
+            "Client's marketing plan",
+            "Industry trends only"
+        ]
+    },
+    {
+        "q": "Performing procedures at interim increases efficiency but may increase risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is roll-forward testing?",
+        "type": "mcq",
+        "o": [
+            "Additional procedures to update interim testing to year-end",
+            "Testing at year-end only",
+            "Ignoring interim procedures",
+            "Repeating all tests"
+        ]
+    },
+    {
+        "q": "If controls are tested at interim, the auditor should consider whether ______ has occurred.",
+        "type": "fill_blank",
+        "answers": [
+            "significant change"
+        ],
+        "other_options": [
+            "no change",
+            "improvement",
+            "decline only"
+        ]
+    },
+    {
+        "q": "What is the auditor's consideration for using service organizations?",
+        "type": "mcq",
+        "o": [
+            "Evaluate controls at the service organization that affect client's internal control",
+            "Ignore service organizations",
+            "Assume controls are effective",
+            "Test only client controls"
+        ]
+    },
+    {
+        "q": "The user auditor may obtain and rely on a Type 2 SOC 1 report.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What complementary user entity controls are?",
+        "type": "mcq",
+        "o": [
+            "Controls the user entity must implement for service organization controls to be effective",
+            "Service organization controls",
+            "Auditor controls",
+            "Regulatory controls"
+        ]
+    },
+    {
+        "q": "Match the SOC report usage with its audit purpose:",
+        "type": "match",
+        "left": [
+            "Type 1 report",
+            "Type 2 report",
+            "Complementary controls",
+            "Carve-out method"
+        ],
+        "right": [
+            "Design only evaluation",
+            "Operating effectiveness testing",
+            "User entity responsibility",
+            "Subservice exclusion"
+        ]
+    },
+    {
+        "q": "The ______ method includes subservice organization controls in the report scope.",
+        "type": "fill_blank",
+        "answers": [
+            "inclusive"
+        ],
+        "other_options": [
+            "carve-out",
+            "exclusive",
+            "minimal"
+        ]
+    },
+    {
+        "q": "What is the auditor's consideration for related parties in an integrated audit?",
+        "type": "mcq",
+        "o": [
+            "Evaluate controls over identification and disclosure of related party transactions",
+            "Ignore related parties",
+            "Approve all transactions",
+            "Focus only on amounts"
+        ]
+    },
+    {
+        "q": "Related party controls should prevent unauthorized or undisclosed transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the most challenging aspect of auditing complex financial instruments?",
+        "type": "mcq",
+        "o": [
+            "Valuation due to lack of observable market inputs and complex estimation",
+            "Counting the instruments",
+            "Confirming existence",
+            "Classifying by type"
+        ]
+    },
+    {
+        "q": "Level 3 fair value measurements require the most ______ from the auditor.",
+        "type": "fill_blank",
+        "answers": [
+            "judgment"
+        ],
+        "other_options": [
+            "time",
+            "staff",
+            "technology"
+        ]
+    },
+    {
+        "q": "What should the auditor evaluate regarding complex instrument valuation models?",
+        "type": "mcq",
+        "o": [
+            "Model appropriateness, input reliability, and methodology consistency",
+            "Only the final value",
+            "Management's preference",
+            "Industry average"
+        ]
+    },
+    {
+        "q": "Match the valuation challenge with its audit response:",
+        "type": "match",
+        "left": [
+            "Illiquid markets",
+            "Complex models",
+            "Subjective inputs",
+            "Changing conditions"
+        ],
+        "right": [
+            "Consider alternative sources",
+            "Engage specialist",
+            "Test reasonableness",
+            "Evaluate assumptions"
+        ]
+    },
+    {
+        "q": "What is the auditor's approach to testing management's valuation of goodwill impairment?",
+        "type": "mcq",
+        "o": [
+            "Evaluate projections, discount rates, and reasonableness of assumptions",
+            "Accept management's conclusion",
+            "Ignore impairment testing",
+            "Use prior year amounts"
+        ]
+    },
+    {
+        "q": "Goodwill impairment testing requires significant ______ judgment.",
+        "type": "fill_blank",
+        "answers": [
+            "auditor"
+        ],
+        "other_options": [
+            "management",
+            "regulatory",
+            "external"
+        ]
+    },
+    {
+        "q": "What are key inputs in goodwill impairment testing?",
+        "type": "mcq",
+        "o": [
+            "Revenue projections, discount rates, terminal values, and comparable transactions",
+            "Only historical costs",
+            "Market capitalization alone",
+            "Book value only"
+        ]
+    },
+    {
+        "q": "The auditor should consider whether a triggering event for impairment has occurred.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the auditor's responsibility in evaluating cybersecurity disclosures?",
+        "type": "mcq",
+        "o": [
+            "Consider materiality and impact on financial reporting, not audit cybersecurity directly",
+            "Audit IT systems completely",
+            "Certify cybersecurity",
+            "Ignore cybersecurity"
+        ]
+    },
+    {
+        "q": "Cybersecurity breaches may result in ______ that require disclosure.",
+        "type": "fill_blank",
+        "answers": [
+            "contingent liabilities"
+        ],
+        "other_options": [
+            "assets",
+            "revenue",
+            "inventory"
+        ]
+    },
+    {
+        "q": "What emerging technology considerations affect auditing?",
+        "type": "mcq",
+        "o": [
+            "Blockchain, AI, cloud computing, and data analytics",
+            "Only traditional IT",
+            "Manual processes",
+            "Paper records"
+        ]
+    },
+    {
+        "q": "Match the emerging technology with its audit implication:",
+        "type": "match",
+        "left": [
+            "Blockchain",
+            "Artificial intelligence",
+            "Cloud computing",
+            "Robotic process automation"
+        ],
+        "right": [
+            "Immutable records",
+            "Automated judgments",
+            "Third-party controls",
+            "Consistent transaction processing"
+        ]
+    },
+    {
+        "q": "The auditor must understand how technology affects the client's internal control environment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the auditor's consideration for ESG (Environmental, Social, Governance) matters?",
+        "type": "mcq",
+        "o": [
+            "Consider impact on financial statements and disclosures as required by the framework",
+            "Audit ESG performance",
+            "Ignore ESG",
+            "Set ESG policies"
+        ]
+    },
+    {
+        "q": "ESG disclosures may involve significant ______ and estimates.",
+        "type": "fill_blank",
+        "answers": [
+            "judgments"
+        ],
+        "other_options": [
+            "assets",
+            "liabilities",
+            "revenues"
+        ]
+    },
+    {
+        "q": "What is the evolving landscape of auditing standards?",
+        "type": "mcq",
+        "o": [
+            "Continuous updates by PCAOB, AICPA, and international bodies reflecting new developments",
+            "Standards never change",
+            "Only historical standards apply",
+            "Standards are optional"
+        ]
+    },
+    {
+        "q": "Auditors must stay current with changes in professional standards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is quality management in auditing?",
+        "type": "mcq",
+        "o": [
+            "A system of policies and procedures to ensure audits are performed consistently and meet standards",
+            "Marketing audit services",
+            "Billing procedures",
+            "Staff recruitment"
+        ]
+    },
+    {
+        "q": "SQCS (Statements on Quality Control Standards) establish quality requirements for CPA firms.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the elements of a quality management system?",
+        "type": "mcq",
+        "o": [
+            "Leadership, ethics, client acceptance, engagement performance, monitoring, and resources",
+            "Only training",
+            "Fee structure",
+            "Marketing"
+        ]
+    },
+    {
+        "q": "Match the quality element with its focus:",
+        "type": "match",
+        "left": [
+            "Leadership",
+            "Human resources",
+            "Engagement performance",
+            "Monitoring"
+        ],
+        "right": [
+            "Tone at the top",
+            "Competence and staffing",
+            "Supervision and review",
+            "Inspection of completed work"
+        ]
+    },
+    {
+        "q": "The ______ responsible partner is accountable for the overall quality of an engagement.",
+        "type": "fill_blank",
+        "answers": [
+            "engagement"
+        ],
+        "other_options": [
+            "managing",
+            "consulting",
+            "training"
+        ]
+    },
+    {
+        "q": "What is EQCR (Engagement Quality Control Review)?",
+        "type": "mcq",
+        "o": [
+            "An objective evaluation by a qualified partner not involved in the engagement",
+            "The audit itself",
+            "Client review",
+            "Internal audit"
+        ]
+    },
+    {
+        "q": "EQCR is required for audits of public companies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of peer review?",
+        "type": "mcq",
+        "o": [
+            "External inspection of a firm's accounting and auditing practice",
+            "Internal staff appraisal",
+            "Client satisfaction survey",
+            "Marketing evaluation"
+        ]
+    },
+    {
+        "q": "AICPA peer reviews evaluate compliance with ______ standards.",
+        "type": "fill_blank",
+        "answers": [
+            "professional"
+        ],
+        "other_options": [
+            "marketing",
+            "billing",
+            "administrative"
+        ]
+    },
+    {
+        "q": "What types of peer reviews exist?",
+        "type": "mcq",
+        "o": [
+            "System and engagement reviews",
+            "Only financial reviews",
+            "Marketing reviews",
+            "Staff reviews"
+        ]
+    },
+    {
+        "q": "Match the peer review type with its scope:",
+        "type": "match",
+        "left": [
+            "System review",
+            "Engagement review"
+        ],
+        "right": [
+            "Firms with audits",
+            "Firms with only reviews or compilations"
+        ]
+    },
+    {
+        "q": "What is continuous auditing?",
+        "type": "mcq",
+        "o": [
+            "A methodology enabling auditors to provide assurance on subject matter in near real-time",
+            "Annual auditing only",
+            "One-time auditing",
+            "Retrospective auditing"
+        ]
+    },
+    {
+        "q": "Continuous auditing uses technology to automate testing procedures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between continuous auditing and continuous monitoring?",
+        "type": "mcq",
+        "o": [
+            "Continuous auditing is by auditors; continuous monitoring is by management",
+            "Both are identical",
+            "Monitoring is by auditors",
+            "Auditing is optional"
+        ]
+    },
+    {
+        "q": "Continuous monitoring supports ______ control effectiveness.",
+        "type": "fill_blank",
+        "answers": [
+            "ongoing"
+        ],
+        "other_options": [
+            "periodic",
+            "annual",
+            "optional"
+        ]
+    },
+    {
+        "q": "What is the auditor's responsibility for going concern evaluation per AU-C 570?",
+        "type": "mcq",
+        "o": [
+            "Evaluate whether substantial doubt exists about the entity's ability to continue",
+            "Guarantee viability",
+            "Invest in the company",
+            "Prepare business plans"
+        ]
+    },
+    {
+        "q": "Substantial doubt about going concern triggers additional disclosure requirements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What conditions may indicate going concern issues?",
+        "type": "mcq",
+        "o": [
+            "Recurring losses, negative cash flows, loan defaults, and adverse key ratios",
+            "High profits",
+            "Positive cash flow",
+            "New contracts"
+        ]
+    },
+    {
+        "q": "Match the going concern indicator with its category:",
+        "type": "match",
+        "left": [
+            "Defaulted loans",
+            "Loss of major customer",
+            "Lawsuits",
+            "Working capital deficiency"
+        ],
+        "right": [
+            "Financial indicator",
+            "Operating indicator",
+            "Legal indicator",
+            "Financial indicator"
+        ]
+    },
+    {
+        "q": "When going concern is in doubt, the auditor evaluates management's ______ to mitigate.",
+        "type": "fill_blank",
+        "answers": [
+            "plans"
+        ],
+        "other_options": [
+            "hopes",
+            "wishes",
+            "assumptions only"
+        ]
+    },
+    {
+        "q": "What is the evaluation period for going concern?",
+        "type": "mcq",
+        "o": [
+            "One year from the financial statement date",
+            "Six months",
+            "Two years",
+            "Indefinitely"
+        ]
+    },
+    {
+        "q": "If substantial doubt is alleviated by management's plans, no report modification is required.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is an emphasis-of-matter paragraph for going concern?",
+        "type": "mcq",
+        "o": [
+            "A paragraph drawing attention to going concern uncertainty disclosed in the financial statements",
+            "A replacement for the opinion",
+            "A qualification",
+            "An adverse opinion element"
+        ]
+    },
+    {
+        "q": "The emphasis-of-matter paragraph does not affect the opinion type.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the auditor's reporting when going concern is appropriately disclosed?",
+        "type": "mcq",
+        "o": [
+            "Unmodified opinion with emphasis-of-matter paragraph",
+            "Adverse opinion",
+            "Disclaimer",
+            "Qualified opinion"
+        ]
+    },
+    {
+        "q": "If management refuses to make required going concern disclosures, the auditor should ______.",
+        "type": "fill_blank",
+        "answers": [
+            "modify the opinion"
+        ],
+        "other_options": [
+            "accept the statements",
+            "withdraw silently",
+            "ignore the issue"
+        ]
+    },
+    {
+        "q": "What is the audit of financial statement notes?",
+        "type": "mcq",
+        "o": [
+            "Evaluating whether note disclosures are complete, accurate, and comply with the framework",
+            "Ignoring notes",
+            "Writing notes for management",
+            "Summarizing notes only"
+        ]
+    },
+    {
+        "q": "Note disclosures are an integral part of the financial statements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What should the auditor verify regarding note disclosures?",
+        "type": "mcq",
+        "o": [
+            "That they are relevant, complete, accurate, and understandable",
+            "Only that they exist",
+            "That they are short",
+            "That management approved them"
+        ]
+    },
+    {
+        "q": "Match the disclosure type with its requirement:",
+        "type": "match",
+        "left": [
+            "Accounting policies",
+            "Related parties",
+            "Contingencies",
+            "Subsequent events"
+        ],
+        "right": [
+            "Summary of significant policies",
+            "Nature and transactions",
+            "Probable losses",
+            "Post-balance sheet date events"
+        ]
+    },
+    {
+        "q": "Omission of required disclosures is a ______ that affects the auditor's opinion.",
+        "type": "fill_blank",
+        "answers": [
+            "departure from GAAP"
+        ],
+        "other_options": [
+            "minor issue",
+            "acceptable practice",
+            "management preference"
+        ]
+    },
+    {
+        "q": "What is the purpose of analytical procedures in planning?",
+        "type": "mcq",
+        "o": [
+            "To understand the entity and identify areas of potential risk",
+            "To complete the audit",
+            "To replace substantive testing",
+            "To satisfy documentation requirements"
+        ]
+    },
+    {
+        "q": "Analytical procedures are required in both planning and overall review stages.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What makes analytical procedures effective as substantive procedures?",
+        "type": "mcq",
+        "o": [
+            "Reliable data, precise expectation, and appropriate threshold for investigation",
+            "Simple calculations",
+            "Prior year comparisons only",
+            "Management explanations"
+        ]
+    },
+    {
+        "q": "Match the analytical procedure type with its example:",
+        "type": "match",
+        "left": [
+            "Trend analysis",
+            "Ratio analysis",
+            "Regression analysis",
+            "Reasonableness test"
+        ],
+        "right": [
+            "Revenue growth over time",
+            "Current ratio calculation",
+            "Statistical relationship modeling",
+            "Expected vs. actual comparison"
+        ]
+    },
+    {
+        "q": "The ______ between expected and recorded amounts determines if investigation is needed.",
+        "type": "fill_blank",
+        "answers": [
+            "difference"
+        ],
+        "other_options": [
+            "similarity",
+            "agreement",
+            "ratio"
+        ]
+    },
+    {
+        "q": "What is the audit approach for estimates with high uncertainty?",
+        "type": "mcq",
+        "o": [
+            "Increased skepticism, specialized procedures, and potentially use of specialists",
+            "Accept management's estimate",
+            "Reduce testing",
+            "Ignore the uncertainty"
+        ]
+    },
+    {
+        "q": "High estimation uncertainty may require disclosure in the audit report as a CAM.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between reasonable and adequate audit evidence?",
+        "type": "mcq",
+        "o": [
+            "Both terms are used; evidence must be sufficient in quantity and appropriate in quality",
+            "Reasonable is less than adequate",
+            "Adequate is subjective",
+            "Neither term is used in standards"
+        ]
+    },
+    {
+        "q": "Audit evidence must be both sufficient and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "appropriate"
+        ],
+        "other_options": [
+            "available",
+            "simple",
+            "documented"
+        ]
+    },
+    {
+        "q": "What factors affect the reliability of audit evidence?",
+        "type": "mcq",
+        "o": [
+            "Source, nature, and circumstances of obtaining the evidence",
+            "Only the client's preferences",
+            "Audit fees",
+            "Staff experience only"
+        ]
+    },
+    {
+        "q": "Match the evidence characteristic with its importance:",
+        "type": "match",
+        "left": [
+            "Sufficiency",
+            "Appropriateness",
+            "Relevance",
+            "Reliability"
+        ],
+        "right": [
+            "Quantity of evidence",
+            "Quality of evidence",
+            "Relates to assertion",
+            "Trustworthiness of source"
+        ]
+    },
+    {
+        "q": "External evidence is generally more reliable than internal evidence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the auditor's documentation assembly deadline?",
+        "type": "mcq",
+        "o": [
+            "60 days after the report release date for nonissuers",
+            "30 days",
+            "90 days",
+            "Immediately"
+        ]
+    },
+    {
+        "q": "For issuers, the documentation assembly deadline is ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "45"
+        ],
+        "other_options": [
+            "30",
+            "60",
+            "90"
+        ]
+    },
+    {
+        "q": "What is the documentation retention period for audits?",
+        "type": "mcq",
+        "o": [
+            "5 years for nonissuers; 7 years for issuers",
+            "1 year",
+            "3 years",
+            "Indefinitely"
+        ]
+    },
+    {
+        "q": "Audit documentation should be retained from the ______ date.",
+        "type": "fill_blank",
+        "answers": [
+            "report"
+        ],
+        "other_options": [
+            "engagement",
+            "planning",
+            "fieldwork"
+        ]
+    },
+    {
+        "q": "What additions to documentation are permitted after the report date?",
+        "type": "mcq",
+        "o": [
+            "Documentation of completion procedures and clarifications, not deletion of evidence",
+            "Any changes",
+            "No additions",
+            "Complete rewrites"
+        ]
+    },
+    {
+        "q": "Match the documentation deadline with the engagement type:",
+        "type": "match",
+        "left": [
+            "Nonissuer audit",
+            "Issuer audit"
+        ],
+        "right": [
+            "60 days",
+            "45 days"
+        ]
+    },
+    {
+        "q": "When is the auditor's responsibility for events completed?",
+        "type": "mcq",
+        "o": [
+            "Through the date of the auditor's report",
+            "Year-end only",
+            "Indefinitely",
+            "When management signs"
+        ]
+    },
+    {
+        "q": "The auditor has no obligation to perform procedures after the report date unless facts come to attention.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the engagement partner's responsibility?",
+        "type": "mcq",
+        "o": [
+            "Overall responsibility for quality and direction of the engagement and the audit report",
+            "Only reviewing staff work",
+            "Billing the client",
+            "Marketing services"
+        ]
+    },
+    {
+        "q": "The engagement partner signs the audit ______ on behalf of the firm.",
+        "type": "fill_blank",
+        "answers": [
+            "report"
+        ],
+        "other_options": [
+            "invoice",
+            "contract",
+            "proposal"
+        ]
+    },
+    {
+        "q": "What are the key responsibilities of the engagement team?",
+        "type": "mcq",
+        "o": [
+            "Planning, risk assessment, performing procedures, and forming conclusions",
+            "Only documentation",
+            "Client relations",
+            "Fee negotiations"
+        ]
+    },
+    {
+        "q": "Rearrange engagement team responsibilities:",
+        "type": "rearrange",
+        "words": [
+            "Plan engagement",
+            "Assess risk",
+            "Perform procedures",
+            "Evaluate evidence",
+            "Form conclusions"
+        ]
+    }
+]

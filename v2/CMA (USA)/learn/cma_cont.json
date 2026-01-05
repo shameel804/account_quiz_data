@@ -1,0 +1,149 @@
+{
+    "id": "learn_cma_cont",
+    "topicId": "cma_cont",
+    "topicTitle": "Internal Controls",
+    "description": "Master CMA internal controls including Control Frameworks, Risk Management, and Audit",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "p1e_1",
+            "type": "content",
+            "title": "Welcome to Internal Controls",
+            "content": "# Internal Controls\n\nPart 1E covers **control systems** and governance.\n\n## What You Will Learn\n\n- **Control Framework** - COSO\n- **Risk Management** - ERM\n- **Internal Audit** - Role and function\n- **SOX** - Compliance\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Governance | Structure |\n| Control framework | COSO |\n| Risk management | ERM |\n| Internal audit | Assurance |"
+        },
+        {
+            "id": "p1e_2",
+            "type": "content",
+            "title": "COSO Framework",
+            "content": "# COSO Internal Control\n\n## Five Components\n\n| Component | Focus |\n|-----------|-------|\n| Control environment | Foundation |\n| Risk assessment | Identification |\n| Control activities | Actions |\n| Information/communication | Flow |\n| Monitoring | Oversight |\n\n## Control Environment\n\n- Tone at the top\n- Board oversight\n- Organizational structure\n- Commitment to competence\n\n## 17 Principles\n\nPrinciples support each component."
+        },
+        {
+            "id": "p1e_3",
+            "type": "content",
+            "title": "Control Activities",
+            "content": "# Types of Controls\n\n## By Timing\n\n| Type | When |\n|------|------|\n| Preventive | Before event |\n| Detective | After event |\n| Corrective | Fix issues |\n\n## By Nature\n\n| Type | Example |\n|------|--------|\n| Authorization | Approval limits |\n| Segregation | Separate duties |\n| Physical | Locked assets |\n| Reconciliation | Bank recon |\n| IT controls | Access, processing |\n\n## Segregation of Duties\n\n```\nAuthorization\nCustody\nRecording\nReconciliation\n\n(Should be separate people)\n```"
+        },
+        {
+            "id": "p1e_quiz_1",
+            "type": "quiz",
+            "title": "Controls Quiz",
+            "content": "Test your control knowledge!",
+            "quizQuestion": "Controls that stop errors before they occur are called?",
+            "quizOptions": [
+                "Detective",
+                "Corrective",
+                "Preventive",
+                "Compensating"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p1e_4",
+            "type": "content",
+            "title": "Risk Assessment",
+            "content": "# Risk Identification\n\n## Risk Categories\n\n| Category | Examples |\n|----------|----------|\n| Strategic | Competition, market |\n| Operational | Systems, processes |\n| Financial | Currency, interest |\n| Compliance | Legal, regulatory |\n\n## Risk Assessment Process\n\n```\n1. Identify risks\n2. Assess likelihood\n3. Assess impact\n4. Evaluate controls\n5. Determine residual risk\n```\n\n## Risk Response\n\n| Response | Action |\n|----------|--------|\n| Accept | Live with it |\n| Avoid | Eliminate |\n| Reduce | Controls |\n| Transfer | Insurance |"
+        },
+        {
+            "id": "p1e_5",
+            "type": "content",
+            "title": "Enterprise Risk Management",
+            "content": "# COSO ERM\n\n## ERM Components\n\n| Component | Focus |\n|-----------|-------|\n| Governance | Culture, oversight |\n| Strategy | Objectives, appetite |\n| Performance | Risk identification |\n| Review | Monitor, communicate |\n| Information | Reporting |\n\n## Risk Appetite\n\n```\nLevel of risk organization\nis willing to accept\n```\n\n## Risk Tolerance\n\n```\nAcceptable variation\naround objectives\n```\n\n## Heat Map\n\n| | Low Impact | High Impact |\n|---|------------|-------------|\n| High Likelihood | Medium | High |\n| Low Likelihood | Low | Medium |"
+        },
+        {
+            "id": "p1e_6",
+            "type": "content",
+            "title": "Internal Audit",
+            "content": "# Internal Audit Function\n\n## Role\n\n- Independent assurance\n- Consulting services\n- Risk management\n- Control evaluation\n\n## IIA Standards\n\n| Attribute | Performance |\n|-----------|-------------|\n| Independence | Planning |\n| Objectivity | Execution |\n| Competence | Reporting |\n| Due care | Monitoring |\n\n## Reporting\n\n- Report to audit committee\n- Administrative to management\n\n## Value Added\n\n- Improve operations\n- Risk management\n- Control processes"
+        },
+        {
+            "id": "p1e_7",
+            "type": "content",
+            "title": "SOX Compliance",
+            "content": "# Sarbanes-Oxley Act\n\n## Key Sections\n\n| Section | Requirement |\n|---------|-------------|\n| 302 | CEO/CFO certification |\n| 404 | Internal control assessment |\n| 906 | Criminal certification |\n\n## Section 404\n\n```\nManagement must:\n1. Assess internal controls\n2. Report on effectiveness\n\nAuditor must:\n1. Attest to assessment\n2. Report on controls\n```\n\n## Material Weakness\n\nDeficiency that could result in material misstatement.\n\n## Significant Deficiency\n\nLess severe than material weakness but noteworthy."
+        },
+        {
+            "id": "p1e_quiz_2",
+            "type": "quiz",
+            "title": "SOX Quiz",
+            "content": "Test your SOX knowledge!",
+            "quizQuestion": "SOX Section 404 requires assessment of?",
+            "quizOptions": [
+                "Management compensation",
+                "Internal controls",
+                "Environmental compliance",
+                "Marketing practices"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1e_8",
+            "type": "content",
+            "title": "Corporate Governance",
+            "content": "# Governance Structure\n\n## Board of Directors\n\n| Role | Responsibility |\n|------|---------------|\n| Oversight | Strategy, risk |\n| Accountability | To shareholders |\n| Stewardship | Long-term value |\n\n## Board Committees\n\n| Committee | Focus |\n|-----------|-------|\n| Audit | Financial reporting |\n| Compensation | Executive pay |\n| Nomination | Board appointments |\n| Risk | Risk oversight |\n\n## Independence\n\n- Majority independent directors\n- Independent audit committee\n- External auditor independence"
+        },
+        {
+            "id": "p1e_9",
+            "type": "content",
+            "title": "Fraud Prevention",
+            "content": "# Fraud Risk\n\n## Fraud Triangle\n\n```\n    Opportunity\n       /    \\\\\n      /      \\\\\nPressure----Rationalization\n```\n\n## Types of Fraud\n\n| Type | Example |\n|------|--------|\n| Asset theft | Stealing inventory |\n| Corruption | Bribery |\n| Financial statement | Overstating revenue |\n\n## Prevention\n\n| Control | Purpose |\n|---------|--------|\n| Tone at top | Culture |\n| Background checks | Hiring |\n| Segregation | Reduce opportunity |\n| Hotline | Reporting |\n\n## Detection\n\n- Data analytics\n- Internal audit\n- Whistleblower reports"
+        },
+        {
+            "id": "p1e_10",
+            "type": "content",
+            "title": "IT Controls",
+            "content": "# Information Technology Controls\n\n## General Controls\n\n| Control | Purpose |\n|---------|--------|\n| Access | Authorization |\n| Change management | System changes |\n| Operations | Processing |\n| Security | Protection |\n\n## Application Controls\n\n| Control | Focus |\n|---------|-------|\n| Input | Data entry |\n| Processing | Calculations |\n| Output | Reports |\n\n## Cyber Security\n\n- Firewalls\n- Encryption\n- Authentication\n- Monitoring"
+        },
+        {
+            "id": "p1e_11",
+            "type": "content",
+            "title": "Business Continuity",
+            "content": "# Continuity Planning\n\n## BCP Components\n\n| Component | Purpose |\n|-----------|--------|\n| Risk assessment | Identify threats |\n| Impact analysis | Business impact |\n| Recovery strategies | Response plans |\n| Plan testing | Validate |\n\n## Disaster Recovery\n\n| Element | Focus |\n|---------|-------|\n| Backup | Data protection |\n| Recovery site | Alternative location |\n| Communication | Stakeholder updates |\n\n## Recovery Objectives\n\n```\nRTO = Recovery Time Objective\n(How quickly to recover)\n\nRPO = Recovery Point Objective\n(How much data loss acceptable)\n```"
+        },
+        {
+            "id": "p1e_quiz_3",
+            "type": "quiz",
+            "title": "Fraud Quiz",
+            "content": "Test your fraud knowledge!",
+            "quizQuestion": "The fraud triangle includes pressure, opportunity, and?",
+            "quizOptions": [
+                "Motivation",
+                "Rationalization",
+                "Capability",
+                "Access"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1e_12",
+            "type": "content",
+            "title": "Ethics Programs",
+            "content": "# Ethics and Compliance\n\n## Ethics Program Elements\n\n| Element | Purpose |\n|---------|--------|\n| Code of conduct | Standards |\n| Training | Awareness |\n| Reporting | Hotlines |\n| Enforcement | Consequences |\n\n## Whistleblower Protection\n\n- Anonymous reporting\n- Non-retaliation\n- SOX protections\n\n## Compliance Programs\n\n- Policies and procedures\n- Monitoring\n- Testing\n- Reporting"
+        },
+        {
+            "id": "p1e_13",
+            "type": "content",
+            "title": "Data Protection",
+            "content": "# Data Security\n\n## Data Classification\n\n| Level | Example |\n|-------|--------|\n| Public | Marketing info |\n| Internal | Employee directory |\n| Confidential | Financial data |\n| Restricted | Trade secrets |\n\n## Privacy Requirements\n\n| Regulation | Focus |\n|------------|-------|\n| GDPR | EU data protection |\n| CCPA | California privacy |\n| HIPAA | Health information |\n\n## Controls\n\n- Access restrictions\n- Encryption\n- Data retention policies\n- Breach response"
+        },
+        {
+            "id": "p1e_quiz_4",
+            "type": "quiz",
+            "title": "IT Quiz",
+            "content": "Test your IT control knowledge!",
+            "quizQuestion": "RTO stands for Recovery Time?",
+            "quizOptions": [
+                "Outcome",
+                "Objective",
+                "Operation",
+                "Output"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1e_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Part 1E - Internal Controls**!\n\n## Key Topics\n\n### Control Framework\n- COSO five components\n- Control activities\n- Monitoring\n\n### Risk Management\n- COSO ERM\n- Risk assessment\n- Risk response\n\n### Governance\n- SOX compliance\n- Corporate governance\n- Internal audit\n\n### IT/Security\n- IT controls\n- Fraud prevention\n- Business continuity\n\n## Key Frameworks\n\n| Framework | Use |\n|-----------|-----|\n| COSO IC | Internal control |\n| COSO ERM | Risk management |\n| IIA Standards | Internal audit |\n\n## What is Next?\n\nExplore CMA Part 1F - Technology & Analytics!"
+        }
+    ]
+}

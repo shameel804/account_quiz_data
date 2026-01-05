@@ -1,0 +1,143 @@
+{
+    "id": "learn_cima_ba1",
+    "topicId": "cima_ba1",
+    "topicTitle": "BA1 - Fundamentals of Business Economics",
+    "description": "Master CIMA BA1 covering Microeconomics, Macroeconomics, and Business Environment",
+    "baseKP": 50,
+    "slides": [
+        {
+            "id": "ba1_1",
+            "type": "content",
+            "title": "Welcome to CIMA BA1",
+            "content": "# BA1 - Fundamentals of Business Economics\n\nBA1 covers **economic principles** for business.\n\n## What You Will Learn\n\n- **Microeconomics** - Markets and firms\n- **Macroeconomics** - National economy\n- **Business Environment** - External factors\n- **Government** - Policy impact\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Microeconomics | 30% |\n| Macroeconomics | 30% |\n| Business environment | 20% |\n| Government | 20% |"
+        },
+        {
+            "id": "ba1_2",
+            "type": "content",
+            "title": "Demand and Supply",
+            "content": "# Market Fundamentals\n\n## Demand Curve\n\n```\nPrice up -> Quantity demanded down\nPrice down -> Quantity demanded up\n```\n\n## Supply Curve\n\n```\nPrice up -> Quantity supplied up\nPrice down -> Quantity supplied down\n```\n\n## Market Equilibrium\n\n| Condition | Result |\n|-----------|--------|\n| Demand > Supply | Price rises |\n| Supply > Demand | Price falls |\n| Demand = Supply | Equilibrium |"
+        },
+        {
+            "id": "ba1_3",
+            "type": "content",
+            "title": "Elasticity",
+            "content": "# Price Elasticity\n\n## Formula\n\n```\nPED = % Change in Quantity / % Change in Price\n```\n\n## Interpretation\n\n| Value | Type |\n|-------|------|\n| >1 | Elastic |\n| =1 | Unitary |\n| <1 | Inelastic |\n\n## Factors Affecting PED\n\n- Availability of substitutes\n- Necessity vs luxury\n- Proportion of income\n- Time period\n\n## Income Elasticity\n\n- Normal goods: Positive\n- Inferior goods: Negative"
+        },
+        {
+            "id": "ba1_quiz_1",
+            "type": "quiz",
+            "title": "Elasticity Quiz",
+            "content": "Test your elasticity knowledge!",
+            "quizQuestion": "If PED is greater than 1, demand is?",
+            "quizOptions": [
+                "Inelastic",
+                "Elastic",
+                "Unitary",
+                "Perfectly inelastic"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ba1_4",
+            "type": "content",
+            "title": "Market Structures",
+            "content": "# Types of Markets\n\n## Characteristics\n\n| Structure | Sellers | Price |\n|-----------|---------|-------|\n| Perfect competition | Many | Market price |\n| Monopoly | One | Price maker |\n| Oligopoly | Few | Price leader |\n| Monopolistic | Many | Differentiated |\n\n## Perfect Competition\n\n- Homogeneous products\n- Free entry and exit\n- Perfect information\n\n## Monopoly\n\n- Single seller\n- Barriers to entry\n- Price setting power"
+        },
+        {
+            "id": "ba1_5",
+            "type": "content",
+            "title": "Costs and Revenue",
+            "content": "# Firm Economics\n\n## Cost Concepts\n\n| Cost | Definition |\n|------|------------|\n| Fixed | Does not vary with output |\n| Variable | Varies with output |\n| Total | FC + VC |\n| Marginal | Additional unit cost |\n\n## Average Costs\n\n```\nAC = TC / Q\nAFC = FC / Q\nAVC = VC / Q\n```\n\n## Revenue\n\n| Type | Formula |\n|------|--------|\n| Total | P x Q |\n| Average | TR / Q |\n| Marginal | Additional unit revenue |"
+        },
+        {
+            "id": "ba1_6",
+            "type": "content",
+            "title": "National Income",
+            "content": "# Macroeconomic Measures\n\n## GDP\n\n```\nGross Domestic Product\n= Value of all goods/services produced\n```\n\n## Calculation Methods\n\n| Method | Approach |\n|--------|----------|\n| Expenditure | C + I + G + (X-M) |\n| Income | Wages + Profits + Rent |\n| Output | Sum of value added |\n\n## Real vs Nominal\n\n```\nReal GDP = Nominal GDP / Price Index x 100\n\nRemoves inflation effect\n```"
+        },
+        {
+            "id": "ba1_quiz_2",
+            "type": "quiz",
+            "title": "GDP Quiz",
+            "content": "Test your GDP knowledge!",
+            "quizQuestion": "Expenditure method: GDP = C + I + G + ?",
+            "quizOptions": [
+                "M - X",
+                "X - M",
+                "X + M",
+                "X / M"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ba1_7",
+            "type": "content",
+            "title": "Business Cycle",
+            "content": "# Economic Cycles\n\n## Phases\n\n```\nExpansion -> Peak -> Contraction -> Trough\n```\n\n## Characteristics\n\n| Phase | Features |\n|-------|----------|\n| Expansion | Growing output |\n| Peak | Maximum activity |\n| Contraction | Declining output |\n| Trough | Minimum activity |\n\n## Indicators\n\n| Type | Timing |\n|------|--------|\n| Leading | Predict changes |\n| Coincident | Same time |\n| Lagging | Follow changes |"
+        },
+        {
+            "id": "ba1_8",
+            "type": "content",
+            "title": "Inflation",
+            "content": "# Price Level Changes\n\n## Measurement\n\n```\nCPI = (Current basket / Base basket) x 100\n```\n\n## Types\n\n| Type | Cause |\n|------|-------|\n| Demand-pull | Excess demand |\n| Cost-push | Rising costs |\n| Built-in | Expectations |\n\n## Effects\n\n| On | Impact |\n|----|--------|\n| Savers | Lose purchasing power |\n| Borrowers | Benefit |\n| Fixed income | Hurt |\n| Exports | Less competitive |"
+        },
+        {
+            "id": "ba1_9",
+            "type": "content",
+            "title": "Monetary Policy",
+            "content": "# Central Bank Policy\n\n## Tools\n\n| Tool | Action |\n|------|--------|\n| Interest rates | Raise or lower |\n| Open market | Buy/sell bonds |\n| Reserve requirements | Bank reserves |\n\n## Objectives\n\n- Price stability\n- Economic growth\n- Employment\n- Exchange rate\n\n## Transmission\n\n```\nInterest rate change\n-> Affects borrowing\n-> Changes spending\n-> Impacts output/prices\n```"
+        },
+        {
+            "id": "ba1_quiz_3",
+            "type": "quiz",
+            "title": "Inflation Quiz",
+            "content": "Test your inflation knowledge!",
+            "quizQuestion": "Demand-pull inflation is caused by?",
+            "quizOptions": [
+                "Rising costs",
+                "Excess demand",
+                "Wage increases",
+                "Supply shocks"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ba1_10",
+            "type": "content",
+            "title": "Fiscal Policy",
+            "content": "# Government Policy\n\n## Tools\n\n| Tool | Action |\n|------|--------|\n| Taxation | Revenue collection |\n| Spending | Government expenditure |\n| Borrowing | Budget deficit |\n\n## Budget Positions\n\n| Position | Meaning |\n|----------|--------|\n| Surplus | Revenue > Spending |\n| Deficit | Spending > Revenue |\n| Balanced | Equal |\n\n## Multiplier Effect\n\n```\nInitial spending\n-> Creates income\n-> More spending\n-> Larger overall effect\n```"
+        },
+        {
+            "id": "ba1_11",
+            "type": "content",
+            "title": "International Trade",
+            "content": "# Global Economics\n\n## Comparative Advantage\n\n```\nSpecialize in what you produce\nat lower opportunity cost\n```\n\n## Trade Barriers\n\n| Barrier | Type |\n|---------|------|\n| Tariffs | Taxes |\n| Quotas | Quantity limits |\n| Subsidies | Support domestic |\n\n## Exchange Rates\n\n| System | Determination |\n|--------|---------------|\n| Fixed | Government set |\n| Floating | Market forces |\n| Managed | Intervention |"
+        },
+        {
+            "id": "ba1_12",
+            "type": "content",
+            "title": "Business Environment",
+            "content": "# External Factors\n\n## PESTEL Analysis\n\n| Factor | Examples |\n|--------|----------|\n| Political | Government |\n| Economic | Growth, inflation |\n| Social | Demographics |\n| Technological | Innovation |\n| Environmental | Sustainability |\n| Legal | Regulations |\n\n## Porter's Five Forces\n\n- Competitive rivalry\n- Supplier power\n- Buyer power\n- Threat of substitutes\n- Threat of new entrants"
+        },
+        {
+            "id": "ba1_quiz_4",
+            "type": "quiz",
+            "title": "Environment Quiz",
+            "content": "Test your business environment knowledge!",
+            "quizQuestion": "PESTEL has how many factors?",
+            "quizOptions": [
+                "Four",
+                "Five",
+                "Six",
+                "Seven"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ba1_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CIMA BA1 - Business Economics**!\n\n## Key Topics\n\n### Microeconomics\n- Demand and supply\n- Elasticity\n- Market structures\n- Costs and revenue\n\n### Macroeconomics\n- GDP measurement\n- Business cycle\n- Inflation\n\n### Policy\n- Monetary policy\n- Fiscal policy\n- International trade\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| PED = %Q / %P | Elasticity |\n| GDP = C+I+G+(X-M) | National income |\n| CPI = Current/Base x 100 | Inflation |\n\n## What is Next?\n\nExplore BA2 - Management Accounting Fundamentals!"
+        }
+    ]
+}

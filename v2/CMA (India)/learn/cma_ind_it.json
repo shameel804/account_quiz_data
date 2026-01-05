@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_ind_it",
+    "topicId": "cma_ind_it",
+    "topicTitle": "IT and Analytics in Management",
+    "description": "Master Information Technology and Data Analytics for Management Decision Making",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "it_1",
+            "type": "content",
+            "title": "Welcome to IT and Analytics",
+            "content": "# IT & Analytics in Management\n\nTechnology enables **data-driven decisions**.\n\n## What You Will Learn\n\n- **IT Systems** - ERP and databases\n- **Analytics** - Data analysis\n- **Visualization** - Dashboards\n- **Emerging Tech** - AI, blockchain\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| IT systems | ERP, databases |\n| Analytics | Techniques |\n| Visualization | Reporting |\n| Emerging | New technologies |"
+        },
+        {
+            "id": "it_2",
+            "type": "content",
+            "title": "Information Systems",
+            "content": "# Business Systems\n\n## System Types\n\n| System | Purpose |\n|--------|--------|\n| TPS | Transaction processing |\n| MIS | Management information |\n| DSS | Decision support |\n| EIS | Executive information |\n\n## ERP Systems\n\n```\nIntegrated modules:\n- Finance\n- HR\n- Supply chain\n- Manufacturing\n- CRM\n```\n\n## Benefits\n\n- Single source of truth\n- Real-time information\n- Process standardization"
+        },
+        {
+            "id": "it_3",
+            "type": "content",
+            "title": "Database Management",
+            "content": "# Data Management\n\n## Database Types\n\n| Type | Features |\n|------|----------|\n| Relational | Tables, SQL |\n| NoSQL | Flexible schema |\n| Data warehouse | Analytics |\n| Data lake | Raw storage |\n\n## Data Warehouse\n\n```\nETL Process:\nExtract -> Transform -> Load\n```\n\n## Data Quality\n\n| Dimension | Meaning |\n|-----------|--------|\n| Accuracy | Correct |\n| Completeness | All present |\n| Timeliness | Current |\n| Consistency | Same everywhere |"
+        },
+        {
+            "id": "it_quiz_1",
+            "type": "quiz",
+            "title": "Systems Quiz",
+            "content": "Test your IT systems knowledge!",
+            "quizQuestion": "ETL stands for Extract, Transform, and?",
+            "quizOptions": [
+                "Learn",
+                "Load",
+                "Link",
+                "List"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "it_4",
+            "type": "content",
+            "title": "Data Analytics",
+            "content": "# Analytics Types\n\n## Analytics Spectrum\n\n| Type | Question |\n|------|----------|\n| Descriptive | What happened? |\n| Diagnostic | Why happened? |\n| Predictive | What will happen? |\n| Prescriptive | What to do? |\n\n## Descriptive\n\n- Aggregation\n- Summarization\n- KPI reporting\n\n## Predictive\n\n- Forecasting\n- Statistical modeling\n- Machine learning"
+        },
+        {
+            "id": "it_5",
+            "type": "content",
+            "title": "Statistical Analysis",
+            "content": "# Statistical Tools\n\n## Measures\n\n| Measure | Purpose |\n|---------|--------|\n| Mean | Average |\n| Median | Middle |\n| Mode | Most frequent |\n| Std deviation | Spread |\n\n## Regression\n\n```\nY = a + bX\n\nY = Dependent variable\na = Intercept\nb = Slope\nX = Independent variable\n```\n\n## Correlation\n\n```\nr = +1: Perfect positive\nr = 0: No correlation\nr = -1: Perfect negative\n```"
+        },
+        {
+            "id": "it_6",
+            "type": "content",
+            "title": "Data Visualization",
+            "content": "# Visual Analytics\n\n## Chart Selection\n\n| Chart | Use |\n|-------|-----|\n| Bar | Comparison |\n| Line | Trends |\n| Pie | Proportion |\n| Scatter | Relationship |\n\n## Dashboard Design\n\n| Principle | Application |\n|-----------|-------------|\n| Clarity | Simple layout |\n| Relevance | Key metrics |\n| Actionable | Drive decisions |\n\n## Tools\n\n- Power BI\n- Tableau\n- Excel dashboards"
+        },
+        {
+            "id": "it_quiz_2",
+            "type": "quiz",
+            "title": "Analytics Quiz",
+            "content": "Test your analytics knowledge!",
+            "quizQuestion": "Predictive analytics answers?",
+            "quizOptions": [
+                "What happened",
+                "Why happened",
+                "What will happen",
+                "What to do"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "it_7",
+            "type": "content",
+            "title": "Big Data",
+            "content": "# Big Data Concepts\n\n## Five Vs\n\n| V | Meaning |\n|---|--------|\n| Volume | Amount |\n| Velocity | Speed |\n| Variety | Types |\n| Veracity | Accuracy |\n| Value | Usefulness |\n\n## Technologies\n\n| Tool | Use |\n|------|-----|\n| Hadoop | Storage |\n| Spark | Processing |\n| NoSQL | Databases |\n\n## Applications\n\n- Customer analytics\n- Risk modeling\n- Fraud detection"
+        },
+        {
+            "id": "it_8",
+            "type": "content",
+            "title": "Artificial Intelligence",
+            "content": "# AI and Machine Learning\n\n## Concepts\n\n| Term | Meaning |\n|------|--------|\n| AI | Machines mimicking intelligence |\n| ML | Learning from data |\n| Deep learning | Neural networks |\n| NLP | Language processing |\n\n## Business Uses\n\n| Application | Use |\n|-------------|-----|\n| Fraud detection | Patterns |\n| Forecasting | Predictions |\n| Chatbots | Customer service |\n| Automation | RPA |\n\n## Considerations\n\n- Data quality\n- Bias\n- Explainability"
+        },
+        {
+            "id": "it_9",
+            "type": "content",
+            "title": "Blockchain",
+            "content": "# Distributed Ledger\n\n## Key Concepts\n\n| Concept | Meaning |\n|---------|--------|\n| Distributed | Shared database |\n| Blocks | Transaction records |\n| Immutable | Cannot change |\n| Consensus | Agreement |\n\n## Applications\n\n| Area | Use |\n|------|-----|\n| Supply chain | Traceability |\n| Finance | Payments |\n| Contracts | Smart contracts |\n| Audit | Trail |"
+        },
+        {
+            "id": "it_quiz_3",
+            "type": "quiz",
+            "title": "AI Quiz",
+            "content": "Test your AI knowledge!",
+            "quizQuestion": "ML stands for Machine?",
+            "quizOptions": [
+                "Language",
+                "Learning",
+                "Logic",
+                "Linking"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "it_10",
+            "type": "content",
+            "title": "Cloud Computing",
+            "content": "# Cloud Services\n\n## Service Models\n\n| Model | Provides |\n|-------|----------|\n| IaaS | Infrastructure |\n| PaaS | Platform |\n| SaaS | Software |\n\n## Deployment\n\n| Model | Features |\n|-------|----------|\n| Public | Shared |\n| Private | Dedicated |\n| Hybrid | Both |\n\n## Benefits\n\n- Scalability\n- Cost flexibility\n- Accessibility"
+        },
+        {
+            "id": "it_11",
+            "type": "content",
+            "title": "Cybersecurity",
+            "content": "# Security Considerations\n\n## Threats\n\n| Type | Description |\n|------|-------------|\n| Malware | Malicious software |\n| Phishing | Deceptive emails |\n| Ransomware | Data encryption |\n| Insider | Internal threats |\n\n## Controls\n\n| Control | Purpose |\n|---------|--------|\n| Encryption | Protect data |\n| Authentication | Verify identity |\n| Firewall | Network protection |\n| Monitoring | Detection |\n\n## Frameworks\n\n- ISO 27001\n- NIST"
+        },
+        {
+            "id": "it_12",
+            "type": "content",
+            "title": "IT Governance",
+            "content": "# Governance Framework\n\n## COBIT\n\n| Domain | Focus |\n|--------|-------|\n| EDM | Evaluate, Direct, Monitor |\n| APO | Align, Plan, Organize |\n| BAI | Build, Acquire, Implement |\n| DSS | Deliver, Service, Support |\n| MEA | Monitor, Evaluate, Assess |\n\n## IT Controls\n\n- Policies\n- Procedures\n- Standards\n\n## Compliance\n\n- Regulatory requirements\n- Industry standards"
+        },
+        {
+            "id": "it_quiz_4",
+            "type": "quiz",
+            "title": "Cloud Quiz",
+            "content": "Test your cloud knowledge!",
+            "quizQuestion": "SaaS stands for Software as a?",
+            "quizOptions": [
+                "Solution",
+                "Service",
+                "System",
+                "Standard"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "it_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **IT & Analytics in Management**!\n\n## Key Topics\n\n### IT Systems\n- ERP systems\n- Databases\n- Data warehousing\n\n### Analytics\n- Types of analytics\n- Statistical methods\n- Visualization\n\n### Emerging Tech\n- AI and ML\n- Blockchain\n- Cloud computing\n\n### Security\n- Cybersecurity\n- IT governance\n- COBIT framework\n\n## Key Technologies\n\n| Technology | Application |\n|------------|-------------|\n| ERP | Integration |\n| AI/ML | Automation |\n| Cloud | Scalability |\n\n## What is Next?\n\nExplore Professional Ethics!"
+        }
+    ]
+}

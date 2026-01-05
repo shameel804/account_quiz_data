@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Cost Classification 📊",
+        "ques": "Classify costs by **behavior** and **function**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**By Behavior**:\n* Fixed costs: Constant total\n* Variable costs: Change with activity\n* Semi-variable: Part fixed, part variable\n\n**By Function**:\n* Manufacturing costs (direct material, labor, overhead)\n* Non-manufacturing (selling, admin)"
+        },
+        "explanation": "Cost classification is ***fundamental*** to cost accounting."
+    },
+    {
+        "title": "Material Costing 📦",
+        "ques": "Compare **FIFO**, **LIFO**, and **weighted average** methods.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**FIFO**: First materials issued first\n* Closing stock at latest prices\n\n**LIFO**: Last materials issued first\n* Closing stock at oldest prices\n\n**Weighted Average**: Average cost recalculated\n* Smooths price fluctuations"
+        },
+        "explanation": "Choice affects ***cost of production*** and ***inventory valuation***."
+    },
+    {
+        "title": "Labour Costing 👷",
+        "ques": "What are the methods of **wage payment**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Methods**:\n* Time rate: Hours x Rate\n* Piece rate: Units x Rate per unit\n* Differential piece rate (Taylor)\n* Bonus schemes (Halsey, Rowan)\n\n**Incentive systems** motivate productivity"
+        },
+        "explanation": "Balance ***quality*** with quantity incentives."
+    },
+    {
+        "title": "Overhead Absorption 🏭",
+        "ques": "How is **overhead absorbed** into products?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Process**:\n1. Collect all overhead costs\n2. Allocate to cost centers\n3. Apportion shared costs\n4. Reapportion service center costs\n5. Calculate absorption rates\n6. Apply to products\n\n**Bases**: Labour hours, machine hours, direct wages"
+        },
+        "explanation": "***Predetermined rates*** provide consistency."
+    },
+    {
+        "title": "Marginal Costing 📈",
+        "ques": "Compare **marginal costing** and **absorption costing**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Marginal Costing**:\n* Only variable costs to products\n* Fixed costs = period cost\n* Contribution margin focus\n\n**Absorption Costing**:\n* All costs (fixed + variable) to products\n* GAAP compliant\n* Different profit with inventory changes"
+        },
+        "explanation": "Marginal costing better for ***decision-making***."
+    },
+    {
+        "title": "Cost-Volume-Profit Analysis 📊",
+        "ques": "Explain **break-even analysis** and its limitations.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Break-Even Point** = Fixed Costs / Contribution per unit\n\n**Assumptions**:\n* Linear revenue and costs\n* Single product or constant mix\n* Fixed costs constant\n* All units produced are sold\n\n**Limitations**: Real world is more complex"
+        },
+        "explanation": "***Sensitivity analysis*** helps address limitations."
+    },
+    {
+        "title": "Standard Costing 📏",
+        "ques": "What are the types of **standard costing variances**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Material Variances**: Price, Usage\n**Labor Variances**: Rate, Efficiency\n**Overhead Variances**: Expenditure, Volume, Efficiency\n\n**Analysis helps**: Control costs and evaluate performance"
+        },
+        "explanation": "Investigate ***significant*** variances."
+    },
+    {
+        "title": "Budget and Budgetary Control 📋",
+        "ques": "What are the **types of budgets**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Types**:\n* Fixed budget: Single activity level\n* Flexible budget: Multiple levels\n* Master budget: Comprehensive plan\n* Functional budgets: Sales, production, etc.\n* Cash budget: Cash inflows and outflows"
+        },
+        "explanation": "Budgets are ***planning and control*** tools."
+    },
+    {
+        "title": "Process Costing 🔄",
+        "ques": "How is **process costing** different from job costing?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Process Costing**:\n* Continuous production\n* Homogeneous products\n* Costs averaged over units\n* Uses equivalent units for WIP\n\n**Job Costing**: Unique products, costs traced to each job"
+        },
+        "explanation": "Use when products are ***identical***."
+    },
+    {
+        "title": "Contract Costing 🏗️",
+        "ques": "What are the features of **contract costing**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Features**:\n* Long-term contracts\n* Work at customer site\n* Progress payments received\n* Retention money held\n* Profit recognition based on completion\n\n**Accounts**: Contract Account, Work-in-Progress"
+        },
+        "explanation": "Common in ***construction*** industry."
+    },
+    {
+        "title": "Activity Based Costing 🎯",
+        "ques": "Explain **ABC costing** and its advantages.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**ABC Process**:\n1. Identify activities\n2. Determine cost drivers\n3. Calculate activity rates\n4. Apply costs to products\n\n**Advantages**: More accurate product costs, identifies cost reduction opportunities"
+        },
+        "explanation": "ABC is more accurate but ***complex***."
+    },
+    {
+        "title": "Target Costing 🎯",
+        "ques": "How does **target costing** work?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Process**:\n1. Determine market price\n2. Subtract required profit\n3. = Target cost\n4. Design product to meet target\n\n**Focus**: Cost management at ***design stage***"
+        },
+        "explanation": "Market-driven rather than cost-driven pricing."
+    },
+    {
+        "title": "Service Sector Costing 🏥",
+        "ques": "How is **service costing** different from manufacturing costing?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Differences**:\n* No physical inventory\n* High labor component\n* Heterogeneous output\n* Intangible services\n\n**Cost Units**: Passenger-km, patient-day, room-night"
+        },
+        "explanation": "Identify appropriate ***cost unit*** for the service."
+    },
+    {
+        "title": "Cost Reduction Techniques 📉",
+        "ques": "What are the main **cost reduction techniques**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Techniques**:\n* Value analysis (functional review)\n* Work study (method improvement)\n* Simplification and standardization\n* Automation\n* Lean manufacturing\n* Quality improvement"
+        },
+        "explanation": "Focus on ***reducing costs without reducing value***."
+    },
+    {
+        "title": "Cost Audit 📋",
+        "ques": "What is a **cost audit** and when is it required?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Cost Audit**: Verification of cost records and statements\n\n**Mandatory for**: Specified industries (pharma, petroleum, etc.)\n\n**Purpose**: Verify accuracy, efficiency, detect leakages\n\n**Report**: To government/regulators"
+        },
+        "explanation": "Cost audit is ***unique to India***."
+    }
+]

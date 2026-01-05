@@ -1,0 +1,149 @@
+{
+    "id": "learn_cma_tech",
+    "topicId": "cma_tech",
+    "topicTitle": "Technology and Analytics",
+    "description": "Master CMA technology covering Information Systems, Data Analytics, and Emerging Technologies",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "p1f_1",
+            "type": "content",
+            "title": "Welcome to Technology and Analytics",
+            "content": "# Technology and Analytics\n\nPart 1F covers **technology** and **data analytics**.\n\n## What You Will Learn\n\n- **Information Systems** - IT fundamentals\n- **Data Analytics** - Analysis tools\n- **Visualization** - Dashboards\n- **Emerging Tech** - New technologies\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Information systems | ERP, databases |\n| Data analytics | Tools, techniques |\n| Visualization | Dashboards |\n| Technology trends | AI, blockchain |"
+        },
+        {
+            "id": "p1f_2",
+            "type": "content",
+            "title": "Information Systems",
+            "content": "# IT Architecture\n\n## System Types\n\n| System | Purpose |\n|--------|--------|\n| TPS | Transaction processing |\n| MIS | Management reports |\n| DSS | Decision support |\n| EIS | Executive information |\n\n## ERP Systems\n\n```\nIntegrated modules:\n- Finance\n- HR\n- Supply chain\n- Manufacturing\n- Sales\n```\n\n## Benefits\n\n| Benefit | Impact |\n|---------|--------|\n| Integration | Single source |\n| Real-time | Current data |\n| Standardization | Consistent |"
+        },
+        {
+            "id": "p1f_3",
+            "type": "content",
+            "title": "Database Concepts",
+            "content": "# Data Management\n\n## Database Types\n\n| Type | Structure |\n|------|----------|\n| Relational | Tables, SQL |\n| NoSQL | Flexible schema |\n| Data warehouse | Analytics |\n| Data lake | Raw data |\n\n## Data Warehouse\n\n```\nExtract -> Transform -> Load (ETL)\n\nSource systems -> Staging -> Warehouse\n```\n\n## Data Quality\n\n| Dimension | Meaning |\n|-----------|--------|\n| Accuracy | Correct values |\n| Completeness | All data present |\n| Timeliness | Current |\n| Consistency | Same across sources |"
+        },
+        {
+            "id": "p1f_quiz_1",
+            "type": "quiz",
+            "title": "Systems Quiz",
+            "content": "Test your systems knowledge!",
+            "quizQuestion": "ETL stands for Extract, Transform, and?",
+            "quizOptions": [
+                "Leverage",
+                "Load",
+                "Link",
+                "Log"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1f_4",
+            "type": "content",
+            "title": "Data Analytics Methods",
+            "content": "# Analytics Types\n\n## Analytics Spectrum\n\n| Type | Question |\n|------|----------|\n| Descriptive | What happened? |\n| Diagnostic | Why did it happen? |\n| Predictive | What will happen? |\n| Prescriptive | What should we do? |\n\n## Descriptive Analytics\n\n- Aggregation\n- Summarization\n- Trending\n- KPI reporting\n\n## Predictive Analytics\n\n- Forecasting\n- Machine learning\n- Statistical modeling\n- Regression"
+        },
+        {
+            "id": "p1f_5",
+            "type": "content",
+            "title": "Statistical Analysis",
+            "content": "# Statistical Tools\n\n## Descriptive Statistics\n\n| Measure | Purpose |\n|---------|--------|\n| Mean | Average |\n| Median | Middle value |\n| Mode | Most frequent |\n| Std deviation | Spread |\n\n## Correlation\n\n```\nCorrelation coefficient (r):\n+1 = Perfect positive\n0 = No relationship\n-1 = Perfect negative\n```\n\n## Regression\n\n```\nY = a + bX\n\nY = Dependent variable\na = Intercept\nb = Slope\nX = Independent variable\n```"
+        },
+        {
+            "id": "p1f_6",
+            "type": "content",
+            "title": "Data Visualization",
+            "content": "# Visual Analytics\n\n## Chart Selection\n\n| Chart | Use Case |\n|-------|----------|\n| Bar | Comparisons |\n| Line | Trends |\n| Pie | Proportions |\n| Scatter | Relationships |\n| Heat map | Patterns |\n\n## Dashboard Design\n\n| Principle | Application |\n|-----------|-------------|\n| Clarity | Simple layout |\n| Relevance | Key metrics |\n| Actionable | Drive decisions |\n\n## Best Practices\n\n- Know your audience\n- Minimize clutter\n- Highlight insights\n- Enable drill-down"
+        },
+        {
+            "id": "p1f_7",
+            "type": "content",
+            "title": "Big Data",
+            "content": "# Big Data Concepts\n\n## Five Vs\n\n| V | Meaning |\n|---|--------|\n| Volume | Large amounts |\n| Velocity | Speed of data |\n| Variety | Different types |\n| Veracity | Quality/accuracy |\n| Value | Usefulness |\n\n## Data Sources\n\n| Source | Examples |\n|--------|----------|\n| Structured | Databases |\n| Unstructured | Text, images |\n| Semi-structured | XML, JSON |\n\n## Technologies\n\n- Hadoop\n- Spark\n- Cloud storage\n- NoSQL databases"
+        },
+        {
+            "id": "p1f_quiz_2",
+            "type": "quiz",
+            "title": "Analytics Quiz",
+            "content": "Test your analytics knowledge!",
+            "quizQuestion": "Which analytics type answers 'what will happen'?",
+            "quizOptions": [
+                "Descriptive",
+                "Diagnostic",
+                "Predictive",
+                "Prescriptive"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p1f_8",
+            "type": "content",
+            "title": "Artificial Intelligence",
+            "content": "# AI and Machine Learning\n\n## AI Concepts\n\n| Term | Definition |\n|------|------------|\n| AI | Machines mimicking human intelligence |\n| ML | Learning from data |\n| Deep learning | Neural networks |\n| NLP | Language processing |\n\n## Business Applications\n\n| Application | Use |\n|-------------|-----|\n| Fraud detection | Pattern recognition |\n| Forecasting | Predictions |\n| Chatbots | Customer service |\n| Process automation | RPA |\n\n## Considerations\n\n- Data quality\n- Bias\n- Explainability\n- Ethics"
+        },
+        {
+            "id": "p1f_9",
+            "type": "content",
+            "title": "Robotic Process Automation",
+            "content": "# RPA\n\n## What is RPA?\n\nSoftware robots automate repetitive tasks.\n\n## RPA Applications\n\n| Process | Automation |\n|---------|------------|\n| Data entry | Form filling |\n| Reconciliations | Matching |\n| Report generation | Scheduled reports |\n| Invoice processing | Extraction |\n\n## Benefits\n\n| Benefit | Impact |\n|---------|--------|\n| Efficiency | Faster processing |\n| Accuracy | Fewer errors |\n| Cost savings | Lower labor |\n| Scalability | Handle volume |\n\n## Implementation\n\n- Identify processes\n- Design bots\n- Test and deploy\n- Monitor performance"
+        },
+        {
+            "id": "p1f_10",
+            "type": "content",
+            "title": "Blockchain",
+            "content": "# Blockchain Technology\n\n## Key Concepts\n\n| Concept | Meaning |\n|---------|--------|\n| Distributed ledger | Shared database |\n| Blocks | Transaction records |\n| Immutability | Cannot change |\n| Consensus | Agreement mechanism |\n\n## Business Applications\n\n| Application | Use |\n|-------------|-----|\n| Supply chain | Traceability |\n| Smart contracts | Automated execution |\n| Audit trail | Verification |\n| Payments | Cryptocurrency |\n\n## Benefits\n\n- Transparency\n- Security\n- Efficiency\n- Trust"
+        },
+        {
+            "id": "p1f_11",
+            "type": "content",
+            "title": "Cloud Computing",
+            "content": "# Cloud Services\n\n## Service Models\n\n| Model | Provides |\n|-------|----------|\n| IaaS | Infrastructure |\n| PaaS | Platform |\n| SaaS | Software |\n\n## Deployment Models\n\n| Model | Characteristics |\n|-------|----------------|\n| Public | Shared resources |\n| Private | Dedicated |\n| Hybrid | Combined |\n\n## Benefits\n\n- Scalability\n- Cost flexibility\n- Accessibility\n- Reduced IT burden\n\n## Considerations\n\n- Security\n- Compliance\n- Vendor lock-in\n- Data location"
+        },
+        {
+            "id": "p1f_quiz_3",
+            "type": "quiz",
+            "title": "Technology Quiz",
+            "content": "Test your technology knowledge!",
+            "quizQuestion": "SaaS stands for Software as a?",
+            "quizOptions": [
+                "Solution",
+                "Service",
+                "System",
+                "Standard"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1f_12",
+            "type": "content",
+            "title": "Cybersecurity",
+            "content": "# Security Considerations\n\n## Threat Types\n\n| Threat | Description |\n|--------|-------------|\n| Malware | Malicious software |\n| Phishing | Deceptive messages |\n| Ransomware | Data encryption |\n| Insider | Internal threats |\n\n## Controls\n\n| Control | Purpose |\n|---------|--------|\n| Encryption | Data protection |\n| Authentication | Identity verification |\n| Firewalls | Network protection |\n| Monitoring | Threat detection |\n\n## Frameworks\n\n- NIST Cybersecurity\n- ISO 27001\n- COBIT"
+        },
+        {
+            "id": "p1f_13",
+            "type": "content",
+            "title": "Data Governance",
+            "content": "# Governance Framework\n\n## Key Elements\n\n| Element | Focus |\n|---------|-------|\n| Ownership | Accountability |\n| Policies | Standards |\n| Quality | Accuracy |\n| Security | Protection |\n\n## Data Stewardship\n\n- Define data owners\n- Establish standards\n- Monitor compliance\n- Ensure quality\n\n## Privacy Regulations\n\n| Regulation | Scope |\n|------------|-------|\n| GDPR | EU data |\n| CCPA | California |\n| HIPAA | Health data |"
+        },
+        {
+            "id": "p1f_quiz_4",
+            "type": "quiz",
+            "title": "Security Quiz",
+            "content": "Test your security knowledge!",
+            "quizQuestion": "Encrypting data provides what type of protection?",
+            "quizOptions": [
+                "Physical security",
+                "Data confidentiality",
+                "Availability",
+                "Authentication"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1f_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Part 1F - Technology and Analytics**!\n\n## Key Topics\n\n### Information Systems\n- ERP systems\n- Databases\n- Data warehouses\n\n### Analytics\n- Types of analytics\n- Statistical methods\n- Visualization\n\n### Emerging Technology\n- AI and machine learning\n- RPA\n- Blockchain\n- Cloud computing\n\n### Security\n- Cybersecurity\n- Data governance\n- Privacy\n\n## Key Concepts\n\n| Technology | Application |\n|------------|-------------|\n| AI/ML | Automation, predictions |\n| RPA | Process automation |\n| Blockchain | Transparency |\n| Cloud | Scalability |\n\n## What is Next?\n\nExplore CMA Part 2A - Financial Statement Analysis!"
+        }
+    ]
+}

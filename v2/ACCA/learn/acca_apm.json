@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_apm",
+    "topicId": "acca_apm",
+    "topicTitle": "Advanced Performance Management (APM)",
+    "description": "Master ACCA APM including Strategic Performance, EVA, Performance Measurement, and Strategic Decision Making",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "apm_1",
+            "type": "content",
+            "title": "Welcome to ACCA APM",
+            "content": "# Advanced Performance Management (APM)\n\nAPM covers **strategic performance** measurement and management.\n\n## What You Will Learn\n\n- **Strategic Performance** - Link to strategy\n- **EVA and Value** - Value-based management\n- **Measurement** - Advanced techniques\n- **Decisions** - Strategic analysis\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Strategic planning | 10% |\n| Performance measurement | 35% |\n| Strategic decisions | 25% |\n| Risk and control | 15% |\n| Information systems | 15% |"
+        },
+        {
+            "id": "apm_2",
+            "type": "content",
+            "title": "Strategic Performance",
+            "content": "# Performance and Strategy\n\n## Performance Hierarchy\n\n```\nMission\n    |\n    v\nObjectives\n    |\n    v\nCSFs (Critical Success Factors)\n    |\n    v\nKPIs (Key Performance Indicators)\n```\n\n## Strategic Alignment\n\n| Level | Focus |\n|-------|-------|\n| Corporate | Direction |\n| Business | Competitive |\n| Functional | Operational |\n\n## Performance Pyramid\n\n- Vision at top\n- CSFs at levels\n- Measures at base"
+        },
+        {
+            "id": "apm_3",
+            "type": "content",
+            "title": "Value-Based Management",
+            "content": "# VBM Concepts\n\n## Shareholder Value Analysis\n\n| Driver | Impact |\n|--------|--------|\n| Sales growth | Revenue |\n| Operating margin | Profit |\n| Tax rate | Cash after tax |\n| Working capital | Cash tied up |\n| Fixed investment | Capital needs |\n| Cost of capital | Discount rate |\n\n## Economic Value Added (EVA)\n\n```\nEVA = NOPAT - (Capital x WACC)\n\nNOPAT = Net Operating Profit After Tax\n```\n\n## Improvements to EVA\n\n- Grow NOPAT\n- Improve capital efficiency\n- Lower cost of capital\n- Invest in positive NPV"
+        },
+        {
+            "id": "apm_quiz_1",
+            "type": "quiz",
+            "title": "EVA Quiz",
+            "content": "Test your EVA knowledge!",
+            "quizQuestion": "EVA equals NOPAT minus?",
+            "quizOptions": [
+                "Interest expense",
+                "Tax expense",
+                "Capital charge",
+                "Depreciation"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "apm_4",
+            "type": "content",
+            "title": "Balanced Scorecard",
+            "content": "# Strategic Scorecard\n\n## Four Perspectives\n\n| Perspective | Question |\n|-------------|----------|\n| Financial | Shareholder view |\n| Customer | Client view |\n| Internal | Excellence areas |\n| Learning | Improvement capabilities |\n\n## Strategy Maps\n\n```\nLearning -> Internal -> Customer -> Financial\n\nCause and effect linkages\n```\n\n## Design Issues\n\n| Issue | Consideration |\n|-------|---------------|\n| Measure selection | Relevance |\n| Targets | Achievable |\n| Weighting | Balance |\n| Data availability | Practical |"
+        },
+        {
+            "id": "apm_5",
+            "type": "content",
+            "title": "Performance Prism",
+            "content": "# Stakeholder Approach\n\n## Five Facets\n\n| Facet | Question |\n|-------|----------|\n| Stakeholder satisfaction | What do they want? |\n| Stakeholder contribution | What do we want? |\n| Strategies | How to deliver? |\n| Processes | Required activities |\n| Capabilities | Skills and resources |\n\n## Benefits\n\n- Broader perspective\n- Reciprocal relationships\n- Strategic alignment\n\n## Compared to BSC\n\n| Prism | BSC |\n|-------|-----|\n| All stakeholders | Four perspectives |\n| Reciprocal view | One-way |\n| Flexibility | Structure |"
+        },
+        {
+            "id": "apm_6",
+            "type": "content",
+            "title": "Building Blocks",
+            "content": "# Fitzgerald and Moon\n\n## Six Dimensions\n\n| Category | Dimensions |\n|----------|------------|\n| Results | Financial, Competitive |\n| Determinants | Quality, Flexibility, Resource, Innovation |\n\n## Three Building Blocks\n\n| Block | Focus |\n|-------|-------|\n| Dimensions | What to measure |\n| Standards | Target setting |\n| Rewards | Motivation |\n\n## Service Organizations\n\n- Intangibility\n- Heterogeneity\n- Inseparability\n- Perishability\n\n## Appropriate for service sector performance."
+        },
+        {
+            "id": "apm_7",
+            "type": "content",
+            "title": "Transfer Pricing",
+            "content": "# Divisional Pricing\n\n## Methods\n\n| Method | Formula |\n|--------|--------|\n| Market-based | External price |\n| Cost-based | Cost + markup |\n| Negotiated | Agreement |\n\n## Minimum Transfer Price\n\n```\nMarginal cost + Opportunity cost\n= Minimum TP\n```\n\n## International TP\n\n| Objective | Consideration |\n|-----------|---------------|\n| Tax minimization | Arm's length |\n| Profit shifting | OECD guidelines |\n| Customs duty | Valuation rules |\n\n## Goal Congruence\n\n- Align division and company goals\n- Fair evaluation\n- Motivation"
+        },
+        {
+            "id": "apm_quiz_2",
+            "type": "quiz",
+            "title": "TP Quiz",
+            "content": "Test your transfer pricing knowledge!",
+            "quizQuestion": "International transfer prices must follow which principle?",
+            "quizOptions": [
+                "Cost-plus",
+                "Arm's length",
+                "Market minus",
+                "Negotiated"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "apm_8",
+            "type": "content",
+            "title": "Divisional Performance",
+            "content": "# Measuring Divisions\n\n## Traditional Measures\n\n| Measure | Formula |\n|---------|--------|\n| ROI | PBIT / Capital |\n| RI | PBIT - Capital Charge |\n\n## ROI Issues\n\n- Dysfunctional decisions\n- Short-term focus\n- Asset age distortion\n\n## RI Advantages\n\n- Absolute measure\n- Encourages investment\n- Different cost of capital\n\n## Economic Measures\n\n| Measure | Focus |\n|---------|-------|\n| EVA | Value creation |\n| MVA | Market vs book |\n| TSR | Shareholder return |"
+        },
+        {
+            "id": "apm_9",
+            "type": "content",
+            "title": "Non-Financial Measures",
+            "content": "# Beyond Financials\n\n## Types\n\n| Category | Examples |\n|----------|----------|\n| Quality | Defects, returns |\n| Customer | Satisfaction, retention |\n| Process | Cycle time, efficiency |\n| People | Turnover, training |\n\n## Benefits\n\n- Leading indicators\n- Operational focus\n- Balanced view\n\n## Challenges\n\n| Issue | Impact |\n|-------|--------|\n| Measurement | Subjectivity |\n| Comparability | Different bases |\n| Link to value | Unclear |"
+        },
+        {
+            "id": "apm_10",
+            "type": "content",
+            "title": "Strategic Decisions",
+            "content": "# Decision Analysis\n\n## Pricing Decisions\n\n| Strategy | Context |\n|----------|--------|\n| Penetration | Market entry |\n| Skimming | Innovation |\n| Premium | Quality |\n\n## Product Mix\n\n- Throughput accounting\n- TPAR analysis\n- Bottleneck focus\n\n## Make or Buy\n\n| Factor | Consideration |\n|--------|---------------|\n| Cost | Relevant costs only |\n| Quality | Control vs vendor |\n| Strategy | Core competence |\n\n## Outsourcing\n\n- Non-core activities\n- Cost savings\n- Flexibility"
+        },
+        {
+            "id": "apm_11",
+            "type": "content",
+            "title": "Risk and Uncertainty",
+            "content": "# Managing Uncertainty\n\n## Decision Analysis\n\n| Tool | Use |\n|------|-----|\n| Expected value | Weighted outcomes |\n| Sensitivity | Variable changes |\n| Simulation | Multiple scenarios |\n\n## Real Options\n\n| Option | Value |\n|--------|-------|\n| Delay | Wait for information |\n| Expand | Scale up if good |\n| Abandon | Exit if bad |\n| Switch | Change inputs |\n\n## Risk Attitude\n\n| Type | Behavior |\n|------|----------|\n| Risk averse | Certainty premium |\n| Risk neutral | Expected value |\n| Risk seeking | Accept gambling |"
+        },
+        {
+            "id": "apm_quiz_3",
+            "type": "quiz",
+            "title": "Decision Quiz",
+            "content": "Test your decision analysis knowledge!",
+            "quizQuestion": "An option to delay a project until conditions improve is called?",
+            "quizOptions": [
+                "Abandon option",
+                "Expand option",
+                "Delay option",
+                "Switch option"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "apm_12",
+            "type": "content",
+            "title": "Environmental Performance",
+            "content": "# Sustainability Measurement\n\n## Triple Bottom Line\n\n| Dimension | Focus |\n|-----------|-------|\n| Profit | Economic |\n| People | Social |\n| Planet | Environmental |\n\n## Environmental KPIs\n\n| Measure | Example |\n|---------|--------|\n| Carbon | Emissions per unit |\n| Waste | Recycling rate |\n| Energy | Usage per output |\n| Water | Consumption |\n\n## Integrated Reporting\n\n- Six capitals framework\n- Value creation\n- Connectivity"
+        },
+        {
+            "id": "apm_13",
+            "type": "content",
+            "title": "Information Systems",
+            "content": "# Performance Information\n\n## Big Data\n\n| Characteristic | Meaning |\n|----------------|--------|\n| Volume | Large amounts |\n| Velocity | Fast processing |\n| Variety | Different types |\n| Veracity | Accuracy |\n\n## Analytics\n\n| Type | Purpose |\n|------|--------|\n| Descriptive | What happened |\n| Diagnostic | Why it happened |\n| Predictive | What will happen |\n| Prescriptive | What to do |\n\n## Dashboard Design\n\n- Relevant KPIs\n- Visual presentation\n- Real-time data\n- Actionable insights"
+        },
+        {
+            "id": "apm_14",
+            "type": "content",
+            "title": "Not-for-Profit",
+            "content": "# NFP Performance\n\n## VFM (Value for Money)\n\n| E | Meaning |\n|---|--------|\n| Economy | Input cost |\n| Efficiency | Input/output |\n| Effectiveness | Outcomes |\n\n## Challenges\n\n| Issue | Impact |\n|-------|--------|\n| Multiple objectives | Conflicting |\n| Outcome measurement | Difficult |\n| Stakeholders | Diverse |\n\n## Benchmarking\n\n- Compare with peers\n- Identify best practice\n- Continuous improvement"
+        },
+        {
+            "id": "apm_quiz_4",
+            "type": "quiz",
+            "title": "NFP Quiz",
+            "content": "Test your NFP knowledge!",
+            "quizQuestion": "VFM stands for Value for?",
+            "quizOptions": [
+                "Management",
+                "Measurement",
+                "Money",
+                "Metrics"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "apm_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA APM - Advanced Performance Management**!\n\n## Key Topics\n\n### Value-Based\n- EVA\n- Shareholder value\n- Value drivers\n\n### Measurement\n- Balanced scorecard\n- Performance prism\n- Building blocks\n\n### Divisional\n- Transfer pricing\n- ROI and RI\n- Goal congruence\n\n### Strategic\n- Pricing decisions\n- Risk analysis\n- Sustainability\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| EVA = NOPAT - Capital Charge | Value |\n| ROI = PBIT / Capital | Return |\n| RI = PBIT - Charge | Residual |\n\n## What is Next?\n\nExplore ACCA ATX - Advanced Taxation!"
+        }
+    ]
+}

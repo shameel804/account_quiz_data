@@ -1,0 +1,143 @@
+{
+    "id": "learn_cpa_far",
+    "topicId": "cpa_far",
+    "topicTitle": "Financial Accounting and Reporting (FAR)",
+    "description": "Master CPA FAR covering US GAAP, Financial Statements, and Government Accounting",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "far_1",
+            "type": "content",
+            "title": "Welcome to CPA FAR",
+            "content": "# Financial Accounting & Reporting (FAR)\n\nFAR covers **US GAAP** and **government accounting**.\n\n## What You Will Learn\n\n- **Concepts** - Framework\n- **Standards** - Key ASCs\n- **Government** - GASB\n- **NFP** - Not-for-profit\n\n## Exam Areas\n\n| Area | Weight |\n|------|--------|\n| Conceptual framework | 25-35% |\n| Financial statements | 30-40% |\n| Transactions | 20-30% |\n| State/local/NFP | 10-20% |"
+        },
+        {
+            "id": "far_2",
+            "type": "content",
+            "title": "Conceptual Framework",
+            "content": "# FASB Framework\n\n## Objectives\n\n- Useful information\n- Decision-making\n- Economic resources\n\n## Qualitative Characteristics\n\n| Primary | Enhancing |\n|---------|----------|\n| Relevance | Comparability |\n| Faithful representation | Verifiability |\n| | Timeliness |\n| | Understandability |\n\n## Elements\n\n- Assets, liabilities, equity\n- Revenues, expenses, gains, losses"
+        },
+        {
+            "id": "far_3",
+            "type": "content",
+            "title": "Financial Statements",
+            "content": "# Primary Statements\n\n## Complete Set\n\n| Statement | Purpose |\n|-----------|--------|\n| Balance sheet | Position |\n| Income statement | Performance |\n| Comprehensive income | All changes |\n| Equity statement | Capital changes |\n| Cash flows | Cash |\n| Notes | Details |\n\n## Balance Sheet Format\n\n```\nAssets = Liabilities + Equity\n\nCurrent and non-current\n```"
+        },
+        {
+            "id": "far_quiz_1",
+            "type": "quiz",
+            "title": "Framework Quiz",
+            "content": "Test your framework knowledge!",
+            "quizQuestion": "Primary qualitative characteristics are relevance and?",
+            "quizOptions": [
+                "Comparability",
+                "Faithful representation",
+                "Timeliness",
+                "Verifiability"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "far_4",
+            "type": "content",
+            "title": "Revenue Recognition",
+            "content": "# ASC 606\n\n## Five Steps\n\n```\n1. Identify contract\n2. Identify performance obligations\n3. Determine transaction price\n4. Allocate to obligations\n5. Recognize when satisfied\n```\n\n## Satisfaction\n\n| Type | When |\n|------|------|\n| Point in time | Control transfers |\n| Over time | Continuous |\n\n## Variable Consideration\n\n- Constraint\n- Expected value or most likely"
+        },
+        {
+            "id": "far_5",
+            "type": "content",
+            "title": "Leases",
+            "content": "# ASC 842\n\n## Classification\n\n| Type | Criteria |\n|------|----------|\n| Finance | Transfer, purchase, life, value, specialized |\n| Operating | Otherwise |\n\n## Recognition\n\n```\nRight-of-use asset\nLease liability\nAt PV of payments\n```\n\n## Short-Term Exception\n\n- < 12 months\n- No purchase option\n- Straight-line expense"
+        },
+        {
+            "id": "far_6",
+            "type": "content",
+            "title": "Intangibles and Goodwill",
+            "content": "# ASC 350\n\n## Intangible Assets\n\n| Life | Treatment |\n|------|----------|\n| Finite | Amortize |\n| Indefinite | Impairment test |\n\n## Goodwill\n\n```\nConsideration\n- Fair value of net assets\n= Goodwill\n\nAnnual impairment test\n```\n\n## Impairment\n\n- Qualitative assessment option\n- Quantitative: Compare FV to CV"
+        },
+        {
+            "id": "far_quiz_2",
+            "type": "quiz",
+            "title": "Asset Quiz",
+            "content": "Test your asset knowledge!",
+            "quizQuestion": "Goodwill is tested for impairment?",
+            "quizOptions": [
+                "Monthly",
+                "Quarterly",
+                "Annually",
+                "Never"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "far_7",
+            "type": "content",
+            "title": "Financial Instruments",
+            "content": "# ASC 320 and 321\n\n## Debt Securities\n\n| Category | Measurement |\n|----------|-------------|\n| Trading | FV through NI |\n| Available for sale | FV through OCI |\n| Held to maturity | Amortized cost |\n\n## Equity Securities\n\n```\nGenerally FV through NI\n\nExcept: Equity method (20-50%)\n```\n\n## Derivatives\n\n- FV through NI unless hedge"
+        },
+        {
+            "id": "far_8",
+            "type": "content",
+            "title": "Income Taxes",
+            "content": "# ASC 740\n\n## Deferred Taxes\n\n| Difference | Effect |\n|------------|--------|\n| Temporary | DTA or DTL |\n| Permanent | No deferred |\n\n## Recognition\n\n```\nDTA: Deductible differences\nDTL: Taxable differences\n\nValuation allowance if needed\n```\n\n## Presentation\n\n- All non-current\n- Net by tax jurisdiction"
+        },
+        {
+            "id": "far_9",
+            "type": "content",
+            "title": "Consolidation",
+            "content": "# ASC 810\n\n## Consolidation Model\n\n| Model | Basis |\n|-------|-------|\n| Voting interest | > 50% |\n| Variable interest | Primary beneficiary |\n\n## Procedures\n\n```\n1. Eliminate intercompany\n2. Adjust for PURP\n3. Recognize NCI\n4. Combine balances\n```\n\n## Equity Method\n\n- Significant influence (20-50%)\n- One-line consolidation"
+        },
+        {
+            "id": "far_quiz_3",
+            "type": "quiz",
+            "title": "Tax Quiz",
+            "content": "Test your tax knowledge!",
+            "quizQuestion": "Deferred taxes arise from?",
+            "quizOptions": [
+                "Permanent differences",
+                "Temporary differences",
+                "All differences",
+                "Non-deductible"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "far_10",
+            "type": "content",
+            "title": "Government Accounting",
+            "content": "# GASB Standards\n\n## Fund Types\n\n| Category | Types |\n|----------|-------|\n| Governmental | General, special revenue, capital, debt, permanent |\n| Proprietary | Enterprise, internal service |\n| Fiduciary | Trust, custodial |\n\n## Measurement Focus\n\n| Fund | Focus |\n|------|-------|\n| Governmental | Current financial resources |\n| Proprietary | Economic resources |\n\n## Modified Accrual\n\n- Revenue: Measurable and available\n- Expenses: When liability incurred"
+        },
+        {
+            "id": "far_11",
+            "type": "content",
+            "title": "Not-for-Profit",
+            "content": "# NFP Accounting\n\n## Net Asset Classes\n\n| Class | Restrictions |\n|-------|-------------|\n| Without restrictions | None |\n| With restrictions | Donor-imposed |\n\n## Financial Statements\n\n| Statement | Purpose |\n|-----------|--------|\n| Financial position | Assets and liabilities |\n| Activities | Changes in net assets |\n| Cash flows | Cash movements |\n| Functional expenses | By program/support |\n\n## Contributions\n\n- Revenue when received\n- Conditional vs unconditional"
+        },
+        {
+            "id": "far_12",
+            "type": "content",
+            "title": "Statement of Cash Flows",
+            "content": "# ASC 230\n\n## Categories\n\n| Activity | Examples |\n|----------|----------|\n| Operating | Trading |\n| Investing | Assets, investments |\n| Financing | Debt, equity |\n\n## Methods\n\n| Method | Starting Point |\n|--------|---------------|\n| Direct | Cash receipts/payments |\n| Indirect | Net income |\n\n## Non-Cash\n\n- Disclosed separately\n- Supplemental schedule"
+        },
+        {
+            "id": "far_quiz_4",
+            "type": "quiz",
+            "title": "Government Quiz",
+            "content": "Test your government knowledge!",
+            "quizQuestion": "Governmental funds use which accounting?",
+            "quizOptions": [
+                "Full accrual",
+                "Modified accrual",
+                "Cash basis",
+                "Tax basis"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "far_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CPA FAR - Financial Accounting**!\n\n## Key Topics\n\n### Standards\n- Revenue (ASC 606)\n- Leases (ASC 842)\n- Intangibles (ASC 350)\n- Financial instruments\n- Income taxes (ASC 740)\n\n### Consolidation\n- Voting and VIE models\n- Equity method\n\n### Government/NFP\n- GASB standards\n- Fund accounting\n- Net asset classes\n\n## Key Standards\n\n| ASC | Topic |\n|-----|-------|\n| 606 | Revenue |\n| 842 | Leases |\n| 740 | Income taxes |\n\n## What is Next?\n\nExplore REG - Regulation!"
+        }
+    ]
+}

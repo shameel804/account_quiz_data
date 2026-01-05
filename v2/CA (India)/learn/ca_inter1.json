@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_inter1",
+    "topicId": "ca_inter1",
+    "topicTitle": "CA Intermediate - Group I",
+    "description": "Master CA Intermediate Group I covering Accounting, Corporate Law, Cost & Management, and Taxation",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "ca_i1_1",
+            "type": "content",
+            "title": "Welcome to CA Intermediate Group I",
+            "content": "# CA Intermediate - Group I\n\nThe **second level** of your CA journey.\n\n## What You Will Learn\n\n- **Paper 1** - Advanced Accounting\n- **Paper 2** - Corporate & Other Laws\n- **Paper 3** - Cost & Management Accounting\n- **Paper 4** - Taxation\n\n## Exam Pattern\n\n| Paper | Marks |\n|-------|-------|\n| Accounting | 100 |\n| Law | 100 |\n| Cost & Mgmt | 100 |\n| Taxation | 100 |"
+        },
+        {
+            "id": "ca_i1_2",
+            "type": "content",
+            "title": "AS and Ind AS Framework",
+            "content": "# Accounting Standards\n\n## Key Standards\n\n| AS | Topic |\n|----|-------|\n| AS 1 | Disclosure of policies |\n| AS 2 | Inventory valuation |\n| AS 10 | PPE |\n| AS 11 | Foreign exchange |\n| AS 22 | Deferred tax |\n\n## Ind AS\n\n| Applicability | Companies |\n|---------------|----------|\n| Listed | Mandatory |\n| > Rs 500 Cr | Mandatory |\n| Others | Phase-wise |"
+        },
+        {
+            "id": "ca_i1_3",
+            "type": "content",
+            "title": "Company Accounts",
+            "content": "# Corporate Accounting\n\n## Key Topics\n\n| Topic | Content |\n|-------|--------|\n| Issue of shares | At par, premium |\n| Redemption | Preference shares |\n| Debentures | Issue, redemption |\n| Bonus | Capitalization |\n| Buyback | Procedure |\n\n## Financial Statements\n\n```\nSchedule III format:\n- Balance Sheet\n- P&L Statement\n- Notes\n```"
+        },
+        {
+            "id": "ca_i1_quiz1",
+            "type": "quiz",
+            "title": "AS Quiz",
+            "content": "Test your AS knowledge!",
+            "quizQuestion": "AS 2 deals with?",
+            "quizOptions": [
+                "PPE",
+                "Inventory",
+                "Revenue",
+                "Borrowing cost"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ca_i1_4",
+            "type": "content",
+            "title": "Amalgamation and Reconstruction",
+            "content": "# Business Combinations\n\n## AS 14 - Amalgamation\n\n| Method | Use |\n|--------|-----|\n| Purchase | Acquisition |\n| Pooling | Merger |\n\n## Key Terms\n\n| Term | Meaning |\n|------|--------|\n| Transferor | Old company |\n| Transferee | New company |\n| Purchase consideration | Value paid |\n\n## Internal Reconstruction\n\n- Reduction of capital\n- Alteration of rights"
+        },
+        {
+            "id": "ca_i1_5",
+            "type": "content",
+            "title": "Companies Act 2013",
+            "content": "# Paper 2A - Corporate Law\n\n## Key Sections\n\n| Section | Topic |\n|---------|-------|\n| 2 | Definitions |\n| 7 | Incorporation |\n| 149 | Directors |\n| 173 | Board meetings |\n| 96 | AGM |\n\n## Directors\n\n| Type | Feature |\n|------|--------|\n| Woman | Mandatory (listed) |\n| Independent | Required |\n| Nominee | Appointed |\n| Additional | Board appointed |"
+        },
+        {
+            "id": "ca_i1_6",
+            "type": "content",
+            "title": "Other Laws",
+            "content": "# Paper 2B\n\n## FEMA\n\n| Topic | Coverage |\n|-------|----------|\n| Current account | Generally free |\n| Capital account | Regulated |\n| FDI | Sectoral caps |\n| ECB | External borrowing |\n\n## IBC 2016\n\n| Process | Timeline |\n|---------|----------|\n| CIRP | 180 + 90 days |\n| Liquidation | If resolution fails |\n\n## LLP Act\n\n- Partner liability\n- Designated partners"
+        },
+        {
+            "id": "ca_i1_quiz2",
+            "type": "quiz",
+            "title": "Law Quiz",
+            "content": "Test your law knowledge!",
+            "quizQuestion": "IBC CIRP maximum period is?",
+            "quizOptions": [
+                "90 days",
+                "180 days",
+                "270 days",
+                "365 days"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ca_i1_7",
+            "type": "content",
+            "title": "Cost Accounting",
+            "content": "# Paper 3 - Cost\n\n## Cost Classification\n\n| Basis | Types |\n|-------|-------|\n| Element | Material, Labor, Overhead |\n| Behavior | Fixed, Variable |\n| Function | Production, Admin, Selling |\n\n## Cost Sheet\n\n```\nPrime Cost = DM + DL\n\nWorks Cost = Prime + FOH\n\nCost of Production = Works + Admin\n\nTotal Cost = CoP + Selling\n```"
+        },
+        {
+            "id": "ca_i1_8",
+            "type": "content",
+            "title": "Budgeting and Standards",
+            "content": "# Planning and Control\n\n## Budget Types\n\n| Type | Approach |\n|------|----------|\n| Fixed | One level |\n| Flexible | Multiple levels |\n| Zero-based | From scratch |\n\n## Standard Costing\n\n```\nVariance = Actual - Standard\n\nFavorable: Actual < Standard\nAdverse: Actual > Standard\n```\n\n## Variance Analysis\n\n| Variance | Formula Concept |\n|----------|----------------|\n| Material price | (AP-SP) x AQ |\n| Material usage | (AQ-SQ) x SP |\n| Labor rate | (AR-SR) x AH |\n| Labor efficiency | (AH-SH) x SR |"
+        },
+        {
+            "id": "ca_i1_9",
+            "type": "content",
+            "title": "Marginal Costing",
+            "content": "# Decision Making\n\n## Contribution\n\n```\nContribution = Sales - Variable Cost\n\nP/V Ratio = Contribution / Sales\n\nBEP = Fixed Cost / Contribution per unit\n```\n\n## Applications\n\n| Decision | Basis |\n|----------|-------|\n| Make or buy | Relevant cost |\n| Accept/reject | Contribution |\n| Key factor | Contribution per unit of limiting factor |"
+        },
+        {
+            "id": "ca_i1_quiz3",
+            "type": "quiz",
+            "title": "Cost Quiz",
+            "content": "Test your cost accounting!",
+            "quizQuestion": "BEP is where?",
+            "quizOptions": [
+                "Profit = Loss",
+                "Profit = 0",
+                "Loss maximum",
+                "Sales maximum"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ca_i1_10",
+            "type": "content",
+            "title": "Income Tax - Introduction",
+            "content": "# Paper 4 - Tax\n\n## Tax Computation\n\n```\nGross Total Income\n- Chapter VI-A deductions\n= Total Income\nx Tax Rate\n= Tax\n- Rebate/Relief\n= Net Tax\n```\n\n## Heads of Income\n\n| Head | Examples |\n|------|----------|\n| Salary | Employment |\n| House Property | Rent |\n| PGBP | Business |\n| Capital Gains | Asset sale |\n| Other Sources | Interest |"
+        },
+        {
+            "id": "ca_i1_11",
+            "type": "content",
+            "title": "Deductions and Exemptions",
+            "content": "# Tax Benefits\n\n## Chapter VI-A\n\n| Section | Benefit |\n|---------|--------|\n| 80C | Rs 1.5 lakh investment |\n| 80D | Medical insurance |\n| 80E | Education loan interest |\n| 80G | Donations |\n\n## Exemptions\n\n| Section | Nature |\n|---------|--------|\n| 10(14) | House rent allowance |\n| 10(5) | LTA |\n| 10(10D) | Insurance maturity |"
+        },
+        {
+            "id": "ca_i1_12",
+            "type": "content",
+            "title": "GST Fundamentals",
+            "content": "# Indirect Tax\n\n## GST Structure\n\n| Tax | When |\n|-----|------|\n| CGST + SGST | Intrastate |\n| IGST | Interstate |\n\n## Key Concepts\n\n| Concept | Meaning |\n|---------|--------|\n| Supply | Taxable event |\n| ITC | Input tax credit |\n| Registration | Rs 20/40 lakh |\n| Returns | GSTR-1, 3B |"
+        },
+        {
+            "id": "ca_i1_quiz4",
+            "type": "quiz",
+            "title": "Tax Quiz",
+            "content": "Test your taxation knowledge!",
+            "quizQuestion": "Section 80C limit is?",
+            "quizOptions": [
+                "Rs 1 lakh",
+                "Rs 1.5 lakh",
+                "Rs 2 lakh",
+                "Rs 2.5 lakh"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ca_i1_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CA Intermediate Group I**!\n\n## Key Topics\n\n### Accounting\n- AS and Ind AS\n- Company accounts\n- Amalgamation\n\n### Law\n- Companies Act 2013\n- FEMA, IBC\n\n### Cost\n- Cost sheet\n- Budgeting\n- Marginal costing\n\n### Tax\n- Income tax\n- Chapter VI-A\n- GST basics\n\n## What is Next?\n\nExplore CA Intermediate Group II!"
+        }
+    ]
+}

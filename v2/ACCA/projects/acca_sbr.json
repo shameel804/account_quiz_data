@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Conceptual Framework 📚",
+        "ques": "What are the **qualitative characteristics** of useful financial information?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Fundamental**:\n* Relevance (predictive/confirmatory value)\n* Faithful representation (complete, neutral, free from error)\n\n**Enhancing**:\n* Comparability\n* Verifiability\n* Timeliness\n* Understandability"
+        },
+        "explanation": "Trade-offs may be required. ***Cost*** is pervasive constraint on reporting."
+    },
+    {
+        "title": "Complex Groups 🏗️",
+        "ques": "How are **complex group structures** accounted for?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**D-shaped groups**: Parent has both direct and indirect holdings\n* Effective interest = sum of direct and indirect\n\n**Mixed groups**: Subsidiary + Associate\n* Consolidate sub, equity account associate\n\n**Sub-sub (vertical)**: Indirect control through subsidiary"
+        },
+        "explanation": "Calculate ***effective interest*** and ***NCI*** at each level."
+    },
+    {
+        "title": "Statement of Changes in Equity 📊",
+        "ques": "What items appear in **statement of changes in equity**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Components**:\n* Share capital issued\n* Share premium\n* Retained earnings movements\n* Dividends paid\n* Revaluation surplus changes\n* Other comprehensive income items\n* Effects of changes in accounting policies"
+        },
+        "explanation": "Shows ***owner transactions*** and ***comprehensive income*** separately."
+    },
+    {
+        "title": "Business Combinations 🤝",
+        "ques": "How is **consideration** measured in a business combination?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Consideration at Fair Value**:\n* Cash paid\n* Shares issued (at market value)\n* Deferred consideration (discounted PV)\n* Contingent consideration (probability-weighted)\n\n**Acquisition costs**: Expensed, not capitalised"
+        },
+        "explanation": "Revalue at each reporting date if contingent. ***Goodwill*** affected by consideration."
+    },
+    {
+        "title": "Disposal of Subsidiaries ➖",
+        "ques": "How is **gain/loss on disposal** of a subsidiary calculated?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Gain/Loss** = Proceeds - Carrying amount of subsidiary's net assets - Goodwill - NCI at disposal\n\n**Plus**: Recycled reserves (e.g., exchange differences)\n\n**Date**: When control is lost"
+        },
+        "explanation": "Remaining interest (if any) measured at ***fair value*** as associate/investment."
+    },
+    {
+        "title": "Accounting Policies Changes 📝",
+        "ques": "How are **changes in accounting policies** reported?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**IAS 8 Treatment**:\n* Apply retrospectively\n* Restate comparative information\n* Adjust opening retained earnings\n\n**Exceptions**: When impracticable\n\n**Disclosure**: Nature, reason, amounts affected"
+        },
+        "explanation": "Distinguish from ***changes in estimates*** (prospective) and ***errors*** (retrospective)."
+    },
+    {
+        "title": "Foreign Currency Translation 🌍",
+        "ques": "How is a **foreign operation** translated under IAS 21?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Translation Method**:\n* Assets/liabilities at closing rate\n* Income/expenses at transaction rates (or average)\n* Equity at historical rates\n\n**Exchange differences**: Other comprehensive income (FCTLR)"
+        },
+        "explanation": "***Functional currency*** is currency of primary economic environment."
+    },
+    {
+        "title": "Financial Instruments IFRS 9 💳",
+        "ques": "How is **impairment** of financial assets calculated under IFRS 9?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Expected Credit Loss (ECL) Model**:\n* Stage 1: 12-month ECL (low credit risk)\n* Stage 2: Lifetime ECL (significant increase in credit risk)\n* Stage 3: Lifetime ECL (credit-impaired)\n\n**Trade receivables**: Simplified approach (always lifetime ECL)"
+        },
+        "explanation": "***Forward-looking*** model replaces old incurred loss approach."
+    },
+    {
+        "title": "Earnings Per Share 📈",
+        "ques": "How is **diluted EPS** calculated?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Basic EPS** = (Profit - Preference dividends) / Weighted average shares\n\n**Diluted EPS**: Adjust for potential ordinary shares:\n* Share options (treasury stock method)\n* Convertible bonds (if-converted method)\n* Contingently issuable shares"
+        },
+        "explanation": "Only include dilutive items. ***Anti-dilutive*** items excluded."
+    },
+    {
+        "title": "Share-Based Payment 💰",
+        "ques": "How are **equity-settled share options** accounted for?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**IFRS 2 Treatment**:\n* Measure at grant date fair value\n* Recognise expense over vesting period\n* Credit equity (no remeasurement)\n\n**Adjust**: For changes in non-market conditions (staff turnover)"
+        },
+        "explanation": "***Cash-settled*** payments remeasured to fair value each period."
+    },
+    {
+        "title": "Current Developments 📰",
+        "ques": "What are recent **developments in financial reporting**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Recent/Ongoing Developments**:\n* IFRS 17 Insurance Contracts\n* Sustainability reporting standards (ISSB)\n* Primary financial statements project\n* Rate-regulated activities\n* Management commentary updates"
+        },
+        "explanation": "IASB work programme addresses gaps and emerging issues."
+    },
+    {
+        "title": "Related Party Disclosures 🤝",
+        "ques": "What are **related party disclosure** requirements?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**IAS 24 Requires**:\n* Parent-subsidiary relationships\n* Key management compensation\n* Transaction amounts and balances\n* Terms and conditions\n* Provisions and write-offs\n\n**Relates to**: Control, significant influence, key management"
+        },
+        "explanation": "Ensures users can assess ***effects of related party transactions***."
+    },
+    {
+        "title": "Segment Reporting 📊",
+        "ques": "What are the **disclosure requirements** for operating segments?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**IFRS 8 Disclosures**:\n* Segment profit/loss\n* Total assets\n* Liabilities (if regularly reviewed)\n* Revenue (external and inter-segment)\n* Specific items (depreciation, interest)\n\n**Reconciliation**: To consolidated figures"
+        },
+        "explanation": "Based on ***management approach*** - how CODM reviews performance."
+    },
+    {
+        "title": "Professional Ethics 🎯",
+        "ques": "What **ethical threats** face professional accountants?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Threats**:\n* Self-interest (financial stake)\n* Self-review (checking own work)\n* Advocacy (promoting client position)\n* Familiarity (close relationships)\n* Intimidation (pressure to act unethically)\n\n**Safeguards**: Firm-level and engagement-level controls"
+        },
+        "explanation": "Apply ***conceptual framework*** to evaluate threats and safeguards."
+    },
+    {
+        "title": "Interpretation of Standards 📖",
+        "ques": "How should **standards be interpreted** when guidance is unclear?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Hierarchy**:\n1. Requirements of specific IFRS\n2. Definitions, recognition, measurement in Conceptual Framework\n3. Most recent pronouncements of other bodies using similar framework\n\n**Judgment**: Apply consistently, disclose policies"
+        },
+        "explanation": "***Substance over form*** principle guides interpretation."
+    }
+]

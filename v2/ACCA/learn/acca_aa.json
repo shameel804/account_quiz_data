@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_aa",
+    "topicId": "acca_aa",
+    "topicTitle": "Audit and Assurance (AA)",
+    "description": "Master ACCA AA including Audit Planning, Risk Assessment, Evidence, and Reporting",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "aa_1",
+            "type": "content",
+            "title": "Welcome to ACCA AA",
+            "content": "# Audit and Assurance (AA)\n\nAA covers the principles and practice of **external audit**.\n\n## What You Will Learn\n\n- **Audit Framework** - Regulatory environment\n- **Planning** - Risk assessment\n- **Evidence** - Testing procedures\n- **Reporting** - Audit opinions\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Principles | 10% |\n| Planning | 20% |\n| Internal controls | 15% |\n| Audit evidence | 35% |\n| Reporting | 20% |"
+        },
+        {
+            "id": "aa_2",
+            "type": "content",
+            "title": "Audit Objectives",
+            "content": "# Purpose of Audit\n\n## External Audit\n\nIndependent examination to give reasonable assurance that financial statements are free from material misstatement.\n\n## Reasonable Assurance\n\n| Not | But |\n|-----|-----|\n| Absolute | High level |\n| Guarantee | Reduces risk |\n| 100% | Acceptable level |\n\n## True and Fair View\n\n- Faithful representation\n- Complies with framework\n- Free from material error\n\n## Audit vs Other Assurance\n\n| Audit | Review |\n|-------|--------|\n| Reasonable assurance | Limited assurance |\n| Positive opinion | Negative opinion |\n| Extensive testing | Enquiry and analytical |"
+        },
+        {
+            "id": "aa_3",
+            "type": "content",
+            "title": "Ethics in Audit",
+            "content": "# Professional Ethics\n\n## IESBA Code\n\nFundamental principles:\n\n| Principle | Meaning |\n|-----------|--------|\n| Integrity | Honest |\n| Objectivity | Unbiased |\n| Competence | Skilled |\n| Confidentiality | Protect info |\n| Professional behavior | Comply laws |\n\n## Threats to Independence\n\n| Threat | Example |\n|--------|--------|\n| Self-interest | Financial interest |\n| Self-review | Previous work |\n| Advocacy | Promoting client |\n| Familiarity | Close relationship |\n| Intimidation | Pressure |\n\n## Safeguards\n\n- Rotation of partners\n- Quality control review\n- Withdrawal from engagement"
+        },
+        {
+            "id": "aa_quiz_1",
+            "type": "quiz",
+            "title": "Ethics Quiz",
+            "content": "Test your ethics knowledge!",
+            "quizQuestion": "What type of threat arises when an auditor checks their own previous work?",
+            "quizOptions": [
+                "Self-interest",
+                "Self-review",
+                "Familiarity",
+                "Advocacy"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "aa_4",
+            "type": "content",
+            "title": "Audit Planning",
+            "content": "# Audit Planning\n\n## Planning Activities\n\n| Activity | Purpose |\n|----------|--------|\n| Understand entity | Know business |\n| Assess risk | Identify issues |\n| Set materiality | Determine significance |\n| Plan procedures | Allocate resources |\n\n## Audit Strategy\n\n- Scope and timing\n- Resource allocation\n- Direction and control\n\n## Audit Plan\n\n```\nNature of procedures\nTiming of procedures\nExtent of procedures\n```\n\n## Documentation\n\n- Current year file\n- Permanent file\n- Working papers"
+        },
+        {
+            "id": "aa_5",
+            "type": "content",
+            "title": "Audit Risk",
+            "content": "# Audit Risk Model\n\n## Formula\n\n```\nAudit Risk = IR x CR x DR\n\nIR = Inherent Risk\nCR = Control Risk\nDR = Detection Risk\n```\n\n## Components\n\n| Risk | Meaning |\n|------|--------|\n| Inherent | Susceptibility to misstatement |\n| Control | Controls fail to prevent |\n| Detection | Audit procedures miss it |\n\n## Risk Response\n\n| Risk Level | Response |\n|------------|----------|\n| High IR/CR | More testing |\n| Low IR/CR | Less testing |\n\n## Auditor Controls\n\nAuditor can only control Detection Risk:\n- More procedures\n- Larger samples\n- More experienced staff"
+        },
+        {
+            "id": "aa_6",
+            "type": "content",
+            "title": "Materiality",
+            "content": "# Materiality\n\n## Definition\n\nAn amount that would influence user decisions.\n\n## Setting Materiality\n\n| Benchmark | % Range |\n|-----------|--------|\n| Profit before tax | 5-10% |\n| Revenue | 0.5-1% |\n| Total assets | 1-2% |\n| Equity | 1-2% |\n\n## Performance Materiality\n\n```\nOverall materiality x %\n= Performance materiality\n\nUsed for testing\n(to allow for undetected errors)\n```\n\n## Trivial Errors\n\n```\nOverall materiality x 5%\n= Clearly trivial threshold\n\nBelow this: not accumulated\n```"
+        },
+        {
+            "id": "aa_7",
+            "type": "content",
+            "title": "Internal Controls",
+            "content": "# Understanding Controls\n\n## COSO Framework\n\n| Component | Description |\n|-----------|-------------|\n| Control environment | Tone at top |\n| Risk assessment | Entity's process |\n| Control activities | Policies/procedures |\n| Information | Systems |\n| Monitoring | Oversight |\n\n## Types of Controls\n\n| Type | Example |\n|------|--------|\n| Authorization | Approval limits |\n| Segregation | Separate duties |\n| Physical | Locked storage |\n| Arithmetic | Reconciliations |\n\n## Testing Controls\n\n- Enquiry\n- Observation\n- Inspection\n- Reperformance"
+        },
+        {
+            "id": "aa_quiz_2",
+            "type": "quiz",
+            "title": "Controls Quiz",
+            "content": "Test your controls knowledge!",
+            "quizQuestion": "Which COSO component relates to company culture and ethics?",
+            "quizOptions": [
+                "Risk assessment",
+                "Control activities",
+                "Control environment",
+                "Monitoring"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "aa_8",
+            "type": "content",
+            "title": "Audit Evidence",
+            "content": "# Audit Evidence\n\n## Evidence Qualities\n\n| Quality | Meaning |\n|---------|--------|\n| Sufficient | Quantity |\n| Appropriate | Quality (relevant + reliable) |\n\n## Sources\n\n| Source | Reliability |\n|--------|------------|\n| External | More reliable |\n| Internal (controlled) | Moderate |\n| Internal (weak controls) | Less reliable |\n\n## Assertions\n\n| Transactions | Balances |\n|--------------|----------|\n| Occurrence | Existence |\n| Completeness | Completeness |\n| Accuracy | Valuation |\n| Cut-off | Rights/obligations |\n| Classification | Classification |"
+        },
+        {
+            "id": "aa_9",
+            "type": "content",
+            "title": "Audit Procedures",
+            "content": "# Procedures for Evidence\n\n## Types of Procedures\n\n| Procedure | Description |\n|-----------|-------------|\n| Inspection | Examine records/assets |\n| Observation | Watch process |\n| Enquiry | Ask questions |\n| Confirmation | Third party response |\n| Recalculation | Check arithmetic |\n| Reperformance | Redo procedure |\n| Analytical | Compare/analyze |\n\n## Directional Testing\n\n| Test From | Tests For |\n|-----------|----------|\n| Source to records | Completeness |\n| Records to source | Existence/occurrence |\n\n## Sampling\n\n- Statistical\n- Non-statistical\n- Sample selection methods"
+        },
+        {
+            "id": "aa_10",
+            "type": "content",
+            "title": "Testing Key Areas",
+            "content": "# Substantive Testing\n\n## Revenue\n\n| Assertion | Procedure |\n|-----------|----------|\n| Occurrence | Trace to delivery notes |\n| Completeness | Sequence check |\n| Cut-off | Sales around year-end |\n\n## Receivables\n\n| Assertion | Procedure |\n|-----------|----------|\n| Existence | Confirmation |\n| Valuation | Review aging |\n| Rights | Check ownership |\n\n## Inventory\n\n| Assertion | Procedure |\n|-----------|----------|\n| Existence | Attend count |\n| Valuation | Test NRV |\n| Completeness | Floor-to-sheet |\n\n## Payables\n\n| Assertion | Procedure |\n|-----------|----------|\n| Completeness | Supplier statement recon |\n| Valuation | Subsequent payments |"
+        },
+        {
+            "id": "aa_11",
+            "type": "content",
+            "title": "Completion",
+            "content": "# Audit Completion\n\n## Completion Procedures\n\n| Procedure | Purpose |\n|-----------|--------|\n| Going concern | Assess continuity |\n| Subsequent events | Post year-end |\n| Written representations | Management confirmations |\n| Overall review | Final assessment |\n\n## Going Concern\n\nAssess 12 months from approval date.\n\n| Indicators | Examples |\n|------------|----------|\n| Financial | Net liabilities, losses |\n| Operational | Key staff leaving |\n| Other | Legal issues |\n\n## Representations\n\n- Management acknowledges responsibility\n- Confirms specific matters\n- Not substitute for evidence"
+        },
+        {
+            "id": "aa_quiz_3",
+            "type": "quiz",
+            "title": "Completion Quiz",
+            "content": "Test your completion knowledge!",
+            "quizQuestion": "For how long from the approval date should going concern be assessed?",
+            "quizOptions": [
+                "6 months",
+                "12 months",
+                "18 months",
+                "24 months"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "aa_12",
+            "type": "content",
+            "title": "Audit Reports",
+            "content": "# Auditor's Report\n\n## Report Contents\n\n- Opinion paragraph\n- Basis for opinion\n- Going concern\n- Key audit matters\n- Responsibilities\n\n## Types of Opinion\n\n| Opinion | When |\n|---------|------|\n| Unmodified | No issues |\n| Qualified | Material but not pervasive |\n| Adverse | Material and pervasive (misstatement) |\n| Disclaimer | Material and pervasive (limitation) |\n\n## Emphasis of Matter\n\n- Draw attention to matter\n- Properly disclosed\n- Does not modify opinion\n\n## Key Audit Matters\n\n- Most significant matters\n- Listed companies\n- Professional judgment"
+        },
+        {
+            "id": "aa_13",
+            "type": "content",
+            "title": "Quality Control",
+            "content": "# Audit Quality\n\n## ISQM 1\n\nQuality management for firms.\n\n| Component | Focus |\n|-----------|-------|\n| Governance | Leadership |\n| Ethics | Independence |\n| Client acceptance | Evaluation |\n| Engagement | Resources |\n| Monitoring | Review |\n\n## Hot Review\n\n- Before opinion issued\n- Listed companies\n- Public interest entities\n\n## Cold Review\n\n- After completion\n- Quality monitoring\n- Firm-wide review"
+        },
+        {
+            "id": "aa_14",
+            "type": "content",
+            "title": "Internal Audit",
+            "content": "# Internal Audit Function\n\n## Role\n\n- Internal assurance\n- Governance support\n- Risk management\n- Controls review\n\n## External vs Internal\n\n| External | Internal |\n|----------|----------|\n| Independent | Employed |\n| Statutory | Voluntary |\n| FS focus | Operations focus |\n| Report to shareholders | Report to board |\n\n## Using IA Work\n\n- Assess objectivity\n- Evaluate competence\n- Supervise their work\n- Test some work"
+        },
+        {
+            "id": "aa_quiz_4",
+            "type": "quiz",
+            "title": "Reporting Quiz",
+            "content": "Test your reporting knowledge!",
+            "quizQuestion": "An adverse opinion is issued when misstatements are?",
+            "quizOptions": [
+                "Immaterial",
+                "Material but not pervasive",
+                "Material and pervasive",
+                "Non-existent"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "aa_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA AA - Audit and Assurance**!\n\n## Key Topics\n\n### Framework\n- Audit objectives\n- Ethics and independence\n- Quality control\n\n### Process\n- Planning and risk\n- Materiality\n- Internal controls\n\n### Evidence\n- Procedures\n- Substantive testing\n- Completion\n\n### Reporting\n- Opinion types\n- Key audit matters\n\n## Key Concepts\n\n| Concept | Application |\n|---------|-------------|\n| Audit risk model | IR x CR x DR |\n| Materiality | 5% PBT typical |\n| Assertions | Existence, completeness |\n\n## What is Next?\n\nExplore ACCA FM - Financial Management!"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_lw",
+    "topicId": "acca_lw",
+    "topicTitle": "Corporate and Business Law (LW)",
+    "description": "Master ACCA LW including Legal Systems, Contract Law, Employment Law, and Company Law",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "lw_1",
+            "type": "content",
+            "title": "Welcome to ACCA LW",
+            "content": "# Corporate and Business Law (LW)\n\nLW covers the **legal framework** for business operations.\n\n## What You Will Learn\n\n- **Legal Systems** - Sources of law\n- **Contract Law** - Formation and breach\n- **Employment Law** - Rights and obligations\n- **Company Law** - Formation and governance\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Legal system | 10% |\n| Contract law | 25% |\n| Employment law | 15% |\n| Company law | 40% |\n| Insolvency | 10% |"
+        },
+        {
+            "id": "lw_2",
+            "type": "content",
+            "title": "Sources of Law",
+            "content": "# Legal Systems\n\n## Sources of Law\n\n| Source | Description |\n|--------|-------------|\n| Legislation | Acts of Parliament |\n| Common law | Judge-made law |\n| EU law | European regulations |\n| Custom | Established practices |\n\n## Court Hierarchy (UK)\n\n```\nSupreme Court (highest)\n    |\n    v\nCourt of Appeal\n    |\n    v\nHigh Court\n    |\n    v\nCounty Courts / Magistrates\n```\n\n## Civil vs Criminal\n\n| Civil | Criminal |\n|-------|----------|\n| Private disputes | State vs individual |\n| Compensation | Punishment |\n| Balance of probabilities | Beyond reasonable doubt |"
+        },
+        {
+            "id": "lw_3",
+            "type": "content",
+            "title": "Contract Formation",
+            "content": "# Elements of a Contract\n\n## Essential Elements\n\n| Element | Description |\n|---------|-------------|\n| Offer | Clear proposal |\n| Acceptance | Unqualified agreement |\n| Consideration | Value exchanged |\n| Intention | Legal relations intended |\n| Capacity | Legal ability |\n\n## Offer vs Invitation to Treat\n\n| Offer | Invitation to Treat |\n|-------|---------------------|\n| Can be accepted | Invites offers |\n| Creates contract | No contract yet |\n| Specific terms | General display |\n\n## Termination of Offer\n\n- Revocation\n- Rejection\n- Counter-offer\n- Lapse of time\n- Death"
+        },
+        {
+            "id": "lw_quiz_1",
+            "type": "quiz",
+            "title": "Contract Quiz",
+            "content": "Test your contract knowledge!",
+            "quizQuestion": "A shop window display is generally considered?",
+            "quizOptions": [
+                "An offer",
+                "An invitation to treat",
+                "Acceptance",
+                "Consideration"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "lw_4",
+            "type": "content",
+            "title": "Contract Terms",
+            "content": "# Contract Terms\n\n## Types of Terms\n\n| Type | Breach Effect |\n|------|---------------|\n| Condition | Terminate + damages |\n| Warranty | Damages only |\n| Innominate | Depends on breach |\n\n## Implied Terms\n\n- By statute (Sale of Goods Act)\n- By custom\n- By courts\n\n## Exemption Clauses\n\n| Rule | Effect |\n|------|--------|\n| Incorporation | Must be part of contract |\n| Construction | Interpreted narrowly |\n| Legislation | UCTA restrictions |"
+        },
+        {
+            "id": "lw_5",
+            "type": "content",
+            "title": "Breach and Remedies",
+            "content": "# Breach of Contract\n\n## Types of Breach\n\n| Type | Description |\n|------|-------------|\n| Actual | Party fails to perform |\n| Anticipatory | Party indicates non-performance |\n\n## Remedies\n\n| Remedy | Purpose |\n|--------|--------|\n| Damages | Monetary compensation |\n| Specific performance | Force performance |\n| Injunction | Prevent action |\n| Rescission | Undo contract |\n\n## Damages Calculation\n\n```\nExpectation loss:\nPut party in position as if contract performed\n\nReliance loss:\nRecover expenses incurred\n```"
+        },
+        {
+            "id": "lw_6",
+            "type": "content",
+            "title": "Employment Law",
+            "content": "# Employment Relationship\n\n## Employee vs Contractor\n\n| Employee | Contractor |\n|----------|------------|\n| Control by employer | Independent |\n| Integration | Own business |\n| Tax/NI deducted | Self-employed |\n\n## Employment Contract\n\n| Term | Requirement |\n|------|------------|\n| Job title | Written |\n| Pay | Written |\n| Hours | Written |\n| Notice | Statutory minimum |\n\n## Termination\n\n- Resignation\n- Dismissal\n- Redundancy\n- Expiry of fixed term"
+        },
+        {
+            "id": "lw_7",
+            "type": "content",
+            "title": "Unfair Dismissal",
+            "content": "# Dismissal Rights\n\n## Fair Reasons\n\n| Reason | Example |\n|--------|--------|\n| Capability | Poor performance |\n| Conduct | Misconduct |\n| Redundancy | Job no longer exists |\n| Statutory | Legal prohibition |\n| SOSR | Other substantial reason |\n\n## Unfair Dismissal\n\n| Requirement | Details |\n|-------------|--------|\n| Qualifying period | 2 years |\n| Procedural fairness | Proper process |\n| Reasonable decision | Employer's belief |\n\n## Automatically Unfair\n\n- Pregnancy\n- Trade union membership\n- Whistleblowing\n- Health and safety"
+        },
+        {
+            "id": "lw_quiz_2",
+            "type": "quiz",
+            "title": "Employment Quiz",
+            "content": "Test your employment law knowledge!",
+            "quizQuestion": "What is the general qualifying period for unfair dismissal claims?",
+            "quizOptions": [
+                "6 months",
+                "1 year",
+                "2 years",
+                "5 years"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "lw_8",
+            "type": "content",
+            "title": "Company Formation",
+            "content": "# Forming a Company\n\n## Registration Documents\n\n| Document | Contents |\n|----------|----------|\n| Memorandum | Subscriber intentions |\n| Articles | Internal rules |\n| Form IN01 | Application details |\n\n## Companies House\n\n- Registrar of companies\n- Issues certificate of incorporation\n- Maintains public records\n\n## Legal Personality\n\n```\nSalomon v Salomon (1897):\n- Company is separate legal person\n- Distinct from shareholders\n- Can own property, sue, be sued\n```"
+        },
+        {
+            "id": "lw_9",
+            "type": "content",
+            "title": "Company Constitution",
+            "content": "# Articles of Association\n\n## Model Articles\n\nDefault rules if none adopted:\n- Management by directors\n- Share transfer provisions\n- Meeting procedures\n\n## Amendment\n\n| Requirement | Details |\n|-------------|--------|\n| Special resolution | 75% majority |\n| Registration | File with Companies House |\n\n## Binding Effect\n\n- Contract between company and members\n- Contract between members\n- Not third parties"
+        },
+        {
+            "id": "lw_10",
+            "type": "content",
+            "title": "Share Capital",
+            "content": "# Shares and Capital\n\n## Types of Shares\n\n| Type | Rights |\n|------|--------|\n| Ordinary | Voting, dividends |\n| Preference | Fixed dividend priority |\n| Redeemable | Can be bought back |\n\n## Share Capital Terms\n\n| Term | Meaning |\n|------|--------|\n| Authorized | Maximum allowed |\n| Issued | Actually issued |\n| Paid-up | Amount received |\n| Called-up | Amount demanded |\n\n## Capital Maintenance\n\n- Cannot reduce without court/procedure\n- Dividends only from profits\n- Cannot purchase own shares (generally)"
+        },
+        {
+            "id": "lw_11",
+            "type": "content",
+            "title": "Directors Duties",
+            "content": "# Directors\n\n## Statutory Duties (CA 2006)\n\n| Duty | Meaning |\n|------|--------|\n| Act within powers | Follow constitution |\n| Promote success | Benefit members |\n| Independent judgment | Own decision |\n| Skill and care | Competent performance |\n| Avoid conflicts | No competing interests |\n| No third-party benefits | No secret profits |\n| Declare interests | Transparency |\n\n## Breach Consequences\n\n- Account for profits\n- Damages\n- Restoration of property\n- Disqualification"
+        },
+        {
+            "id": "lw_quiz_3",
+            "type": "quiz",
+            "title": "Directors Quiz",
+            "content": "Test your directors duties knowledge!",
+            "quizQuestion": "Directors must promote the success of the company for the benefit of?",
+            "quizOptions": [
+                "Directors",
+                "Employees",
+                "Members as a whole",
+                "Creditors"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "lw_12",
+            "type": "content",
+            "title": "Company Meetings",
+            "content": "# Shareholder Meetings\n\n## Types\n\n| Meeting | Purpose |\n|---------|--------|\n| AGM | Annual matters |\n| GM | Other business |\n\n## Resolutions\n\n| Type | Majority | Uses |\n|------|----------|------|\n| Ordinary | 50%+ | General matters |\n| Special | 75%+ | Constitution changes |\n\n## Voting\n\n| Method | Basis |\n|--------|-------|\n| Show of hands | One vote per person |\n| Poll | Votes by shareholding |\n\n## Notice Requirements\n\n- AGM: 21 days (public)\n- GM: 14 days\n- Can be waived"
+        },
+        {
+            "id": "lw_13",
+            "type": "content",
+            "title": "Insolvency",
+            "content": "# Corporate Insolvency\n\n## Insolvency Tests\n\n| Test | Meaning |\n|------|--------|\n| Cash flow | Cannot pay debts as due |\n| Balance sheet | Liabilities exceed assets |\n\n## Insolvency Procedures\n\n| Procedure | Purpose |\n|-----------|--------|\n| Administration | Rescue company |\n| Liquidation | Wind up company |\n| CVA | Arrangement with creditors |\n\n## Order of Payment\n\n1. Fixed charge holders\n2. Preferential creditors\n3. Floating charge holders\n4. Unsecured creditors\n5. Shareholders"
+        },
+        {
+            "id": "lw_14",
+            "type": "content",
+            "title": "Fraudulent/Wrongful Trading",
+            "content": "# Director Liability\n\n## Fraudulent Trading\n\n| Element | Requirement |\n|---------|------------|\n| Intent | Defraud creditors |\n| Liability | Civil and criminal |\n| Standard | Actual dishonesty |\n\n## Wrongful Trading\n\n| Element | Requirement |\n|---------|------------|\n| Knowledge | Knew insolvency inevitable |\n| Failure | Did not minimize loss |\n| Liability | Civil only |\n\n## Defense\n\n- Took every step to minimize loss\n- Reasonably believed recovery possible\n\n## Consequences\n\n- Personal contribution to assets\n- Disqualification"
+        },
+        {
+            "id": "lw_quiz_4",
+            "type": "quiz",
+            "title": "Insolvency Quiz",
+            "content": "Test your insolvency knowledge!",
+            "quizQuestion": "Who has first priority in a company liquidation?",
+            "quizOptions": [
+                "Unsecured creditors",
+                "Shareholders",
+                "Fixed charge holders",
+                "Preferential creditors"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "lw_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA LW - Corporate and Business Law**!\n\n## Key Topics\n\n### Contract Law\n- Formation elements\n- Terms and breach\n- Remedies\n\n### Employment Law\n- Employee rights\n- Unfair dismissal\n- Redundancy\n\n### Company Law\n- Formation and constitution\n- Directors duties\n- Share capital\n- Insolvency\n\n## Key Cases\n\n| Case | Principle |\n|------|----------|\n| Salomon | Separate personality |\n| Carlill v Carbolic | Unilateral contracts |\n\n## What is Next?\n\nExplore ACCA PM - Performance Management!"
+        }
+    ]
+}

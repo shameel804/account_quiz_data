@@ -1,0 +1,152 @@
+[
+    {
+        "title": "GST Payment Modes 💳",
+        "ques": "What are the **modes of GST payment**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Payment Modes**:\n* Electronic Cash Ledger: Actual cash payment\n* Electronic Credit Ledger: ITC utilization\n* Electronic Liability Ledger: Shows liability\n\n**Payment methods**: Net banking, credit/debit card, NEFT/RTGS"
+        },
+        "explanation": "Maintain sufficient balance in ***cash ledger*** for payment."
+    },
+    {
+        "title": "ITC Utilization Order 🔄",
+        "ques": "What is the **order of ITC utilization**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Utilization Order**:\n1. IGST: First against IGST, then CGST, then SGST\n2. CGST: First against CGST, then IGST (not SGST)\n3. SGST: First against SGST, then IGST (not CGST)\n\n**Rule**: IGST fully utilized before CGST/SGST"
+        },
+        "explanation": "Order ensures ***proper revenue*** allocation."
+    },
+    {
+        "title": "Challan Generation 📋",
+        "ques": "How is **GST challan** generated?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Challan Process**:\n1. Login to GST portal\n2. Go to Services > Payments > Create challan\n3. Select payment details (CGST, SGST, IGST, Cess)\n4. Choose payment mode\n5. Generate challan (valid for 15 days)\n6. Make payment"
+        },
+        "explanation": "Challan is ***mandatory*** for cash payment."
+    },
+    {
+        "title": "Interest on Late Payment ⚠️",
+        "ques": "What **interest** applies to late GST payment?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Interest Rates**:\n* Normal delay: 18% per annum\n* Undue/excess ITC claimed: 24% per annum\n* Interest on refund delay: 6% per annum\n\n**Calculated**: From due date to payment date"
+        },
+        "explanation": "Interest is ***mandatory*** and not waivable."
+    },
+    {
+        "title": "Refund Eligibility 🔄",
+        "ques": "When can **GST refund** be claimed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Refund Situations**:\n* Export of goods/services (zero-rated)\n* Deemed exports\n* Inverted duty structure\n* Excess balance in electronic cash ledger\n* Finalization of provisional assessment\n* Refund to UIN entities"
+        },
+        "explanation": "Refund within ***2 years*** of relevant date."
+    },
+    {
+        "title": "Export Refund Process 🌍",
+        "ques": "How is **export refund** claimed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Two Options**:\n1. Export under Bond/LUT + Claim ITC refund\n2. Export with IGST payment + Claim IGST refund\n\n**Shipping Bill**: Acts as refund application for option 2\n**RFD-01**: Required for ITC refund"
+        },
+        "explanation": "Choose option based on ***cash flow needs***."
+    },
+    {
+        "title": "Inverted Duty Refund 📉",
+        "ques": "What is **inverted duty structure** refund?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Inverted Duty**: Input tax rate > Output tax rate\n\n**Formula**: Maximum refund = [(Turnover of inverted rated x Net ITC / Adjusted Total Turnover) - (Output tax - Tax on inverted)] x (Net ITC / ITC of inputs)"
+        },
+        "explanation": "Refund available for ***accumulated ITC*** due to inverted duty."
+    },
+    {
+        "title": "Refund Application RFD-01 📝",
+        "ques": "What documents are required for **RFD-01**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Documents**:\n* Statement of invoices\n* Bank realization certificate (for exports)\n* Declaration on non-receipt of duty drawback\n* Self-declaration on undertaking\n* Relevant documents as per refund type"
+        },
+        "explanation": "Complete documentation ensures ***faster processing***."
+    },
+    {
+        "title": "Refund Timeline 📅",
+        "ques": "What is the **timeline** for refund processing?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Timeline**:\n* Acknowledgment: Within 15 days\n* Deficiency memo (if any): Within 15 days\n* Provisional refund (90%): Within 7 days of acknowledgment\n* Final order: Within 60 days of application"
+        },
+        "explanation": "Interest payable if ***refund delayed*** beyond 60 days."
+    },
+    {
+        "title": "Withholding of Refund ⛔",
+        "ques": "When can **refund be withheld**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Withholding Situations**:\n* Pending assessment/investigation\n* Demand is pending appeal\n* Suspected fraud or suppression\n* Verification of documents needed\n\n**Written order**: Required for withholding"
+        },
+        "explanation": "Withholding must have ***valid reasons***."
+    },
+    {
+        "title": "Rejection of Refund 📋",
+        "ques": "On what grounds can **refund be rejected**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Rejection Grounds**:\n* Application not in order\n* Documents not submitted\n* Incorrect refund claim\n* Violation of conditions\n* Time-barred application\n\n**Appeal**: Against rejection order"
+        },
+        "explanation": "Ensure ***all conditions met*** before applying."
+    },
+    {
+        "title": "Advance Payment Rules 💰",
+        "ques": "How is **GST on advances** handled?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Advance Payment**:\n* Goods: No GST on advance (post-amendment)\n* Services: GST payable on receipt of advance\n* Receipt voucher issued\n* Tax liability at higher rate if rate unknown"
+        },
+        "explanation": "Advance creates ***time of supply*** for services."
+    },
+    {
+        "title": "PMT-09 Credit Transfer 🔄",
+        "ques": "What is **PMT-09** form used for?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**PMT-09**:\n* Transfer of amount within electronic cash ledger\n* Between IGST, CGST, SGST, Cess heads\n* For wrong credit/debit\n* One-time transfer allowed"
+        },
+        "explanation": "PMT-09 corrects ***wrong head*** payments."
+    },
+    {
+        "title": "TDS/TCS Credit 💳",
+        "ques": "How is **TDS/TCS credit** utilized?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Credit Utilization**:\n* TDS/TCS credited to electronic cash ledger\n* Available after deductor/collector files return\n* Can be used for payment of tax\n* Claim refund if excess"
+        },
+        "explanation": "TDS/TCS like ***advance tax*** collected."
+    },
+    {
+        "title": "Payment Default Consequences ⚠️",
+        "ques": "What are the **consequences** of payment default?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Consequences**:\n* Interest at 18%/24%\n* Penalty up to 100% of tax\n* Recovery proceedings\n* ITC blocked for recipient\n* Prosecution in serious cases"
+        },
+        "explanation": "Timely payment avoids ***severe consequences***."
+    }
+]

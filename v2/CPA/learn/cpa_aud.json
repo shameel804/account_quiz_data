@@ -1,0 +1,143 @@
+{
+    "id": "learn_cpa_aud",
+    "topicId": "cpa_aud",
+    "topicTitle": "Auditing and Attestation (AUD)",
+    "description": "Master CPA AUD covering Audit Procedures, Ethics, and Reporting",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "aud_1",
+            "type": "content",
+            "title": "Welcome to CPA AUD",
+            "content": "# Auditing and Attestation (AUD)\n\nAUD covers **audit standards** and **professional practices**.\n\n## What You Will Learn\n\n- **Ethics** - Professional standards\n- **Engagement** - Planning and performance\n- **Evidence** - Audit procedures\n- **Reporting** - Opinions\n\n## Exam Areas\n\n| Area | Weight |\n|------|--------|\n| Ethics & Independence | 15-25% |\n| Risk Assessment | 25-35% |\n| Evidence | 30-40% |\n| Reporting | 10-20% |"
+        },
+        {
+            "id": "aud_2",
+            "type": "content",
+            "title": "Professional Standards",
+            "content": "# Ethics and Independence\n\n## AICPA Code of Conduct\n\n| Principle | Focus |\n|-----------|-------|\n| Responsibilities | Public interest |\n| Public interest | Society |\n| Integrity | Honest |\n| Objectivity | Unbiased |\n| Due care | Professional |\n| Scope | Services |\n\n## Independence\n\n| Type | Meaning |\n|------|--------|\n| In fact | Actual |\n| In appearance | Perceived |\n\n## Threats and Safeguards\n\n- Self-interest, familiarity, etc."
+        },
+        {
+            "id": "aud_3",
+            "type": "content",
+            "title": "Audit Planning",
+            "content": "# Planning Phase\n\n## Steps\n\n```\n1. Accept engagement\n2. Gain understanding\n3. Assess risks\n4. Develop strategy\n5. Prepare audit plan\n```\n\n## Understanding Entity\n\n| Area | Methods |\n|------|--------|\n| Operations | Inquiry |\n| Industry | Research |\n| Internal control | Walkthrough |\n\n## Materiality\n\n```\nPerformance materiality < Overall materiality\n```"
+        },
+        {
+            "id": "aud_quiz_1",
+            "type": "quiz",
+            "title": "Planning Quiz",
+            "content": "Test your planning knowledge!",
+            "quizQuestion": "Performance materiality is?",
+            "quizOptions": [
+                "Greater than overall",
+                "Less than overall",
+                "Equal to overall",
+                "Not related"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "aud_4",
+            "type": "content",
+            "title": "Risk Assessment",
+            "content": "# Audit Risk Model\n\n## Formula\n\n```\nAudit Risk = Inherent x Control x Detection\n\nAR = IR x CR x DR\n```\n\n## Inherent Risk\n\n- Nature of account\n- Susceptibility to error\n\n## Control Risk\n\n- Effectiveness of controls\n\n## Detection Risk\n\n- Risk auditor fails to detect\n- Controlled by auditor"
+        },
+        {
+            "id": "aud_5",
+            "type": "content",
+            "title": "Internal Control",
+            "content": "# COSO Framework\n\n## Five Components\n\n| Component | Focus |\n|-----------|-------|\n| Control environment | Foundation |\n| Risk assessment | ID risks |\n| Control activities | Policies |\n| Information | Communication |\n| Monitoring | Ongoing |\n\n## Control Testing\n\n| Test | Purpose |\n|------|--------|\n| Tests of controls | Effectiveness |\n| Substantive | Amounts |"
+        },
+        {
+            "id": "aud_6",
+            "type": "content",
+            "title": "Audit Evidence",
+            "content": "# Gathering Evidence\n\n## Characteristics\n\n| Quality | Meaning |\n|---------|--------|\n| Sufficient | Quantity |\n| Appropriate | Relevance + Reliability |\n\n## Procedures\n\n| Procedure | Purpose |\n|-----------|--------|\n| Inspection | Documents, assets |\n| Observation | Processes |\n| Inquiry | Questions |\n| Confirmation | External |\n| Recalculation | Math |\n| Reperformance | Redo |\n| Analytical | Reasonableness |"
+        },
+        {
+            "id": "aud_quiz_2",
+            "type": "quiz",
+            "title": "Evidence Quiz",
+            "content": "Test your evidence knowledge!",
+            "quizQuestion": "External confirmations are sent to?",
+            "quizOptions": [
+                "Management",
+                "Employees",
+                "Third parties",
+                "Shareholders"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "aud_7",
+            "type": "content",
+            "title": "Sampling",
+            "content": "# Audit Sampling\n\n## Approaches\n\n| Approach | Method |\n|----------|--------|\n| Statistical | Mathematical |\n| Non-statistical | Judgment |\n\n## Risks\n\n| Risk | Effect |\n|------|--------|\n| Overreliance | Accept when shouldn't |\n| Underreliance | Reject when shouldn't |\n| Risk of incorrect acceptance | Substantive |\n| Risk of incorrect rejection | Substantive |\n\n## Sample Size Factors\n\n- Tolerable deviation\n- Expected deviation\n- Confidence level"
+        },
+        {
+            "id": "aud_8",
+            "type": "content",
+            "title": "Substantive Procedures",
+            "content": "# Testing Balances\n\n## Types\n\n| Type | Focus |\n|------|-------|\n| Tests of details | Specific items |\n| Analytical procedures | Relationships |\n\n## Assertions\n\n| Class | Examples |\n|-------|----------|\n| Transactions | Occurrence, completeness |\n| Balances | Existence, valuation |\n| Presentation | Rights, classification |\n\n## Common Procedures\n\n- Accounts receivable confirmations\n- Inventory observation\n- Bank reconciliations"
+        },
+        {
+            "id": "aud_9",
+            "type": "content",
+            "title": "Completing the Audit",
+            "content": "# Completion Phase\n\n## Wrap-Up Procedures\n\n| Procedure | Purpose |\n|-----------|--------|\n| Subsequent events | After year-end |\n| Representation letter | Management |\n| Attorney letter | Litigation |\n| Going concern | Viability |\n\n## Documentation\n\n- Working papers\n- Review process\n- Retention (5+ years)"
+        },
+        {
+            "id": "aud_quiz_3",
+            "type": "quiz",
+            "title": "Completion Quiz",
+            "content": "Test your completion knowledge!",
+            "quizQuestion": "The attorney letter addresses?",
+            "quizOptions": [
+                "Tax matters",
+                "Litigation",
+                "Contracts",
+                "Personnel"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "aud_10",
+            "type": "content",
+            "title": "Audit Reports",
+            "content": "# Reporting Phase\n\n## Opinion Types\n\n| Opinion | When |\n|---------|------|\n| Unmodified | Fair presentation |\n| Qualified | Except for |\n| Adverse | Materially misstated |\n| Disclaimer | Cannot opine |\n\n## Report Elements\n\n- Independent auditor's report\n- Opinion paragraph\n- Basis for opinion\n- Management responsibility\n- Auditor responsibility\n- CAM (Critical Audit Matters)"
+        },
+        {
+            "id": "aud_11",
+            "type": "content",
+            "title": "Other Services",
+            "content": "# Attestation and Review\n\n## Attestation\n\n| Type | Assurance |\n|------|----------|\n| Examination | High |\n| Review | Limited |\n| Agreed-upon | Procedures only |\n\n## Compilations and Reviews\n\n| Service | Assurance |\n|---------|----------|\n| Compilation | None |\n| Review | Limited |\n| Audit | Reasonable |"
+        },
+        {
+            "id": "aud_12",
+            "type": "content",
+            "title": "PCAOB Standards",
+            "content": "# Public Company Audits\n\n## Key Differences\n\n| PCAOB | AICPA |\n|-------|-------|\n| SEC registrants | Private |\n| ICFR opinion required | Optional |\n| AS standards | AU-C |\n\n## Integrated Audit\n\n```\nFinancial statement audit\n+ Internal control audit\n= Integrated audit\n```\n\n## Inspections\n\n- Regular PCAOB inspections\n- Quality control"
+        },
+        {
+            "id": "aud_quiz_4",
+            "type": "quiz",
+            "title": "Report Quiz",
+            "content": "Test your reporting knowledge!",
+            "quizQuestion": "CAM stands for Critical Audit?",
+            "quizOptions": [
+                "Methods",
+                "Matters",
+                "Measures",
+                "Management"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "aud_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CPA AUD - Auditing and Attestation**!\n\n## Key Topics\n\n### Ethics\n- AICPA Code\n- Independence\n\n### Planning\n- Risk assessment\n- Internal control\n- Materiality\n\n### Evidence\n- Procedures\n- Sampling\n- Documentation\n\n### Reporting\n- Opinion types\n- CAM\n- PCAOB\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| AR = IR x CR x DR | Risk |\n\n## What is Next?\n\nExplore FAR - Financial Accounting!"
+        }
+    ]
+}

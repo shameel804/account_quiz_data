@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_aaa",
+    "topicId": "acca_aaa",
+    "topicTitle": "Advanced Audit and Assurance (AAA)",
+    "description": "Master ACCA AAA including Audit Planning, Complex Groups, Professional Ethics, and Reporting",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "aaa_1",
+            "type": "content",
+            "title": "Welcome to ACCA AAA",
+            "content": "# Advanced Audit and Assurance (AAA)\n\nAAA covers **complex audit** scenarios and professional judgment.\n\n## What You Will Learn\n\n- **Planning** - Risk assessment\n- **Complex Areas** - Groups, estimates\n- **Ethics** - Professional judgment\n- **Reporting** - Advanced opinions\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Ethics | 10% |\n| Planning | 20% |\n| Evidence | 30% |\n| Evaluation | 20% |\n| Reporting | 20% |"
+        },
+        {
+            "id": "aaa_2",
+            "type": "content",
+            "title": "Regulatory Environment",
+            "content": "# Audit Regulation\n\n## Key Bodies\n\n| Body | Role |\n|------|------|\n| FRC | UK regulation |\n| IAASB | International standards |\n| IESBA | Ethics standards |\n| PCAOB | US oversight |\n\n## ISAs (UK)\n\n- Auditing standards\n- Ethical requirements\n- Quality management\n\n## Corporate Governance\n\n| Requirement | Description |\n|-------------|-------------|\n| Audit committee | Oversight |\n| External auditor | Independence |\n| Rotation | Mandatory for PIEs |"
+        },
+        {
+            "id": "aaa_3",
+            "type": "content",
+            "title": "Professional Ethics",
+            "content": "# Ethical Framework\n\n## Fundamental Principles\n\n| Principle | Application |\n|-----------|-------------|\n| Integrity | Honest dealings |\n| Objectivity | Unbiased judgment |\n| Competence | Maintain skills |\n| Confidentiality | Protect information |\n| Behavior | Comply with law |\n\n## Threats and Safeguards\n\n| Threat | Safeguard |\n|--------|----------|\n| Self-interest | Withdraw |\n| Self-review | Separate teams |\n| Advocacy | Decline |\n| Familiarity | Rotation |\n| Intimidation | Report |\n\n## Independence\n\n- Of mind\n- In appearance"
+        },
+        {
+            "id": "aaa_quiz_1",
+            "type": "quiz",
+            "title": "Ethics Quiz",
+            "content": "Test your ethics knowledge!",
+            "quizQuestion": "Which threat arises from long association with a client?",
+            "quizOptions": [
+                "Self-interest",
+                "Self-review",
+                "Familiarity",
+                "Intimidation"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "aaa_4",
+            "type": "content",
+            "title": "Quality Management",
+            "content": "# Audit Quality\n\n## ISQM 1\n\n| Component | Focus |\n|-----------|-------|\n| Governance | Leadership responsibility |\n| Ethics | Independence policies |\n| Acceptance | Client evaluation |\n| Engagement | Resourcing |\n| Monitoring | Quality review |\n\n## ISQM 2\n\nEngagement quality reviews.\n\n| When Required | Reason |\n|---------------|--------|\n| PIEs | Public interest |\n| Complex | Significant risk |\n| Policy | Firm decision |\n\n## Hot Review\n\nBefore opinion issued."
+        },
+        {
+            "id": "aaa_5",
+            "type": "content",
+            "title": "Audit Planning",
+            "content": "# Planning Complex Audits\n\n## Understanding Entity\n\n| Area | Focus |\n|------|-------|\n| Industry | Sector risks |\n| Operations | Business model |\n| Controls | System design |\n| Standards | Accounting policies |\n\n## Risk Assessment\n\n```\nAudit Risk = IR x CR x DR\n\nAssess inherent and control risks\nPlan detection risk response\n```\n\n## Significant Risks\n\n| Characteristic | Response |\n|----------------|----------|\n| Complex | Expert judgment |\n| Judgment | Management bias |\n| Fraud | Unpredictable |\n\n## Materiality\n\n- Overall materiality\n- Performance materiality\n- Specific items"
+        },
+        {
+            "id": "aaa_6",
+            "type": "content",
+            "title": "Group Audits",
+            "content": "# Group Audit Considerations\n\n## Responsibilities\n\n| Role | Responsibility |\n|------|---------------|\n| Group auditor | Overall opinion |\n| Component auditor | Work on components |\n\n## Component Significance\n\n| Significant | Response |\n|-------------|----------|\n| Financially | Full audit |\n| Risk | Specified procedures |\n| Not significant | Analytics |\n\n## Communication\n\n- Group instructions\n- Component reports\n- Access to papers\n\n## Consolidation Issues\n\n- Goodwill impairment\n- Intra-group transactions\n- Different reporting dates"
+        },
+        {
+            "id": "aaa_7",
+            "type": "content",
+            "title": "Audit Evidence",
+            "content": "# Evidence Gathering\n\n## Sufficient Appropriate Evidence\n\n| Quality | Determinant |\n|---------|------------|\n| Relevance | To assertion |\n| Reliability | Source/nature |\n\n## Reliability Hierarchy\n\n```\nMost reliable:\n1. External, directly obtained\n2. Internal, strong controls\n3. Internal, weak controls\n4. Oral evidence\n```\n\n## Substantive Procedures\n\n| Type | Purpose |\n|------|--------|\n| Tests of detail | Specific items |\n| Analytics | Relationships |\n\n## Sampling\n\n- Statistical methods\n- Professional judgment\n- Extrapolation"
+        },
+        {
+            "id": "aaa_quiz_2",
+            "type": "quiz",
+            "title": "Evidence Quiz",
+            "content": "Test your evidence knowledge!",
+            "quizQuestion": "Which evidence is generally most reliable?",
+            "quizOptions": [
+                "Oral from management",
+                "Internal documentation",
+                "External confirmation",
+                "Management representations"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "aaa_8",
+            "type": "content",
+            "title": "Accounting Estimates",
+            "content": "# Auditing Estimates\n\n## Risk Assessment\n\n| Factor | Consideration |\n|--------|---------------|\n| Complexity | Model used |\n| Judgment | Subjectivity |\n| Uncertainty | Range of outcomes |\n\n## ISA 540 Response\n\n- Understand estimation process\n- Evaluate appropriateness\n- Test reasonableness\n- Consider bias\n\n## Common Estimates\n\n| Estimate | Key Assumption |\n|----------|----------------|\n| Impairment | Future cash flows |\n| Provisions | Probability/amount |\n| Fair value | Inputs used |\n| Pension | Actuarial assumptions |\n\n## Management Bias\n\n- Pattern of misstatement\n- Optimistic assumptions\n- Control override"
+        },
+        {
+            "id": "aaa_9",
+            "type": "content",
+            "title": "Related Parties",
+            "content": "# Related Party Transactions\n\n## Audit Risks\n\n| Risk | Concern |\n|------|--------|\n| Undisclosed | Hidden relationships |\n| Non-arm's length | Abnormal terms |\n| Fraud | Concealment |\n\n## Procedures\n\n| Procedure | Purpose |\n|-----------|--------|\n| Enquiry | Identify parties |\n| Review | Unusual transactions |\n| Confirmation | Terms verification |\n\n## Disclosure\n\n- Nature of relationship\n- Transaction amounts\n- Outstanding balances\n\n## Director Involvement\n\nHigher fraud risk."
+        },
+        {
+            "id": "aaa_10",
+            "type": "content",
+            "title": "Going Concern",
+            "content": "# Going Concern Assessment\n\n## Auditor Responsibilities\n\n| Task | Requirement |\n|------|------------|\n| Evaluate | Management's assessment |\n| Consider | 12 months from approval |\n| Conclude | Appropriate use |\n\n## Indicators\n\n| Financial | Operational |\n|-----------|------------|\n| Net liabilities | Key staff loss |\n| Negative cash | Supply issues |\n| Loan defaults | Market loss |\n\n## Reporting Impact\n\n| Conclusion | Report |\n|------------|--------|\n| No concern | Unmodified |\n| Material uncertainty | Emphasis of matter |\n| Inappropriate | Adverse |"
+        },
+        {
+            "id": "aaa_11",
+            "type": "content",
+            "title": "Completion",
+            "content": "# Audit Completion\n\n## Procedures\n\n| Task | Purpose |\n|------|--------|\n| Subsequent events | Post year-end |\n| Representations | Management confirmations |\n| Overall review | Stand back |\n| Documentation | Complete file |\n\n## Written Representations\n\n- Mandatory items\n- Specific matters\n- Not substitute for evidence\n\n## Evaluating Misstatements\n\n```\nUncorrected misstatements:\n- Evaluate individually\n- Aggregate\n- Consider qualitative\n- Materiality impact\n```"
+        },
+        {
+            "id": "aaa_quiz_3",
+            "type": "quiz",
+            "title": "Completion Quiz",
+            "content": "Test your completion knowledge!",
+            "quizQuestion": "Written representations can be used as a substitute for?",
+            "quizOptions": [
+                "Nothing - they supplement evidence",
+                "External confirmations",
+                "Physical inspection",
+                "Analytical procedures"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "aaa_12",
+            "type": "content",
+            "title": "Auditor's Report",
+            "content": "# Reporting\n\n## Report Structure\n\n| Section | Content |\n|---------|--------|\n| Opinion | Clean or modified |\n| Basis | Why that opinion |\n| KAMs | Significant matters |\n| Going concern | Assessment |\n| Responsibilities | Management and auditor |\n\n## Modified Opinions\n\n| Type | When |\n|------|------|\n| Qualified | Material, not pervasive |\n| Adverse | Material and pervasive (misstatement) |\n| Disclaimer | Material and pervasive (limitation) |\n\n## Key Audit Matters\n\n- Most significant matters\n- Professional judgment\n- Listed entities"
+        },
+        {
+            "id": "aaa_13",
+            "type": "content",
+            "title": "Other Assurance",
+            "content": "# Non-Audit Assurance\n\n## Types of Engagement\n\n| Type | Assurance |\n|------|----------|\n| Audit | Reasonable |\n| Review | Limited |\n| Agreed-upon | None |\n| Compilation | None |\n\n## Review Engagements\n\n| Feature | Difference from Audit |\n|---------|----------------------|\n| Evidence | Enquiry and analytical |\n| Report | Negative assurance |\n| Risk | Higher remaining |\n\n## Prospective Information\n\n- Forecasts\n- Projections\n- Sensitivity analysis"
+        },
+        {
+            "id": "aaa_14",
+            "type": "content",
+            "title": "Current Issues",
+            "content": "# Emerging Topics\n\n## Audit Evolution\n\n| Topic | Impact |\n|-------|--------|\n| Technology | Data analytics |\n| AI/ML | Automated testing |\n| Fraud | Increased focus |\n| ESG | Sustainability assurance |\n\n## Extended Reporting\n\n- Audit quality indicators\n- Transparency reports\n- More informative reports\n\n## Public Interest\n\n| Issue | Response |\n|-------|----------|\n| Audit failures | Reform proposals |\n| Big 4 dominance | Market concerns |\n| Expectation gap | Education |"
+        },
+        {
+            "id": "aaa_quiz_4",
+            "type": "quiz",
+            "title": "Reporting Quiz",
+            "content": "Test your reporting knowledge!",
+            "quizQuestion": "KAM stands for Key Audit?",
+            "quizOptions": [
+                "Material",
+                "Matters",
+                "Management",
+                "Measurement"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "aaa_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA AAA - Advanced Audit and Assurance**!\n\n## Key Topics\n\n### Ethics and Quality\n- Fundamental principles\n- Independence\n- ISQM requirements\n\n### Planning and Evidence\n- Risk assessment\n- Group audits\n- Accounting estimates\n\n### Completion\n- Going concern\n- Written representations\n- Misstatement evaluation\n\n### Reporting\n- Modified opinions\n- Key audit matters\n- Other assurance\n\n## Key Standards\n\n| Standard | Topic |\n|----------|-------|\n| ISA 540 | Estimates |\n| ISA 570 | Going concern |\n| ISA 600 | Group audits |\n| ISA 701 | KAMs |\n\n## Congratulations!\n\nYou completed all ACCA papers!"
+        }
+    ]
+}

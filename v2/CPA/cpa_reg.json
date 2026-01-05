@@ -1,0 +1,6776 @@
+[
+    {
+        "q": "What is the primary source of federal tax law in the United States?",
+        "type": "mcq",
+        "o": [
+            "Internal Revenue Code (IRC)",
+            "State laws",
+            "Treasury regulations",
+            "Court decisions"
+        ]
+    },
+    {
+        "q": "The Internal Revenue Service (IRS) is part of the Department of the Treasury.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the types of tax law authority?",
+        "type": "mcq",
+        "o": [
+            "Statutory (IRC), administrative (regulations, rulings), and judicial (court cases)",
+            "Only statutory",
+            "Only judicial",
+            "Only administrative"
+        ]
+    },
+    {
+        "q": "Match the authority type with its source:",
+        "type": "match",
+        "left": [
+            "Statutory",
+            "Administrative",
+            "Judicial"
+        ],
+        "right": [
+            "Internal Revenue Code",
+            "Treasury Regulations",
+            "Tax Court decisions"
+        ]
+    },
+    {
+        "q": "Treasury regulations are the official interpretation of the IRC by the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "IRS"
+        ],
+        "other_options": [
+            "Congress",
+            "courts",
+            "states"
+        ]
+    },
+    {
+        "q": "What is a revenue ruling?",
+        "type": "mcq",
+        "o": [
+            "Official IRS interpretation of how the law applies to a specific set of facts",
+            "Tax law enacted by Congress",
+            "State tax guidance",
+            "Court decision"
+        ]
+    },
+    {
+        "q": "Revenue rulings are published in the Internal Revenue Bulletin.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a private letter ruling (PLR)?",
+        "type": "mcq",
+        "o": [
+            "IRS ruling issued to a specific taxpayer for a specific transaction",
+            "Published guidance",
+            "Court decision",
+            "Law enacted by Congress"
+        ]
+    },
+    {
+        "q": "PLRs cannot be cited as ______ by other taxpayers.",
+        "type": "fill_blank",
+        "answers": [
+            "precedent"
+        ],
+        "other_options": [
+            "guidance",
+            "reference",
+            "information"
+        ]
+    },
+    {
+        "q": "What is the Tax Court?",
+        "type": "mcq",
+        "o": [
+            "A federal court where taxpayers can challenge IRS determinations without first paying the tax",
+            "State court",
+            "Appeals court only",
+            "Criminal court"
+        ]
+    },
+    {
+        "q": "Match the court with its jurisdiction:",
+        "type": "match",
+        "left": [
+            "Tax Court",
+            "District Court",
+            "Court of Federal Claims"
+        ],
+        "right": [
+            "No prepayment required",
+            "Jury trial available",
+            "Refund suits only"
+        ]
+    },
+    {
+        "q": "What is gross income?",
+        "type": "mcq",
+        "o": [
+            "All income from whatever source derived unless specifically excluded",
+            "Wages only",
+            "Salary only",
+            "Investment income only"
+        ]
+    },
+    {
+        "q": "Gross income includes both ordinary income and capital gains.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is adjusted gross income (AGI)?",
+        "type": "mcq",
+        "o": [
+            "Gross income minus above-the-line deductions",
+            "Gross income minus itemized deductions",
+            "Taxable income",
+            "Net income"
+        ]
+    },
+    {
+        "q": "AGI is calculated ______ determining the standard or itemized deduction.",
+        "type": "fill_blank",
+        "answers": [
+            "before"
+        ],
+        "other_options": [
+            "after",
+            "with",
+            "without"
+        ]
+    },
+    {
+        "q": "What are above-the-line deductions?",
+        "type": "mcq",
+        "o": [
+            "Deductions subtracted from gross income to arrive at AGI",
+            "Itemized deductions",
+            "Below-the-line deductions",
+            "Credits"
+        ]
+    },
+    {
+        "q": "Match the deduction type with its example:",
+        "type": "match",
+        "left": [
+            "Above-the-line",
+            "Below-the-line",
+            "Tax credit"
+        ],
+        "right": [
+            "IRA contribution",
+            "Mortgage interest",
+            "Child tax credit"
+        ]
+    },
+    {
+        "q": "What is taxable income?",
+        "type": "mcq",
+        "o": [
+            "AGI minus the greater of standard or itemized deductions minus qualified business income deduction",
+            "Gross income",
+            "AGI",
+            "Net income"
+        ]
+    },
+    {
+        "q": "Taxable income is multiplied by the tax ______ to calculate tax liability.",
+        "type": "fill_blank",
+        "answers": [
+            "rate"
+        ],
+        "other_options": [
+            "base",
+            "amount",
+            "bracket"
+        ]
+    },
+    {
+        "q": "What is the standard deduction?",
+        "type": "mcq",
+        "o": [
+            "A fixed amount that reduces taxable income based on filing status",
+            "Itemized deductions",
+            "Tax credit",
+            "AGI adjustment"
+        ]
+    },
+    {
+        "q": "The standard deduction is indexed annually for inflation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are itemized deductions?",
+        "type": "mcq",
+        "o": [
+            "Specific deductions a taxpayer can claim instead of the standard deduction",
+            "Above-the-line deductions",
+            "Tax credits",
+            "AGI adjustments"
+        ]
+    },
+    {
+        "q": "Common itemized deductions include medical expenses, state taxes, mortgage interest, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "charitable contributions"
+        ],
+        "other_options": [
+            "wages",
+            "salaries",
+            "capital gains"
+        ]
+    },
+    {
+        "q": "What is the medical expense deduction threshold?",
+        "type": "mcq",
+        "o": [
+            "Expenses exceeding 7.5% of AGI",
+            "All medical expenses",
+            "Expenses exceeding 10% of AGI",
+            "No threshold"
+        ]
+    },
+    {
+        "q": "Match the itemized deduction with its limitation:",
+        "type": "match",
+        "left": [
+            "Medical expenses",
+            "State and local taxes",
+            "Mortgage interest"
+        ],
+        "right": [
+            "7.5% AGI floor",
+            "$10,000 cap",
+            "$750,000 debt limit"
+        ]
+    },
+    {
+        "q": "What is the SALT deduction limitation?",
+        "type": "mcq",
+        "o": [
+            "State and local taxes deduction capped at $10,000",
+            "Unlimited deduction",
+            "$5,000 cap",
+            "$20,000 cap"
+        ]
+    },
+    {
+        "q": "The SALT limitation applies to state income taxes, property taxes, and ______ taxes.",
+        "type": "fill_blank",
+        "answers": [
+            "sales"
+        ],
+        "other_options": [
+            "federal",
+            "estate",
+            "gift"
+        ]
+    },
+    {
+        "q": "What is the mortgage interest deduction?",
+        "type": "mcq",
+        "o": [
+            "Deduction for interest on acquisition indebtedness up to $750,000",
+            "All interest paid",
+            "Business interest only",
+            "Student loan interest"
+        ]
+    },
+    {
+        "q": "Home equity loan interest is not deductible unless funds are used to buy, build, or improve the home.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the charitable contribution deduction?",
+        "type": "mcq",
+        "o": [
+            "Deduction for donations to qualified charitable organizations",
+            "All gifts",
+            "Gifts to individuals",
+            "Political contributions"
+        ]
+    },
+    {
+        "q": "Cash charitable contributions are generally limited to ______ of AGI.",
+        "type": "fill_blank",
+        "answers": [
+            "60%"
+        ],
+        "other_options": [
+            "30%",
+            "50%",
+            "100%"
+        ]
+    },
+    {
+        "q": "What is the casualty and theft loss deduction?",
+        "type": "mcq",
+        "o": [
+            "Losses from federally declared disasters, reduced by floors",
+            "All personal losses",
+            "Business losses",
+            "Investment losses"
+        ]
+    },
+    {
+        "q": "Personal casualty losses are limited to federally declared disasters.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is filing status?",
+        "type": "mcq",
+        "o": [
+            "A category that determines tax rates, standard deduction, and eligibility for certain benefits",
+            "Income level",
+            "Deduction type",
+            "Credit type"
+        ]
+    },
+    {
+        "q": "Match the filing status with its description:",
+        "type": "match",
+        "left": [
+            "Single",
+            "Married Filing Jointly",
+            "Head of Household",
+            "Married Filing Separately"
+        ],
+        "right": [
+            "Unmarried individual",
+            "Spouses on one return",
+            "Unmarried with dependent",
+            "Spouses on separate returns"
+        ]
+    },
+    {
+        "q": "Head of household status requires maintaining a home for a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "qualifying person"
+        ],
+        "other_options": [
+            "spouse",
+            "employer",
+            "roommate"
+        ]
+    },
+    {
+        "q": "What is a qualifying child dependency test?",
+        "type": "mcq",
+        "o": [
+            "Relationship, age, residency, and support tests to qualify as a dependent",
+            "Income test only",
+            "Age test only",
+            "Relationship test only"
+        ]
+    },
+    {
+        "q": "A qualifying child must be under age 19, or under 24 if a full-time student.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a qualifying relative?",
+        "type": "mcq",
+        "o": [
+            "A dependent who meets relationship, gross income, and support tests",
+            "Any relative",
+            "Only children",
+            "Only parents"
+        ]
+    },
+    {
+        "q": "Qualifying relatives must have gross income below the ______ amount.",
+        "type": "fill_blank",
+        "answers": [
+            "exemption"
+        ],
+        "other_options": [
+            "standard deduction",
+            "AGI",
+            "poverty level"
+        ]
+    },
+    {
+        "q": "What is the child tax credit?",
+        "type": "mcq",
+        "o": [
+            "A credit for qualifying children under age 17",
+            "A deduction",
+            "An exemption",
+            "An above-the-line deduction"
+        ]
+    },
+    {
+        "q": "Match the tax benefit with its type:",
+        "type": "match",
+        "left": [
+            "Child tax credit",
+            "Earned income credit",
+            "Dependent care credit"
+        ],
+        "right": [
+            "Credit per qualifying child",
+            "Refundable credit for low income",
+            "Credit for child care expenses"
+        ]
+    },
+    {
+        "q": "The child tax credit begins to phase out at higher ______ levels.",
+        "type": "fill_blank",
+        "answers": [
+            "income"
+        ],
+        "other_options": [
+            "asset",
+            "deduction",
+            "credit"
+        ]
+    },
+    {
+        "q": "What is the earned income tax credit (EITC)?",
+        "type": "mcq",
+        "o": [
+            "A refundable credit for low-to-moderate income workers",
+            "A nonrefundable credit",
+            "A deduction",
+            "An exemption"
+        ]
+    },
+    {
+        "q": "The EITC is refundable, meaning excess credit is paid as a refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the child and dependent care credit?",
+        "type": "mcq",
+        "o": [
+            "Credit for expenses to care for qualifying individuals while taxpayer works",
+            "Medical expense deduction",
+            "Above-the-line deduction",
+            "Exemption"
+        ]
+    },
+    {
+        "q": "The dependent care credit is based on a percentage of qualifying ______.",
+        "type": "fill_blank",
+        "answers": [
+            "expenses"
+        ],
+        "other_options": [
+            "income",
+            "AGI",
+            "deductions"
+        ]
+    },
+    {
+        "q": "What is the American Opportunity Tax Credit (AOTC)?",
+        "type": "mcq",
+        "o": [
+            "Credit for qualified higher education expenses for first four years of college",
+            "Lifetime Learning Credit",
+            "Student loan interest deduction",
+            "Tuition deduction"
+        ]
+    },
+    {
+        "q": "Match the education benefit with its characteristic:",
+        "type": "match",
+        "left": [
+            "AOTC",
+            "Lifetime Learning Credit",
+            "Student loan interest"
+        ],
+        "right": [
+            "Partially refundable, first 4 years",
+            "Nonrefundable, any year",
+            "Above-the-line deduction"
+        ]
+    },
+    {
+        "q": "The AOTC maximum credit is $______ per eligible student.",
+        "type": "fill_blank",
+        "answers": [
+            "2,500"
+        ],
+        "other_options": [
+            "1,000",
+            "5,000",
+            "10,000"
+        ]
+    },
+    {
+        "q": "What is the Lifetime Learning Credit?",
+        "type": "mcq",
+        "o": [
+            "Credit for qualified tuition expenses with no limit on years",
+            "First four years only",
+            "Graduate school only",
+            "Refundable credit"
+        ]
+    },
+    {
+        "q": "The Lifetime Learning Credit is nonrefundable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is self-employment tax?",
+        "type": "mcq",
+        "o": [
+            "Social Security and Medicare taxes on self-employment income",
+            "Income tax only",
+            "State tax",
+            "Sales tax"
+        ]
+    },
+    {
+        "q": "Self-employment tax rate is ______% on net self-employment income.",
+        "type": "fill_blank",
+        "answers": [
+            "15.3"
+        ],
+        "other_options": [
+            "7.65",
+            "12.4",
+            "20"
+        ]
+    },
+    {
+        "q": "What is the SE tax deduction?",
+        "type": "mcq",
+        "o": [
+            "Deduction for 50% of self-employment tax as an adjustment to income",
+            "100% deduction",
+            "Itemized deduction",
+            "No deduction"
+        ]
+    },
+    {
+        "q": "The SE tax deduction is ______ the line.",
+        "type": "fill_blank",
+        "answers": [
+            "above"
+        ],
+        "other_options": [
+            "below",
+            "on",
+            "at"
+        ]
+    },
+    {
+        "q": "What is estimated tax?",
+        "type": "mcq",
+        "o": [
+            "Quarterly payments of income and self-employment tax when withholding is insufficient",
+            "Tax refund",
+            "Tax credit",
+            "Deduction"
+        ]
+    },
+    {
+        "q": "Estimated tax payments are due in April, June, September, and January.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the penalty for underpayment of estimated tax?",
+        "type": "mcq",
+        "o": [
+            "Interest on underpaid amount",
+            "Jail time",
+            "Audit",
+            "No penalty"
+        ]
+    },
+    {
+        "q": "Safe harbor to avoid penalty is paying ______% of prior year tax.",
+        "type": "fill_blank",
+        "answers": [
+            "100"
+        ],
+        "other_options": [
+            "90",
+            "80",
+            "110"
+        ]
+    },
+    {
+        "q": "What is the alternative minimum tax (AMT)?",
+        "type": "mcq",
+        "o": [
+            "A parallel tax system to ensure minimum tax payment",
+            "Regular tax",
+            "State tax",
+            "Self-employment tax"
+        ]
+    },
+    {
+        "q": "AMT eliminates certain deductions and preferences.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the AMT exemption?",
+        "type": "mcq",
+        "o": [
+            "An amount excluded from AMT taxable income, phased out at higher incomes",
+            "Standard deduction",
+            "Itemized deduction",
+            "Tax credit"
+        ]
+    },
+    {
+        "q": "Match the adjustment with AMT treatment:",
+        "type": "match",
+        "left": [
+            "State taxes",
+            "Depreciation",
+            "Incentive stock options"
+        ],
+        "right": [
+            "No AMT deduction",
+            "Slower method for AMT",
+            "AMT preference item"
+        ]
+    },
+    {
+        "q": "What is a capital asset?",
+        "type": "mcq",
+        "o": [
+            "Property held for investment or personal use, not inventory or business property",
+            "Inventory",
+            "Accounts receivable",
+            "Business property"
+        ]
+    },
+    {
+        "q": "Capital assets include stocks, bonds, personal residence, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "collectibles"
+        ],
+        "other_options": [
+            "inventory",
+            "receivables",
+            "copyrights"
+        ]
+    },
+    {
+        "q": "What is the holding period for long-term capital gains?",
+        "type": "mcq",
+        "o": [
+            "More than one year",
+            "One year or less",
+            "Six months",
+            "Two years"
+        ]
+    },
+    {
+        "q": "Long-term capital gains are taxed at preferential rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the long-term capital gains tax rates?",
+        "type": "mcq",
+        "o": [
+            "0%, 15%, or 20% depending on taxable income",
+            "10%, 20%, 30%",
+            "Same as ordinary rates",
+            "Flat 15%"
+        ]
+    },
+    {
+        "q": "Net investment income tax (NIIT) adds ______% to investment income for high earners.",
+        "type": "fill_blank",
+        "answers": [
+            "3.8"
+        ],
+        "other_options": [
+            "2.9",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "q": "What is capital loss limitation?",
+        "type": "mcq",
+        "o": [
+            "Net capital losses limited to $3,000 per year against ordinary income",
+            "Unlimited deduction",
+            "$1,000 limit",
+            "$10,000 limit"
+        ]
+    },
+    {
+        "q": "Match the capital asset treatment with its rule:",
+        "type": "match",
+        "left": [
+            "Long-term gain",
+            "Short-term gain",
+            "Capital loss"
+        ],
+        "right": [
+            "Preferential rates",
+            "Ordinary rates",
+            "$3,000 limit per year"
+        ]
+    },
+    {
+        "q": "Capital losses in excess of $3,000 can be ______ forward.",
+        "type": "fill_blank",
+        "answers": [
+            "carried"
+        ],
+        "other_options": [
+            "written off",
+            "ignored",
+            "eliminated"
+        ]
+    },
+    {
+        "q": "What is Section 1231 property?",
+        "type": "mcq",
+        "o": [
+            "Depreciable business property and real property used in trade or business held over 1 year",
+            "Inventory",
+            "Capital assets",
+            "Personal property"
+        ]
+    },
+    {
+        "q": "Section 1231 gains are treated as long-term capital gains.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Section 1245 recapture?",
+        "type": "mcq",
+        "o": [
+            "Recharacterizes gain on depreciable personal property as ordinary income",
+            "Capital gain treatment",
+            "Loss treatment",
+            "No recapture"
+        ]
+    },
+    {
+        "q": "Section 1245 recapture applies to the lesser of gain or ______ taken.",
+        "type": "fill_blank",
+        "answers": [
+            "depreciation"
+        ],
+        "other_options": [
+            "cost",
+            "basis",
+            "selling price"
+        ]
+    },
+    {
+        "q": "What is Section 1250 recapture?",
+        "type": "mcq",
+        "o": [
+            "Recapture of excess depreciation on real property as ordinary income",
+            "All gain is ordinary",
+            "No recapture",
+            "Capital gain only"
+        ]
+    },
+    {
+        "q": "Unrecaptured Section 1250 gain is taxed at a maximum rate of ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "25"
+        ],
+        "other_options": [
+            "15",
+            "20",
+            "28"
+        ]
+    },
+    {
+        "q": "What is like-kind exchange under Section 1031?",
+        "type": "mcq",
+        "o": [
+            "Tax-deferred exchange of real property held for productive use or investment",
+            "Taxable exchange",
+            "Exchange of stock",
+            "Personal property exchange"
+        ]
+    },
+    {
+        "q": "Like-kind exchanges apply only to real property after 2017.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is boot in a like-kind exchange?",
+        "type": "mcq",
+        "o": [
+            "Non-like-kind property or cash received in the exchange",
+            "The new property",
+            "The old property",
+            "Depreciation"
+        ]
+    },
+    {
+        "q": "Boot received in a like-kind exchange is ______ to the extent of gain.",
+        "type": "fill_blank",
+        "answers": [
+            "taxable"
+        ],
+        "other_options": [
+            "deferred",
+            "excluded",
+            "ignored"
+        ]
+    },
+    {
+        "q": "Rearrange the individual tax calculation steps:",
+        "type": "rearrange",
+        "words": [
+            "Gross income",
+            "Less above-the-line deductions",
+            "AGI",
+            "Less standard/itemized",
+            "Taxable income"
+        ]
+    },
+    {
+        "q": "What is installment sale?",
+        "type": "mcq",
+        "o": [
+            "Sale where at least one payment is received after the tax year of sale",
+            "Cash sale",
+            "Like-kind exchange",
+            "Gift"
+        ]
+    },
+    {
+        "q": "Gain on installment sales is recognized as ______ are received.",
+        "type": "fill_blank",
+        "answers": [
+            "payments"
+        ],
+        "other_options": [
+            "contracts",
+            "agreements",
+            "invoices"
+        ]
+    },
+    {
+        "q": "What is the installment gross profit percentage?",
+        "type": "mcq",
+        "o": [
+            "Gross profit divided by contract price",
+            "Sale price only",
+            "Cost only",
+            "Depreciation recapture"
+        ]
+    },
+    {
+        "q": "Match the installment sale element with its treatment:",
+        "type": "match",
+        "left": [
+            "Principal payment",
+            "Interest",
+            "Depreciation recapture"
+        ],
+        "right": [
+            "Recognized using gross profit %",
+            "Ordinary income",
+            "Recognized immediately"
+        ]
+    },
+    {
+        "q": "What is the Section 121 exclusion?",
+        "type": "mcq",
+        "o": [
+            "Exclusion of gain on sale of principal residence",
+            "Installment sale",
+            "Like-kind exchange",
+            "Capital loss"
+        ]
+    },
+    {
+        "q": "Section 121 allows exclusion of up to $250,000 ($500,000 MFJ) on home sale gain.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the Section 121 requirements?",
+        "type": "mcq",
+        "o": [
+            "Owned and used as principal residence for 2 of last 5 years",
+            "1 of 3 years",
+            "5 of 10 years",
+            "Always owned"
+        ]
+    },
+    {
+        "q": "Section 121 can be used only once every ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "2"
+        ],
+        "other_options": [
+            "1",
+            "3",
+            "5"
+        ]
+    },
+    {
+        "q": "What is passive activity?",
+        "type": "mcq",
+        "o": [
+            "Trade or business in which the taxpayer does not materially participate",
+            "Active business",
+            "Portfolio income",
+            "Wages"
+        ]
+    },
+    {
+        "q": "Rental activities are generally treated as passive.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the passive loss limitation?",
+        "type": "mcq",
+        "o": [
+            "Passive losses can only offset passive income",
+            "All income",
+            "Only wages",
+            "Only portfolio income"
+        ]
+    },
+    {
+        "q": "Suspended passive losses are allowed when the activity is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "disposed"
+        ],
+        "other_options": [
+            "continued",
+            "expanded",
+            "converted"
+        ]
+    },
+    {
+        "q": "What is the real estate professional exception?",
+        "type": "mcq",
+        "o": [
+            "Exception allowing real estate professionals to treat rental as non-passive",
+            "No exception exists",
+            "Only for commercial property",
+            "Only for residential property"
+        ]
+    },
+    {
+        "q": "Real estate professionals must spend more than ______ hours in real property trades.",
+        "type": "fill_blank",
+        "answers": [
+            "750"
+        ],
+        "other_options": [
+            "500",
+            "1000",
+            "250"
+        ]
+    },
+    {
+        "q": "What is the $25,000 rental loss allowance?",
+        "type": "mcq",
+        "o": [
+            "Exception allowing active participants to deduct up to $25,000 of rental losses",
+            "No allowance exists",
+            "Unlimited allowance",
+            "$10,000 allowance"
+        ]
+    },
+    {
+        "q": "The $25,000 allowance phases out starting at AGI of $______.",
+        "type": "fill_blank",
+        "answers": [
+            "100,000"
+        ],
+        "other_options": [
+            "50,000",
+            "150,000",
+            "200,000"
+        ]
+    },
+    {
+        "q": "What is at-risk limitation?",
+        "type": "mcq",
+        "o": [
+            "Losses limited to the taxpayer's amount at risk",
+            "Unlimited losses",
+            "Passive loss rule",
+            "Capital loss rule"
+        ]
+    },
+    {
+        "q": "Match the loss limitation with its order of application:",
+        "type": "match",
+        "left": [
+            "Basis limitation",
+            "At-risk limitation",
+            "Passive loss limitation"
+        ],
+        "right": [
+            "First",
+            "Second",
+            "Third"
+        ]
+    },
+    {
+        "q": "What is basis in property?",
+        "type": "mcq",
+        "o": [
+            "The starting point for measuring gain or loss on disposition",
+            "Fair market value",
+            "Selling price",
+            "Debt amount"
+        ]
+    },
+    {
+        "q": "Cost basis equals purchase price plus ______.",
+        "type": "fill_blank",
+        "answers": [
+            "acquisition costs"
+        ],
+        "other_options": [
+            "selling costs",
+            "depreciation",
+            "appreciation"
+        ]
+    },
+    {
+        "q": "What is adjusted basis?",
+        "type": "mcq",
+        "o": [
+            "Original basis adjusted for improvements and depreciation",
+            "Original cost only",
+            "Fair market value",
+            "Debt"
+        ]
+    },
+    {
+        "q": "Adjusted basis increases with ______ and decreases with depreciation.",
+        "type": "fill_blank",
+        "answers": [
+            "improvements"
+        ],
+        "other_options": [
+            "sales",
+            "losses",
+            "expenses"
+        ]
+    },
+    {
+        "q": "What is the basis of inherited property?",
+        "type": "mcq",
+        "o": [
+            "Generally fair market value at date of death",
+            "Decedent's basis",
+            "Zero",
+            "Original cost"
+        ]
+    },
+    {
+        "q": "Inherited property receives a stepped-up ______.",
+        "type": "fill_blank",
+        "answers": [
+            "basis"
+        ],
+        "other_options": [
+            "value",
+            "cost",
+            "price"
+        ]
+    },
+    {
+        "q": "What is the basis of gifted property?",
+        "type": "mcq",
+        "o": [
+            "Generally donor's basis with adjustments for gift tax paid",
+            "Fair market value",
+            "Zero",
+            "Original cost to donor"
+        ]
+    },
+    {
+        "q": "For gifts at a loss, basis is the lower of donor's basis or FMV.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a wash sale?",
+        "type": "mcq",
+        "o": [
+            "Sale of stock at a loss with repurchase within 30 days before or after",
+            "Profitable sale",
+            "Long-term sale",
+            "Short sale"
+        ]
+    },
+    {
+        "q": "Wash sale losses are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "disallowed"
+        ],
+        "other_options": [
+            "allowed",
+            "doubled",
+            "ignored"
+        ]
+    },
+    {
+        "q": "What is related party transaction?",
+        "type": "mcq",
+        "o": [
+            "Transaction between family members or controlled entities with special rules",
+            "Any transaction",
+            "Public sale",
+            "Market transaction"
+        ]
+    },
+    {
+        "q": "Losses on sales to related parties are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "disallowed"
+        ],
+        "other_options": [
+            "allowed",
+            "doubled",
+            "capitalized"
+        ]
+    },
+    {
+        "q": "What is IRA contribution?",
+        "type": "mcq",
+        "o": [
+            "Contribution to Individual Retirement Account with potential deduction",
+            "Only employer contribution",
+            "No deduction available",
+            "State tax benefit only"
+        ]
+    },
+    {
+        "q": "Match the IRA type with its tax treatment:",
+        "type": "match",
+        "left": [
+            "Traditional IRA",
+            "Roth IRA",
+            "SEP IRA"
+        ],
+        "right": [
+            "Deductible contribution, taxable withdrawal",
+            "No deduction, tax-free withdrawal",
+            "Self-employed retirement"
+        ]
+    },
+    {
+        "q": "Traditional IRA contributions are ______ if eligible.",
+        "type": "fill_blank",
+        "answers": [
+            "deductible"
+        ],
+        "other_options": [
+            "never deductible",
+            "partially deductible",
+            "credited"
+        ]
+    },
+    {
+        "q": "What is Roth IRA?",
+        "type": "mcq",
+        "o": [
+            "After-tax contributions with tax-free qualified withdrawals",
+            "Pre-tax contributions",
+            "Employer-sponsored only",
+            "No growth"
+        ]
+    },
+    {
+        "q": "Roth IRA qualified distributions are tax-free.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is 401(k) plan?",
+        "type": "mcq",
+        "o": [
+            "Employer-sponsored retirement plan with pre-tax deferrals",
+            "Individual plan only",
+            "Government plan",
+            "No employer involvement"
+        ]
+    },
+    {
+        "q": "401(k) contributions reduce current ______ income.",
+        "type": "fill_blank",
+        "answers": [
+            "taxable"
+        ],
+        "other_options": [
+            "gross",
+            "total",
+            "net"
+        ]
+    },
+    {
+        "q": "What is required minimum distribution (RMD)?",
+        "type": "mcq",
+        "o": [
+            "Mandatory withdrawals from retirement accounts starting at age 73",
+            "Optional withdrawals",
+            "Maximum withdrawals",
+            "Contributions"
+        ]
+    },
+    {
+        "q": "Failure to take RMD results in a ______% penalty.",
+        "type": "fill_blank",
+        "answers": [
+            "25"
+        ],
+        "other_options": [
+            "10",
+            "50",
+            "15"
+        ]
+    },
+    {
+        "q": "What is early withdrawal penalty?",
+        "type": "mcq",
+        "o": [
+            "10% penalty on distributions before age 59.5",
+            "5% penalty",
+            "No penalty",
+            "25% penalty"
+        ]
+    },
+    {
+        "q": "Certain exceptions waive the early withdrawal penalty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a sole proprietorship?",
+        "type": "mcq",
+        "o": [
+            "Unincorporated business owned by one person, reported on Schedule C",
+            "Corporation",
+            "Partnership",
+            "LLC always"
+        ]
+    },
+    {
+        "q": "Sole proprietor income is reported on Schedule ______.",
+        "type": "fill_blank",
+        "answers": [
+            "C"
+        ],
+        "other_options": [
+            "A",
+            "B",
+            "E"
+        ]
+    },
+    {
+        "q": "What is a partnership for tax purposes?",
+        "type": "mcq",
+        "o": [
+            "Association of two or more persons to carry on a trade or business",
+            "Corporation",
+            "Sole proprietorship",
+            "Trust"
+        ]
+    },
+    {
+        "q": "Match the entity with its tax form:",
+        "type": "match",
+        "left": [
+            "Partnership",
+            "S Corporation",
+            "C Corporation"
+        ],
+        "right": [
+            "Form 1065",
+            "Form 1120-S",
+            "Form 1120"
+        ]
+    },
+    {
+        "q": "Partnerships are ______ entities for income tax purposes.",
+        "type": "fill_blank",
+        "answers": [
+            "pass-through"
+        ],
+        "other_options": [
+            "taxable",
+            "exempt",
+            "separate"
+        ]
+    },
+    {
+        "q": "What is a partner's distributive share?",
+        "type": "mcq",
+        "o": [
+            "Partner's allocation of partnership income, gain, loss, deduction, and credit",
+            "Cash distribution only",
+            "Salary",
+            "Capital contribution"
+        ]
+    },
+    {
+        "q": "Partners receive Schedule K-1 reporting their distributive share.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is partner's basis in partnership interest?",
+        "type": "mcq",
+        "o": [
+            "Capital contribution plus share of liabilities plus income minus losses minus distributions",
+            "Capital contribution only",
+            "Zero",
+            "Fair market value"
+        ]
+    },
+    {
+        "q": "Partner's basis is reduced by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "distributions"
+        ],
+        "other_options": [
+            "contributions",
+            "income",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "What is a guaranteed payment?",
+        "type": "mcq",
+        "o": [
+            "Payment to partner for services or capital without regard to partnership income",
+            "Distributive share",
+            "Cash distribution",
+            "Capital contribution"
+        ]
+    },
+    {
+        "q": "Guaranteed payments are ______ to the partnership.",
+        "type": "fill_blank",
+        "answers": [
+            "deductible"
+        ],
+        "other_options": [
+            "not deductible",
+            "capitalized",
+            "ignored"
+        ]
+    },
+    {
+        "q": "What is partnership formation?",
+        "type": "mcq",
+        "o": [
+            "Generally tax-free when property is contributed for partnership interest",
+            "Always taxable",
+            "Gain always recognized",
+            "Loss always recognized"
+        ]
+    },
+    {
+        "q": "Section 721 provides for tax-free partnership ______.",
+        "type": "fill_blank",
+        "answers": [
+            "formation"
+        ],
+        "other_options": [
+            "dissolution",
+            "distribution",
+            "sale"
+        ]
+    },
+    {
+        "q": "What is hot asset in partnership?",
+        "type": "mcq",
+        "o": [
+            "Unrealized receivables and inventory that trigger ordinary income on sale",
+            "Capital assets",
+            "Real property",
+            "Equipment"
+        ]
+    },
+    {
+        "q": "Match the partnership asset with its treatment:",
+        "type": "match",
+        "left": [
+            "Inventory",
+            "Unrealized receivables",
+            "Capital assets"
+        ],
+        "right": [
+            "Hot asset",
+            "Hot asset",
+            "Capital gain"
+        ]
+    },
+    {
+        "q": "What is an S corporation?",
+        "type": "mcq",
+        "o": [
+            "Corporation electing pass-through taxation under Subchapter S",
+            "C corporation",
+            "Partnership",
+            "Sole proprietorship"
+        ]
+    },
+    {
+        "q": "S corporations are limited to ______ shareholders.",
+        "type": "fill_blank",
+        "answers": [
+            "100"
+        ],
+        "other_options": [
+            "50",
+            "75",
+            "unlimited"
+        ]
+    },
+    {
+        "q": "What are S corporation eligibility requirements?",
+        "type": "mcq",
+        "o": [
+            "Domestic corporation, 100 shareholders, one class of stock, eligible shareholders",
+            "No requirements",
+            "Any corporation",
+            "Only LLCs"
+        ]
+    },
+    {
+        "q": "S corporations cannot have ______ shareholders.",
+        "type": "fill_blank",
+        "answers": [
+            "nonresident alien"
+        ],
+        "other_options": [
+            "domestic",
+            "individual",
+            "trust"
+        ]
+    },
+    {
+        "q": "What is S corporation basis?",
+        "type": "mcq",
+        "o": [
+            "Stock basis plus direct loans from shareholder to corporation",
+            "Zero",
+            "Fair market value",
+            "Book value"
+        ]
+    },
+    {
+        "q": "S corporation debt does not increase shareholder ______ unless a direct loan.",
+        "type": "fill_blank",
+        "answers": [
+            "basis"
+        ],
+        "other_options": [
+            "income",
+            "distributions",
+            "losses"
+        ]
+    },
+    {
+        "q": "What is built-in gains tax?",
+        "type": "mcq",
+        "o": [
+            "Tax on appreciation that existed when C corporation converted to S",
+            "Income tax",
+            "Employment tax",
+            "No such tax"
+        ]
+    },
+    {
+        "q": "Built-in gains tax applies for ______ years after conversion.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "3",
+            "7",
+            "10"
+        ]
+    },
+    {
+        "q": "What is a C corporation?",
+        "type": "mcq",
+        "o": [
+            "Standard corporation subject to entity-level tax",
+            "S corporation",
+            "Partnership",
+            "LLC"
+        ]
+    },
+    {
+        "q": "C corporations face double taxation on dividends.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the corporate tax rate?",
+        "type": "mcq",
+        "o": [
+            "Flat 21% under current law",
+            "Progressive rates",
+            "15%",
+            "35%"
+        ]
+    },
+    {
+        "q": "Corporate taxable income equals gross income minus ______.",
+        "type": "fill_blank",
+        "answers": [
+            "deductions"
+        ],
+        "other_options": [
+            "credits",
+            "basis",
+            "distributions"
+        ]
+    },
+    {
+        "q": "What is dividends received deduction (DRD)?",
+        "type": "mcq",
+        "o": [
+            "Deduction for corporations receiving dividends from other corporations",
+            "Individual deduction",
+            "Credit",
+            "Exemption"
+        ]
+    },
+    {
+        "q": "Match the ownership level with DRD percentage:",
+        "type": "match",
+        "left": [
+            "Under 20%",
+            "20-79%",
+            "80% or more"
+        ],
+        "right": [
+            "50% DRD",
+            "65% DRD",
+            "100% DRD"
+        ]
+    },
+    {
+        "q": "What is corporate charitable deduction limitation?",
+        "type": "mcq",
+        "o": [
+            "Limited to 10% of taxable income before certain deductions",
+            "Unlimited",
+            "25%",
+            "50%"
+        ]
+    },
+    {
+        "q": "Corporate charitable contributions excess can be carried forward ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "3",
+            "7",
+            "10"
+        ]
+    },
+    {
+        "q": "What is accumulated earnings tax?",
+        "type": "mcq",
+        "o": [
+            "Penalty tax on corporations retaining earnings beyond reasonable needs",
+            "Regular income tax",
+            "Capital gains tax",
+            "Payroll tax"
+        ]
+    },
+    {
+        "q": "The accumulated earnings credit provides safe harbor of $______.",
+        "type": "fill_blank",
+        "answers": [
+            "250,000"
+        ],
+        "other_options": [
+            "100,000",
+            "500,000",
+            "1,000,000"
+        ]
+    },
+    {
+        "q": "What is personal holding company tax?",
+        "type": "mcq",
+        "o": [
+            "Penalty tax on corporations with primarily passive income owned by few individuals",
+            "Income tax",
+            "Employment tax",
+            "Excise tax"
+        ]
+    },
+    {
+        "q": "PHC tax is imposed at ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "20"
+        ],
+        "other_options": [
+            "15",
+            "25",
+            "30"
+        ]
+    },
+    {
+        "q": "What is corporate formation under Section 351?",
+        "type": "mcq",
+        "o": [
+            "Tax-free transfer of property for stock if transferors control corporation",
+            "Taxable exchange",
+            "Always gain recognition",
+            "Always loss recognition"
+        ]
+    },
+    {
+        "q": "Section 351 requires ______% control immediately after exchange.",
+        "type": "fill_blank",
+        "answers": [
+            "80"
+        ],
+        "other_options": [
+            "50",
+            "51",
+            "100"
+        ]
+    },
+    {
+        "q": "What is corporate liquidation?",
+        "type": "mcq",
+        "o": [
+            "Distribution of corporate assets to shareholders in complete termination",
+            "Dividend",
+            "Formation",
+            "Reorganization"
+        ]
+    },
+    {
+        "q": "Shareholders recognize gain or loss on liquidating ______.",
+        "type": "fill_blank",
+        "answers": [
+            "distributions"
+        ],
+        "other_options": [
+            "contributions",
+            "formation",
+            "incorporation"
+        ]
+    },
+    {
+        "q": "What is a corporate reorganization?",
+        "type": "mcq",
+        "o": [
+            "Tax-free transaction restructuring corporate ownership",
+            "Taxable merger",
+            "Liquidation",
+            "Formation"
+        ]
+    },
+    {
+        "q": "Match the reorganization type with its description:",
+        "type": "match",
+        "left": [
+            "Type A",
+            "Type B",
+            "Type C"
+        ],
+        "right": [
+            "Statutory merger",
+            "Stock for stock",
+            "Stock for assets"
+        ]
+    },
+    {
+        "q": "What is an LLC for tax purposes?",
+        "type": "mcq",
+        "o": [
+            "Entity that can elect to be taxed as partnership, corporation, or disregarded",
+            "Always corporation",
+            "Always partnership",
+            "Always sole proprietorship"
+        ]
+    },
+    {
+        "q": "Single-member LLCs default to ______ entity status.",
+        "type": "fill_blank",
+        "answers": [
+            "disregarded"
+        ],
+        "other_options": [
+            "partnership",
+            "corporation",
+            "exempt"
+        ]
+    },
+    {
+        "q": "What is qualified business income deduction (QBI)?",
+        "type": "mcq",
+        "o": [
+            "Section 199A deduction for pass-through business income up to 20%",
+            "Corporate deduction",
+            "Employment deduction",
+            "Itemized deduction"
+        ]
+    },
+    {
+        "q": "QBI deduction is limited to ______% of qualified business income.",
+        "type": "fill_blank",
+        "answers": [
+            "20"
+        ],
+        "other_options": [
+            "10",
+            "15",
+            "25"
+        ]
+    },
+    {
+        "q": "What is specified service trade or business (SSTB)?",
+        "type": "mcq",
+        "o": [
+            "Service businesses like health, law, and consulting subject to QBI limitations",
+            "All businesses",
+            "Manufacturing",
+            "Retail"
+        ]
+    },
+    {
+        "q": "SSTBs may be limited or excluded from QBI deduction at higher incomes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is employment tax?",
+        "type": "mcq",
+        "o": [
+            "Social Security and Medicare taxes on wages",
+            "Income tax only",
+            "State tax",
+            "Capital gains tax"
+        ]
+    },
+    {
+        "q": "FICA tax rate for employees is ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "7.65"
+        ],
+        "other_options": [
+            "6.2",
+            "15.3",
+            "1.45"
+        ]
+    },
+    {
+        "q": "What is FUTA?",
+        "type": "mcq",
+        "o": [
+            "Federal Unemployment Tax Act - employer-only tax",
+            "Employee tax",
+            "State tax",
+            "Income tax"
+        ]
+    },
+    {
+        "q": "FUTA applies to the first $______ of wages.",
+        "type": "fill_blank",
+        "answers": [
+            "7,000"
+        ],
+        "other_options": [
+            "10,000",
+            "15,000",
+            "50,000"
+        ]
+    },
+    {
+        "q": "What is the additional Medicare tax?",
+        "type": "mcq",
+        "o": [
+            "0.9% tax on wages over $200,000 ($250,000 MFJ)",
+            "No additional tax",
+            "1.5%",
+            "2.9%"
+        ]
+    },
+    {
+        "q": "Additional Medicare tax is paid only by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "employees"
+        ],
+        "other_options": [
+            "employers",
+            "both",
+            "neither"
+        ]
+    },
+    {
+        "q": "What is gift tax?",
+        "type": "mcq",
+        "o": [
+            "Tax on transfer of property during life without adequate consideration",
+            "Estate tax",
+            "Income tax",
+            "Sales tax"
+        ]
+    },
+    {
+        "q": "Match the transfer tax with its trigger:",
+        "type": "match",
+        "left": [
+            "Gift tax",
+            "Estate tax",
+            "GST tax"
+        ],
+        "right": [
+            "Lifetime gift",
+            "Death transfer",
+            "Skip person transfer"
+        ]
+    },
+    {
+        "q": "The annual gift tax exclusion is $______ per donee.",
+        "type": "fill_blank",
+        "answers": [
+            "18,000"
+        ],
+        "other_options": [
+            "15,000",
+            "10,000",
+            "25,000"
+        ]
+    },
+    {
+        "q": "What is the unlimited marital deduction?",
+        "type": "mcq",
+        "o": [
+            "Unlimited gift and estate tax deduction for transfers to citizen spouse",
+            "Limited deduction",
+            "Income tax deduction",
+            "Employment tax deduction"
+        ]
+    },
+    {
+        "q": "Gifts to non-citizen spouses have a higher annual exclusion.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is estate tax?",
+        "type": "mcq",
+        "o": [
+            "Tax on transfer of property at death",
+            "Gift tax",
+            "Income tax",
+            "Property tax"
+        ]
+    },
+    {
+        "q": "The estate tax exclusion is $______ million (2024).",
+        "type": "fill_blank",
+        "answers": [
+            "13.61"
+        ],
+        "other_options": [
+            "5",
+            "10",
+            "15"
+        ]
+    },
+    {
+        "q": "What is portability?",
+        "type": "mcq",
+        "o": [
+            "Transfer of deceased spouse's unused exclusion to surviving spouse",
+            "Moving states",
+            "Changing trustees",
+            "Selling assets"
+        ]
+    },
+    {
+        "q": "Portability requires timely filing of estate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "tax return"
+        ],
+        "other_options": [
+            "income return",
+            "gift return",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is generation-skipping transfer tax?",
+        "type": "mcq",
+        "o": [
+            "Tax on transfers to grandchildren or skip persons",
+            "Gift tax",
+            "Estate tax",
+            "Income tax"
+        ]
+    },
+    {
+        "q": "GST tax is imposed at the maximum estate tax rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is business law contract formation?",
+        "type": "mcq",
+        "o": [
+            "Offer, acceptance, consideration, capacity, and legality",
+            "Only offer and acceptance",
+            "Only consideration",
+            "Only capacity"
+        ]
+    },
+    {
+        "q": "Match the contract element with its definition:",
+        "type": "match",
+        "left": [
+            "Offer",
+            "Acceptance",
+            "Consideration"
+        ],
+        "right": [
+            "Proposal to enter contract",
+            "Agreement to terms",
+            "Exchange of value"
+        ]
+    },
+    {
+        "q": "A contract requires mutual ______.",
+        "type": "fill_blank",
+        "answers": [
+            "assent"
+        ],
+        "other_options": [
+            "payment",
+            "signing",
+            "witnesses"
+        ]
+    },
+    {
+        "q": "What is the Statute of Frauds?",
+        "type": "mcq",
+        "o": [
+            "Requirement that certain contracts be in writing to be enforceable",
+            "Fraud statute",
+            "Tax statute",
+            "Criminal statute"
+        ]
+    },
+    {
+        "q": "Contracts for sale of land must be in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "writing"
+        ],
+        "other_options": [
+            "email",
+            "audio",
+            "video"
+        ]
+    },
+    {
+        "q": "What is UCC Article 2?",
+        "type": "mcq",
+        "o": [
+            "Uniform Commercial Code governing sale of goods",
+            "Real estate law",
+            "Tax law",
+            "Criminal law"
+        ]
+    },
+    {
+        "q": "UCC applies to transactions in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "goods"
+        ],
+        "other_options": [
+            "services",
+            "real estate",
+            "all contracts"
+        ]
+    },
+    {
+        "q": "What is breach of contract?",
+        "type": "mcq",
+        "o": [
+            "Failure to perform contractual obligations",
+            "Contract formation",
+            "Modification",
+            "Termination"
+        ]
+    },
+    {
+        "q": "Remedies for breach include damages, specific performance, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "rescission"
+        ],
+        "other_options": [
+            "rewards",
+            "penalties",
+            "fines"
+        ]
+    },
+    {
+        "q": "What is an agency relationship?",
+        "type": "mcq",
+        "o": [
+            "Fiduciary relationship where agent acts on behalf of principal",
+            "Employment only",
+            "Partnership",
+            "Corporation"
+        ]
+    },
+    {
+        "q": "Match the agency concept with its description:",
+        "type": "match",
+        "left": [
+            "Actual authority",
+            "Apparent authority",
+            "Ratification"
+        ],
+        "right": [
+            "Granted by principal",
+            "Appears to third party",
+            "After-the-fact approval"
+        ]
+    },
+    {
+        "q": "Agents owe fiduciary duties to their ______.",
+        "type": "fill_blank",
+        "answers": [
+            "principals"
+        ],
+        "other_options": [
+            "agents",
+            "third parties",
+            "courts"
+        ]
+    },
+    {
+        "q": "What is principal liability for agent acts?",
+        "type": "mcq",
+        "o": [
+            "Principal liable for authorized acts and acts within scope of authority",
+            "Never liable",
+            "Always liable",
+            "Only for crimes"
+        ]
+    },
+    {
+        "q": "Respondeat superior makes employers liable for employee ______ within scope.",
+        "type": "fill_blank",
+        "answers": [
+            "torts"
+        ],
+        "other_options": [
+            "contracts",
+            "crimes",
+            "debts"
+        ]
+    },
+    {
+        "q": "What is a negotiable instrument?",
+        "type": "mcq",
+        "o": [
+            "Written promise or order to pay money meeting UCC requirements",
+            "Any contract",
+            "Real estate deed",
+            "Tax form"
+        ]
+    },
+    {
+        "q": "Negotiable instruments include checks, promissory notes, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "drafts"
+        ],
+        "other_options": [
+            "deeds",
+            "mortgages",
+            "contracts"
+        ]
+    },
+    {
+        "q": "What are the requirements for negotiability?",
+        "type": "mcq",
+        "o": [
+            "Written, signed, unconditional promise/order to pay fixed sum, payable on demand or at definite time",
+            "Oral agreement",
+            "Conditional payment",
+            "Variable amount"
+        ]
+    },
+    {
+        "q": "Holder in due course takes instrument free of ______ defenses.",
+        "type": "fill_blank",
+        "answers": [
+            "personal"
+        ],
+        "other_options": [
+            "real",
+            "all",
+            "criminal"
+        ]
+    },
+    {
+        "q": "What is secured transaction?",
+        "type": "mcq",
+        "o": [
+            "Transaction where creditor has security interest in debtor's property",
+            "Unsecured loan",
+            "Gift",
+            "Lease"
+        ]
+    },
+    {
+        "q": "Match the secured transaction term with its meaning:",
+        "type": "match",
+        "left": [
+            "Attachment",
+            "Perfection",
+            "Priority"
+        ],
+        "right": [
+            "Security interest enforceable",
+            "Rights against third parties",
+            "Ranking among creditors"
+        ]
+    },
+    {
+        "q": "Perfection is typically achieved by filing a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "financing statement"
+        ],
+        "other_options": [
+            "lawsuit",
+            "complaint",
+            "tax return"
+        ]
+    },
+    {
+        "q": "What is a debtor's rights in secured transactions?",
+        "type": "mcq",
+        "o": [
+            "Right to redeem collateral by paying debt before disposition",
+            "No rights",
+            "Automatic ownership",
+            "No obligations"
+        ]
+    },
+    {
+        "q": "Debtor may redeem collateral by paying the ______ amount.",
+        "type": "fill_blank",
+        "answers": [
+            "full"
+        ],
+        "other_options": [
+            "partial",
+            "discounted",
+            "no"
+        ]
+    },
+    {
+        "q": "What is bankruptcy?",
+        "type": "mcq",
+        "o": [
+            "Legal process for debtors to resolve debts",
+            "Tax filing",
+            "Contract formation",
+            "Corporation formation"
+        ]
+    },
+    {
+        "q": "Chapter 7 bankruptcy is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "liquidation"
+        ],
+        "other_options": [
+            "reorganization",
+            "adjustment",
+            "dismissal"
+        ]
+    },
+    {
+        "q": "What is Chapter 11 bankruptcy?",
+        "type": "mcq",
+        "o": [
+            "Business reorganization allowing continued operations",
+            "Liquidation",
+            "Individual only",
+            "No operations"
+        ]
+    },
+    {
+        "q": "Chapter 13 is for individuals with regular ______.",
+        "type": "fill_blank",
+        "answers": [
+            "income"
+        ],
+        "other_options": [
+            "assets",
+            "debts",
+            "none"
+        ]
+    },
+    {
+        "q": "What is the automatic stay?",
+        "type": "mcq",
+        "o": [
+            "Immediate halt to collection actions upon bankruptcy filing",
+            "Court order only",
+            "No protection",
+            "After confirmation"
+        ]
+    },
+    {
+        "q": "The automatic stay stops all ______ efforts.",
+        "type": "fill_blank",
+        "answers": [
+            "collection"
+        ],
+        "other_options": [
+            "business",
+            "legal",
+            "tax"
+        ]
+    },
+    {
+        "q": "What is a discharge in bankruptcy?",
+        "type": "mcq",
+        "o": [
+            "Release from personal liability for certain debts",
+            "Payment of debts",
+            "Filing requirement",
+            "Court appearance"
+        ]
+    },
+    {
+        "q": "Some debts like student loans and taxes are not ______ in bankruptcy.",
+        "type": "fill_blank",
+        "answers": [
+            "dischargeable"
+        ],
+        "other_options": [
+            "collectible",
+            "payable",
+            "acceptable"
+        ]
+    },
+    {
+        "q": "What are non-dischargeable debts?",
+        "type": "mcq",
+        "o": [
+            "Certain taxes, student loans, child support, and debts from fraud",
+            "All debts",
+            "No debts",
+            "Only mortgages"
+        ]
+    },
+    {
+        "q": "Match the debt with its dischargeability:",
+        "type": "match",
+        "left": [
+            "Credit card debt",
+            "Child support",
+            "Student loans"
+        ],
+        "right": [
+            "Dischargeable",
+            "Non-dischargeable",
+            "Rarely dischargeable"
+        ]
+    },
+    {
+        "q": "What is professional ethics for CPAs?",
+        "type": "mcq",
+        "o": [
+            "AICPA Code of Professional Conduct governing ethical behavior",
+            "Tax code",
+            "State law only",
+            "No ethics rules"
+        ]
+    },
+    {
+        "q": "CPAs must maintain ______ in all professional services.",
+        "type": "fill_blank",
+        "answers": [
+            "integrity"
+        ],
+        "other_options": [
+            "secrecy",
+            "profit",
+            "speed"
+        ]
+    },
+    {
+        "q": "What is CPA independence?",
+        "type": "mcq",
+        "o": [
+            "Freedom from relationships that could impair objectivity",
+            "Working alone",
+            "Having no clients",
+            "Not joining firms"
+        ]
+    },
+    {
+        "q": "Independence includes both independence in fact and in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "appearance"
+        ],
+        "other_options": [
+            "mind",
+            "action",
+            "speech"
+        ]
+    },
+    {
+        "q": "What is Circular 230?",
+        "type": "mcq",
+        "o": [
+            "Treasury regulations governing practice before the IRS",
+            "Tax forms",
+            "State regulations",
+            "Court rules"
+        ]
+    },
+    {
+        "q": "Circular 230 applies to CPAs, attorneys, and enrolled ______.",
+        "type": "fill_blank",
+        "answers": [
+            "agents"
+        ],
+        "other_options": [
+            "students",
+            "interns",
+            "citizens"
+        ]
+    },
+    {
+        "q": "What is due diligence in tax practice?",
+        "type": "mcq",
+        "o": [
+            "Making reasonable inquiry to determine correctness of positions",
+            "Signing quickly",
+            "Ignoring issues",
+            "Client responsibility only"
+        ]
+    },
+    {
+        "q": "Tax preparers must exercise due ______ in preparing returns.",
+        "type": "fill_blank",
+        "answers": [
+            "diligence"
+        ],
+        "other_options": [
+            "speed",
+            "care",
+            "process"
+        ]
+    },
+    {
+        "q": "What is a tax return preparer penalty?",
+        "type": "mcq",
+        "o": [
+            "Penalty for understating liability due to unreasonable positions or willful conduct",
+            "Client penalty only",
+            "No preparer penalties",
+            "Criminal penalty only"
+        ]
+    },
+    {
+        "q": "Match the preparer penalty with its trigger:",
+        "type": "match",
+        "left": [
+            "Section 6694(a)",
+            "Section 6694(b)",
+            "Section 6695"
+        ],
+        "right": [
+            "Unreasonable positions",
+            "Willful or reckless conduct",
+            "Various procedural failures"
+        ]
+    },
+    {
+        "q": "What is the substantial authority standard?",
+        "type": "mcq",
+        "o": [
+            "Standard requiring greater than one-third to one-half likelihood of success",
+            "Frivolous standard",
+            "Any chance of success",
+            "Certainty required"
+        ]
+    },
+    {
+        "q": "Undisclosed positions require ______ authority.",
+        "type": "fill_blank",
+        "answers": [
+            "substantial"
+        ],
+        "other_options": [
+            "reasonable",
+            "some",
+            "weak"
+        ]
+    },
+    {
+        "q": "What is the reasonable basis standard?",
+        "type": "mcq",
+        "o": [
+            "Standard requiring more than 20% likelihood of success with disclosure",
+            "No chance needed",
+            "100% certainty",
+            "Frivolous standard"
+        ]
+    },
+    {
+        "q": "Disclosed positions require at least ______ basis.",
+        "type": "fill_blank",
+        "answers": [
+            "reasonable"
+        ],
+        "other_options": [
+            "substantial",
+            "weak",
+            "frivolous"
+        ]
+    },
+    {
+        "q": "What is taxpayer confidentiality?",
+        "type": "mcq",
+        "o": [
+            "Duty to protect client tax information from unauthorized disclosure",
+            "No duty",
+            "Public information",
+            "IRS access only"
+        ]
+    },
+    {
+        "q": "Section 7216 imposes ______ penalties for improper disclosure.",
+        "type": "fill_blank",
+        "answers": [
+            "criminal"
+        ],
+        "other_options": [
+            "civil",
+            "no",
+            "minor"
+        ]
+    },
+    {
+        "q": "Rearrange the tax controversy process:",
+        "type": "rearrange",
+        "words": [
+            "Audit",
+            "30-day letter",
+            "Appeals",
+            "90-day letter",
+            "Tax Court"
+        ]
+    },
+    {
+        "q": "What is the statute of limitations for assessment?",
+        "type": "mcq",
+        "o": [
+            "Generally 3 years from later of due date or filing date",
+            "1 year",
+            "10 years",
+            "Unlimited"
+        ]
+    },
+    {
+        "q": "The statute extends to 6 years for omission of more than ______% of income.",
+        "type": "fill_blank",
+        "answers": [
+            "25"
+        ],
+        "other_options": [
+            "10",
+            "50",
+            "75"
+        ]
+    },
+    {
+        "q": "What is the statute of limitations for collection?",
+        "type": "mcq",
+        "o": [
+            "10 years from date of assessment",
+            "3 years",
+            "6 years",
+            "Unlimited"
+        ]
+    },
+    {
+        "q": "There is no statute for ______ returns.",
+        "type": "fill_blank",
+        "answers": [
+            "fraudulent"
+        ],
+        "other_options": [
+            "late",
+            "amended",
+            "simple"
+        ]
+    },
+    {
+        "q": "What is innocent spouse relief?",
+        "type": "mcq",
+        "o": [
+            "Relief from joint liability when spouse was unaware of understatement",
+            "Automatic relief",
+            "No relief available",
+            "Only for divorced couples"
+        ]
+    },
+    {
+        "q": "Innocent spouse relief is available under Section ______.",
+        "type": "fill_blank",
+        "answers": [
+            "6015"
+        ],
+        "other_options": [
+            "6013",
+            "6011",
+            "6012"
+        ]
+    },
+    {
+        "q": "What is separation of liability relief?",
+        "type": "mcq",
+        "o": [
+            "Allocating joint tax liability between former spouses",
+            "No relief",
+            "Full liability",
+            "Criminal relief"
+        ]
+    },
+    {
+        "q": "Separation of liability requires the spouses to be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "divorced or separated"
+        ],
+        "other_options": [
+            "married",
+            "living together",
+            "filing jointly"
+        ]
+    },
+    {
+        "q": "What is equitable relief?",
+        "type": "mcq",
+        "o": [
+            "Relief available when other innocent spouse provisions don't apply",
+            "No relief",
+            "Automatic relief",
+            "Criminal relief"
+        ]
+    },
+    {
+        "q": "Equitable relief is found in Section 6015(f).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is IRS Appeals?",
+        "type": "mcq",
+        "o": [
+            "Administrative review of IRS determinations before litigation",
+            "Court proceeding",
+            "Automatic review",
+            "No review"
+        ]
+    },
+    {
+        "q": "Appeals is ______ from IRS examination.",
+        "type": "fill_blank",
+        "answers": [
+            "independent"
+        ],
+        "other_options": [
+            "part of",
+            "connected to",
+            "controlled by"
+        ]
+    },
+    {
+        "q": "What is the 30-day letter?",
+        "type": "mcq",
+        "o": [
+            "IRS letter proposing adjustments with right to appeal",
+            "Final notice",
+            "Court order",
+            "Tax bill"
+        ]
+    },
+    {
+        "q": "The 30-day letter allows the taxpayer to request ______ review.",
+        "type": "fill_blank",
+        "answers": [
+            "Appeals"
+        ],
+        "other_options": [
+            "court",
+            "audit",
+            "criminal"
+        ]
+    },
+    {
+        "q": "What is the 90-day letter?",
+        "type": "mcq",
+        "o": [
+            "Statutory notice of deficiency allowing Tax Court petition",
+            "30-day letter",
+            "Appeals letter",
+            "Audit notice"
+        ]
+    },
+    {
+        "q": "The 90-day letter is also called the notice of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "deficiency"
+        ],
+        "other_options": [
+            "assessment",
+            "collection",
+            "audit"
+        ]
+    },
+    {
+        "q": "What is tax fraud?",
+        "type": "mcq",
+        "o": [
+            "Intentional evasion of tax with fraudulent intent",
+            "Negligence",
+            "Mathematical error",
+            "Late filing"
+        ]
+    },
+    {
+        "q": "Civil fraud penalty is ______% of the underpayment.",
+        "type": "fill_blank",
+        "answers": [
+            "75"
+        ],
+        "other_options": [
+            "25",
+            "50",
+            "100"
+        ]
+    },
+    {
+        "q": "What is the accuracy-related penalty?",
+        "type": "mcq",
+        "o": [
+            "20% penalty for negligence or substantial understatement",
+            "75% penalty",
+            "10% penalty",
+            "No penalty"
+        ]
+    },
+    {
+        "q": "Match the penalty with its trigger:",
+        "type": "match",
+        "left": [
+            "Accuracy-related",
+            "Fraud",
+            "Failure to file"
+        ],
+        "right": [
+            "Negligence or understatement",
+            "Intentional evasion",
+            "Not filing return"
+        ]
+    },
+    {
+        "q": "What is substantial understatement?",
+        "type": "mcq",
+        "o": [
+            "Understatement exceeding greater of $5,000 or 10% of correct tax",
+            "Any understatement",
+            "10% of income",
+            "5% of tax"
+        ]
+    },
+    {
+        "q": "Substantial understatement penalty can be avoided with ______ disclosure.",
+        "type": "fill_blank",
+        "answers": [
+            "adequate"
+        ],
+        "other_options": [
+            "partial",
+            "no",
+            "voluntary"
+        ]
+    },
+    {
+        "q": "What is failure to file penalty?",
+        "type": "mcq",
+        "o": [
+            "5% per month up to 25% for not filing return",
+            "1% per month",
+            "No penalty",
+            "25% per month"
+        ]
+    },
+    {
+        "q": "Failure to file penalty is reduced by failure to pay penalty when both apply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is failure to pay penalty?",
+        "type": "mcq",
+        "o": [
+            "0.5% per month up to 25% for not paying tax due",
+            "5% per month",
+            "1% per month",
+            "No penalty"
+        ]
+    },
+    {
+        "q": "Combined failure to file and pay penalties max at ______% per month.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "10",
+            "25",
+            "50"
+        ]
+    },
+    {
+        "q": "What is reasonable cause?",
+        "type": "mcq",
+        "o": [
+            "Defense to penalties based on ordinary business care and prudence",
+            "No defense exists",
+            "Automatic relief",
+            "Criminal defense"
+        ]
+    },
+    {
+        "q": "Reasonable cause may waive ______ penalties.",
+        "type": "fill_blank",
+        "answers": [
+            "most civil"
+        ],
+        "other_options": [
+            "all",
+            "no",
+            "criminal"
+        ]
+    },
+    {
+        "q": "What is first-time penalty abatement?",
+        "type": "mcq",
+        "o": [
+            "Administrative waiver for taxpayers with clean compliance history",
+            "Court-ordered relief",
+            "Automatic relief",
+            "No such relief"
+        ]
+    },
+    {
+        "q": "FTA requires compliance for the prior ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "1",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "q": "What is wage garnishment?",
+        "type": "mcq",
+        "o": [
+            "IRS collection of unpaid tax from wages",
+            "Voluntary payment",
+            "Refund",
+            "Credit"
+        ]
+    },
+    {
+        "q": "IRS can levy wages to collect delinquent ______.",
+        "type": "fill_blank",
+        "answers": [
+            "taxes"
+        ],
+        "other_options": [
+            "refunds",
+            "credits",
+            "deductions"
+        ]
+    },
+    {
+        "q": "What is IRS lien?",
+        "type": "mcq",
+        "o": [
+            "Legal claim against property for unpaid taxes",
+            "Physical seizure",
+            "Refund",
+            "Credit"
+        ]
+    },
+    {
+        "q": "Federal tax lien attaches to all ______ of the taxpayer.",
+        "type": "fill_blank",
+        "answers": [
+            "property"
+        ],
+        "other_options": [
+            "income",
+            "deductions",
+            "credits"
+        ]
+    },
+    {
+        "q": "What is IRS levy?",
+        "type": "mcq",
+        "o": [
+            "Actual seizure of property to satisfy tax debt",
+            "Lien",
+            "Refund",
+            "Assessment"
+        ]
+    },
+    {
+        "q": "Levies can seize bank accounts, wages, and other ______.",
+        "type": "fill_blank",
+        "answers": [
+            "assets"
+        ],
+        "other_options": [
+            "deductions",
+            "credits",
+            "exemptions"
+        ]
+    },
+    {
+        "q": "What is offer in compromise?",
+        "type": "mcq",
+        "o": [
+            "Agreement to settle tax debt for less than full amount",
+            "Full payment",
+            "Extended payment",
+            "Appeal"
+        ]
+    },
+    {
+        "q": "OIC may be based on doubt as to collectibility or ______.",
+        "type": "fill_blank",
+        "answers": [
+            "liability"
+        ],
+        "other_options": [
+            "income",
+            "assets",
+            "deductions"
+        ]
+    },
+    {
+        "q": "What is installment agreement?",
+        "type": "mcq",
+        "o": [
+            "Monthly payment plan for tax debt",
+            "Full payment",
+            "OIC",
+            "Lien"
+        ]
+    },
+    {
+        "q": "Streamlined installment agreement is available for debts of $______ or less.",
+        "type": "fill_blank",
+        "answers": [
+            "50,000"
+        ],
+        "other_options": [
+            "10,000",
+            "25,000",
+            "100,000"
+        ]
+    },
+    {
+        "q": "What is Currently Not Collectible (CNC)?",
+        "type": "mcq",
+        "o": [
+            "Status when taxpayer cannot pay and IRS suspends collection",
+            "Collection continues",
+            "Debt forgiven",
+            "Lien released"
+        ]
+    },
+    {
+        "q": "CNC status does not stop the accrual of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "interest"
+        ],
+        "other_options": [
+            "penalties",
+            "principal",
+            "fees"
+        ]
+    },
+    {
+        "q": "What is withholding on wages?",
+        "type": "mcq",
+        "o": [
+            "Employer's collection of income and FICA taxes from wages",
+            "Employee payment",
+            "Voluntary payment",
+            "Year-end payment"
+        ]
+    },
+    {
+        "q": "Employers must deposit withheld taxes according to IRS ______.",
+        "type": "fill_blank",
+        "answers": [
+            "schedules"
+        ],
+        "other_options": [
+            "requests",
+            "audits",
+            "liens"
+        ]
+    },
+    {
+        "q": "What is Form W-2?",
+        "type": "mcq",
+        "o": [
+            "Statement of wages and taxes withheld issued by employer",
+            "Tax return",
+            "Estimated tax form",
+            "Business form"
+        ]
+    },
+    {
+        "q": "W-2 must be provided to employees by January ______.",
+        "type": "fill_blank",
+        "answers": [
+            "31"
+        ],
+        "other_options": [
+            "15",
+            "28",
+            "1"
+        ]
+    },
+    {
+        "q": "What is Form 1099?",
+        "type": "mcq",
+        "o": [
+            "Information return for various types of payments",
+            "Tax return",
+            "Withholding form",
+            "Employment form"
+        ]
+    },
+    {
+        "q": "Match the 1099 form with its purpose:",
+        "type": "match",
+        "left": [
+            "1099-NEC",
+            "1099-INT",
+            "1099-DIV"
+        ],
+        "right": [
+            "Nonemployee compensation",
+            "Interest income",
+            "Dividend income"
+        ]
+    },
+    {
+        "q": "What is Form W-4?",
+        "type": "mcq",
+        "o": [
+            "Employee's withholding certificate",
+            "Employer's tax return",
+            "Information return",
+            "Estimated tax form"
+        ]
+    },
+    {
+        "q": "W-4 determines the amount of income tax ______.",
+        "type": "fill_blank",
+        "answers": [
+            "withheld"
+        ],
+        "other_options": [
+            "refunded",
+            "credited",
+            "owed"
+        ]
+    },
+    {
+        "q": "What is trust fund recovery penalty?",
+        "type": "mcq",
+        "o": [
+            "Personal liability for person responsible for unpaid withholding taxes",
+            "Corporate penalty only",
+            "No personal liability",
+            "Employee penalty"
+        ]
+    },
+    {
+        "q": "TFRP equals ______% of unpaid trust fund taxes.",
+        "type": "fill_blank",
+        "answers": [
+            "100"
+        ],
+        "other_options": [
+            "50",
+            "75",
+            "25"
+        ]
+    },
+    {
+        "q": "What is responsible person for trust fund penalty?",
+        "type": "mcq",
+        "o": [
+            "Person with authority over financial decisions and willful failure",
+            "Any employee",
+            "Only shareholders",
+            "Only officers"
+        ]
+    },
+    {
+        "q": "Multiple responsible persons can be held ______ liable.",
+        "type": "fill_blank",
+        "answers": [
+            "jointly and severally"
+        ],
+        "other_options": [
+            "individually",
+            "proportionally",
+            "not"
+        ]
+    },
+    {
+        "q": "What is worker classification?",
+        "type": "mcq",
+        "o": [
+            "Determining if worker is employee or independent contractor",
+            "Job title",
+            "Salary level",
+            "Work hours"
+        ]
+    },
+    {
+        "q": "Misclassification results in liability for unpaid ______ taxes.",
+        "type": "fill_blank",
+        "answers": [
+            "employment"
+        ],
+        "other_options": [
+            "income",
+            "state",
+            "property"
+        ]
+    },
+    {
+        "q": "What is common law employee test?",
+        "type": "mcq",
+        "o": [
+            "Behavioral control, financial control, and type of relationship",
+            "Only job title",
+            "Only payment method",
+            "Only work schedule"
+        ]
+    },
+    {
+        "q": "Match the classification factor with its category:",
+        "type": "match",
+        "left": [
+            "Instructions",
+            "Profit/loss opportunity",
+            "Benefits"
+        ],
+        "right": [
+            "Behavioral control",
+            "Financial control",
+            "Type of relationship"
+        ]
+    },
+    {
+        "q": "What is Section 530 relief?",
+        "type": "mcq",
+        "o": [
+            "Relief from employment tax liability for reasonable classification",
+            "No relief",
+            "Automatic relief",
+            "Court-ordered relief"
+        ]
+    },
+    {
+        "q": "Section 530 requires ______ treatment of similar workers.",
+        "type": "fill_blank",
+        "answers": [
+            "consistent"
+        ],
+        "other_options": [
+            "different",
+            "variable",
+            "no"
+        ]
+    },
+    {
+        "q": "What is tax shelter?",
+        "type": "mcq",
+        "o": [
+            "Arrangement primarily designed to reduce taxes",
+            "Legal investment",
+            "Retirement plan",
+            "Savings account"
+        ]
+    },
+    {
+        "q": "Abusive tax shelters may trigger ______ penalties.",
+        "type": "fill_blank",
+        "answers": [
+            "accuracy"
+        ],
+        "other_options": [
+            "no",
+            "minor",
+            "criminal"
+        ]
+    },
+    {
+        "q": "What is reportable transaction?",
+        "type": "mcq",
+        "o": [
+            "Transaction requiring disclosure on Form 8886",
+            "All transactions",
+            "No transactions",
+            "Only sales"
+        ]
+    },
+    {
+        "q": "Listed transactions are the most serious type of ______ transactions.",
+        "type": "fill_blank",
+        "answers": [
+            "reportable"
+        ],
+        "other_options": [
+            "legal",
+            "normal",
+            "business"
+        ]
+    },
+    {
+        "q": "What is economic substance doctrine?",
+        "type": "mcq",
+        "o": [
+            "Transaction must have economic purpose beyond tax benefits",
+            "Form over substance",
+            "No doctrine",
+            "All deductions allowed"
+        ]
+    },
+    {
+        "q": "Lacking economic substance triggers ______% penalty.",
+        "type": "fill_blank",
+        "answers": [
+            "40"
+        ],
+        "other_options": [
+            "20",
+            "75",
+            "100"
+        ]
+    },
+    {
+        "q": "What is step transaction doctrine?",
+        "type": "mcq",
+        "o": [
+            "Treating separate steps as single integrated transaction",
+            "Each step separate",
+            "No doctrine",
+            "All steps legal"
+        ]
+    },
+    {
+        "q": "Step transaction may ______ intended tax benefits.",
+        "type": "fill_blank",
+        "answers": [
+            "eliminate"
+        ],
+        "other_options": [
+            "increase",
+            "preserve",
+            "ignore"
+        ]
+    },
+    {
+        "q": "What is substance over form?",
+        "type": "mcq",
+        "o": [
+            "Tax consequences based on actual economic substance not legal form",
+            "Form controls",
+            "Labels control",
+            "No doctrine"
+        ]
+    },
+    {
+        "q": "IRS can recharacterize transactions based on ______.",
+        "type": "fill_blank",
+        "answers": [
+            "substance"
+        ],
+        "other_options": [
+            "form",
+            "labels",
+            "names"
+        ]
+    },
+    {
+        "q": "What is assignment of income doctrine?",
+        "type": "mcq",
+        "o": [
+            "Income taxed to person who earns it regardless of assignment",
+            "Assignment effective",
+            "No doctrine",
+            "All assignments valid"
+        ]
+    },
+    {
+        "q": "Assignment of income prevents shifting income to ______ taxpayers.",
+        "type": "fill_blank",
+        "answers": [
+            "lower-bracket"
+        ],
+        "other_options": [
+            "higher-bracket",
+            "same",
+            "all"
+        ]
+    },
+    {
+        "q": "What is sham transaction?",
+        "type": "mcq",
+        "o": [
+            "Transaction lacking genuine business purpose",
+            "All transactions",
+            "Legal transactions",
+            "Normal business"
+        ]
+    },
+    {
+        "q": "Sham transactions are ______ for tax purposes.",
+        "type": "fill_blank",
+        "answers": [
+            "disregarded"
+        ],
+        "other_options": [
+            "allowed",
+            "enhanced",
+            "preserved"
+        ]
+    },
+    {
+        "q": "What is kiddie tax?",
+        "type": "mcq",
+        "o": [
+            "Taxing child's unearned income at parent's rate",
+            "No special tax",
+            "Child's rate",
+            "Zero tax"
+        ]
+    },
+    {
+        "q": "Kiddie tax applies to children under age ______.",
+        "type": "fill_blank",
+        "answers": [
+            "19"
+        ],
+        "other_options": [
+            "18",
+            "21",
+            "24"
+        ]
+    },
+    {
+        "q": "What is net operating loss (NOL)?",
+        "type": "mcq",
+        "o": [
+            "Business loss that can offset income in other years",
+            "Personal loss",
+            "Capital loss",
+            "No carryover"
+        ]
+    },
+    {
+        "q": "NOLs can be carried forward ______.",
+        "type": "fill_blank",
+        "answers": [
+            "indefinitely"
+        ],
+        "other_options": [
+            "5 years",
+            "10 years",
+            "20 years"
+        ]
+    },
+    {
+        "q": "What is the NOL deduction limitation?",
+        "type": "mcq",
+        "o": [
+            "Limited to 80% of taxable income",
+            "100% of income",
+            "50% of income",
+            "No limitation"
+        ]
+    },
+    {
+        "q": "The 80% limitation applies to NOLs arising after ______.",
+        "type": "fill_blank",
+        "answers": [
+            "2017"
+        ],
+        "other_options": [
+            "2010",
+            "2020",
+            "2015"
+        ]
+    },
+    {
+        "q": "What is excess business loss limitation?",
+        "type": "mcq",
+        "o": [
+            "Limits business losses for non-corporate taxpayers",
+            "No limitation",
+            "Corporate limitation",
+            "Capital loss rule"
+        ]
+    },
+    {
+        "q": "Excess business losses become NOL ______.",
+        "type": "fill_blank",
+        "answers": [
+            "carryforwards"
+        ],
+        "other_options": [
+            "carrybacks",
+            "deductions",
+            "credits"
+        ]
+    },
+    {
+        "q": "What is hobby loss?",
+        "type": "mcq",
+        "o": [
+            "Loss from activity not engaged in for profit",
+            "Business loss",
+            "Investment loss",
+            "Capital loss"
+        ]
+    },
+    {
+        "q": "Hobby losses cannot offset ______ income.",
+        "type": "fill_blank",
+        "answers": [
+            "other"
+        ],
+        "other_options": [
+            "hobby",
+            "investment",
+            "no"
+        ]
+    },
+    {
+        "q": "What is Section 183?",
+        "type": "mcq",
+        "o": [
+            "Hobby loss limitation rule",
+            "Business deduction",
+            "Capital gains",
+            "Depreciation"
+        ]
+    },
+    {
+        "q": "Presumption of profit motive requires profit in ______ of 5 years.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "1",
+            "2",
+            "4"
+        ]
+    },
+    {
+        "q": "What is home office deduction?",
+        "type": "mcq",
+        "o": [
+            "Deduction for business use of home space",
+            "No deduction",
+            "Full house deduction",
+            "Rent deduction"
+        ]
+    },
+    {
+        "q": "Home office must be used regularly and ______ for business.",
+        "type": "fill_blank",
+        "answers": [
+            "exclusively"
+        ],
+        "other_options": [
+            "occasionally",
+            "partially",
+            "rarely"
+        ]
+    },
+    {
+        "q": "What is simplified home office method?",
+        "type": "mcq",
+        "o": [
+            "$5 per square foot up to 300 square feet",
+            "Actual expenses",
+            "$10 per square foot",
+            "No limit"
+        ]
+    },
+    {
+        "q": "The simplified method allows maximum deduction of $______.",
+        "type": "fill_blank",
+        "answers": [
+            "1,500"
+        ],
+        "other_options": [
+            "500",
+            "2,500",
+            "5,000"
+        ]
+    },
+    {
+        "q": "What is business vehicle deduction?",
+        "type": "mcq",
+        "o": [
+            "Deduction for business use of vehicle using standard mileage or actual expenses",
+            "No deduction",
+            "Full vehicle cost",
+            "Insurance only"
+        ]
+    },
+    {
+        "q": "Standard mileage rate is set annually by the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "IRS"
+        ],
+        "other_options": [
+            "state",
+            "employer",
+            "Congress"
+        ]
+    },
+    {
+        "q": "What is Section 179 expense?",
+        "type": "mcq",
+        "o": [
+            "Election to expense cost of qualifying property in year placed in service",
+            "Depreciation only",
+            "No deduction",
+            "Amortization"
+        ]
+    },
+    {
+        "q": "Section 179 deduction is limited to business ______ for the year.",
+        "type": "fill_blank",
+        "answers": [
+            "income"
+        ],
+        "other_options": [
+            "assets",
+            "expenses",
+            "losses"
+        ]
+    },
+    {
+        "q": "What is bonus depreciation?",
+        "type": "mcq",
+        "o": [
+            "Additional first-year depreciation for qualified property",
+            "Regular depreciation",
+            "Amortization",
+            "Section 179 only"
+        ]
+    },
+    {
+        "q": "Bonus depreciation was 100% through ______.",
+        "type": "fill_blank",
+        "answers": [
+            "2022"
+        ],
+        "other_options": [
+            "2020",
+            "2025",
+            "2030"
+        ]
+    },
+    {
+        "q": "What is listed property?",
+        "type": "mcq",
+        "o": [
+            "Property subject to special substantiation and depreciation rules",
+            "All property",
+            "Real property only",
+            "Inventory"
+        ]
+    },
+    {
+        "q": "Listed property includes vehicles and ______ equipment.",
+        "type": "fill_blank",
+        "answers": [
+            "computer"
+        ],
+        "other_options": [
+            "manufacturing",
+            "office furniture",
+            "inventory"
+        ]
+    },
+    {
+        "q": "What is MACRS?",
+        "type": "mcq",
+        "o": [
+            "Modified Accelerated Cost Recovery System for depreciation",
+            "Straight-line only",
+            "Amortization",
+            "Expensing"
+        ]
+    },
+    {
+        "q": "MACRS uses ______ conventions for determining depreciation start.",
+        "type": "fill_blank",
+        "answers": [
+            "half-year or mid-quarter"
+        ],
+        "other_options": [
+            "full-year",
+            "monthly",
+            "daily"
+        ]
+    },
+    {
+        "q": "What is mid-quarter convention?",
+        "type": "mcq",
+        "o": [
+            "Used when more than 40% of property placed in service in last quarter",
+            "Always used",
+            "Never used",
+            "First quarter only"
+        ]
+    },
+    {
+        "q": "Mid-quarter convention treats property as placed in service at ______ of quarter.",
+        "type": "fill_blank",
+        "answers": [
+            "midpoint"
+        ],
+        "other_options": [
+            "beginning",
+            "end",
+            "any time"
+        ]
+    },
+    {
+        "q": "What is amortization of intangibles?",
+        "type": "mcq",
+        "o": [
+            "Spreading cost of intangibles over useful life or 15 years",
+            "Depreciation",
+            "Expensing",
+            "No deduction"
+        ]
+    },
+    {
+        "q": "Section 197 intangibles are amortized over ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "15"
+        ],
+        "other_options": [
+            "5",
+            "7",
+            "39"
+        ]
+    },
+    {
+        "q": "What is organizational expense?",
+        "type": "mcq",
+        "o": [
+            "Expenses to form a business entity",
+            "Operating expense",
+            "Construction expense",
+            "Research expense"
+        ]
+    },
+    {
+        "q": "Organizational expenses can be deducted up to $______ immediately.",
+        "type": "fill_blank",
+        "answers": [
+            "5,000"
+        ],
+        "other_options": [
+            "10,000",
+            "1,000",
+            "15,000"
+        ]
+    },
+    {
+        "q": "What is start-up cost?",
+        "type": "mcq",
+        "o": [
+            "Costs incurred before business begins active operations",
+            "Operating costs",
+            "Capital costs",
+            "Personal costs"
+        ]
+    },
+    {
+        "q": "Start-up costs over $5,000 are amortized over ______ months.",
+        "type": "fill_blank",
+        "answers": [
+            "180"
+        ],
+        "other_options": [
+            "60",
+            "120",
+            "240"
+        ]
+    },
+    {
+        "q": "What is interest tracing?",
+        "type": "mcq",
+        "o": [
+            "Determining character of interest based on use of proceeds",
+            "No tracing needed",
+            "All interest same",
+            "Automatic classification"
+        ]
+    },
+    {
+        "q": "Interest character depends on how loan proceeds are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "used"
+        ],
+        "other_options": [
+            "borrowed",
+            "repaid",
+            "documented"
+        ]
+    },
+    {
+        "q": "What is limitation on business interest?",
+        "type": "mcq",
+        "o": [
+            "Section 163(j) limits business interest deduction to 30% of ATI",
+            "No limitation",
+            "100% deduction",
+            "50% limitation"
+        ]
+    },
+    {
+        "q": "Section 163(j) has exception for small businesses under $______ million.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "10",
+            "25",
+            "50"
+        ]
+    },
+    {
+        "q": "What is S corporation AAA?",
+        "type": "mcq",
+        "o": [
+            "Accumulated Adjustments Account tracking post-1982 S corp income",
+            "Asset account",
+            "Liability account",
+            "No such account"
+        ]
+    },
+    {
+        "q": "AAA tracks S corporation ______ and losses.",
+        "type": "fill_blank",
+        "answers": [
+            "income"
+        ],
+        "other_options": [
+            "assets",
+            "liabilities",
+            "equity"
+        ]
+    },
+    {
+        "q": "What is S corporation E&P?",
+        "type": "mcq",
+        "o": [
+            "Earnings and Profits from C corporation years",
+            "S corporation income",
+            "No E&P",
+            "Asset account"
+        ]
+    },
+    {
+        "q": "E&P distributions are taxed as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "dividends"
+        ],
+        "other_options": [
+            "capital gains",
+            "return of basis",
+            "not taxable"
+        ]
+    },
+    {
+        "q": "What is partnership special allocation?",
+        "type": "mcq",
+        "o": [
+            "Allocation of income, gain, or loss different from ownership percentage",
+            "Equal allocation",
+            "No allocation",
+            "Automatic allocation"
+        ]
+    },
+    {
+        "q": "Special allocations must have substantial ______ effect.",
+        "type": "fill_blank",
+        "answers": [
+            "economic"
+        ],
+        "other_options": [
+            "tax",
+            "legal",
+            "paper"
+        ]
+    },
+    {
+        "q": "What is partnership Section 754 election?",
+        "type": "mcq",
+        "o": [
+            "Election to adjust inside basis on transfer of partnership interest",
+            "No adjustment",
+            "Automatic election",
+            "Required election"
+        ]
+    },
+    {
+        "q": "Section 754 allows ______ basis adjustment.",
+        "type": "fill_blank",
+        "answers": [
+            "optional"
+        ],
+        "other_options": [
+            "required",
+            "prohibited",
+            "automatic"
+        ]
+    },
+    {
+        "q": "What is Section 743(b) adjustment?",
+        "type": "mcq",
+        "o": [
+            "Adjustment to inside basis when partnership interest is purchased",
+            "Outside basis only",
+            "No adjustment",
+            "Automatic adjustment"
+        ]
+    },
+    {
+        "q": "Section 743(b) adjusts the ______ basis of partnership assets.",
+        "type": "fill_blank",
+        "answers": [
+            "inside"
+        ],
+        "other_options": [
+            "outside",
+            "total",
+            "fair"
+        ]
+    },
+    {
+        "q": "What is Section 734(b) adjustment?",
+        "type": "mcq",
+        "o": [
+            "Adjustment to inside basis following certain distributions",
+            "Outside basis",
+            "No adjustment",
+            "Automatic"
+        ]
+    },
+    {
+        "q": "Section 734(b) applies when property is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "distributed"
+        ],
+        "other_options": [
+            "sold",
+            "contributed",
+            "purchased"
+        ]
+    },
+    {
+        "q": "What is partnership termination?",
+        "type": "mcq",
+        "o": [
+            "Partnership ends when business ceases or fewer than 2 partners remain",
+            "Never terminates",
+            "Automatic each year",
+            "50% sale triggers"
+        ]
+    },
+    {
+        "q": "Technical termination was eliminated by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "TCJA"
+        ],
+        "other_options": [
+            "ATRA",
+            "ACA",
+            "SECURE Act"
+        ]
+    },
+    {
+        "q": "What is disguised sale?",
+        "type": "mcq",
+        "o": [
+            "Contribution followed by distribution treated as sale",
+            "Normal contribution",
+            "Normal distribution",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "Disguised sale rules are in Section ______.",
+        "type": "fill_blank",
+        "answers": [
+            "707"
+        ],
+        "other_options": [
+            "721",
+            "731",
+            "751"
+        ]
+    },
+    {
+        "q": "What is mixing bowl transaction?",
+        "type": "mcq",
+        "o": [
+            "Distribution of property to partner who didn't contribute it within 7 years",
+            "Normal distribution",
+            "Contribution",
+            "No such rule"
+        ]
+    },
+    {
+        "q": "Mixing bowl rules prevent ______ recognition.",
+        "type": "fill_blank",
+        "answers": [
+            "gain deferral"
+        ],
+        "other_options": [
+            "loss",
+            "income",
+            "all"
+        ]
+    },
+    {
+        "q": "Rearrange partnership formation steps:",
+        "type": "rearrange",
+        "words": [
+            "Contribute property",
+            "Receive interest",
+            "Determine basis",
+            "Allocate income",
+            "Report on K-1"
+        ]
+    },
+    {
+        "q": "What is boot in corporate formation?",
+        "type": "mcq",
+        "o": [
+            "Non-stock property received that triggers gain recognition",
+            "Stock received",
+            "No gain",
+            "Loss"
+        ]
+    },
+    {
+        "q": "Boot in Section 351 causes gain to the extent of ______ received.",
+        "type": "fill_blank",
+        "answers": [
+            "boot"
+        ],
+        "other_options": [
+            "stock",
+            "property",
+            "basis"
+        ]
+    },
+    {
+        "q": "What is Section 338 election?",
+        "type": "mcq",
+        "o": [
+            "Election to treat stock purchase as asset acquisition for tax purposes",
+            "Stock purchase only",
+            "No election",
+            "Automatic"
+        ]
+    },
+    {
+        "q": "Section 338(h)(10) is commonly used for S corporation ______.",
+        "type": "fill_blank",
+        "answers": [
+            "acquisitions"
+        ],
+        "other_options": [
+            "formations",
+            "distributions",
+            "liquidations"
+        ]
+    },
+    {
+        "q": "What is Section 332 liquidation?",
+        "type": "mcq",
+        "o": [
+            "Tax-free liquidation of subsidiary into parent",
+            "Taxable liquidation",
+            "Formation",
+            "Acquisition"
+        ]
+    },
+    {
+        "q": "Section 332 requires ______% ownership by parent.",
+        "type": "fill_blank",
+        "answers": [
+            "80"
+        ],
+        "other_options": [
+            "50",
+            "51",
+            "100"
+        ]
+    },
+    {
+        "q": "What is Section 336 gain recognition?",
+        "type": "mcq",
+        "o": [
+            "Corporation recognizes gain on distribution of appreciated property in liquidation",
+            "No gain recognition",
+            "Loss only",
+            "Deferral"
+        ]
+    },
+    {
+        "q": "Section 336 treats liquidating distribution as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "sale"
+        ],
+        "other_options": [
+            "gift",
+            "dividend",
+            "return"
+        ]
+    },
+    {
+        "q": "What is consolidated return?",
+        "type": "mcq",
+        "o": [
+            "Single return for affiliated group of corporations",
+            "Separate returns",
+            "Partnership return",
+            "Individual return"
+        ]
+    },
+    {
+        "q": "Consolidated returns require ______% common ownership.",
+        "type": "fill_blank",
+        "answers": [
+            "80"
+        ],
+        "other_options": [
+            "50",
+            "51",
+            "100"
+        ]
+    },
+    {
+        "q": "What is intercompany transaction?",
+        "type": "mcq",
+        "o": [
+            "Transaction between members of consolidated group",
+            "Third-party sale",
+            "Public transaction",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "Intercompany gain is ______ until triggered.",
+        "type": "fill_blank",
+        "answers": [
+            "deferred"
+        ],
+        "other_options": [
+            "recognized",
+            "eliminated",
+            "doubled"
+        ]
+    },
+    {
+        "q": "What is domestic production activities deduction?",
+        "type": "mcq",
+        "o": [
+            "Former deduction repealed and replaced by Section 199A",
+            "Current deduction",
+            "International deduction",
+            "No such deduction"
+        ]
+    },
+    {
+        "q": "Section 199 was repealed by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "TCJA"
+        ],
+        "other_options": [
+            "ATRA",
+            "ACA",
+            "PATH Act"
+        ]
+    },
+    {
+        "q": "What is GILTI?",
+        "type": "mcq",
+        "o": [
+            "Global Intangible Low-Taxed Income - US tax on foreign subsidiary income",
+            "Domestic income",
+            "Capital gains",
+            "No such rule"
+        ]
+    },
+    {
+        "q": "GILTI applies to ______ of controlled foreign corporations.",
+        "type": "fill_blank",
+        "answers": [
+            "US shareholders"
+        ],
+        "other_options": [
+            "foreign owners",
+            "employees",
+            "creditors"
+        ]
+    },
+    {
+        "q": "What is FDII?",
+        "type": "mcq",
+        "o": [
+            "Foreign-Derived Intangible Income deduction",
+            "Foreign tax",
+            "Domestic income",
+            "Capital gains"
+        ]
+    },
+    {
+        "q": "FDII encourages keeping ______ in the US.",
+        "type": "fill_blank",
+        "answers": [
+            "intangibles"
+        ],
+        "other_options": [
+            "property",
+            "employees",
+            "inventory"
+        ]
+    },
+    {
+        "q": "What is BEAT?",
+        "type": "mcq",
+        "o": [
+            "Base Erosion and Anti-Abuse Tax on certain payments to foreign affiliates",
+            "Domestic tax",
+            "Individual tax",
+            "No such tax"
+        ]
+    },
+    {
+        "q": "BEAT applies to corporations with gross receipts exceeding $______ million.",
+        "type": "fill_blank",
+        "answers": [
+            "500"
+        ],
+        "other_options": [
+            "100",
+            "250",
+            "1,000"
+        ]
+    },
+    {
+        "q": "What is Subpart F income?",
+        "type": "mcq",
+        "o": [
+            "Passive and certain other income of CFCs taxed currently to US shareholders",
+            "Active income",
+            "Domestic income",
+            "No such rule"
+        ]
+    },
+    {
+        "q": "Subpart F prevents ______ of passive income offshore.",
+        "type": "fill_blank",
+        "answers": [
+            "deferral"
+        ],
+        "other_options": [
+            "taxation",
+            "recognition",
+            "reporting"
+        ]
+    },
+    {
+        "q": "What is foreign tax credit?",
+        "type": "mcq",
+        "o": [
+            "Credit for foreign taxes paid to avoid double taxation",
+            "Deduction only",
+            "No relief",
+            "Exemption"
+        ]
+    },
+    {
+        "q": "Foreign tax credit is limited to ______ attributable to foreign income.",
+        "type": "fill_blank",
+        "answers": [
+            "US tax"
+        ],
+        "other_options": [
+            "foreign tax",
+            "total tax",
+            "state tax"
+        ]
+    },
+    {
+        "q": "What is transfer pricing?",
+        "type": "mcq",
+        "o": [
+            "Pricing of transactions between related parties across borders",
+            "Third-party pricing",
+            "Domestic pricing",
+            "No rules"
+        ]
+    },
+    {
+        "q": "Transfer pricing must be at ______ length.",
+        "type": "fill_blank",
+        "answers": [
+            "arm's"
+        ],
+        "other_options": [
+            "any",
+            "discount",
+            "cost"
+        ]
+    },
+    {
+        "q": "What is Section 482?",
+        "type": "mcq",
+        "o": [
+            "IRS authority to allocate income among related parties",
+            "No authority",
+            "Taxpayer election",
+            "Court rule"
+        ]
+    },
+    {
+        "q": "Section 482 allocations prevent income ______.",
+        "type": "fill_blank",
+        "answers": [
+            "shifting"
+        ],
+        "other_options": [
+            "recognition",
+            "deferral",
+            "reporting"
+        ]
+    },
+    {
+        "q": "What is FBAR?",
+        "type": "mcq",
+        "o": [
+            "Report of foreign bank accounts exceeding $10,000",
+            "Tax return",
+            "Domestic report",
+            "No such form"
+        ]
+    },
+    {
+        "q": "FBAR is filed with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "FinCEN"
+        ],
+        "other_options": [
+            "IRS",
+            "SEC",
+            "DOJ"
+        ]
+    },
+    {
+        "q": "What is FATCA?",
+        "type": "mcq",
+        "o": [
+            "Foreign Account Tax Compliance Act requiring reporting of foreign accounts",
+            "Domestic law",
+            "No such law",
+            "State law"
+        ]
+    },
+    {
+        "q": "FATCA requires foreign banks to report ______ account holders.",
+        "type": "fill_blank",
+        "answers": [
+            "US"
+        ],
+        "other_options": [
+            "foreign",
+            "corporate",
+            "government"
+        ]
+    },
+    {
+        "q": "What is Form 8938?",
+        "type": "mcq",
+        "o": [
+            "Statement of specified foreign financial assets",
+            "FBAR",
+            "Tax return",
+            "Information return"
+        ]
+    },
+    {
+        "q": "Form 8938 is filed with ______ tax return.",
+        "type": "fill_blank",
+        "answers": [
+            "income"
+        ],
+        "other_options": [
+            "FBAR",
+            "gift",
+            "estate"
+        ]
+    },
+    {
+        "q": "What is expatriation tax?",
+        "type": "mcq",
+        "o": [
+            "Tax on covered expatriates giving up US citizenship",
+            "Immigration tax",
+            "No such tax",
+            "Foreign tax"
+        ]
+    },
+    {
+        "q": "Covered expatriates are subject to ______ tax on worldwide assets.",
+        "type": "fill_blank",
+        "answers": [
+            "exit"
+        ],
+        "other_options": [
+            "entry",
+            "no",
+            "reduced"
+        ]
+    },
+    {
+        "q": "What is treaty-based return position?",
+        "type": "mcq",
+        "o": [
+            "Position claiming treaty benefits that overrides Code provisions",
+            "Code position",
+            "No such position",
+            "State position"
+        ]
+    },
+    {
+        "q": "Treaty positions must be disclosed on Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "8833"
+        ],
+        "other_options": [
+            "8938",
+            "8886",
+            "8865"
+        ]
+    },
+    {
+        "q": "What is controlled foreign corporation (CFC)?",
+        "type": "mcq",
+        "o": [
+            "Foreign corporation with US shareholders owning more than 50%",
+            "Any foreign corporation",
+            "Domestic corporation",
+            "No such entity"
+        ]
+    },
+    {
+        "q": "CFC ownership is tested by vote or ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "assets",
+            "income",
+            "employees"
+        ]
+    },
+    {
+        "q": "What is US shareholder for CFC purposes?",
+        "type": "mcq",
+        "o": [
+            "US person owning 10% or more of vote or value",
+            "Any shareholder",
+            "5% shareholder",
+            "1% shareholder"
+        ]
+    },
+    {
+        "q": "US shareholder inclusion is under Section ______.",
+        "type": "fill_blank",
+        "answers": [
+            "951"
+        ],
+        "other_options": [
+            "962",
+            "951A",
+            "956"
+        ]
+    },
+    {
+        "q": "What is passive foreign investment company (PFIC)?",
+        "type": "mcq",
+        "o": [
+            "Foreign corporation with 75% passive income or 50% passive assets",
+            "Active company",
+            "Domestic corporation",
+            "No such entity"
+        ]
+    },
+    {
+        "q": "PFIC rules impose ______ on excess distributions.",
+        "type": "fill_blank",
+        "answers": [
+            "interest charge"
+        ],
+        "other_options": [
+            "no tax",
+            "capital gains",
+            "exemption"
+        ]
+    },
+    {
+        "q": "What is QEF election?",
+        "type": "mcq",
+        "o": [
+            "Qualified electing fund election to avoid PFIC interest charge",
+            "No election",
+            "Automatic treatment",
+            "CFC election"
+        ]
+    },
+    {
+        "q": "QEF treatment includes current income as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ordinary income and capital gain"
+        ],
+        "other_options": [
+            "loss",
+            "deduction",
+            "credit"
+        ]
+    },
+    {
+        "q": "What is mark-to-market election for PFIC?",
+        "type": "mcq",
+        "o": [
+            "Election to recognize gain annually on marketable PFIC stock",
+            "No recognition",
+            "Loss only",
+            "Automatic"
+        ]
+    },
+    {
+        "q": "Mark-to-market applies only to ______ securities.",
+        "type": "fill_blank",
+        "answers": [
+            "marketable"
+        ],
+        "other_options": [
+            "all",
+            "private",
+            "restricted"
+        ]
+    },
+    {
+        "q": "What is Section 956?",
+        "type": "mcq",
+        "o": [
+            "Investment in US property by CFC triggers income inclusion",
+            "No rules",
+            "Deduction",
+            "Credit"
+        ]
+    },
+    {
+        "q": "Section 956 treats CFC ______ to US parent as deemed distribution.",
+        "type": "fill_blank",
+        "answers": [
+            "loans"
+        ],
+        "other_options": [
+            "sales",
+            "purchases",
+            "investments"
+        ]
+    },
+    {
+        "q": "What is branch profits tax?",
+        "type": "mcq",
+        "o": [
+            "Tax on US branch profits of foreign corporations",
+            "No such tax",
+            "State tax",
+            "Individual tax"
+        ]
+    },
+    {
+        "q": "Branch profits tax is ______% (subject to treaty reduction).",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "21",
+            "35"
+        ]
+    },
+    {
+        "q": "What is effectively connected income (ECI)?",
+        "type": "mcq",
+        "o": [
+            "Foreign person's income connected to US trade or business",
+            "All foreign income",
+            "Passive income only",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "ECI is taxed at ______ rates.",
+        "type": "fill_blank",
+        "answers": [
+            "graduated"
+        ],
+        "other_options": [
+            "flat",
+            "zero",
+            "30%"
+        ]
+    },
+    {
+        "q": "What is FDAP income?",
+        "type": "mcq",
+        "o": [
+            "Fixed, Determinable, Annual, Periodical income - passive US source income",
+            "Active income",
+            "Foreign income",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "FDAP is generally subject to ______% withholding.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "21",
+            "10"
+        ]
+    },
+    {
+        "q": "What is inbound transaction?",
+        "type": "mcq",
+        "o": [
+            "Foreign person investing or doing business in US",
+            "US person investing abroad",
+            "Purely domestic",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "Match the transaction type with its description:",
+        "type": "match",
+        "left": [
+            "Inbound",
+            "Outbound",
+            "Offshore"
+        ],
+        "right": [
+            "Foreign person, US activity",
+            "US person, foreign activity",
+            "Foreign to foreign"
+        ]
+    },
+    {
+        "q": "What is outbound transaction?",
+        "type": "mcq",
+        "o": [
+            "US person investing or doing business abroad",
+            "Foreign person in US",
+            "Domestic only",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "Outbound transactions involve ______ of income.",
+        "type": "fill_blank",
+        "answers": [
+            "deferral"
+        ],
+        "other_options": [
+            "immediate taxation",
+            "exemption",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is Section 367?",
+        "type": "mcq",
+        "o": [
+            "Rules on nonrecognition transactions involving foreign corporations",
+            "Domestic rules",
+            "No rules",
+            "State rules"
+        ]
+    },
+    {
+        "q": "Section 367 may require ______ recognition on outbound transfers.",
+        "type": "fill_blank",
+        "answers": [
+            "gain"
+        ],
+        "other_options": [
+            "loss",
+            "nothing",
+            "deduction"
+        ]
+    },
+    {
+        "q": "What is deemed repatriation?",
+        "type": "mcq",
+        "o": [
+            "One-time transition tax on previously deferred foreign earnings under TCJA",
+            "Annual tax",
+            "No such tax",
+            "State tax"
+        ]
+    },
+    {
+        "q": "Deemed repatriation applied to post-1986 ______.",
+        "type": "fill_blank",
+        "answers": [
+            "E&P"
+        ],
+        "other_options": [
+            "income",
+            "assets",
+            "losses"
+        ]
+    },
+    {
+        "q": "What is participation exemption?",
+        "type": "mcq",
+        "o": [
+            "100% DRD for foreign-source dividends from CFCs under TCJA",
+            "No exemption",
+            "Partial exemption",
+            "State exemption"
+        ]
+    },
+    {
+        "q": "Participation exemption requires ______% ownership for 1 year.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "5",
+            "20",
+            "50"
+        ]
+    },
+    {
+        "q": "What is cross-crediting?",
+        "type": "mcq",
+        "o": [
+            "Using excess foreign tax credits from one category in another",
+            "No such concept",
+            "Automatic credit",
+            "State credit"
+        ]
+    },
+    {
+        "q": "Cross-crediting is limited by foreign tax credit ______.",
+        "type": "fill_blank",
+        "answers": [
+            "baskets"
+        ],
+        "other_options": [
+            "forms",
+            "rules",
+            "elections"
+        ]
+    },
+    {
+        "q": "What is sourcing of income?",
+        "type": "mcq",
+        "o": [
+            "Determination of whether income is US or foreign source",
+            "Amount of income",
+            "Type of income",
+            "Timing of income"
+        ]
+    },
+    {
+        "q": "Interest income is sourced based on ______ residence.",
+        "type": "fill_blank",
+        "answers": [
+            "payor's"
+        ],
+        "other_options": [
+            "recipient's",
+            "intermediary's",
+            "bank's"
+        ]
+    },
+    {
+        "q": "What is inventory sales sourcing?",
+        "type": "mcq",
+        "o": [
+            "Based on title passage or production activities",
+            "Where sold",
+            "Where purchased",
+            "Where manufactured only"
+        ]
+    },
+    {
+        "q": "Match the income type with its sourcing rule:",
+        "type": "match",
+        "left": [
+            "Interest",
+            "Dividends",
+            "Inventory sales"
+        ],
+        "right": [
+            "Payor residence",
+            "Paying corporation",
+            "Title passage/production"
+        ]
+    },
+    {
+        "q": "What is income tax treaty?",
+        "type": "mcq",
+        "o": [
+            "Bilateral agreement between countries on taxation of cross-border income",
+            "Domestic law",
+            "State agreement",
+            "No such agreement"
+        ]
+    },
+    {
+        "q": "Treaties generally ______ withholding rates.",
+        "type": "fill_blank",
+        "answers": [
+            "reduce"
+        ],
+        "other_options": [
+            "increase",
+            "eliminate all",
+            "maintain"
+        ]
+    },
+    {
+        "q": "What is permanent establishment?",
+        "type": "mcq",
+        "o": [
+            "Fixed place of business triggering taxing jurisdiction under treaties",
+            "Any office",
+            "No threshold",
+            "Automatic"
+        ]
+    },
+    {
+        "q": "Without PE, business profits are generally not ______.",
+        "type": "fill_blank",
+        "answers": [
+            "taxable"
+        ],
+        "other_options": [
+            "reported",
+            "disclosed",
+            "recognized"
+        ]
+    },
+    {
+        "q": "What is limitation on benefits?",
+        "type": "mcq",
+        "o": [
+            "Treaty provisions preventing treaty shopping",
+            "No limitation",
+            "Automatic benefits",
+            "State provision"
+        ]
+    },
+    {
+        "q": "LOB prevents ______ shopping.",
+        "type": "fill_blank",
+        "answers": [
+            "treaty"
+        ],
+        "other_options": [
+            "rate",
+            "deduction",
+            "credit"
+        ]
+    },
+    {
+        "q": "What is check-the-box election?",
+        "type": "mcq",
+        "o": [
+            "Election to choose entity classification for tax purposes",
+            "No election",
+            "Automatic classification",
+            "State election"
+        ]
+    },
+    {
+        "q": "Check-the-box is made on Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "8832"
+        ],
+        "other_options": [
+            "8833",
+            "8865",
+            "8938"
+        ]
+    },
+    {
+        "q": "What is hybrid entity?",
+        "type": "mcq",
+        "o": [
+            "Entity treated differently in different jurisdictions",
+            "Same treatment everywhere",
+            "No such entity",
+            "Domestic only"
+        ]
+    },
+    {
+        "q": "Hybrids may create ______ inclusion/deduction mismatches.",
+        "type": "fill_blank",
+        "answers": [
+            "double non-taxation"
+        ],
+        "other_options": [
+            "double taxation",
+            "no impact",
+            "benefits"
+        ]
+    },
+    {
+        "q": "What is dual consolidated loss?",
+        "type": "mcq",
+        "o": [
+            "Loss of dual resident corporation that cannot be used in both countries",
+            "Any loss",
+            "No such concept",
+            "State loss"
+        ]
+    },
+    {
+        "q": "DCL rules prevent ______ use of losses.",
+        "type": "fill_blank",
+        "answers": [
+            "double"
+        ],
+        "other_options": [
+            "any",
+            "single",
+            "partial"
+        ]
+    },
+    {
+        "q": "What is BEPS?",
+        "type": "mcq",
+        "o": [
+            "OECD Base Erosion and Profit Shifting initiative",
+            "US legislation",
+            "State initiative",
+            "No such program"
+        ]
+    },
+    {
+        "q": "BEPS addresses cross-border tax ______.",
+        "type": "fill_blank",
+        "answers": [
+            "avoidance"
+        ],
+        "other_options": [
+            "evasion",
+            "compliance",
+            "planning"
+        ]
+    },
+    {
+        "q": "What is country-by-country reporting?",
+        "type": "mcq",
+        "o": [
+            "BEPS requirement for MNEs to report key data by jurisdiction",
+            "No reporting",
+            "Voluntary",
+            "State only"
+        ]
+    },
+    {
+        "q": "CbC reporting is on Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "8975"
+        ],
+        "other_options": [
+            "8865",
+            "5471",
+            "5472"
+        ]
+    },
+    {
+        "q": "What is master file in transfer pricing?",
+        "type": "mcq",
+        "o": [
+            "High-level transfer pricing documentation for MNE group",
+            "Local documentation",
+            "No documentation",
+            "Country file"
+        ]
+    },
+    {
+        "q": "Master file provides ______ overview of MNE operations.",
+        "type": "fill_blank",
+        "answers": [
+            "global"
+        ],
+        "other_options": [
+            "local",
+            "domestic",
+            "state"
+        ]
+    },
+    {
+        "q": "What is local file in transfer pricing?",
+        "type": "mcq",
+        "o": [
+            "Detailed country-specific transfer pricing documentation",
+            "Global overview",
+            "Master file",
+            "CbC report"
+        ]
+    },
+    {
+        "q": "Local file addresses ______ transactions.",
+        "type": "fill_blank",
+        "answers": [
+            "material intercompany"
+        ],
+        "other_options": [
+            "all",
+            "third-party",
+            "none"
+        ]
+    },
+    {
+        "q": "What is advance pricing agreement (APA)?",
+        "type": "mcq",
+        "o": [
+            "Agreement with IRS on transfer pricing methodology",
+            "Audit",
+            "Penalty",
+            "No such agreement"
+        ]
+    },
+    {
+        "q": "APAs provide ______ on transfer pricing positions.",
+        "type": "fill_blank",
+        "answers": [
+            "certainty"
+        ],
+        "other_options": [
+            "no benefit",
+            "penalties",
+            "audits"
+        ]
+    },
+    {
+        "q": "What is qualified intermediary (QI)?",
+        "type": "mcq",
+        "o": [
+            "Foreign financial institution with IRS agreement on withholding",
+            "US bank only",
+            "No such entity",
+            "State entity"
+        ]
+    },
+    {
+        "q": "QIs help with ______ tax withholding.",
+        "type": "fill_blank",
+        "answers": [
+            "US"
+        ],
+        "other_options": [
+            "foreign",
+            "state",
+            "no"
+        ]
+    },
+    {
+        "q": "What is FIRPTA?",
+        "type": "mcq",
+        "o": [
+            "Foreign Investment in Real Property Tax Act - taxing foreign persons on US real estate gains",
+            "No such act",
+            "State law",
+            "Exemption"
+        ]
+    },
+    {
+        "q": "FIRPTA requires ______% withholding on disposition.",
+        "type": "fill_blank",
+        "answers": [
+            "15"
+        ],
+        "other_options": [
+            "10",
+            "30",
+            "35"
+        ]
+    },
+    {
+        "q": "What is USRPI?",
+        "type": "mcq",
+        "o": [
+            "United States Real Property Interest subject to FIRPTA",
+            "Foreign property",
+            "Personal property",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "USRPI includes ______ in US real property holding corporations.",
+        "type": "fill_blank",
+        "answers": [
+            "stock"
+        ],
+        "other_options": [
+            "debt",
+            "options",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is USRPHC?",
+        "type": "mcq",
+        "o": [
+            "US Real Property Holding Corporation with 50%+ USRPI",
+            "Any corporation",
+            "Foreign corporation",
+            "Partnership"
+        ]
+    },
+    {
+        "q": "USRPHC determination is based on fair market ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "cost",
+            "book",
+            "income"
+        ]
+    },
+    {
+        "q": "What is withholding certificate?",
+        "type": "mcq",
+        "o": [
+            "IRS approval to reduce FIRPTA withholding",
+            "Form W-2",
+            "Form 1099",
+            "No such form"
+        ]
+    },
+    {
+        "q": "Withholding certificates may ______ or eliminate withholding.",
+        "type": "fill_blank",
+        "answers": [
+            "reduce"
+        ],
+        "other_options": [
+            "increase",
+            "maintain",
+            "ignore"
+        ]
+    },
+    {
+        "q": "What is certified statement under FIRPTA?",
+        "type": "mcq",
+        "o": [
+            "Seller's statement that they are not a foreign person",
+            "Buyer's statement",
+            "IRS statement",
+            "No statement"
+        ]
+    },
+    {
+        "q": "Certified statements eliminate ______ obligations.",
+        "type": "fill_blank",
+        "answers": [
+            "withholding"
+        ],
+        "other_options": [
+            "reporting",
+            "filing",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is grantor trust rules?",
+        "type": "mcq",
+        "o": [
+            "Rules taxing trust income to grantor under certain conditions",
+            "Beneficiary taxation",
+            "Trustee taxation",
+            "No taxation"
+        ]
+    },
+    {
+        "q": "Grantor trusts are ______ for income tax purposes.",
+        "type": "fill_blank",
+        "answers": [
+            "disregarded"
+        ],
+        "other_options": [
+            "taxed separately",
+            "exempt",
+            "deferred"
+        ]
+    },
+    {
+        "q": "What is simple trust?",
+        "type": "mcq",
+        "o": [
+            "Trust required to distribute all income currently",
+            "Complex trust",
+            "Grantor trust",
+            "No such trust"
+        ]
+    },
+    {
+        "q": "Simple trusts receive ______ exemption.",
+        "type": "fill_blank",
+        "answers": [
+            "$300"
+        ],
+        "other_options": [
+            "$100",
+            "$600",
+            "$4,150"
+        ]
+    },
+    {
+        "q": "What is complex trust?",
+        "type": "mcq",
+        "o": [
+            "Trust that may accumulate income or distribute corpus or make charitable gifts",
+            "Simple trust",
+            "Grantor trust",
+            "No such trust"
+        ]
+    },
+    {
+        "q": "Complex trusts receive $______ exemption.",
+        "type": "fill_blank",
+        "answers": [
+            "100"
+        ],
+        "other_options": [
+            "300",
+            "600",
+            "4,150"
+        ]
+    },
+    {
+        "q": "What is distributable net income (DNI)?",
+        "type": "mcq",
+        "o": [
+            "Maximum amount taxable to beneficiaries and deductible by trust",
+            "Taxable income",
+            "Gross income",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "DNI determines the ______ of distributions.",
+        "type": "fill_blank",
+        "answers": [
+            "character"
+        ],
+        "other_options": [
+            "amount",
+            "timing",
+            "source"
+        ]
+    },
+    {
+        "q": "What is trust income distribution deduction?",
+        "type": "mcq",
+        "o": [
+            "Deduction for income distributed to beneficiaries",
+            "No deduction",
+            "Credit",
+            "Exemption"
+        ]
+    },
+    {
+        "q": "Distribution deduction is limited to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "DNI"
+        ],
+        "other_options": [
+            "gross income",
+            "taxable income",
+            "corpus"
+        ]
+    },
+    {
+        "q": "What is throwback rule?",
+        "type": "mcq",
+        "o": [
+            "Taxing accumulated trust income when distributed in later years",
+            "No such rule",
+            "Current year rule",
+            "Exemption"
+        ]
+    },
+    {
+        "q": "Throwback applies to ______ distributions.",
+        "type": "fill_blank",
+        "answers": [
+            "accumulation"
+        ],
+        "other_options": [
+            "current",
+            "all",
+            "no"
+        ]
+    },
+    {
+        "q": "What is estate income taxation?",
+        "type": "mcq",
+        "o": [
+            "Taxation of income earned during estate administration",
+            "Estate tax",
+            "Gift tax",
+            "No taxation"
+        ]
+    },
+    {
+        "q": "Estates receive $______ exemption.",
+        "type": "fill_blank",
+        "answers": [
+            "600"
+        ],
+        "other_options": [
+            "100",
+            "300",
+            "4,150"
+        ]
+    },
+    {
+        "q": "What is IRD (income in respect of decedent)?",
+        "type": "mcq",
+        "o": [
+            "Income earned by decedent but received after death",
+            "Estate income",
+            "Trust income",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "IRD does not receive stepped-up ______.",
+        "type": "fill_blank",
+        "answers": [
+            "basis"
+        ],
+        "other_options": [
+            "value",
+            "treatment",
+            "rate"
+        ]
+    },
+    {
+        "q": "What is Section 645 election?",
+        "type": "mcq",
+        "o": [
+            "Election to treat revocable trust as part of estate for tax purposes",
+            "No election",
+            "Automatic",
+            "State election"
+        ]
+    },
+    {
+        "q": "Section 645 allows combined ______ filing.",
+        "type": "fill_blank",
+        "answers": [
+            "return"
+        ],
+        "other_options": [
+            "asset",
+            "liability",
+            "income"
+        ]
+    },
+    {
+        "q": "What is fiduciary accounting income?",
+        "type": "mcq",
+        "o": [
+            "Income determined under trust document and state law",
+            "Tax income",
+            "Gross income",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "Fiduciary income differs from ______ income.",
+        "type": "fill_blank",
+        "answers": [
+            "taxable"
+        ],
+        "other_options": [
+            "gross",
+            "net",
+            "book"
+        ]
+    },
+    {
+        "q": "Rearrange entity tax forms by complexity:",
+        "type": "rearrange",
+        "words": [
+            "Schedule C",
+            "Form 1065",
+            "Form 1120-S",
+            "Form 1120",
+            "Form 1041"
+        ]
+    },
+    {
+        "q": "What is Schedule K-1?",
+        "type": "mcq",
+        "o": [
+            "Form reporting partner/shareholder/beneficiary share of entity items",
+            "Tax return",
+            "Information return",
+            "1099"
+        ]
+    },
+    {
+        "q": "K-1 is issued by pass-through ______.",
+        "type": "fill_blank",
+        "answers": [
+            "entities"
+        ],
+        "other_options": [
+            "individuals",
+            "employers",
+            "banks"
+        ]
+    },
+    {
+        "q": "What is centralized partnership audit regime?",
+        "type": "mcq",
+        "o": [
+            "IRS audits partnership at entity level with adjustments collected from partnership",
+            "Partner-level audit",
+            "No audit",
+            "State audit"
+        ]
+    },
+    {
+        "q": "The audit regime applies to partnerships with ______ or more partners.",
+        "type": "fill_blank",
+        "answers": [
+            "100"
+        ],
+        "other_options": [
+            "10",
+            "50",
+            "all"
+        ]
+    },
+    {
+        "q": "What is partnership representative?",
+        "type": "mcq",
+        "o": [
+            "Person designated to act on partnership's behalf for IRS audits",
+            "Partner only",
+            "Attorney only",
+            "Accountant only"
+        ]
+    },
+    {
+        "q": "Partnership representative has ______ authority in audit.",
+        "type": "fill_blank",
+        "answers": [
+            "sole"
+        ],
+        "other_options": [
+            "limited",
+            "no",
+            "shared"
+        ]
+    },
+    {
+        "q": "What is push-out election?",
+        "type": "mcq",
+        "o": [
+            "Election to shift partnership adjustments to reviewed year partners",
+            "Entity payment",
+            "No election",
+            "Current year"
+        ]
+    },
+    {
+        "q": "Push-out allows ______ to bear adjustment burden.",
+        "type": "fill_blank",
+        "answers": [
+            "partners"
+        ],
+        "other_options": [
+            "partnership",
+            "IRS",
+            "third parties"
+        ]
+    },
+    {
+        "q": "What is imputed underpayment?",
+        "type": "mcq",
+        "o": [
+            "Amount partnership owes for adjustments under centralized audit",
+            "Partner payment",
+            "No payment",
+            "State payment"
+        ]
+    },
+    {
+        "q": "Imputed underpayment is calculated at the ______ rate.",
+        "type": "fill_blank",
+        "answers": [
+            "highest individual"
+        ],
+        "other_options": [
+            "corporate",
+            "capital gains",
+            "zero"
+        ]
+    },
+    {
+        "q": "What is modification of imputed underpayment?",
+        "type": "mcq",
+        "o": [
+            "Process to reduce imputed underpayment based on partner characteristics",
+            "Increase payment",
+            "No modification",
+            "State modification"
+        ]
+    },
+    {
+        "q": "Modification considers partners' ______ tax status.",
+        "type": "fill_blank",
+        "answers": [
+            "actual"
+        ],
+        "other_options": [
+            "estimated",
+            "future",
+            "no"
+        ]
+    },
+    {
+        "q": "What is administrative adjustment request (AAR)?",
+        "type": "mcq",
+        "o": [
+            "Partnership's request to IRS to adjust prior year items",
+            "Audit",
+            "Appeal",
+            "No such request"
+        ]
+    },
+    {
+        "q": "AAR is the partnership ______ return.",
+        "type": "fill_blank",
+        "answers": [
+            "amended"
+        ],
+        "other_options": [
+            "original",
+            "final",
+            "first"
+        ]
+    },
+    {
+        "q": "What is BBA partnership?",
+        "type": "mcq",
+        "o": [
+            "Partnership subject to Bipartisan Budget Act audit rules",
+            "Exempt partnership",
+            "S corporation",
+            "LLC only"
+        ]
+    },
+    {
+        "q": "Most partnerships are subject to ______ audit rules.",
+        "type": "fill_blank",
+        "answers": [
+            "BBA"
+        ],
+        "other_options": [
+            "TEFRA",
+            "old",
+            "no"
+        ]
+    },
+    {
+        "q": "What is election out of BBA?",
+        "type": "mcq",
+        "o": [
+            "Small partnerships electing out of centralized audit regime",
+            "Large partnership",
+            "No election",
+            "Mandatory"
+        ]
+    },
+    {
+        "q": "Election out requires ______ or fewer qualifying partners.",
+        "type": "fill_blank",
+        "answers": [
+            "100"
+        ],
+        "other_options": [
+            "50",
+            "10",
+            "500"
+        ]
+    },
+    {
+        "q": "What is qualifying partner for BBA election out?",
+        "type": "mcq",
+        "o": [
+            "Individuals, C corporations, S corporations, or estates of deceased partners",
+            "Any partner",
+            "Only individuals",
+            "Only corporations"
+        ]
+    },
+    {
+        "q": "Partnerships and trusts are not ______ partners.",
+        "type": "fill_blank",
+        "answers": [
+            "qualifying"
+        ],
+        "other_options": [
+            "allowed",
+            "limited",
+            "general"
+        ]
+    },
+    {
+        "q": "What is penalty for tax-motivated transaction?",
+        "type": "mcq",
+        "o": [
+            "20% penalty on underpayment from certain tax-motivated positions",
+            "No penalty",
+            "5% penalty",
+            "Criminal penalty"
+        ]
+    },
+    {
+        "q": "Tax-motivated penalties are part of ______ penalties.",
+        "type": "fill_blank",
+        "answers": [
+            "accuracy-related"
+        ],
+        "other_options": [
+            "fraud",
+            "late filing",
+            "criminal"
+        ]
+    },
+    {
+        "q": "What is valuation misstatement?",
+        "type": "mcq",
+        "o": [
+            "Incorrect valuation affecting tax liability",
+            "Correct valuation",
+            "No misstatement",
+            "State issue"
+        ]
+    },
+    {
+        "q": "Substantial valuation misstatement penalty is ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "20"
+        ],
+        "other_options": [
+            "40",
+            "75",
+            "10"
+        ]
+    },
+    {
+        "q": "What is gross valuation misstatement?",
+        "type": "mcq",
+        "o": [
+            "200% or more overstatement resulting in 40% penalty",
+            "Any overstatement",
+            "50% overstatement",
+            "No penalty"
+        ]
+    },
+    {
+        "q": "Gross valuation misstatement penalty is ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "40"
+        ],
+        "other_options": [
+            "20",
+            "75",
+            "100"
+        ]
+    },
+    {
+        "q": "What is negligence in tax context?",
+        "type": "mcq",
+        "o": [
+            "Failure to make reasonable attempt to comply with tax law",
+            "Fraud",
+            "No penalty",
+            "Criminal act"
+        ]
+    },
+    {
+        "q": "Negligence penalty is ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "20"
+        ],
+        "other_options": [
+            "5",
+            "10",
+            "75"
+        ]
+    },
+    {
+        "q": "What is disregard of rules?",
+        "type": "mcq",
+        "o": [
+            "Any careless, reckless, or intentional disregard of rules or regulations",
+            "Negligence only",
+            "No penalty",
+            "Fraud"
+        ]
+    },
+    {
+        "q": "Disregard penalty is part of ______ penalties.",
+        "type": "fill_blank",
+        "answers": [
+            "accuracy-related"
+        ],
+        "other_options": [
+            "fraud",
+            "late",
+            "criminal"
+        ]
+    },
+    {
+        "q": "What is preparer due diligence?",
+        "type": "mcq",
+        "o": [
+            "Standards for tax return preparers for certain credits",
+            "No standards",
+            "Taxpayer responsibility",
+            "IRS responsibility"
+        ]
+    },
+    {
+        "q": "Preparer due diligence applies to EITC, CTC, AOTC, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "HOH status"
+        ],
+        "other_options": [
+            "all credits",
+            "no credits",
+            "AMT"
+        ]
+    },
+    {
+        "q": "What is Section 6695(g) penalty?",
+        "type": "mcq",
+        "o": [
+            "Penalty for failure to meet due diligence requirements",
+            "Taxpayer penalty",
+            "Fraud penalty",
+            "No penalty"
+        ]
+    },
+    {
+        "q": "Section 6695(g) penalty is $______ per failure.",
+        "type": "fill_blank",
+        "answers": [
+            "560"
+        ],
+        "other_options": [
+            "100",
+            "250",
+            "1,000"
+        ]
+    },
+    {
+        "q": "What is PTIN?",
+        "type": "mcq",
+        "o": [
+            "Preparer Tax Identification Number required for compensated preparers",
+            "Social Security Number",
+            "EIN",
+            "No number needed"
+        ]
+    },
+    {
+        "q": "PTIN must be renewed ______.",
+        "type": "fill_blank",
+        "answers": [
+            "annually"
+        ],
+        "other_options": [
+            "monthly",
+            "never",
+            "every 5 years"
+        ]
+    },
+    {
+        "q": "What is signing preparer?",
+        "type": "mcq",
+        "o": [
+            "Preparer primarily responsible for overall accuracy of return",
+            "Any preparer",
+            "Taxpayer",
+            "IRS agent"
+        ]
+    },
+    {
+        "q": "Signing preparer must include ______ on return.",
+        "type": "fill_blank",
+        "answers": [
+            "PTIN"
+        ],
+        "other_options": [
+            "SSN",
+            "EIN",
+            "license"
+        ]
+    },
+    {
+        "q": "What is nonsigning preparer?",
+        "type": "mcq",
+        "o": [
+            "Preparer who contributes substantially but doesn't sign",
+            "Signing preparer",
+            "Taxpayer",
+            "No such category"
+        ]
+    },
+    {
+        "q": "Nonsigning preparers also need ______.",
+        "type": "fill_blank",
+        "answers": [
+            "PTINs"
+        ],
+        "other_options": [
+            "nothing",
+            "signatures",
+            "degrees"
+        ]
+    },
+    {
+        "q": "What is frivolous return?",
+        "type": "mcq",
+        "o": [
+            "Return based on frivolous position to impede tax administration",
+            "Normal return",
+            "Amended return",
+            "Late return"
+        ]
+    },
+    {
+        "q": "Frivolous return penalty is $______.",
+        "type": "fill_blank",
+        "answers": [
+            "5,000"
+        ],
+        "other_options": [
+            "500",
+            "1,000",
+            "10,000"
+        ]
+    },
+    {
+        "q": "What is injunction against preparer?",
+        "type": "mcq",
+        "o": [
+            "Court order prohibiting preparer from preparing returns",
+            "IRS notice",
+            "Penalty",
+            "No such action"
+        ]
+    },
+    {
+        "q": "Injunctions are sought for ______ misconduct.",
+        "type": "fill_blank",
+        "answers": [
+            "ongoing"
+        ],
+        "other_options": [
+            "past",
+            "minor",
+            "no"
+        ]
+    },
+    {
+        "q": "What is Kovel arrangement?",
+        "type": "mcq",
+        "o": [
+            "Arrangement where accountant works under attorney direction for privilege",
+            "Normal engagement",
+            "IRS arrangement",
+            "Court order"
+        ]
+    },
+    {
+        "q": "Kovel provides limited ______ protection.",
+        "type": "fill_blank",
+        "answers": [
+            "privilege"
+        ],
+        "other_options": [
+            "penalty",
+            "liability",
+            "fee"
+        ]
+    },
+    {
+        "q": "What is Section 7525 federally authorized tax practitioner privilege?",
+        "type": "mcq",
+        "o": [
+            "Limited privilege for communications with CPAs, enrolled agents, etc.",
+            "Full attorney privilege",
+            "No privilege",
+            "State privilege"
+        ]
+    },
+    {
+        "q": "Section 7525 does not apply to ______ matters.",
+        "type": "fill_blank",
+        "answers": [
+            "criminal"
+        ],
+        "other_options": [
+            "civil",
+            "tax",
+            "audit"
+        ]
+    },
+    {
+        "q": "What is work product doctrine?",
+        "type": "mcq",
+        "o": [
+            "Protection for materials prepared in anticipation of litigation",
+            "No protection",
+            "Automatic disclosure",
+            "Client privilege"
+        ]
+    },
+    {
+        "q": "Work product protects attorney ______ impressions.",
+        "type": "fill_blank",
+        "answers": [
+            "mental"
+        ],
+        "other_options": [
+            "written",
+            "oral",
+            "no"
+        ]
+    },
+    {
+        "q": "What is CPA-client privilege?",
+        "type": "mcq",
+        "o": [
+            "State-law privilege not recognized in federal court",
+            "Federal privilege",
+            "Automatic privilege",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "Federal courts generally do not recognize CPA ______.",
+        "type": "fill_blank",
+        "answers": [
+            "privilege"
+        ],
+        "other_options": [
+            "testimony",
+            "evidence",
+            "work"
+        ]
+    },
+    {
+        "q": "What is aiding and abetting penalty?",
+        "type": "mcq",
+        "o": [
+            "Penalty for assisting in preparation of false return",
+            "Preparer penalty only",
+            "No penalty",
+            "Taxpayer penalty"
+        ]
+    },
+    {
+        "q": "Aiding and abetting penalty is $______ per return.",
+        "type": "fill_blank",
+        "answers": [
+            "1,000"
+        ],
+        "other_options": [
+            "500",
+            "5,000",
+            "10,000"
+        ]
+    },
+    {
+        "q": "What is promoting abusive tax shelter?",
+        "type": "mcq",
+        "o": [
+            "Organizing or selling interests in abusive tax shelters",
+            "Legal planning",
+            "Normal business",
+            "No such concept"
+        ]
+    },
+    {
+        "q": "Promoter penalty equals ______% of gross income from activity.",
+        "type": "fill_blank",
+        "answers": [
+            "100"
+        ],
+        "other_options": [
+            "50",
+            "75",
+            "200"
+        ]
+    },
+    {
+        "q": "What is material advisor?",
+        "type": "mcq",
+        "o": [
+            "Person providing material aid in reportable transaction",
+            "Any advisor",
+            "Taxpayer",
+            "IRS agent"
+        ]
+    },
+    {
+        "q": "Material advisors must file Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "8918"
+        ],
+        "other_options": [
+            "8886",
+            "8938",
+            "8865"
+        ]
+    },
+    {
+        "q": "What is tax opinion?",
+        "type": "mcq",
+        "o": [
+            "Written advice regarding federal tax treatment of transaction",
+            "Oral advice",
+            "No advice",
+            "State opinion"
+        ]
+    },
+    {
+        "q": "Covered opinions have ______ requirements.",
+        "type": "fill_blank",
+        "answers": [
+            "special"
+        ],
+        "other_options": [
+            "no",
+            "minimal",
+            "state"
+        ]
+    },
+    {
+        "q": "What is reliance opinion?",
+        "type": "mcq",
+        "o": [
+            "Opinion concluding at confidence level that tax treatment is proper",
+            "No conclusion",
+            "Disclaimer",
+            "Limited opinion"
+        ]
+    },
+    {
+        "q": "More likely than not opinions require greater than ______% confidence.",
+        "type": "fill_blank",
+        "answers": [
+            "50"
+        ],
+        "other_options": [
+            "25",
+            "33",
+            "75"
+        ]
+    },
+    {
+        "q": "What is marketed opinion?",
+        "type": "mcq",
+        "o": [
+            "Opinion used in promoting tax shelter to multiple persons",
+            "Single-use opinion",
+            "No opinion",
+            "Internal opinion"
+        ]
+    },
+    {
+        "q": "Marketed opinions are subject to ______ scrutiny.",
+        "type": "fill_blank",
+        "answers": [
+            "heightened"
+        ],
+        "other_options": [
+            "no",
+            "reduced",
+            "normal"
+        ]
+    },
+    {
+        "q": "What is OPR disciplinary proceeding?",
+        "type": "mcq",
+        "o": [
+            "IRS Office of Professional Responsibility action against practitioners",
+            "Court action",
+            "State action",
+            "No action"
+        ]
+    },
+    {
+        "q": "OPR can ______ practitioners from IRS practice.",
+        "type": "fill_blank",
+        "answers": [
+            "suspend or disbar"
+        ],
+        "other_options": [
+            "reward",
+            "promote",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is censure in OPR?",
+        "type": "mcq",
+        "o": [
+            "Public reprimand without suspension",
+            "Suspension",
+            "Disbarment",
+            "No action"
+        ]
+    },
+    {
+        "q": "Censure is a ______ sanction than suspension.",
+        "type": "fill_blank",
+        "answers": [
+            "lesser"
+        ],
+        "other_options": [
+            "greater",
+            "same",
+            "unrelated"
+        ]
+    },
+    {
+        "q": "Rearrange penalty amounts from lowest to highest:",
+        "type": "rearrange",
+        "words": [
+            "$100 (late K-1)",
+            "$250 (late 1099)",
+            "$560 (due diligence)",
+            "$1,000 (aiding)",
+            "$5,000 (frivolous)"
+        ]
+    },
+    {
+        "q": "What is monetary penalty under Circular 230?",
+        "type": "mcq",
+        "o": [
+            "Civil penalty for violations of practice standards",
+            "Criminal penalty",
+            "No penalty",
+            "State penalty"
+        ]
+    },
+    {
+        "q": "Circular 230 monetary penalty can be up to $______ per return.",
+        "type": "fill_blank",
+        "answers": [
+            "50,000"
+        ],
+        "other_options": [
+            "10,000",
+            "100,000",
+            "1,000"
+        ]
+    },
+    {
+        "q": "What is willfulness in tax crime?",
+        "type": "mcq",
+        "o": [
+            "Voluntary, intentional violation of known legal duty",
+            "Negligence",
+            "Mistake",
+            "Error"
+        ]
+    },
+    {
+        "q": "Willfulness is required for ______ tax charges.",
+        "type": "fill_blank",
+        "answers": [
+            "criminal"
+        ],
+        "other_options": [
+            "civil",
+            "administrative",
+            "no"
+        ]
+    },
+    {
+        "q": "What is tax evasion?",
+        "type": "mcq",
+        "o": [
+            "Willful attempt to evade or defeat tax - felony",
+            "Civil violation",
+            "Negligence",
+            "Not a crime"
+        ]
+    },
+    {
+        "q": "Tax evasion is punishable by up to ______ years in prison.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "1",
+            "3",
+            "10"
+        ]
+    },
+    {
+        "q": "What is fraud and false statements?",
+        "type": "mcq",
+        "o": [
+            "Making false material statements to IRS - felony",
+            "Civil penalty only",
+            "Misdemeanor",
+            "No violation"
+        ]
+    },
+    {
+        "q": "Section 7206 fraud carries up to ______ years imprisonment.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "1",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "q": "What is failure to file tax return crime?",
+        "type": "mcq",
+        "o": [
+            "Willful failure to file - misdemeanor",
+            "Felony",
+            "Civil only",
+            "No crime"
+        ]
+    },
+    {
+        "q": "Willful failure to file carries up to ______ year imprisonment.",
+        "type": "fill_blank",
+        "answers": [
+            "1"
+        ],
+        "other_options": [
+            "3",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "q": "What is tax preparer crime?",
+        "type": "mcq",
+        "o": [
+            "Various crimes for fraudulent return preparation",
+            "Civil only",
+            "No crime",
+            "State crime only"
+        ]
+    },
+    {
+        "q": "Preparer crimes include aiding false returns under Section ______.",
+        "type": "fill_blank",
+        "answers": [
+            "7206(2)"
+        ],
+        "other_options": [
+            "7201",
+            "7203",
+            "7211"
+        ]
+    },
+    {
+        "q": "What is conspiracy to defraud?",
+        "type": "mcq",
+        "o": [
+            "Agreement between two or more persons to defraud the US",
+            "Single person crime",
+            "Civil violation",
+            "No such crime"
+        ]
+    },
+    {
+        "q": "Conspiracy is punishable by up to ______ years imprisonment.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "1",
+            "3",
+            "10"
+        ]
+    },
+    {
+        "q": "What is money laundering in tax context?",
+        "type": "mcq",
+        "o": [
+            "Using illegal funds through transactions to appear legitimate",
+            "Legal transaction",
+            "Tax planning",
+            "Refund claim"
+        ]
+    },
+    {
+        "q": "Money laundering carries penalties up to ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "20"
+        ],
+        "other_options": [
+            "5",
+            "10",
+            "life"
+        ]
+    },
+    {
+        "q": "What is structuring?",
+        "type": "mcq",
+        "o": [
+            "Breaking transactions into smaller amounts to avoid reporting",
+            "Legal planning",
+            "Tax strategy",
+            "Normal banking"
+        ]
+    },
+    {
+        "q": "Structuring is illegal even if funds are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "legal"
+        ],
+        "other_options": [
+            "illegal",
+            "foreign",
+            "cash"
+        ]
+    },
+    {
+        "q": "What is voluntary disclosure?",
+        "type": "mcq",
+        "o": [
+            "Taxpayer's proactive disclosure of past tax violations",
+            "Mandatory disclosure",
+            "Audit response",
+            "No such program"
+        ]
+    },
+    {
+        "q": "Voluntary disclosure may reduce ______ exposure.",
+        "type": "fill_blank",
+        "answers": [
+            "criminal"
+        ],
+        "other_options": [
+            "civil",
+            "no",
+            "all"
+        ]
+    },
+    {
+        "q": "What is Streamlined Filing Compliance?",
+        "type": "mcq",
+        "o": [
+            "IRS program for taxpayers certifying non-willful foreign account violations",
+            "Criminal program",
+            "Audit program",
+            "No such program"
+        ]
+    },
+    {
+        "q": "Streamlined requires certification of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "non-willfulness"
+        ],
+        "other_options": [
+            "willfulness",
+            "fraud",
+            "ignorance"
+        ]
+    },
+    {
+        "q": "What is delinquent FBAR submission?",
+        "type": "mcq",
+        "o": [
+            "Filing late FBARs with reasonable cause",
+            "Criminal filing",
+            "Mandatory audit",
+            "No such option"
+        ]
+    },
+    {
+        "q": "Delinquent FBAR may avoid ______ if reasonable cause.",
+        "type": "fill_blank",
+        "answers": [
+            "penalties"
+        ],
+        "other_options": [
+            "filing",
+            "taxes",
+            "reporting"
+        ]
+    },
+    {
+        "q": "What is reasonable cause for FBAR penalty?",
+        "type": "mcq",
+        "o": [
+            "Facts and circumstances showing taxpayer exercised ordinary care",
+            "No excuse",
+            "Ignorance alone",
+            "Busy schedule"
+        ]
+    },
+    {
+        "q": "Reasonable cause considers all facts and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "circumstances"
+        ],
+        "other_options": [
+            "income",
+            "taxes",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is willful FBAR penalty?",
+        "type": "mcq",
+        "o": [
+            "Greater of $100,000 or 50% of account balance per violation",
+            "Fixed $10,000",
+            "No penalty",
+            "Criminal only"
+        ]
+    },
+    {
+        "q": "Willful FBAR penalty can be ______% of account balance.",
+        "type": "fill_blank",
+        "answers": [
+            "50"
+        ],
+        "other_options": [
+            "10",
+            "25",
+            "100"
+        ]
+    },
+    {
+        "q": "What is non-willful FBAR penalty?",
+        "type": "mcq",
+        "o": [
+            "Up to $10,000 per violation",
+            "$100,000 minimum",
+            "No penalty",
+            "Criminal"
+        ]
+    },
+    {
+        "q": "Non-willful FBAR penalty is up to $______ per violation.",
+        "type": "fill_blank",
+        "answers": [
+            "10,000"
+        ],
+        "other_options": [
+            "1,000",
+            "50,000",
+            "100,000"
+        ]
+    },
+    {
+        "q": "What is John Doe summons?",
+        "type": "mcq",
+        "o": [
+            "IRS summons seeking information about unidentified taxpayers",
+            "Named summons",
+            "Court order",
+            "No such summons"
+        ]
+    },
+    {
+        "q": "John Doe summons requires court ______.",
+        "type": "fill_blank",
+        "answers": [
+            "approval"
+        ],
+        "other_options": [
+            "filing",
+            "appearance",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is designated summons?",
+        "type": "mcq",
+        "o": [
+            "Summons for corporate returns with extended statute suspension",
+            "Normal summons",
+            "No such summons",
+            "State summons"
+        ]
+    },
+    {
+        "q": "Designated summons suspends the statute of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "limitations"
+        ],
+        "other_options": [
+            "repose",
+            "claims",
+            "nothing"
+        ]
+    },
+    {
+        "q": "What is taxpayer advocate service?",
+        "type": "mcq",
+        "o": [
+            "Independent IRS organization helping taxpayers resolve problems",
+            "IRS audit division",
+            "Collection agency",
+            "Court"
+        ]
+    },
+    {
+        "q": "TAS is headed by the National Taxpayer ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Advocate"
+        ],
+        "other_options": [
+            "Commissioner",
+            "Director",
+            "Agent"
+        ]
+    },
+    {
+        "q": "What is taxpayer bill of rights?",
+        "type": "mcq",
+        "o": [
+            "Ten fundamental rights of taxpayers in dealing with IRS",
+            "No such rights",
+            "State rights",
+            "Corporate rights"
+        ]
+    },
+    {
+        "q": "Taxpayers have the right to be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "informed"
+        ],
+        "other_options": [
+            "ignored",
+            "audited",
+            "penalized"
+        ]
+    },
+    {
+        "q": "Match the taxpayer right with its description:",
+        "type": "match",
+        "left": [
+            "Right to be informed",
+            "Right to quality service",
+            "Right to finality"
+        ],
+        "right": [
+            "Know what to comply",
+            "Prompt, courteous assistance",
+            "Know deadline for IRS action"
+        ]
+    },
+    {
+        "q": "What is CDP hearing?",
+        "type": "mcq",
+        "o": [
+            "Collection Due Process hearing before IRS Appeals",
+            "Court hearing",
+            "Audit hearing",
+            "No such hearing"
+        ]
+    },
+    {
+        "q": "CDP hearing must be requested within ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "60",
+            "90"
+        ]
+    },
+    {
+        "q": "What is equivalent hearing?",
+        "type": "mcq",
+        "o": [
+            "Appeals hearing after CDP deadline passes",
+            "CDP hearing",
+            "Court hearing",
+            "No such hearing"
+        ]
+    },
+    {
+        "q": "Equivalent hearing does not suspend ______.",
+        "type": "fill_blank",
+        "answers": [
+            "collection"
+        ],
+        "other_options": [
+            "audit",
+            "assessment",
+            "statute"
+        ]
+    },
+    {
+        "q": "What is CAP program?",
+        "type": "mcq",
+        "o": [
+            "Compliance Assurance Process for large corporations",
+            "Small business program",
+            "Individual program",
+            "No such program"
+        ]
+    },
+    {
+        "q": "CAP provides real-time ______ resolution.",
+        "type": "fill_blank",
+        "answers": [
+            "issue"
+        ],
+        "other_options": [
+            "audit",
+            "collection",
+            "penalty"
+        ]
+    },
+    {
+        "q": "What is Fast Track Settlement?",
+        "type": "mcq",
+        "o": [
+            "Expedited resolution of examination issues through Appeals",
+            "Slow process",
+            "Court process",
+            "No such program"
+        ]
+    },
+    {
+        "q": "Fast Track typically resolves issues within ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "120"
+        ],
+        "other_options": [
+            "30",
+            "60",
+            "365"
+        ]
+    },
+    {
+        "q": "What is Post Appeals Mediation?",
+        "type": "mcq",
+        "o": [
+            "Alternative dispute resolution after failed Appeals settlement",
+            "Pre-Appeals",
+            "Court process",
+            "No such program"
+        ]
+    },
+    {
+        "q": "PAM uses ______ mediators.",
+        "type": "fill_blank",
+        "answers": [
+            "neutral"
+        ],
+        "other_options": [
+            "IRS",
+            "taxpayer",
+            "court"
+        ]
+    },
+    {
+        "q": "What is arbitration in tax disputes?",
+        "type": "mcq",
+        "o": [
+            "Binding resolution by neutral third party for factual issues",
+            "Court trial",
+            "Appeals hearing",
+            "No such process"
+        ]
+    },
+    {
+        "q": "Arbitration is ______ on both parties.",
+        "type": "fill_blank",
+        "answers": [
+            "binding"
+        ],
+        "other_options": [
+            "advisory",
+            "optional",
+            "negotiable"
+        ]
+    },
+    {
+        "q": "What is Industry Issue Resolution?",
+        "type": "mcq",
+        "o": [
+            "Program addressing frequently disputed industry-wide issues",
+            "Individual issue",
+            "Court process",
+            "No such program"
+        ]
+    },
+    {
+        "q": "IIR issues guidance for ______ tax issues.",
+        "type": "fill_blank",
+        "answers": [
+            "industry"
+        ],
+        "other_options": [
+            "individual",
+            "state",
+            "international"
+        ]
+    },
+    {
+        "q": "Rearrange dispute resolution options from informal to formal:",
+        "type": "rearrange",
+        "words": [
+            "Exam reconsideration",
+            "Appeals",
+            "Mediation",
+            "Tax Court",
+            "District Court"
+        ]
+    },
+    {
+        "q": "What is closing agreement?",
+        "type": "mcq",
+        "o": [
+            "Final, binding agreement between IRS and taxpayer on tax matters",
+            "Temporary agreement",
+            "Non-binding",
+            "Court order"
+        ]
+    },
+    {
+        "q": "Closing agreements are on Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "906"
+        ],
+        "other_options": [
+            "870",
+            "872",
+            "4549"
+        ]
+    },
+    {
+        "q": "What is Form 870?",
+        "type": "mcq",
+        "o": [
+            "Waiver of restrictions on assessment - taxpayer agrees to deficiency",
+            "Tax return",
+            "Closing agreement",
+            "Appeal form"
+        ]
+    },
+    {
+        "q": "Form 870 waives ______ on assessment.",
+        "type": "fill_blank",
+        "answers": [
+            "restrictions"
+        ],
+        "other_options": [
+            "taxes",
+            "penalties",
+            "interest"
+        ]
+    },
+    {
+        "q": "What is Form 872?",
+        "type": "mcq",
+        "o": [
+            "Consent to extend time for assessment of tax",
+            "Tax return",
+            "Closing agreement",
+            "Appeal form"
+        ]
+    },
+    {
+        "q": "Form 872 extends the ______ of limitations.",
+        "type": "fill_blank",
+        "answers": [
+            "statute"
+        ],
+        "other_options": [
+            "payment",
+            "filing",
+            "collection"
+        ]
+    }
+]

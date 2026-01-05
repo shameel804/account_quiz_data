@@ -1,0 +1,5617 @@
+[
+    {
+        "q": "What is management accounting?",
+        "type": "mcq",
+        "o": [
+            "Providing financial information for internal decision-making",
+            "External financial reporting only",
+            "Tax compliance only",
+            "Audit preparation only"
+        ]
+    },
+    {
+        "q": "Management accounting focuses on information for internal ______.",
+        "type": "fill_blank",
+        "answers": [
+            "users"
+        ],
+        "other_options": [
+            "auditors",
+            "regulators",
+            "shareholders"
+        ]
+    },
+    {
+        "q": "Management accounting is not bound by external reporting standards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between management and financial accounting?",
+        "type": "mcq",
+        "o": [
+            "Management is internal and future-focused; financial is external and historical",
+            "They are the same",
+            "Financial is internal only",
+            "Management is external only"
+        ]
+    },
+    {
+        "q": "Match accounting types with their focus:",
+        "type": "match",
+        "left": [
+            "Management accounting",
+            "Financial accounting",
+            "Cost accounting",
+            "Tax accounting"
+        ],
+        "right": [
+            "Internal decisions",
+            "External reporting",
+            "Product costing",
+            "Compliance"
+        ]
+    },
+    {
+        "q": "Management accounting provides timely information for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decision-making"
+        ],
+        "other_options": [
+            "shareholders",
+            "auditors",
+            "regulators"
+        ]
+    },
+    {
+        "q": "Management accounting reports can be prepared at any frequency needed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost classification?",
+        "type": "mcq",
+        "o": [
+            "Categorizing costs based on their characteristics and behavior",
+            "Ignoring costs",
+            "Deleting costs",
+            "Hiding costs"
+        ]
+    },
+    {
+        "q": "What are the main ways costs can be classified?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "By nature (materials, labor, expenses)",
+            "By behavior (fixed, variable)",
+            "By function (production, admin, selling)"
+        ]
+    },
+    {
+        "q": "Match cost classification:",
+        "type": "match",
+        "left": [
+            "Direct costs",
+            "Indirect costs",
+            "Fixed costs",
+            "Variable costs"
+        ],
+        "right": [
+            "Traceable to cost object",
+            "Not directly traceable",
+            "Constant regardless of output",
+            "Change with output"
+        ]
+    },
+    {
+        "q": "Direct materials and direct labor are examples of ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "prime"
+        ],
+        "other_options": [
+            "overhead",
+            "indirect",
+            "fixed"
+        ]
+    },
+    {
+        "q": "Prime cost equals direct materials plus direct labor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are direct costs?",
+        "type": "mcq",
+        "o": [
+            "Costs that can be traced directly to a cost object",
+            "All overhead costs",
+            "Fixed costs only",
+            "Variable costs only"
+        ]
+    },
+    {
+        "q": "What are indirect costs?",
+        "type": "mcq",
+        "o": [
+            "Costs that cannot be directly traced to a cost object",
+            "Direct materials",
+            "Direct labor",
+            "Prime costs"
+        ]
+    },
+    {
+        "q": "Indirect costs are also called ______.",
+        "type": "fill_blank",
+        "answers": [
+            "overheads"
+        ],
+        "other_options": [
+            "primes",
+            "directs",
+            "variables"
+        ]
+    },
+    {
+        "q": "Factory rent is typically classified as an indirect cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are fixed costs?",
+        "type": "mcq",
+        "o": [
+            "Costs that remain constant regardless of activity level",
+            "Costs that change with output",
+            "Direct costs only",
+            "Variable costs only"
+        ]
+    },
+    {
+        "q": "What are variable costs?",
+        "type": "mcq",
+        "o": [
+            "Costs that change in proportion to activity level",
+            "Costs that stay the same",
+            "Fixed costs",
+            "Sunk costs"
+        ]
+    },
+    {
+        "q": "Match cost behaviors:",
+        "type": "match",
+        "left": [
+            "Fixed costs",
+            "Variable costs",
+            "Semi-variable costs",
+            "Step costs"
+        ],
+        "right": [
+            "Constant total",
+            "Change proportionally",
+            "Have fixed and variable elements",
+            "Change in steps"
+        ]
+    },
+    {
+        "q": "Rent and salaries are typically ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "fixed"
+        ],
+        "other_options": [
+            "variable",
+            "prime",
+            "direct"
+        ]
+    },
+    {
+        "q": "Variable cost per unit remains constant as output changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are semi-variable costs?",
+        "type": "mcq",
+        "o": [
+            "Costs that have both fixed and variable components",
+            "Purely fixed costs",
+            "Purely variable costs",
+            "Sunk costs"
+        ]
+    },
+    {
+        "q": "What are step costs?",
+        "type": "mcq",
+        "o": [
+            "Fixed costs that increase in steps as activity increases",
+            "Variable costs",
+            "Sunk costs",
+            "Prime costs"
+        ]
+    },
+    {
+        "q": "Semi-variable costs can be separated using the high-low ______.",
+        "type": "fill_blank",
+        "answers": [
+            "method"
+        ],
+        "other_options": [
+            "formula",
+            "equation",
+            "calculation"
+        ]
+    },
+    {
+        "q": "Telephone bills with a fixed line rental plus usage charges are semi-variable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost behavior analysis?",
+        "type": "mcq",
+        "o": [
+            "Understanding how costs change with changes in activity levels",
+            "Ignoring cost changes",
+            "Deleting cost records",
+            "Hiding cost information"
+        ]
+    },
+    {
+        "q": "What is the high-low method?",
+        "type": "mcq",
+        "o": [
+            "A technique to separate fixed and variable cost components",
+            "A budgeting method",
+            "A pricing method",
+            "A variance analysis technique"
+        ]
+    },
+    {
+        "q": "Rearrange the high-low method steps:",
+        "type": "rearrange",
+        "words": [
+            "Identify highest and lowest activity levels",
+            "Calculate variable cost per unit",
+            "Calculate total variable cost",
+            "Calculate fixed cost"
+        ]
+    },
+    {
+        "q": "The variable cost per unit in high-low method equals change in cost divided by change in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "activity"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "time"
+        ]
+    },
+    {
+        "q": "The high-low method uses only two data points.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a cost object?",
+        "type": "mcq",
+        "o": [
+            "Anything for which costs are measured and assigned",
+            "Only products",
+            "Only departments",
+            "Only customers"
+        ]
+    },
+    {
+        "q": "Examples of cost objects include products, services, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "departments"
+        ],
+        "other_options": [
+            "buildings",
+            "vehicles",
+            "equipment"
+        ]
+    },
+    {
+        "q": "Customers can be cost objects for customer profitability analysis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a cost center?",
+        "type": "mcq",
+        "o": [
+            "A department or unit that incurs costs but does not directly generate revenue",
+            "A profit-generating unit",
+            "An investment center",
+            "A revenue center"
+        ]
+    },
+    {
+        "q": "What is a profit center?",
+        "type": "mcq",
+        "o": [
+            "A unit responsible for both revenues and costs",
+            "Only costs",
+            "Only investments",
+            "Only revenues"
+        ]
+    },
+    {
+        "q": "Match responsibility centers:",
+        "type": "match",
+        "left": [
+            "Cost center",
+            "Revenue center",
+            "Profit center",
+            "Investment center"
+        ],
+        "right": [
+            "Controls costs only",
+            "Controls revenues only",
+            "Controls costs and revenues",
+            "Controls costs, revenues, and investments"
+        ]
+    },
+    {
+        "q": "An investment center manager is responsible for ROI and residual ______.",
+        "type": "fill_blank",
+        "answers": [
+            "income"
+        ],
+        "other_options": [
+            "cost",
+            "expense",
+            "liability"
+        ]
+    },
+    {
+        "q": "HR department is typically a cost center.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is absorption costing?",
+        "type": "mcq",
+        "o": [
+            "Costing method that includes all manufacturing costs in product cost",
+            "Including only variable costs",
+            "Including only fixed costs",
+            "Including only direct costs"
+        ]
+    },
+    {
+        "q": "What costs does absorption costing include in inventory?",
+        "type": "mcq",
+        "o": [
+            "All manufacturing costs (direct and indirect)",
+            "Only direct materials",
+            "Only direct labor",
+            "Only variable costs"
+        ]
+    },
+    {
+        "q": "Absorption costing is required for external financial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "reporting"
+        ],
+        "other_options": [
+            "planning",
+            "budgeting",
+            "analysis"
+        ]
+    },
+    {
+        "q": "Under absorption costing, fixed manufacturing overhead is included in product cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is marginal costing?",
+        "type": "mcq",
+        "o": [
+            "Costing method that includes only variable costs in product cost",
+            "Including all costs",
+            "Including only fixed costs",
+            "Including only overheads"
+        ]
+    },
+    {
+        "q": "In marginal costing, fixed costs are treated as ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "period"
+        ],
+        "other_options": [
+            "product",
+            "prime",
+            "direct"
+        ]
+    },
+    {
+        "q": "Marginal costing and variable costing are the same concept.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the difference between absorption and marginal costing?",
+        "type": "mcq",
+        "o": [
+            "Treatment of fixed manufacturing overhead",
+            "Treatment of direct materials",
+            "Treatment of direct labor",
+            "No difference"
+        ]
+    },
+    {
+        "q": "Match costing methods:",
+        "type": "match",
+        "left": [
+            "Absorption costing",
+            "Marginal costing",
+            "Standard costing",
+            "Activity-based costing"
+        ],
+        "right": [
+            "All manufacturing costs",
+            "Variable costs only",
+            "Predetermined costs",
+            "Activity-driven costs"
+        ]
+    },
+    {
+        "q": "When production exceeds sales, absorption costing shows ______ profit than marginal costing.",
+        "type": "fill_blank",
+        "answers": [
+            "higher"
+        ],
+        "other_options": [
+            "lower",
+            "same",
+            "zero"
+        ]
+    },
+    {
+        "q": "Profit differences between absorption and marginal costing reconcile through inventory changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is contribution margin?",
+        "type": "mcq",
+        "o": [
+            "Sales revenue minus variable costs",
+            "Sales minus all costs",
+            "Gross profit",
+            "Net profit"
+        ]
+    },
+    {
+        "q": "Contribution margin contributes towards covering fixed costs and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit"
+        ],
+        "other_options": [
+            "loss",
+            "debt",
+            "expense"
+        ]
+    },
+    {
+        "q": "Contribution margin ratio equals contribution divided by sales.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is break-even analysis?",
+        "type": "mcq",
+        "o": [
+            "Determining the point where total revenue equals total costs",
+            "Profit maximization",
+            "Cost minimization",
+            "Revenue maximization"
+        ]
+    },
+    {
+        "q": "The break-even point in units equals fixed costs divided by contribution per ______.",
+        "type": "fill_blank",
+        "answers": [
+            "unit"
+        ],
+        "other_options": [
+            "year",
+            "month",
+            "day"
+        ]
+    },
+    {
+        "q": "At break-even point, the organization makes zero profit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost-volume-profit (CVP) analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing the relationship between costs, volume, and profit",
+            "Only cost analysis",
+            "Only volume analysis",
+            "Only profit analysis"
+        ]
+    },
+    {
+        "q": "CVP analysis assumes costs can be accurately divided into fixed and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "variable"
+        ],
+        "other_options": [
+            "direct",
+            "indirect",
+            "prime"
+        ]
+    },
+    {
+        "q": "CVP analysis assumes selling price remains constant.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is margin of safety?",
+        "type": "mcq",
+        "o": [
+            "The amount by which sales exceed break-even point",
+            "The break-even point itself",
+            "Total sales",
+            "Total costs"
+        ]
+    },
+    {
+        "q": "Margin of safety indicates how much sales can ______ before a loss occurs.",
+        "type": "fill_blank",
+        "answers": [
+            "fall"
+        ],
+        "other_options": [
+            "rise",
+            "stay",
+            "increase"
+        ]
+    },
+    {
+        "q": "A higher margin of safety indicates lower risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is target profit analysis?",
+        "type": "mcq",
+        "o": [
+            "Calculating the sales volume needed to achieve a desired profit",
+            "Breaking even",
+            "Minimizing costs",
+            "Maximizing revenue"
+        ]
+    },
+    {
+        "q": "Target profit units = (Fixed costs + Target profit) / Contribution per ______.",
+        "type": "fill_blank",
+        "answers": [
+            "unit"
+        ],
+        "other_options": [
+            "year",
+            "month",
+            "day"
+        ]
+    },
+    {
+        "q": "Target profit analysis extends break-even analysis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is operating leverage?",
+        "type": "mcq",
+        "o": [
+            "The degree to which fixed costs are used in the cost structure",
+            "Only variable costs",
+            "Only direct costs",
+            "Only prime costs"
+        ]
+    },
+    {
+        "q": "High operating leverage means higher risk but higher potential ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit"
+        ],
+        "other_options": [
+            "loss",
+            "debt",
+            "expense"
+        ]
+    },
+    {
+        "q": "Degree of operating leverage equals contribution margin divided by operating income.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is multi-product CVP analysis?",
+        "type": "mcq",
+        "o": [
+            "CVP analysis when selling multiple products with different margins",
+            "Single product analysis",
+            "No CVP analysis",
+            "Cost analysis only"
+        ]
+    },
+    {
+        "q": "Multi-product CVP uses weighted average contribution ______.",
+        "type": "fill_blank",
+        "answers": [
+            "margin"
+        ],
+        "other_options": [
+            "cost",
+            "price",
+            "expense"
+        ]
+    },
+    {
+        "q": "Sales mix affects break-even analysis for multiple products.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is relevant costing?",
+        "type": "mcq",
+        "o": [
+            "Identifying costs that differ between alternatives for decision-making",
+            "Including all historical costs",
+            "Ignoring future costs",
+            "Using only fixed costs"
+        ]
+    },
+    {
+        "q": "Relevant costs are future costs that ______ between alternatives.",
+        "type": "fill_blank",
+        "answers": [
+            "differ"
+        ],
+        "other_options": [
+            "stay same",
+            "decrease",
+            "disappear"
+        ]
+    },
+    {
+        "q": "Sunk costs are not relevant for decision-making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are sunk costs?",
+        "type": "mcq",
+        "o": [
+            "Costs already incurred that cannot be recovered",
+            "Future costs",
+            "Variable costs",
+            "Relevant costs"
+        ]
+    },
+    {
+        "q": "What are committed costs?",
+        "type": "mcq",
+        "o": [
+            "Costs arising from past decisions that cannot easily be changed",
+            "Variable costs",
+            "Discretionary costs",
+            "Avoidable costs"
+        ]
+    },
+    {
+        "q": "Sunk costs should be ______ in decision-making.",
+        "type": "fill_blank",
+        "answers": [
+            "ignored"
+        ],
+        "other_options": [
+            "included",
+            "doubled",
+            "halved"
+        ]
+    },
+    {
+        "q": "Past research and development costs are sunk costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is opportunity cost?",
+        "type": "mcq",
+        "o": [
+            "The benefit foregone by choosing one alternative over another",
+            "The actual cost paid",
+            "The historical cost",
+            "The sunk cost"
+        ]
+    },
+    {
+        "q": "Opportunity costs are relevant for decision-making even though they are not ______.",
+        "type": "fill_blank",
+        "answers": [
+            "recorded"
+        ],
+        "other_options": [
+            "ignored",
+            "deleted",
+            "hidden"
+        ]
+    },
+    {
+        "q": "Opportunity cost represents the best alternative foregone.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a make or buy decision?",
+        "type": "mcq",
+        "o": [
+            "Deciding whether to produce in-house or purchase from external supplier",
+            "Pricing decision",
+            "Investment decision",
+            "Financing decision"
+        ]
+    },
+    {
+        "q": "Make or buy decisions compare internal costs with external ______.",
+        "type": "fill_blank",
+        "answers": [
+            "prices"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "losses"
+        ]
+    },
+    {
+        "q": "Qualitative factors should also be considered in make or buy decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a special order decision?",
+        "type": "mcq",
+        "o": [
+            "Deciding whether to accept a one-time order at a different price",
+            "Regular pricing",
+            "Investment decision",
+            "Financing decision"
+        ]
+    },
+    {
+        "q": "A special order should be accepted if it covers incremental costs and contributes to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit"
+        ],
+        "other_options": [
+            "loss",
+            "debt",
+            "expense"
+        ]
+    },
+    {
+        "q": "Special orders should consider spare capacity utilization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a limiting factor?",
+        "type": "mcq",
+        "o": [
+            "A scarce resource that constrains production or sales",
+            "Unlimited resource",
+            "Free resource",
+            "Abundant resource"
+        ]
+    },
+    {
+        "q": "What is the decision rule when there is a single limiting factor?",
+        "type": "mcq",
+        "o": [
+            "Maximize contribution per unit of limiting factor",
+            "Maximize total sales",
+            "Minimize costs",
+            "Maximize production"
+        ]
+    },
+    {
+        "q": "Contribution per unit of limiting factor determines production ______.",
+        "type": "fill_blank",
+        "answers": [
+            "priority"
+        ],
+        "other_options": [
+            "cost",
+            "price",
+            "loss"
+        ]
+    },
+    {
+        "q": "Labor hours, machine hours, and materials can all be limiting factors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is linear programming?",
+        "type": "mcq",
+        "o": [
+            "Mathematical technique for optimizing with multiple limiting factors",
+            "Single limiting factor only",
+            "No constraints",
+            "Unlimited resources"
+        ]
+    },
+    {
+        "q": "Linear programming finds the optimal solution within ______.",
+        "type": "fill_blank",
+        "answers": [
+            "constraints"
+        ],
+        "other_options": [
+            "profits",
+            "losses",
+            "revenues"
+        ]
+    },
+    {
+        "q": "Linear programming uses graphical or simplex methods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a budget?",
+        "type": "mcq",
+        "o": [
+            "A quantitative plan for a defined period expressed in financial terms",
+            "Historical records",
+            "Audit report",
+            "Tax return"
+        ]
+    },
+    {
+        "q": "What are the purposes of budgeting?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Planning",
+            "Control",
+            "Performance evaluation"
+        ]
+    },
+    {
+        "q": "Match budgeting purposes:",
+        "type": "match",
+        "left": [
+            "Planning",
+            "Control",
+            "Communication",
+            "Motivation"
+        ],
+        "right": [
+            "Set objectives",
+            "Compare actual to plan",
+            "Coordinate activities",
+            "Provide targets"
+        ]
+    },
+    {
+        "q": "The master budget includes the budgeted income statement and budgeted balance ______.",
+        "type": "fill_blank",
+        "answers": [
+            "sheet"
+        ],
+        "other_options": [
+            "book",
+            "account",
+            "register"
+        ]
+    },
+    {
+        "q": "Budgets help coordinate activities across departments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the budgeting process?",
+        "type": "mcq",
+        "o": [
+            "The systematic process of preparing and approving budgets",
+            "Random number generation",
+            "Historical data copying",
+            "No formal process"
+        ]
+    },
+    {
+        "q": "Rearrange the typical budget preparation sequence:",
+        "type": "rearrange",
+        "words": [
+            "Sales budget",
+            "Production budget",
+            "Materials budget",
+            "Labor budget",
+            "Overhead budget",
+            "Cash budget"
+        ]
+    },
+    {
+        "q": "The budget committee typically coordinates the budgeting ______.",
+        "type": "fill_blank",
+        "answers": [
+            "process"
+        ],
+        "other_options": [
+            "history",
+            "audit",
+            "review"
+        ]
+    },
+    {
+        "q": "Top-down budgeting involves senior management setting budget targets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is participative budgeting?",
+        "type": "mcq",
+        "o": [
+            "Involving budget holders in the budget preparation process",
+            "Only top management input",
+            "No employee input",
+            "External consultant input only"
+        ]
+    },
+    {
+        "q": "Participative budgeting increases budget ______ and motivation.",
+        "type": "fill_blank",
+        "answers": [
+            "ownership"
+        ],
+        "other_options": [
+            "cost",
+            "problems",
+            "errors"
+        ]
+    },
+    {
+        "q": "Participative budgeting can lead to budgetary slack.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is budgetary slack?",
+        "type": "mcq",
+        "o": [
+            "Intentionally understating revenues or overstating costs in budgets",
+            "Accurate budgeting",
+            "Tight budgets",
+            "Stretch targets"
+        ]
+    },
+    {
+        "q": "Managers create budgetary slack to make targets ______ to achieve.",
+        "type": "fill_blank",
+        "answers": [
+            "easier"
+        ],
+        "other_options": [
+            "harder",
+            "impossible",
+            "complex"
+        ]
+    },
+    {
+        "q": "Budgetary slack can result in dysfunctional behavior.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is incremental budgeting?",
+        "type": "mcq",
+        "o": [
+            "Basing next year's budget on current year adjusted for expected changes",
+            "Starting from zero",
+            "Activity-based",
+            "Rolling forecasts"
+        ]
+    },
+    {
+        "q": "Incremental budgeting is simple but may perpetuate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inefficiencies"
+        ],
+        "other_options": [
+            "profit",
+            "growth",
+            "success"
+        ]
+    },
+    {
+        "q": "Incremental budgeting is the most common budgeting approach.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is zero-based budgeting (ZBB)?",
+        "type": "mcq",
+        "o": [
+            "Building budgets from scratch each period, justifying all expenditure",
+            "Incremental approach",
+            "No budgeting",
+            "Historical-based only"
+        ]
+    },
+    {
+        "q": "ZBB requires managers to justify every ______ from a zero base.",
+        "type": "fill_blank",
+        "answers": [
+            "expenditure"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "growth"
+        ]
+    },
+    {
+        "q": "ZBB is more time-consuming than incremental budgeting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is activity-based budgeting (ABB)?",
+        "type": "mcq",
+        "o": [
+            "Budgeting based on activities and their costs drivers",
+            "Traditional budgeting",
+            "Incremental budgeting",
+            "Zero-based only"
+        ]
+    },
+    {
+        "q": "ABB links resources to activities that consume ______.",
+        "type": "fill_blank",
+        "answers": [
+            "them"
+        ],
+        "other_options": [
+            "nothing",
+            "profits",
+            "revenues"
+        ]
+    },
+    {
+        "q": "ABB is an extension of activity-based costing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is rolling budgeting?",
+        "type": "mcq",
+        "o": [
+            "Continuously updating the budget by adding new periods as old ones expire",
+            "Annual fixed budget",
+            "One-time budget",
+            "No updates"
+        ]
+    },
+    {
+        "q": "Rolling budgets maintain a constant planning ______.",
+        "type": "fill_blank",
+        "answers": [
+            "horizon"
+        ],
+        "other_options": [
+            "cost",
+            "profit",
+            "loss"
+        ]
+    },
+    {
+        "q": "Rolling budgets are more responsive to changing conditions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is flexible budgeting?",
+        "type": "mcq",
+        "o": [
+            "Adjusting budgeted amounts for actual activity levels",
+            "Fixed budget only",
+            "No adjustment",
+            "Ignoring activity levels"
+        ]
+    },
+    {
+        "q": "Flexible budgets allow meaningful comparison with actual ______.",
+        "type": "fill_blank",
+        "answers": [
+            "results"
+        ],
+        "other_options": [
+            "budgets",
+            "forecasts",
+            "plans"
+        ]
+    },
+    {
+        "q": "A flexed budget removes the volume variance from performance analysis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the cash budget?",
+        "type": "mcq",
+        "o": [
+            "A plan of expected cash receipts and payments",
+            "Income statement",
+            "Balance sheet",
+            "Tax return"
+        ]
+    },
+    {
+        "q": "The cash budget helps identify financing needs and surplus cash for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "investment"
+        ],
+        "other_options": [
+            "loss",
+            "debt",
+            "problems"
+        ]
+    },
+    {
+        "q": "Cash budgets differ from profit budgets due to timing of receipts and payments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is standard costing?",
+        "type": "mcq",
+        "o": [
+            "Using predetermined costs as benchmarks for performance measurement",
+            "Actual costing only",
+            "Historical costing",
+            "No costing system"
+        ]
+    },
+    {
+        "q": "Standard costs are carefully predetermined ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "target"
+        ],
+        "other_options": [
+            "random",
+            "historical",
+            "actual"
+        ]
+    },
+    {
+        "q": "Standard costing facilitates management by exception.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a variance?",
+        "type": "mcq",
+        "o": [
+            "The difference between actual and budgeted/standard amounts",
+            "The budget itself",
+            "The actual amount",
+            "The historical cost"
+        ]
+    },
+    {
+        "q": "A favorable variance indicates actual results are ______ than budget.",
+        "type": "fill_blank",
+        "answers": [
+            "better"
+        ],
+        "other_options": [
+            "worse",
+            "same",
+            "equal"
+        ]
+    },
+    {
+        "q": "Adverse/unfavorable variances reduce profit compared to budget.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What types of variances exist for direct materials?",
+        "type": "mcq",
+        "o": [
+            "Price variance and usage/quantity variance",
+            "Only price variance",
+            "Only usage variance",
+            "No variances"
+        ]
+    },
+    {
+        "q": "Match materials variances:",
+        "type": "match",
+        "left": [
+            "Price variance",
+            "Usage variance",
+            "Total variance"
+        ],
+        "right": [
+            "Difference in cost per unit",
+            "Difference in quantity used",
+            "Combined effect"
+        ]
+    },
+    {
+        "q": "Materials price variance = (Actual price - Standard price) × Actual ______.",
+        "type": "fill_blank",
+        "answers": [
+            "quantity"
+        ],
+        "other_options": [
+            "price",
+            "cost",
+            "value"
+        ]
+    },
+    {
+        "q": "Purchasing department is typically responsible for materials price variance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What types of variances exist for direct labor?",
+        "type": "mcq",
+        "o": [
+            "Rate variance and efficiency variance",
+            "Only rate variance",
+            "Only efficiency variance",
+            "No variances"
+        ]
+    },
+    {
+        "q": "Match labor variances:",
+        "type": "match",
+        "left": [
+            "Rate variance",
+            "Efficiency variance",
+            "Total variance"
+        ],
+        "right": [
+            "Difference in hourly rate",
+            "Difference in hours worked",
+            "Combined effect"
+        ]
+    },
+    {
+        "q": "Labor efficiency variance = (Actual hours - Standard hours) × Standard ______.",
+        "type": "fill_blank",
+        "answers": [
+            "rate"
+        ],
+        "other_options": [
+            "hours",
+            "cost",
+            "quantity"
+        ]
+    },
+    {
+        "q": "Production management is typically responsible for labor efficiency variance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What types of variances exist for variable overhead?",
+        "type": "mcq",
+        "o": [
+            "Expenditure variance and efficiency variance",
+            "Only expenditure variance",
+            "Only efficiency variance",
+            "No variances"
+        ]
+    },
+    {
+        "q": "Variable overhead efficiency variance is caused by labor ______.",
+        "type": "fill_blank",
+        "answers": [
+            "efficiency"
+        ],
+        "other_options": [
+            "rate",
+            "price",
+            "cost"
+        ]
+    },
+    {
+        "q": "Variable overhead is often absorbed based on labor hours.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What types of variances exist for fixed overhead under absorption costing?",
+        "type": "mcq",
+        "o": [
+            "Expenditure variance, volume variance, efficiency variance, capacity variance",
+            "Only expenditure variance",
+            "No variances",
+            "Only volume variance"
+        ]
+    },
+    {
+        "q": "Fixed overhead volume variance arises from producing more or less than ______.",
+        "type": "fill_blank",
+        "answers": [
+            "budgeted"
+        ],
+        "other_options": [
+            "nothing",
+            "everything",
+            "expected"
+        ]
+    },
+    {
+        "q": "Fixed overhead expenditure variance compares actual to budgeted fixed overhead.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is sales variance analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing differences between actual and budgeted sales",
+            "Cost variance only",
+            "No sales analysis",
+            "Production variance"
+        ]
+    },
+    {
+        "q": "Match sales variances:",
+        "type": "match",
+        "left": [
+            "Price variance",
+            "Volume variance",
+            "Mix variance",
+            "Quantity variance"
+        ],
+        "right": [
+            "Selling price difference",
+            "Units sold difference",
+            "Product mix difference",
+            "Market share/demand"
+        ]
+    },
+    {
+        "q": "Sales price variance = (Actual price - Standard price) × Actual ______.",
+        "type": "fill_blank",
+        "answers": [
+            "quantity"
+        ],
+        "other_options": [
+            "price",
+            "cost",
+            "value"
+        ]
+    },
+    {
+        "q": "Sales variances can be calculated in terms of revenue or contribution.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is variance investigation?",
+        "type": "mcq",
+        "o": [
+            "Determining whether a variance should be investigated for causes",
+            "Ignoring all variances",
+            "Investigating all variances",
+            "Random investigation"
+        ]
+    },
+    {
+        "q": "Variance investigation considers materiality and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "controllability"
+        ],
+        "other_options": [
+            "randomness",
+            "luck",
+            "chance"
+        ]
+    },
+    {
+        "q": "Control charts can help identify variances requiring investigation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the causes of variances?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Planning errors in setting standards",
+            "Operational causes",
+            "Random fluctuations"
+        ]
+    },
+    {
+        "q": "Investigating variances helps identify corrective ______.",
+        "type": "fill_blank",
+        "answers": [
+            "actions"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Not all variances are controllable by management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is activity-based costing (ABC)?",
+        "type": "mcq",
+        "o": [
+            "Costing system that assigns costs based on activities and cost drivers",
+            "Traditional volume-based costing",
+            "Direct costing only",
+            "No overhead allocation"
+        ]
+    },
+    {
+        "q": "ABC focuses on the ______ that consume resources.",
+        "type": "fill_blank",
+        "answers": [
+            "activities"
+        ],
+        "other_options": [
+            "buildings",
+            "equipment",
+            "vehicles"
+        ]
+    },
+    {
+        "q": "ABC provides more accurate product costs than traditional methods for complex operations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a cost driver?",
+        "type": "mcq",
+        "o": [
+            "A factor that causes costs to be incurred",
+            "A cost itself",
+            "A profit",
+            "A revenue"
+        ]
+    },
+    {
+        "q": "Match ABC concepts:",
+        "type": "match",
+        "left": [
+            "Resource",
+            "Activity",
+            "Cost driver",
+            "Cost object"
+        ],
+        "right": [
+            "Input factor",
+            "Work performed",
+            "Causes cost",
+            "What we cost"
+        ]
+    },
+    {
+        "q": "Number of setups, orders, and inspections are examples of cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "drivers"
+        ],
+        "other_options": [
+            "objects",
+            "centers",
+            "units"
+        ]
+    },
+    {
+        "q": "ABC is more suitable for organizations with diverse products and significant overheads.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the ABC implementation process?",
+        "type": "mcq",
+        "o": [
+            "Identify activities, assign costs, determine drivers, calculate rates",
+            "Just allocate overheads",
+            "Ignore activities",
+            "Simple allocation"
+        ]
+    },
+    {
+        "q": "Rearrange ABC implementation steps:",
+        "type": "rearrange",
+        "words": [
+            "Identify activities",
+            "Assign resource costs to activities",
+            "Identify cost drivers",
+            "Calculate activity rates",
+            "Apply rates to cost objects"
+        ]
+    },
+    {
+        "q": "Activity cost pool contains all costs associated with a single ______.",
+        "type": "fill_blank",
+        "answers": [
+            "activity"
+        ],
+        "other_options": [
+            "product",
+            "customer",
+            "department"
+        ]
+    },
+    {
+        "q": "ABC can be complex and expensive to implement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is throughput accounting?",
+        "type": "mcq",
+        "o": [
+            "Focusing on throughput contribution (sales minus direct materials)",
+            "Absorption costing",
+            "Traditional costing",
+            "No costing"
+        ]
+    },
+    {
+        "q": "Throughput accounting focuses on maximizing throughput through the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "bottleneck"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "cost"
+        ]
+    },
+    {
+        "q": "Throughput accounting is associated with the theory of constraints.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is target costing?",
+        "type": "mcq",
+        "o": [
+            "Starting with a target price and working backward to determine allowable cost",
+            "Starting with cost to set price",
+            "Cost-plus pricing",
+            "No pricing strategy"
+        ]
+    },
+    {
+        "q": "Target cost = Target selling price - Target ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit"
+        ],
+        "other_options": [
+            "loss",
+            "expense",
+            "cost"
+        ]
+    },
+    {
+        "q": "Target costing is market-driven.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is life cycle costing?",
+        "type": "mcq",
+        "o": [
+            "Considering all costs throughout a product's life from development to disposal",
+            "Production costs only",
+            "Sales costs only",
+            "Development costs only"
+        ]
+    },
+    {
+        "q": "Life cycle stages include development, introduction, growth, maturity, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decline"
+        ],
+        "other_options": [
+            "increase",
+            "expansion",
+            "success"
+        ]
+    },
+    {
+        "q": "Most product costs are committed during the design phase.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is kaizen costing?",
+        "type": "mcq",
+        "o": [
+            "Continuous incremental cost reduction during the manufacturing phase",
+            "One-time cost reduction",
+            "No cost reduction",
+            "Cost increase"
+        ]
+    },
+    {
+        "q": "Kaizen is the Japanese concept of continuous ______.",
+        "type": "fill_blank",
+        "answers": [
+            "improvement"
+        ],
+        "other_options": [
+            "decline",
+            "failure",
+            "stagnation"
+        ]
+    },
+    {
+        "q": "Kaizen costing complements target costing during production.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is value analysis?",
+        "type": "mcq",
+        "o": [
+            "Systematic approach to reducing costs while maintaining or improving quality",
+            "Only cost cutting",
+            "Only quality improvement",
+            "No analysis"
+        ]
+    },
+    {
+        "q": "Value analysis examines product functions to eliminate unnecessary ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "sales"
+        ]
+    },
+    {
+        "q": "Value analysis questions whether each feature provides value to the customer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is quality costing?",
+        "type": "mcq",
+        "o": [
+            "Measuring and managing the costs of quality",
+            "Ignoring quality",
+            "Only production costs",
+            "Only sales costs"
+        ]
+    },
+    {
+        "q": "What are the categories of quality costs?",
+        "type": "mcq",
+        "o": [
+            "Prevention, appraisal, internal failure, external failure",
+            "Only prevention",
+            "Only failure",
+            "Only appraisal"
+        ]
+    },
+    {
+        "q": "Match quality cost categories:",
+        "type": "match",
+        "left": [
+            "Prevention",
+            "Appraisal",
+            "Internal failure",
+            "External failure"
+        ],
+        "right": [
+            "Training and planning",
+            "Testing and inspection",
+            "Scrap and rework",
+            "Warranty and returns"
+        ]
+    },
+    {
+        "q": "Investing in prevention can reduce total quality ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "sales"
+        ]
+    },
+    {
+        "q": "External failure costs are generally the most expensive quality costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is environmental management accounting?",
+        "type": "mcq",
+        "o": [
+            "Identifying and managing environmental costs and performance",
+            "Ignoring environment",
+            "Only financial accounting",
+            "Only tax accounting"
+        ]
+    },
+    {
+        "q": "Environmental costs include prevention, detection, and ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "remediation"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "growth"
+        ]
+    },
+    {
+        "q": "Environmental management accounting supports sustainability reporting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is performance measurement?",
+        "type": "mcq",
+        "o": [
+            "Assessing how well an organization achieves its objectives",
+            "No measurement",
+            "Random assessment",
+            "Ignoring performance"
+        ]
+    },
+    {
+        "q": "What are key performance indicators (KPIs)?",
+        "type": "mcq",
+        "o": [
+            "Metrics that indicate progress toward business objectives",
+            "Random numbers",
+            "No indicators",
+            "Historical data only"
+        ]
+    },
+    {
+        "q": "KPIs should be SMART: Specific, Measurable, Achievable, Relevant, and ______-bound.",
+        "type": "fill_blank",
+        "answers": [
+            "Time"
+        ],
+        "other_options": [
+            "Cost",
+            "Profit",
+            "Revenue"
+        ]
+    },
+    {
+        "q": "Leading indicators predict future performance; lagging indicators measure past performance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the balanced scorecard?",
+        "type": "mcq",
+        "o": [
+            "Strategic performance management framework with four perspectives",
+            "Only financial measures",
+            "Single perspective",
+            "No framework"
+        ]
+    },
+    {
+        "q": "What are the four perspectives of the balanced scorecard?",
+        "type": "mcq",
+        "o": [
+            "Financial, customer, internal process, learning and growth",
+            "Only financial",
+            "Only customer",
+            "Only internal"
+        ]
+    },
+    {
+        "q": "Match balanced scorecard perspectives:",
+        "type": "match",
+        "left": [
+            "Financial",
+            "Customer",
+            "Internal process",
+            "Learning and growth"
+        ],
+        "right": [
+            "Shareholder value",
+            "Customer satisfaction",
+            "Operational excellence",
+            "Innovation and capability"
+        ]
+    },
+    {
+        "q": "The balanced scorecard links strategy to operational ______.",
+        "type": "fill_blank",
+        "answers": [
+            "measures"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "The balanced scorecard was developed by Kaplan and Norton.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is return on investment (ROI)?",
+        "type": "mcq",
+        "o": [
+            "Profit as a percentage of investment",
+            "Revenue only",
+            "Cost only",
+            "No measurement"
+        ]
+    },
+    {
+        "q": "ROI = Operating profit / ______ × 100%.",
+        "type": "fill_blank",
+        "answers": [
+            "Investment"
+        ],
+        "other_options": [
+            "Revenue",
+            "Cost",
+            "Sales"
+        ]
+    },
+    {
+        "q": "ROI allows comparison of divisional performance across different sizes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is residual income (RI)?",
+        "type": "mcq",
+        "o": [
+            "Profit minus a charge for the cost of capital employed",
+            "Gross profit",
+            "Net sales",
+            "Total revenue"
+        ]
+    },
+    {
+        "q": "RI = Operating profit - (Capital employed × Cost of ______).",
+        "type": "fill_blank",
+        "answers": [
+            "capital"
+        ],
+        "other_options": [
+            "goods",
+            "sales",
+            "labor"
+        ]
+    },
+    {
+        "q": "RI overcomes some limitations of ROI for divisional evaluation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is economic value added (EVA)?",
+        "type": "mcq",
+        "o": [
+            "Refined version of residual income using economic profit",
+            "Gross profit",
+            "Net revenue",
+            "Total sales"
+        ]
+    },
+    {
+        "q": "EVA = NOPAT - (Capital employed × ______).",
+        "type": "fill_blank",
+        "answers": [
+            "WACC"
+        ],
+        "other_options": [
+            "ROI",
+            "ROE",
+            "NPV"
+        ]
+    },
+    {
+        "q": "EVA aims to capture true economic profit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is transfer pricing?",
+        "type": "mcq",
+        "o": [
+            "Pricing of goods and services transferred between divisions",
+            "External pricing only",
+            "No pricing",
+            "Random pricing"
+        ]
+    },
+    {
+        "q": "What are transfer pricing methods?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Market-based",
+            "Cost-based",
+            "Negotiated"
+        ]
+    },
+    {
+        "q": "Match transfer pricing methods:",
+        "type": "match",
+        "left": [
+            "Market price",
+            "Full cost plus",
+            "Variable cost plus",
+            "Negotiated"
+        ],
+        "right": [
+            "External market rate",
+            "Total cost with markup",
+            "Marginal cost with markup",
+            "Agreed by divisions"
+        ]
+    },
+    {
+        "q": "Transfer price affects divisional profit but not total group ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit"
+        ],
+        "other_options": [
+            "loss",
+            "debt",
+            "expense"
+        ]
+    },
+    {
+        "q": "Transfer pricing affects divisional manager motivation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is benchmarking?",
+        "type": "mcq",
+        "o": [
+            "Comparing performance against best practices",
+            "No comparison",
+            "Internal focus only",
+            "Ignoring competitors"
+        ]
+    },
+    {
+        "q": "Types of benchmarking include internal, competitive, and functional ______.",
+        "type": "fill_blank",
+        "answers": [
+            "benchmarking"
+        ],
+        "other_options": [
+            "costing",
+            "pricing",
+            "selling"
+        ]
+    },
+    {
+        "q": "Benchmarking helps identify performance gaps and improvement opportunities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is value chain analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing activities that create value from inputs to final product",
+            "Only production",
+            "Only sales",
+            "Only marketing"
+        ]
+    },
+    {
+        "q": "Porter's value chain includes primary and support ______.",
+        "type": "fill_blank",
+        "answers": [
+            "activities"
+        ],
+        "other_options": [
+            "costs",
+            "profits",
+            "revenues"
+        ]
+    },
+    {
+        "q": "Value chain analysis helps identify cost reduction and differentiation opportunities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Digital technologies are transforming management accounting practices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "AI and machine learning enhance management accounting ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capabilities"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Management accountants need continuous skill development.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is job costing?",
+        "type": "mcq",
+        "o": [
+            "Costing method for unique products or services",
+            "Costing for mass production",
+            "Service costing only",
+            "No costing method"
+        ]
+    },
+    {
+        "q": "Job costing tracks costs by individual job or ______.",
+        "type": "fill_blank",
+        "answers": [
+            "order"
+        ],
+        "other_options": [
+            "process",
+            "batch",
+            "period"
+        ]
+    },
+    {
+        "q": "Job costing is used in construction and custom manufacturing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is process costing?",
+        "type": "mcq",
+        "o": [
+            "Costing method for continuous mass production",
+            "Costing for unique products",
+            "Job costing",
+            "Contract costing"
+        ]
+    },
+    {
+        "q": "Process costing averages costs over all units ______.",
+        "type": "fill_blank",
+        "answers": [
+            "produced"
+        ],
+        "other_options": [
+            "ordered",
+            "sold",
+            "returned"
+        ]
+    },
+    {
+        "q": "Oil refining and chemical manufacturing use process costing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is batch costing?",
+        "type": "mcq",
+        "o": [
+            "Costing method where costs are tracked by batch of production",
+            "Individual job costing",
+            "Continuous process costing",
+            "No costing"
+        ]
+    },
+    {
+        "q": "Batch costing divides total batch cost by units in the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "batch"
+        ],
+        "other_options": [
+            "factory",
+            "warehouse",
+            "office"
+        ]
+    },
+    {
+        "q": "Bakeries often use batch costing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is service costing?",
+        "type": "mcq",
+        "o": [
+            "Costing method for service organizations",
+            "Manufacturing costing only",
+            "Product costing",
+            "Job costing"
+        ]
+    },
+    {
+        "q": "Service costing uses appropriate cost units like passenger-miles or patient ______.",
+        "type": "fill_blank",
+        "answers": [
+            "days"
+        ],
+        "other_options": [
+            "products",
+            "units",
+            "pieces"
+        ]
+    },
+    {
+        "q": "Hospitals and transport companies use service costing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is contract costing?",
+        "type": "mcq",
+        "o": [
+            "Costing for long-term construction contracts",
+            "Short-term service costing",
+            "Standard costing",
+            "Process costing"
+        ]
+    },
+    {
+        "q": "Contract costing deals with revenue recognition over long ______.",
+        "type": "fill_blank",
+        "answers": [
+            "periods"
+        ],
+        "other_options": [
+            "distances",
+            "products",
+            "services"
+        ]
+    },
+    {
+        "q": "Large construction projects typically use contract costing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is joint products costing?",
+        "type": "mcq",
+        "o": [
+            "Allocating costs when multiple main products emerge from a single process",
+            "Single product costing",
+            "No allocation",
+            "Simple costing"
+        ]
+    },
+    {
+        "q": "Joint products share costs up to the split-off ______.",
+        "type": "fill_blank",
+        "answers": [
+            "point"
+        ],
+        "other_options": [
+            "process",
+            "line",
+            "time"
+        ]
+    },
+    {
+        "q": "The split-off point is where joint products become separately identifiable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a by-product?",
+        "type": "mcq",
+        "o": [
+            "A secondary product with relatively minor sales value",
+            "Main product",
+            "Joint product",
+            "No product"
+        ]
+    },
+    {
+        "q": "By-product revenue is often credited against joint ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "sales",
+            "profits",
+            "revenues"
+        ]
+    },
+    {
+        "q": "By-products have lower value compared to main products.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is equivalent units in process costing?",
+        "type": "mcq",
+        "o": [
+            "A measure that converts partially completed units into fully completed units",
+            "Physical units only",
+            "No conversion",
+            "Ignoring WIP"
+        ]
+    },
+    {
+        "q": "Equivalent units = Physical units × ______ of completion.",
+        "type": "fill_blank",
+        "answers": [
+            "degree"
+        ],
+        "other_options": [
+            "number",
+            "rate",
+            "size"
+        ]
+    },
+    {
+        "q": "Equivalent units are necessary to value work in progress inventory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is FIFO method in process costing?",
+        "type": "mcq",
+        "o": [
+            "Values output using current period costs only",
+            "Averages all costs",
+            "Uses oldest costs",
+            "Uses newest costs"
+        ]
+    },
+    {
+        "q": "What is weighted average method in process costing?",
+        "type": "mcq",
+        "o": [
+            "Averages opening and current period costs together",
+            "Uses FIFO only",
+            "Uses LIFO only",
+            "No averaging"
+        ]
+    },
+    {
+        "q": "Match process costing methods:",
+        "type": "match",
+        "left": [
+            "FIFO",
+            "Weighted average"
+        ],
+        "right": [
+            "Current period costs only",
+            "All costs averaged"
+        ]
+    },
+    {
+        "q": "FIFO provides more accurate current period ______.",
+        "type": "fill_blank",
+        "answers": [
+            "performance"
+        ],
+        "other_options": [
+            "inventory",
+            "sales",
+            "profit"
+        ]
+    },
+    {
+        "q": "Weighted average method is simpler than FIFO.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are losses in process costing?",
+        "type": "mcq",
+        "o": [
+            "The difference between input and output quantities",
+            "No losses",
+            "Gains only",
+            "Profits only"
+        ]
+    },
+    {
+        "q": "Normal loss is expected and unavoidable loss built into cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "calculations"
+        ],
+        "other_options": [
+            "reductions",
+            "eliminations",
+            "removals"
+        ]
+    },
+    {
+        "q": "Abnormal loss is charged to the income statement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is time-driven activity-based costing (TDABC)?",
+        "type": "mcq",
+        "o": [
+            "A simplified ABC using time as the primary cost driver",
+            "Traditional ABC",
+            "No ABC",
+            "Standard costing"
+        ]
+    },
+    {
+        "q": "TDABC focuses on time required for activities and capacity ______.",
+        "type": "fill_blank",
+        "answers": [
+            "utilization"
+        ],
+        "other_options": [
+            "elimination",
+            "reduction",
+            "removal"
+        ]
+    },
+    {
+        "q": "TDABC is easier to implement and update than traditional ABC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the theory of constraints (TOC)?",
+        "type": "mcq",
+        "o": [
+            "Managing bottlenecks to improve organizational performance",
+            "No constraints",
+            "Unlimited capacity",
+            "Traditional costing"
+        ]
+    },
+    {
+        "q": "TOC identifies and exploits the system ______.",
+        "type": "fill_blank",
+        "answers": [
+            "constraint"
+        ],
+        "other_options": [
+            "freedom",
+            "surplus",
+            "excess"
+        ]
+    },
+    {
+        "q": "TOC was developed by Eliyahu Goldratt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are the five focusing steps in TOC?",
+        "type": "mcq",
+        "o": [
+            "Identify, exploit, subordinate, elevate, repeat",
+            "Random steps",
+            "No specific steps",
+            "Single step"
+        ]
+    },
+    {
+        "q": "Rearrange TOC five focusing steps:",
+        "type": "rearrange",
+        "words": [
+            "Identify",
+            "Exploit",
+            "Subordinate",
+            "Elevate",
+            "Repeat"
+        ]
+    },
+    {
+        "q": "TOC maximizes throughput through the bottleneck ______.",
+        "type": "fill_blank",
+        "answers": [
+            "resource"
+        ],
+        "other_options": [
+            "problem",
+            "cost",
+            "expense"
+        ]
+    },
+    {
+        "q": "Subordinating means aligning other processes to the bottleneck.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is lean accounting?",
+        "type": "mcq",
+        "o": [
+            "Accounting practices aligned with lean manufacturing principles",
+            "Traditional accounting only",
+            "Complex accounting",
+            "Historical accounting"
+        ]
+    },
+    {
+        "q": "Lean accounting supports lean manufacturing by simplifying ______.",
+        "type": "fill_blank",
+        "answers": [
+            "reporting"
+        ],
+        "other_options": [
+            "complexity",
+            "problems",
+            "issues"
+        ]
+    },
+    {
+        "q": "Value stream costing is part of lean accounting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is backflush costing?",
+        "type": "mcq",
+        "o": [
+            "Delaying cost recognition until goods are completed or sold",
+            "Traditional costing",
+            "Forward costing",
+            "No costing"
+        ]
+    },
+    {
+        "q": "Backflush costing works well in JIT ______.",
+        "type": "fill_blank",
+        "answers": [
+            "environments"
+        ],
+        "other_options": [
+            "problems",
+            "issues",
+            "errors"
+        ]
+    },
+    {
+        "q": "Backflush costing eliminates detailed tracking of work in progress.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is just-in-time (JIT)?",
+        "type": "mcq",
+        "o": [
+            "Production system that produces only what is needed, when needed",
+            "Producing excess inventory",
+            "Large batch production",
+            "No production system"
+        ]
+    },
+    {
+        "q": "JIT aims to eliminate waste and minimize ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inventory"
+        ],
+        "other_options": [
+            "sales",
+            "production",
+            "customers"
+        ]
+    },
+    {
+        "q": "JIT requires reliable suppliers and consistent quality.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is direct product profitability (DPP)?",
+        "type": "mcq",
+        "o": [
+            "Allocating costs to products to determine true profitability",
+            "Ignoring costs",
+            "No profitability analysis",
+            "Simple margins"
+        ]
+    },
+    {
+        "q": "DPP considers handling, warehousing, and space ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "sales"
+        ]
+    },
+    {
+        "q": "Retail companies use DPP to understand product profitability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is customer profitability analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing the profitability of different customers",
+            "Only product profitability",
+            "No customer analysis",
+            "Ignoring customers"
+        ]
+    },
+    {
+        "q": "Customer profitability analysis considers revenue and cost to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "serve"
+        ],
+        "other_options": [
+            "ignore",
+            "delete",
+            "remove"
+        ]
+    },
+    {
+        "q": "Not all customers are equally profitable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is total quality management (TQM)?",
+        "type": "mcq",
+        "o": [
+            "Organization-wide approach to continuous quality improvement",
+            "Quality inspection only",
+            "No quality focus",
+            "One-time improvement"
+        ]
+    },
+    {
+        "q": "TQM involves everyone in the organization in quality ______.",
+        "type": "fill_blank",
+        "answers": [
+            "improvement"
+        ],
+        "other_options": [
+            "decline",
+            "problems",
+            "issues"
+        ]
+    },
+    {
+        "q": "TQM focuses on customer satisfaction and continuous improvement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Six Sigma?",
+        "type": "mcq",
+        "o": [
+            "Data-driven approach to eliminate defects and reduce variation",
+            "No quality methodology",
+            "Random quality improvement",
+            "Simple inspection"
+        ]
+    },
+    {
+        "q": "Six Sigma uses the DMAIC methodology: Define, Measure, Analyze, Improve, ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Control"
+        ],
+        "other_options": [
+            "Delete",
+            "Remove",
+            "Ignore"
+        ]
+    },
+    {
+        "q": "Six Sigma aims for 3.4 defects per million opportunities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a learning curve?",
+        "type": "mcq",
+        "o": [
+            "The improvement in efficiency as cumulative production increases",
+            "Constant efficiency",
+            "Decreasing efficiency",
+            "No improvement"
+        ]
+    },
+    {
+        "q": "Learning curves show that labor time per unit ______ as experience grows.",
+        "type": "fill_blank",
+        "answers": [
+            "decreases"
+        ],
+        "other_options": [
+            "increases",
+            "stays same",
+            "doubles"
+        ]
+    },
+    {
+        "q": "The 80% learning curve means time reduces to 80% when output doubles.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the experience curve?",
+        "type": "mcq",
+        "o": [
+            "Decline in total costs per unit as cumulative production increases",
+            "Constant costs",
+            "Increasing costs",
+            "No cost change"
+        ]
+    },
+    {
+        "q": "The experience curve extends learning curve to include all ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "sales"
+        ]
+    },
+    {
+        "q": "Experience curve effects can create competitive advantage.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is pricing strategy?",
+        "type": "mcq",
+        "o": [
+            "Approach to setting prices for products and services",
+            "No pricing approach",
+            "Random pricing",
+            "Ignoring prices"
+        ]
+    },
+    {
+        "q": "What is cost-plus pricing?",
+        "type": "mcq",
+        "o": [
+            "Setting price by adding a markup to cost",
+            "Market-based pricing",
+            "Target costing",
+            "Value pricing"
+        ]
+    },
+    {
+        "q": "Match pricing strategies:",
+        "type": "match",
+        "left": [
+            "Cost-plus",
+            "Market skimming",
+            "Penetration",
+            "Competitive"
+        ],
+        "right": [
+            "Cost with markup",
+            "High initial price",
+            "Low initial price",
+            "Match competitors"
+        ]
+    },
+    {
+        "q": "Cost-plus pricing ensures all costs are covered plus a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit"
+        ],
+        "other_options": [
+            "loss",
+            "debt",
+            "expense"
+        ]
+    },
+    {
+        "q": "Market skimming sets high initial prices for new products.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is penetration pricing?",
+        "type": "mcq",
+        "o": [
+            "Setting low initial prices to gain market share",
+            "High initial prices",
+            "Cost-plus pricing",
+            "No pricing strategy"
+        ]
+    },
+    {
+        "q": "Penetration pricing aims to build ______ quickly.",
+        "type": "fill_blank",
+        "answers": [
+            "market share"
+        ],
+        "other_options": [
+            "costs",
+            "expenses",
+            "debts"
+        ]
+    },
+    {
+        "q": "Penetration pricing may lead to price wars with competitors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is value-based pricing?",
+        "type": "mcq",
+        "o": [
+            "Setting prices based on perceived customer value",
+            "Cost-based pricing",
+            "Random pricing",
+            "No pricing"
+        ]
+    },
+    {
+        "q": "Value-based pricing focuses on what customers are willing to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "pay"
+        ],
+        "other_options": [
+            "sell",
+            "lose",
+            "give"
+        ]
+    },
+    {
+        "q": "Value-based pricing can capture more value than cost-plus pricing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is price elasticity of demand?",
+        "type": "mcq",
+        "o": [
+            "Measure of how demand changes with price changes",
+            "Fixed demand",
+            "No relationship",
+            "Ignoring price"
+        ]
+    },
+    {
+        "q": "Price elasticity = Percentage change in quantity / Percentage change in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "price"
+        ],
+        "other_options": [
+            "cost",
+            "profit",
+            "revenue"
+        ]
+    },
+    {
+        "q": "Elastic demand means quantity changes significantly with price changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is investment appraisal?",
+        "type": "mcq",
+        "o": [
+            "Evaluating capital investment decisions",
+            "Operational decisions only",
+            "Pricing decisions",
+            "Budgeting only"
+        ]
+    },
+    {
+        "q": "What investment appraisal methods exist?",
+        "type": "mcq",
+        "o": [
+            "All of these",
+            "Payback",
+            "NPV",
+            "IRR"
+        ]
+    },
+    {
+        "q": "Match investment appraisal methods:",
+        "type": "match",
+        "left": [
+            "Payback",
+            "ARR",
+            "NPV",
+            "IRR"
+        ],
+        "right": [
+            "Time to recover investment",
+            "Accounting return",
+            "Discounted cash flows",
+            "Discount rate for zero NPV"
+        ]
+    },
+    {
+        "q": "NPV uses the time value of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "money"
+        ],
+        "other_options": [
+            "inventory",
+            "assets",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "NPV positive means the investment should be accepted.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is payback period?",
+        "type": "mcq",
+        "o": [
+            "Time taken to recover the initial investment",
+            "Profit calculation",
+            "Discount rate",
+            "Interest rate"
+        ]
+    },
+    {
+        "q": "Payback ignores cash flows after the payback ______.",
+        "type": "fill_blank",
+        "answers": [
+            "period"
+        ],
+        "other_options": [
+            "start",
+            "middle",
+            "initiation"
+        ]
+    },
+    {
+        "q": "Shorter payback periods are generally preferred.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is net present value (NPV)?",
+        "type": "mcq",
+        "o": [
+            "Present value of cash inflows minus present value of cash outflows",
+            "Accounting profit",
+            "Payback period",
+            "Simple interest"
+        ]
+    },
+    {
+        "q": "NPV discounts future cash flows at the cost of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capital"
+        ],
+        "other_options": [
+            "goods",
+            "sales",
+            "labor"
+        ]
+    },
+    {
+        "q": "NPV is considered superior to payback for investment decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is internal rate of return (IRR)?",
+        "type": "mcq",
+        "o": [
+            "Discount rate that makes NPV equal to zero",
+            "Actual return",
+            "Payback period",
+            "Accounting return"
+        ]
+    },
+    {
+        "q": "Accept investment if IRR exceeds the cost of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capital"
+        ],
+        "other_options": [
+            "goods",
+            "sales",
+            "labor"
+        ]
+    },
+    {
+        "q": "IRR can give misleading signals for mutually exclusive projects.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is discounted payback?",
+        "type": "mcq",
+        "o": [
+            "Payback period using discounted cash flows",
+            "Simple payback",
+            "No discounting",
+            "Ignoring time value"
+        ]
+    },
+    {
+        "q": "Discounted payback considers the time value of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "money"
+        ],
+        "other_options": [
+            "inventory",
+            "assets",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "Discounted payback is more accurate than simple payback.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is sensitivity analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing how changes in variables affect outcomes",
+            "No analysis",
+            "Ignoring changes",
+            "Fixed assumptions"
+        ]
+    },
+    {
+        "q": "Sensitivity analysis identifies which variables most affect the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "outcome"
+        ],
+        "other_options": [
+            "problem",
+            "error",
+            "issue"
+        ]
+    },
+    {
+        "q": "Sensitivity analysis helps identify key risk factors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is scenario analysis?",
+        "type": "mcq",
+        "o": [
+            "Evaluating outcomes under different sets of assumptions",
+            "Single scenario only",
+            "No scenarios",
+            "Fixed assumptions"
+        ]
+    },
+    {
+        "q": "Scenario analysis typically considers best, worst, and most likely ______.",
+        "type": "fill_blank",
+        "answers": [
+            "cases"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Scenario analysis provides a range of possible outcomes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is expected value?",
+        "type": "mcq",
+        "o": [
+            "Weighted average of possible outcomes based on probabilities",
+            "Single outcome",
+            "Highest outcome",
+            "Lowest outcome"
+        ]
+    },
+    {
+        "q": "Expected value = Σ (Outcome × ______).",
+        "type": "fill_blank",
+        "answers": [
+            "Probability"
+        ],
+        "other_options": [
+            "Cost",
+            "Revenue",
+            "Profit"
+        ]
+    },
+    {
+        "q": "Expected value helps in decision-making under uncertainty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is decision tree analysis?",
+        "type": "mcq",
+        "o": [
+            "Visual tool for mapping decisions and outcomes",
+            "No visualization",
+            "Single path",
+            "Linear analysis"
+        ]
+    },
+    {
+        "q": "Decision trees show decision points, chance events, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "outcomes"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Decision trees help structure complex decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Monte Carlo simulation?",
+        "type": "mcq",
+        "o": [
+            "Using random sampling to model uncertainty in outcomes",
+            "Single calculation",
+            "No simulation",
+            "Fixed values"
+        ]
+    },
+    {
+        "q": "Monte Carlo simulation runs thousands of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "iterations"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Monte Carlo simulation provides probability distributions of outcomes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is risk-adjusted discount rate?",
+        "type": "mcq",
+        "o": [
+            "Higher discount rate for riskier projects",
+            "Single discount rate",
+            "No adjustment",
+            "Lower rate for risk"
+        ]
+    },
+    {
+        "q": "Risk-adjusted rates add a risk premium to the cost of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capital"
+        ],
+        "other_options": [
+            "goods",
+            "sales",
+            "labor"
+        ]
+    },
+    {
+        "q": "Riskier projects should have higher discount rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is working capital management?",
+        "type": "mcq",
+        "o": [
+            "Managing current assets and current liabilities",
+            "Fixed assets only",
+            "Long-term debt only",
+            "Equity only"
+        ]
+    },
+    {
+        "q": "Working capital = Current assets - Current ______.",
+        "type": "fill_blank",
+        "answers": [
+            "liabilities"
+        ],
+        "other_options": [
+            "assets",
+            "equity",
+            "profit"
+        ]
+    },
+    {
+        "q": "Effective working capital management ensures liquidity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the cash conversion cycle?",
+        "type": "mcq",
+        "o": [
+            "Time between paying suppliers and receiving cash from customers",
+            "No time consideration",
+            "Fixed period",
+            "Random timing"
+        ]
+    },
+    {
+        "q": "Cash conversion cycle = Inventory days + Receivable days - Payable ______.",
+        "type": "fill_blank",
+        "answers": [
+            "days"
+        ],
+        "other_options": [
+            "weeks",
+            "months",
+            "years"
+        ]
+    },
+    {
+        "q": "Shorter cash conversion cycles improve liquidity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is inventory management?",
+        "type": "mcq",
+        "o": [
+            "Balancing inventory levels to meet demand while minimizing costs",
+            "Maximum inventory always",
+            "No inventory",
+            "Random inventory levels"
+        ]
+    },
+    {
+        "q": "Economic order quantity (EOQ) balances ordering and ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "holding"
+        ],
+        "other_options": [
+            "selling",
+            "purchasing",
+            "shipping"
+        ]
+    },
+    {
+        "q": "EOQ minimizes total inventory costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the EOQ formula?",
+        "type": "mcq",
+        "o": [
+            "Square root of (2DO/H) where D=demand, O=order cost, H=holding cost",
+            "Simple addition",
+            "Random calculation",
+            "No formula"
+        ]
+    },
+    {
+        "q": "EOQ assumes constant demand and lead ______.",
+        "type": "fill_blank",
+        "answers": [
+            "time"
+        ],
+        "other_options": [
+            "cost",
+            "price",
+            "value"
+        ]
+    },
+    {
+        "q": "EOQ is a basic inventory management model.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is reorder level?",
+        "type": "mcq",
+        "o": [
+            "Inventory level at which new order should be placed",
+            "Maximum inventory",
+            "Minimum inventory",
+            "Average inventory"
+        ]
+    },
+    {
+        "q": "Reorder level = Maximum usage × Maximum lead ______.",
+        "type": "fill_blank",
+        "answers": [
+            "time"
+        ],
+        "other_options": [
+            "cost",
+            "price",
+            "value"
+        ]
+    },
+    {
+        "q": "Safety stock provides buffer against uncertainty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is ABC inventory analysis?",
+        "type": "mcq",
+        "o": [
+            "Classifying inventory items by value/importance",
+            "Activity-based costing",
+            "No classification",
+            "Random grouping"
+        ]
+    },
+    {
+        "q": "In ABC analysis, A items represent high value items requiring close ______.",
+        "type": "fill_blank",
+        "answers": [
+            "control"
+        ],
+        "other_options": [
+            "neglect",
+            "elimination",
+            "reduction"
+        ]
+    },
+    {
+        "q": "ABC analysis follows the Pareto principle (80/20 rule).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a key performance indicator (KPI)?",
+        "type": "mcq",
+        "o": [
+            "Quantifiable measure of performance against objectives",
+            "Random number",
+            "No measurement",
+            "Qualitative only"
+        ]
+    },
+    {
+        "q": "KPIs should be aligned with organizational ______.",
+        "type": "fill_blank",
+        "answers": [
+            "strategy"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "failures"
+        ]
+    },
+    {
+        "q": "Too many KPIs can dilute focus.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a strategy map?",
+        "type": "mcq",
+        "o": [
+            "Visual representation of cause-and-effect relationships in strategy",
+            "Physical map",
+            "No visualization",
+            "Random diagram"
+        ]
+    },
+    {
+        "q": "Strategy maps link balanced scorecard perspectives through cause and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "effect"
+        ],
+        "other_options": [
+            "error",
+            "problem",
+            "issue"
+        ]
+    },
+    {
+        "q": "Strategy maps help communicate strategy throughout the organization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is performance pyramid (Lynch and Cross)?",
+        "type": "mcq",
+        "o": [
+            "Framework linking corporate vision to operational measures",
+            "Single measure",
+            "No framework",
+            "Random measures"
+        ]
+    },
+    {
+        "q": "The performance pyramid cascades objectives from vision to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "operations"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "The performance pyramid addresses external effectiveness and internal efficiency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the performance prism?",
+        "type": "mcq",
+        "o": [
+            "Stakeholder-centric performance management framework",
+            "Single stakeholder focus",
+            "No framework",
+            "Random measures"
+        ]
+    },
+    {
+        "q": "The performance prism considers stakeholder satisfaction, strategies, processes, capabilities, and stakeholder ______.",
+        "type": "fill_blank",
+        "answers": [
+            "contribution"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "The performance prism asks what stakeholders want from the organization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Building Block model (Fitzgerald)?",
+        "type": "mcq",
+        "o": [
+            "Performance measurement framework for service organizations",
+            "Manufacturing only",
+            "No framework",
+            "Single measure"
+        ]
+    },
+    {
+        "q": "Building blocks include dimensions, standards, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "rewards"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Building Block model dimensions include results and determinants.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is divisional performance measurement?",
+        "type": "mcq",
+        "o": [
+            "Evaluating performance of decentralized business units",
+            "Only centralized control",
+            "No measurement",
+            "Random evaluation"
+        ]
+    },
+    {
+        "q": "Divisional managers should only be held accountable for controllable ______.",
+        "type": "fill_blank",
+        "answers": [
+            "items"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Controllability principle is important in divisional evaluation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is goal congruence?",
+        "type": "mcq",
+        "o": [
+            "Alignment of individual goals with organizational goals",
+            "Conflicting goals",
+            "No goals",
+            "Random objectives"
+        ]
+    },
+    {
+        "q": "Goal congruence ensures managers act in the organization's best ______.",
+        "type": "fill_blank",
+        "answers": [
+            "interests"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Transfer pricing can affect goal congruence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are non-financial performance measures?",
+        "type": "mcq",
+        "o": [
+            "Performance indicators not expressed in monetary terms",
+            "Only financial measures",
+            "No measures",
+            "Random indicators"
+        ]
+    },
+    {
+        "q": "Non-financial measures include customer satisfaction and quality ______.",
+        "type": "fill_blank",
+        "answers": [
+            "metrics"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Non-financial measures often lead financial results.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is financial statement analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing financial statements to assess performance and position",
+            "No analysis",
+            "Random review",
+            "Ignoring statements"
+        ]
+    },
+    {
+        "q": "Ratio analysis is a key tool in financial statement ______.",
+        "type": "fill_blank",
+        "answers": [
+            "analysis"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Financial ratios should be compared against benchmarks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are profitability ratios?",
+        "type": "mcq",
+        "o": [
+            "Ratios measuring ability to generate profits",
+            "Liquidity ratios",
+            "Gearing ratios",
+            "Activity ratios"
+        ]
+    },
+    {
+        "q": "Match profitability ratios:",
+        "type": "match",
+        "left": [
+            "Gross margin",
+            "Operating margin",
+            "ROE",
+            "ROCE"
+        ],
+        "right": [
+            "Gross profit/Sales",
+            "Operating profit/Sales",
+            "Net income/Equity",
+            "Operating profit/Capital"
+        ]
+    },
+    {
+        "q": "Higher profitability ratios generally indicate better ______.",
+        "type": "fill_blank",
+        "answers": [
+            "performance"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Industry benchmarks are important for comparing profitability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are liquidity ratios?",
+        "type": "mcq",
+        "o": [
+            "Ratios measuring ability to meet short-term obligations",
+            "Profitability ratios",
+            "Gearing ratios",
+            "Activity ratios"
+        ]
+    },
+    {
+        "q": "Match liquidity ratios:",
+        "type": "match",
+        "left": [
+            "Current ratio",
+            "Quick ratio",
+            "Cash ratio"
+        ],
+        "right": [
+            "Current assets/Current liabilities",
+            "Quick assets/Current liabilities",
+            "Cash/Current liabilities"
+        ]
+    },
+    {
+        "q": "Current ratio measures short-term ______.",
+        "type": "fill_blank",
+        "answers": [
+            "solvency"
+        ],
+        "other_options": [
+            "profitability",
+            "growth",
+            "decline"
+        ]
+    },
+    {
+        "q": "Quick ratio excludes inventory from current assets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are activity/efficiency ratios?",
+        "type": "mcq",
+        "o": [
+            "Ratios measuring how efficiently assets are used",
+            "Profitability ratios",
+            "Liquidity ratios",
+            "Gearing ratios"
+        ]
+    },
+    {
+        "q": "Match activity ratios:",
+        "type": "match",
+        "left": [
+            "Inventory turnover",
+            "Receivables days",
+            "Payables days",
+            "Asset turnover"
+        ],
+        "right": [
+            "COGS/Inventory",
+            "Receivables/Sales × 365",
+            "Payables/Purchases × 365",
+            "Sales/Assets"
+        ]
+    },
+    {
+        "q": "Higher inventory turnover suggests more efficient inventory ______.",
+        "type": "fill_blank",
+        "answers": [
+            "management"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Receivables days measures average collection period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are gearing/leverage ratios?",
+        "type": "mcq",
+        "o": [
+            "Ratios measuring the proportion of debt in the capital structure",
+            "Profitability ratios",
+            "Liquidity ratios",
+            "Activity ratios"
+        ]
+    },
+    {
+        "q": "Higher gearing means higher financial ______.",
+        "type": "fill_blank",
+        "answers": [
+            "risk"
+        ],
+        "other_options": [
+            "safety",
+            "security",
+            "stability"
+        ]
+    },
+    {
+        "q": "Interest cover measures ability to pay interest from profits.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Digital technologies are transforming how management accountants work.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Automation will handle routine tasks, freeing accountants for analysis and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "insight"
+        ],
+        "other_options": [
+            "data entry",
+            "filing",
+            "copying"
+        ]
+    },
+    {
+        "q": "Management accounting continues to evolve with technology.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is regression analysis?",
+        "type": "mcq",
+        "o": [
+            "Statistical technique to identify relationships between variables",
+            "Random number generation",
+            "No analysis",
+            "Simple addition"
+        ]
+    },
+    {
+        "q": "Multiple regression uses more than one independent ______.",
+        "type": "fill_blank",
+        "answers": [
+            "variable"
+        ],
+        "other_options": [
+            "constant",
+            "value",
+            "number"
+        ]
+    },
+    {
+        "q": "Regression can be used to separate fixed and variable costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is correlation coefficient?",
+        "type": "mcq",
+        "o": [
+            "Measure of strength and direction of linear relationship between variables",
+            "Random number",
+            "Fixed value",
+            "Constant"
+        ]
+    },
+    {
+        "q": "R-squared measures how much variation is explained by the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "model"
+        ],
+        "other_options": [
+            "problem",
+            "error",
+            "issue"
+        ]
+    },
+    {
+        "q": "A correlation of 1 indicates perfect positive correlation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is time series analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing data points collected over time to identify patterns",
+            "Cross-sectional analysis",
+            "No time consideration",
+            "Random analysis"
+        ]
+    },
+    {
+        "q": "Time series components include trend, seasonal, cyclical, and random ______.",
+        "type": "fill_blank",
+        "answers": [
+            "variation"
+        ],
+        "other_options": [
+            "constants",
+            "values",
+            "numbers"
+        ]
+    },
+    {
+        "q": "Moving averages help smooth time series data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is trend analysis?",
+        "type": "mcq",
+        "o": [
+            "Identifying the general direction of data over time",
+            "Random changes",
+            "No direction",
+            "Constant values"
+        ]
+    },
+    {
+        "q": "Trend can be upward, downward, or ______.",
+        "type": "fill_blank",
+        "answers": [
+            "horizontal"
+        ],
+        "other_options": [
+            "random",
+            "chaotic",
+            "unpredictable"
+        ]
+    },
+    {
+        "q": "Trend extrapolation assumes past patterns continue into the future.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is seasonal variation?",
+        "type": "mcq",
+        "o": [
+            "Regular fluctuations that occur in similar times each year",
+            "Random changes",
+            "Long-term trend",
+            "Cyclical variation"
+        ]
+    },
+    {
+        "q": "Seasonal indices are used to deseasonalize ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "trends",
+            "cycles",
+            "constants"
+        ]
+    },
+    {
+        "q": "Retail sales often show strong seasonal patterns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is exponential smoothing?",
+        "type": "mcq",
+        "o": [
+            "Forecasting method giving more weight to recent observations",
+            "Equal weighting",
+            "Historical weighting only",
+            "No weighting"
+        ]
+    },
+    {
+        "q": "The smoothing constant (alpha) determines weight on recent ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "history",
+            "constants",
+            "values"
+        ]
+    },
+    {
+        "q": "Higher alpha gives more weight to recent observations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is materials requirement planning (MRP)?",
+        "type": "mcq",
+        "o": [
+            "System for managing manufacturing processes and materials",
+            "Simple ordering",
+            "No planning",
+            "Random purchasing"
+        ]
+    },
+    {
+        "q": "MRP calculates materials needed based on the master production ______.",
+        "type": "fill_blank",
+        "answers": [
+            "schedule"
+        ],
+        "other_options": [
+            "list",
+            "order",
+            "quantity"
+        ]
+    },
+    {
+        "q": "MRP systems can reduce inventory holding costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is manufacturing resource planning (MRP II)?",
+        "type": "mcq",
+        "o": [
+            "Extended MRP integrating all manufacturing resources",
+            "Simple MRP",
+            "Materials only",
+            "No planning"
+        ]
+    },
+    {
+        "q": "MRP II includes capacity planning and shop floor ______.",
+        "type": "fill_blank",
+        "answers": [
+            "control"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "MRP II evolved into ERP systems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is enterprise resource planning (ERP)?",
+        "type": "mcq",
+        "o": [
+            "Integrated system managing all business processes",
+            "Manufacturing only",
+            "Finance only",
+            "HR only"
+        ]
+    },
+    {
+        "q": "ERP systems integrate finance, HR, manufacturing, and supply chain ______.",
+        "type": "fill_blank",
+        "answers": [
+            "functions"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "SAP and Oracle are major ERP vendors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost of quality?",
+        "type": "mcq",
+        "o": [
+            "Total cost of conformance and non-conformance to quality requirements",
+            "Production cost only",
+            "No quality cost",
+            "Random cost"
+        ]
+    },
+    {
+        "q": "Cost of conformance includes prevention and ______ costs.",
+        "type": "fill_blank",
+        "answers": [
+            "appraisal"
+        ],
+        "other_options": [
+            "failure",
+            "defect",
+            "waste"
+        ]
+    },
+    {
+        "q": "Non-conformance costs are typically higher than conformance costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is process capability?",
+        "type": "mcq",
+        "o": [
+            "Ability of a process to produce output within specifications",
+            "No measurement",
+            "Random capability",
+            "Infinite capability"
+        ]
+    },
+    {
+        "q": "Cp and Cpk are measures of process ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capability"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Higher Cp values indicate better process capability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is statistical process control (SPC)?",
+        "type": "mcq",
+        "o": [
+            "Using statistics to monitor and control a process",
+            "No control",
+            "Random monitoring",
+            "Manual inspection only"
+        ]
+    },
+    {
+        "q": "Control charts are a key tool in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "SPC"
+        ],
+        "other_options": [
+            "budgeting",
+            "forecasting",
+            "planning"
+        ]
+    },
+    {
+        "q": "SPC distinguishes between common cause and special cause variation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are control limits?",
+        "type": "mcq",
+        "o": [
+            "Boundaries that define acceptable process variation",
+            "No limits",
+            "Infinite limits",
+            "Random boundaries"
+        ]
+    },
+    {
+        "q": "Upper and lower control limits are typically set at ±3 standard ______.",
+        "type": "fill_blank",
+        "answers": [
+            "deviations"
+        ],
+        "other_options": [
+            "errors",
+            "problems",
+            "issues"
+        ]
+    },
+    {
+        "q": "Points outside control limits indicate special cause variation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is idle time variance?",
+        "type": "mcq",
+        "o": [
+            "Cost of time when workers are paid but not producing",
+            "Production time",
+            "Overtime",
+            "Machine time"
+        ]
+    },
+    {
+        "q": "Idle time can be caused by machine breakdowns or material ______.",
+        "type": "fill_blank",
+        "answers": [
+            "shortages"
+        ],
+        "other_options": [
+            "surplus",
+            "excess",
+            "abundance"
+        ]
+    },
+    {
+        "q": "Idle time variance is typically adverse.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is mix variance?",
+        "type": "mcq",
+        "o": [
+            "Variance due to using different proportions of inputs than planned",
+            "Price variance",
+            "Volume variance",
+            "Efficiency variance"
+        ]
+    },
+    {
+        "q": "Mix variance occurs when actual input proportions differ from ______.",
+        "type": "fill_blank",
+        "answers": [
+            "standard"
+        ],
+        "other_options": [
+            "actual",
+            "random",
+            "old"
+        ]
+    },
+    {
+        "q": "Materials mix variance can arise from substituting cheaper materials.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is yield variance?",
+        "type": "mcq",
+        "o": [
+            "Variance due to actual output differing from expected output",
+            "Price variance",
+            "Mix variance",
+            "Rate variance"
+        ]
+    },
+    {
+        "q": "Yield variance measures the efficiency of converting inputs to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "outputs"
+        ],
+        "other_options": [
+            "inputs",
+            "costs",
+            "prices"
+        ]
+    },
+    {
+        "q": "Favorable yield variance indicates better than expected output.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is planning variance?",
+        "type": "mcq",
+        "o": [
+            "Variance due to errors in setting the original standard",
+            "Operational variance",
+            "Random variance",
+            "Actual variance"
+        ]
+    },
+    {
+        "q": "Planning variance is not controllable by operational ______.",
+        "type": "fill_blank",
+        "answers": [
+            "managers"
+        ],
+        "other_options": [
+            "systems",
+            "processes",
+            "machines"
+        ]
+    },
+    {
+        "q": "Separating planning from operational variances improves performance evaluation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is operational variance?",
+        "type": "mcq",
+        "o": [
+            "Variance due to operational efficiency differences from revised standard",
+            "Planning variance",
+            "Original variance",
+            "Random variance"
+        ]
+    },
+    {
+        "q": "Operational managers should be evaluated on operational ______.",
+        "type": "fill_blank",
+        "answers": [
+            "variances"
+        ],
+        "other_options": [
+            "plans",
+            "standards",
+            "budgets"
+        ]
+    },
+    {
+        "q": "Ex-post standards reflect what the standard should have been given conditions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is responsibility accounting?",
+        "type": "mcq",
+        "o": [
+            "Holding managers accountable for their areas of responsibility",
+            "No accountability",
+            "Central control only",
+            "Random assignment"
+        ]
+    },
+    {
+        "q": "Responsibility accounting requires clear definition of responsibility ______.",
+        "type": "fill_blank",
+        "answers": [
+            "centers"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Managers should only be held accountable for controllable costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is controllability principle?",
+        "type": "mcq",
+        "o": [
+            "Managers should only be evaluated on items they can control",
+            "Evaluate everything",
+            "No evaluation",
+            "Random items"
+        ]
+    },
+    {
+        "q": "Uncontrollable costs should be excluded from performance ______.",
+        "type": "fill_blank",
+        "answers": [
+            "evaluation"
+        ],
+        "other_options": [
+            "reports",
+            "budgets",
+            "plans"
+        ]
+    },
+    {
+        "q": "Head office allocations are often not controllable by divisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is beyond budgeting?",
+        "type": "mcq",
+        "o": [
+            "Management model that replaces traditional budgeting with adaptive processes",
+            "More budgeting",
+            "Traditional budgeting",
+            "No planning"
+        ]
+    },
+    {
+        "q": "Beyond Budgeting advocates relative targets and rolling ______.",
+        "type": "fill_blank",
+        "answers": [
+            "forecasts"
+        ],
+        "other_options": [
+            "budgets",
+            "plans",
+            "standards"
+        ]
+    },
+    {
+        "q": "Beyond Budgeting aims to create more adaptive organizations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are relative performance targets?",
+        "type": "mcq",
+        "o": [
+            "Targets set relative to competitors or peers rather than fixed numbers",
+            "Absolute targets",
+            "Fixed budgets",
+            "No targets"
+        ]
+    },
+    {
+        "q": "Relative targets adapt to changing market ______.",
+        "type": "fill_blank",
+        "answers": [
+            "conditions"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Relative performance evaluation compares to external benchmarks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is capacity cost management?",
+        "type": "mcq",
+        "o": [
+            "Managing costs associated with productive capacity",
+            "Only variable costs",
+            "No capacity management",
+            "Random cost allocation"
+        ]
+    },
+    {
+        "q": "Unused capacity represents idle capacity ______.",
+        "type": "fill_blank",
+        "answers": [
+            "cost"
+        ],
+        "other_options": [
+            "revenue",
+            "profit",
+            "gain"
+        ]
+    },
+    {
+        "q": "Capacity utilization rate measures how much capacity is actually used.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is practical capacity?",
+        "type": "mcq",
+        "o": [
+            "Maximum capacity allowing for normal stoppages and maintenance",
+            "Theoretical capacity",
+            "No capacity",
+            "Infinite capacity"
+        ]
+    },
+    {
+        "q": "Practical capacity is typically less than theoretical ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capacity"
+        ],
+        "other_options": [
+            "demand",
+            "supply",
+            "output"
+        ]
+    },
+    {
+        "q": "Using practical capacity to absorb overhead reveals unused capacity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost driver analysis?",
+        "type": "mcq",
+        "o": [
+            "Identifying factors that cause costs to change",
+            "No analysis",
+            "Random identification",
+            "Ignoring costs"
+        ]
+    },
+    {
+        "q": "Understanding cost drivers enables better cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "management"
+        ],
+        "other_options": [
+            "increases",
+            "problems",
+            "errors"
+        ]
+    },
+    {
+        "q": "Cost drivers can be structural or executional.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are structural cost drivers?",
+        "type": "mcq",
+        "o": [
+            "Long-term strategic choices affecting cost structure",
+            "Operational decisions",
+            "Short-term choices",
+            "Random factors"
+        ]
+    },
+    {
+        "q": "Scale, scope, and technology are examples of structural cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "drivers"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Structural drivers are harder to change than executional drivers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are executional cost drivers?",
+        "type": "mcq",
+        "o": [
+            "Operational factors affecting how efficiently resources are used",
+            "Strategic choices",
+            "Long-term decisions",
+            "Structural factors"
+        ]
+    },
+    {
+        "q": "Workforce involvement and quality management are executional cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "drivers"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Executional drivers reflect operational efficiency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is contribution per unit of bottleneck resource?",
+        "type": "mcq",
+        "o": [
+            "Contribution margin divided by usage of the constraining resource",
+            "Total contribution",
+            "Contribution per sales",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Maximize contribution per unit of bottleneck for optimal product ______.",
+        "type": "fill_blank",
+        "answers": [
+            "mix"
+        ],
+        "other_options": [
+            "price",
+            "quality",
+            "volume"
+        ]
+    },
+    {
+        "q": "Products with highest contribution per bottleneck resource should be prioritized.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is shadow price?",
+        "type": "mcq",
+        "o": [
+            "Value of obtaining one additional unit of a scarce resource",
+            "Normal price",
+            "No value",
+            "Fixed price"
+        ]
+    },
+    {
+        "q": "Shadow price represents the maximum extra amount to pay for more ______.",
+        "type": "fill_blank",
+        "answers": [
+            "resource"
+        ],
+        "other_options": [
+            "products",
+            "sales",
+            "profits"
+        ]
+    },
+    {
+        "q": "Shadow price equals improvement in objective function per additional unit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is dual price?",
+        "type": "mcq",
+        "o": [
+            "Same as shadow price in linear programming",
+            "Selling price",
+            "Cost price",
+            "Random price"
+        ]
+    },
+    {
+        "q": "Dual prices are also called marginal ______.",
+        "type": "fill_blank",
+        "answers": [
+            "values"
+        ],
+        "other_options": [
+            "costs",
+            "prices",
+            "rates"
+        ]
+    },
+    {
+        "q": "Non-binding constraints have zero shadow prices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CVP charting?",
+        "type": "mcq",
+        "o": [
+            "Visual representation of cost-volume-profit relationships",
+            "No visualization",
+            "Random chart",
+            "Financial statements"
+        ]
+    },
+    {
+        "q": "Break-even charts show the break-even ______.",
+        "type": "fill_blank",
+        "answers": [
+            "point"
+        ],
+        "other_options": [
+            "problem",
+            "error",
+            "issue"
+        ]
+    },
+    {
+        "q": "Profit-volume charts focus on profit at different volume levels.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is contribution to sales (C/S) ratio?",
+        "type": "mcq",
+        "o": [
+            "Contribution margin divided by sales revenue",
+            "Cost divided by sales",
+            "Profit divided by sales",
+            "No ratio"
+        ]
+    },
+    {
+        "q": "C/S ratio is also called contribution margin ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ratio"
+        ],
+        "other_options": [
+            "cost",
+            "price",
+            "value"
+        ]
+    },
+    {
+        "q": "Higher C/S ratio means greater sensitivity to sales volume changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is multi-product break-even?",
+        "type": "mcq",
+        "o": [
+            "Break-even calculation when selling multiple products",
+            "Single product break-even",
+            "No break-even",
+            "Simple calculation"
+        ]
+    },
+    {
+        "q": "Multi-product break-even uses weighted average contribution per ______.",
+        "type": "fill_blank",
+        "answers": [
+            "unit"
+        ],
+        "other_options": [
+            "product",
+            "item",
+            "good"
+        ]
+    },
+    {
+        "q": "Sales mix assumption is critical for multi-product break-even.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is absorption costing profit reconciliation?",
+        "type": "mcq",
+        "o": [
+            "Reconciling profit differences between absorption and marginal costing",
+            "No reconciliation",
+            "Same profit always",
+            "Random difference"
+        ]
+    },
+    {
+        "q": "Profit difference = Change in inventory × Fixed overhead absorption ______.",
+        "type": "fill_blank",
+        "answers": [
+            "rate"
+        ],
+        "other_options": [
+            "cost",
+            "price",
+            "value"
+        ]
+    },
+    {
+        "q": "Inventory increases lead to higher absorption costing profit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is over/under absorption of overhead?",
+        "type": "mcq",
+        "o": [
+            "Difference between absorbed and actual overhead",
+            "No difference",
+            "Always equal",
+            "Random amount"
+        ]
+    },
+    {
+        "q": "Over-absorption occurs when absorbed overhead exceeds ______.",
+        "type": "fill_blank",
+        "answers": [
+            "actual"
+        ],
+        "other_options": [
+            "budgeted",
+            "expected",
+            "planned"
+        ]
+    },
+    {
+        "q": "Under-absorption reduces reported profit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is blanket overhead rate?",
+        "type": "mcq",
+        "o": [
+            "Single overhead rate applied across all departments or products",
+            "Multiple rates",
+            "No rate",
+            "Departmental rates"
+        ]
+    },
+    {
+        "q": "Blanket rates are simpler but less accurate than departmental ______.",
+        "type": "fill_blank",
+        "answers": [
+            "rates"
+        ],
+        "other_options": [
+            "costs",
+            "prices",
+            "values"
+        ]
+    },
+    {
+        "q": "Blanket rates may distort product costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is departmental overhead rate?",
+        "type": "mcq",
+        "o": [
+            "Separate overhead rate for each department",
+            "Single rate for all",
+            "No overhead allocation",
+            "Random allocation"
+        ]
+    },
+    {
+        "q": "Departmental rates reflect the different overhead structures of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "departments"
+        ],
+        "other_options": [
+            "products",
+            "customers",
+            "regions"
+        ]
+    },
+    {
+        "q": "Departmental rates are more accurate than blanket rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is reciprocal method of overhead allocation?",
+        "type": "mcq",
+        "o": [
+            "Method recognizing mutual service provision between service departments",
+            "Direct method",
+            "Step-down method",
+            "No allocation"
+        ]
+    },
+    {
+        "q": "Reciprocal method uses simultaneous equations to allocate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "overhead"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "sales"
+        ]
+    },
+    {
+        "q": "Reciprocal method is more accurate but complex.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is step-down method?",
+        "type": "mcq",
+        "o": [
+            "Sequential allocation of service department costs to production",
+            "Direct method",
+            "Reciprocal method",
+            "No allocation"
+        ]
+    },
+    {
+        "q": "Step-down method allocates service department providing most ______ first.",
+        "type": "fill_blank",
+        "answers": [
+            "service"
+        ],
+        "other_options": [
+            "cost",
+            "profit",
+            "revenue"
+        ]
+    },
+    {
+        "q": "Step-down method ignores return services from allocated departments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is direct method of overhead allocation?",
+        "type": "mcq",
+        "o": [
+            "Allocating service department costs directly to production departments",
+            "Step-down method",
+            "Reciprocal method",
+            "No allocation"
+        ]
+    },
+    {
+        "q": "Direct method ignores services between service ______.",
+        "type": "fill_blank",
+        "answers": [
+            "departments"
+        ],
+        "other_options": [
+            "products",
+            "customers",
+            "regions"
+        ]
+    },
+    {
+        "q": "Direct method is simplest but least accurate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is predetermined overhead recovery rate (POHRR)?",
+        "type": "mcq",
+        "o": [
+            "Rate calculated in advance using budgeted costs and activity",
+            "Actual rate",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "POHRR = Budgeted overhead / Budgeted ______.",
+        "type": "fill_blank",
+        "answers": [
+            "activity"
+        ],
+        "other_options": [
+            "profit",
+            "revenue",
+            "sales"
+        ]
+    },
+    {
+        "q": "Using predetermined rates smooths product costs regardless of actual volume.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is throughput?",
+        "type": "mcq",
+        "o": [
+            "Sales revenue minus direct materials cost",
+            "Gross profit",
+            "Net profit",
+            "Contribution margin"
+        ]
+    },
+    {
+        "q": "Throughput accounting treats all operating costs except materials as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "fixed"
+        ],
+        "other_options": [
+            "variable",
+            "prime",
+            "direct"
+        ]
+    },
+    {
+        "q": "Throughput per bottleneck hour guides product prioritization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is throughput accounting ratio (TPAR)?",
+        "type": "mcq",
+        "o": [
+            "Return per factory hour divided by cost per factory hour",
+            "Simple profit ratio",
+            "Random ratio",
+            "No ratio"
+        ]
+    },
+    {
+        "q": "TPAR greater than 1 indicates the product is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profitable"
+        ],
+        "other_options": [
+            "unprofitable",
+            "neutral",
+            "breakeven"
+        ]
+    },
+    {
+        "q": "Throughput accounting is particularly useful for bottleneck management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is functional analysis in value engineering?",
+        "type": "mcq",
+        "o": [
+            "Identifying the functions of each product component",
+            "Random analysis",
+            "No analysis",
+            "Cost analysis only"
+        ]
+    },
+    {
+        "q": "Value = Function / ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Cost"
+        ],
+        "other_options": [
+            "Profit",
+            "Revenue",
+            "Sales"
+        ]
+    },
+    {
+        "q": "Value engineering aims to improve value by reducing costs or improving functions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost table/database?",
+        "type": "mcq",
+        "o": [
+            "Database of costs used for product design and costing decisions",
+            "Random list",
+            "No database",
+            "Simple spreadsheet"
+        ]
+    },
+    {
+        "q": "Cost tables support target costing during product ______.",
+        "type": "fill_blank",
+        "answers": [
+            "design"
+        ],
+        "other_options": [
+            "sale",
+            "use",
+            "disposal"
+        ]
+    },
+    {
+        "q": "Cost tables contain historical and estimated cost information.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is tear-down analysis?",
+        "type": "mcq",
+        "o": [
+            "Disassembling competitor products to understand costs and features",
+            "Building products",
+            "No analysis",
+            "Random review"
+        ]
+    },
+    {
+        "q": "Tear-down analysis is also called reverse ______.",
+        "type": "fill_blank",
+        "answers": [
+            "engineering"
+        ],
+        "other_options": [
+            "selling",
+            "buying",
+            "making"
+        ]
+    },
+    {
+        "q": "Tear-down analysis supports competitive benchmarking.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The role of management accountant is evolving from scorekeeper to business partner.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Data analytics is increasingly important in management ______.",
+        "type": "fill_blank",
+        "answers": [
+            "accounting"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Ethical behavior is fundamental to the management accounting profession.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is opportunity cost in decision-making?",
+        "type": "mcq",
+        "o": [
+            "Value of the next best alternative forgone",
+            "Historic cost",
+            "Sunk cost",
+            "Fixed cost"
+        ]
+    },
+    {
+        "q": "Opportunity cost represents the benefit sacrificed by choosing one ______.",
+        "type": "fill_blank",
+        "answers": [
+            "alternative"
+        ],
+        "other_options": [
+            "expense",
+            "cost",
+            "revenue"
+        ]
+    },
+    {
+        "q": "Opportunity costs are relevant for decision-making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is relevant cost?",
+        "type": "mcq",
+        "o": [
+            "Future cost that differs between alternatives",
+            "Historic cost",
+            "Sunk cost",
+            "All costs"
+        ]
+    },
+    {
+        "q": "Relevant costs are future and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "incremental"
+        ],
+        "other_options": [
+            "historic",
+            "sunk",
+            "fixed"
+        ]
+    },
+    {
+        "q": "Sunk costs are not relevant for decision-making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is incremental cost?",
+        "type": "mcq",
+        "o": [
+            "Additional cost incurred from a decision",
+            "Total cost",
+            "Average cost",
+            "Fixed cost"
+        ]
+    },
+    {
+        "q": "Incremental costs are also called differential ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "revenues",
+            "profits",
+            "assets"
+        ]
+    },
+    {
+        "q": "Incremental revenue minus incremental cost equals incremental profit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is avoidable cost?",
+        "type": "mcq",
+        "o": [
+            "Cost that can be eliminated by a decision",
+            "Cost that cannot be eliminated",
+            "Sunk cost",
+            "Committed cost"
+        ]
+    },
+    {
+        "q": "Avoidable costs are relevant; unavoidable costs are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "irrelevant"
+        ],
+        "other_options": [
+            "relevant",
+            "important",
+            "critical"
+        ]
+    },
+    {
+        "q": "Common fixed costs are often unavoidable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is make or buy decision?",
+        "type": "mcq",
+        "o": [
+            "Deciding whether to produce internally or purchase externally",
+            "Selling decision",
+            "Pricing decision",
+            "Investment decision"
+        ]
+    },
+    {
+        "q": "Make or buy decisions compare internal production costs with purchase ______.",
+        "type": "fill_blank",
+        "answers": [
+            "price"
+        ],
+        "other_options": [
+            "value",
+            "amount",
+            "quantity"
+        ]
+    },
+    {
+        "q": "Qualitative factors like quality control are important in make or buy decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is special order decision?",
+        "type": "mcq",
+        "o": [
+            "Deciding whether to accept an order at below normal price",
+            "Regular order",
+            "Standing order",
+            "Investment decision"
+        ]
+    },
+    {
+        "q": "Special orders should contribute to covering fixed costs and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit"
+        ],
+        "other_options": [
+            "loss",
+            "expense",
+            "liability"
+        ]
+    },
+    {
+        "q": "Special orders can be accepted if they have positive contribution.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is shut-down decision?",
+        "type": "mcq",
+        "o": [
+            "Deciding whether to close a segment or continue operations",
+            "Starting a business",
+            "Expansion decision",
+            "Investment decision"
+        ]
+    },
+    {
+        "q": "Segment should be closed if avoidable costs exceed avoidable ______.",
+        "type": "fill_blank",
+        "answers": [
+            "revenues"
+        ],
+        "other_options": [
+            "costs",
+            "expenses",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "Common fixed costs should not influence segment closure decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is product mix decision under constraints?",
+        "type": "mcq",
+        "o": [
+            "Deciding which products to make when resources are limited",
+            "Unlimited production",
+            "Full product range",
+            "No decision"
+        ]
+    },
+    {
+        "q": "Rank products by contribution per unit of limiting ______.",
+        "type": "fill_blank",
+        "answers": [
+            "factor"
+        ],
+        "other_options": [
+            "product",
+            "cost",
+            "expense"
+        ]
+    },
+    {
+        "q": "Maximize total contribution when resources are constrained.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is further processing decision?",
+        "type": "mcq",
+        "o": [
+            "Deciding whether to sell at split-off or process further",
+            "Initial processing",
+            "No processing",
+            "Investment decision"
+        ]
+    },
+    {
+        "q": "Process further if incremental revenue exceeds incremental ______.",
+        "type": "fill_blank",
+        "answers": [
+            "cost"
+        ],
+        "other_options": [
+            "revenue",
+            "profit",
+            "asset"
+        ]
+    },
+    {
+        "q": "Joint costs are sunk for further processing decisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is linear programming?",
+        "type": "mcq",
+        "o": [
+            "Mathematical technique to optimize resource allocation under constraints",
+            "Random allocation",
+            "No optimization",
+            "Simple budgeting"
+        ]
+    },
+    {
+        "q": "Linear programming has an objective function and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "constraints"
+        ],
+        "other_options": [
+            "no limits",
+            "no rules",
+            "no bounds"
+        ]
+    },
+    {
+        "q": "The feasible region represents all possible solutions meeting constraints.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the objective function?",
+        "type": "mcq",
+        "o": [
+            "Mathematical expression to maximize or minimize",
+            "Constraint",
+            "Limit",
+            "Boundary"
+        ]
+    },
+    {
+        "q": "The optimal solution typically occurs at a corner of the feasible ______.",
+        "type": "fill_blank",
+        "answers": [
+            "region"
+        ],
+        "other_options": [
+            "point",
+            "line",
+            "area"
+        ]
+    },
+    {
+        "q": "Simplex method solves complex linear programming problems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is performance reporting?",
+        "type": "mcq",
+        "o": [
+            "Providing managers with information to evaluate performance",
+            "No reporting",
+            "Random information",
+            "External reporting only"
+        ]
+    },
+    {
+        "q": "Performance reports should highlight significant ______.",
+        "type": "fill_blank",
+        "answers": [
+            "variances"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "assets"
+        ]
+    },
+    {
+        "q": "Exception reporting focuses on significant deviations from plan.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is management by exception?",
+        "type": "mcq",
+        "o": [
+            "Focusing attention on significant variances from plan",
+            "Managing everything equally",
+            "No management",
+            "Random management"
+        ]
+    },
+    {
+        "q": "Management by exception reduces information ______.",
+        "type": "fill_blank",
+        "answers": [
+            "overload"
+        ],
+        "other_options": [
+            "shortage",
+            "absence",
+            "lack"
+        ]
+    },
+    {
+        "q": "Significant variances require investigation and action.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is trend analysis in management accounting?",
+        "type": "mcq",
+        "o": [
+            "Comparing performance data over time periods",
+            "Single period analysis",
+            "No comparison",
+            "Random analysis"
+        ]
+    },
+    {
+        "q": "Trend analysis helps identify patterns and potential ______.",
+        "type": "fill_blank",
+        "answers": [
+            "problems"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "assets"
+        ]
+    },
+    {
+        "q": "Detecting trends early enables proactive management.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is rolling forecast?",
+        "type": "mcq",
+        "o": [
+            "Forecast continuously updated by adding new periods as old ones pass",
+            "Static forecast",
+            "Annual forecast",
+            "No forecast"
+        ]
+    },
+    {
+        "q": "Rolling forecasts maintain a constant planning ______.",
+        "type": "fill_blank",
+        "answers": [
+            "horizon"
+        ],
+        "other_options": [
+            "period",
+            "budget",
+            "year"
+        ]
+    },
+    {
+        "q": "Rolling forecasts are more adaptive than annual budgets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is business intelligence?",
+        "type": "mcq",
+        "o": [
+            "Technologies and practices for collecting, integrating, and analyzing business data",
+            "No technology",
+            "Manual reporting",
+            "Paper-based systems"
+        ]
+    },
+    {
+        "q": "BI tools provide dashboards and interactive ______.",
+        "type": "fill_blank",
+        "answers": [
+            "reports"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Business intelligence supports data-driven decision-making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is a dashboard?",
+        "type": "mcq",
+        "o": [
+            "Visual display of key performance indicators and metrics",
+            "Text-only report",
+            "Spreadsheet",
+            "Database"
+        ]
+    },
+    {
+        "q": "Dashboards provide real-time visibility into ______.",
+        "type": "fill_blank",
+        "answers": [
+            "performance"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Effective dashboards are clear, concise, and actionable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is predictive analytics?",
+        "type": "mcq",
+        "o": [
+            "Using data and statistical techniques to predict future outcomes",
+            "Historical analysis only",
+            "No prediction",
+            "Random guessing"
+        ]
+    },
+    {
+        "q": "Predictive analytics uses models to forecast future ______.",
+        "type": "fill_blank",
+        "answers": [
+            "behavior"
+        ],
+        "other_options": [
+            "history",
+            "past",
+            "yesterday"
+        ]
+    },
+    {
+        "q": "Machine learning enhances predictive analytics capabilities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is prescriptive analytics?",
+        "type": "mcq",
+        "o": [
+            "Recommending actions based on analytics insights",
+            "Describing past data",
+            "Predicting future only",
+            "No recommendations"
+        ]
+    },
+    {
+        "q": "Prescriptive analytics moves from prediction to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "action"
+        ],
+        "other_options": [
+            "inaction",
+            "waiting",
+            "delay"
+        ]
+    },
+    {
+        "q": "Prescriptive analytics is the most advanced level of analytics.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cloud computing is transforming management accounting systems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ERP systems integrate financial and operational ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Automation is changing the role of management accountants.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cybersecurity is critical for protecting financial systems and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "data"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Continuous professional development maintains accountant competence.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Management accountants must balance efficiency with ethical ______.",
+        "type": "fill_blank",
+        "answers": [
+            "standards"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Sustainability reporting is increasingly important in management accounting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Environmental management accounting tracks environmental costs and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "benefits"
+        ],
+        "other_options": [
+            "problems",
+            "errors",
+            "issues"
+        ]
+    },
+    {
+        "q": "Integrated reporting connects financial and non-financial information.",
+        "type": "true_false",
+        "correct": "True"
+    }
+]

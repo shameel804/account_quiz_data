@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Double-Entry Basics 📚",
+        "ques": "Explain the **double-entry principle** in bookkeeping. What is meant by **debit** and **credit**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Double-Entry Principle**: Every transaction affects at least two accounts, with equal debits and credits.\n\n**Debits**:\n* Increase assets\n* Increase expenses\n* Decrease liabilities\n* Decrease equity\n* Decrease income\n\n**Credits**:\n* Decrease assets\n* Decrease expenses\n* Increase liabilities\n* Increase equity\n* Increase income\n\n**Rule**: Total Debits = Total Credits (always)"
+        },
+        "explanation": "Double-entry bookkeeping has been used since the 15th century. It provides a ***complete record*** of transactions and ensures the accounting equation ***Assets = Liabilities + Equity*** always balances. The system is ***self-checking*** - if debits don't equal credits, there's an error."
+    },
+    {
+        "title": "Recording Sales Transactions 🧾",
+        "ques": "Show the **journal entries** for: (1) Cash sale of goods for $500, and (2) Credit sale of goods for $800.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**1. Cash Sale $500**:\n| Account | Debit | Credit |\n|---------|-------|--------|\n| Cash/Bank | $500 | - |\n| Sales Revenue | - | $500 |\n\n**2. Credit Sale $800**:\n| Account | Debit | Credit |\n|---------|-------|--------|\n| Accounts Receivable | $800 | - |\n| Sales Revenue | - | $800 |\n\n*Both entries recognise revenue when goods are delivered to customer.*"
+        },
+        "explanation": "For a cash sale, the business receives ***immediate payment***, so Cash increases (debit). For a credit sale, the customer ***owes money***, creating a receivable (asset, debit). Revenue is ***recognised at the point of sale***, regardless of when cash is received. This is the ***accruals basis***."
+    },
+    {
+        "title": "Trial Balance Purpose 📋",
+        "ques": "What is a **trial balance** and what are its **limitations**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Trial Balance**: A list of all ledger account balances at a specific date, with debits and credits in separate columns.\n\n**Purpose**:\n* Check arithmetic accuracy (debits = credits)\n* Starting point for preparing financial statements\n\n**Limitations** (errors NOT detected):\n1. Error of omission (transaction not recorded at all)\n2. Error of commission (wrong account of same type)\n3. Error of principle (wrong type of account)\n4. Error of original entry (wrong amount both sides)\n5. Compensating errors (two errors cancel out)\n6. Error of reversal (debits and credits swapped)"
+        },
+        "explanation": "A balanced trial balance does ***not guarantee*** all entries are correct. The limitations highlight that the trial balance only checks ***mathematical accuracy***, not the ***validity*** or ***completeness*** of entries. Additional controls like reconciliations and audits are needed."
+    },
+    {
+        "title": "Accruals and Prepayments 📆",
+        "ques": "Explain the difference between **accruals** and **prepayments** with examples.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Accruals**: Expenses incurred but not yet paid or recorded.\n* *Example*: Electricity used in December but billed in January\n* *Adjustment*: Debit Expense, Credit Accrual (liability)\n\n**Prepayments**: Expenses paid in advance but not yet consumed.\n* *Example*: Insurance paid for 12 months but only 6 months belong to current period\n* *Adjustment*: Debit Prepayment (asset), Credit Expense\n\n**Purpose**: Ensure expenses are matched to the correct accounting period."
+        },
+        "explanation": "Accruals and prepayments apply the ***matching principle*** - expenses should be recognised when incurred, not when paid. At year-end, ***adjusting entries*** are made to correct the timing of expenses. This is essential for ***accurate profit measurement***."
+    },
+    {
+        "title": "Depreciation Methods 📉",
+        "ques": "Compare the **straight-line method** and **reducing balance method** of depreciation.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Straight-Line Method**:\n* Formula: (Cost - Residual Value) / Useful Life\n* Equal depreciation each year\n* Simple to calculate\n* Best when asset used evenly over life\n\n**Reducing Balance Method**:\n* Formula: Net Book Value x Fixed Percentage\n* Higher depreciation in early years\n* More complex calculation\n* Best when asset loses value quickly initially (e.g., vehicles)\n\n*Example*: Asset cost $10,000, 5-year life, $1,000 residual\n* Straight-line: $1,800/year\n* Reducing balance (40%): Year 1 = $4,000, Year 2 = $2,400..."
+        },
+        "explanation": "Depreciation allocates the cost of an asset over its ***useful life***. It is a ***non-cash expense*** that reduces profit and asset value. The choice of method should reflect the ***pattern of economic benefits*** from the asset. Both methods are acceptable under accounting standards."
+    },
+    {
+        "title": "Bank Reconciliation 🏦",
+        "ques": "Why might the **cash book balance** differ from the **bank statement balance**? List four common differences.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Common Differences**:\n\n**1. Timing Differences** (adjust the reconciliation):\n* **Unpresented cheques**: Issued but not yet cleared by bank\n* **Uncredited deposits**: Paid in but not yet shown on statement\n\n**2. Items in Bank Statement Only** (update cash book):\n* **Bank charges**: Fees deducted by bank\n* **Interest received/paid**: Credited/debited by bank\n* **Direct debits/standing orders**: Automatic payments\n* **Dishonoured cheques**: Customer's cheque bounced"
+        },
+        "explanation": "Bank reconciliation is a key ***internal control*** that ensures cash records are accurate. It should be performed ***regularly*** (monthly or weekly). Differences must be ***investigated*** and ***corrected*** promptly. The reconciliation catches both ***errors*** and potential ***fraud***."
+    },
+    {
+        "title": "Inventory Valuation Methods 📦",
+        "ques": "Compare **FIFO** and **AVCO** (weighted average cost) methods of inventory valuation.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**FIFO (First In, First Out)**:\n* Assumes oldest inventory sold first\n* Closing inventory at most recent prices\n* In times of rising prices: Higher profit, higher inventory value\n\n**AVCO (Weighted Average Cost)**:\n* Calculates average cost after each purchase\n* Issues valued at this average\n* In times of rising prices: Medium profit, medium inventory value\n\n**Note**: LIFO (Last In, First Out) is prohibited under IFRS but allowed under US GAAP."
+        },
+        "explanation": "Inventory valuation affects both ***profit*** (cost of sales) and ***balance sheet*** (inventory value). Under IAS 2, inventory is valued at the ***lower of cost and net realisable value***. The choice of method should be ***consistent*** and ***reflect actual flow*** where possible."
+    },
+    {
+        "title": "Accounting for Irrecoverable Debts 💸",
+        "ques": "Explain the accounting treatment for **irrecoverable debts** (bad debts) and **allowance for receivables**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Irrecoverable Debts (Write-off)**:\n* When debt is definitely not collectible\n* Debit: Irrecoverable Debt Expense\n* Credit: Accounts Receivable\n\n**Allowance for Receivables**:\n* Provision for debts that *might* not be collected\n* Estimated percentage of receivables\n* Adjustments:\n  * Increase: Debit Expense, Credit Allowance\n  * Decrease: Debit Allowance, Credit Income\n\n**Balance Sheet Presentation**:\nReceivables shown net of allowance (Gross - Allowance = Net)"
+        },
+        "explanation": "The allowance method applies the ***prudence concept*** - recognising potential losses before they are certain. It ***matches*** the expense against the revenue from the credit sale. The allowance is a ***contra-asset*** that reduces the reported value of receivables."
+    },
+    {
+        "title": "Income Statement Structure 📊",
+        "ques": "List the **main components** of an income statement (statement of profit or loss) in order.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Income Statement Structure**:\n\n1. **Revenue** (Sales)\n2. Less: **Cost of Sales**\n   = **Gross Profit**\n3. Less: **Distribution Costs**\n4. Less: **Administrative Expenses**\n   = **Operating Profit**\n5. Plus/Less: **Finance Income/Costs**\n   = **Profit Before Tax**\n6. Less: **Tax Expense**\n   = **Profit for the Year**\n\n*May also show: Other Comprehensive Income items*"
+        },
+        "explanation": "The income statement shows ***financial performance*** over a period. It follows the ***accruals basis***, matching revenue with related costs. Key ratios from this statement include ***gross profit margin*** and ***operating profit margin***. The format above follows ***IAS 1*** presentation requirements."
+    },
+    {
+        "title": "Balance Sheet Elements 📑",
+        "ques": "Define **assets**, **liabilities**, and **equity** according to the accounting framework.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Assets**:\n* Resources controlled by the entity\n* Result of past events\n* Expected to generate future economic benefits\n* *Examples*: Cash, inventory, equipment, receivables\n\n**Liabilities**:\n* Present obligations of the entity\n* Result of past events\n* Settlement expected to result in outflow of resources\n* *Examples*: Loans, payables, accruals, provisions\n\n**Equity**:\n* Residual interest in assets after deducting liabilities\n* Represents owners' claim on the business\n* *Components*: Share capital, retained earnings, reserves"
+        },
+        "explanation": "These definitions come from the ***Conceptual Framework*** for financial reporting. Recognition requires the item to meet the definition ***and*** be reliably measurable. The ***accounting equation*** shows the relationship: **Assets = Liabilities + Equity**."
+    },
+    {
+        "title": "Non-Current Asset Acquisition 🏗️",
+        "ques": "What costs should be included in the **initial cost** of a non-current (fixed) asset?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Included in Cost**:\n* Purchase price (after deducting discounts)\n* Import duties and non-refundable taxes\n* Delivery and handling costs\n* Installation and assembly costs\n* Professional fees (architects, engineers)\n* Cost of testing the asset\n* Site preparation costs\n\n**NOT Included** (expense immediately):\n* General administrative overheads\n* Training costs\n* Start-up and pre-production costs\n* Operating losses before full production"
+        },
+        "explanation": "Under ***IAS 16***, cost includes all expenditure ***directly attributable*** to bringing the asset to its intended use and location. ***Borrowing costs*** may be capitalised under IAS 23 if the asset takes substantial time to get ready. The principle is to capitalise costs that add ***future economic value***."
+    },
+    {
+        "title": "Control Accounts 📒",
+        "ques": "What is the purpose of **sales ledger control account** and **purchases ledger control account**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Purpose**:\n1. **Summary**: Shows total receivables/payables in one account\n2. **Control**: Balance should match total of individual accounts\n3. **Error detection**: Differences highlight errors in subsidiary ledgers\n4. **Fraud prevention**: Separates subsidiary ledger maintenance from control account\n\n**Sales Ledger Control Account**:\n* Debit: Credit sales, dishonoured cheques\n* Credit: Receipts, discounts, bad debts, returns\n* Balance: Total receivables\n\n**Purchases Ledger Control Account**:\n* Debit: Payments, discounts, returns\n* Credit: Credit purchases\n* Balance: Total payables"
+        },
+        "explanation": "Control accounts are maintained in the ***general ledger*** while individual customer/supplier accounts are in ***subsidiary ledgers***. The control account total should always ***agree*** with the sum of subsidiary ledger balances. This is a key ***internal control*** mechanism."
+    },
+    {
+        "title": "Suspense Account Usage ❓",
+        "ques": "What is a **suspense account** and when is it used?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Suspense Account**: A temporary account used when:\n1. Trial balance doesn't balance and the error can't be immediately found\n2. The correct account for a transaction is unknown\n3. Awaiting further information to complete entry\n\n**Example**: Trial balance shows debits exceed credits by $500\n* Credit suspense account with $500 to balance\n* Investigate error\n* Clear suspense account when error found\n\n**Important**: Suspense account should have **zero balance** at year-end - all errors must be corrected."
+        },
+        "explanation": "The suspense account is a ***temporary measure*** to allow preparation of financial statements while errors are investigated. It should ***never*** have a balance in final accounts. Common errors causing suspense include ***single entry***, ***transposition***, and ***casting errors*** in books of prime entry."
+    },
+    {
+        "title": "Cash Flow Statement Purpose 💵",
+        "ques": "What is the purpose of a **cash flow statement** and what are its three main sections?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Purpose**:\n* Show how the business generated and used cash\n* Assess ability to generate future cash\n* Evaluate liquidity and solvency\n* Explain changes in cash position\n\n**Three Sections (IAS 7)**:\n1. **Operating Activities**: Cash from main business operations\n   * *Examples*: Receipts from customers, payments to suppliers\n2. **Investing Activities**: Cash for long-term assets\n   * *Examples*: Purchase/sale of property, equipment, investments\n3. **Financing Activities**: Cash from/to financiers\n   * *Examples*: Issue shares, borrowings, dividends paid"
+        },
+        "explanation": "The cash flow statement complements the income statement by showing ***actual cash movement***. A profitable company can still fail if it runs out of cash. The ***indirect method*** is commonly used, starting with profit and adjusting for non-cash items. ***Free cash flow*** (operating cash less capital expenditure) is a key metric."
+    },
+    {
+        "title": "Partnership Appropriation Account 👥",
+        "ques": "What items are typically included in a **partnership appropriation account**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Partnership Appropriation Account**:\n\n**Starting Point**: Net Profit for the year\n\n**Less**:\n* Interest on capital (if allowed)\n* Partner salaries\n\n**Plus**:\n* Interest on drawings (if charged)\n\n**Equals**: Residual profit\n\n**Divided**: Between partners according to profit-sharing ratio\n\n*Note: Partner salaries and interest on capital are NOT expenses - they are appropriations of profit.*"
+        },
+        "explanation": "The appropriation account shows how partnership profit is ***divided among partners***. Interest on capital rewards partners for their ***investment***. Salaries reward partners for their ***work***. The residual profit is divided per the ***partnership agreement***, or equally if no agreement exists."
+    }
+]

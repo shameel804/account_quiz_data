@@ -1,0 +1,143 @@
+{
+    "id": "learn_gst_pay",
+    "topicId": "gst_pay",
+    "topicTitle": "Input Tax Credit",
+    "description": "Master GST Input Tax Credit including Eligibility, Restrictions, and Reversal",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "gst_i1",
+            "type": "content",
+            "title": "Welcome to Input Tax Credit",
+            "content": "# Input Tax Credit (ITC)\n\nITC is the **backbone of GST** - eliminating cascading taxes.\n\n## What You Will Learn\n\n- **Eligibility** - When to claim\n- **Restrictions** - Blocked credits\n- **Matching** - GSTR-2A/2B\n- **Reversal** - When ITC is lost\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Conditions | Eligibility |\n| Blocked | Restrictions |\n| Distribution | ISD |\n| Reversal | Common credit |"
+        },
+        {
+            "id": "gst_i2",
+            "type": "content",
+            "title": "ITC Eligibility",
+            "content": "# Conditions for ITC\n\n## Section 16(2)\n\n| Condition | Requirement |\n|-----------|-------------|\n| Possession | Tax invoice/document |\n| Receipt | Goods/services received |\n| Payment | Tax paid to government |\n| Return | Filed by recipient |\n\n## Time Limit\n\n```\nITC must be claimed by:\n- 30th November of following FY\n- Or date of annual return\n\nWhichever is earlier\n```"
+        },
+        {
+            "id": "gst_i3",
+            "type": "content",
+            "title": "Blocked Credits",
+            "content": "# Section 17(5)\n\n## Ineligible ITC\n\n| Category | Examples |\n|----------|----------|\n| Motor vehicles | Cars (exceptions apply) |\n| Food & beverages | Outdoor catering |\n| Club membership | Health, fitness |\n| Personal consumption | Private use |\n| Construction | Immovable property |\n| Tax depreciation | Claimed on cost |\n| Goods lost | Theft, gift, sample |\n\n## Exceptions\n\n- Motor vehicles for specified business\n- Construction for further supply"
+        },
+        {
+            "id": "gst_i_quiz1",
+            "type": "quiz",
+            "title": "Eligibility Quiz",
+            "content": "Test your ITC eligibility knowledge!",
+            "quizQuestion": "ITC on food and beverages is?",
+            "quizOptions": [
+                "Fully available",
+                "Partially available",
+                "Blocked",
+                "Available with restrictions"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "gst_i4",
+            "type": "content",
+            "title": "ITC Matching",
+            "content": "# GSTR-2A and 2B\n\n## Auto-Population\n\n| Form | Purpose |\n|------|--------|\n| GSTR-2A | Dynamic statement |\n| GSTR-2B | Static monthly |\n\n## Matching Process\n\n```\nClaim ITC only if:\n- Appears in GSTR-2B\n- Or recipient responsibility\n\nRule 36(4):\nCan claim up to 5% extra over GSTR-2B\n```\n\n## Mismatch Handling\n\n- Supplier non-compliance\n- Communication required\n- Reversal if unresolved"
+        },
+        {
+            "id": "gst_i5",
+            "type": "content",
+            "title": "ITC Reversal - Non-Payment",
+            "content": "# 180-Day Rule\n\n## Section 16(2)(d)\n\n```\nIf payment not made within 180 days:\n- Reverse ITC claimed\n- Add to output liability\n- Interest payable\n\nOn payment:\n- Re-avail ITC\n```\n\n## Calculation\n\n| Scenario | Action |\n|----------|--------|\n| Full non-payment | Full reversal |\n| Partial payment | Proportionate reversal |"
+        },
+        {
+            "id": "gst_i6",
+            "type": "content",
+            "title": "Common Credit Reversal",
+            "content": "# Rule 42 and 43\n\n## Rule 42 - Inputs and Services\n\n```\nCommon credit reversal:\n\nT1 = Exempt turnover / Total turnover x C2\nT2 = 5% of C2\n\nReverse higher of T1 or T2\n(if 5% or less, no reversal)\n```\n\n## Rule 43 - Capital Goods\n\n```\nMonthly reversal:\nUseful life = 60 months\nReverse proportionate to exempt use\n```"
+        },
+        {
+            "id": "gst_i_quiz2",
+            "type": "quiz",
+            "title": "Reversal Quiz",
+            "content": "Test your reversal knowledge!",
+            "quizQuestion": "Non-payment ITC reversal applies after?",
+            "quizOptions": [
+                "90 days",
+                "120 days",
+                "180 days",
+                "365 days"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "gst_i7",
+            "type": "content",
+            "title": "Input Service Distributor",
+            "content": "# ISD Mechanism\n\n## Purpose\n\n```\nHead office receives invoices\nfor common services\n\nDistributes credit to branches\nwhere services used\n```\n\n## Distribution Rules\n\n| Type | Method |\n|------|--------|\n| Specific | To that unit |\n| Common | Pro-rata turnover |\n\n## Documents\n\n- ISD invoice required\n- Must have ISD registration"
+        },
+        {
+            "id": "gst_i8",
+            "type": "content",
+            "title": "ITC on Capital Goods",
+            "content": "# Capital Goods ITC\n\n## Claiming ITC\n\n| Scenario | ITC Available |\n|----------|---------------|\n| Full business use | 100% |\n| Partial exempt | Proportionate |\n| Personal use | Nil |\n\n## Disposal\n\n```\nIf sold within 5 years:\nPay higher of:\n- ITC on transaction value\n- ITC remaining (for useful life)\n```\n\n## Useful Life\n\n- 60 months (5 years)\n- Quarterly reduction"
+        },
+        {
+            "id": "gst_i9",
+            "type": "content",
+            "title": "Job Work ITC",
+            "content": "# ITC for Job Work\n\n## Principal's ITC\n\n```\nInputs sent for job work:\n- ITC available to principal\n- Even if at job worker premises\n\nCondition:\n- Goods returned within 1 year\n- Or 3 years for capital goods\n```\n\n## Failure to Return\n\n| Consequence | Action |\n|-------------|--------|\n| Deemed supply | Pay GST |\n| Plus interest | From due date |"
+        },
+        {
+            "id": "gst_i_quiz3",
+            "type": "quiz",
+            "title": "Job Work Quiz",
+            "content": "Test your job work ITC knowledge!",
+            "quizQuestion": "Inputs must return from job worker within?",
+            "quizOptions": [
+                "6 months",
+                "1 year",
+                "2 years",
+                "3 years"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_i10",
+            "type": "content",
+            "title": "Transfer of ITC",
+            "content": "# Business Reorganization\n\n## Merger/Demerger\n\n```\nITC balance transfers to:\n- Transferee company\n- As per scheme order\n```\n\n## Change in Constitution\n\n| Event | ITC Transfer |\n|-------|-------------|\n| Merger | Full transfer |\n| Demerger | Proportionate |\n| Sale of business | With business |\n\n## Requirements\n\n- Form ITC-02\n- Certificate from CA/CMA"
+        },
+        {
+            "id": "gst_i11",
+            "type": "content",
+            "title": "Refund of ITC",
+            "content": "# Unutilized ITC\n\n## Eligible Cases\n\n| Case | Refund Available |\n|------|------------------|\n| Zero-rated supply | Yes, full |\n| Inverted duty | Yes, formula |\n| Deemed export | Yes |\n\n## Restrictions\n\n| Case | Refund Available |\n|------|------------------|\n| Exemption notification | No |\n| Nil rated | No |\n| Non-taxable | No |\n\n## Formula for Inverted Duty\n\n```\nMax Refund = (Turnover of inverted x ITC / Total turnover) - Tax payable\n```"
+        },
+        {
+            "id": "gst_i12",
+            "type": "content",
+            "title": "Annual Reconciliation",
+            "content": "# GSTR-9 ITC Matching\n\n## Reconciliation\n\n```\nBooks ITC\nvs\nGSTR-3B claimed\nvs\nGSTR-2A/2B available\n```\n\n## Adjustments\n\n| Scenario | Action |\n|----------|--------|\n| Excess claimed | Pay with interest |\n| Short claimed | Claim in GSTR-3B |\n| Mismatch | Reconcile and correct |"
+        },
+        {
+            "id": "gst_i_quiz4",
+            "type": "quiz",
+            "title": "Refund Quiz",
+            "content": "Test your refund knowledge!",
+            "quizQuestion": "ITC refund is available for?",
+            "quizOptions": [
+                "Exempt supplies",
+                "Zero-rated supplies",
+                "Non-taxable",
+                "Nil rated"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_i17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **Input Tax Credit**!\n\n## Key Topics\n\n### Eligibility\n- Section 16 conditions\n- Time limit (30 Nov)\n\n### Blocked Credits\n- Section 17(5) list\n- Food, vehicles, construction\n\n### Reversal\n- 180-day non-payment\n- Common credit (Rule 42/43)\n\n### Special Cases\n- ISD distribution\n- Job work ITC\n- Refund scenarios\n\n## Key Rules\n\n| Rule | Application |\n|------|-------------|\n| Rule 36(4) | 5% tolerance |\n| Rule 42 | Common credit |\n| 180 days | Non-payment |\n\n## What is Next?\n\nExplore GST Invoicing!"
+        }
+    ]
+}

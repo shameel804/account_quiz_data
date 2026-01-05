@@ -1,0 +1,143 @@
+{
+    "id": "learn_cima_f1",
+    "topicId": "cima_f1",
+    "topicTitle": "F1 - Financial Reporting",
+    "description": "Master CIMA F1 covering Financial Statements, IFRS Standards, and Group Accounts",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "f1_1",
+            "type": "content",
+            "title": "Welcome to CIMA F1",
+            "content": "# F1 - Financial Reporting\n\nF1 covers **financial statements** and **IFRS**.\n\n## What You Will Learn\n\n- **Framework** - IFRS conceptual\n- **Standards** - Key IFRS\n- **Financial Statements** - Preparation\n- **Groups** - Consolidation\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Framework | 15% |\n| Key standards | 40% |\n| Single entity | 20% |\n| Groups | 25% |"
+        },
+        {
+            "id": "f1_2",
+            "type": "content",
+            "title": "Conceptual Framework",
+            "content": "# IFRS Foundation\n\n## Objective\n\nProvide useful financial information to users.\n\n## Qualitative Characteristics\n\n| Primary | Enhancing |\n|---------|----------|\n| Relevance | Comparability |\n| Faithful representation | Verifiability |\n| | Timeliness |\n| | Understandability |\n\n## Elements\n\n| Element | Definition |\n|---------|------------|\n| Asset | Future benefit |\n| Liability | Present obligation |\n| Equity | Residual interest |"
+        },
+        {
+            "id": "f1_3",
+            "type": "content",
+            "title": "IAS 1 Presentation",
+            "content": "# Financial Statements\n\n## Complete Set\n\n| Statement | Purpose |\n|-----------|--------|\n| SFP | Financial position |\n| SPLOCI | Performance |\n| SOCE | Equity changes |\n| SCF | Cash flows |\n| Notes | Disclosures |\n\n## Current vs Non-Current\n\n| Current | Non-Current |\n|---------|-------------|\n| < 12 months | > 12 months |\n| Operating cycle | Long-term |"
+        },
+        {
+            "id": "f1_quiz_1",
+            "type": "quiz",
+            "title": "Framework Quiz",
+            "content": "Test your framework knowledge!",
+            "quizQuestion": "How many qualitative characteristics are primary?",
+            "quizOptions": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "f1_4",
+            "type": "content",
+            "title": "IAS 16 PPE",
+            "content": "# Property, Plant and Equipment\n\n## Recognition\n\n| Cost Element | Include |\n|--------------|--------|\n| Purchase price | Yes |\n| Directly attributable | Yes |\n| Dismantling | Yes |\n| Admin overhead | No |\n\n## Measurement\n\n| Model | Basis |\n|-------|-------|\n| Cost | Depreciated cost |\n| Revaluation | Fair value |\n\n## Depreciation\n\n```\n(Cost - Residual) / Useful Life\n```"
+        },
+        {
+            "id": "f1_5",
+            "type": "content",
+            "title": "IAS 2 Inventories",
+            "content": "# Inventory Valuation\n\n## Rule\n\n```\nLower of Cost and NRV\n\nNRV = Selling Price - Costs to Complete\n```\n\n## Cost Formulas\n\n| Method | Use |\n|--------|-----|\n| FIFO | General |\n| Weighted Average | General |\n| Specific | One-off items |\n\n## Not Allowed\n\nLIFO is prohibited under IFRS."
+        },
+        {
+            "id": "f1_6",
+            "type": "content",
+            "title": "IAS 38 Intangibles",
+            "content": "# Intangible Assets\n\n## Recognition Criteria\n\n| Criterion | Requirement |\n|-----------|-------------|\n| Identifiable | Separable or contractual |\n| Control | Power over benefits |\n| Future benefits | Expected |\n\n## Internally Generated\n\n| Phase | Treatment |\n|-------|----------|\n| Research | Expense |\n| Development | Capitalize if criteria |\n\n## Development Criteria\n\n- Technical feasibility\n- Intention to complete\n- Ability to use/sell\n- Probable benefits\n- Resources available\n- Reliable measurement"
+        },
+        {
+            "id": "f1_quiz_2",
+            "type": "quiz",
+            "title": "Asset Quiz",
+            "content": "Test your IAS knowledge!",
+            "quizQuestion": "Research costs are?",
+            "quizOptions": [
+                "Capitalized",
+                "Expensed",
+                "Deferred",
+                "Amortized"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "f1_7",
+            "type": "content",
+            "title": "IFRS 16 Leases",
+            "content": "# Lease Accounting\n\n## Lessee Accounting\n\n```\nRecognize:\n- Right-of-use asset\n- Lease liability\n\nAt present value of payments\n```\n\n## Subsequent Measurement\n\n| Item | Treatment |\n|------|----------|\n| ROU asset | Depreciate |\n| Lease liability | Effective interest |\n\n## Exemptions\n\n- Short-term (< 12 months)\n- Low-value assets"
+        },
+        {
+            "id": "f1_8",
+            "type": "content",
+            "title": "IAS 37 Provisions",
+            "content": "# Provisions and Contingencies\n\n## Recognition Criteria\n\n| Condition | Requirement |\n|-----------|-------------|\n| Present obligation | Past event |\n| Probable outflow | More likely |\n| Reliable estimate | Measurable |\n\n## Contingent Liability\n\n| Status | Treatment |\n|--------|----------|\n| Possible | Disclose |\n| Remote | Ignore |\n\n## Contingent Asset\n\n- Probable: Disclose\n- Virtually certain: Recognize"
+        },
+        {
+            "id": "f1_9",
+            "type": "content",
+            "title": "IFRS 15 Revenue",
+            "content": "# Revenue Recognition\n\n## Five-Step Model\n\n```\n1. Identify contract\n2. Identify performance obligations\n3. Determine transaction price\n4. Allocate to obligations\n5. Recognize when satisfied\n```\n\n## Satisfaction\n\n| Type | When |\n|------|------|\n| Point in time | Control transfers |\n| Over time | Continuous transfer |"
+        },
+        {
+            "id": "f1_quiz_3",
+            "type": "quiz",
+            "title": "Revenue Quiz",
+            "content": "Test your IFRS 15 knowledge!",
+            "quizQuestion": "IFRS 15 has how many steps?",
+            "quizOptions": [
+                "Three",
+                "Four",
+                "Five",
+                "Six"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "f1_10",
+            "type": "content",
+            "title": "Group Accounting Basics",
+            "content": "# Consolidation\n\n## Relationship Types\n\n| Relationship | Treatment |\n|--------------|----------|\n| Subsidiary | Consolidate |\n| Associate | Equity method |\n| Joint venture | Equity method |\n\n## Control Definition (IFRS 10)\n\n- Power over investee\n- Variable returns exposure\n- Ability to use power\n\n## NCI\n\n```\nNon-controlling interest:\n- Fair value method\n- Proportionate share\n```"
+        },
+        {
+            "id": "f1_11",
+            "type": "content",
+            "title": "Goodwill and Fair Values",
+            "content": "# Business Combination\n\n## Goodwill Calculation\n\n```\nConsideration\n+ NCI at acquisition\n- Fair value of net assets\n= Goodwill\n```\n\n## Fair Value Adjustments\n\n| Adjust | To |\n|--------|----|\n| Assets | Fair value |\n| Liabilities | Fair value |\n| Intangibles | Recognize |\n\n## Impairment\n\nGoodwill tested annually."
+        },
+        {
+            "id": "f1_12",
+            "type": "content",
+            "title": "Consolidated Adjustments",
+            "content": "# Consolidation Process\n\n## Eliminations\n\n| Item | Adjustment |\n|------|------------|\n| Investment | Against equity |\n| Interco balances | Cancel |\n| Interco profits | Remove |\n| Dividends | Eliminate |\n\n## PURP\n\n```\nProvision for Unrealized Profit\n\nRemove profit on unsold inventory\n```"
+        },
+        {
+            "id": "f1_quiz_4",
+            "type": "quiz",
+            "title": "Group Quiz",
+            "content": "Test your consolidation knowledge!",
+            "quizQuestion": "Control requires power, returns, and?",
+            "quizOptions": [
+                "Ownership",
+                "Ability to use power",
+                "Management",
+                "Investment"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "f1_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CIMA F1 - Financial Reporting**!\n\n## Key Topics\n\n### Framework\n- Conceptual basis\n- Qualitative characteristics\n\n### Standards\n- IAS 16, 2, 38\n- IFRS 16, 15\n- IAS 37\n\n### Groups\n- Consolidation\n- Goodwill\n- NCI\n\n## Key Calculations\n\n| Calculation | Formula |\n|-------------|--------|\n| Goodwill | Consid + NCI - FV Assets |\n| NRV | SP - Costs |\n| Depreciation | (Cost - RV) / Life |\n\n## What is Next?\n\nExplore E2 - Managing Performance!"
+        }
+    ]
+}

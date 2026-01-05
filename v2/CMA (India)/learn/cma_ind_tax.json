@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_ind_tax",
+    "topicId": "cma_ind_tax",
+    "topicTitle": "Direct and Indirect Taxation",
+    "description": "Master Indian Direct and Indirect Tax Laws including Income Tax and GST",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "tax_1",
+            "type": "content",
+            "title": "Welcome to Taxation",
+            "content": "# Direct & Indirect Taxation\n\nTaxation covers **income tax** and **GST** in India.\n\n## What You Will Learn\n\n- **Income Tax** - Direct taxation\n- **GST** - Indirect taxation\n- **Compliance** - Filing requirements\n- **Planning** - Tax optimization\n\n## Tax Structure\n\n| Type | Examples |\n|------|----------|\n| Direct | Income tax, Corporation tax |\n| Indirect | GST, Customs |"
+        },
+        {
+            "id": "tax_2",
+            "type": "content",
+            "title": "Income Tax Basics",
+            "content": "# Income Tax Framework\n\n## Heads of Income\n\n| Head | Examples |\n|------|----------|\n| Salary | Employment |\n| House Property | Rent |\n| PGBP | Business |\n| Capital Gains | Asset sale |\n| Other Sources | Interest |\n\n## Tax Calculation\n\n```\nGross Total Income\n- Chapter VI-A Deductions\n= Total Taxable Income\nx Applicable Rate\n= Tax Liability\n- Rebate/Relief\n= Net Tax\n```"
+        },
+        {
+            "id": "tax_3",
+            "type": "content",
+            "title": "Corporate Taxation",
+            "content": "# Company Tax\n\n## Rates\n\n| Company Type | Rate |\n|--------------|------|\n| Domestic (general) | 25% + surcharge |\n| New manufacturing | 15% |\n| MAT | 15% of book profit |\n\n## MAT\n\n```\nMinimum Alternate Tax\nPayable when normal < MAT\n\nMAT Credit can be carried forward\n```\n\n## Dividend Tax\n\n- DDT abolished\n- Taxable in hands of recipient"
+        },
+        {
+            "id": "tax_quiz_1",
+            "type": "quiz",
+            "title": "Income Tax Quiz",
+            "content": "Test your income tax knowledge!",
+            "quizQuestion": "MAT is calculated on?",
+            "quizOptions": [
+                "Taxable income",
+                "Book profit",
+                "Gross income",
+                "Net profit"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "tax_4",
+            "type": "content",
+            "title": "Capital Gains",
+            "content": "# Capital Gains Tax\n\n## Holding Period\n\n| Asset | LTCG if held |\n|-------|-------------|\n| Listed shares | > 12 months |\n| Real estate | > 24 months |\n| Others | > 36 months |\n\n## Calculation\n\n```\nSale price\n- Cost of acquisition (indexed)\n- Improvement cost\n- Transfer expenses\n= Capital Gain\n```\n\n## Tax Rates\n\n| Type | Rate |\n|------|------|\n| STCG (equity) | 15% |\n| LTCG (equity) | 10% > Rs 1 lakh |\n| Other LTCG | 20% with indexation |"
+        },
+        {
+            "id": "tax_5",
+            "type": "content",
+            "title": "GST Overview",
+            "content": "# Goods and Services Tax\n\n## Structure\n\n| Tax | Applicability |\n|-----|---------------|\n| CGST | Central |\n| SGST | State |\n| IGST | Interstate |\n| UTGST | Union territory |\n\n## Taxable Event\n\n```\nSupply of goods or services\n\nSupply = Sale, transfer, lease, exchange\n```\n\n## Rate Structure\n\n- 0%, 5%, 12%, 18%, 28%"
+        },
+        {
+            "id": "tax_6",
+            "type": "content",
+            "title": "GST Registration",
+            "content": "# Registration\n\n## Thresholds\n\n| Supply | Threshold |\n|--------|----------|\n| Services | Rs 20 lakh |\n| Goods | Rs 40 lakh |\n| Interstate | Nil |\n\n## GSTIN\n\n```\n15 digits:\n- State code (2)\n- PAN (10)\n- Entity code (1)\n- Z default (1)\n- Check digit (1)\n```\n\n## Composition\n\n- Turnover < Rs 1.5 crore\n- Lower rate\n- No input credit"
+        },
+        {
+            "id": "tax_quiz_2",
+            "type": "quiz",
+            "title": "GST Quiz",
+            "content": "Test your GST knowledge!",
+            "quizQuestion": "IGST applies to?",
+            "quizOptions": [
+                "Intrastate",
+                "Interstate",
+                "Exempt",
+                "Composition"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "tax_7",
+            "type": "content",
+            "title": "Input Tax Credit",
+            "content": "# ITC Mechanism\n\n## Eligibility\n\n| Allowed | Blocked |\n|---------|--------|\n| Business use | Personal |\n| Taxable supply | Exempt |\n| Proper documents | Food, club |\n\n## Conditions\n\n- Invoice/document\n- Goods/services received\n- Tax paid by supplier\n- Return filed\n\n## ITC Reversal\n\n- Non-payment within 180 days\n- Exempt use\n- Capital goods disposal"
+        },
+        {
+            "id": "tax_8",
+            "type": "content",
+            "title": "GST Returns",
+            "content": "# Filing Requirements\n\n## Regular Returns\n\n| Return | Due Date | Purpose |\n|--------|----------|--------|\n| GSTR-1 | 11th | Outward supply |\n| GSTR-3B | 20th | Summary |\n| GSTR-9 | 31st Dec | Annual |\n\n## Compliance\n\n| Action | Consequence |\n|--------|-------------|\n| Late filing | Interest |\n| Non-filing | ITC blocked |\n| Wrong info | Penalty |"
+        },
+        {
+            "id": "tax_9",
+            "type": "content",
+            "title": "TDS and TCS",
+            "content": "# Tax at Source\n\n## TDS\n\n| Section | Payment | Rate |\n|---------|---------|------|\n| 192 | Salary | Slab |\n| 194A | Interest | 10% |\n| 194C | Contractor | 1%/2% |\n| 194J | Professional | 10% |\n\n## GST TDS\n\n- Government departments\n- 2% on taxable value\n- > Rs 2.5 lakh payment\n\n## TCS\n\n- Collection by seller\n- Specific goods/services"
+        },
+        {
+            "id": "tax_quiz_3",
+            "type": "quiz",
+            "title": "TDS Quiz",
+            "content": "Test your TDS knowledge!",
+            "quizQuestion": "TDS on professional fees (Section 194J) is?",
+            "quizOptions": [
+                "5%",
+                "7.5%",
+                "10%",
+                "15%"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "tax_10",
+            "type": "content",
+            "title": "International Taxation",
+            "content": "# Cross-Border Tax\n\n## Residence\n\n| Status | Income Taxed |\n|--------|-------------|\n| Resident | Worldwide |\n| Non-resident | India source |\n\n## DTAA\n\n```\nDouble Taxation Avoidance Agreement\n\nBenefit:\n- Reduced withholding\n- Credit method\n- Exemption method\n```\n\n## Transfer Pricing\n\n- Arm's length\n- Documentation\n- Advance pricing"
+        },
+        {
+            "id": "tax_11",
+            "type": "content",
+            "title": "Tax Planning",
+            "content": "# Legitimate Planning\n\n## Deductions\n\n| Section | Benefit |\n|---------|--------|\n| 80C | Rs 1.5 lakh |\n| 80D | Medical insurance |\n| 80G | Donations |\n| 80GG | House rent |\n\n## Capital Gains Exemption\n\n| Section | Condition |\n|---------|----------|\n| 54 | Residential house |\n| 54EC | Bonds |\n| 54F | Any asset |\n\n## Planning vs Evasion\n\n- Legal arrangement = Planning\n- Illegal concealment = Evasion"
+        },
+        {
+            "id": "tax_12",
+            "type": "content",
+            "title": "Assessment and Appeals",
+            "content": "# Tax Proceedings\n\n## Assessment Types\n\n| Type | Section |\n|------|--------|\n| Self | 143(1) |\n| Scrutiny | 143(3) |\n| Best judgment | 144 |\n| Reassessment | 147 |\n\n## Appeals\n\n```\nAssessing Officer\n    |\n    v\nCIT (Appeals)\n    |\n    v\nITAT\n    |\n    v\nHigh Court\n    |\n    v\nSupreme Court\n```"
+        },
+        {
+            "id": "tax_quiz_4",
+            "type": "quiz",
+            "title": "Appeals Quiz",
+            "content": "Test your appeals knowledge!",
+            "quizQuestion": "First appeal against AO order goes to?",
+            "quizOptions": [
+                "ITAT",
+                "CIT (Appeals)",
+                "High Court",
+                "CBDT"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "tax_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **Direct & Indirect Taxation**!\n\n## Key Topics\n\n### Direct Tax\n- Five heads of income\n- Corporate taxation\n- Capital gains\n- TDS/TCS\n\n### GST\n- Tax structure\n- Registration\n- Input tax credit\n- Returns\n\n### Planning\n- Deductions (Chapter VI-A)\n- Capital gains exemptions\n- International taxation\n\n## Key Concepts\n\n| Topic | Key Point |\n|-------|----------|\n| MAT | 15% of book profit |\n| IGST | Interstate supply |\n| ITC | Business use only |\n\n## What is Next?\n\nExplore Internal Audit & Controls!"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "id": "learn_sapt",
+    "topicId": "sapt",
+    "topicTitle": "SAP Materials Management",
+    "description": "Master SAP MM fundamentals including Procurement Process, Inventory Management, Invoice Verification, and MM-FI Integration",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "mm_1",
+            "type": "content",
+            "title": "Welcome to SAP Materials Management",
+            "content": "# SAP Materials Management (MM)\n\nSAP MM handles the **complete procurement and inventory** lifecycle, from purchasing to warehouse management.\n\n## What You Will Learn\n\n- **Procurement Process** - Purchase requisitions to purchase orders\n- **Inventory Management** - Stock, goods movements, valuation\n- **Invoice Verification** - Processing vendor invoices\n- **MM-FI Integration** - Connecting to finance\n\n## MM Sub-Components\n\n| Component | Function |\n|-----------|----------|\n| **Purchasing** | Procurement activities |\n| **Inventory Mgmt** | Stock and movements |\n| **Invoice Verification** | Vendor invoice processing |\n| **Warehouse Mgmt** | Storage and logistics |\n\n## Procurement to Pay Process\n\n```\nPurchase Requisition (ME51N)\n        |\n        v\nPurchase Order (ME21N)\n        |\n        v\nGoods Receipt (MIGO)\n        |\n        v\nInvoice Verification (MIRO)\n        |\n        v\nPayment (F110)\n```\n\n> **MM is the backbone** of supply chain management in SAP!"
+        },
+        {
+            "id": "mm_2",
+            "type": "content",
+            "title": "Material Master Data",
+            "content": "# Material Master Record\n\n## What is Material Master?\n\nThe material master contains **all information** about materials that a company procures, produces, stores, and sells.\n\n## Material Master Views\n\n| View | Data Contains |\n|------|---------------|\n| **Basic Data** | Description, unit of measure |\n| **Purchasing** | Purchasing group, vendor |\n| **MRP** | Planning parameters |\n| **Storage** | Warehouse, bin location |\n| **Accounting** | Valuation, price control |\n| **Costing** | Cost estimates |\n| **Sales** | Sales organization data |\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| MM01 | Create Material |\n| MM02 | Change Material |\n| MM03 | Display Material |\n| MM60 | List of Materials |\n\n## Material Types\n\n| Type | Description | Example |\n|------|-------------|--------|\n| ROH | Raw Materials | Steel, plastic |\n| HALB | Semi-Finished | Subassemblies |\n| FERT | Finished Goods | End products |\n| HIBE | Operating Supplies | Office supplies |\n| NLAG | Non-Stock | Services |\n\n## Material Number\n\n- Can be numeric or alphanumeric\n- Up to 18 characters\n- Internal or external assignment\n\n> **Complete material master** enables smooth operations!"
+        },
+        {
+            "id": "mm_3",
+            "type": "content",
+            "title": "Purchasing Process Overview",
+            "content": "# Purchasing in SAP MM\n\n## Purchasing Organization Structure\n\n```\nCompany Code\n    |\n    +-- Purchasing Organization\n            |\n            +-- Purchasing Group 1\n            +-- Purchasing Group 2\n```\n\n## Purchase Requisition (ME51N)\n\n### What It Is\nAn internal document requesting procurement of materials or services.\n\n### Key Fields\n- Material or text description\n- Quantity\n- Delivery date\n- Plant\n- Requisitioner\n\n### Sources\n- Manual creation\n- MRP run\n- Production order\n\n## Purchase Order (ME21N)\n\n### What It Is\nA formal request to a vendor to supply materials or services.\n\n### Key Fields\n- Vendor\n- Material/service\n- Quantity and price\n- Delivery date\n- Terms and conditions\n\n## PO Types\n\n| Type | Description |\n|------|-------------|\n| NB | Standard PO |\n| FO | Framework Order |\n| UB | Stock Transfer Order |\n| NBS | Subcontracting |\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| ME51N | Create Purchase Requisition |\n| ME21N | Create Purchase Order |\n| ME23N | Display Purchase Order |\n| ME2M | PO List by Material |\n\n> **Proper purchasing** ensures timely material availability!"
+        },
+        {
+            "id": "mm_quiz_1",
+            "type": "quiz",
+            "title": "Purchasing Check",
+            "content": "Test your purchasing knowledge!",
+            "quizQuestion": "Which transaction code is used to create a Purchase Order?",
+            "quizOptions": [
+                "ME51N",
+                "ME21N",
+                "MIGO",
+                "MIRO"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mm_4",
+            "type": "content",
+            "title": "Goods Receipt Processing",
+            "content": "# Goods Receipt (GR)\n\n## What is Goods Receipt?\n\nThe process of receiving materials from a vendor and recording them in inventory.\n\n## GR Transaction (MIGO)\n\n### Key Fields\n- Movement type (101 for GR from PO)\n- Reference document (PO number)\n- Material and quantity\n- Storage location\n\n### Movement Types for GR\n\n| Type | Description |\n|------|-------------|\n| 101 | GR from PO |\n| 103 | GR to blocked stock |\n| 105 | GR for free goods |\n| 107 | GR from production |\n\n## GR Process Flow\n\n```\nPurchase Order\n      |\n      v\nGoods Received at Dock\n      |\n      v\nQuantity/Quality Check\n      |\n      v\nMIGO - Post GR\n      |\n      v\nStock Updated + Accounting Entry\n```\n\n## Three-Way Match\n\n```\nPO Quantity: 100 units\nGR Quantity: 100 units  <-- Must match\nInvoice Qty: 100 units  <-- Must match\n```\n\n## GR/IR Account\n\n```\nGoods Receipt Posting:\n  Dr: Inventory (Material)    $10,000\n  Cr: GR/IR Account           $10,000\n\nInvoice Posting:\n  Dr: GR/IR Account           $10,000\n  Cr: Vendor (AP)             $10,000\n```\n\n> **Accurate GR posting** is critical for inventory and finance!"
+        },
+        {
+            "id": "mm_5",
+            "type": "content",
+            "title": "Inventory Management",
+            "content": "# Inventory Management (IM)\n\n## Stock Types\n\n| Type | Description | Available? |\n|------|-------------|------------|\n| Unrestricted | Normal usable stock | Yes |\n| Quality Inspection | Pending QA approval | No |\n| Blocked | Not usable | No |\n| Transit | In transportation | No |\n| Consignment | Owned by vendor | Yes |\n\n## Goods Movements\n\n### Common Movement Types\n\n| Type | Description |\n|------|-------------|\n| 101 | GR from purchase order |\n| 102 | GR reversal |\n| 201 | GI for cost center |\n| 261 | GI for production order |\n| 301 | Transfer posting plant to plant |\n| 311 | Transfer SLOC to SLOC |\n| 561 | Initial stock entry |\n\n## Stock Overview (MMBE)\n\n```\nMaterial: RAW-001\nPlant: 1000\n\nStorage Loc | Unrestricted | Blocked | QI\n------------|--------------|---------|----\n0001        |    500 EA    |   20 EA | 50\n0002        |    200 EA    |    0    |  0\n------------|--------------|---------|----\nTotal Plant |    700 EA    |   20 EA | 50\n```\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| MIGO | Goods Movement |\n| MMBE | Stock Overview |\n| MB51 | Material Doc List |\n| MB52 | Warehouse Stocks |\n\n> **Real-time inventory visibility** enables better planning!"
+        },
+        {
+            "id": "mm_6",
+            "type": "content",
+            "title": "Inventory Valuation",
+            "content": "# Material Valuation\n\n## Price Control Methods\n\n### Standard Price (S)\n\n- Fixed price for valuation\n- Variance posted to price difference account\n- Common for finished goods\n\n```\nStandard Price: $10/unit\nPO Price: $12/unit\nGR: 100 units\n\nInventory: 100 x $10 = $1,000\nPrice Diff: 100 x $2 = $200\n```\n\n### Moving Average Price (V)\n\n- Weighted average of all receipts\n- Price updates with each receipt\n- Common for raw materials\n\n```\nOpening: 100 units @ $10 = $1,000\nReceipt: 50 units @ $12 = $600\n\nNew Total: 150 units = $1,600\nNew MAP: $1,600/150 = $10.67/unit\n```\n\n## Valuation Area\n\n| Level | Advantage |\n|-------|----------|\n| Plant | Different prices per location |\n| Company Code | Same price across plants |\n\n## Key Reports\n\n| TCode | Report |\n|-------|--------|\n| MB5B | Stock on Posting Date |\n| MB5L | Stock Valuation |\n| MBBS | Stock Balance History |\n\n## Period-End Inventory\n\n```\nLIFO Reserve\nLower of Cost or Market\nSlow-Moving Analysis\n```\n\n> **Accurate valuation** is critical for financial reporting!"
+        },
+        {
+            "id": "mm_7",
+            "type": "content",
+            "title": "Invoice Verification",
+            "content": "# Logistics Invoice Verification (MIRO)\n\n## What is Invoice Verification?\n\nThe process of recording and validating vendor invoices against purchase orders and goods receipts.\n\n## MIRO Transaction\n\n### Key Steps\n\n1. Enter invoice date and amount\n2. Reference PO or GR document\n3. System proposes line items\n4. Verify and adjust if needed\n5. Simulate and post\n\n### Invoice Types\n\n| Type | Description |\n|------|-------------|\n| Invoice | Normal vendor bill |\n| Credit Memo | Vendor credit |\n| Subsequent Debit | Additional charge |\n| Subsequent Credit | Price reduction |\n\n## Three-Way Match Verification\n\n```\nPurchase Order:\n  100 units @ $10 = $1,000\n\nGoods Receipt:\n  100 units received\n\nInvoice:\n  100 units @ $10 = $1,000\n\nResult: MATCH - OK to post\n```\n\n## Variance Handling\n\n| Variance | System Action |\n|----------|---------------|\n| Within tolerance | Auto-post |\n| Above tolerance | Block invoice |\n| Price variance | May create difference |\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| MIRO | Enter Invoice |\n| MIR4 | Display Invoice |\n| MRBR | Release Blocked Invoices |\n| MIR6 | Invoice Overview |\n\n> **Proper invoice verification** prevents payment errors!"
+        },
+        {
+            "id": "mm_quiz_2",
+            "type": "quiz",
+            "title": "Invoice Verification Quiz",
+            "content": "Test your invoice verification knowledge!",
+            "quizQuestion": "What is the transaction code for entering a vendor invoice in MM?",
+            "quizOptions": [
+                "FB60",
+                "MIRO",
+                "F110",
+                "ME21N"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mm_8",
+            "type": "content",
+            "title": "MM-FI Integration",
+            "content": "# Integration of MM with Finance\n\n## Automatic Account Determination\n\nMM transactions automatically post to FI accounts based on configuration.\n\n## GR/IR Account Flow\n\n### Goods Receipt\n```\nDr: Inventory Account      $10,000\nCr: GR/IR Clearing Account  $10,000\n```\n\n### Invoice Receipt\n```\nDr: GR/IR Clearing Account  $10,000\nCr: Vendor Account          $10,000\n```\n\n### Result\nGR/IR account clears to zero when matched.\n\n## Account Determination Tables\n\n| Movement | Accounts Used |\n|----------|---------------|\n| GR | Inventory, GR/IR |\n| GI to Cost Center | Expense, Inventory |\n| Transfer | Inventory (both) |\n| Scrap | Loss, Inventory |\n\n## Configuration Path\n\n```\nSPRO > Materials Management >\n  Valuation and Account Assignment >\n    Account Determination\n```\n\n## Key Tables\n\n| Table | Purpose |\n|-------|--------|\n| T030 | Standard Account Determination |\n| OBYC | Transaction Keys |\n| T156 | Movement Type Config |\n\n## Reconciliation\n\n```\nMM Stock Value:    $500,000\nFI Inventory GL:   $500,000\n                   --------\nDifference:              $0\n```\n\n> **Tight MM-FI integration** ensures consistent data!"
+        },
+        {
+            "id": "mm_9",
+            "type": "content",
+            "title": "Vendor Master and Source Determination",
+            "content": "# Vendor Management in MM\n\n## Vendor Master Purchasing View\n\n### Key Fields\n\n| Field | Purpose |\n|-------|--------|\n| Order Currency | Default currency |\n| Payment Terms | Standard terms |\n| Incoterms | Delivery terms |\n| Minimum Order Value | PO minimum |\n| Purchasing Group | Responsibility |\n\n## Source Determination\n\n### Info Records (ME11)\n\nMaterial-Vendor relationship:\n- Specific prices\n- Lead times\n- Quantities\n\n### Source List (ME01)\n\nApproved vendors for material:\n- Valid periods\n- Fixed vendor\n- Blocked vendors\n\n### Quota Arrangement (MEQ1)\n\nDistribute orders among vendors:\n\n```\nMaterial: RAW-001\n\nVendor A: 60% of orders\nVendor B: 30% of orders\nVendor C: 10% of orders\n```\n\n## Purchasing Transactions\n\n| TCode | Function |\n|-------|----------|\n| ME11 | Create Info Record |\n| ME01 | Create Source List |\n| MEQ1 | Quota Arrangement |\n| ME2M | POs by Material |\n| ME2V | POs by Vendor |\n\n## Vendor Evaluation\n\nScore vendors on:\n- Price\n- Quality\n- Delivery\n- Service\n\n> **Strategic sourcing** improves procurement efficiency!"
+        },
+        {
+            "id": "mm_10",
+            "type": "content",
+            "title": "Physical Inventory",
+            "content": "# Physical Inventory Management\n\n## Why Physical Inventory?\n\n- Legal requirement\n- Verify book vs physical stock\n- Identify discrepancies\n- Adjust records\n\n## Physical Inventory Process\n\n```\n1. Create Physical Inventory Doc (MI01)\n        |\n        v\n2. Print Count Sheets (MI21)\n        |\n        v\n3. Count Physical Stock\n        |\n        v\n4. Enter Count Results (MI04)\n        |\n        v\n5. Analyze Differences (MI20)\n        |\n        v\n6. Post Differences (MI07)\n```\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| MI01 | Create PI Document |\n| MI04 | Enter Count |\n| MI07 | Post Differences |\n| MI20 | Difference List |\n| MI24 | PI Documents Display |\n\n## Counting Methods\n\n| Method | Frequency |\n|--------|----------|\n| Annual | Once per year |\n| Cycle Counting | Regular intervals |\n| Continuous | Ongoing sample counts |\n\n## Posting Differences\n\n```\nBook Stock: 100 units\nPhysical Count: 95 units\nDifference: -5 units\n\nPosting:\n  Cr: Inventory      $50 (5 x $10)\n  Dr: Inv Adjustment  $50\n```\n\n> **Regular physical inventory** maintains stock accuracy!"
+        },
+        {
+            "id": "mm_11",
+            "type": "content",
+            "title": "Material Requirements Planning",
+            "content": "# MRP in SAP\n\n## What is MRP?\n\nMaterial Requirements Planning **calculates** what to procure or produce, when, and how much.\n\n## MRP Process\n\n```\nDemand (Sales Orders, Forecasts)\n        |\n        v\nMRP Run (MD01/MD02)\n        |\n        v\nPlanned Orders / Purchase Reqs\n        |\n        v\nConversion to POs / Prod Orders\n```\n\n## MRP Types\n\n| Type | Description |\n|------|-------------|\n| PD | MRP |\n| VB | Reorder Point Planning |\n| VV | Forecast-Based Planning |\n| ND | No Planning |\n\n## Key MRP Parameters\n\n| Parameter | Purpose |\n|-----------|--------|\n| MRP Type | Planning method |\n| Lot Size | How much to order |\n| Safety Stock | Buffer quantity |\n| Reorder Point | When to order |\n| Lead Time | Procurement time |\n\n## MRP Run (MD02)\n\n```\nPlant: 1000\nMRP Type: NETCH (Net Change)\nCreate: Purchase Requisitions\n\nResult:\n  Material RAW-001: PR for 500 units\n  Material RAW-002: PR for 200 units\n```\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| MD01 | MRP Run - All |\n| MD02 | MRP Run - Single Material |\n| MD04 | Stock/Requirements List |\n| MD05 | MRP List |\n\n> **MRP ensures materials** are available when needed!"
+        },
+        {
+            "id": "mm_quiz_3",
+            "type": "quiz",
+            "title": "MRP Quiz",
+            "content": "Test your MRP knowledge!",
+            "quizQuestion": "What transaction displays the stock/requirements list for a material?",
+            "quizOptions": [
+                "MD01",
+                "MD02",
+                "MD04",
+                "ME21N"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "mm_12",
+            "type": "content",
+            "title": "Contracts and Scheduling Agreements",
+            "content": "# Outline Agreements\n\n## What are Outline Agreements?\n\nLong-term purchasing agreements with vendors for repeated procurement.\n\n## Contract (ME31K)\n\n### Types\n\n| Type | Description |\n|------|-------------|\n| MK | Quantity Contract |\n| WK | Value Contract |\n\n### Example Quantity Contract\n\n```\nVendor: 100001\nMaterial: RAW-001\nTarget Quantity: 10,000 units\nPrice: $10/unit\nValidity: Jan 1 - Dec 31, 2024\n\nReleases Created:\n  - Jan: 1,000 units\n  - Feb: 800 units\n  - Mar: 1,200 units\n  Remaining: 7,000 units\n```\n\n## Scheduling Agreement (ME31L)\n\n### Features\n- Delivery schedule included\n- JIT delivery support\n- Firm/trade-off zones\n\n### Example\n\n```\nVendor: 100001\nMaterial: RAW-001\n\nDelivery Schedule:\n  Week 1: 500 units\n  Week 2: 500 units\n  Week 3: 750 units\n  Week 4: 750 units\n```\n\n## Key Transactions\n\n| TCode | Function |\n|-------|----------|\n| ME31K | Create Contract |\n| ME31L | Create Scheduling Agreement |\n| ME33K | Display Contract |\n| ME38 | Create SA Schedule Lines |\n\n## Release Orders\n\n```\nContract 4600000001\n  |\n  +-- Release PO: 4500000010 (1,000 units)\n  +-- Release PO: 4500000025 (800 units)\n```\n\n> **Outline agreements** provide procurement stability!"
+        },
+        {
+            "id": "mm_13",
+            "type": "content",
+            "title": "Consignment and Subcontracting",
+            "content": "# Special Procurement Types\n\n## Consignment\n\n### What Is It?\nVendor-owned stock at your location. You pay only when consumed.\n\n### Process\n\n```\n1. Consignment Fill-Up (ME21N with Special Proc)\n2. Goods Receipt to Consignment Stock (101 K)\n3. Transfer to Own Stock when consumed (411 K)\n4. Vendor invoiced for consumption\n```\n\n### Benefits\n- No payment until use\n- Reduced working capital\n- Stock availability\n\n## Subcontracting\n\n### What Is It?\nSend components to vendor who returns finished product.\n\n### Process\n\n```\n1. Create Subcontracting PO (ME21N)\n2. Provide Components to Vendor (541)\n3. Receive Finished Goods (101)\n4. Components consumed automatically\n```\n\n### Example\n\n```\nSubcontract Order:\n  Receive: ABC Finished Product\n  Provide:\n    - Component X: 2 units\n    - Component Y: 1 unit\n\nVendor Charge: Assembly labor only\n```\n\n## Movement Types\n\n| Type | Description |\n|------|-------------|\n| 541 | Transfer to subcontractor |\n| 543 | Consumption at subcontractor |\n| 101 | GR subcontracted goods |\n\n> **Special procurement** optimizes supply chain flexibility!"
+        },
+        {
+            "id": "mm_14",
+            "type": "content",
+            "title": "Reporting in MM",
+            "content": "# MM Reports and Analytics\n\n## Purchasing Reports\n\n| Report | TCode | Shows |\n|--------|-------|-------|\n| POs by Vendor | ME2V | Vendor purchases |\n| POs by Material | ME2M | Material purchases |\n| PR List | ME5A | Open requisitions |\n| Contract Monitor | ME3M | Contract status |\n\n## Inventory Reports\n\n| Report | TCode | Shows |\n|--------|-------|-------|\n| Stock Overview | MMBE | Stock by location |\n| Material Documents | MB51 | Movement history |\n| Stock Value | MB5L | Valuation details |\n| Slow Moving | MC46 | Aging analysis |\n\n## Invoice Reports\n\n| Report | TCode | Shows |\n|--------|-------|-------|\n| Parked Invoices | MIR6 | Pending invoices |\n| Blocked Invoices | MRBR | Blocked for payment |\n| GR/IR Balance | MB5S | Unmatched items |\n\n## Analysis Reports\n\n### Spend Analysis\n```\nVendor A: $500,000 (40%)\nVendor B: $350,000 (28%)\nVendor C: $250,000 (20%)\nOthers:   $150,000 (12%)\n```\n\n### Price Variance\n```\nMaterial: RAW-001\nPO Price: $10.00\nInvoice:  $10.50\nVariance: $0.50 (5%)\n```\n\n> **Regular reporting** enables better procurement decisions!"
+        },
+        {
+            "id": "mm_15",
+            "type": "content",
+            "title": "MM Period-End Closing",
+            "content": "# Month-End Activities in MM\n\n## MM Closing Checklist\n\n### 1. Complete Open Documents\n\n```\n- Post pending goods receipts\n- Post pending invoices\n- Clear GR/IR differences\n```\n\n### 2. Revaluation (MR21)\n\nAdjust material prices if needed:\n\n```\nMaterial: RAW-001\nCurrent Price: $10.00\nNew Price: $10.50\n\nStock: 1,000 units\nRevaluation: $500\n```\n\n### 3. GR/IR Clearing (F.13)\n\nClear matched GR and IR:\n\n```\nGR: $10,000 (101)\nIR: $10,000 (MIRO)\n\nResult: GR/IR account cleared\n```\n\n### 4. Period Close (MMPV)\n\nClose MM period and open new:\n\n```\nClose: Period 01/2024\nOpen: Period 02/2024\n```\n\n## Key Closing Transactions\n\n| TCode | Function |\n|-------|----------|\n| MMPV | Close/Open Period |\n| MR21 | Price Change |\n| F.13 | Automatic Clearing |\n| MB5S | GR/IR List |\n| CKMM | Actual Costing |\n\n## Period Control\n\n```\nPeriod 12: Closed to MM postings\nPeriod 01: Open for current posting\nPeriod 02: Future period (closed)\n```\n\n> **Timely closing** ensures accurate inventory valuation!"
+        },
+        {
+            "id": "mm_16",
+            "type": "content",
+            "title": "MM Best Practices",
+            "content": "# MM Best Practices\n\n## Master Data Quality\n\n### Material Master\n- Complete all relevant views\n- Maintain accurate lead times\n- Regular master data review\n- Proper unit of measure setup\n\n### Vendor Master\n- Current contact information\n- Accurate payment terms\n- Proper account assignment\n\n## Procurement Efficiency\n\n| Practice | Benefit |\n|----------|--------|\n| Use contracts | Volume discounts |\n| Batch releases | Reduced PO count |\n| Vendor evaluation | Quality improvement |\n| Catalog purchasing | Faster ordering |\n\n## Inventory Optimization\n\n### ABC Analysis\n\n```\nA Items (20%): High value, tight control\nB Items (30%): Medium value, moderate control\nC Items (50%): Low value, simple control\n```\n\n### Safety Stock\n- Balance service level vs. cost\n- Consider lead time variability\n- Regular review and adjustment\n\n## Common Pitfalls\n\n| Issue | Solution |\n|-------|----------|\n| GR/IR imbalances | Regular reconciliation |\n| Duplicate vendors | Vendor cleansing |\n| Over-ordering | MRP tuning |\n| Price discrepancies | Info record maintenance |\n\n> **Following best practices** maximizes MM value!"
+        },
+        {
+            "id": "mm_quiz_4",
+            "type": "quiz",
+            "title": "Period-End Quiz",
+            "content": "Test your period-end knowledge!",
+            "quizQuestion": "Which transaction is used to close and open MM periods?",
+            "quizOptions": [
+                "OB52",
+                "MMPV",
+                "MR21",
+                "MB51"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "mm_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **SAP Materials Management** lesson!\n\n## Key Concepts Mastered\n\n### Material Master\n- Multiple views for different functions\n- Types: ROH, HALB, FERT\n- Valuation: Standard vs Moving Average\n\n### Procurement\n- Purchase Requisitions (ME51N)\n- Purchase Orders (ME21N)\n- Contracts and Scheduling Agreements\n\n### Inventory\n- Goods Movements (MIGO)\n- Stock Types and Valuation\n- Physical Inventory Process\n\n### Invoice Verification\n- Three-Way Matching\n- MIRO for invoice entry\n- GR/IR account clearing\n\n### Integration\n- Automatic FI postings\n- Account determination\n- Period-end closing\n\n## Quick Reference\n\n| Process | Key TCode |\n|---------|----------|\n| Create PO | ME21N |\n| Goods Receipt | MIGO |\n| Invoice Entry | MIRO |\n| Stock Overview | MMBE |\n| MRP Run | MD02 |\n| Period Close | MMPV |\n\n## What is Next?\n\nExplore:\n- SAP Integration scenarios\n- Advanced procurement features\n- Warehouse Management\n\n> **You now understand** the core of SAP Materials Management!"
+        }
+    ]
+}

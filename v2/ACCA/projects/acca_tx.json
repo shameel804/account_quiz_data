@@ -1,0 +1,152 @@
+[
+    {
+        "title": "UK Tax System Overview 🇬🇧",
+        "ques": "Describe the **structure of the UK tax system** and distinguish between **direct** and **indirect** taxes.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**UK Tax Structure**:\n* **HMRC** collects most taxes\n* Tax year: 6 April to 5 April (individuals)\n* Financial year: 1 April to 31 March (companies)\n\n**Direct Taxes**: Income Tax, Corporation Tax, Capital Gains Tax, Inheritance Tax, National Insurance\n\n**Indirect Taxes**: VAT, Excise Duties, Stamp Duty Land Tax"
+        },
+        "explanation": "Direct taxes are based on ***ability to pay***. Indirect taxes may be ***regressive***. HMRC uses ***self-assessment*** for many taxes."
+    },
+    {
+        "title": "Income Tax Computation 📝",
+        "ques": "Outline the **steps to calculate income tax** for an individual.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Steps**:\n1. Calculate Total Income (employment, self-employment, property, savings, dividends)\n2. Deduct Reliefs (pension contributions)\n3. Calculate Net Income\n4. Deduct Personal Allowance\n5. Calculate Taxable Income\n6. Apply Tax Rates by Band\n7. Deduct Tax Reducers"
+        },
+        "explanation": "Income is categorised as ***Non-savings***, ***Savings***, and ***Dividends***. Personal allowance tapers above 100,000."
+    },
+    {
+        "title": "Employment vs Self-Employment 👷",
+        "ques": "Why is the distinction between **employment** and **self-employment** important for tax?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Tax Implications**:\n* Employment: PAYE, Class 1 NI, limited expenses\n* Self-Employment: Self-assessment, Class 2+4 NI, business expenses deductible\n\n**Tests for Status**: Control, substitution, equipment, financial risk, integration"
+        },
+        "explanation": "HMRC uses the ***multiple test approach***. ***IR35*** rules target disguised employment."
+    },
+    {
+        "title": "Capital Gains Tax Basics 📈",
+        "ques": "Explain how **CGT** is calculated on asset disposal.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Calculation**:\n1. Disposal Proceeds\n2. Minus: Acquisition Cost\n3. Minus: Incidental Costs\n4. Minus: Enhancement Expenditure\n5. Minus: Reliefs and Losses\n6. Minus: Annual Exempt Amount\n7. Apply CGT rate (10%/20% or 18%/28% for property)"
+        },
+        "explanation": "Key reliefs include ***main residence relief*** and ***Business Asset Disposal Relief***."
+    },
+    {
+        "title": "Trading Profit Adjustments 🧮",
+        "ques": "What adjustments are made to **accounting profit** for tax?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**ADD BACK**: Depreciation, entertaining, personal expenses, fines, capital expenditure\n\n**DEDUCT**: Capital allowances, extra deductions (R&D)\n\n**Result**: Adjusted Trading Profit"
+        },
+        "explanation": "Expenditure must be ***wholly and exclusively*** for business. Capital allowances replace depreciation."
+    },
+    {
+        "title": "Capital Allowances 🏗️",
+        "ques": "Explain **capital allowances** for plant and machinery.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Types**:\n* **AIA**: 100% deduction up to annual limit\n* **WDA**: Main pool 18%, Special rate 6%\n* **Full Expensing**: 100% for new P&M\n* **Balancing Adjustments**: On disposal"
+        },
+        "explanation": "Capital allowances replace ***depreciation*** for tax. ***AIA*** provides immediate relief."
+    },
+    {
+        "title": "Corporation Tax Computation 🏢",
+        "ques": "Outline steps to calculate **Corporation Tax**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Steps**:\n1. Adjusted Trading Profit\n2. Add Investment Income\n3. Add Capital Gains\n4. Minus Charitable Donations\n5. = Taxable Total Profits\n6. Apply CT Rate\n7. Minus Double Tax Relief"
+        },
+        "explanation": "UK dividends are exempt. Groups can use ***group relief*** for losses."
+    },
+    {
+        "title": "Loss Relief Options 📉",
+        "ques": "What **loss relief options** exist for sole traders?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Options**:\n* Carry forward against same trade\n* Set against general income (current/preceding year)\n* Extension to capital gains\n* Early years relief (first 4 years)\n* Terminal loss relief (final 12 months)"
+        },
+        "explanation": "Taxpayer can ***choose*** which relief maximises benefit."
+    },
+    {
+        "title": "VAT Registration 📋",
+        "ques": "When must a business **register for VAT**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Compulsory**: Taxable turnover exceeds threshold in last 12 months or will in next 30 days.\n\n**Voluntary Benefits**: Recover input VAT, appear professional\n\n**Disadvantages**: Admin burden, cash flow impact"
+        },
+        "explanation": "***Zero-rated*** supplies count toward threshold. Special rules for ***distance selling***."
+    },
+    {
+        "title": "VAT Small Business Schemes 🏪",
+        "ques": "Describe **two VAT schemes** for small businesses.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Flat Rate Scheme**: Pay fixed percentage of turnover, simpler records\n\n**Cash Accounting**: Account for VAT when payment received/made, helps cash flow"
+        },
+        "explanation": "These schemes ***reduce admin burden***. Can sometimes be ***combined***."
+    },
+    {
+        "title": "National Insurance 💳",
+        "ques": "Explain the different **NI classes**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "* **Class 1 Primary**: Employees\n* **Class 1 Secondary**: Employers\n* **Class 1A**: Employers on benefits\n* **Class 2**: Self-employed (flat rate)\n* **Class 4**: Self-employed (on profits)"
+        },
+        "explanation": "NI contributes to ***state benefits*** entitlement. ***Employment Allowance*** exempts some employers."
+    },
+    {
+        "title": "Tax Administration ⚠️",
+        "ques": "What are **key dates** for self-assessment?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "* **31 October**: Paper return deadline\n* **31 January**: Online return + balancing payment\n* **31 July**: Second payment on account\n\n**Penalties**: Start at 100 for 1 day late, escalate over time"
+        },
+        "explanation": "***Reasonable excuse*** may allow penalty waiver. ***Discovery assessments*** for earlier years if fraud."
+    },
+    {
+        "title": "Pension Tax Relief 💰",
+        "ques": "How does **tax relief on pensions** work?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Relief at Source**: Contribute net, scheme claims basic rate\n\n**Net Pay**: Deducted from gross pay before tax\n\n**Limits**: Annual allowance (40,000), Lifetime allowance"
+        },
+        "explanation": "Pensions are ***tax-advantaged*** - relief on contributions, tax-free growth."
+    },
+    {
+        "title": "PPR Relief 🏠",
+        "ques": "Explain **Principal Private Residence Relief**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**PPR Relief**: Exempts main residence gain from CGT.\n\n**Partial Relief**: For periods not occupied, last 9 months deemed occupied.\n\n**Calculation**: Exempt Gain = Total Gain x (Occupied / Total Months)"
+        },
+        "explanation": "***Elections*** can be made if multiple properties owned."
+    },
+    {
+        "title": "Tax Evasion vs Avoidance ⚖️",
+        "ques": "Distinguish **evasion**, **avoidance**, and **planning**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Evasion**: ILLEGAL - deliberately understating income, hiding money\n\n**Avoidance**: Legal but challengeable - artificial arrangements to exploit loopholes\n\n**Planning**: Acceptable - using reliefs as intended (ISAs, pensions)"
+        },
+        "explanation": "HMRC targets ***aggressive avoidance*** via GAAR. Professional ethics apply to advisers."
+    }
+]

@@ -1,0 +1,4377 @@
+[
+    {
+        "q": "Tax invoice is issued for supply of taxable goods or services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax invoice is governed by section ______ of CGST Act.",
+        "type": "fill_blank",
+        "answers": [
+            "31"
+        ],
+        "other_options": [
+            "30",
+            "32",
+            "33"
+        ]
+    },
+    {
+        "q": "Tax invoice must be issued before or at the time of removal of goods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "For services, invoice must be issued before or after provision of service.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax invoice must contain GSTIN of the supplier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax invoice must have consecutive serial number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Serial number can contain alphabets, numerals, and special characters.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Maximum characters in invoice serial number is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "16"
+        ],
+        "other_options": [
+            "10",
+            "20",
+            "25"
+        ]
+    },
+    {
+        "q": "Invoice must contain date of issue.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match invoice mandatory fields:",
+        "type": "match",
+        "left": [
+            "GSTIN",
+            "Serial number",
+            "Date",
+            "HSN/SAC"
+        ],
+        "right": [
+            "Unique identifier",
+            "Consecutive",
+            "Issue date",
+            "Classification"
+        ]
+    },
+    {
+        "q": "Name and address of recipient is required on invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTIN of recipient is required for B2B invoices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "For B2C invoices, recipient's GSTIN is not required.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Place of supply must be mentioned on invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "State code of place of supply is required for inter-state supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange invoice header details:",
+        "type": "rearrange",
+        "words": [
+            "Invoice number",
+            "Date",
+            "Supplier GSTIN",
+            "Recipient details",
+            "Place of supply"
+        ]
+    },
+    {
+        "q": "Description of goods or services must be mentioned on invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "HSN code for goods is mandatory based on turnover.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SAC code for services is mandatory based on turnover.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Quantity and unit of goods must be stated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Total value of supply must be mentioned on invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match invoice item details:",
+        "type": "match",
+        "left": [
+            "Description",
+            "HSN/SAC",
+            "Quantity",
+            "Value"
+        ],
+        "right": [
+            "Nature of goods/services",
+            "Classification code",
+            "Number/measure",
+            "Transaction value"
+        ]
+    },
+    {
+        "q": "Taxable value is value excluding GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rate of tax must be mentioned on invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amount of tax charged must be shown separately.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "For intra-state supply, ______ must be shown.",
+        "type": "fill_blank",
+        "answers": [
+            "CGST and SGST separately"
+        ],
+        "other_options": [
+            "IGST",
+            "Total tax only",
+            "No tax"
+        ]
+    },
+    {
+        "q": "For inter-state supply, ______ must be shown.",
+        "type": "fill_blank",
+        "answers": [
+            "IGST"
+        ],
+        "other_options": [
+            "CGST only",
+            "SGST only",
+            "CGST and SGST"
+        ]
+    },
+    {
+        "q": "Rearrange invoice tax details:",
+        "type": "rearrange",
+        "words": [
+            "Taxable value",
+            "CGST rate and amount",
+            "SGST rate and amount",
+            "IGST rate and amount",
+            "Total invoice value"
+        ]
+    },
+    {
+        "q": "Signature or digital signature of supplier is required.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Electronic invoice does not require physical signature.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice in triplicate is required for goods supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Original copy of invoice is for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "recipient"
+        ],
+        "other_options": [
+            "supplier",
+            "transporter",
+            "government"
+        ]
+    },
+    {
+        "q": "Duplicate copy of invoice is for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transporter"
+        ],
+        "other_options": [
+            "supplier",
+            "recipient",
+            "government"
+        ]
+    },
+    {
+        "q": "Match invoice copies:",
+        "type": "match",
+        "left": [
+            "Original",
+            "Duplicate",
+            "Triplicate",
+            "Electronic"
+        ],
+        "right": [
+            "Recipient",
+            "Transporter",
+            "Supplier's file",
+            "No physical copy"
+        ]
+    },
+    {
+        "q": "Bill of supply is issued for exempt supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bill of supply is issued by composition dealer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bill of supply does not contain tax amount.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bill of supply must mention 'composition taxable person' for composition dealer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bill of supply is governed by section ______ of CGST Act.",
+        "type": "fill_blank",
+        "answers": [
+            "31(3)(c)"
+        ],
+        "other_options": [
+            "31(1)",
+            "31(2)",
+            "32"
+        ]
+    },
+    {
+        "q": "Rearrange bill of supply contents:",
+        "type": "rearrange",
+        "words": [
+            "Serial number",
+            "Date",
+            "Supplier details",
+            "Description",
+            "Value"
+        ]
+    },
+    {
+        "q": "Receipt voucher is issued when payment is received before supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Receipt voucher must be issued within ______ days of advance receipt.",
+        "type": "fill_blank",
+        "answers": [
+            "No specific timeline, at time of receipt"
+        ],
+        "other_options": [
+            "7",
+            "15",
+            "30"
+        ]
+    },
+    {
+        "q": "Receipt voucher must contain supplier GSTIN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Receipt voucher must mention amount of advance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax is payable on advance for services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match advance receipt documents:",
+        "type": "match",
+        "left": [
+            "Receipt voucher",
+            "Advance payment",
+            "Tax liability",
+            "Against invoice"
+        ],
+        "right": [
+            "Issued on receipt",
+            "Before supply",
+            "At time of receipt for services",
+            "Adjusted later"
+        ]
+    },
+    {
+        "q": "Payment voucher is issued when payment is made under RCM.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Payment voucher is self-generated by recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Payment voucher must contain details of unregistered supplier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amount of payment must be mentioned on payment voucher.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Payment voucher serial number must be unique.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange RCM documentation:",
+        "type": "rearrange",
+        "words": [
+            "Identify RCM supply",
+            "Make payment",
+            "Issue payment voucher",
+            "Pay tax on RCM",
+            "Claim ITC"
+        ]
+    },
+    {
+        "q": "Credit note is issued when invoice value is reduced.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit note is issued for return of goods by recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit note reduces the tax liability of supplier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit note must contain reference to original invoice.",
+        "type": "fill_blank",
+        "answers": [
+            "mandatory"
+        ],
+        "other_options": [
+            "optional",
+            "not required",
+            "sometimes"
+        ]
+    },
+    {
+        "q": "Credit note is governed by section ______ of CGST Act.",
+        "type": "fill_blank",
+        "answers": [
+            "34"
+        ],
+        "other_options": [
+            "31",
+            "32",
+            "33"
+        ]
+    },
+    {
+        "q": "Match credit note scenarios:",
+        "type": "match",
+        "left": [
+            "Return of goods",
+            "Price reduction",
+            "Deficiency in service",
+            "Post-supply discount"
+        ],
+        "right": [
+            "Credit note issued",
+            "Credit note issued",
+            "Credit note issued",
+            "Credit note issued"
+        ]
+    },
+    {
+        "q": "Debit note is issued when invoice value is increased.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debit note increases the tax liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debit note is issued for additional charges after invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debit note must reference original invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debit note is governed by section ______ of CGST Act.",
+        "type": "fill_blank",
+        "answers": [
+            "34"
+        ],
+        "other_options": [
+            "31",
+            "32",
+            "33"
+        ]
+    },
+    {
+        "q": "Rearrange debit/credit note process:",
+        "type": "rearrange",
+        "words": [
+            "Identify need",
+            "Reference original invoice",
+            "Calculate difference",
+            "Issue note",
+            "Report in GSTR-1"
+        ]
+    },
+    {
+        "q": "Credit note must be declared in GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debit note must be declared in GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Time limit for credit note is September following the year or annual return filing, whichever is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "earlier"
+        ],
+        "other_options": [
+            "later",
+            "both",
+            "none"
+        ]
+    },
+    {
+        "q": "Credit note issued after time limit has no effect on tax liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Recipient must reduce ITC on receipt of credit note.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match note effects:",
+        "type": "match",
+        "left": [
+            "Credit note supplier",
+            "Credit note recipient",
+            "Debit note supplier",
+            "Debit note recipient"
+        ],
+        "right": [
+            "Reduces output",
+            "Reduces ITC",
+            "Increases output",
+            "Increases ITC"
+        ]
+    },
+    {
+        "q": "E-invoicing is electronic generation of invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoicing is mandatory for turnover exceeding Rs. ______ crore.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "10",
+            "20",
+            "50"
+        ]
+    },
+    {
+        "q": "E-invoice is generated through ______ portal.",
+        "type": "fill_blank",
+        "answers": [
+            "IRP"
+        ],
+        "other_options": [
+            "GST",
+            "GSTN",
+            "NIC"
+        ]
+    },
+    {
+        "q": "IRP stands for Invoice Registration Portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice contains IRN which is unique identification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange e-invoice generation:",
+        "type": "rearrange",
+        "words": [
+            "Create invoice in ERP",
+            "Upload to IRP",
+            "Get IRN and QR",
+            "Print invoice with QR",
+            "Report auto in GSTR-1"
+        ]
+    },
+    {
+        "q": "IRN is ______ character unique hash.",
+        "type": "fill_blank",
+        "answers": [
+            "64"
+        ],
+        "other_options": [
+            "32",
+            "128",
+            "256"
+        ]
+    },
+    {
+        "q": "QR code on e-invoice is digitally signed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "QR code contains key invoice details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice details are auto-populated in GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-way bill can be generated from e-invoice portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match e-invoice components:",
+        "type": "match",
+        "left": [
+            "IRN",
+            "QR code",
+            "Schema",
+            "IRP"
+        ],
+        "right": [
+            "Unique identifier",
+            "Machine readable",
+            "JSON format",
+            "Registration portal"
+        ]
+    },
+    {
+        "q": "E-invoice schema follows ______ format.",
+        "type": "fill_blank",
+        "answers": [
+            "JSON"
+        ],
+        "other_options": [
+            "XML",
+            "CSV",
+            "PDF"
+        ]
+    },
+    {
+        "q": "E-invoice has mandatory and optional fields in schema.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplier GSTIN is mandatory in e-invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Document type like INV, CRN, DBN is mandatory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice for export must have shipping bill details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange e-invoice schema structure:",
+        "type": "rearrange",
+        "words": [
+            "Version",
+            "Transaction details",
+            "Seller details",
+            "Buyer details",
+            "Item details",
+            "Values"
+        ]
+    },
+    {
+        "q": "Cancelled e-invoice cannot be regenerated with same number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice can be cancelled within ______ hours.",
+        "type": "fill_blank",
+        "answers": [
+            "24"
+        ],
+        "other_options": [
+            "48",
+            "72",
+            "12"
+        ]
+    },
+    {
+        "q": "After 24 hours, e-invoice cancellation requires credit note.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cancelled e-invoice status is updated on IRP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice amendment is done through credit/debit notes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match e-invoice corrections:",
+        "type": "match",
+        "left": [
+            "Within 24 hours",
+            "After 24 hours",
+            "Value reduction",
+            "Value increase"
+        ],
+        "right": [
+            "Cancel on IRP",
+            "Issue credit note",
+            "Credit note",
+            "Debit note"
+        ]
+    },
+    {
+        "q": "Dynamic QR code is for B2C invoices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Dynamic QR is mandatory for turnover exceeding Rs. ______ crore.",
+        "type": "fill_blank",
+        "answers": [
+            "500"
+        ],
+        "other_options": [
+            "100",
+            "250",
+            "50"
+        ]
+    },
+    {
+        "q": "Dynamic QR allows payment through UPI apps.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Dynamic QR must contain payment details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Penalty for non-compliance with QR code is Rs. ______ per invoice.",
+        "type": "fill_blank",
+        "answers": [
+            "25000"
+        ],
+        "other_options": [
+            "10000",
+            "50000",
+            "5000"
+        ]
+    },
+    {
+        "q": "Rearrange B2C QR code requirements:",
+        "type": "rearrange",
+        "words": [
+            "Check turnover threshold",
+            "Implement QR generation",
+            "Include payment link",
+            "Print on invoice",
+            "Enable customer payment"
+        ]
+    },
+    {
+        "q": "Revised invoice is issued for changes before first return filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Revised invoice is allowed for migrated taxpayers from pre-GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Revised invoice must reference original invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Time limit for revised invoice was ______ month from registration.",
+        "type": "fill_blank",
+        "answers": [
+            "1"
+        ],
+        "other_options": [
+            "2",
+            "3",
+            "6"
+        ]
+    },
+    {
+        "q": "Normal business does not use revised invoice, uses credit/debit notes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match invoice revision scenarios:",
+        "type": "match",
+        "left": [
+            "New registration",
+            "Migrated taxpayer",
+            "Price change",
+            "Error correction"
+        ],
+        "right": [
+            "Revised invoice if within 1 month",
+            "Revised for pre-GST supplies",
+            "Credit/debit note",
+            "Credit/debit note"
+        ]
+    },
+    {
+        "q": "Delivery challan is used for movement without supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Delivery challan is used for job work.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Delivery challan is for goods sent on approval basis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Delivery challan is for movement between own branches within state.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Delivery challan must have consecutive serial number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange delivery challan uses:",
+        "type": "rearrange",
+        "words": [
+            "Job work",
+            "Approval basis",
+            "Intra-state branch transfer",
+            "Liquid gas",
+            "SKD/CKD"
+        ]
+    },
+    {
+        "q": "Delivery challan is in triplicate for goods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Challan must contain description and quantity of goods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Challan must mention HSN code.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Value of goods is not mandatory on challan if not determinable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Signature is required on delivery challan.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match challan and invoice differences:",
+        "type": "match",
+        "left": [
+            "Invoice",
+            "Challan",
+            "Tax charged",
+            "Purpose"
+        ],
+        "right": [
+            "For supply",
+            "For movement",
+            "Only on invoice",
+            "Trade vs transfer"
+        ]
+    },
+    {
+        "q": "Consolidated invoice can be issued for multiple supplies in a day.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Consolidated invoice is allowed for B2C supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Consolidated invoice value limit was Rs. ______ per day.",
+        "type": "fill_blank",
+        "answers": [
+            "200"
+        ],
+        "other_options": [
+            "100",
+            "500",
+            "1000"
+        ]
+    },
+    {
+        "q": "Consolidated invoice summarizes multiple transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Individual invoices are not required if consolidated is issued for small value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange consolidated invoice criteria:",
+        "type": "rearrange",
+        "words": [
+            "Multiple supplies in day",
+            "Same recipient",
+            "Value below threshold",
+            "Issue consolidated",
+            "Record details"
+        ]
+    },
+    {
+        "q": "Proforma invoice is not a tax invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Proforma invoice is for quotation purposes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Proforma invoice does not create tax liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Actual tax invoice replaces proforma on supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Proforma invoice is used for export quota purposes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match invoice types:",
+        "type": "match",
+        "left": [
+            "Tax invoice",
+            "Bill of supply",
+            "Proforma",
+            "Commercial"
+        ],
+        "right": [
+            "Taxable supply",
+            "Exempt supply",
+            "Quotation",
+            "Export/import"
+        ]
+    },
+    {
+        "q": "Self-invoice is issued for RCM purchases from unregistered.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Self-invoice must contain details of unregistered supplier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Self-invoice serial must be separate from regular invoices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Self-invoice enables ITC claim on RCM.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Self-invoice date should match payment date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange self-invoice process:",
+        "type": "rearrange",
+        "words": [
+            "Purchase from unregistered",
+            "Verify RCM applicability",
+            "Issue self-invoice",
+            "Pay tax on RCM",
+            "Claim ITC"
+        ]
+    },
+    {
+        "q": "Export invoice requires specific details for customs clearance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export invoice must mention shipping bill number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export invoice must state port of loading.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Country of destination is required on export invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export invoice for zero-rated supply mentions 'Supply meant for export on payment of IGST' or 'under LUT'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match export invoice requirements:",
+        "type": "match",
+        "left": [
+            "Shipping bill",
+            "Port",
+            "Destination",
+            "Declaration"
+        ],
+        "right": [
+            "Reference number",
+            "Loading port",
+            "Country",
+            "Zero-rated statement"
+        ]
+    },
+    {
+        "q": "SEZ supply invoice is similar to export invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ invoice must mention SEZ unit details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "LUT number is required on SEZ invoice if supplying without tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ supply is zero-rated supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ unit GSTIN starts with state code ______.",
+        "type": "fill_blank",
+        "answers": [
+            "same as location"
+        ],
+        "other_options": [
+            "99",
+            "00",
+            "special"
+        ]
+    },
+    {
+        "q": "Rearrange SEZ supply documentation:",
+        "type": "rearrange",
+        "words": [
+            "Check SEZ status",
+            "Issue zero-rated invoice",
+            "Mention LUT if applicable",
+            "File GSTR-1",
+            "Claim refund if paid IGST"
+        ]
+    },
+    {
+        "q": "Invoice for continuous supply of goods follows special rules.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Continuous supply invoice is issued when successive statements are involved.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Electricity supply is example of continuous supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Continuous supply invoice frequency is as per contract.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice for continuous supply is issued before or at time of issue of statement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match continuous supply examples:",
+        "type": "match",
+        "left": [
+            "Electricity",
+            "Gas",
+            "Telecom",
+            "Rent"
+        ],
+        "right": [
+            "Continuous goods",
+            "Continuous goods",
+            "Continuous services",
+            "Continuous services"
+        ]
+    },
+    {
+        "q": "Time of supply for goods is earlier of invoice date or payment date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If invoice not issued within time, time of supply is date of removal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Time of supply for services is earlier of invoice or payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Payment recorded in books triggers time of supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Payment credited to bank account triggers time of supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange time of supply factors:",
+        "type": "rearrange",
+        "words": [
+            "Invoice date",
+            "Payment date",
+            "Removal date",
+            "Earlier of above",
+            "Determines tax period"
+        ]
+    },
+    {
+        "q": "Invoice must be issued within ______ days for goods.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "45",
+            "7"
+        ]
+    },
+    {
+        "q": "Invoice for services must be within 30 days of supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Banking and insurance can invoice within ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "45"
+        ],
+        "other_options": [
+            "30",
+            "60",
+            "15"
+        ]
+    },
+    {
+        "q": "ISD invoice has different format from regular invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISD invoice must mention it is an ISD document.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match invoice time limits:",
+        "type": "match",
+        "left": [
+            "Goods supply",
+            "Normal services",
+            "Banking services",
+            "Insurance"
+        ],
+        "right": [
+            "30 days",
+            "30 days",
+            "45 days",
+            "45 days"
+        ]
+    },
+    {
+        "q": "Invoice-wise details are required in GSTR-1 for B2B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "B2C invoices above Rs. 2.5 lakh need invoice-wise reporting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "B2C small invoices are reported in consolidated manner.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "HSN summary is required in GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Documents summary table lists issued, cancelled invoices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange GSTR-1 invoice reporting:",
+        "type": "rearrange",
+        "words": [
+            "B2B invoice-wise",
+            "B2C large invoice-wise",
+            "B2C small consolidated",
+            "Credit notes",
+            "HSN summary"
+        ]
+    },
+    {
+        "q": "Duplicate invoice is allowed only if original is lost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Duplicate invoice must be marked as 'duplicate'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Duplicate copy from transporter copy can serve as duplicate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Recipient can request duplicate invoice from supplier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Duplicate invoice does not create double tax liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match duplicate invoice rules:",
+        "type": "match",
+        "left": [
+            "When issued",
+            "Marking",
+            "Tax effect",
+            "ITC"
+        ],
+        "right": [
+            "Original lost",
+            "Duplicate stamp",
+            "No double tax",
+            "Claimable"
+        ]
+    },
+    {
+        "q": "Supplementary invoice is another name for debit note.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplementary invoice adds to original value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplementary invoice reference is required to original.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Time limit for supplementary invoice follows debit note rules.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplementary invoice must contain all mandatory fields.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange supplementary invoice process:",
+        "type": "rearrange",
+        "words": [
+            "Identify additional value",
+            "Reference original",
+            "Calculate additional tax",
+            "Issue supplementary",
+            "Report in returns"
+        ]
+    },
+    {
+        "q": "Invoice rules are prescribed in Rule ______ of CGST Rules.",
+        "type": "fill_blank",
+        "answers": [
+            "46"
+        ],
+        "other_options": [
+            "45",
+            "47",
+            "48"
+        ]
+    },
+    {
+        "q": "Bill of supply rules are in Rule ______ of CGST Rules.",
+        "type": "fill_blank",
+        "answers": [
+            "49"
+        ],
+        "other_options": [
+            "46",
+            "47",
+            "48"
+        ]
+    },
+    {
+        "q": "Receipt voucher rules are in Rule ______ of CGST Rules.",
+        "type": "fill_blank",
+        "answers": [
+            "50"
+        ],
+        "other_options": [
+            "49",
+            "51",
+            "52"
+        ]
+    },
+    {
+        "q": "Refund voucher rules are in Rule ______ of CGST Rules.",
+        "type": "fill_blank",
+        "answers": [
+            "51"
+        ],
+        "other_options": [
+            "50",
+            "52",
+            "53"
+        ]
+    },
+    {
+        "q": "Payment voucher rules are in Rule ______ of CGST Rules.",
+        "type": "fill_blank",
+        "answers": [
+            "52"
+        ],
+        "other_options": [
+            "51",
+            "53",
+            "54"
+        ]
+    },
+    {
+        "q": "Match CGST Rules for documents:",
+        "type": "match",
+        "left": [
+            "Rule 46",
+            "Rule 49",
+            "Rule 50",
+            "Rule 52"
+        ],
+        "right": [
+            "Tax invoice",
+            "Bill of supply",
+            "Receipt voucher",
+            "Payment voucher"
+        ]
+    },
+    {
+        "q": "Delivery challan rules are in Rule ______ of CGST Rules.",
+        "type": "fill_blank",
+        "answers": [
+            "55"
+        ],
+        "other_options": [
+            "54",
+            "56",
+            "57"
+        ]
+    },
+    {
+        "q": "Credit note and debit note rules are in Rule ______.",
+        "type": "fill_blank",
+        "answers": [
+            "53"
+        ],
+        "other_options": [
+            "52",
+            "54",
+            "55"
+        ]
+    },
+    {
+        "q": "Revised invoice rules are in Rule ______.",
+        "type": "fill_blank",
+        "answers": [
+            "53"
+        ],
+        "other_options": [
+            "52",
+            "54",
+            "55"
+        ]
+    },
+    {
+        "q": "Transportation of goods rules are in Rule ______.",
+        "type": "fill_blank",
+        "answers": [
+            "55A"
+        ],
+        "other_options": [
+            "55",
+            "56",
+            "57"
+        ]
+    },
+    {
+        "q": "E-way bill rules are chapter ______ of CGST Rules.",
+        "type": "fill_blank",
+        "answers": [
+            "XVI"
+        ],
+        "other_options": [
+            "XV",
+            "XVII",
+            "XIV"
+        ]
+    },
+    {
+        "q": "Match invoice rule references:",
+        "type": "match",
+        "left": [
+            "Credit note",
+            "Debit note",
+            "Delivery challan",
+            "E-way bill"
+        ],
+        "right": [
+            "Rule 53",
+            "Rule 53",
+            "Rule 55",
+            "Chapter XVI"
+        ]
+    },
+    {
+        "q": "Penalty for incorrect invoice is Rs. ______ or tax evaded.",
+        "type": "fill_blank",
+        "answers": [
+            "25000"
+        ],
+        "other_options": [
+            "10000",
+            "50000",
+            "100000"
+        ]
+    },
+    {
+        "q": "Invoice without GSTIN is invalid for ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice without HSN above threshold is non-compliant.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Missing tax details on invoice is a compliance issue.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Recipient cannot claim ITC on non-compliant invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange compliance consequences:",
+        "type": "rearrange",
+        "words": [
+            "Issue non-compliant invoice",
+            "Recipient ITC denied",
+            "Penalty on supplier",
+            "Demand notice possible",
+            "Correct and re-issue"
+        ]
+    },
+    {
+        "q": "Round-off of tax amount is permitted on invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Round-off limit on invoice total is Rs. ______.",
+        "type": "fill_blank",
+        "answers": [
+            "0.50"
+        ],
+        "other_options": [
+            "1.00",
+            "0.25",
+            "5.00"
+        ]
+    },
+    {
+        "q": "Round-off can be up or down closest to rupee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Round-off does not need separate liability entry.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice total after round-off is payable amount.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match rounding rules:",
+        "type": "match",
+        "left": [
+            "Individual tax",
+            "Total tax",
+            "Invoice total",
+            "Limit"
+        ],
+        "right": [
+            "Can round",
+            "Sum of individual",
+            "Can round",
+            "Rs. 0.50 each"
+        ]
+    },
+    {
+        "q": "Multi-currency invoice must show INR equivalent.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Exchange rate for invoice is RBI reference rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Exchange rate on date of supply is used.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice can show both foreign and Indian currency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax calculation is always on INR value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange forex invoice preparation:",
+        "type": "rearrange",
+        "words": [
+            "Determine supply date",
+            "Get RBI rate",
+            "Calculate INR value",
+            "Apply GST rate",
+            "Show both currencies"
+        ]
+    },
+    {
+        "q": "Discount must be known at time of supply for deduction from value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Post-supply discount requires credit note.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pre-supply discount is deducted from invoice value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Discount must be linked to specific invoice for ITC reversal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Free samples have nil value but reported in returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match discount treatment:",
+        "type": "match",
+        "left": [
+            "Pre-supply",
+            "Post-supply",
+            "Trade discount",
+            "Cash discount"
+        ],
+        "right": [
+            "Deduct from value",
+            "Credit note",
+            "Deduct if in invoice",
+            "Credit note if later"
+        ]
+    },
+    {
+        "q": "Invoice numbering must be continuous per financial year.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Multiple series of invoices are allowed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Each series must be unique with distinct prefix or suffix.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Branch-wise or product-wise series is permitted.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Gap in serial numbers must be explained.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange invoice series management:",
+        "type": "rearrange",
+        "words": [
+            "Define series structure",
+            "Assign to locations",
+            "Maintain continuity",
+            "Track cancellations",
+            "Reconcile at year end"
+        ]
+    },
+    {
+        "q": "Cancelled invoices must be reported in GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cancelled invoice number cannot be reused.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cancelled invoices create gap in numbering.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Record of cancelled invoices must be maintained.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cancelled invoice requires both copies to be retained.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match cancelled invoice rules:",
+        "type": "match",
+        "left": [
+            "Reporting",
+            "Number reuse",
+            "Record",
+            "E-invoice"
+        ],
+        "right": [
+            "In GSTR-1",
+            "Not allowed",
+            "Must maintain",
+            "Cancel on IRP if within 24h"
+        ]
+    },
+    {
+        "q": "Invoice format is not prescribed, only contents are prescribed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice can be in any language with all prescribed details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Portrait or landscape format is acceptable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Logo and branding can be on invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Terms and conditions can be on invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange invoice customization options:",
+        "type": "rearrange",
+        "words": [
+            "Mandatory GST fields",
+            "Company logo",
+            "Payment terms",
+            "Bank details",
+            "Additional notes"
+        ]
+    },
+    {
+        "q": "Authenticated copy means copy signed by employee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Authenticated copy is acceptable for ITC verification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Electronic records are valid invoices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Printed copy from system is valid invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "PDF invoice sent by email is valid.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match invoice forms:",
+        "type": "match",
+        "left": [
+            "Paper",
+            "PDF",
+            "E-invoice",
+            "Authenticated"
+        ],
+        "right": [
+            "Physical",
+            "Electronic",
+            "IRP generated",
+            "Employee signed"
+        ]
+    },
+    {
+        "q": "Airport/port invoice has special provisions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ invoice requires endorsement sometimes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Exhibition invoice for display goods has special treatment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fairs and exhibitions may use consolidated invoicing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Hotel accommodation invoice has specific requirements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange special invoicing scenarios:",
+        "type": "rearrange",
+        "words": [
+            "Identify special category",
+            "Check specific rules",
+            "Issue compliant invoice",
+            "Report in returns",
+            "Maintain records"
+        ]
+    },
+    {
+        "q": "HSN code is mandatory for turnover above Rs. ______ crore.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "1.5",
+            "10",
+            "20"
+        ]
+    },
+    {
+        "q": "4-digit HSN is required for turnover above Rs. 5 crore.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "6-digit HSN is required for turnover above Rs. ______ crore.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "10",
+            "20",
+            "50"
+        ]
+    },
+    {
+        "q": "SAC code is ______ digits.",
+        "type": "fill_blank",
+        "answers": [
+            "6"
+        ],
+        "other_options": [
+            "4",
+            "8",
+            "10"
+        ]
+    },
+    {
+        "q": "SAC stands for Services Accounting Code.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match HSN requirements by turnover:",
+        "type": "match",
+        "left": [
+            "Below Rs. 5 crore",
+            "Rs. 5-10 crore",
+            "Above Rs. 10 crore",
+            "Services"
+        ],
+        "right": [
+            "4 digits optional",
+            "4 digits mandatory",
+            "6 digits mandatory",
+            "SAC code"
+        ]
+    },
+    {
+        "q": "Incorrect HSN on invoice leads to rejection of ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "HSN must match the goods being supplied.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Wrong HSN classification affects tax rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "HSN verification is done by checking GST rate notifications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "HSN summary in GSTR-1 is based on invoice HSN codes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange HSN compliance:",
+        "type": "rearrange",
+        "words": [
+            "Identify goods",
+            "Find correct HSN",
+            "Apply correct rate",
+            "Mention on invoice",
+            "Report in HSN summary"
+        ]
+    },
+    {
+        "q": "Invoice must show taxable value separately.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxable value is value on which tax is calculated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxable value excludes ______ component.",
+        "type": "fill_blank",
+        "answers": [
+            "tax"
+        ],
+        "other_options": [
+            "discount",
+            "freight",
+            "packing"
+        ]
+    },
+    {
+        "q": "Transaction value is generally the taxable value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Incidental expenses are included in taxable value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match value components:",
+        "type": "match",
+        "left": [
+            "Basic price",
+            "Packing charges",
+            "Freight charged",
+            "Insurance charged"
+        ],
+        "right": [
+            "Part of value",
+            "Part of value",
+            "Part of value",
+            "Part of value"
+        ]
+    },
+    {
+        "q": "Invoice for RCM is issued by recipient as self-invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM self-invoice must contain supplier details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM applies to notified goods and services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM self-invoice is for ITC claim by recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM self-invoice number must be unique.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange RCM self-invoice process:",
+        "type": "rearrange",
+        "words": [
+            "Purchase under RCM",
+            "Issue self-invoice",
+            "Pay tax on RCM",
+            "Claim ITC on RCM paid",
+            "Report in GSTR-1/3B"
+        ]
+    },
+    {
+        "q": "E-way bill is required for movement of goods above Rs. ______.",
+        "type": "fill_blank",
+        "answers": [
+            "50000"
+        ],
+        "other_options": [
+            "25000",
+            "100000",
+            "10000"
+        ]
+    },
+    {
+        "q": "E-way bill and invoice must have matching details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-way bill number can be generated from invoice portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-way bill validity depends on distance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice date must be before or same as e-way bill date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match e-way bill and invoice relation:",
+        "type": "match",
+        "left": [
+            "Invoice number",
+            "Invoice date",
+            "Value",
+            "HSN"
+        ],
+        "right": [
+            "On e-way bill",
+            "Must match",
+            "Must match",
+            "Must match"
+        ]
+    },
+    {
+        "q": "Part A of e-way bill contains supply details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Part B of e-way bill contains vehicle details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Part A can be filled from e-invoice automatically.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Part B is mandatory for road transport.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Transporter ID is alternative to Part B for rail/air/ship.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange e-way bill generation:",
+        "type": "rearrange",
+        "words": [
+            "Issue invoice",
+            "Generate Part A",
+            "Add Part B before movement",
+            "Print e-way bill",
+            "Carry during transport"
+        ]
+    },
+    {
+        "q": "Consolidated e-way bill is for multiple consignments in one vehicle.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Consolidated e-way bill is generated by transporter.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Each consignment must have individual e-way bill for consolidation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Consolidated e-way bill has separate validity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Vehicle number is common in consolidated e-way bill.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match e-way bill types:",
+        "type": "match",
+        "left": [
+            "Individual",
+            "Consolidated",
+            "Part A only",
+            "With Part B"
+        ],
+        "right": [
+            "Single consignment",
+            "Multiple consignments",
+            "Not valid for movement",
+            "Valid for movement"
+        ]
+    },
+    {
+        "q": "Invoice for job work return must reference original challan.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Job work challan is valid for ______ months usually.",
+        "type": "fill_blank",
+        "answers": [
+            "1"
+        ],
+        "other_options": [
+            "3",
+            "6",
+            "12"
+        ]
+    },
+    {
+        "q": "Job work return within one year for goods, ______ years for capital goods.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "1",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "q": "Job work charges are subject to GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Job worker issues invoice for job work charges.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange job work documentation:",
+        "type": "rearrange",
+        "words": [
+            "Send goods on challan",
+            "Job worker processes",
+            "Return on challan",
+            "Invoice for charges",
+            "Principal claims ITC on charges"
+        ]
+    },
+    {
+        "q": "Advance payment invoice is required for services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Advance for goods does not require invoice before supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Receipt voucher for advance must show estimated tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Final invoice adjusts the advance received.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Advance receipt creates time of supply for services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match advance treatment:",
+        "type": "match",
+        "left": [
+            "Advance for services",
+            "Advance for goods",
+            "Receipt voucher",
+            "Final invoice"
+        ],
+        "right": [
+            "Tax on receipt",
+            "Tax on supply",
+            "Issued on receipt",
+            "Adjusts advance"
+        ]
+    },
+    {
+        "q": "Capital goods invoice has same format as regular invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Capital goods ITC is claimed immediately if no reversal required.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Capital goods sale attracts GST on transaction value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Depreciation claimed reduces capital goods ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice for capital goods shows full value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange capital goods ITC:",
+        "type": "rearrange",
+        "words": [
+            "Purchase capital goods",
+            "Receive tax invoice",
+            "Claim full ITC",
+            "No reversal if 100% business use",
+            "Proportionate if mixed use"
+        ]
+    },
+    {
+        "q": "Works contract invoice must show SAC code.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Works contract is treated as supply of services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Works contract invoice shows labor and material together.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Running bill can be issued for works contract.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Final bill adjusts all running bills.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match works contract invoicing:",
+        "type": "match",
+        "left": [
+            "Single invoice",
+            "Running bill",
+            "Final bill",
+            "Retention"
+        ],
+        "right": [
+            "For small works",
+            "For ongoing works",
+            "At completion",
+            "Separate or in final"
+        ]
+    },
+    {
+        "q": "Pure agent reimbursement is excluded from invoice value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pure agent must satisfy conditions under Rule 33.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pure agent payment is in recipient's name.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pure agent invoice shows reimbursement separately.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pure agent reimbursement is not taxable if conditions met.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange pure agent documentation:",
+        "type": "rearrange",
+        "words": [
+            "Incur expense as agent",
+            "Payment in recipient name",
+            "Get original invoice",
+            "Recover at actuals",
+            "Exclude from GST value"
+        ]
+    },
+    {
+        "q": "Mixed supply invoice shows individual items separately.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composite supply takes HSN of principal supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Mixed supply takes highest rate among supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice must correctly classify composite or mixed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Transaction type affects tax rate determination.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match supply types and invoicing:",
+        "type": "match",
+        "left": [
+            "Composite",
+            "Mixed",
+            "Principal supply",
+            "Highest rate"
+        ],
+        "right": [
+            "Single HSN",
+            "Highest rate HSN",
+            "For composite",
+            "For mixed"
+        ]
+    },
+    {
+        "q": "Related party invoice must be at open market value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice value for related parties follows Rule 28.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "If open market value not available, use comparable transaction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cost plus 10% is a valuation method for related parties.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Related party supply even without consideration is taxable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange related party valuation:",
+        "type": "rearrange",
+        "words": [
+            "Identify related party",
+            "Check open market value",
+            "If not available use comparable",
+            "If not, use cost plus",
+            "Issue invoice at determined value"
+        ]
+    },
+    {
+        "q": "Free supply to employee above Rs. ______ per year needs invoice.",
+        "type": "fill_blank",
+        "answers": [
+            "50000"
+        ],
+        "other_options": [
+            "10000",
+            "25000",
+            "100000"
+        ]
+    },
+    {
+        "q": "Gifts to employees below threshold are not supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Free samples to unrelated persons are not supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Free supply between related persons is supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice for free supply shows value but no collection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match free supply invoicing:",
+        "type": "match",
+        "left": [
+            "Employee gift below limit",
+            "Employee gift above limit",
+            "Related party",
+            "Unrelated sample"
+        ],
+        "right": [
+            "No invoice needed",
+            "Invoice required",
+            "Invoice required",
+            "No invoice needed"
+        ]
+    },
+    {
+        "q": "Barter transaction invoice shows value of goods exchanged.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Both parties issue invoice in barter.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Value in barter is open market value of goods received.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC is available on barter purchases.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Barter is treated as two separate supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange barter documentation:",
+        "type": "rearrange",
+        "words": [
+            "Agree on exchange",
+            "Determine market values",
+            "Each party invoices",
+            "Each pays GST on outward",
+            "Each claims ITC on inward"
+        ]
+    },
+    {
+        "q": "Consignment sale invoice is issued by consignment agent.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Goods sent on consignment require delivery challan initially.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice is issued when consignment agent sells.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Principal to agent transfer is supply if in different states.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Agent commission is subject to GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match consignment documentation:",
+        "type": "match",
+        "left": [
+            "To agent",
+            "Agent to customer",
+            "Agent commission",
+            "Return to principal"
+        ],
+        "right": [
+            "Challan or invoice if interstate",
+            "Invoice",
+            "Invoice from agent",
+            "Challan"
+        ]
+    },
+    {
+        "q": "Warranty replacement does not require fresh invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Free replacement under warranty is not supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Warranty period supplies are at nil value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Extended warranty service is taxable supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Extended warranty invoice shows service value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange warranty invoicing:",
+        "type": "rearrange",
+        "words": [
+            "Original sale with warranty",
+            "Replacement under warranty free",
+            "Extended warranty charged",
+            "Invoice for extended",
+            "GST on extended only"
+        ]
+    },
+    {
+        "q": "Place of supply determines CGST/SGST or IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice must correctly show place of supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Wrong place of supply leads to wrong tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Goods delivered to address determines place of supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Service recipient location usually determines place of supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match place of supply rules:",
+        "type": "match",
+        "left": [
+            "Goods movement",
+            "No movement",
+            "B2B services",
+            "B2C services"
+        ],
+        "right": [
+            "Delivery location",
+            "Supplier location",
+            "Recipient location",
+            "Supplier location generally"
+        ]
+    },
+    {
+        "q": "Bill to ship to model has one invoice to billing party.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Ship to address is different from bill to address.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Place of supply is ship to location for goods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice mentions both bill to and ship to addresses.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-way bill shows ship to location for movement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange bill to ship to documentation:",
+        "type": "rearrange",
+        "words": [
+            "Order from bill to party",
+            "Invoice to bill to",
+            "Ship to consignee",
+            "E-way bill to ship to",
+            "ITC to bill to party"
+        ]
+    },
+    {
+        "q": "High sea sale invoice is issued before customs clearance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "High sea sale is not subject to GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "High sea sale agreement must be before customs clearance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST is paid by ultimate importer on customs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "High sea sale invoice shows CIF value plus margin.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match high sea sale features:",
+        "type": "match",
+        "left": [
+            "Timing",
+            "GST",
+            "Customs duty",
+            "Invoice"
+        ],
+        "right": [
+            "Before clearance",
+            "Not applicable on sale",
+            "By ultimate importer",
+            "Shows value without GST"
+        ]
+    },
+    {
+        "q": "Bond sale in bonded warehouse is not taxable until clearance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Sale within bonded warehouse uses regular invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Customs bond covers duty and GST until clearance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Ex-bond clearance requires payment of customs and GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bond to bond transfer is not taxable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange bonded warehouse transactions:",
+        "type": "rearrange",
+        "words": [
+            "Import to bond",
+            "Store in warehouse",
+            "Sale within bond",
+            "Ex-bond for domestic",
+            "Pay duties on ex-bond"
+        ]
+    },
+    {
+        "q": "Merchant export invoice shows zero-rated supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Merchant exporter rate is ______ for certain goods.",
+        "type": "fill_blank",
+        "answers": [
+            "0.1%"
+        ],
+        "other_options": [
+            "5%",
+            "12%",
+            "0%"
+        ]
+    },
+    {
+        "q": "Merchant exporter must export within 90 days of invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "LUT is required by supplier to merchant exporter.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export proof closes the LUT transaction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match merchant export invoicing:",
+        "type": "match",
+        "left": [
+            "Domestic supplier",
+            "Merchant exporter",
+            "Rate",
+            "Timeline"
+        ],
+        "right": [
+            "Invoice at 0.1%",
+            "Exports goods",
+            "0.1% IGST",
+            "Export within 90 days"
+        ]
+    },
+    {
+        "q": "Deemed export invoice has specific mention of deemed export.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Deemed export is supply within India with export benefits.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund of deemed export is to supplier or recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Deemed export supplies are listed in notification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice declaration required for deemed export claim.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange deemed export process:",
+        "type": "rearrange",
+        "words": [
+            "Identify deemed export category",
+            "Issue compliant invoice",
+            "Charge GST",
+            "Recipient uses goods",
+            "Supplier claims refund"
+        ]
+    },
+    {
+        "q": "Refund voucher is for refund of advances when supply not made.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund voucher references original receipt voucher.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund voucher allows adjustment of tax paid on advance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund voucher is issued within ______ days of cancellation.",
+        "type": "fill_blank",
+        "answers": [
+            "reasonable time"
+        ],
+        "other_options": [
+            "7",
+            "15",
+            "30"
+        ]
+    },
+    {
+        "q": "Refund voucher enables supplier to reduce output liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match refund voucher scenarios:",
+        "type": "match",
+        "left": [
+            "Order cancelled",
+            "Advance returned",
+            "Tax adjustment",
+            "Documentation"
+        ],
+        "right": [
+            "Issue refund voucher",
+            "Refund to customer",
+            "Reduce output tax",
+            "Refund voucher"
+        ]
+    },
+    {
+        "q": "Invoice format varies by industry but contents are same.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pharma invoice requires batch number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Jewellery invoice requires making charges separately.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Real estate invoice has specific requirements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Vehicle invoice shows chassis and engine number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange industry-specific requirements:",
+        "type": "rearrange",
+        "words": [
+            "Identify industry",
+            "Check specific rules",
+            "Add mandatory details",
+            "GST invoice format",
+            "Industry compliance"
+        ]
+    },
+    {
+        "q": "Retention money is part of invoice value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Retention is tax inclusive in invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Release of retention requires no separate invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax is payable on full value including retention.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Retention release is payment, not supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match retention accounting:",
+        "type": "match",
+        "left": [
+            "Invoice value",
+            "Tax calculation",
+            "Retention deduction",
+            "Release payment"
+        ],
+        "right": [
+            "Includes retention",
+            "On full value",
+            "From payment only",
+            "No fresh invoice"
+        ]
+    },
+    {
+        "q": "Rebate and incentive may require credit note.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Volume discount requires ITC reversal by recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Incentive paid to recipient is separate supply from recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cash discount given later requires credit note.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Early payment discount should be in original invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange discount documentation:",
+        "type": "rearrange",
+        "words": [
+            "Agree discount terms",
+            "Issue invoice at full value",
+            "Discount given later",
+            "Issue credit note",
+            "Recipient reverses ITC"
+        ]
+    },
+    {
+        "q": "Packaging material invoice is separate from goods invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Returnable packaging deposit is not supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-returnable packing is part of goods value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Packaging material has own HSN and rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Separate invoice for packaging increases compliance correctly.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match packaging treatment:",
+        "type": "match",
+        "left": [
+            "Returnable",
+            "Non-returnable",
+            "Deposit",
+            "Invoice"
+        ],
+        "right": [
+            "Not supply",
+            "Part of value",
+            "Refundable",
+            "Separate or included"
+        ]
+    },
+    {
+        "q": "Reverse charge invoice must be issued by recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice for import of services is self-invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IGST on import of services is payable by recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Self-invoice for import shows foreign supplier details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Import of services ITC is available after payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange import of services documentation:",
+        "type": "rearrange",
+        "words": [
+            "Receive foreign service",
+            "Issue self-invoice",
+            "Pay IGST under RCM",
+            "File in GSTR-3B",
+            "Claim ITC"
+        ]
+    },
+    {
+        "q": "Accounting document can be invoice if it has all details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice generated from accounting software is valid.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice must be authenticated by authorized person.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Digital signature satisfies authentication requirement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "System-generated invoice with auto-signature is valid.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match invoice authentication:",
+        "type": "match",
+        "left": [
+            "Manual signature",
+            "Digital signature",
+            "System generated",
+            "E-invoice"
+        ],
+        "right": [
+            "Traditional",
+            "Electronic",
+            "With auto-sign",
+            "IRP authenticated"
+        ]
+    },
+    {
+        "q": "Monthly reconciliation of invoices is best practice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice register should be maintained.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice data should match GSTR-1 data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Mismatch in invoices leads to ITC issues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice audit trail should be maintained.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange invoice management:",
+        "type": "rearrange",
+        "words": [
+            "Issue invoices",
+            "Record in register",
+            "Upload to GSTR-1",
+            "Reconcile with books",
+            "Archive copies"
+        ]
+    },
+    {
+        "q": "Invoice for TDS attracts normal GST rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice shows gross value before TDS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS is on value excluding GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST is on full value, TDS on taxable value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplier claims TDS credit in cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match TDS and invoice:",
+        "type": "match",
+        "left": [
+            "Invoice value",
+            "GST calculation",
+            "TDS calculation",
+            "Net payment"
+        ],
+        "right": [
+            "Full amount",
+            "On taxable value",
+            "On taxable value",
+            "Invoice less TDS"
+        ]
+    },
+    {
+        "q": "TCS is collected by e-commerce operator on supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplier's invoice shows gross value to customer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Operator collects TCS from customer payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS is credited to supplier's cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplier uses TCS credit for tax payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange TCS flow:",
+        "type": "rearrange",
+        "words": [
+            "Supplier invoices customer",
+            "Customer pays operator",
+            "Operator collects TCS",
+            "Operator remits to supplier",
+            "Supplier claims TCS credit"
+        ]
+    },
+    {
+        "q": "E-invoice has reduced manual data entry errors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice enables real-time reporting to GST system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice reduces tax evasion through matching.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice facilitates faster ITC verification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice has standardized format across businesses.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match e-invoice benefits:",
+        "type": "match",
+        "left": [
+            "Supplier",
+            "Recipient",
+            "Government",
+            "Transporter"
+        ],
+        "right": [
+            "Auto GSTR-1",
+            "ITC verification",
+            "Compliance",
+            "E-way integration"
+        ]
+    },
+    {
+        "q": "E-invoice threshold was progressively reduced from Rs. ______ crore.",
+        "type": "fill_blank",
+        "answers": [
+            "500"
+        ],
+        "other_options": [
+            "100",
+            "50",
+            "10"
+        ]
+    },
+    {
+        "q": "Current e-invoice threshold is Rs. 5 crore.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice may be extended to all taxpayers eventually.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ units are exempt from e-invoicing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Banks and insurance are exempt from e-invoicing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange e-invoice threshold history:",
+        "type": "rearrange",
+        "words": [
+            "Rs. 500 crore",
+            "Rs. 100 crore",
+            "Rs. 50 crore",
+            "Rs. 20 crore",
+            "Rs. 5 crore"
+        ]
+    },
+    {
+        "q": "Multiple IRPs are available for e-invoice generation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NIC is the primary IRP for e-invoicing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Private IRPs are also approved for generation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IRP validates invoice data before issuing IRN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IRN is unique across all invoices in India.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match IRP functions:",
+        "type": "match",
+        "left": [
+            "Receive data",
+            "Validate",
+            "Generate IRN",
+            "Return QR"
+        ],
+        "right": [
+            "From supplier",
+            "Schema and GSTIN",
+            "Unique hash",
+            "For printing"
+        ]
+    },
+    {
+        "q": "API integration enables real-time e-invoice generation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bulk upload option is available for e-invoices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Offline tool is available for generating e-invoices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice portal allows manual entry for small volume.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSP route is used by some businesses for e-invoicing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange e-invoice generation methods:",
+        "type": "rearrange",
+        "words": [
+            "Direct API",
+            "Via GSP",
+            "Offline tool",
+            "Bulk upload",
+            "Manual portal entry"
+        ]
+    },
+    {
+        "q": "E-invoice requires registration on IRP portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "API credentials are issued after registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Test environment is available for integration testing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Production API is different from sandbox API.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IP whitelisting may be required for API access.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match e-invoice API setup:",
+        "type": "match",
+        "left": [
+            "Registration",
+            "Credentials",
+            "Sandbox",
+            "Production"
+        ],
+        "right": [
+            "On IRP portal",
+            "API key and secret",
+            "Testing",
+            "Live invoices"
+        ]
+    },
+    {
+        "q": "E-invoice errors are returned by IRP immediately.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Common error is invalid GSTIN format.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Duplicate invoice number is rejected by IRP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invalid HSN format causes rejection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Missing mandatory fields cause rejection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange e-invoice error handling:",
+        "type": "rearrange",
+        "words": [
+            "Submit to IRP",
+            "Receive error code",
+            "Identify issue",
+            "Correct data",
+            "Resubmit"
+        ]
+    },
+    {
+        "q": "E-invoice data flows to GSTR-1 automatically.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice invoices appear in GSTR-1 within hours.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Manual editing of e-invoice in GSTR-1 is limited.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice cancellation reflects in GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice amendment requires credit/debit note.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match e-invoice and GSTR-1 integration:",
+        "type": "match",
+        "left": [
+            "B2B invoices",
+            "Credit notes",
+            "Debit notes",
+            "Cancellations"
+        ],
+        "right": [
+            "Auto-populated",
+            "Auto-populated",
+            "Auto-populated",
+            "Reflected"
+        ]
+    },
+    {
+        "q": "QR code scanning verifies invoice authenticity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Recipient can verify e-invoice on GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IRN verification confirms genuine invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fake e-invoice detection is possible through verification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice verification builds trust in B2B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange e-invoice verification flow:",
+        "type": "rearrange",
+        "words": [
+            "Receive e-invoice",
+            "Scan QR code",
+            "Verify on portal",
+            "Confirm IRN",
+            "Accept invoice"
+        ]
+    },
+    {
+        "q": "Credit note can also have e-invoice generated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debit note requires e-invoice if above threshold.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice for credit note references original IRN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Original invoice number is mandatory on credit note e-invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Separate IRN is generated for credit note.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match e-invoice document types:",
+        "type": "match",
+        "left": [
+            "INV",
+            "CRN",
+            "DBN",
+            "Export"
+        ],
+        "right": [
+            "Tax Invoice",
+            "Credit Note",
+            "Debit Note",
+            "Export Invoice"
+        ]
+    },
+    {
+        "q": "Invoice for government supplies follows standard format.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Government tenders may require specific invoice details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice to government is subject to TDS under GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Government department GSTIN is used on invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Government payments are processed after invoice verification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange government invoice processing:",
+        "type": "rearrange",
+        "words": [
+            "Supply to government",
+            "Issue tax invoice",
+            "TDS deducted",
+            "Payment released",
+            "TDS credit claimed"
+        ]
+    },
+    {
+        "q": "Invoice for intra-company transfers may be required.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Inter-state branch transfer requires invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Intra-state branch transfer uses delivery challan.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Stock transfer value is open market or cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC is available on inter-state stock transfer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match branch transfer documentation:",
+        "type": "match",
+        "left": [
+            "Same state",
+            "Different state",
+            "Within GSTIN",
+            "Different GSTIN"
+        ],
+        "right": [
+            "Challan",
+            "Invoice",
+            "Not supply",
+            "Supply"
+        ]
+    },
+    {
+        "q": "Hospitality invoice includes room charges and services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Hotel invoice rate varies by room tariff slab.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Restaurant invoice in hotel may have different rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Service charge on hotel bill is taxable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tip is not subject to GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange hotel invoice components:",
+        "type": "rearrange",
+        "words": [
+            "Room tariff",
+            "Restaurant bill",
+            "Service charges",
+            "GST calculation",
+            "Total payable"
+        ]
+    },
+    {
+        "q": "Telecom invoice is issued monthly for post-paid.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pre-paid recharge invoice is issued at time of recharge.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Telecom services are subject to GST at ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "18"
+        ],
+        "other_options": [
+            "12",
+            "5",
+            "28"
+        ]
+    },
+    {
+        "q": "Place of supply for telecom is location of SIM card registration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Roaming charges have specific place of supply rules.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match telecom invoicing:",
+        "type": "match",
+        "left": [
+            "Post-paid",
+            "Pre-paid",
+            "Data services",
+            "International roaming"
+        ],
+        "right": [
+            "Monthly invoice",
+            "On recharge",
+            "Same as voice",
+            "Special rules"
+        ]
+    },
+    {
+        "q": "Educational institution invoice may be exempt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "School and college fees are generally exempt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Coaching institute fees are taxable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Online courses may be taxable services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Stationery and books supply is separate from fees.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange education invoicing:",
+        "type": "rearrange",
+        "words": [
+            "Identify service type",
+            "Check exemption",
+            "Issue invoice if taxable",
+            "Exempt no invoice",
+            "Composite supply analysis"
+        ]
+    },
+    {
+        "q": "Healthcare invoice for medical services is exempt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Hospital room above Rs. ______ per day is taxable.",
+        "type": "fill_blank",
+        "answers": [
+            "5000"
+        ],
+        "other_options": [
+            "2500",
+            "7500",
+            "10000"
+        ]
+    },
+    {
+        "q": "Medicines sold by hospital are taxable supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Health checkup packages have composite supply analysis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cosmetic surgery is taxable service.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match healthcare invoicing:",
+        "type": "match",
+        "left": [
+            "Consultation",
+            "Room below Rs. 5000",
+            "Room above Rs. 5000",
+            "Pharmacy"
+        ],
+        "right": [
+            "Exempt",
+            "Exempt",
+            "Taxable at 5%",
+            "Taxable at applicable rate"
+        ]
+    },
+    {
+        "q": "Transportation invoice for goods includes freight charges.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GTA invoice may be under forward or reverse charge.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Courier service invoice is subject to GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rail freight has specific GST rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Passenger transport invoice depends on vehicle type.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange transport invoicing:",
+        "type": "rearrange",
+        "words": [
+            "Identify transport type",
+            "Check FCM or RCM",
+            "Issue invoice",
+            "Apply correct rate",
+            "Report accordingly"
+        ]
+    },
+    {
+        "q": "Professional services invoice from lawyer or CA.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Legal services to business are under RCM.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Consultancy services are taxable at standard rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Freelancer services require GST invoice if registered.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Professional services to individuals are under FCM.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match professional services invoicing:",
+        "type": "match",
+        "left": [
+            "Legal to business",
+            "Legal to individual",
+            "CA services",
+            "Consultancy"
+        ],
+        "right": [
+            "RCM",
+            "FCM",
+            "FCM",
+            "FCM"
+        ]
+    },
+    {
+        "q": "Software license invoice may be goods or services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Perpetual license is treated as goods supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SaaS subscription is treated as services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Customized software is composite supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IT services are taxable at ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "18"
+        ],
+        "other_options": [
+            "12",
+            "5",
+            "28"
+        ]
+    },
+    {
+        "q": "Rearrange software invoicing:",
+        "type": "rearrange",
+        "words": [
+            "Identify supply type",
+            "Goods or services",
+            "Apply HSN or SAC",
+            "Correct rate",
+            "Issue invoice"
+        ]
+    },
+    {
+        "q": "Rent invoice is issued monthly or as per contract.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Commercial rent is taxable at ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "18"
+        ],
+        "other_options": [
+            "12",
+            "5",
+            "28"
+        ]
+    },
+    {
+        "q": "Residential rent is exempt if for dwelling.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Lease of land is exempt under certain conditions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Security deposit is not part of rental income.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match rental invoicing:",
+        "type": "match",
+        "left": [
+            "Commercial",
+            "Residential",
+            "Industrial",
+            "Land lease"
+        ],
+        "right": [
+            "18% GST",
+            "Exempt",
+            "18% GST",
+            "Exempt conditions"
+        ]
+    },
+    {
+        "q": "Construction invoice follows specific time of supply rules.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Booking advance creates tax liability in construction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Installment payments require invoice for each.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Completion certificate affects GST treatment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Affordable housing has reduced GST rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange construction invoicing:",
+        "type": "rearrange",
+        "words": [
+            "Booking advance",
+            "Invoice for advance",
+            "Installment payments",
+            "Progress invoices",
+            "Final invoice"
+        ]
+    },
+    {
+        "q": "Gold and jewellery invoice shows weight and purity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Making charges on jewellery are taxable separately.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Gold rate for GST is based on invoice date rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Hallmark number may be required on invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST on gold is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "5",
+            "12",
+            "18"
+        ]
+    },
+    {
+        "q": "Match jewellery invoice details:",
+        "type": "match",
+        "left": [
+            "Gold value",
+            "Making charges",
+            "GST on gold",
+            "GST on making"
+        ],
+        "right": [
+            "Weight times rate",
+            "Separate line",
+            "3%",
+            "5%"
+        ]
+    },
+    {
+        "q": "Automobile invoice includes ex-showroom and on-road.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Vehicle registration charges are collected separately.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Insurance on vehicle is taxable service.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Accessories fitted are taxable goods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Vehicle sale invoice shows chassis and engine number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange automobile invoice components:",
+        "type": "rearrange",
+        "words": [
+            "Ex-showroom price",
+            "GST",
+            "Registration charges",
+            "Insurance",
+            "Accessories"
+        ]
+    },
+    {
+        "q": "Export invoice in foreign currency shows exchange rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export invoice must be in English.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Bill of lading number is mentioned on export invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Commercial invoice is basis for customs valuation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Incoterms are mentioned on export invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match export invoice elements:",
+        "type": "match",
+        "left": [
+            "Currency",
+            "Incoterms",
+            "BL number",
+            "Port"
+        ],
+        "right": [
+            "Foreign with INR",
+            "Delivery terms",
+            "Shipping reference",
+            "Loading port"
+        ]
+    },
+    {
+        "q": "Free trade agreement may affect invoice value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Certificate of origin may be required with invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Preferential duty savings require specific documentation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Country of origin is declared on invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "HS code on invoice determines customs duty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange export documentation:",
+        "type": "rearrange",
+        "words": [
+            "Commercial invoice",
+            "Packing list",
+            "Bill of lading",
+            "Certificate of origin",
+            "Shipping bill"
+        ]
+    },
+    {
+        "q": "Invoice archival is required for ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "6"
+        ],
+        "other_options": [
+            "3",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "q": "Electronic invoice storage is accepted.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Backup of invoice records is recommended.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cloud storage for invoices is acceptable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Retrieved invoice must be in original format.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match invoice storage requirements:",
+        "type": "match",
+        "left": [
+            "Retention",
+            "Format",
+            "Storage",
+            "Retrieval"
+        ],
+        "right": [
+            "6 years",
+            "Original or electronic",
+            "Physical or digital",
+            "Must be readable"
+        ]
+    },
+    {
+        "q": "Invoice audit by department verifies compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Random invoice verification is part of assessment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice discrepancies can trigger demand notices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice matching with purchase records is verified.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Proper invoicing reduces audit risks.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange audit preparation:",
+        "type": "rearrange",
+        "words": [
+            "Organize invoices",
+            "Match with returns",
+            "Verify calculations",
+            "Check compliance",
+            "Respond to queries"
+        ]
+    },
+    {
+        "q": "Late fee on invoice filing is per day per return.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice data correction after filing requires amendment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice amendment in GSTR-1 is allowed in next period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Wrong invoice uploaded can be corrected by CDN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice re-upload is not possible after filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match invoice amendment scenarios:",
+        "type": "match",
+        "left": [
+            "Before filing",
+            "After filing",
+            "Wrong GSTIN",
+            "Wrong value"
+        ],
+        "right": [
+            "Edit directly",
+            "Amend in next return",
+            "Issue CDN",
+            "Issue CDN"
+        ]
+    },
+    {
+        "q": "Invoice consolidation for B2C reduces entry volume.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Daily sales register is basis for consolidated invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "POS invoice can be consolidated for reporting.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Consolidated reporting is rate-wise.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "State-wise consolidation is required for B2C large.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange B2C reporting:",
+        "type": "rearrange",
+        "words": [
+            "Capture daily sales",
+            "Separate by rate",
+            "Consolidate by state",
+            "Report in GSTR-1",
+            "Maintain records"
+        ]
+    },
+    {
+        "q": "Advance ruling on invoicing is binding on applicant.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoicing practice query can be raised to authorities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Circulars clarify invoicing doubts.",
+        "type": "true_false",
+        "correct": "True"
+    }
+]

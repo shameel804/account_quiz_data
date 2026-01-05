@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Investment Decision Criteria 📊",
+        "ques": "What **criteria** should be used for investment decisions?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Primary Criteria**:\n* Net Present Value (NPV)\n* Internal Rate of Return (IRR)\n* Payback Period\n* Profitability Index\n\n**Strategic Criteria**:\n* Alignment with strategy\n* Risk profile\n* Competitive impact\n* Regulatory requirements"
+        },
+        "explanation": "Use ***multiple criteria*** for major decisions."
+    },
+    {
+        "title": "Cash Flow Estimation 💵",
+        "ques": "What cash flows are **relevant** for investment analysis?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Include**:\n* Initial investment outlay\n* Incremental operating cash flows\n* Working capital changes\n* Terminal/salvage value\n* Tax effects\n\n**Exclude**:\n* Sunk costs\n* Allocated overhead that won't change\n* Financing costs (in discount rate)"
+        },
+        "explanation": "Focus on ***incremental, after-tax*** cash flows."
+    },
+    {
+        "title": "Depreciation and Taxes 🧮",
+        "ques": "How does **depreciation** affect investment analysis?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Impact**:\n* Depreciation is non-cash but provides tax shield\n* Tax Shield = Depreciation x Tax Rate\n* Different methods (straight-line, accelerated) affect timing\n* Use tax depreciation, not book depreciation\n\n**Accelerated**: More tax benefit in early years"
+        },
+        "explanation": "Time value means ***earlier tax savings*** are more valuable."
+    },
+    {
+        "title": "Working Capital in Investments 🔄",
+        "ques": "How is **working capital** treated in investment analysis?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Treatment**:\n* Initial outlay: Increase in working capital\n* During project: Changes with activity level\n* Terminal: Working capital recovered (cash inflow)\n\n**Components**: Inventory buildup, receivables increase, payables offset"
+        },
+        "explanation": "Working capital changes are ***cash flows*** in the analysis."
+    },
+    {
+        "title": "Risk in Capital Budgeting 🎲",
+        "ques": "How should **risk** be incorporated into capital budgeting?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Approaches**:\n* Risk-adjusted discount rate (higher rate for risky projects)\n* Certainty equivalents (reduce cash flows for risk)\n* Sensitivity analysis\n* Scenario analysis\n* Monte Carlo simulation\n* Decision trees"
+        },
+        "explanation": "Higher risk projects require ***higher returns***."
+    },
+    {
+        "title": "Profitability Index 📈",
+        "ques": "What is the **Profitability Index** and when is it used?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Profitability Index** = PV of Cash Inflows / Initial Investment\n\n**Decision Rule**:\n* PI > 1: Accept\n* PI < 1: Reject\n\n**Use**: Capital rationing - rank projects by PI when funds limited"
+        },
+        "explanation": "PI measures ***value created per dollar invested***."
+    },
+    {
+        "title": "Capital Rationing 📋",
+        "ques": "How are projects selected under **capital rationing**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Capital Rationing**: Limited funds available for investment\n\n**Selection Process**:\n1. Calculate PI for all projects\n2. Rank by PI (highest first)\n3. Select projects until capital exhausted\n\n**Goal**: Maximize total NPV with constrained budget"
+        },
+        "explanation": "Different from unconstrained case where all positive NPV projects accepted."
+    },
+    {
+        "title": "Real Options ⚙️",
+        "ques": "What are **real options** in investment analysis?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Real Options**: Embedded flexibility in projects\n\n**Types**:\n* Option to delay/defer\n* Option to expand\n* Option to abandon\n* Option to switch\n\n**Value**: Traditional NPV may undervalue flexible projects"
+        },
+        "explanation": "Real options recognize ***value of flexibility***."
+    },
+    {
+        "title": "Lease vs Buy Analysis 🏢",
+        "ques": "How is a **lease vs buy** decision analyzed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Analysis**:\n1. Calculate NPV of buying (includes purchase, tax shield, residual)\n2. Calculate NPV of leasing (after-tax lease payments)\n3. Compare net advantage to leasing (NAL)\n\n**Consider**: Tax effects, maintenance, obsolescence risk"
+        },
+        "explanation": "Discount at ***after-tax cost of debt*** (both are financing)"
+    },
+    {
+        "title": "Post-Investment Audit 📋",
+        "ques": "What is a **post-investment audit** and why is it important?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Post-Investment Audit**: Review of actual vs expected results\n\n**Benefits**:\n* Learn from experience\n* Improve future forecasting\n* Accountability for decisions\n* Identify problems early\n* Validate methodology"
+        },
+        "explanation": "Creates ***feedback loop*** for better future decisions."
+    },
+    {
+        "title": "Replacement Decisions 🔧",
+        "ques": "How should **asset replacement** decisions be analyzed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Analysis**:\n* Initial cost of new asset\n* Less: Proceeds from selling old asset\n* Less/Plus: Tax on gain/loss on disposal\n* Operating cost savings (incremental)\n* Depreciation differences\n\n**Decision**: Replace if NPV of replacement > 0"
+        },
+        "explanation": "Compare ***incremental*** cash flows of replacing vs keeping."
+    },
+    {
+        "title": "Project Life Comparison 📊",
+        "ques": "How are projects with **different lives** compared?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Methods**:\n1. **Replacement Chain**: Repeat projects to common life\n2. **Equivalent Annual Annuity (EAA)**: NPV / Annuity Factor\n\n**EAA Approach**: Choose project with highest EAA\n\n**Assumption**: Projects can be repeated indefinitely"
+        },
+        "explanation": "Necessary for ***mutually exclusive*** projects with different durations."
+    },
+    {
+        "title": "Inflation in Investment Analysis 📈",
+        "ques": "How should **inflation** be handled in investment analysis?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Two Approaches**:\n1. **Nominal**: Inflate cash flows, use nominal discount rate\n2. **Real**: Use today's prices, use real discount rate\n\n**Consistency**: Must match approach - don't mix!\n\n**Fisher**: (1+nominal) = (1+real) x (1+inflation)"
+        },
+        "explanation": "Either approach gives ***same NPV*** if done correctly."
+    },
+    {
+        "title": "Strategic Investments 🎯",
+        "ques": "How should **strategic investments** be evaluated?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Strategic Considerations**:\n* Competitive advantage impact\n* Long-term positioning\n* Synergies with existing operations\n* Option value (future opportunities)\n* First-mover advantages\n* Brand and reputation effects"
+        },
+        "explanation": "Some benefits are ***hard to quantify*** but still valuable."
+    },
+    {
+        "title": "Project Approval Process 📋",
+        "ques": "What should a **capital project approval process** include?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Process Elements**:\n* Authorization levels (by amount)\n* Standardized proposal format\n* Required financial analysis\n* Risk assessment\n* Strategic fit review\n* Post-approval monitoring\n* Post-completion audit"
+        },
+        "explanation": "Consistent process ensures ***quality decisions***."
+    }
+]

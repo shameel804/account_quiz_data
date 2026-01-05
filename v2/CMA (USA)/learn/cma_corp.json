@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_corp",
+    "topicId": "cma_corp",
+    "topicTitle": "Corporate Finance",
+    "description": "Master CMA corporate finance including Capital Structure, Working Capital, and Raising Capital",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "p2b_1",
+            "type": "content",
+            "title": "Welcome to Corporate Finance",
+            "content": "# Corporate Finance\n\nPart 2B covers **financial decision-making** for corporations.\n\n## What You Will Learn\n\n- **Capital Structure** - Debt vs equity\n- **Working Capital** - Short-term finance\n- **Raising Capital** - Financing options\n- **Dividend Policy** - Payout decisions\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Capital structure | Optimal mix |\n| Working capital | Management |\n| Financing | Sources |\n| Dividends | Policy |"
+        },
+        {
+            "id": "p2b_2",
+            "type": "content",
+            "title": "Cost of Capital",
+            "content": "# Cost of Capital\n\n## Cost of Debt\n\n```\nKd = Interest Rate x (1 - Tax Rate)\n\nAfter-tax cost of debt\n```\n\n## Cost of Equity - CAPM\n\n```\nKe = Rf + beta(Rm - Rf)\n\nRf = Risk-free rate\nbeta = Systematic risk\nRm = Market return\n```\n\n## WACC\n\n```\nWACC = (E/V x Ke) + (D/V x Kd)\n\nE = Equity value\nD = Debt value\nV = Total value (E + D)\n```"
+        },
+        {
+            "id": "p2b_3",
+            "type": "content",
+            "title": "Capital Structure Theory",
+            "content": "# Optimal Capital Structure\n\n## Modigliani-Miller\n\n| Without Tax | With Tax |\n|-------------|----------|\n| Structure irrelevant | Debt adds value |\n| No tax shield | Tax shield |\n\n## Trade-Off Theory\n\n```\nBenefit of debt: Tax shield\nCost of debt: Financial distress\n\nOptimal: Balance both\n```\n\n## Pecking Order\n\n```\n1. Internal funds (first choice)\n2. Debt\n3. Equity (last choice)\n```"
+        },
+        {
+            "id": "p2b_quiz_1",
+            "type": "quiz",
+            "title": "Capital Structure Quiz",
+            "content": "Test your capital structure knowledge!",
+            "quizQuestion": "According to pecking order theory, what is preferred first?",
+            "quizOptions": [
+                "Equity",
+                "Debt",
+                "Internal funds",
+                "Convertible bonds"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p2b_4",
+            "type": "content",
+            "title": "Financial Leverage",
+            "content": "# Leverage Effects\n\n## Degree of Financial Leverage\n\n```\nDFL = EBIT / (EBIT - Interest)\n\nor\n\nDFL = % Change in EPS / % Change in EBIT\n```\n\n## Combined Leverage\n\n```\nDCL = DOL x DFL\n\nTotal risk amplification\n```\n\n## Leverage Impact\n\n| High Leverage | Low Leverage |\n|---------------|-------------|\n| Amplifies returns | Stable returns |\n| Higher risk | Lower risk |\n| Fixed obligations | Flexibility |"
+        },
+        {
+            "id": "p2b_5",
+            "type": "content",
+            "title": "Working Capital Management",
+            "content": "# Working Capital\n\n## Definition\n\n```\nWorking Capital = Current Assets - Current Liabilities\n```\n\n## Cash Conversion Cycle\n\n```\nDays Inventory\n+ Days Receivables\n- Days Payables\n= Cash Conversion Cycle\n```\n\n## Policies\n\n| Policy | Risk | Return |\n|--------|------|--------|\n| Aggressive | Higher | Higher |\n| Conservative | Lower | Lower |\n| Moderate | Medium | Medium |\n\n## Financing Strategy\n\n- Permanent: Long-term\n- Temporary: Short-term"
+        },
+        {
+            "id": "p2b_6",
+            "type": "content",
+            "title": "Cash Management",
+            "content": "# Cash and Liquidity\n\n## Reasons to Hold Cash\n\n| Motive | Purpose |\n|--------|--------|\n| Transaction | Daily operations |\n| Precautionary | Unexpected needs |\n| Speculative | Opportunities |\n\n## Cash Models\n\n### Baumol Model\n\n```\nOptimal Cash = sqrt(2 x T x F / r)\n\nT = Cash needed\nF = Fixed transaction cost\nr = Interest rate\n```\n\n## Cash Flow Acceleration\n\n- Lockbox systems\n- Electronic transfers\n- Concentration banking"
+        },
+        {
+            "id": "p2b_7",
+            "type": "content",
+            "title": "Financing Options",
+            "content": "# Sources of Finance\n\n## Short-Term\n\n| Source | Characteristics |\n|--------|----------------|\n| Trade credit | Supplier financing |\n| Bank line | Revolving credit |\n| Commercial paper | Short-term notes |\n| Factoring | Sell receivables |\n\n## Long-Term Debt\n\n| Source | Features |\n|--------|----------|\n| Term loans | Fixed schedule |\n| Bonds | Public/private |\n| Leasing | Asset financing |\n\n## Equity\n\n| Source | Features |\n|--------|----------|\n| Common stock | Voting rights |\n| Preferred | Fixed dividend |\n| Retained earnings | No issue cost |"
+        },
+        {
+            "id": "p2b_quiz_2",
+            "type": "quiz",
+            "title": "Working Capital Quiz",
+            "content": "Test your working capital knowledge!",
+            "quizQuestion": "The cash conversion cycle increases when DSO?",
+            "quizOptions": [
+                "Decreases",
+                "Increases",
+                "Stays same",
+                "Becomes zero"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2b_8",
+            "type": "content",
+            "title": "Dividend Policy",
+            "content": "# Dividend Decisions\n\n## Dividend Theories\n\n| Theory | View |\n|--------|------|\n| Irrelevance | No effect on value |\n| Bird in hand | Prefer certainty |\n| Tax preference | Prefer capital gains |\n| Signaling | Information content |\n\n## Dividend Policies\n\n| Policy | Approach |\n|--------|----------|\n| Constant payout | Fixed % of earnings |\n| Stable | Predictable amount |\n| Residual | After investment needs |\n\n## Stock Alternatives\n\n- Stock dividends\n- Stock splits\n- Stock repurchases"
+        },
+        {
+            "id": "p2b_9",
+            "type": "content",
+            "title": "Mergers and Acquisitions",
+            "content": "# M&A Concepts\n\n## Types\n\n| Type | Description |\n|------|-------------|\n| Horizontal | Same industry |\n| Vertical | Supply chain |\n| Conglomerate | Unrelated |\n\n## Valuation\n\n| Method | Approach |\n|--------|----------|\n| DCF | Future cash flows |\n| Comparables | Market multiples |\n| Premium analysis | Control premium |\n\n## Synergies\n\n```\nValue of combined > Sum of parts\n\nTypes:\n- Revenue synergies\n- Cost synergies\n- Financial synergies\n```"
+        },
+        {
+            "id": "p2b_10",
+            "type": "content",
+            "title": "International Finance",
+            "content": "# Global Finance\n\n## Exchange Rate Concepts\n\n| Term | Meaning |\n|------|--------|\n| Spot rate | Current rate |\n| Forward rate | Future rate |\n| Direct quote | Domestic per foreign |\n| Indirect quote | Foreign per domestic |\n\n## Parity Relationships\n\n| Parity | Relationship |\n|--------|-------------|\n| PPP | Inflation and exchange |\n| IRP | Interest and exchange |\n\n## Currency Risk\n\n| Exposure | Description |\n|----------|-------------|\n| Transaction | Specific deals |\n| Translation | Consolidation |\n| Economic | Competitive position |"
+        },
+        {
+            "id": "p2b_quiz_3",
+            "type": "quiz",
+            "title": "M&A Quiz",
+            "content": "Test your M&A knowledge!",
+            "quizQuestion": "A merger with a supplier is called?",
+            "quizOptions": [
+                "Horizontal",
+                "Vertical",
+                "Conglomerate",
+                "Lateral"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2b_11",
+            "type": "content",
+            "title": "Hedging Strategies",
+            "content": "# Risk Hedging\n\n## Currency Hedging\n\n| Instrument | Feature |\n|------------|--------|\n| Forward | Lock in rate |\n| Futures | Exchange-traded |\n| Options | Right, not obligation |\n| Swaps | Exchange payments |\n\n## Interest Rate Hedging\n\n| Instrument | Use |\n|------------|-----|\n| Interest rate swap | Fixed/floating |\n| Caps | Maximum rate |\n| Floors | Minimum rate |\n| Collars | Cap + floor |"
+        },
+        {
+            "id": "p2b_12",
+            "type": "content",
+            "title": "Initial Public Offerings",
+            "content": "# Going Public\n\n## IPO Process\n\n```\n1. Select underwriters\n2. Due diligence\n3. SEC registration\n4. Roadshow\n5. Pricing\n6. Trading begins\n```\n\n## Costs\n\n| Cost | Description |\n|------|-------------|\n| Underwriting | Spread |\n| Legal/accounting | Fees |\n| Underpricing | First-day pop |\n\n## Alternatives\n\n- Direct listing\n- SPAC\n- Private placement"
+        },
+        {
+            "id": "p2b_quiz_4",
+            "type": "quiz",
+            "title": "Finance Quiz",
+            "content": "Test your corporate finance knowledge!",
+            "quizQuestion": "WACC combines cost of equity and after-tax cost of?",
+            "quizOptions": [
+                "Dividends",
+                "Debt",
+                "Preferred stock",
+                "Retained earnings"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2b_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Part 2B - Corporate Finance**!\n\n## Key Topics\n\n### Capital Structure\n- Cost of capital\n- Capital structure theories\n- Financial leverage\n\n### Working Capital\n- Cash management\n- Cash conversion cycle\n- Financing sources\n\n### Corporate Actions\n- Dividend policy\n- M&A\n- IPO process\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| WACC = E/V(Ke) + D/V(Kd) | Cost of capital |\n| CCC = DSI + DSO - DPO | Working capital |\n| Ke = Rf + beta(Rm-Rf) | CAPM |\n\n## What is Next?\n\nExplore CMA Part 2C - Decision Analysis!"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "learn_cpa_reg",
+    "topicId": "cpa_reg",
+    "topicTitle": "Regulation (REG)",
+    "description": "Master CPA REG covering Federal Taxation, Business Law, and Ethics",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "reg_1",
+            "type": "content",
+            "title": "Welcome to CPA REG",
+            "content": "# Regulation (REG)\n\nREG covers **taxation** and **business law**.\n\n## What You Will Learn\n\n- **Individual Tax** - Federal income\n- **Entity Tax** - C, S, partnership\n- **Property** - Basis and disposition\n- **Business Law** - Legal framework\n\n## Exam Areas\n\n| Area | Weight |\n|------|--------|\n| Ethics | 10-20% |\n| Business law | 10-20% |\n| Federal taxation | 60-75% |"
+        },
+        {
+            "id": "reg_2",
+            "type": "content",
+            "title": "Individual Taxation",
+            "content": "# Tax Computation\n\n## Formula\n\n```\nGross Income\n- Adjustments (Above the line)\n= AGI\n- Standard or Itemized\n= Taxable Income\nx Tax Rate\n= Tax Liability\n- Credits\n= Tax Due/Refund\n```\n\n## Filing Status\n\n| Status | Impact |\n|--------|--------|\n| Single | Standard |\n| MFJ | Highest deduction |\n| MFS | Lowest deduction |\n| HOH | Middle |"
+        },
+        {
+            "id": "reg_3",
+            "type": "content",
+            "title": "Gross Income",
+            "content": "# Inclusions and Exclusions\n\n## Included\n\n| Item | Treatment |\n|------|----------|\n| Wages | Fully taxable |\n| Interest | Taxable |\n| Dividends | Taxable |\n| Business income | Schedule C |\n| Capital gains | Schedule D |\n\n## Excluded\n\n| Item | Exclusion |\n|------|----------|\n| Gifts | Excluded |\n| Inheritance | Excluded |\n| Municipal bonds | Tax-free |\n| Life insurance | Excluded |"
+        },
+        {
+            "id": "reg_quiz_1",
+            "type": "quiz",
+            "title": "Income Quiz",
+            "content": "Test your income tax knowledge!",
+            "quizQuestion": "Municipal bond interest is?",
+            "quizOptions": [
+                "Fully taxable",
+                "Tax-free",
+                "Partially taxable",
+                "Deferred"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "reg_4",
+            "type": "content",
+            "title": "Deductions",
+            "content": "# Above and Below the Line\n\n## Above the Line (Adjustments)\n\n| Deduction | Limit |\n|-----------|-------|\n| IRA | $6,500 (2023) |\n| Student loan interest | $2,500 |\n| Self-employment tax | 50% |\n| HSA | Contribution limit |\n\n## Itemized (Below the Line)\n\n| Deduction | Limit |\n|-----------|-------|\n| SALT | $10,000 |\n| Mortgage interest | $750K |\n| Charity | 60%/30% AGI |\n| Medical | > 7.5% AGI |"
+        },
+        {
+            "id": "reg_5",
+            "type": "content",
+            "title": "Capital Gains",
+            "content": "# Property Transactions\n\n## Holding Period\n\n| Period | Rate |\n|--------|------|\n| Short-term (< 1 year) | Ordinary |\n| Long-term (> 1 year) | 0/15/20% |\n\n## Gain Calculation\n\n```\nAmount Realized\n- Adjusted Basis\n= Gain or Loss\n```\n\n## Special Provisions\n\n| Provision | Benefit |\n|-----------|--------|\n| Sec 121 | Home sale exclusion |\n| Sec 1031 | Like-kind exchange |\n| Sec 1244 | Ordinary loss on stock |"
+        },
+        {
+            "id": "reg_6",
+            "type": "content",
+            "title": "Basis",
+            "content": "# Property Basis\n\n## Acquired Basis\n\n| Method | Basis |\n|--------|-------|\n| Purchase | Cost |\n| Gift | Carryover |\n| Inheritance | FMV at death |\n| Like-kind | Carryover |\n\n## Adjustments\n\n```\nOriginal Basis\n+ Improvements\n- Depreciation\n= Adjusted Basis\n```\n\n## Depreciation\n\n- MACRS for tax\n- Bonus (100%)\n- Section 179"
+        },
+        {
+            "id": "reg_quiz_2",
+            "type": "quiz",
+            "title": "Basis Quiz",
+            "content": "Test your basis knowledge!",
+            "quizQuestion": "Inherited property gets what basis?",
+            "quizOptions": [
+                "Carryover",
+                "FMV at death",
+                "Zero",
+                "Original cost"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "reg_7",
+            "type": "content",
+            "title": "C Corporations",
+            "content": "# Corporate Taxation\n\n## Tax Rate\n\n```\nFlat 21% (TCJA)\n```\n\n## Special Issues\n\n| Issue | Treatment |\n|-------|----------|\n| DRD | Dividends received deduction |\n| NOL | Carryforward unlimited |\n| AMT | Repealed for corps |\n\n## Formation\n\n```\nSec 351: Tax-free if\n- Property for stock\n- 80% control\n```"
+        },
+        {
+            "id": "reg_8",
+            "type": "content",
+            "title": "S Corporations",
+            "content": "# Pass-Through Entity\n\n## Requirements\n\n| Requirement | Limit |\n|-------------|-------|\n| Shareholders | 100 max |\n| Class of stock | One only |\n| Eligible shareholders | US individuals |\n\n## Taxation\n\n```\nIncome flows to shareholders\nK-1 reporting\nBasis adjustments\n```\n\n## Built-In Gains\n\n- C corp conversion\n- 5-year period\n- Corporate-level tax"
+        },
+        {
+            "id": "reg_9",
+            "type": "content",
+            "title": "Partnerships",
+            "content": "# Partnership Taxation\n\n## Characteristics\n\n| Feature | Treatment |\n|---------|----------|\n| Entity | Pass-through |\n| Formation | Generally tax-free |\n| Distributions | Basis reduction |\n\n## Special Allocations\n\n- Must have economic effect\n- Substantial economic effect test\n\n## Basis\n\n```\nContribution basis\n+ Share of income\n+ Share of liabilities\n- Distributions\n- Share of losses\n= Partner basis\n```"
+        },
+        {
+            "id": "reg_quiz_3",
+            "type": "quiz",
+            "title": "Entity Quiz",
+            "content": "Test your entity knowledge!",
+            "quizQuestion": "S corps can have how many shareholders max?",
+            "quizOptions": [
+                "50",
+                "75",
+                "100",
+                "Unlimited"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "reg_10",
+            "type": "content",
+            "title": "Business Law - Contracts",
+            "content": "# Contract Law\n\n## Elements\n\n| Element | Requirement |\n|---------|-------------|\n| Offer | Definite terms |\n| Acceptance | Mirror image |\n| Consideration | Value exchange |\n| Capacity | Legal ability |\n\n## Defenses\n\n| Defense | Effect |\n|---------|--------|\n| Fraud | Voidable |\n| Duress | Voidable |\n| Statute of Frauds | Unenforceable |"
+        },
+        {
+            "id": "reg_11",
+            "type": "content",
+            "title": "Agency and Debtor-Creditor",
+            "content": "# Legal Relationships\n\n## Agency\n\n| Authority | Source |\n|-----------|--------|\n| Actual express | Words |\n| Actual implied | Circumstances |\n| Apparent | Appearance |\n\n## Debtor-Creditor\n\n| Security | Type |\n|----------|------|\n| Mortgage | Real property |\n| Security agreement | Personal property |\n| Guarantee | Personal |"
+        },
+        {
+            "id": "reg_12",
+            "type": "content",
+            "title": "Ethics - Circular 230",
+            "content": "# Tax Practice Standards\n\n## Covered Practitioners\n\n- CPAs\n- Attorneys\n- Enrolled agents\n\n## Standards\n\n| Standard | Requirement |\n|----------|-------------|\n| Due diligence | Reasonable care |\n| Return positions | Reasonable basis |\n| Opinion standards | Written opinions |\n| Conflicts | Disclose |\n\n## Penalties\n\n- Censure, suspension, disbarment"
+        },
+        {
+            "id": "reg_quiz_4",
+            "type": "quiz",
+            "title": "Law Quiz",
+            "content": "Test your business law knowledge!",
+            "quizQuestion": "Statute of Frauds requires what for certain contracts?",
+            "quizOptions": [
+                "Consideration",
+                "Written form",
+                "Witness",
+                "Notarization"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "reg_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CPA REG - Regulation**!\n\n## Key Topics\n\n### Individual Tax\n- Income and deductions\n- Capital gains\n- Basis rules\n\n### Entity Tax\n- C corporations\n- S corporations\n- Partnerships\n\n### Business Law\n- Contracts\n- Agency\n- Debtor-creditor\n\n### Ethics\n- Circular 230\n\n## Key Rates\n\n| Rate | Application |\n|------|-------------|\n| 21% | C corp |\n| 0/15/20% | LTCG |\n\n## What is Next?\n\nExplore BEC - Business Environment!"
+        }
+    ]
+}

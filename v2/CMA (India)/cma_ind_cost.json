@@ -1,0 +1,6558 @@
+[
+    {
+        "q": "What is cost accounting?",
+        "type": "mcq",
+        "o": [
+            "Recording and analyzing costs for management decisions",
+            "Financial reporting only",
+            "Tax calculation",
+            "Audit of accounts"
+        ]
+    },
+    {
+        "q": "Cost accounting helps in cost control and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "planning"
+        ],
+        "other_options": [
+            "litigation",
+            "audit",
+            "financing"
+        ]
+    },
+    {
+        "q": "What is CAS?",
+        "type": "mcq",
+        "o": [
+            "Cost Accounting Standards for uniform cost practices",
+            "Company Audit Standards",
+            "Cost Analysis System",
+            "Corporate Accounting Standards"
+        ]
+    },
+    {
+        "q": "CAS are issued by ICMAI.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost classification?",
+        "type": "mcq",
+        "o": [
+            "Grouping costs by nature, function, or behavior",
+            "Random grouping",
+            "No grouping",
+            "Financial only"
+        ]
+    },
+    {
+        "q": "Match the cost types:",
+        "type": "match",
+        "left": [
+            "Direct",
+            "Indirect",
+            "Fixed",
+            "Variable"
+        ],
+        "right": [
+            "Traceable",
+            "Not traceable",
+            "Constant",
+            "Changes with volume"
+        ]
+    },
+    {
+        "q": "What is direct cost?",
+        "type": "mcq",
+        "o": [
+            "Cost directly traceable to cost object",
+            "Indirect cost",
+            "Overhead",
+            "Fixed cost"
+        ]
+    },
+    {
+        "q": "Direct costs include material and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "labour"
+        ],
+        "other_options": [
+            "rent",
+            "depreciation",
+            "insurance"
+        ]
+    },
+    {
+        "q": "What is indirect cost?",
+        "type": "mcq",
+        "o": [
+            "Cost not directly traceable to specific cost object",
+            "Direct cost",
+            "Always variable",
+            "Never allocated"
+        ]
+    },
+    {
+        "q": "Indirect costs are also called overheads.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is material cost?",
+        "type": "mcq",
+        "o": [
+            "Cost of materials used in production",
+            "Labour cost",
+            "Depreciation",
+            "Rent"
+        ]
+    },
+    {
+        "q": "Match the material categories:",
+        "type": "match",
+        "left": [
+            "Raw material",
+            "WIP",
+            "Finished goods",
+            "Stores"
+        ],
+        "right": [
+            "Unprocessed",
+            "In process",
+            "Complete",
+            "Consumables"
+        ]
+    },
+    {
+        "q": "What is direct material?",
+        "type": "mcq",
+        "o": [
+            "Material that forms part of finished product",
+            "Consumables",
+            "Lubricants",
+            "Office supplies"
+        ]
+    },
+    {
+        "q": "Direct material cost is traceable to specific ______.",
+        "type": "fill_blank",
+        "answers": [
+            "product"
+        ],
+        "other_options": [
+            "department",
+            "company",
+            "period"
+        ]
+    },
+    {
+        "q": "What is indirect material?",
+        "type": "mcq",
+        "o": [
+            "Material not forming part of product but essential for production",
+            "Direct material",
+            "Raw material",
+            "Finished goods"
+        ]
+    },
+    {
+        "q": "Indirect materials include lubricants and consumables.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is inventory?",
+        "type": "mcq",
+        "o": [
+            "Stock of materials, WIP, and finished goods",
+            "Cash only",
+            "Fixed assets",
+            "Receivables"
+        ]
+    },
+    {
+        "q": "Match the inventory types:",
+        "type": "match",
+        "left": [
+            "Raw material",
+            "Work in progress",
+            "Finished goods",
+            "Spares"
+        ],
+        "right": [
+            "Input material",
+            "Partially complete",
+            "Ready for sale",
+            "Replacement parts"
+        ]
+    },
+    {
+        "q": "What is inventory control?",
+        "type": "mcq",
+        "o": [
+            "Managing inventory levels to optimize costs",
+            "Ignoring inventory",
+            "Maximum storage",
+            "No control"
+        ]
+    },
+    {
+        "q": "Inventory control balances holding costs and stockout ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "benefits",
+            "profits",
+            "revenues"
+        ]
+    },
+    {
+        "q": "What is reorder level?",
+        "type": "mcq",
+        "o": [
+            "Stock level at which new order should be placed",
+            "Maximum stock",
+            "Minimum stock",
+            "Safety stock"
+        ]
+    },
+    {
+        "q": "Reorder level considers lead time and consumption rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is minimum stock level?",
+        "type": "mcq",
+        "o": [
+            "Safety stock to prevent stockout",
+            "Maximum level",
+            "Reorder level",
+            "Average level"
+        ]
+    },
+    {
+        "q": "Match the stock levels:",
+        "type": "match",
+        "left": [
+            "Minimum",
+            "Maximum",
+            "Reorder",
+            "Average"
+        ],
+        "right": [
+            "Safety stock",
+            "Storage limit",
+            "Order trigger",
+            "Normal holding"
+        ]
+    },
+    {
+        "q": "What is maximum stock level?",
+        "type": "mcq",
+        "o": [
+            "Upper limit of inventory to avoid overstocking",
+            "Minimum stock",
+            "Safety stock",
+            "No limit"
+        ]
+    },
+    {
+        "q": "Maximum stock considers storage capacity and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "capital"
+        ],
+        "other_options": [
+            "time",
+            "location",
+            "labor"
+        ]
+    },
+    {
+        "q": "What is labour cost?",
+        "type": "mcq",
+        "o": [
+            "Cost of human effort in production",
+            "Material cost",
+            "Overhead",
+            "Rent"
+        ]
+    },
+    {
+        "q": "Labour cost includes wages and salaries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is direct labour?",
+        "type": "mcq",
+        "o": [
+            "Labour directly engaged in production",
+            "Supervisory staff",
+            "Administrative staff",
+            "Security"
+        ]
+    },
+    {
+        "q": "Match the labour types:",
+        "type": "match",
+        "left": [
+            "Direct",
+            "Indirect",
+            "Productive",
+            "Idle"
+        ],
+        "right": [
+            "Production work",
+            "Support work",
+            "Active time",
+            "Waiting time"
+        ]
+    },
+    {
+        "q": "What is indirect labour?",
+        "type": "mcq",
+        "o": [
+            "Labour not directly involved in production",
+            "Direct labour",
+            "Machine operators",
+            "Assembly workers"
+        ]
+    },
+    {
+        "q": "Indirect labour includes supervisors and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "maintenance staff"
+        ],
+        "other_options": [
+            "machine operators",
+            "assembly workers",
+            "production workers"
+        ]
+    },
+    {
+        "q": "What is time wage system?",
+        "type": "mcq",
+        "o": [
+            "Payment based on time spent at work",
+            "Piece rate",
+            "Commission",
+            "No payment"
+        ]
+    },
+    {
+        "q": "Time wage system pays for hours worked.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is piece rate system?",
+        "type": "mcq",
+        "o": [
+            "Payment based on units produced",
+            "Time wage",
+            "Monthly salary",
+            "No payment"
+        ]
+    },
+    {
+        "q": "Match the wage systems:",
+        "type": "match",
+        "left": [
+            "Time wage",
+            "Piece rate",
+            "Differential",
+            "Premium"
+        ],
+        "right": [
+            "Hourly pay",
+            "Per unit",
+            "Variable rate",
+            "Bonus included"
+        ]
+    },
+    {
+        "q": "What is overhead?",
+        "type": "mcq",
+        "o": [
+            "Indirect costs of production",
+            "Direct material",
+            "Direct labour",
+            "Sales revenue"
+        ]
+    },
+    {
+        "q": "Overhead costs are not directly traceable to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "products"
+        ],
+        "other_options": [
+            "departments",
+            "companies",
+            "periods"
+        ]
+    },
+    {
+        "q": "What is factory overhead?",
+        "type": "mcq",
+        "o": [
+            "Indirect costs incurred in factory",
+            "Selling cost",
+            "Administrative cost",
+            "Direct cost"
+        ]
+    },
+    {
+        "q": "Factory overhead is also called manufacturing overhead.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is fixed overhead?",
+        "type": "mcq",
+        "o": [
+            "Overhead that remains constant regardless of output",
+            "Variable overhead",
+            "Changes with volume",
+            "Zero overhead"
+        ]
+    },
+    {
+        "q": "Match the overhead types:",
+        "type": "match",
+        "left": [
+            "Fixed",
+            "Variable",
+            "Semi-variable",
+            "Step"
+        ],
+        "right": [
+            "Constant",
+            "Changes proportionally",
+            "Mixed behavior",
+            "Changes in steps"
+        ]
+    },
+    {
+        "q": "What is variable overhead?",
+        "type": "mcq",
+        "o": [
+            "Overhead that changes with production volume",
+            "Fixed overhead",
+            "Constant cost",
+            "Does not change"
+        ]
+    },
+    {
+        "q": "Variable overhead includes power and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "consumables"
+        ],
+        "other_options": [
+            "rent",
+            "salary",
+            "depreciation"
+        ]
+    },
+    {
+        "q": "What is overhead allocation?",
+        "type": "mcq",
+        "o": [
+            "Assigning overhead to cost centers or products",
+            "Ignoring overhead",
+            "Direct charging",
+            "No allocation"
+        ]
+    },
+    {
+        "q": "Overhead allocation uses suitable bases.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost center?",
+        "type": "mcq",
+        "o": [
+            "Location or function to which costs are assigned",
+            "Revenue center",
+            "Profit center",
+            "Investment center"
+        ]
+    },
+    {
+        "q": "Match the responsibility centers:",
+        "type": "match",
+        "left": [
+            "Cost center",
+            "Revenue center",
+            "Profit center",
+            "Investment center"
+        ],
+        "right": [
+            "Costs only",
+            "Revenue only",
+            "Both",
+            "Capital employed"
+        ]
+    },
+    {
+        "q": "What is cost unit?",
+        "type": "mcq",
+        "o": [
+            "Unit of product or service for cost measurement",
+            "Department",
+            "Factory",
+            "Company"
+        ]
+    },
+    {
+        "q": "Cost unit is the basis for cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "calculation"
+        ],
+        "other_options": [
+            "ignoring",
+            "elimination",
+            "reduction"
+        ]
+    },
+    {
+        "q": "What is FIFO?",
+        "type": "mcq",
+        "o": [
+            "First In First Out inventory valuation method",
+            "Last In First Out",
+            "Average cost",
+            "Standard cost"
+        ]
+    },
+    {
+        "q": "FIFO assumes earliest items are used first.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is LIFO?",
+        "type": "mcq",
+        "o": [
+            "Last In First Out inventory valuation method",
+            "First In First Out",
+            "Average cost",
+            "Standard cost"
+        ]
+    },
+    {
+        "q": "Match the inventory methods:",
+        "type": "match",
+        "left": [
+            "FIFO",
+            "LIFO",
+            "Weighted average",
+            "Standard"
+        ],
+        "right": [
+            "Oldest first",
+            "Newest first",
+            "Average price",
+            "Predetermined"
+        ]
+    },
+    {
+        "q": "What is weighted average cost?",
+        "type": "mcq",
+        "o": [
+            "Average cost based on quantities purchased",
+            "FIFO only",
+            "LIFO only",
+            "Replacement cost"
+        ]
+    },
+    {
+        "q": "Weighted average recalculates after each ______.",
+        "type": "fill_blank",
+        "answers": [
+            "purchase"
+        ],
+        "other_options": [
+            "sale",
+            "return",
+            "transfer"
+        ]
+    },
+    {
+        "q": "What is EOQ?",
+        "type": "mcq",
+        "o": [
+            "Economic Order Quantity for optimal ordering",
+            "Emergency Order Quantity",
+            "Extra Order Quantity",
+            "No quantity"
+        ]
+    },
+    {
+        "q": "EOQ minimizes total inventory costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is carrying cost?",
+        "type": "mcq",
+        "o": [
+            "Cost of holding inventory",
+            "Ordering cost",
+            "Purchase price",
+            "Selling price"
+        ]
+    },
+    {
+        "q": "Match the inventory costs:",
+        "type": "match",
+        "left": [
+            "Carrying",
+            "Ordering",
+            "Stockout",
+            "Purchase"
+        ],
+        "right": [
+            "Holding cost",
+            "Order placement",
+            "Shortage cost",
+            "Buying price"
+        ]
+    },
+    {
+        "q": "What is ordering cost?",
+        "type": "mcq",
+        "o": [
+            "Cost of placing and processing orders",
+            "Carrying cost",
+            "Holding cost",
+            "Storage cost"
+        ]
+    },
+    {
+        "q": "Ordering cost includes paperwork and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inspection"
+        ],
+        "other_options": [
+            "storage",
+            "insurance",
+            "obsolescence"
+        ]
+    },
+    {
+        "q": "What is idle time?",
+        "type": "mcq",
+        "o": [
+            "Time when workers are not productive",
+            "Productive time",
+            "Overtime",
+            "Regular time"
+        ]
+    },
+    {
+        "q": "Idle time is a cost to the organization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is overtime?",
+        "type": "mcq",
+        "o": [
+            "Work done beyond normal hours",
+            "Regular time",
+            "Idle time",
+            "Absence"
+        ]
+    },
+    {
+        "q": "Match the time categories:",
+        "type": "match",
+        "left": [
+            "Regular",
+            "Overtime",
+            "Idle",
+            "Setup"
+        ],
+        "right": [
+            "Normal hours",
+            "Extra hours",
+            "Non-productive",
+            "Preparation"
+        ]
+    },
+    {
+        "q": "What is labour turnover?",
+        "type": "mcq",
+        "o": [
+            "Rate of employees leaving and joining",
+            "Output rate",
+            "Efficiency rate",
+            "Wage rate"
+        ]
+    },
+    {
+        "q": "High labour turnover increases recruitment ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "benefits",
+            "profits",
+            "revenues"
+        ]
+    },
+    {
+        "q": "What is absorption costing?",
+        "type": "mcq",
+        "o": [
+            "Costing that includes all manufacturing costs in product cost",
+            "Variable costing",
+            "Marginal costing",
+            "Direct costing"
+        ]
+    },
+    {
+        "q": "Absorption costing includes fixed overhead in product cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is under-absorption?",
+        "type": "mcq",
+        "o": [
+            "Actual overhead exceeds absorbed overhead",
+            "Over-absorption",
+            "No difference",
+            "Full absorption"
+        ]
+    },
+    {
+        "q": "Match the absorption scenarios:",
+        "type": "match",
+        "left": [
+            "Under-absorption",
+            "Over-absorption",
+            "Full absorption",
+            "No absorption"
+        ],
+        "right": [
+            "Actual exceeds",
+            "Applied exceeds",
+            "Actual equals",
+            "Not included"
+        ]
+    },
+    {
+        "q": "What is over-absorption?",
+        "type": "mcq",
+        "o": [
+            "Absorbed overhead exceeds actual overhead",
+            "Under-absorption",
+            "No absorption",
+            "Equal absorption"
+        ]
+    },
+    {
+        "q": "Over-absorption creates a credit to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit"
+        ],
+        "other_options": [
+            "loss",
+            "expense",
+            "liability"
+        ]
+    },
+    {
+        "q": "What is ABC analysis?",
+        "type": "mcq",
+        "o": [
+            "Inventory classification based on value and importance",
+            "All items equal",
+            "Random grouping",
+            "No analysis"
+        ]
+    },
+    {
+        "q": "ABC analysis identifies high-value items for closer control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is bin card?",
+        "type": "mcq",
+        "o": [
+            "Record of receipts and issues at storage location",
+            "Financial statement",
+            "Audit report",
+            "Tax return"
+        ]
+    },
+    {
+        "q": "Match the stock records:",
+        "type": "match",
+        "left": [
+            "Bin card",
+            "Stores ledger",
+            "Material requisition",
+            "GRN"
+        ],
+        "right": [
+            "Storage record",
+            "Quantity and value",
+            "Issue request",
+            "Receipt note"
+        ]
+    },
+    {
+        "q": "What is stores ledger?",
+        "type": "mcq",
+        "o": [
+            "Record showing quantity and value of materials",
+            "Bin card only",
+            "Cash book",
+            "Sales register"
+        ]
+    },
+    {
+        "q": "Stores ledger is maintained by cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "department"
+        ],
+        "other_options": [
+            "center",
+            "unit",
+            "factory"
+        ]
+    },
+    {
+        "q": "What is material requisition?",
+        "type": "mcq",
+        "o": [
+            "Document authorizing issue of materials from stores",
+            "Purchase order",
+            "Invoice",
+            "Receipt"
+        ]
+    },
+    {
+        "q": "Material requisition is basis for charging materials to jobs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is job card?",
+        "type": "mcq",
+        "o": [
+            "Record of time spent by worker on jobs",
+            "Material record",
+            "Overhead record",
+            "Sales record"
+        ]
+    },
+    {
+        "q": "Match the labour records:",
+        "type": "match",
+        "left": [
+            "Job card",
+            "Time card",
+            "Attendance register",
+            "Pay slip"
+        ],
+        "right": [
+            "Work done",
+            "Hours worked",
+            "Presence record",
+            "Earnings statement"
+        ]
+    },
+    {
+        "q": "What is time card?",
+        "type": "mcq",
+        "o": [
+            "Record of attendance and hours worked",
+            "Job card",
+            "Wage slip",
+            "Material card"
+        ]
+    },
+    {
+        "q": "Time cards are used for calculating ______.",
+        "type": "fill_blank",
+        "answers": [
+            "wages"
+        ],
+        "other_options": [
+            "materials",
+            "overhead",
+            "depreciation"
+        ]
+    },
+    {
+        "q": "What is overhead rate?",
+        "type": "mcq",
+        "o": [
+            "Rate used to apply overhead to products",
+            "Direct rate",
+            "Material rate",
+            "Labour rate"
+        ]
+    },
+    {
+        "q": "Overhead rate is predetermined before production.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is machine hour rate?",
+        "type": "mcq",
+        "o": [
+            "Overhead rate based on machine hours",
+            "Labour hour rate",
+            "Material rate",
+            "Sales rate"
+        ]
+    },
+    {
+        "q": "Match the overhead bases:",
+        "type": "match",
+        "left": [
+            "Labour hour",
+            "Machine hour",
+            "Direct material",
+            "Units"
+        ],
+        "right": [
+            "Work time",
+            "Equipment time",
+            "Material cost",
+            "Production volume"
+        ]
+    },
+    {
+        "q": "What is labour hour rate?",
+        "type": "mcq",
+        "o": [
+            "Overhead rate based on direct labour hours",
+            "Machine hour rate",
+            "Material rate",
+            "Sales rate"
+        ]
+    },
+    {
+        "q": "Labour hour rate suits labour-intensive ______.",
+        "type": "fill_blank",
+        "answers": [
+            "operations"
+        ],
+        "other_options": [
+            "machines",
+            "equipment",
+            "buildings"
+        ]
+    },
+    {
+        "q": "What is prime cost?",
+        "type": "mcq",
+        "o": [
+            "Direct material plus direct labour",
+            "Total cost",
+            "Overhead only",
+            "Selling cost"
+        ]
+    },
+    {
+        "q": "Prime cost is the foundation for factory cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is conversion cost?",
+        "type": "mcq",
+        "o": [
+            "Direct labour plus factory overhead",
+            "Material cost",
+            "Prime cost",
+            "Selling cost"
+        ]
+    },
+    {
+        "q": "Match the cost elements:",
+        "type": "match",
+        "left": [
+            "Prime",
+            "Conversion",
+            "Factory",
+            "Total"
+        ],
+        "right": [
+            "Direct costs",
+            "Processing cost",
+            "Manufacturing",
+            "All costs"
+        ]
+    },
+    {
+        "q": "What is CAS-1?",
+        "type": "mcq",
+        "o": [
+            "Classification of Cost standard",
+            "Material standard",
+            "Labour standard",
+            "Overhead standard"
+        ]
+    },
+    {
+        "q": "CAS-1 provides framework for cost classification and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "coding"
+        ],
+        "other_options": [
+            "pricing",
+            "selling",
+            "marketing"
+        ]
+    },
+    {
+        "q": "What is CAS-4?",
+        "type": "mcq",
+        "o": [
+            "Cost of Production for Captive Consumption",
+            "Material cost",
+            "Labour cost",
+            "Overhead cost"
+        ]
+    },
+    {
+        "q": "CAS-4 applies to internal transfer pricing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CAS-6?",
+        "type": "mcq",
+        "o": [
+            "Material Cost standard",
+            "Labour cost",
+            "Overhead cost",
+            "Depreciation"
+        ]
+    },
+    {
+        "q": "Match the CAS standards:",
+        "type": "match",
+        "left": [
+            "CAS-1",
+            "CAS-4",
+            "CAS-6",
+            "CAS-7"
+        ],
+        "right": [
+            "Classification",
+            "Captive consumption",
+            "Material",
+            "Employee cost"
+        ]
+    },
+    {
+        "q": "What is CAS-7?",
+        "type": "mcq",
+        "o": [
+            "Employee Cost standard",
+            "Material cost",
+            "Overhead cost",
+            "Depreciation"
+        ]
+    },
+    {
+        "q": "CAS-7 covers wages, salaries, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "benefits"
+        ],
+        "other_options": [
+            "materials",
+            "depreciation",
+            "rent"
+        ]
+    },
+    {
+        "q": "What is CAS-10?",
+        "type": "mcq",
+        "o": [
+            "Direct Expenses standard",
+            "Indirect expenses",
+            "Material cost",
+            "Labour cost"
+        ]
+    },
+    {
+        "q": "CAS-10 covers expenses directly traceable to cost object.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is perpetual inventory system?",
+        "type": "mcq",
+        "o": [
+            "Continuous recording of inventory transactions",
+            "Periodic counting",
+            "Annual count",
+            "No records"
+        ]
+    },
+    {
+        "q": "Match the inventory systems:",
+        "type": "match",
+        "left": [
+            "Perpetual",
+            "Periodic",
+            "Just-in-time",
+            "Continuous"
+        ],
+        "right": [
+            "Real-time tracking",
+            "Interval counting",
+            "Zero inventory",
+            "Ongoing updates"
+        ]
+    },
+    {
+        "q": "What is periodic inventory system?",
+        "type": "mcq",
+        "o": [
+            "Physical count at regular intervals",
+            "Continuous tracking",
+            "No counting",
+            "Random counting"
+        ]
+    },
+    {
+        "q": "Periodic system updates inventory at period ______.",
+        "type": "fill_blank",
+        "answers": [
+            "end"
+        ],
+        "other_options": [
+            "start",
+            "middle",
+            "random"
+        ]
+    },
+    {
+        "q": "What is JIT inventory?",
+        "type": "mcq",
+        "o": [
+            "Just-in-Time system minimizing inventory holding",
+            "Maximum inventory",
+            "High safety stock",
+            "No deliveries"
+        ]
+    },
+    {
+        "q": "JIT reduces carrying costs and waste.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is lead time?",
+        "type": "mcq",
+        "o": [
+            "Time between order and delivery",
+            "Production time",
+            "Storage time",
+            "Selling time"
+        ]
+    },
+    {
+        "q": "Match the inventory timing concepts:",
+        "type": "match",
+        "left": [
+            "Lead time",
+            "Safety time",
+            "Order cycle",
+            "Delivery time"
+        ],
+        "right": [
+            "Order to receipt",
+            "Buffer time",
+            "Reorder interval",
+            "Transit period"
+        ]
+    },
+    {
+        "q": "What is safety stock?",
+        "type": "mcq",
+        "o": [
+            "Buffer inventory to prevent stockouts",
+            "Maximum stock",
+            "Normal stock",
+            "No stock"
+        ]
+    },
+    {
+        "q": "Safety stock protects against demand ______.",
+        "type": "fill_blank",
+        "answers": [
+            "variability"
+        ],
+        "other_options": [
+            "decrease",
+            "elimination",
+            "reduction"
+        ]
+    },
+    {
+        "q": "What is standard time?",
+        "type": "mcq",
+        "o": [
+            "Time allowed for completing a task",
+            "Actual time",
+            "Idle time",
+            "Overtime"
+        ]
+    },
+    {
+        "q": "Standard time includes allowances for fatigue.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is actual time?",
+        "type": "mcq",
+        "o": [
+            "Time actually taken to complete a task",
+            "Standard time",
+            "Planned time",
+            "Estimated time"
+        ]
+    },
+    {
+        "q": "Match the time study concepts:",
+        "type": "match",
+        "left": [
+            "Standard",
+            "Actual",
+            "Allowed",
+            "Variance"
+        ],
+        "right": [
+            "Target time",
+            "Real time",
+            "With allowances",
+            "Difference"
+        ]
+    },
+    {
+        "q": "What is Halsey plan?",
+        "type": "mcq",
+        "o": [
+            "Premium wage system sharing time savings",
+            "Time wage only",
+            "Piece rate only",
+            "No incentive"
+        ]
+    },
+    {
+        "q": "Halsey plan pays bonus of 50% of time ______.",
+        "type": "fill_blank",
+        "answers": [
+            "saved"
+        ],
+        "other_options": [
+            "spent",
+            "wasted",
+            "lost"
+        ]
+    },
+    {
+        "q": "What is Rowan plan?",
+        "type": "mcq",
+        "o": [
+            "Premium plan with proportionate bonus based on time saved",
+            "Halsey plan",
+            "Taylor plan",
+            "No plan"
+        ]
+    },
+    {
+        "q": "Rowan plan bonus increases with efficiency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Taylor differential piece rate?",
+        "type": "mcq",
+        "o": [
+            "Different rates for different efficiency levels",
+            "Single rate",
+            "Time wage",
+            "No difference"
+        ]
+    },
+    {
+        "q": "Match the incentive plans:",
+        "type": "match",
+        "left": [
+            "Halsey",
+            "Rowan",
+            "Taylor",
+            "Gantt"
+        ],
+        "right": [
+            "50% sharing",
+            "Proportionate",
+            "Differential",
+            "Task and bonus"
+        ]
+    },
+    {
+        "q": "What is apportionment?",
+        "type": "mcq",
+        "o": [
+            "Distributing common costs to cost centers",
+            "Direct charging",
+            "No distribution",
+            "Random allocation"
+        ]
+    },
+    {
+        "q": "Apportionment uses suitable bases like floor ______.",
+        "type": "fill_blank",
+        "answers": [
+            "area"
+        ],
+        "other_options": [
+            "color",
+            "design",
+            "material"
+        ]
+    },
+    {
+        "q": "What is reapportionment?",
+        "type": "mcq",
+        "o": [
+            "Redistributing service department costs to production departments",
+            "Initial allocation",
+            "No distribution",
+            "Direct charging"
+        ]
+    },
+    {
+        "q": "Reapportionment uses methods like step ladder.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is step ladder method?",
+        "type": "mcq",
+        "o": [
+            "Sequential reapportionment closing departments one by one",
+            "Simultaneous closing",
+            "No closing",
+            "Random method"
+        ]
+    },
+    {
+        "q": "Match the reapportionment methods:",
+        "type": "match",
+        "left": [
+            "Step ladder",
+            "Repeated distribution",
+            "Simultaneous",
+            "Direct"
+        ],
+        "right": [
+            "Sequential",
+            "Iterative",
+            "Equations",
+            "Straight allocation"
+        ]
+    },
+    {
+        "q": "What is material yield variance?",
+        "type": "mcq",
+        "o": [
+            "Variance due to actual output differing from standard",
+            "Price variance",
+            "Usage variance",
+            "Mix variance"
+        ]
+    },
+    {
+        "q": "Yield variance measures output versus input ______.",
+        "type": "fill_blank",
+        "answers": [
+            "efficiency"
+        ],
+        "other_options": [
+            "cost",
+            "price",
+            "quality"
+        ]
+    },
+    {
+        "q": "What is material mix variance?",
+        "type": "mcq",
+        "o": [
+            "Variance from using different material proportions",
+            "Yield variance",
+            "Price variance",
+            "No variance"
+        ]
+    },
+    {
+        "q": "Mix variance arises when actual mix differs from standard.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is labour efficiency variance?",
+        "type": "mcq",
+        "o": [
+            "Variance from actual hours differing from standard",
+            "Rate variance",
+            "Mix variance",
+            "Yield variance"
+        ]
+    },
+    {
+        "q": "Match the variance types:",
+        "type": "match",
+        "left": [
+            "Material price",
+            "Material usage",
+            "Labour rate",
+            "Labour efficiency"
+        ],
+        "right": [
+            "Cost difference",
+            "Quantity difference",
+            "Wage difference",
+            "Time difference"
+        ]
+    },
+    {
+        "q": "What is labour rate variance?",
+        "type": "mcq",
+        "o": [
+            "Variance from actual wage rate differing from standard",
+            "Efficiency variance",
+            "Mix variance",
+            "Yield variance"
+        ]
+    },
+    {
+        "q": "Rate variance equals actual hours times rate ______.",
+        "type": "fill_blank",
+        "answers": [
+            "difference"
+        ],
+        "other_options": [
+            "sum",
+            "product",
+            "average"
+        ]
+    },
+    {
+        "q": "What is overhead volume variance?",
+        "type": "mcq",
+        "o": [
+            "Variance from actual capacity differing from budgeted",
+            "Efficiency variance",
+            "Spending variance",
+            "Rate variance"
+        ]
+    },
+    {
+        "q": "Volume variance relates to capacity utilization.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is overhead efficiency variance?",
+        "type": "mcq",
+        "o": [
+            "Variance from actual hours differing from standard for output",
+            "Volume variance",
+            "Spending variance",
+            "Rate variance"
+        ]
+    },
+    {
+        "q": "Match the overhead variances:",
+        "type": "match",
+        "left": [
+            "Volume",
+            "Efficiency",
+            "Spending",
+            "Capacity"
+        ],
+        "right": [
+            "Activity level",
+            "Hours used",
+            "Cost control",
+            "Utilization"
+        ]
+    },
+    {
+        "q": "What is standard cost?",
+        "type": "mcq",
+        "o": [
+            "Predetermined cost for products or operations",
+            "Actual cost",
+            "Historical cost",
+            "No cost"
+        ]
+    },
+    {
+        "q": "Standard costs are benchmarks for performance ______.",
+        "type": "fill_blank",
+        "answers": [
+            "evaluation"
+        ],
+        "other_options": [
+            "elimination",
+            "reduction",
+            "avoidance"
+        ]
+    },
+    {
+        "q": "What is ideal standard?",
+        "type": "mcq",
+        "o": [
+            "Standard assuming perfect efficiency and no wastage",
+            "Attainable standard",
+            "Basic standard",
+            "Current standard"
+        ]
+    },
+    {
+        "q": "Ideal standards are rarely achieved in practice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is attainable standard?",
+        "type": "mcq",
+        "o": [
+            "Standard achievable under normal efficient conditions",
+            "Ideal standard",
+            "Basic standard",
+            "Historical standard"
+        ]
+    },
+    {
+        "q": "Match the standard types:",
+        "type": "match",
+        "left": [
+            "Ideal",
+            "Attainable",
+            "Basic",
+            "Current"
+        ],
+        "right": [
+            "Perfect",
+            "Realistic",
+            "Long-term",
+            "Present"
+        ]
+    },
+    {
+        "q": "What is scrap in material accounting?",
+        "type": "mcq",
+        "o": [
+            "Material residue with minimal recoverable value",
+            "Main product",
+            "By-product",
+            "Joint product"
+        ]
+    },
+    {
+        "q": "Scrap has negligible sales ______.",
+        "type": "fill_blank",
+        "answers": [
+            "value"
+        ],
+        "other_options": [
+            "cost",
+            "quantity",
+            "weight"
+        ]
+    },
+    {
+        "q": "What is waste?",
+        "type": "mcq",
+        "o": [
+            "Material lost with no recoverable value",
+            "Scrap",
+            "By-product",
+            "Joint product"
+        ]
+    },
+    {
+        "q": "Waste has no commercial value and is disposed of.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is spoilage?",
+        "type": "mcq",
+        "o": [
+            "Damaged units that cannot be reworked",
+            "Normal loss",
+            "Scrap",
+            "Waste"
+        ]
+    },
+    {
+        "q": "Match the loss types:",
+        "type": "match",
+        "left": [
+            "Scrap",
+            "Waste",
+            "Spoilage",
+            "Defectives"
+        ],
+        "right": [
+            "Low value residue",
+            "No value",
+            "Damaged beyond repair",
+            "Can be reworked"
+        ]
+    },
+    {
+        "q": "What is normal loss?",
+        "type": "mcq",
+        "o": [
+            "Expected loss inherent in production process",
+            "Abnormal loss",
+            "Zero loss",
+            "Random loss"
+        ]
+    },
+    {
+        "q": "Normal loss cost is absorbed into good ______.",
+        "type": "fill_blank",
+        "answers": [
+            "production"
+        ],
+        "other_options": [
+            "waste",
+            "scrap",
+            "defectives"
+        ]
+    },
+    {
+        "q": "What is abnormal loss?",
+        "type": "mcq",
+        "o": [
+            "Loss exceeding normal expected level",
+            "Normal loss",
+            "Zero loss",
+            "Standard loss"
+        ]
+    },
+    {
+        "q": "Abnormal loss is charged to profit and loss account.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CAS-3?",
+        "type": "mcq",
+        "o": [
+            "Overheads standard for allocation and absorption",
+            "Material cost",
+            "Labour cost",
+            "Direct expense"
+        ]
+    },
+    {
+        "q": "Match the overhead CAS:",
+        "type": "match",
+        "left": [
+            "CAS-3",
+            "CAS-11",
+            "CAS-12",
+            "CAS-15"
+        ],
+        "right": [
+            "Production overhead",
+            "Administrative",
+            "Repairs",
+            "Selling"
+        ]
+    },
+    {
+        "q": "What is CAS-5?",
+        "type": "mcq",
+        "o": [
+            "Determination of Average (Equalized) Cost of Transportation",
+            "Material cost",
+            "Labour cost",
+            "Overhead"
+        ]
+    },
+    {
+        "q": "CAS-5 covers freight equalization ______.",
+        "type": "fill_blank",
+        "answers": [
+            "policy"
+        ],
+        "other_options": [
+            "price",
+            "revenue",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is CAS-8?",
+        "type": "mcq",
+        "o": [
+            "Cost of Utilities standard",
+            "Material cost",
+            "Labour cost",
+            "Depreciation"
+        ]
+    },
+    {
+        "q": "CAS-8 covers power, water, and fuel costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CAS-9?",
+        "type": "mcq",
+        "o": [
+            "Packing Material Cost standard",
+            "Direct material",
+            "Labour cost",
+            "Overhead"
+        ]
+    },
+    {
+        "q": "Match the specific CAS:",
+        "type": "match",
+        "left": [
+            "CAS-5",
+            "CAS-8",
+            "CAS-9",
+            "CAS-10"
+        ],
+        "right": [
+            "Transport",
+            "Utilities",
+            "Packing",
+            "Direct expense"
+        ]
+    },
+    {
+        "q": "What is VED analysis?",
+        "type": "mcq",
+        "o": [
+            "Vital, Essential, Desirable classification of items",
+            "ABC analysis",
+            "XYZ analysis",
+            "FSN analysis"
+        ]
+    },
+    {
+        "q": "VED analysis focuses on criticality of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "items"
+        ],
+        "other_options": [
+            "costs",
+            "revenues",
+            "profits"
+        ]
+    },
+    {
+        "q": "What is FSN analysis?",
+        "type": "mcq",
+        "o": [
+            "Fast, Slow, Non-moving inventory classification",
+            "ABC analysis",
+            "VED analysis",
+            "XYZ analysis"
+        ]
+    },
+    {
+        "q": "FSN helps identify obsolete inventory.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is XYZ analysis?",
+        "type": "mcq",
+        "o": [
+            "Classification based on value of inventory held",
+            "ABC analysis",
+            "VED analysis",
+            "FSN analysis"
+        ]
+    },
+    {
+        "q": "Match the inventory analyses:",
+        "type": "match",
+        "left": [
+            "ABC",
+            "VED",
+            "FSN",
+            "XYZ"
+        ],
+        "right": [
+            "Annual usage",
+            "Criticality",
+            "Movement",
+            "Investment"
+        ]
+    },
+    {
+        "q": "What is two-bin system?",
+        "type": "mcq",
+        "o": [
+            "Visual reorder system using two containers",
+            "Single bin",
+            "No bin",
+            "Multiple bins"
+        ]
+    },
+    {
+        "q": "Two-bin system triggers reorder when first bin ______.",
+        "type": "fill_blank",
+        "answers": [
+            "empties"
+        ],
+        "other_options": [
+            "fills",
+            "overflows",
+            "breaks"
+        ]
+    },
+    {
+        "q": "What is material transfer note?",
+        "type": "mcq",
+        "o": [
+            "Document for inter-department material movement",
+            "Purchase order",
+            "Sales invoice",
+            "Delivery note"
+        ]
+    },
+    {
+        "q": "Transfer notes track internal material movements.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is material return note?",
+        "type": "mcq",
+        "o": [
+            "Document for returning unused material to stores",
+            "Requisition",
+            "Transfer note",
+            "GRN"
+        ]
+    },
+    {
+        "q": "Match the material documents:",
+        "type": "match",
+        "left": [
+            "Requisition",
+            "Return note",
+            "Transfer note",
+            "GRN"
+        ],
+        "right": [
+            "Issue request",
+            "Return to stores",
+            "Inter-department",
+            "Receipt"
+        ]
+    },
+    {
+        "q": "What is Gantt bonus plan?",
+        "type": "mcq",
+        "o": [
+            "Task and bonus plan with guaranteed minimum",
+            "Halsey plan",
+            "Rowan plan",
+            "Taylor plan"
+        ]
+    },
+    {
+        "q": "Gantt plan guarantees day wage plus ______.",
+        "type": "fill_blank",
+        "answers": [
+            "bonus"
+        ],
+        "other_options": [
+            "penalty",
+            "deduction",
+            "reduction"
+        ]
+    },
+    {
+        "q": "What is Emerson efficiency plan?",
+        "type": "mcq",
+        "o": [
+            "Bonus plan based on efficiency percentage",
+            "Fixed wage",
+            "Piece rate",
+            "No bonus"
+        ]
+    },
+    {
+        "q": "Emerson plan pays bonus above 67% efficiency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is Bedeaux point system?",
+        "type": "mcq",
+        "o": [
+            "Time study based incentive using standard minutes",
+            "Piece rate",
+            "Time wage",
+            "No system"
+        ]
+    },
+    {
+        "q": "Match the incentive systems:",
+        "type": "match",
+        "left": [
+            "Gantt",
+            "Emerson",
+            "Bedeaux",
+            "Merrick"
+        ],
+        "right": [
+            "Task bonus",
+            "Efficiency bonus",
+            "Point system",
+            "Multiple piece rate"
+        ]
+    },
+    {
+        "q": "What is method study?",
+        "type": "mcq",
+        "o": [
+            "Systematic analysis of work methods for improvement",
+            "Time study",
+            "No study",
+            "Random analysis"
+        ]
+    },
+    {
+        "q": "Method study aims to find best way of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "working"
+        ],
+        "other_options": [
+            "costing",
+            "pricing",
+            "selling"
+        ]
+    },
+    {
+        "q": "What is time study?",
+        "type": "mcq",
+        "o": [
+            "Measuring time required for performing tasks",
+            "Method study",
+            "Motion study",
+            "No study"
+        ]
+    },
+    {
+        "q": "Time study establishes standard times for operations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is motion study?",
+        "type": "mcq",
+        "o": [
+            "Analysis of movements in performing tasks",
+            "Time study",
+            "Method study",
+            "No study"
+        ]
+    },
+    {
+        "q": "Match the work study techniques:",
+        "type": "match",
+        "left": [
+            "Method",
+            "Time",
+            "Motion",
+            "Work sampling"
+        ],
+        "right": [
+            "How to do",
+            "How long",
+            "What movements",
+            "Activity ratio"
+        ]
+    },
+    {
+        "q": "What is blanket overhead rate?",
+        "type": "mcq",
+        "o": [
+            "Single rate for entire factory",
+            "Multiple rates",
+            "Department rates",
+            "No rate"
+        ]
+    },
+    {
+        "q": "Blanket rate is simple but may be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inaccurate"
+        ],
+        "other_options": [
+            "precise",
+            "exact",
+            "perfect"
+        ]
+    },
+    {
+        "q": "What is departmental overhead rate?",
+        "type": "mcq",
+        "o": [
+            "Separate rate for each production department",
+            "Blanket rate",
+            "Single rate",
+            "No rate"
+        ]
+    },
+    {
+        "q": "Departmental rates are more accurate than blanket rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is activity-based costing?",
+        "type": "mcq",
+        "o": [
+            "Costing based on activities that drive costs",
+            "Traditional costing",
+            "Volume-based",
+            "No costing"
+        ]
+    },
+    {
+        "q": "Match the costing approaches:",
+        "type": "match",
+        "left": [
+            "Blanket rate",
+            "Departmental",
+            "ABC",
+            "Process"
+        ],
+        "right": [
+            "Factory-wide",
+            "Per department",
+            "Activity-based",
+            "Continuous production"
+        ]
+    },
+    {
+        "q": "What is CAS-11?",
+        "type": "mcq",
+        "o": [
+            "Administrative Overheads standard",
+            "Production overhead",
+            "Selling overhead",
+            "Distribution"
+        ]
+    },
+    {
+        "q": "CAS-11 covers general administration ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "revenues",
+            "profits",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is CAS-12?",
+        "type": "mcq",
+        "o": [
+            "Repairs and Maintenance Cost standard",
+            "Production overhead",
+            "Administrative",
+            "Selling"
+        ]
+    },
+    {
+        "q": "CAS-12 covers planned and breakdown maintenance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CAS-13?",
+        "type": "mcq",
+        "o": [
+            "Cost of Service Cost Centre standard",
+            "Production center",
+            "Profit center",
+            "Investment center"
+        ]
+    },
+    {
+        "q": "Match the overhead standards:",
+        "type": "match",
+        "left": [
+            "CAS-11",
+            "CAS-12",
+            "CAS-13",
+            "CAS-15"
+        ],
+        "right": [
+            "Administrative",
+            "Repairs",
+            "Service center",
+            "Selling"
+        ]
+    },
+    {
+        "q": "What is reciprocal service?",
+        "type": "mcq",
+        "o": [
+            "Service departments providing service to each other",
+            "One-way service",
+            "No service",
+            "External service"
+        ]
+    },
+    {
+        "q": "Reciprocal service requires simultaneous ______.",
+        "type": "fill_blank",
+        "answers": [
+            "equations"
+        ],
+        "other_options": [
+            "payments",
+            "receipts",
+            "transfers"
+        ]
+    },
+    {
+        "q": "What is direct allocation method?",
+        "type": "mcq",
+        "o": [
+            "Allocating service costs directly to production without reciprocity",
+            "Step method",
+            "Simultaneous",
+            "Reciprocal"
+        ]
+    },
+    {
+        "q": "Direct method ignores inter-service department usage.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is controllable cost?",
+        "type": "mcq",
+        "o": [
+            "Cost that can be influenced by manager's actions",
+            "Uncontrollable cost",
+            "Fixed cost always",
+            "Sunk cost"
+        ]
+    },
+    {
+        "q": "Match the cost controllability:",
+        "type": "match",
+        "left": [
+            "Controllable",
+            "Uncontrollable",
+            "Avoidable",
+            "Unavoidable"
+        ],
+        "right": [
+            "Can influence",
+            "Cannot influence",
+            "Can eliminate",
+            "Cannot eliminate"
+        ]
+    },
+    {
+        "q": "What is uncontrollable cost?",
+        "type": "mcq",
+        "o": [
+            "Cost that cannot be influenced at specific level",
+            "Controllable",
+            "Variable always",
+            "Direct cost"
+        ]
+    },
+    {
+        "q": "Controllability depends on management ______.",
+        "type": "fill_blank",
+        "answers": [
+            "level"
+        ],
+        "other_options": [
+            "style",
+            "pay",
+            "age"
+        ]
+    },
+    {
+        "q": "What is differential cost?",
+        "type": "mcq",
+        "o": [
+            "Cost difference between alternatives",
+            "Total cost",
+            "Fixed cost",
+            "Sunk cost"
+        ]
+    },
+    {
+        "q": "Differential cost helps in decision making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is opportunity cost?",
+        "type": "mcq",
+        "o": [
+            "Value of next best alternative foregone",
+            "Actual cost",
+            "Historical cost",
+            "Sunk cost"
+        ]
+    },
+    {
+        "q": "Match the cost concepts:",
+        "type": "match",
+        "left": [
+            "Differential",
+            "Opportunity",
+            "Sunk",
+            "Relevant"
+        ],
+        "right": [
+            "Change in cost",
+            "Foregone benefit",
+            "Past cost",
+            "Future cost"
+        ]
+    },
+    {
+        "q": "What is sunk cost?",
+        "type": "mcq",
+        "o": [
+            "Past cost that cannot be recovered",
+            "Future cost",
+            "Differential cost",
+            "Opportunity cost"
+        ]
+    },
+    {
+        "q": "Sunk costs are irrelevant for future ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decisions"
+        ],
+        "other_options": [
+            "statements",
+            "reports",
+            "records"
+        ]
+    },
+    {
+        "q": "What is CAS-14?",
+        "type": "mcq",
+        "o": [
+            "Pollution Control Cost standard",
+            "Production cost",
+            "Selling cost",
+            "Administrative"
+        ]
+    },
+    {
+        "q": "CAS-14 covers environmental compliance costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CAS-16?",
+        "type": "mcq",
+        "o": [
+            "Depreciation and Amortization standard",
+            "Material cost",
+            "Labour cost",
+            "Overhead"
+        ]
+    },
+    {
+        "q": "Match the specialized CAS:",
+        "type": "match",
+        "left": [
+            "CAS-14",
+            "CAS-16",
+            "CAS-17",
+            "CAS-18"
+        ],
+        "right": [
+            "Pollution",
+            "Depreciation",
+            "Interest",
+            "Research"
+        ]
+    },
+    {
+        "q": "What is CAS-17?",
+        "type": "mcq",
+        "o": [
+            "Interest and Financing Charges standard",
+            "Material cost",
+            "Labour cost",
+            "Production overhead"
+        ]
+    },
+    {
+        "q": "CAS-17 covers borrowing costs for cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "purposes"
+        ],
+        "other_options": [
+            "elimination",
+            "reduction",
+            "avoidance"
+        ]
+    },
+    {
+        "q": "What is CAS-18?",
+        "type": "mcq",
+        "o": [
+            "Research and Development Cost standard",
+            "Production cost",
+            "Selling cost",
+            "Administrative"
+        ]
+    },
+    {
+        "q": "CAS-18 covers R&D cost determination and treatment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is job costing?",
+        "type": "mcq",
+        "o": [
+            "Costing for specific orders or batches",
+            "Process costing",
+            "Service costing",
+            "Contract costing"
+        ]
+    },
+    {
+        "q": "Match the costing methods:",
+        "type": "match",
+        "left": [
+            "Job",
+            "Process",
+            "Contract",
+            "Service"
+        ],
+        "right": [
+            "Specific order",
+            "Continuous",
+            "Long-term",
+            "Operating cost"
+        ]
+    },
+    {
+        "q": "What is process costing?",
+        "type": "mcq",
+        "o": [
+            "Costing for continuous production processes",
+            "Job costing",
+            "Batch costing",
+            "Contract costing"
+        ]
+    },
+    {
+        "q": "Process costing uses equivalent units for WIP ______.",
+        "type": "fill_blank",
+        "answers": [
+            "valuation"
+        ],
+        "other_options": [
+            "elimination",
+            "rejection",
+            "disposal"
+        ]
+    },
+    {
+        "q": "What is equivalent unit?",
+        "type": "mcq",
+        "o": [
+            "Notional complete units for partially complete work",
+            "Actual units",
+            "Rejected units",
+            "Sold units"
+        ]
+    },
+    {
+        "q": "Equivalent units convert WIP to complete unit basis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is contract costing?",
+        "type": "mcq",
+        "o": [
+            "Costing for long-term contracts",
+            "Job costing",
+            "Process costing",
+            "Service costing"
+        ]
+    },
+    {
+        "q": "Match the industry-specific costing:",
+        "type": "match",
+        "left": [
+            "Construction",
+            "Chemical",
+            "Transport",
+            "Hotel"
+        ],
+        "right": [
+            "Contract",
+            "Process",
+            "Operating",
+            "Service"
+        ]
+    },
+    {
+        "q": "What is batch costing?",
+        "type": "mcq",
+        "o": [
+            "Costing for groups of similar products",
+            "Single unit",
+            "Continuous",
+            "Contract"
+        ]
+    },
+    {
+        "q": "Batch cost per unit equals total batch cost divided by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "quantity"
+        ],
+        "other_options": [
+            "price",
+            "value",
+            "time"
+        ]
+    },
+    {
+        "q": "What is service costing?",
+        "type": "mcq",
+        "o": [
+            "Costing for service organizations",
+            "Manufacturing costing",
+            "Contract costing",
+            "Batch costing"
+        ]
+    },
+    {
+        "q": "Service costing uses composite cost units.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is operating costing?",
+        "type": "mcq",
+        "o": [
+            "Costing for transport and utility services",
+            "Job costing",
+            "Process costing",
+            "Contract costing"
+        ]
+    },
+    {
+        "q": "Operating costing uses cost per unit of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "service"
+        ],
+        "other_options": [
+            "product",
+            "material",
+            "labour"
+        ]
+    },
+    {
+        "q": "What is CAS-19?",
+        "type": "mcq",
+        "o": [
+            "Joint Cost and By-Product Cost standard",
+            "Material cost",
+            "Labour cost",
+            "Overhead"
+        ]
+    },
+    {
+        "q": "CAS-19 covers allocation of joint costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CAS-20?",
+        "type": "mcq",
+        "o": [
+            "Royalty and Technical Know-how Fee standard",
+            "Material cost",
+            "Labour cost",
+            "Depreciation"
+        ]
+    },
+    {
+        "q": "Match the specialized CAS:",
+        "type": "match",
+        "left": [
+            "CAS-19",
+            "CAS-20",
+            "CAS-21",
+            "CAS-22"
+        ],
+        "right": [
+            "Joint cost",
+            "Royalty",
+            "Quality control",
+            "Manufacturing"
+        ]
+    },
+    {
+        "q": "What is CAS-21?",
+        "type": "mcq",
+        "o": [
+            "Quality Control Cost standard",
+            "Material cost",
+            "Labour cost",
+            "Administrative"
+        ]
+    },
+    {
+        "q": "CAS-21 covers determination of quality control ______.",
+        "type": "fill_blank",
+        "answers": [
+            "cost"
+        ],
+        "other_options": [
+            "revenue",
+            "profit",
+            "asset"
+        ]
+    },
+    {
+        "q": "What is CAS-22?",
+        "type": "mcq",
+        "o": [
+            "Manufacturing Cost standard",
+            "Administrative cost",
+            "Selling cost",
+            "Finance cost"
+        ]
+    },
+    {
+        "q": "CAS-22 provides principles for manufacturing cost determination.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is joint cost?",
+        "type": "mcq",
+        "o": [
+            "Cost incurred before products become separately identifiable",
+            "Direct cost",
+            "Separate cost",
+            "Variable cost"
+        ]
+    },
+    {
+        "q": "Match the joint product concepts:",
+        "type": "match",
+        "left": [
+            "Joint cost",
+            "Split-off point",
+            "By-product",
+            "Main product"
+        ],
+        "right": [
+            "Common cost",
+            "Separation point",
+            "Minor output",
+            "Primary output"
+        ]
+    },
+    {
+        "q": "What is split-off point?",
+        "type": "mcq",
+        "o": [
+            "Point where joint products become separately identifiable",
+            "Starting point",
+            "End point",
+            "Random point"
+        ]
+    },
+    {
+        "q": "Joint costs are allocated at split-off ______.",
+        "type": "fill_blank",
+        "answers": [
+            "point"
+        ],
+        "other_options": [
+            "time",
+            "cost",
+            "price"
+        ]
+    },
+    {
+        "q": "What is by-product?",
+        "type": "mcq",
+        "o": [
+            "Secondary product with relatively minor value",
+            "Main product",
+            "Joint product",
+            "Primary product"
+        ]
+    },
+    {
+        "q": "By-product sale value may reduce joint product cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is physical units method?",
+        "type": "mcq",
+        "o": [
+            "Allocating joint costs based on output quantity",
+            "Sales value method",
+            "NRV method",
+            "No allocation"
+        ]
+    },
+    {
+        "q": "Match the joint cost allocation methods:",
+        "type": "match",
+        "left": [
+            "Physical units",
+            "Sales value",
+            "NRV",
+            "Constant GM"
+        ],
+        "right": [
+            "Output quantity",
+            "Revenue basis",
+            "Net realizable",
+            "Equal margin"
+        ]
+    },
+    {
+        "q": "What is sales value at split-off method?",
+        "type": "mcq",
+        "o": [
+            "Allocating based on relative sales value at split-off",
+            "Physical units",
+            "NRV method",
+            "Random"
+        ]
+    },
+    {
+        "q": "Sales value method uses market prices at split-off ______.",
+        "type": "fill_blank",
+        "answers": [
+            "point"
+        ],
+        "other_options": [
+            "time",
+            "cost",
+            "date"
+        ]
+    },
+    {
+        "q": "What is net realizable value method?",
+        "type": "mcq",
+        "o": [
+            "Allocating based on final sales value less further processing costs",
+            "Physical units",
+            "Sales value",
+            "Random"
+        ]
+    },
+    {
+        "q": "NRV method is used when no market exists at split-off.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is further processing cost?",
+        "type": "mcq",
+        "o": [
+            "Cost incurred after split-off point",
+            "Joint cost",
+            "Pre-split cost",
+            "Common cost"
+        ]
+    },
+    {
+        "q": "Match the processing decisions:",
+        "type": "match",
+        "left": [
+            "Sell at split-off",
+            "Further process",
+            "Joint product",
+            "By-product"
+        ],
+        "right": [
+            "Immediate sale",
+            "Add value",
+            "Main output",
+            "Minor value"
+        ]
+    },
+    {
+        "q": "What is inter-process profit?",
+        "type": "mcq",
+        "o": [
+            "Profit recognized on transfers between processes",
+            "Final profit",
+            "No profit",
+            "External profit"
+        ]
+    },
+    {
+        "q": "Inter-process profit inflates inventory ______.",
+        "type": "fill_blank",
+        "answers": [
+            "values"
+        ],
+        "other_options": [
+            "costs",
+            "losses",
+            "expenses"
+        ]
+    },
+    {
+        "q": "What is cost sheet?",
+        "type": "mcq",
+        "o": [
+            "Statement showing elements and total cost of product",
+            "Balance sheet",
+            "P/L account",
+            "Cash flow"
+        ]
+    },
+    {
+        "q": "Cost sheet helps in cost analysis and control.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is memorandum reconciliation account?",
+        "type": "mcq",
+        "o": [
+            "Account reconciling cost and financial profit",
+            "Cost account",
+            "Financial account",
+            "No reconciliation"
+        ]
+    },
+    {
+        "q": "Match the reconciliation items:",
+        "type": "match",
+        "left": [
+            "Financial charges",
+            "Notional items",
+            "Stock valuation",
+            "Overhead absorption"
+        ],
+        "right": [
+            "In financials only",
+            "In cost only",
+            "Valuation difference",
+            "Absorption difference"
+        ]
+    },
+    {
+        "q": "What is integrated accounting?",
+        "type": "mcq",
+        "o": [
+            "Single set of accounts for both cost and financial",
+            "Separate sets",
+            "No integration",
+            "Parallel systems"
+        ]
+    },
+    {
+        "q": "Integrated accounting eliminates need for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "reconciliation"
+        ],
+        "other_options": [
+            "costing",
+            "accounting",
+            "reporting"
+        ]
+    },
+    {
+        "q": "What is non-integrated accounting?",
+        "type": "mcq",
+        "o": [
+            "Separate cost and financial accounting systems",
+            "Single system",
+            "Integrated",
+            "No accounting"
+        ]
+    },
+    {
+        "q": "Non-integrated system requires reconciliation statement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost plus contract?",
+        "type": "mcq",
+        "o": [
+            "Contract where price equals cost plus agreed margin",
+            "Fixed price",
+            "Lump sum",
+            "No margin"
+        ]
+    },
+    {
+        "q": "Match the contract types:",
+        "type": "match",
+        "left": [
+            "Cost plus",
+            "Fixed price",
+            "Target cost",
+            "Time and material"
+        ],
+        "right": [
+            "Cost plus margin",
+            "Agreed amount",
+            "Shared savings",
+            "Hourly basis"
+        ]
+    },
+    {
+        "q": "What is contract profit recognition?",
+        "type": "mcq",
+        "o": [
+            "Recognizing profit on long-term contracts during execution",
+            "Completion only",
+            "No recognition",
+            "Random"
+        ]
+    },
+    {
+        "q": "Contract profit is recognized based on percentage of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "completion"
+        ],
+        "other_options": [
+            "cost",
+            "time",
+            "material"
+        ]
+    },
+    {
+        "q": "What is retention money?",
+        "type": "mcq",
+        "o": [
+            "Amount withheld by client as guarantee for contract completion",
+            "Full payment",
+            "No retention",
+            "Advance"
+        ]
+    },
+    {
+        "q": "Retention money protects against defective work.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is work certified?",
+        "type": "mcq",
+        "o": [
+            "Work approved by contractee's engineer for payment",
+            "Work done",
+            "Work planned",
+            "Work rejected"
+        ]
+    },
+    {
+        "q": "Match the contract terms:",
+        "type": "match",
+        "left": [
+            "Work certified",
+            "Work uncertified",
+            "Retention",
+            "Progress payment"
+        ],
+        "right": [
+            "Approved work",
+            "Pending approval",
+            "Guarantee",
+            "Interim payment"
+        ]
+    },
+    {
+        "q": "What is notional profit?",
+        "type": "mcq",
+        "o": [
+            "Estimated profit on incomplete contract",
+            "Actual profit",
+            "Final profit",
+            "No profit"
+        ]
+    },
+    {
+        "q": "Notional profit equals work certified less cost to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "date"
+        ],
+        "other_options": [
+            "start",
+            "end",
+            "completion"
+        ]
+    },
+    {
+        "q": "What is target costing?",
+        "type": "mcq",
+        "o": [
+            "Setting cost target based on market price less margin",
+            "Cost plus pricing",
+            "No target",
+            "Random cost"
+        ]
+    },
+    {
+        "q": "Target costing starts from selling price.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is value engineering?",
+        "type": "mcq",
+        "o": [
+            "Analyzing functions to reduce cost while maintaining value",
+            "Cost cutting only",
+            "No analysis",
+            "Random reduction"
+        ]
+    },
+    {
+        "q": "Match the strategic costing:",
+        "type": "match",
+        "left": [
+            "Target costing",
+            "Value engineering",
+            "Kaizen",
+            "Life cycle"
+        ],
+        "right": [
+            "Price-driven",
+            "Function analysis",
+            "Continuous improvement",
+            "Cradle to grave"
+        ]
+    },
+    {
+        "q": "What is kaizen costing?",
+        "type": "mcq",
+        "o": [
+            "Continuous incremental cost reduction during production",
+            "One-time reduction",
+            "No reduction",
+            "Standard costing"
+        ]
+    },
+    {
+        "q": "Kaizen costing targets cost reduction during manufacturing ______.",
+        "type": "fill_blank",
+        "answers": [
+            "stage"
+        ],
+        "other_options": [
+            "design",
+            "planning",
+            "selling"
+        ]
+    },
+    {
+        "q": "What is life cycle costing?",
+        "type": "mcq",
+        "o": [
+            "Tracking costs throughout product life from design to disposal",
+            "Manufacturing only",
+            "Sales only",
+            "No tracking"
+        ]
+    },
+    {
+        "q": "Life cycle costing captures total cost of ownership.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is throughput accounting?",
+        "type": "mcq",
+        "o": [
+            "Theory of constraints based costing focusing on throughput",
+            "Absorption costing",
+            "Traditional costing",
+            "No costing"
+        ]
+    },
+    {
+        "q": "Match the modern costing:",
+        "type": "match",
+        "left": [
+            "Throughput",
+            "ABC",
+            "Target",
+            "Life cycle"
+        ],
+        "right": [
+            "Constraint focus",
+            "Activity focus",
+            "Price focus",
+            "Time focus"
+        ]
+    },
+    {
+        "q": "What is cost driver?",
+        "type": "mcq",
+        "o": [
+            "Factor causing change in cost of activity",
+            "Cost center",
+            "Cost unit",
+            "Random factor"
+        ]
+    },
+    {
+        "q": "Cost drivers link activities to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "revenues",
+            "profits",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is activity cost pool?",
+        "type": "mcq",
+        "o": [
+            "Collection of costs related to same activity",
+            "Single cost",
+            "Random grouping",
+            "No grouping"
+        ]
+    },
+    {
+        "q": "Activity cost pools are basis for ABC overhead allocation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is resource driver?",
+        "type": "mcq",
+        "o": [
+            "Measure of resource consumption by activities",
+            "Activity driver",
+            "Cost driver",
+            "No driver"
+        ]
+    },
+    {
+        "q": "Match the ABC elements:",
+        "type": "match",
+        "left": [
+            "Resource driver",
+            "Activity driver",
+            "Cost pool",
+            "Cost object"
+        ],
+        "right": [
+            "Resource to activity",
+            "Activity to object",
+            "Grouped costs",
+            "Cost receiver"
+        ]
+    },
+    {
+        "q": "What is activity driver?",
+        "type": "mcq",
+        "o": [
+            "Measure linking activity costs to cost objects",
+            "Resource driver",
+            "Cost driver",
+            "Random measure"
+        ]
+    },
+    {
+        "q": "Activity drivers allocate costs to products and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "services"
+        ],
+        "other_options": [
+            "materials",
+            "labours",
+            "overheads"
+        ]
+    },
+    {
+        "q": "What is cost hierarchy in ABC?",
+        "type": "mcq",
+        "o": [
+            "Classification of activities by level of aggregation",
+            "No classification",
+            "Random grouping",
+            "Single level"
+        ]
+    },
+    {
+        "q": "ABC hierarchy includes unit, batch, product, and facility levels.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is unit-level activity?",
+        "type": "mcq",
+        "o": [
+            "Activity performed for each unit produced",
+            "Batch activity",
+            "Product activity",
+            "Facility activity"
+        ]
+    },
+    {
+        "q": "Match the activity levels:",
+        "type": "match",
+        "left": [
+            "Unit",
+            "Batch",
+            "Product",
+            "Facility"
+        ],
+        "right": [
+            "Each unit",
+            "Group of units",
+            "Product line",
+            "Plant-wide"
+        ]
+    },
+    {
+        "q": "What is batch-level activity?",
+        "type": "mcq",
+        "o": [
+            "Activity performed for each batch regardless of units",
+            "Unit activity",
+            "Product activity",
+            "Facility activity"
+        ]
+    },
+    {
+        "q": "Setup costs are typically batch-level ______.",
+        "type": "fill_blank",
+        "answers": [
+            "activities"
+        ],
+        "other_options": [
+            "materials",
+            "labours",
+            "products"
+        ]
+    },
+    {
+        "q": "What is product-level activity?",
+        "type": "mcq",
+        "o": [
+            "Activity performed to support specific product line",
+            "Unit activity",
+            "Batch activity",
+            "Facility activity"
+        ]
+    },
+    {
+        "q": "Product design costs are product-level activities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is facility-level activity?",
+        "type": "mcq",
+        "o": [
+            "Activity supporting operation of entire facility",
+            "Unit activity",
+            "Batch activity",
+            "Product activity"
+        ]
+    },
+    {
+        "q": "Match the cost behavior:",
+        "type": "match",
+        "left": [
+            "Committed",
+            "Discretionary",
+            "Engineered",
+            "Step"
+        ],
+        "right": [
+            "Long-term",
+            "Policy-driven",
+            "Input-output",
+            "Changes in ranges"
+        ]
+    },
+    {
+        "q": "What is cost behavior analysis?",
+        "type": "mcq",
+        "o": [
+            "Study of how costs change with activity levels",
+            "Cost classification",
+            "No analysis",
+            "Random study"
+        ]
+    },
+    {
+        "q": "Cost behavior helps in budgeting and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "planning"
+        ],
+        "other_options": [
+            "auditing",
+            "reporting",
+            "filing"
+        ]
+    },
+    {
+        "q": "What is high-low method?",
+        "type": "mcq",
+        "o": [
+            "Method separating fixed and variable using extreme points",
+            "Regression",
+            "Account analysis",
+            "No method"
+        ]
+    },
+    {
+        "q": "High-low method uses highest and lowest activity levels.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is regression analysis?",
+        "type": "mcq",
+        "o": [
+            "Statistical method for cost estimation",
+            "High-low method",
+            "Account analysis",
+            "Random method"
+        ]
+    },
+    {
+        "q": "Match the cost estimation methods:",
+        "type": "match",
+        "left": [
+            "High-low",
+            "Regression",
+            "Account analysis",
+            "Engineering"
+        ],
+        "right": [
+            "Two points",
+            "Statistical",
+            "Managerial judgment",
+            "Physical relationship"
+        ]
+    },
+    {
+        "q": "What is learning curve?",
+        "type": "mcq",
+        "o": [
+            "Reduction in labour time as experience increases",
+            "No reduction",
+            "Increase in time",
+            "Random change"
+        ]
+    },
+    {
+        "q": "Learning curve shows cumulative average time ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decreases"
+        ],
+        "other_options": [
+            "increases",
+            "remains constant",
+            "fluctuates"
+        ]
+    },
+    {
+        "q": "What is experience curve?",
+        "type": "mcq",
+        "o": [
+            "Reduction in total costs with cumulative production",
+            "Learning curve only",
+            "No reduction",
+            "Cost increase"
+        ]
+    },
+    {
+        "q": "Experience curve includes learning curve effects.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CAS-2?",
+        "type": "mcq",
+        "o": [
+            "Capacity Determination standard",
+            "Material cost",
+            "Labour cost",
+            "Overhead"
+        ]
+    },
+    {
+        "q": "Match the capacity types:",
+        "type": "match",
+        "left": [
+            "Theoretical",
+            "Practical",
+            "Normal",
+            "Actual"
+        ],
+        "right": [
+            "Maximum possible",
+            "Allowing inefficiencies",
+            "Expected average",
+            "Real output"
+        ]
+    },
+    {
+        "q": "What is theoretical capacity?",
+        "type": "mcq",
+        "o": [
+            "Maximum possible output under ideal conditions",
+            "Practical capacity",
+            "Normal capacity",
+            "Actual capacity"
+        ]
+    },
+    {
+        "q": "Theoretical capacity assumes no stoppages or ______.",
+        "type": "fill_blank",
+        "answers": [
+            "downtime"
+        ],
+        "other_options": [
+            "output",
+            "production",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is practical capacity?",
+        "type": "mcq",
+        "o": [
+            "Theoretical capacity less unavoidable inefficiencies",
+            "Theoretical only",
+            "Maximum possible",
+            "No capacity"
+        ]
+    },
+    {
+        "q": "Practical capacity allows for normal maintenance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is normal capacity?",
+        "type": "mcq",
+        "o": [
+            "Expected average capacity over several periods",
+            "Maximum capacity",
+            "Minimum capacity",
+            "No capacity"
+        ]
+    },
+    {
+        "q": "Match the capacity variance causes:",
+        "type": "match",
+        "left": [
+            "Idle capacity",
+            "Excess capacity",
+            "Full utilization",
+            "Over-utilization"
+        ],
+        "right": [
+            "Unused",
+            "Too much capacity",
+            "Optimal use",
+            "Beyond normal"
+        ]
+    },
+    {
+        "q": "What is cost audit?",
+        "type": "mcq",
+        "o": [
+            "Examination and verification of cost records",
+            "Financial audit",
+            "Tax audit",
+            "Internal audit"
+        ]
+    },
+    {
+        "q": "Cost audit is mandatory for specified ______.",
+        "type": "fill_blank",
+        "answers": [
+            "industries"
+        ],
+        "other_options": [
+            "companies",
+            "firms",
+            "entities"
+        ]
+    },
+    {
+        "q": "What is cost audit report?",
+        "type": "mcq",
+        "o": [
+            "Report by cost auditor on cost records",
+            "Financial report",
+            "Tax report",
+            "Management report"
+        ]
+    },
+    {
+        "q": "Cost audit report is filed with government authorities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CRA-1?",
+        "type": "mcq",
+        "o": [
+            "Cost auditor appointment intimation form",
+            "Cost report",
+            "Audit report",
+            "Compliance report"
+        ]
+    },
+    {
+        "q": "Match the cost audit forms:",
+        "type": "match",
+        "left": [
+            "CRA-1",
+            "CRA-2",
+            "CRA-3",
+            "CRA-4"
+        ],
+        "right": [
+            "Appointment",
+            "Remuneration",
+            "Report",
+            "Annexure"
+        ]
+    },
+    {
+        "q": "What is cost compliance report?",
+        "type": "mcq",
+        "o": [
+            "Report on compliance with cost accounting standards",
+            "Audit report",
+            "Management report",
+            "Tax report"
+        ]
+    },
+    {
+        "q": "Cost compliance report is part of cost audit ______.",
+        "type": "fill_blank",
+        "answers": [
+            "requirements"
+        ],
+        "other_options": [
+            "exemptions",
+            "reductions",
+            "eliminations"
+        ]
+    },
+    {
+        "q": "What is inter-firm comparison?",
+        "type": "mcq",
+        "o": [
+            "Comparing costs and performance across companies",
+            "Internal comparison",
+            "No comparison",
+            "Random comparison"
+        ]
+    },
+    {
+        "q": "Inter-firm comparison helps identify best practices.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is uniform costing?",
+        "type": "mcq",
+        "o": [
+            "Common costing principles for comparable organizations",
+            "Different methods",
+            "Random costing",
+            "No uniformity"
+        ]
+    },
+    {
+        "q": "Match the costing benefits:",
+        "type": "match",
+        "left": [
+            "Uniform costing",
+            "Inter-firm",
+            "Cost audit",
+            "CAS"
+        ],
+        "right": [
+            "Comparability",
+            "Benchmarking",
+            "Verification",
+            "Standards"
+        ]
+    },
+    {
+        "q": "What is throughput contribution?",
+        "type": "mcq",
+        "o": [
+            "Revenue minus totally variable costs",
+            "Gross margin",
+            "Net profit",
+            "Operating profit"
+        ]
+    },
+    {
+        "q": "Throughput contribution focuses on constraint ______.",
+        "type": "fill_blank",
+        "answers": [
+            "utilization"
+        ],
+        "other_options": [
+            "elimination",
+            "reduction",
+            "avoidance"
+        ]
+    },
+    {
+        "q": "What is bottleneck resource?",
+        "type": "mcq",
+        "o": [
+            "Resource limiting throughput of system",
+            "Unlimited resource",
+            "Free resource",
+            "No constraint"
+        ]
+    },
+    {
+        "q": "Bottleneck determines maximum system output.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is theory of constraints?",
+        "type": "mcq",
+        "o": [
+            "Management approach focusing on system constraints",
+            "No constraints",
+            "Unlimited capacity",
+            "Random management"
+        ]
+    },
+    {
+        "q": "Match the TOC steps:",
+        "type": "match",
+        "left": [
+            "Identify",
+            "Exploit",
+            "Subordinate",
+            "Elevate"
+        ],
+        "right": [
+            "Find constraint",
+            "Maximize use",
+            "Align system",
+            "Increase capacity"
+        ]
+    },
+    {
+        "q": "What is backflush costing?",
+        "type": "mcq",
+        "o": [
+            "Costing method delaying cost recording until completion",
+            "Standard costing",
+            "Normal costing",
+            "Actual costing"
+        ]
+    },
+    {
+        "q": "Backflush costing reduces work-in-process ______.",
+        "type": "fill_blank",
+        "answers": [
+            "tracking"
+        ],
+        "other_options": [
+            "cost",
+            "time",
+            "value"
+        ]
+    },
+    {
+        "q": "What is just-in-time manufacturing?",
+        "type": "mcq",
+        "o": [
+            "Production system minimizing inventory and waste",
+            "Maximum inventory",
+            "Traditional production",
+            "No production"
+        ]
+    },
+    {
+        "q": "JIT aims for zero inventory and defects.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is quality cost?",
+        "type": "mcq",
+        "o": [
+            "Cost incurred to achieve or ensure quality",
+            "No quality",
+            "Random cost",
+            "External cost"
+        ]
+    },
+    {
+        "q": "Match the quality cost categories:",
+        "type": "match",
+        "left": [
+            "Prevention",
+            "Appraisal",
+            "Internal failure",
+            "External failure"
+        ],
+        "right": [
+            "Avoiding defects",
+            "Detecting defects",
+            "Before delivery",
+            "After delivery"
+        ]
+    },
+    {
+        "q": "What is prevention cost?",
+        "type": "mcq",
+        "o": [
+            "Cost of activities to prevent defects from occurring",
+            "Appraisal cost",
+            "Failure cost",
+            "No cost"
+        ]
+    },
+    {
+        "q": "Prevention costs include training and quality ______.",
+        "type": "fill_blank",
+        "answers": [
+            "planning"
+        ],
+        "other_options": [
+            "failure",
+            "rejection",
+            "disposal"
+        ]
+    },
+    {
+        "q": "What is appraisal cost?",
+        "type": "mcq",
+        "o": [
+            "Cost of inspecting and testing for quality",
+            "Prevention cost",
+            "Failure cost",
+            "No cost"
+        ]
+    },
+    {
+        "q": "Appraisal costs include inspection and testing expenses.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is internal failure cost?",
+        "type": "mcq",
+        "o": [
+            "Cost of defects detected before delivery",
+            "External failure",
+            "Prevention",
+            "Appraisal"
+        ]
+    },
+    {
+        "q": "Match the failure types:",
+        "type": "match",
+        "left": [
+            "Internal failure",
+            "External failure",
+            "Rework",
+            "Warranty"
+        ],
+        "right": [
+            "Pre-delivery",
+            "Post-delivery",
+            "Correction",
+            "Customer claim"
+        ]
+    },
+    {
+        "q": "What is external failure cost?",
+        "type": "mcq",
+        "o": [
+            "Cost of defects discovered after delivery to customer",
+            "Internal failure",
+            "Prevention",
+            "Appraisal"
+        ]
+    },
+    {
+        "q": "External failure includes warranty and recall ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "benefits",
+            "revenues",
+            "profits"
+        ]
+    },
+    {
+        "q": "What is shadow price?",
+        "type": "mcq",
+        "o": [
+            "Value of relaxing constraint by one unit",
+            "Market price",
+            "Cost price",
+            "No price"
+        ]
+    },
+    {
+        "q": "Shadow price shows marginal value of scarce resource.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is sensitivity analysis in costing?",
+        "type": "mcq",
+        "o": [
+            "Analyzing impact of changes in variables on outcomes",
+            "No analysis",
+            "Random analysis",
+            "Fixed analysis"
+        ]
+    },
+    {
+        "q": "Match the analysis types:",
+        "type": "match",
+        "left": [
+            "Sensitivity",
+            "Scenario",
+            "What-if",
+            "Break-even"
+        ],
+        "right": [
+            "Variable changes",
+            "Multiple variables",
+            "Specific questions",
+            "Zero profit"
+        ]
+    },
+    {
+        "q": "What is cost reduction?",
+        "type": "mcq",
+        "o": [
+            "Real and permanent reduction in unit cost",
+            "Temporary reduction",
+            "Cost control",
+            "No reduction"
+        ]
+    },
+    {
+        "q": "Cost reduction maintains quality while lowering ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "quality",
+            "output",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is cost control?",
+        "type": "mcq",
+        "o": [
+            "Keeping costs within predetermined limits",
+            "Cost reduction",
+            "No control",
+            "Unlimited spending"
+        ]
+    },
+    {
+        "q": "Cost control focuses on actual versus budgeted costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is value analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing product functions to maximize value at minimum cost",
+            "Cost analysis only",
+            "No analysis",
+            "Random analysis"
+        ]
+    },
+    {
+        "q": "Match the value concepts:",
+        "type": "match",
+        "left": [
+            "Use value",
+            "Esteem value",
+            "Exchange value",
+            "Cost value"
+        ],
+        "right": [
+            "Functional",
+            "Prestige",
+            "Market",
+            "Production"
+        ]
+    },
+    {
+        "q": "What is benchmarking?",
+        "type": "mcq",
+        "o": [
+            "Comparing practices with best-in-class organizations",
+            "No comparison",
+            "Internal only",
+            "Random comparison"
+        ]
+    },
+    {
+        "q": "Benchmarking identifies performance gaps and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "improvements"
+        ],
+        "other_options": [
+            "problems",
+            "issues",
+            "failures"
+        ]
+    },
+    {
+        "q": "What is internal benchmarking?",
+        "type": "mcq",
+        "o": [
+            "Comparing within same organization",
+            "External benchmarking",
+            "Competitive",
+            "No benchmarking"
+        ]
+    },
+    {
+        "q": "Internal benchmarking uses own operations as reference.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is external benchmarking?",
+        "type": "mcq",
+        "o": [
+            "Comparing with organizations outside own company",
+            "Internal only",
+            "No comparison",
+            "Self-analysis"
+        ]
+    },
+    {
+        "q": "Match the benchmarking types:",
+        "type": "match",
+        "left": [
+            "Internal",
+            "Competitive",
+            "Functional",
+            "Generic"
+        ],
+        "right": [
+            "Within company",
+            "Industry peers",
+            "Best practice",
+            "Any industry"
+        ]
+    },
+    {
+        "q": "What is total quality management?",
+        "type": "mcq",
+        "o": [
+            "Organization-wide quality improvement approach",
+            "Inspection only",
+            "Final check",
+            "No quality"
+        ]
+    },
+    {
+        "q": "TQM involves all employees in quality ______.",
+        "type": "fill_blank",
+        "answers": [
+            "improvement"
+        ],
+        "other_options": [
+            "reduction",
+            "elimination",
+            "control"
+        ]
+    },
+    {
+        "q": "What is Six Sigma?",
+        "type": "mcq",
+        "o": [
+            "Data-driven approach to eliminate defects",
+            "No defects allowed",
+            "Traditional quality",
+            "Random improvement"
+        ]
+    },
+    {
+        "q": "Six Sigma aims for 3.4 defects per million opportunities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is DMAIC?",
+        "type": "mcq",
+        "o": [
+            "Define, Measure, Analyze, Improve, Control methodology",
+            "Random method",
+            "No method",
+            "Simple analysis"
+        ]
+    },
+    {
+        "q": "Match the Six Sigma phases:",
+        "type": "match",
+        "left": [
+            "Define",
+            "Measure",
+            "Analyze",
+            "Improve"
+        ],
+        "right": [
+            "Problem",
+            "Data",
+            "Root cause",
+            "Solutions"
+        ]
+    },
+    {
+        "q": "What is cost-benefit analysis?",
+        "type": "mcq",
+        "o": [
+            "Comparing costs and benefits of alternatives",
+            "Cost only",
+            "Benefit only",
+            "No comparison"
+        ]
+    },
+    {
+        "q": "Cost-benefit analysis helps in investment ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decisions"
+        ],
+        "other_options": [
+            "reports",
+            "statements",
+            "records"
+        ]
+    },
+    {
+        "q": "What is contribution margin?",
+        "type": "mcq",
+        "o": [
+            "Sales revenue minus variable costs",
+            "Net profit",
+            "Gross profit",
+            "Operating profit"
+        ]
+    },
+    {
+        "q": "Contribution covers fixed costs and provides profit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is contribution margin ratio?",
+        "type": "mcq",
+        "o": [
+            "Contribution as percentage of sales",
+            "Profit ratio",
+            "Cost ratio",
+            "No ratio"
+        ]
+    },
+    {
+        "q": "Match the margin concepts:",
+        "type": "match",
+        "left": [
+            "Contribution",
+            "Gross margin",
+            "Operating margin",
+            "Net margin"
+        ],
+        "right": [
+            "Less variable",
+            "Less COGS",
+            "Less operating",
+            "After all"
+        ]
+    },
+    {
+        "q": "What is break-even analysis?",
+        "type": "mcq",
+        "o": [
+            "Analysis to find point where revenue equals costs",
+            "Profit analysis",
+            "Loss analysis",
+            "No analysis"
+        ]
+    },
+    {
+        "q": "Break-even point is where profit equals ______.",
+        "type": "fill_blank",
+        "answers": [
+            "zero"
+        ],
+        "other_options": [
+            "maximum",
+            "minimum",
+            "average"
+        ]
+    },
+    {
+        "q": "What is margin of safety?",
+        "type": "mcq",
+        "o": [
+            "Difference between actual and break-even sales",
+            "Break-even point",
+            "No safety",
+            "Loss point"
+        ]
+    },
+    {
+        "q": "Higher margin of safety indicates lower business risk.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is operating leverage?",
+        "type": "mcq",
+        "o": [
+            "Measure of fixed costs impact on profits",
+            "Financial leverage",
+            "No leverage",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Operating leverage equals contribution divided by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profit"
+        ],
+        "other_options": [
+            "cost",
+            "sales",
+            "margin"
+        ]
+    },
+    {
+        "q": "What is financial leverage?",
+        "type": "mcq",
+        "o": [
+            "Impact of debt on equity returns",
+            "Operating leverage",
+            "No leverage",
+            "Random measure"
+        ]
+    },
+    {
+        "q": "Match the leverage types:",
+        "type": "match",
+        "left": [
+            "Operating",
+            "Financial",
+            "Combined",
+            "Total"
+        ],
+        "right": [
+            "Fixed costs",
+            "Debt impact",
+            "Both leverages",
+            "Overall effect"
+        ]
+    },
+    {
+        "q": "What is combined leverage?",
+        "type": "mcq",
+        "o": [
+            "Product of operating and financial leverage",
+            "Sum of leverages",
+            "Difference",
+            "No combination"
+        ]
+    },
+    {
+        "q": "Combined leverage measures sales to EPS ______.",
+        "type": "fill_blank",
+        "answers": [
+            "sensitivity"
+        ],
+        "other_options": [
+            "growth",
+            "decline",
+            "stability"
+        ]
+    },
+    {
+        "q": "What is profit-volume ratio?",
+        "type": "mcq",
+        "o": [
+            "Contribution margin as percentage of sales",
+            "Profit margin",
+            "Operating ratio",
+            "No ratio"
+        ]
+    },
+    {
+        "q": "P/V ratio indicates profitability of products.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is multi-product break-even analysis?",
+        "type": "mcq",
+        "o": [
+            "Break-even analysis for product portfolio with weighted average CM",
+            "Single product",
+            "No analysis",
+            "Random calculation"
+        ]
+    },
+    {
+        "q": "Match the multi-product concepts:",
+        "type": "match",
+        "left": [
+            "Sales mix",
+            "Weighted CM",
+            "Composite BEP",
+            "Product priority"
+        ],
+        "right": [
+            "Proportion",
+            "Average margin",
+            "Total break-even",
+            "CM ranking"
+        ]
+    },
+    {
+        "q": "What is sales mix?",
+        "type": "mcq",
+        "o": [
+            "Relative proportion of products sold",
+            "Single product",
+            "No mix",
+            "Random ratio"
+        ]
+    },
+    {
+        "q": "Change in sales mix affects overall ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profitability"
+        ],
+        "other_options": [
+            "investment",
+            "assets",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "What is limiting factor analysis?",
+        "type": "mcq",
+        "o": [
+            "Decision making when resources are constrained",
+            "Unlimited resources",
+            "No analysis",
+            "Random decision"
+        ]
+    },
+    {
+        "q": "Limiting factor analysis maximizes contribution per unit of constraint.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is key factor?",
+        "type": "mcq",
+        "o": [
+            "Factor limiting production or sales",
+            "Unlimited factor",
+            "No factor",
+            "Random factor"
+        ]
+    },
+    {
+        "q": "Match the decision scenarios:",
+        "type": "match",
+        "left": [
+            "Make or buy",
+            "Accept special order",
+            "Product mix",
+            "Shut down"
+        ],
+        "right": [
+            "Outsourcing",
+            "Pricing",
+            "Optimization",
+            "Discontinuation"
+        ]
+    },
+    {
+        "q": "What is make or buy decision?",
+        "type": "mcq",
+        "o": [
+            "Deciding between manufacturing internally or outsourcing",
+            "No decision",
+            "Always make",
+            "Always buy"
+        ]
+    },
+    {
+        "q": "Make or buy considers relevant costs and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "benefits"
+        ],
+        "other_options": [
+            "sunk costs",
+            "allocations",
+            "fixed charges"
+        ]
+    },
+    {
+        "q": "What is special order decision?",
+        "type": "mcq",
+        "o": [
+            "Accepting one-time order at different pricing",
+            "Regular order",
+            "No order",
+            "Random decision"
+        ]
+    },
+    {
+        "q": "Special order should be accepted if price exceeds incremental cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is discontinuation decision?",
+        "type": "mcq",
+        "o": [
+            "Deciding whether to drop product line or segment",
+            "Continuation",
+            "No decision",
+            "Always continue"
+        ]
+    },
+    {
+        "q": "Match the discontinuation factors:",
+        "type": "match",
+        "left": [
+            "Contribution",
+            "Avoidable costs",
+            "Unavoidable costs",
+            "Common costs"
+        ],
+        "right": [
+            "Segment margin",
+            "Saved if dropped",
+            "Continue regardless",
+            "Shared costs"
+        ]
+    },
+    {
+        "q": "What is segment margin?",
+        "type": "mcq",
+        "o": [
+            "Contribution less traceable fixed costs",
+            "Gross margin",
+            "Net margin",
+            "No margin"
+        ]
+    },
+    {
+        "q": "Segment margin measures segment ______.",
+        "type": "fill_blank",
+        "answers": [
+            "profitability"
+        ],
+        "other_options": [
+            "liquidity",
+            "solvency",
+            "leverage"
+        ]
+    },
+    {
+        "q": "What is responsibility accounting?",
+        "type": "mcq",
+        "o": [
+            "Assigning responsibility for costs and revenues to managers",
+            "No responsibility",
+            "Random assignment",
+            "Centralized control"
+        ]
+    },
+    {
+        "q": "Responsibility accounting links authority with accountability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is controllable variance?",
+        "type": "mcq",
+        "o": [
+            "Variance that manager can influence",
+            "Uncontrollable",
+            "Fixed variance",
+            "No variance"
+        ]
+    },
+    {
+        "q": "Match the variance analysis:",
+        "type": "match",
+        "left": [
+            "Controllable",
+            "Uncontrollable",
+            "Favorable",
+            "Unfavorable"
+        ],
+        "right": [
+            "Can influence",
+            "Cannot influence",
+            "Better than budget",
+            "Worse than budget"
+        ]
+    },
+    {
+        "q": "What is transfer pricing?",
+        "type": "mcq",
+        "o": [
+            "Pricing for inter-divisional transfers",
+            "External pricing",
+            "No pricing",
+            "Random pricing"
+        ]
+    },
+    {
+        "q": "Transfer pricing affects division performance ______.",
+        "type": "fill_blank",
+        "answers": [
+            "measurement"
+        ],
+        "other_options": [
+            "elimination",
+            "reduction",
+            "avoidance"
+        ]
+    },
+    {
+        "q": "What is market-based transfer price?",
+        "type": "mcq",
+        "o": [
+            "Transfer price based on external market price",
+            "Cost-based",
+            "Negotiated",
+            "No price"
+        ]
+    },
+    {
+        "q": "Market-based price is ideal when competitive market exists.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost-based transfer price?",
+        "type": "mcq",
+        "o": [
+            "Transfer price based on production cost",
+            "Market-based",
+            "Negotiated",
+            "No price"
+        ]
+    },
+    {
+        "q": "Match the transfer pricing methods:",
+        "type": "match",
+        "left": [
+            "Market-based",
+            "Cost-based",
+            "Negotiated",
+            "Dual pricing"
+        ],
+        "right": [
+            "External price",
+            "Production cost",
+            "Agreed price",
+            "Different prices"
+        ]
+    },
+    {
+        "q": "What is negotiated transfer price?",
+        "type": "mcq",
+        "o": [
+            "Price agreed between buying and selling divisions",
+            "Market price",
+            "Cost price",
+            "No agreement"
+        ]
+    },
+    {
+        "q": "Negotiated price falls between variable cost and market ______.",
+        "type": "fill_blank",
+        "answers": [
+            "price"
+        ],
+        "other_options": [
+            "cost",
+            "margin",
+            "value"
+        ]
+    },
+    {
+        "q": "What is CAS-23?",
+        "type": "mcq",
+        "o": [
+            "Overburden Removal Cost standard for mining",
+            "Material cost",
+            "Labour cost",
+            "Overhead"
+        ]
+    },
+    {
+        "q": "CAS-23 applies to extractive industries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is CAS-24?",
+        "type": "mcq",
+        "o": [
+            "Treatment of Revenue in Cost Statements standard",
+            "Cost recognition",
+            "Expense treatment",
+            "Asset valuation"
+        ]
+    },
+    {
+        "q": "Match the recent CAS:",
+        "type": "match",
+        "left": [
+            "CAS-23",
+            "CAS-24",
+            "CAS-25",
+            "CAS-26"
+        ],
+        "right": [
+            "Mining",
+            "Revenue treatment",
+            "Classification",
+            "Related party"
+        ]
+    },
+    {
+        "q": "What is cost of sales?",
+        "type": "mcq",
+        "o": [
+            "Manufacturing cost plus selling and distribution expenses",
+            "Factory cost only",
+            "Material cost",
+            "Labour cost"
+        ]
+    },
+    {
+        "q": "Cost of sales includes all costs to make sale ______.",
+        "type": "fill_blank",
+        "answers": [
+            "possible"
+        ],
+        "other_options": [
+            "impossible",
+            "difficult",
+            "unlikely"
+        ]
+    },
+    {
+        "q": "What is period cost?",
+        "type": "mcq",
+        "o": [
+            "Cost charged to expense as incurred",
+            "Product cost",
+            "Inventoriable",
+            "No cost"
+        ]
+    },
+    {
+        "q": "Period costs are expensed immediately in the period incurred.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is product cost?",
+        "type": "mcq",
+        "o": [
+            "Cost attached to units of production",
+            "Period cost",
+            "Administrative cost",
+            "Selling cost"
+        ]
+    },
+    {
+        "q": "Match the cost treatment:",
+        "type": "match",
+        "left": [
+            "Product cost",
+            "Period cost",
+            "Direct cost",
+            "Indirect cost"
+        ],
+        "right": [
+            "Inventoriable",
+            "Expensed",
+            "Traceable",
+            "Allocated"
+        ]
+    },
+    {
+        "q": "What is imputed cost?",
+        "type": "mcq",
+        "o": [
+            "Notional cost not actually incurred",
+            "Actual cost",
+            "Cash cost",
+            "Direct cost"
+        ]
+    },
+    {
+        "q": "Imputed cost includes notional rent on owned ______.",
+        "type": "fill_blank",
+        "answers": [
+            "premises"
+        ],
+        "other_options": [
+            "labour",
+            "material",
+            "overhead"
+        ]
+    },
+    {
+        "q": "What is explicit cost?",
+        "type": "mcq",
+        "o": [
+            "Actual monetary outflow for resources",
+            "Implicit cost",
+            "Notional cost",
+            "No cost"
+        ]
+    },
+    {
+        "q": "Explicit costs involve actual cash payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is implicit cost?",
+        "type": "mcq",
+        "o": [
+            "Opportunity cost of using owned resources",
+            "Explicit cost",
+            "Cash cost",
+            "Direct cost"
+        ]
+    },
+    {
+        "q": "Match the cost categories:",
+        "type": "match",
+        "left": [
+            "Explicit",
+            "Implicit",
+            "Imputed",
+            "Notional"
+        ],
+        "right": [
+            "Cash outflow",
+            "Opportunity",
+            "Assumed",
+            "Theoretical"
+        ]
+    },
+    {
+        "q": "What is inventory valuation adjustment?",
+        "type": "mcq",
+        "o": [
+            "Adjustment for difference in cost and financial inventory values",
+            "No adjustment",
+            "Random change",
+            "Fixed value"
+        ]
+    },
+    {
+        "q": "Inventory valuation affects profit ______.",
+        "type": "fill_blank",
+        "answers": [
+            "reconciliation"
+        ],
+        "other_options": [
+            "elimination",
+            "avoidance",
+            "rejection"
+        ]
+    },
+    {
+        "q": "What is inter-period cost allocation?",
+        "type": "mcq",
+        "o": [
+            "Distributing costs across accounting periods",
+            "Single period",
+            "No allocation",
+            "Random distribution"
+        ]
+    },
+    {
+        "q": "Depreciation is example of inter-period cost allocation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is interest during construction?",
+        "type": "mcq",
+        "o": [
+            "Interest capitalized during asset construction period",
+            "Operating interest",
+            "No interest",
+            "Random interest"
+        ]
+    },
+    {
+        "q": "Match the cost capitalization:",
+        "type": "match",
+        "left": [
+            "IDC",
+            "Pre-operative",
+            "Setup cost",
+            "Trial run"
+        ],
+        "right": [
+            "Construction interest",
+            "Before production",
+            "Installation",
+            "Testing"
+        ]
+    },
+    {
+        "q": "What is pre-operative expenses?",
+        "type": "mcq",
+        "o": [
+            "Expenses incurred before commencement of operations",
+            "Operating expenses",
+            "Post-operative",
+            "No expenses"
+        ]
+    },
+    {
+        "q": "Pre-operative expenses are typically amortized over ______.",
+        "type": "fill_blank",
+        "answers": [
+            "years"
+        ],
+        "other_options": [
+            "days",
+            "hours",
+            "minutes"
+        ]
+    },
+    {
+        "q": "What is cost escalation clause?",
+        "type": "mcq",
+        "o": [
+            "Contract provision for price adjustment due to cost changes",
+            "Fixed price",
+            "No adjustment",
+            "Random change"
+        ]
+    },
+    {
+        "q": "Escalation clause protects against input cost increases.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost plus percentage of cost contract?",
+        "type": "mcq",
+        "o": [
+            "Contract with margin as percentage of incurred cost",
+            "Fixed price",
+            "Lump sum",
+            "No margin"
+        ]
+    },
+    {
+        "q": "Match the contract margins:",
+        "type": "match",
+        "left": [
+            "Cost plus percentage",
+            "Cost plus fixed fee",
+            "Target cost",
+            "Guaranteed maximum"
+        ],
+        "right": [
+            "Variable margin",
+            "Fixed margin",
+            "Shared savings",
+            "Cost ceiling"
+        ]
+    },
+    {
+        "q": "What is cost plus fixed fee contract?",
+        "type": "mcq",
+        "o": [
+            "Contract with fixed fee regardless of actual cost",
+            "Percentage",
+            "Variable fee",
+            "No fee"
+        ]
+    },
+    {
+        "q": "Fixed fee discourages cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inflation"
+        ],
+        "other_options": [
+            "reduction",
+            "control",
+            "savings"
+        ]
+    },
+    {
+        "q": "What is economic value added?",
+        "type": "mcq",
+        "o": [
+            "Profit after deducting cost of capital",
+            "Net profit",
+            "Gross profit",
+            "Operating profit"
+        ]
+    },
+    {
+        "q": "EVA equals NOPAT minus capital charge.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is return on investment?",
+        "type": "mcq",
+        "o": [
+            "Profit as percentage of investment",
+            "Sales ratio",
+            "Cost ratio",
+            "No return"
+        ]
+    },
+    {
+        "q": "Match the performance measures:",
+        "type": "match",
+        "left": [
+            "ROI",
+            "EVA",
+            "RI",
+            "ROCE"
+        ],
+        "right": [
+            "Profit/Investment",
+            "Economic profit",
+            "Residual income",
+            "Capital employed"
+        ]
+    },
+    {
+        "q": "What is residual income?",
+        "type": "mcq",
+        "o": [
+            "Profit minus required return on investment",
+            "Total profit",
+            "Gross profit",
+            "No income"
+        ]
+    },
+    {
+        "q": "Residual income is absolute measure of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "performance"
+        ],
+        "other_options": [
+            "cost",
+            "revenue",
+            "asset"
+        ]
+    },
+    {
+        "q": "What is balanced scorecard?",
+        "type": "mcq",
+        "o": [
+            "Multi-perspective performance measurement system",
+            "Financial only",
+            "No scorecard",
+            "Random measures"
+        ]
+    },
+    {
+        "q": "Balanced scorecard includes financial and non-financial measures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What are balanced scorecard perspectives?",
+        "type": "mcq",
+        "o": [
+            "Financial, customer, internal process, learning and growth",
+            "Financial only",
+            "Customer only",
+            "Process only"
+        ]
+    },
+    {
+        "q": "Match the BSC perspectives:",
+        "type": "match",
+        "left": [
+            "Financial",
+            "Customer",
+            "Internal process",
+            "Learning"
+        ],
+        "right": [
+            "Shareholder value",
+            "Satisfaction",
+            "Efficiency",
+            "Innovation"
+        ]
+    },
+    {
+        "q": "What is key performance indicator?",
+        "type": "mcq",
+        "o": [
+            "Measure of critical success factor achievement",
+            "Random measure",
+            "No indicator",
+            "Fixed measure"
+        ]
+    },
+    {
+        "q": "KPIs track progress toward strategic ______.",
+        "type": "fill_blank",
+        "answers": [
+            "goals"
+        ],
+        "other_options": [
+            "costs",
+            "expenses",
+            "liabilities"
+        ]
+    },
+    {
+        "q": "What is variance report?",
+        "type": "mcq",
+        "o": [
+            "Report showing differences between actual and budgeted",
+            "Budget report",
+            "No report",
+            "Random report"
+        ]
+    },
+    {
+        "q": "Variance reports highlight areas needing management attention.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is management by exception?",
+        "type": "mcq",
+        "o": [
+            "Focusing attention on significant variances only",
+            "All variances",
+            "No management",
+            "Random focus"
+        ]
+    },
+    {
+        "q": "Match the control concepts:",
+        "type": "match",
+        "left": [
+            "Exception",
+            "Feedback",
+            "Feedforward",
+            "Concurrent"
+        ],
+        "right": [
+            "Significant only",
+            "After event",
+            "Preventive",
+            "Real-time"
+        ]
+    },
+    {
+        "q": "What is feedback control?",
+        "type": "mcq",
+        "o": [
+            "Control based on comparing results with standards",
+            "Feedforward",
+            "No control",
+            "Random control"
+        ]
+    },
+    {
+        "q": "Feedback control occurs after action is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "completed"
+        ],
+        "other_options": [
+            "planned",
+            "started",
+            "approved"
+        ]
+    },
+    {
+        "q": "What is feedforward control?",
+        "type": "mcq",
+        "o": [
+            "Preventive control anticipating problems before occurrence",
+            "Feedback",
+            "Concurrent",
+            "No control"
+        ]
+    },
+    {
+        "q": "Feedforward control is proactive rather than reactive.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is zero-based budgeting?",
+        "type": "mcq",
+        "o": [
+            "Budgeting from scratch justifying all expenditures",
+            "Incremental",
+            "Historical",
+            "No budgeting"
+        ]
+    },
+    {
+        "q": "Match the budgeting approaches:",
+        "type": "match",
+        "left": [
+            "Zero-based",
+            "Incremental",
+            "Activity-based",
+            "Rolling"
+        ],
+        "right": [
+            "From scratch",
+            "Prior year plus",
+            "Activities",
+            "Continuous"
+        ]
+    },
+    {
+        "q": "What is incremental budgeting?",
+        "type": "mcq",
+        "o": [
+            "Adjusting previous budget by incremental changes",
+            "Zero-based",
+            "Activity-based",
+            "No budgeting"
+        ]
+    },
+    {
+        "q": "Incremental budgeting uses prior year as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "base"
+        ],
+        "other_options": [
+            "target",
+            "limit",
+            "ceiling"
+        ]
+    },
+    {
+        "q": "What is flexible budget?",
+        "type": "mcq",
+        "o": [
+            "Budget adjusted for actual activity level",
+            "Fixed budget",
+            "Static budget",
+            "No budget"
+        ]
+    },
+    {
+        "q": "Flexible budget separates volume and cost variances.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is static budget?",
+        "type": "mcq",
+        "o": [
+            "Budget prepared for single activity level",
+            "Flexible",
+            "Variable",
+            "No budget"
+        ]
+    },
+    {
+        "q": "Match the budget types:",
+        "type": "match",
+        "left": [
+            "Static",
+            "Flexible",
+            "Master",
+            "Operating"
+        ],
+        "right": [
+            "Single level",
+            "Adjustable",
+            "Overall",
+            "Functional"
+        ]
+    },
+    {
+        "q": "What is cash budget?",
+        "type": "mcq",
+        "o": [
+            "Budget projecting cash receipts and payments",
+            "Sales budget",
+            "Production budget",
+            "No budget"
+        ]
+    },
+    {
+        "q": "Cash budget helps manage ______.",
+        "type": "fill_blank",
+        "answers": [
+            "liquidity"
+        ],
+        "other_options": [
+            "profitability",
+            "solvency",
+            "leverage"
+        ]
+    },
+    {
+        "q": "What is production budget?",
+        "type": "mcq",
+        "o": [
+            "Budget determining units to be produced",
+            "Sales budget",
+            "Cash budget",
+            "No budget"
+        ]
+    },
+    {
+        "q": "Production budget considers sales forecast and inventory changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is material purchase budget?",
+        "type": "mcq",
+        "o": [
+            "Budget for material procurement based on production needs",
+            "Sales budget",
+            "Cash budget",
+            "Labour budget"
+        ]
+    },
+    {
+        "q": "Match the functional budgets:",
+        "type": "match",
+        "left": [
+            "Sales",
+            "Production",
+            "Purchase",
+            "Labour"
+        ],
+        "right": [
+            "Revenue forecast",
+            "Units to produce",
+            "Material needs",
+            "Workforce plan"
+        ]
+    },
+    {
+        "q": "What is labour budget?",
+        "type": "mcq",
+        "o": [
+            "Budget for workforce hours and costs",
+            "Material budget",
+            "Cash budget",
+            "Sales budget"
+        ]
+    },
+    {
+        "q": "Labour budget links production budget to human ______.",
+        "type": "fill_blank",
+        "answers": [
+            "resources"
+        ],
+        "other_options": [
+            "assets",
+            "liabilities",
+            "equity"
+        ]
+    },
+    {
+        "q": "What is sales budget?",
+        "type": "mcq",
+        "o": [
+            "Starting point for master budget preparation",
+            "Final budget",
+            "Random budget",
+            "No budget"
+        ]
+    },
+    {
+        "q": "Sales budget drives all other functional budgets.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is budget variance analysis?",
+        "type": "mcq",
+        "o": [
+            "Comparing budgeted and actual results",
+            "No comparison",
+            "Random analysis",
+            "Fixed analysis"
+        ]
+    },
+    {
+        "q": "Match the variance investigation:",
+        "type": "match",
+        "left": [
+            "Material variance",
+            "Random variance",
+            "Controllable",
+            "Trend"
+        ],
+        "right": [
+            "Investigate",
+            "Ignore",
+            "Action needed",
+            "Pattern analysis"
+        ]
+    },
+    {
+        "q": "What is rolling budget?",
+        "type": "mcq",
+        "o": [
+            "Continuously updated budget adding future periods",
+            "Static budget",
+            "Fixed budget",
+            "No budget"
+        ]
+    },
+    {
+        "q": "Rolling budget maintains constant planning ______.",
+        "type": "fill_blank",
+        "answers": [
+            "horizon"
+        ],
+        "other_options": [
+            "cost",
+            "revenue",
+            "profit"
+        ]
+    },
+    {
+        "q": "What is participative budgeting?",
+        "type": "mcq",
+        "o": [
+            "Budget prepared with input from all levels",
+            "Top-down only",
+            "No participation",
+            "Random input"
+        ]
+    },
+    {
+        "q": "Participative budgeting increases employee commitment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is top-down budgeting?",
+        "type": "mcq",
+        "o": [
+            "Budget imposed by senior management",
+            "Bottom-up",
+            "Participative",
+            "No budgeting"
+        ]
+    },
+    {
+        "q": "Match the budgeting styles:",
+        "type": "match",
+        "left": [
+            "Top-down",
+            "Bottom-up",
+            "Participative",
+            "Negotiated"
+        ],
+        "right": [
+            "Imposed",
+            "From below",
+            "Joint",
+            "Agreed"
+        ]
+    },
+    {
+        "q": "What is budget slack?",
+        "type": "mcq",
+        "o": [
+            "Intentional understatement of budgeted performance",
+            "Accurate budget",
+            "No slack",
+            "Random padding"
+        ]
+    },
+    {
+        "q": "Budget slack makes targets easier to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "achieve"
+        ],
+        "other_options": [
+            "miss",
+            "exceed",
+            "ignore"
+        ]
+    },
+    {
+        "q": "What is budget gaming?",
+        "type": "mcq",
+        "o": [
+            "Manipulating budget or results for personal advantage",
+            "Honest budgeting",
+            "No manipulation",
+            "Fair practice"
+        ]
+    },
+    {
+        "q": "Budget gaming undermines control effectiveness.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is enterprise resource planning?",
+        "type": "mcq",
+        "o": [
+            "Integrated software system for business processes",
+            "Standalone systems",
+            "No integration",
+            "Random software"
+        ]
+    },
+    {
+        "q": "Match the ERP benefits:",
+        "type": "match",
+        "left": [
+            "Integration",
+            "Real-time",
+            "Standardization",
+            "Automation"
+        ],
+        "right": [
+            "Unified data",
+            "Instant access",
+            "Consistency",
+            "Efficiency"
+        ]
+    },
+    {
+        "q": "What is cost management system?",
+        "type": "mcq",
+        "o": [
+            "System for planning, controlling, and reducing costs",
+            "No system",
+            "Random approach",
+            "Unstructured"
+        ]
+    },
+    {
+        "q": "Cost management system supports strategic ______.",
+        "type": "fill_blank",
+        "answers": [
+            "decisions"
+        ],
+        "other_options": [
+            "costs",
+            "revenues",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is strategic cost management?",
+        "type": "mcq",
+        "o": [
+            "Using cost information for strategic competitive advantage",
+            "Operational only",
+            "No strategy",
+            "Random management"
+        ]
+    },
+    {
+        "q": "Strategic cost management links costs to competitive strategy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is value chain analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing activities from raw material to final customer",
+            "Single activity",
+            "No analysis",
+            "Random review"
+        ]
+    },
+    {
+        "q": "Match the value chain elements:",
+        "type": "match",
+        "left": [
+            "Inbound logistics",
+            "Operations",
+            "Outbound logistics",
+            "Service"
+        ],
+        "right": [
+            "Receiving",
+            "Production",
+            "Delivery",
+            "After-sale"
+        ]
+    },
+    {
+        "q": "What is cost leadership strategy?",
+        "type": "mcq",
+        "o": [
+            "Competing by offering lowest cost in industry",
+            "Differentiation",
+            "Focus only",
+            "No strategy"
+        ]
+    },
+    {
+        "q": "Cost leadership requires relentless cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "reduction"
+        ],
+        "other_options": [
+            "increase",
+            "maintenance",
+            "stability"
+        ]
+    },
+    {
+        "q": "What is differentiation strategy?",
+        "type": "mcq",
+        "o": [
+            "Competing by offering unique product features",
+            "Cost leadership",
+            "Focus only",
+            "No strategy"
+        ]
+    },
+    {
+        "q": "Differentiation allows premium pricing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost structure analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing proportions of fixed and variable costs",
+            "No analysis",
+            "Random review",
+            "Single cost"
+        ]
+    },
+    {
+        "q": "Match the strategic cost elements:",
+        "type": "match",
+        "left": [
+            "Value chain",
+            "Cost drivers",
+            "Cost structure",
+            "Competitive advantage"
+        ],
+        "right": [
+            "Activity sequence",
+            "Cost causes",
+            "Fixed vs variable",
+            "Market position"
+        ]
+    },
+    {
+        "q": "What is supply chain costing?",
+        "type": "mcq",
+        "o": [
+            "Costing across entire supply chain from supplier to customer",
+            "Internal only",
+            "No costing",
+            "Random analysis"
+        ]
+    },
+    {
+        "q": "Supply chain costing identifies total cost of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ownership"
+        ],
+        "other_options": [
+            "production",
+            "sales",
+            "delivery"
+        ]
+    },
+    {
+        "q": "What is customer profitability analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing profit contribution by customer",
+            "Product only",
+            "No analysis",
+            "Random review"
+        ]
+    },
+    {
+        "q": "Customer profitability helps focus on valuable customers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is attribute costing?",
+        "type": "mcq",
+        "o": [
+            "Costing product features valued by customers",
+            "Traditional costing",
+            "No costing",
+            "Random analysis"
+        ]
+    },
+    {
+        "q": "Match the customer-focused costing:",
+        "type": "match",
+        "left": [
+            "Customer profitability",
+            "Attribute costing",
+            "Life cycle",
+            "Target"
+        ],
+        "right": [
+            "By customer",
+            "By feature",
+            "Over time",
+            "Market-driven"
+        ]
+    },
+    {
+        "q": "What is capacity cost management?",
+        "type": "mcq",
+        "o": [
+            "Managing costs related to productive capacity",
+            "Variable costs only",
+            "No management",
+            "Random approach"
+        ]
+    },
+    {
+        "q": "Capacity cost management addresses unused capacity ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "revenues",
+            "profits",
+            "benefits"
+        ]
+    },
+    {
+        "q": "What is environmental cost management?",
+        "type": "mcq",
+        "o": [
+            "Managing costs related to environmental impact",
+            "Ignoring environment",
+            "No management",
+            "Random approach"
+        ]
+    },
+    {
+        "q": "Environmental costs include prevention and remediation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is social cost accounting?",
+        "type": "mcq",
+        "o": [
+            "Accounting for costs and benefits to society",
+            "Internal only",
+            "No accounting",
+            "Random approach"
+        ]
+    },
+    {
+        "q": "Social costs extend beyond organizational ______.",
+        "type": "fill_blank",
+        "answers": [
+            "boundaries"
+        ],
+        "other_options": [
+            "profits",
+            "revenues",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is intellectual capital?",
+        "type": "mcq",
+        "o": [
+            "Knowledge-based assets creating value",
+            "Physical assets",
+            "Financial assets",
+            "No assets"
+        ]
+    },
+    {
+        "q": "Match the intellectual capital types:",
+        "type": "match",
+        "left": [
+            "Human capital",
+            "Structural capital",
+            "Relational capital",
+            "Innovation"
+        ],
+        "right": [
+            "Employee knowledge",
+            "Systems",
+            "Relationships",
+            "New ideas"
+        ]
+    },
+    {
+        "q": "What is human resource accounting?",
+        "type": "mcq",
+        "o": [
+            "Measuring and reporting human capital value",
+            "No measurement",
+            "Random accounting",
+            "Physical assets only"
+        ]
+    },
+    {
+        "q": "Human resource accounting treats employees as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "assets"
+        ],
+        "other_options": [
+            "liabilities",
+            "expenses",
+            "losses"
+        ]
+    },
+    {
+        "q": "What is lean accounting?",
+        "type": "mcq",
+        "o": [
+            "Accounting supporting lean manufacturing principles",
+            "Traditional accounting",
+            "Standard costing",
+            "No accounting"
+        ]
+    },
+    {
+        "q": "Lean accounting focuses on value stream costing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is value stream costing?",
+        "type": "mcq",
+        "o": [
+            "Costing flows of product through value stream",
+            "Traditional costing",
+            "ABC only",
+            "No costing"
+        ]
+    },
+    {
+        "q": "Match the lean concepts:",
+        "type": "match",
+        "left": [
+            "Value stream",
+            "Waste elimination",
+            "Continuous flow",
+            "Pull system"
+        ],
+        "right": [
+            "Product flow",
+            "Muda removal",
+            "No batching",
+            "Demand-driven"
+        ]
+    },
+    {
+        "q": "What is digital costing?",
+        "type": "mcq",
+        "o": [
+            "Costing using digital technologies and analytics",
+            "Manual costing",
+            "Paper-based",
+            "No technology"
+        ]
+    },
+    {
+        "q": "Digital costing enables real-time cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "visibility"
+        ],
+        "other_options": [
+            "hiding",
+            "reduction",
+            "elimination"
+        ]
+    },
+    {
+        "q": "What is robotic process automation in costing?",
+        "type": "mcq",
+        "o": [
+            "Software bots automating routine cost processes",
+            "Manual processing",
+            "No automation",
+            "Physical robots"
+        ]
+    },
+    {
+        "q": "RPA reduces manual effort in cost data processing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is predictive costing?",
+        "type": "mcq",
+        "o": [
+            "Using analytics to forecast future costs",
+            "Historical only",
+            "No prediction",
+            "Random estimates"
+        ]
+    },
+    {
+        "q": "Match the modern costing technologies:",
+        "type": "match",
+        "left": [
+            "RPA",
+            "AI",
+            "Machine learning",
+            "Cloud"
+        ],
+        "right": [
+            "Automation",
+            "Intelligence",
+            "Pattern recognition",
+            "Remote access"
+        ]
+    },
+    {
+        "q": "What is blockchain in cost accounting?",
+        "type": "mcq",
+        "o": [
+            "Distributed ledger for transparent cost tracking",
+            "Single ledger",
+            "No tracking",
+            "Random records"
+        ]
+    },
+    {
+        "q": "Blockchain ensures immutable cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "records"
+        ],
+        "other_options": [
+            "losses",
+            "damages",
+            "errors"
+        ]
+    },
+    {
+        "q": "What is cloud-based costing?",
+        "type": "mcq",
+        "o": [
+            "Cost systems accessed via internet",
+            "On-premise only",
+            "No access",
+            "Manual systems"
+        ]
+    },
+    {
+        "q": "Cloud costing enables remote access and collaboration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is data analytics in costing?",
+        "type": "mcq",
+        "o": [
+            "Using data analysis for cost insights",
+            "No analysis",
+            "Random data",
+            "Ignoring data"
+        ]
+    },
+    {
+        "q": "Match the analytics types:",
+        "type": "match",
+        "left": [
+            "Descriptive",
+            "Diagnostic",
+            "Predictive",
+            "Prescriptive"
+        ],
+        "right": [
+            "What happened",
+            "Why",
+            "What will happen",
+            "What to do"
+        ]
+    },
+    {
+        "q": "What is descriptive analytics?",
+        "type": "mcq",
+        "o": [
+            "Analyzing historical cost data",
+            "Predictive",
+            "Prescriptive",
+            "No analysis"
+        ]
+    },
+    {
+        "q": "Descriptive analytics answers what ______.",
+        "type": "fill_blank",
+        "answers": [
+            "happened"
+        ],
+        "other_options": [
+            "will happen",
+            "should do",
+            "might occur"
+        ]
+    },
+    {
+        "q": "What is prescriptive analytics?",
+        "type": "mcq",
+        "o": [
+            "Recommending actions based on analysis",
+            "Descriptive",
+            "Diagnostic",
+            "No recommendation"
+        ]
+    },
+    {
+        "q": "Prescriptive analytics guides decision making.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is integrated reporting?",
+        "type": "mcq",
+        "o": [
+            "Reporting financial and non-financial performance together",
+            "Financial only",
+            "Separate reports",
+            "No reporting"
+        ]
+    },
+    {
+        "q": "Match the reporting frameworks:",
+        "type": "match",
+        "left": [
+            "Integrated",
+            "Sustainability",
+            "Financial",
+            "Management"
+        ],
+        "right": [
+            "Combined",
+            "ESG focus",
+            "GAAP/IFRS",
+            "Internal"
+        ]
+    },
+    {
+        "q": "What is sustainability reporting?",
+        "type": "mcq",
+        "o": [
+            "Reporting on environmental and social performance",
+            "Financial only",
+            "No reporting",
+            "Random reporting"
+        ]
+    },
+    {
+        "q": "Sustainability reporting covers ESG ______.",
+        "type": "fill_blank",
+        "answers": [
+            "factors"
+        ],
+        "other_options": [
+            "costs",
+            "profits",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is cost transparency?",
+        "type": "mcq",
+        "o": [
+            "Open sharing of cost information with stakeholders",
+            "Hidden costs",
+            "No disclosure",
+            "Secret information"
+        ]
+    },
+    {
+        "q": "Cost transparency builds stakeholder trust.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is open book costing?",
+        "type": "mcq",
+        "o": [
+            "Sharing cost details with suppliers or customers",
+            "Secret costing",
+            "No sharing",
+            "Hidden information"
+        ]
+    },
+    {
+        "q": "Match the transparency approaches:",
+        "type": "match",
+        "left": [
+            "Open book",
+            "Target costing",
+            "Value analysis",
+            "Cost sharing"
+        ],
+        "right": [
+            "Full disclosure",
+            "Joint targets",
+            "Function review",
+            "Mutual savings"
+        ]
+    },
+    {
+        "q": "What is supplier cost analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing and understanding supplier cost structures",
+            "Internal only",
+            "No analysis",
+            "Random review"
+        ]
+    },
+    {
+        "q": "Supplier cost analysis supports negotiation ______.",
+        "type": "fill_blank",
+        "answers": [
+            "strategy"
+        ],
+        "other_options": [
+            "failure",
+            "loss",
+            "problem"
+        ]
+    },
+    {
+        "q": "What is total cost of ownership?",
+        "type": "mcq",
+        "o": [
+            "All costs from purchase to disposal",
+            "Purchase price only",
+            "Operating cost only",
+            "No cost"
+        ]
+    },
+    {
+        "q": "TCO includes acquisition, operation, and disposal costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is shared services?",
+        "type": "mcq",
+        "o": [
+            "Centralizing common support functions",
+            "Decentralized",
+            "No sharing",
+            "Random allocation"
+        ]
+    },
+    {
+        "q": "Match the service delivery models:",
+        "type": "match",
+        "left": [
+            "Shared services",
+            "Outsourcing",
+            "Insourcing",
+            "Offshoring"
+        ],
+        "right": [
+            "Internal center",
+            "External provider",
+            "Bring internal",
+            "Different location"
+        ]
+    },
+    {
+        "q": "What is business process outsourcing?",
+        "type": "mcq",
+        "o": [
+            "Contracting business processes to external provider",
+            "Internal only",
+            "No outsourcing",
+            "Random assignment"
+        ]
+    },
+    {
+        "q": "BPO can reduce costs through ______.",
+        "type": "fill_blank",
+        "answers": [
+            "specialization"
+        ],
+        "other_options": [
+            "complexity",
+            "confusion",
+            "duplication"
+        ]
+    },
+    {
+        "q": "What is strategic sourcing?",
+        "type": "mcq",
+        "o": [
+            "Systematic process for optimizing procurement",
+            "Random purchasing",
+            "No strategy",
+            "Ad hoc buying"
+        ]
+    },
+    {
+        "q": "Strategic sourcing considers total value not just price.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is spend analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing organizational spending patterns",
+            "No analysis",
+            "Random review",
+            "Ignoring spend"
+        ]
+    },
+    {
+        "q": "Match the procurement concepts:",
+        "type": "match",
+        "left": [
+            "Spend analysis",
+            "Strategic sourcing",
+            "Supplier rating",
+            "Category management"
+        ],
+        "right": [
+            "Pattern review",
+            "Systematic procurement",
+            "Performance evaluation",
+            "Product grouping"
+        ]
+    },
+    {
+        "q": "What is cost allocation base?",
+        "type": "mcq",
+        "o": [
+            "Factor used to distribute indirect costs",
+            "No base",
+            "Random allocation",
+            "Direct charging"
+        ]
+    },
+    {
+        "q": "Allocation base should reflect cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "causation"
+        ],
+        "other_options": [
+            "reduction",
+            "elimination",
+            "avoidance"
+        ]
+    },
+    {
+        "q": "What is cost tracing?",
+        "type": "mcq",
+        "o": [
+            "Directly assigning costs to cost objects",
+            "Allocation",
+            "Apportionment",
+            "No assignment"
+        ]
+    },
+    {
+        "q": "Cost tracing is more accurate than allocation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cost allocation rate?",
+        "type": "mcq",
+        "o": [
+            "Rate used to assign indirect costs to cost objects",
+            "Direct rate",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Match the cost assignment methods:",
+        "type": "match",
+        "left": [
+            "Tracing",
+            "Allocation",
+            "Apportionment",
+            "Absorption"
+        ],
+        "right": [
+            "Direct",
+            "Indirect",
+            "Sharing",
+            "Including in product"
+        ]
+    },
+    {
+        "q": "What is overhead application rate?",
+        "type": "mcq",
+        "o": [
+            "Predetermined rate for applying overhead to products",
+            "Actual rate",
+            "No rate",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Application rate equals budgeted overhead divided by budgeted ______.",
+        "type": "fill_blank",
+        "answers": [
+            "activity"
+        ],
+        "other_options": [
+            "cost",
+            "profit",
+            "revenue"
+        ]
+    },
+    {
+        "q": "What is normal costing?",
+        "type": "mcq",
+        "o": [
+            "Using actual direct costs and applied overhead",
+            "All actual",
+            "All standard",
+            "No costing"
+        ]
+    },
+    {
+        "q": "Normal costing applies predetermined overhead rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is actual costing?",
+        "type": "mcq",
+        "o": [
+            "Using actual costs for all cost elements",
+            "All standard",
+            "Normal costing",
+            "No costing"
+        ]
+    },
+    {
+        "q": "Match the costing systems:",
+        "type": "match",
+        "left": [
+            "Actual",
+            "Normal",
+            "Standard",
+            "Extended normal"
+        ],
+        "right": [
+            "All actual",
+            "Applied overhead",
+            "Predetermined",
+            "Hybrid"
+        ]
+    },
+    {
+        "q": "What is extended normal costing?",
+        "type": "mcq",
+        "o": [
+            "Using budgeted rates for direct costs too",
+            "Normal costing",
+            "Actual costing",
+            "No costing"
+        ]
+    },
+    {
+        "q": "Extended normal uses predetermined rates for all direct ______.",
+        "type": "fill_blank",
+        "answers": [
+            "costs"
+        ],
+        "other_options": [
+            "revenues",
+            "profits",
+            "assets"
+        ]
+    },
+    {
+        "q": "What is proration of variances?",
+        "type": "mcq",
+        "o": [
+            "Allocating variances to WIP, FG, and COGS",
+            "Single account",
+            "No allocation",
+            "Random distribution"
+        ]
+    },
+    {
+        "q": "Material variances may be prorated to inventory accounts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is variance investigation policy?",
+        "type": "mcq",
+        "o": [
+            "Guidelines for determining which variances to investigate",
+            "Investigate all",
+            "Investigate none",
+            "Random selection"
+        ]
+    },
+    {
+        "q": "Match the variance policies:",
+        "type": "match",
+        "left": [
+            "Materiality",
+            "Trend",
+            "Controllability",
+            "Cost-benefit"
+        ],
+        "right": [
+            "Significant amount",
+            "Pattern",
+            "Manager influence",
+            "Analysis value"
+        ]
+    },
+    {
+        "q": "What is statistical process control?",
+        "type": "mcq",
+        "o": [
+            "Using statistical methods to monitor process variation",
+            "No monitoring",
+            "Random checks",
+            "Manual only"
+        ]
+    },
+    {
+        "q": "SPC identifies out-of-control ______.",
+        "type": "fill_blank",
+        "answers": [
+            "processes"
+        ],
+        "other_options": [
+            "costs",
+            "revenues",
+            "profits"
+        ]
+    },
+    {
+        "q": "What is control chart?",
+        "type": "mcq",
+        "o": [
+            "Graph showing process variation over time",
+            "No chart",
+            "Random graph",
+            "Financial chart"
+        ]
+    },
+    {
+        "q": "Control charts have upper and lower control limits.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is process capability?",
+        "type": "mcq",
+        "o": [
+            "Ability of process to meet specifications",
+            "No ability",
+            "Random capability",
+            "Unlimited"
+        ]
+    },
+    {
+        "q": "Match the quality metrics:",
+        "type": "match",
+        "left": [
+            "Capability",
+            "Defect rate",
+            "Yield",
+            "DPMO"
+        ],
+        "right": [
+            "Specification fit",
+            "Failure percentage",
+            "Good output",
+            "Defects per million"
+        ]
+    },
+    {
+        "q": "What is capacity utilization rate?",
+        "type": "mcq",
+        "o": [
+            "Actual output as percentage of capacity",
+            "Maximum always",
+            "No utilization",
+            "Random rate"
+        ]
+    },
+    {
+        "q": "Utilization rate indicates efficiency of resource ______.",
+        "type": "fill_blank",
+        "answers": [
+            "use"
+        ],
+        "other_options": [
+            "waste",
+            "loss",
+            "damage"
+        ]
+    },
+    {
+        "q": "What is overall equipment effectiveness?",
+        "type": "mcq",
+        "o": [
+            "Measure of equipment performance combining availability, performance, and quality",
+            "Availability only",
+            "Performance only",
+            "No measure"
+        ]
+    },
+    {
+        "q": "OEE equals availability times performance times quality.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is cycle time?",
+        "type": "mcq",
+        "o": [
+            "Time to complete one unit of production",
+            "Setup time",
+            "Idle time",
+            "No time"
+        ]
+    },
+    {
+        "q": "Match the time metrics:",
+        "type": "match",
+        "left": [
+            "Cycle time",
+            "Lead time",
+            "Takt time",
+            "Setup time"
+        ],
+        "right": [
+            "Per unit",
+            "Order to delivery",
+            "Customer demand rate",
+            "Changeover"
+        ]
+    },
+    {
+        "q": "What is takt time?",
+        "type": "mcq",
+        "o": [
+            "Available time divided by customer demand",
+            "Cycle time",
+            "Lead time",
+            "Setup time"
+        ]
+    },
+    {
+        "q": "Takt time sets production pace to match customer ______.",
+        "type": "fill_blank",
+        "answers": [
+            "demand"
+        ],
+        "other_options": [
+            "supply",
+            "cost",
+            "price"
+        ]
+    },
+    {
+        "q": "What is cost variance analysis?",
+        "type": "mcq",
+        "o": [
+            "Analyzing differences between budgeted and actual costs",
+            "No analysis",
+            "Random review",
+            "Ignoring differences"
+        ]
+    },
+    {
+        "q": "Cost variance analysis identifies areas for improvement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is flexible budget variance?",
+        "type": "mcq",
+        "o": [
+            "Difference between actual and flexed budget",
+            "Static variance",
+            "No variance",
+            "Random difference"
+        ]
+    },
+    {
+        "q": "Match the variance components:",
+        "type": "match",
+        "left": [
+            "Price",
+            "Efficiency",
+            "Volume",
+            "Mix"
+        ],
+        "right": [
+            "Cost per unit",
+            "Usage per unit",
+            "Output level",
+            "Composition"
+        ]
+    },
+    {
+        "q": "What is sales volume variance?",
+        "type": "mcq",
+        "o": [
+            "Effect of actual versus budgeted sales quantity",
+            "Price variance",
+            "Cost variance",
+            "No variance"
+        ]
+    },
+    {
+        "q": "Sales volume variance uses budgeted contribution per ______.",
+        "type": "fill_blank",
+        "answers": [
+            "unit"
+        ],
+        "other_options": [
+            "period",
+            "day",
+            "month"
+        ]
+    },
+    {
+        "q": "What is sales price variance?",
+        "type": "mcq",
+        "o": [
+            "Effect of actual versus budgeted selling price",
+            "Volume variance",
+            "Cost variance",
+            "No variance"
+        ]
+    },
+    {
+        "q": "Sales price variance reflects pricing decisions impact.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is sales mix variance?",
+        "type": "mcq",
+        "o": [
+            "Effect of different product proportions than budgeted",
+            "Volume variance",
+            "Price variance",
+            "No variance"
+        ]
+    },
+    {
+        "q": "Match the sales variances:",
+        "type": "match",
+        "left": [
+            "Price",
+            "Volume",
+            "Mix",
+            "Quantity"
+        ],
+        "right": [
+            "Selling price",
+            "Units sold",
+            "Proportions",
+            "Market share"
+        ]
+    },
+    {
+        "q": "Sales mix variance uses product contribution ______.",
+        "type": "fill_blank",
+        "answers": [
+            "margins"
+        ],
+        "other_options": [
+            "costs",
+            "prices",
+            "expenses"
+        ]
+    },
+    {
+        "q": "What is cost leadership?",
+        "type": "mcq",
+        "o": [
+            "Achieving lowest cost position in industry",
+            "Premium pricing",
+            "Differentiation",
+            "Niche focus"
+        ]
+    },
+    {
+        "q": "Cost leadership creates sustainable competitive advantage.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is continuous improvement costing?",
+        "type": "mcq",
+        "o": [
+            "Ongoing cost reduction during production phase",
+            "One-time reduction",
+            "No reduction",
+            "Cost increase"
+        ]
+    },
+    {
+        "q": "Continuous improvement emphasizes incremental cost ______.",
+        "type": "fill_blank",
+        "answers": [
+            "reduction"
+        ],
+        "other_options": [
+            "increase",
+            "maintenance",
+            "stability"
+        ]
+    }
+]

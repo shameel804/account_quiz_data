@@ -1,0 +1,153 @@
+{
+    "id": "learn_intro",
+    "topicId": "intro",
+    "topicTitle": "Introduction to SAP ERP",
+    "description": "Master SAP ERP fundamentals including Overview of SAP and Modules, SAP FICO Introduction, SAP Interface and Navigation, and Master Data concepts",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "intro_1",
+            "type": "content",
+            "title": "Welcome to SAP ERP",
+            "content": "# Introduction to SAP ERP\n\nSAP (Systems, Applications, and Products) is the world's leading **Enterprise Resource Planning (ERP)** software, used by organizations worldwide to manage business operations.\n\n## What You Will Learn\n\n- **Overview of SAP and Modules** - Understanding the SAP landscape\n- **SAP FICO Introduction** - Finance and Controlling modules\n- **SAP Interface and Navigation** - Finding your way around\n- **Master Data** - Customer, Vendor, and GL Account management\n\n## Why SAP Matters\n\n| Statistic | Value |\n|-----------|-------|\n| Fortune 500 companies using SAP | 90%+ |\n| Countries with SAP installations | 180+ |\n| Active SAP users worldwide | 200+ million |\n| Industries served | All major sectors |\n\n## SAP in the Enterprise\n\n```\n+--------------------------------------------+\n|             SAP ERP SYSTEM                 |\n+--------------------------------------------+\n|  Finance | HR | Sales | Production | MM   |\n+--------------------------------------------+\n|         Integrated Database               |\n+--------------------------------------------+\n```\n\n> **SAP skills are valuable** - they open doors to global career opportunities!"
+        },
+        {
+            "id": "intro_2",
+            "type": "content",
+            "title": "What is ERP?",
+            "content": "# Understanding ERP Systems\n\n## What is ERP?\n\nEnterprise Resource Planning (ERP) is **integrated software** that manages core business processes in real-time.\n\n## The Problem ERP Solves\n\n### Before ERP:\n```\nFinance System --> No Integration <-- Sales System\n      |                                    |\n      v                                    v\n   Separate                            Separate\n   Database                            Database\n```\n\nProblems:\n- Data silos\n- Duplicate entry\n- Inconsistent information\n- Delayed reporting\n\n### With ERP:\n```\n+------------------------------------------+\n|   Finance   |   Sales   |   Production   |\n+------------------------------------------+\n|         Single Integrated Database       |\n+------------------------------------------+\n```\n\nBenefits:\n- Single source of truth\n- Real-time data\n- Streamlined processes\n- Better decision making\n\n## Core ERP Functions\n\n| Function | Purpose |\n|----------|--------|\n| Finance | Accounting, reporting, treasury |\n| HR | Payroll, recruitment, training |\n| Sales | Orders, pricing, customers |\n| Procurement | Purchasing, vendors, inventory |\n| Production | Planning, manufacturing |\n| Logistics | Warehousing, shipping |\n\n> **ERP integrates everything** for efficient operations!"
+        },
+        {
+            "id": "intro_3",
+            "type": "content",
+            "title": "SAP History and Evolution",
+            "content": "# SAP's Journey\n\n## Company History\n\n| Year | Milestone |\n|------|----------|\n| 1972 | Founded in Germany by 5 IBM engineers |\n| 1979 | SAP R/2 released (mainframe) |\n| 1992 | SAP R/3 released (client-server) |\n| 2004 | SAP NetWeaver introduced |\n| 2011 | SAP HANA in-memory database |\n| 2015 | S/4HANA next-generation suite |\n| 2020+ | Cloud-first strategy |\n\n## SAP Product Evolution\n\n### SAP R/3 (Legacy)\n- Client-server architecture\n- Traditional database\n- Still used by many companies\n\n### SAP ECC (Current for many)\n- Enhanced version of R/3\n- Additional functionality\n- Widespread adoption\n\n### S/4HANA (Future)\n- Built on HANA database\n- Simplified data model\n- Real-time analytics\n- Cloud and on-premise options\n\n## SAP Product Portfolio\n\n```\nSAP Business Suite\n    |\n    +-- S/4HANA (ERP core)\n    +-- SuccessFactors (HR)\n    +-- Ariba (Procurement)\n    +-- Concur (Travel/Expense)\n    +-- Customer Experience\n    +-- SAP Analytics Cloud\n```\n\n> **SAP continues to innovate** - stay current with the latest versions!"
+        },
+        {
+            "id": "intro_4",
+            "type": "content",
+            "title": "SAP Modules Overview",
+            "content": "# SAP Modules Explained\n\n## Major SAP Modules\n\n### Financial Modules\n\n| Module | Full Name | Purpose |\n|--------|-----------|--------|\n| **FI** | Financial Accounting | External reporting, GL, A/P, A/R |\n| **CO** | Controlling | Internal reporting, cost centers |\n| **TR** | Treasury | Cash management, investments |\n\n### Logistics Modules\n\n| Module | Full Name | Purpose |\n|--------|-----------|--------|\n| **MM** | Materials Management | Procurement, inventory |\n| **SD** | Sales and Distribution | Sales orders, billing |\n| **PP** | Production Planning | Manufacturing |\n| **WM** | Warehouse Management | Storage, picking |\n| **QM** | Quality Management | Inspections, certificates |\n\n### Human Resources\n\n| Module | Full Name | Purpose |\n|--------|-----------|--------|\n| **HR/HCM** | Human Capital Management | Payroll, personnel |\n\n### Technical Modules\n\n| Module | Full Name | Purpose |\n|--------|-----------|--------|\n| **ABAP** | Programming Language | Customization, reports |\n| **BASIS** | Administration | System configuration |\n\n## Module Integration\n\n```\n       SD (Sales Order)\n              |\n              v\n       MM (Delivery)  -->  FI (Invoice)\n              |                  |\n              v                  v\n       PP (Production)     CO (Cost Analysis)\n```\n\n> **All modules work together** as an integrated system!"
+        },
+        {
+            "id": "intro_quiz_1",
+            "type": "quiz",
+            "title": "SAP Modules Check",
+            "content": "Test your understanding of SAP modules!",
+            "quizQuestion": "Which SAP module handles procurement and inventory management?",
+            "quizOptions": [
+                "FI (Financial Accounting)",
+                "SD (Sales and Distribution)",
+                "MM (Materials Management)",
+                "PP (Production Planning)"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "intro_5",
+            "type": "content",
+            "title": "SAP FICO Introduction",
+            "content": "# SAP FICO Overview\n\n## What is SAP FICO?\n\nSAP FICO combines the **Financial Accounting (FI)** and **Controlling (CO)** modules, forming the financial backbone of SAP.\n\n## FI Module Components\n\n### General Ledger (GL)\n- Chart of accounts\n- Journal entries\n- Financial statements\n\n### Accounts Payable (AP)\n- Vendor management\n- Invoice processing\n- Payment processing\n\n### Accounts Receivable (AR)\n- Customer management\n- Billing\n- Collections\n\n### Asset Accounting (AA)\n- Fixed assets\n- Depreciation\n- Asset lifecycle\n\n### Bank Accounting\n- Bank reconciliation\n- Cash management\n\n## CO Module Components\n\n| Component | Purpose |\n|-----------|--------|\n| Cost Element Accounting | Define cost types |\n| Cost Center Accounting | Track departmental costs |\n| Internal Orders | Track project costs |\n| Profit Center Accounting | Profitability by segment |\n| Product Costing | Calculate product costs |\n\n## FI vs CO\n\n| Aspect | FI | CO |\n|--------|-----|------|\n| Focus | External | Internal |\n| Users | Shareholders, auditors | Managers |\n| Reports | Balance sheet, P&L | Cost reports |\n| Legal | Mandatory | Optional |\n\n> **FICO is one of the most in-demand SAP skills!**"
+        },
+        {
+            "id": "intro_6",
+            "type": "content",
+            "title": "SAP System Landscape",
+            "content": "# SAP System Architecture\n\n## Three-Tier Architecture\n\n```\n+------------------+\n| Presentation     |  <-- SAP GUI, Browser\n+------------------+\n         |\n+------------------+\n| Application      |  <-- SAP Application Server\n+------------------+\n         |\n+------------------+\n| Database         |  <-- Oracle, HANA, SQL Server\n+------------------+\n```\n\n## System Landscape (DEV-QA-PROD)\n\n### Development (DEV)\n- Configuration and customization\n- Custom program development\n- Initial testing\n\n### Quality Assurance (QA)\n- Integration testing\n- User acceptance testing\n- Performance testing\n\n### Production (PROD)\n- Live business operations\n- Real transactions\n- Protected environment\n\n## Transport System\n\n```\nDEV --> QA --> PROD\n   ^       ^\n   |       |\nTransport Requests move changes\n```\n\n## Client Concept\n\nWithin each system, separate clients:\n\n| Client | Purpose |\n|--------|--------|\n| 000 | SAP reference |\n| 001 | Customer copy |\n| 100+ | Custom clients |\n\nEach client has **independent data** but shares code.\n\n> **Understand the landscape** before making changes!"
+        },
+        {
+            "id": "intro_7",
+            "type": "content",
+            "title": "SAP GUI Navigation",
+            "content": "# SAP Interface and Navigation\n\n## SAP GUI (Graphical User Interface)\n\nThe traditional way to access SAP:\n\n```\n+--------------------------------------------------+\n| [Menu Bar]  [Standard Toolbar]  [Title Bar]     |\n+--------------------------------------------------+\n| Command Field: [________________]               |\n+--------------------------------------------------+\n|                                                  |\n|     Application Screen Area                     |\n|                                                  |\n|                                                  |\n+--------------------------------------------------+\n| [Status Bar]                          [System]  |\n+--------------------------------------------------+\n```\n\n## Key Navigation Elements\n\n### Command Field (Transaction Code)\nDirect access using transaction codes:\n\n| Code | Function |\n|------|----------|\n| FB01 | Post document |\n| FB03 | Display document |\n| FS00 | GL account master |\n| XK01 | Create vendor |\n| XD01 | Create customer |\n\n### Menu Path\nAlternative navigation through menus:\n```\nAccounting > Financial Accounting > General Ledger\n```\n\n### Favorites\n- Add frequently used transactions\n- Organize in folders\n- Right-click to add\n\n## Useful Keyboard Shortcuts\n\n| Shortcut | Action |\n|----------|--------|\n| Enter | Confirm entry |\n| F3 | Back |\n| F8 | Execute |\n| Ctrl+S | Save |\n| /n | New session |\n| /nXXXX | New transaction |\n\n> **Learn transaction codes** - they make you much faster!"
+        },
+        {
+            "id": "intro_8",
+            "type": "content",
+            "title": "SAP Fiori Interface",
+            "content": "# SAP Fiori - Modern Interface\n\n## What is SAP Fiori?\n\nSAP Fiori is a **modern, role-based user experience** that provides a consistent, personalized interface.\n\n## Fiori vs Traditional GUI\n\n| Aspect | SAP GUI | SAP Fiori |\n|--------|---------|----------|\n| Interface | Desktop application | Web browser |\n| Design | Transaction-based | Role-based tiles |\n| Device | PC only | Any device |\n| Complexity | Full functionality | Simplified |\n| Learning curve | Steep | Gentle |\n\n## Fiori App Types\n\n### Transactional Apps\n- Create, change, delete data\n- Similar to traditional transactions\n\n### Analytical Apps\n- Dashboards and reports\n- Real-time insights\n- Interactive charts\n\n### Fact Sheets\n- 360-degree view of objects\n- Customer, vendor, material info\n\n## Fiori Launchpad\n\n```\n+------------------------------------------+\n| [Search] [Notifications] [Settings]      |\n+------------------------------------------+\n|                                          |\n|  [Tile 1]  [Tile 2]  [Tile 3]  [Tile 4] |\n|                                          |\n|  [Tile 5]  [Tile 6]  [Tile 7]  [Tile 8] |\n|                                          |\n|        Role-Based Dashboard              |\n+------------------------------------------+\n```\n\nTiles show:\n- Transaction shortcuts\n- KPIs and counts\n- Alerts and notifications\n\n> **Fiori is the future** of SAP user experience!"
+        },
+        {
+            "id": "intro_quiz_2",
+            "type": "quiz",
+            "title": "Navigation Quiz",
+            "content": "Test your SAP navigation knowledge!",
+            "quizQuestion": "What is the fastest way to access a specific function in SAP GUI?",
+            "quizOptions": [
+                "Navigate through menus",
+                "Use the Help function",
+                "Enter a transaction code in the command field",
+                "Click on toolbar icons"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "intro_9",
+            "type": "content",
+            "title": "Understanding Master Data",
+            "content": "# Master Data Concepts\n\n## What is Master Data?\n\nMaster data is **core business data** that remains relatively constant and is used across multiple transactions.\n\n## Characteristics of Master Data\n\n| Characteristic | Description |\n|----------------|-------------|\n| **Persistence** | Stored long-term |\n| **Centrality** | Used by multiple modules |\n| **Stability** | Changes infrequently |\n| **Consistency** | Single source of truth |\n\n## Master Data vs Transaction Data\n\n| Master Data | Transaction Data |\n|-------------|------------------|\n| Customer | Sales order |\n| Vendor | Purchase order |\n| Material | Goods receipt |\n| GL Account | Journal entry |\n| Cost Center | Cost allocation |\n| Employee | Time entry |\n\n## Key Master Data Objects\n\n### Customer Master\n- Who we sell to\n- General, company code, sales data\n\n### Vendor Master\n- Who we buy from\n- General, company code, purchasing data\n\n### Material Master\n- What we buy, make, sell\n- Basic, purchasing, sales, accounting views\n\n### GL Account Master\n- Chart of accounts\n- Account types and properties\n\n### Cost Center Master\n- Organizational units for cost tracking\n- Hierarchy and responsibility\n\n> **Clean master data** is essential for accurate transactions!"
+        },
+        {
+            "id": "intro_10",
+            "type": "content",
+            "title": "Customer Master Data",
+            "content": "# Customer Master in SAP\n\n## Structure: Three Levels\n\n### 1. General Data (Client Level)\n- Name and address\n- Communication details\n- Tax information\n- Valid across all company codes and sales areas\n\n### 2. Company Code Data\n- Account management information\n- Payment terms\n- Dunning (collection) procedures\n- Reconciliation account\n\n### 3. Sales Area Data\n- Sales organization specific\n- Distribution channel\n- Division\n- Pricing, shipping, billing settings\n\n## Key Transaction Codes\n\n| TCode | Function |\n|-------|----------|\n| XD01 | Create customer (all views) |\n| XD02 | Change customer |\n| XD03 | Display customer |\n| VD01 | Create customer (sales) |\n| FD01 | Create customer (FI) |\n\n## Customer Account Groups\n\nDefine:\n- Number range\n- Field status (required/optional/hidden)\n- Partner functions\n\n| Group | Example |\n|-------|--------|\n| Sold-to | Order placement |\n| Ship-to | Delivery address |\n| Bill-to | Invoice recipient |\n| Payer | Payment responsibility |\n\n> **Complete customer data** enables smooth order processing!"
+        },
+        {
+            "id": "intro_11",
+            "type": "content",
+            "title": "Vendor Master Data",
+            "content": "# Vendor Master in SAP\n\n## Structure: Three Levels\n\n### 1. General Data (Client Level)\n- Name and address\n- Contact information\n- Tax registration\n- Control data\n\n### 2. Company Code Data\n- Payment terms\n- Payment methods\n- Correspondence settings\n- Reconciliation account\n\n### 3. Purchasing Organization Data\n- Order currency\n- Incoterms\n- Purchasing conditions\n- Partner roles\n\n## Key Transaction Codes\n\n| TCode | Function |\n|-------|----------|\n| XK01 | Create vendor (all views) |\n| XK02 | Change vendor |\n| XK03 | Display vendor |\n| MK01 | Create vendor (purchasing) |\n| FK01 | Create vendor (FI) |\n\n## Vendor Account Groups\n\n| Group | Example |\n|-------|--------|\n| Standard | Regular suppliers |\n| One-time | Infrequent purchases |\n| Intercompany | Affiliated companies |\n| Contractor | Service providers |\n\n## Important Fields\n\n| Field | Purpose |\n|-------|--------|\n| Recon Account | Links to GL |\n| Payment Terms | When to pay |\n| Payment Method | How to pay |\n| Order Currency | Transaction currency |\n\n> **Accurate vendor data** ensures proper payments and relationships!"
+        },
+        {
+            "id": "intro_12",
+            "type": "content",
+            "title": "GL Account Master Data",
+            "content": "# General Ledger Accounts in SAP\n\n## Two-Level Structure\n\n### Chart of Accounts Level (COA)\n- Account number\n- Account name\n- Account group\n- P&L or Balance Sheet indicator\n\n### Company Code Level\n- Currency\n- Tax category\n- Reconciliation account type\n- Field status group\n\n## Key Transaction Codes\n\n| TCode | Function |\n|-------|----------|\n| FS00 | GL account centrally |\n| FSP0 | GL in chart of accounts |\n| FSS0 | GL in company code |\n| FS10N | GL account balance display |\n\n## Account Types\n\n| Type | Description |\n|------|-------------|\n| **Balance Sheet** | Assets, liabilities, equity |\n| **P&L** | Revenue, expenses |\n| **Primary Cost** | Costs from FI |\n| **Secondary Cost** | Internal allocations |\n\n## Reconciliation Accounts\n\nSpecial GL accounts linked to subledgers:\n\n| Subledger | Recon Account |\n|-----------|---------------|\n| Customer (AR) | Trade receivables |\n| Vendor (AP) | Trade payables |\n| Asset | Fixed assets |\n\n## Chart of Accounts\n\n```\nCOA: CAUS (US Chart)\n  |\n  +-- 1xxxxx Assets\n  +-- 2xxxxx Liabilities\n  +-- 3xxxxx Equity\n  +-- 4xxxxx Revenue\n  +-- 5xxxxx Expenses\n```\n\n> **Well-organized GL accounts** are foundation of good reporting!"
+        },
+        {
+            "id": "intro_quiz_3",
+            "type": "quiz",
+            "title": "Master Data Quiz",
+            "content": "Test your master data knowledge!",
+            "quizQuestion": "Which transaction code is used to create a vendor in SAP?",
+            "quizOptions": [
+                "XD01",
+                "XK01",
+                "FS00",
+                "MM01"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "intro_13",
+            "type": "content",
+            "title": "Organizational Structure",
+            "content": "# SAP Organizational Structure\n\n## Enterprise Structure Hierarchy\n\n```\nClient (000, 100, etc.)\n    |\n    +-- Company Code (1000, 2000)\n    |       |\n    |       +-- Business Area\n    |       +-- Plant\n    |       +-- Purchasing Org\n    |\n    +-- Controlling Area\n            |\n            +-- Cost Centers\n            +-- Profit Centers\n```\n\n## Key Organizational Units\n\n### Client\n- Highest level\n- Represents the entire enterprise\n- Master data can be client-level\n\n### Company Code\n- Legal entity\n- Independent balance sheet\n- Required for FI transactions\n\n### Business Area\n- Optional segment reporting\n- Across company codes\n\n### Plant\n- Manufacturing/distribution location\n- Inventory management\n\n### Controlling Area\n- Internal reporting unit\n- Can span company codes\n\n## FI vs CO Organization\n\n| FI Structure | CO Structure |\n|--------------|---------------|\n| Company Code | Controlling Area |\n| Business Area | Cost Center |\n| Segment | Profit Center |\n\n## Assignment Relationship\n\n```\nControlling Area --> Company Code(s)\n     |\n     +-- Operating Concern\n```\n\n> **Understand the structure** before configuring SAP!"
+        },
+        {
+            "id": "intro_14",
+            "type": "content",
+            "title": "SAP Document Concept",
+            "content": "# Document Principle in SAP\n\n## What is a Document?\n\nEvery transaction in SAP creates a **document** - a complete, auditable record of the business event.\n\n## Document Types\n\n### FI Documents\n| Type | Purpose |\n|------|--------|\n| SA | GL posting |\n| KR | Vendor invoice |\n| KZ | Vendor payment |\n| DR | Customer invoice |\n| DZ | Customer payment |\n\n### MM Documents\n| Type | Purpose |\n|------|--------|\n| GR | Goods receipt |\n| GI | Goods issue |\n| PO | Purchase order |\n\n### SD Documents\n| Type | Purpose |\n|------|--------|\n| SO | Sales order |\n| DN | Delivery |\n| BI | Billing |\n\n## Document Number\n\n```\nDocument Number: 1000000001\nCompany Code: 1000\nFiscal Year: 2024\n\nUnique Key: 1000000001 / 1000 / 2024\n```\n\n## Document Structure\n\n```\n+------------------------+\n| Document Header        |\n| - Date, Doc Type       |\n| - Reference, Text      |\n+------------------------+\n| Line Item 1           |\n| - Account, Amount     |\n+------------------------+\n| Line Item 2           |\n| - Account, Amount     |\n+------------------------+\n| (Debits = Credits)    |\n+------------------------+\n```\n\n> **Every business event leaves a document trail!**"
+        },
+        {
+            "id": "intro_15",
+            "type": "content",
+            "title": "SAP Reporting Basics",
+            "content": "# Reporting in SAP\n\n## Types of Reports\n\n### Standard Reports\nPre-built SAP reports:\n\n| TCode | Report |\n|-------|--------|\n| FS10N | GL account balance |\n| FBL1N | Vendor line items |\n| FBL5N | Customer line items |\n| S_ALR_87012293 | Financial statements |\n\n### Custom Reports\n- Created using ABAP\n- Query tools (SAP Query, QuickViewer)\n- Report Painter/Writer\n\n### ALV Reports\nSAP List Viewer features:\n- Sorting and filtering\n- Column selection\n- Export to Excel\n- Layout saving\n\n## Report Navigation\n\n### Drill-Down\nClick totals to see details:\n```\nTotal Revenue --> By Customer --> By Invoice\n```\n\n### Report Variants\nSave selection criteria:\n- Date ranges\n- Company codes\n- Filters\n\n## Common Report Paths\n\n### Financial Reports\n```\nAccounting > Financial Accounting > \n    General Ledger > Information System\n```\n\n### Controlling Reports\n```\nAccounting > Controlling > \n    Cost Center Accounting > Information System\n```\n\n> **Learn standard reports** before creating custom ones!"
+        },
+        {
+            "id": "intro_16",
+            "type": "content",
+            "title": "SAP Career Opportunities",
+            "content": "# SAP Career Paths\n\n## Common SAP Roles\n\n### Functional Consultant\n- Configure SAP modules\n- Gather business requirements\n- Design solutions\n- Train users\n\n### Technical Consultant\n- ABAP programming\n- Integration development\n- Technical troubleshooting\n\n### Basis Administrator\n- System installation\n- Performance tuning\n- Security management\n- Transport management\n\n## SAP Certifications\n\n| Level | Focus |\n|-------|-------|\n| Associate | Module fundamentals |\n| Professional | Advanced topics |\n| Specialist | Specific solutions |\n\n## Career Progression\n\n```\nJunior Consultant (0-2 years)\n        |\n        v\nConsultant (2-5 years)\n        |\n        v\nSenior Consultant (5-8 years)\n        |\n        v\nSolution Architect (8+ years)\n        |\n        v\nProgram Manager/Director\n```\n\n## In-Demand SAP Skills\n\n| Skill | Demand |\n|-------|--------|\n| S/4HANA | Very High |\n| SAP FICO | High |\n| SAP MM/SD | High |\n| SAP Integration (CPI) | Growing |\n| SAP Analytics | Growing |\n\n> **SAP skills offer excellent career opportunities!**"
+        },
+        {
+            "id": "intro_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **Introduction to SAP ERP** lesson!\n\n## Key Concepts Mastered\n\n### SAP Overview\n- World's leading ERP system\n- Integrated modules for all business functions\n- Three-tier architecture (Presentation, Application, Database)\n\n### SAP Modules\n- **FI** - Financial Accounting (external)\n- **CO** - Controlling (internal)\n- **MM** - Materials Management\n- **SD** - Sales and Distribution\n- **PP** - Production Planning\n\n### Navigation\n- SAP GUI with transaction codes\n- SAP Fiori modern interface\n- DEV-QA-PROD system landscape\n\n### Master Data\n- Customer, Vendor, Material masters\n- GL Account master\n- Organizational structure\n\n## Quick Reference\n\n| Concept | Key Point |\n|---------|----------|\n| ERP | Integrated business software |\n| FICO | Finance + Controlling |\n| Transaction Code | Fast navigation |\n| Master Data | Core reusable data |\n\n## What is Next?\n\nExplore:\n- SAP Financial Accounting (FI) in depth\n- SAP Controlling (CO) module\n- Specific transactions and processes\n\n> **You have taken the first step** in your SAP journey!"
+        }
+    ]
+}

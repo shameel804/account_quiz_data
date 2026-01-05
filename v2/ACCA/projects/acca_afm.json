@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Advanced Investment Appraisal 📊",
+        "ques": "How should **inflation** be handled in NPV calculations?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Two Approaches**:\n1. **Money (nominal)**: Use inflated cash flows with money cost of capital\n2. **Real**: Use today's prices with real cost of capital\n\n**Fisher Formula**: (1+money rate) = (1+real rate) x (1+inflation)\n\nEnsure ***consistency*** - don't mix real flows with nominal rate"
+        },
+        "explanation": "Inflation may affect revenues and costs at different rates. Tax reliefs are typically ***nominal***."
+    },
+    {
+        "title": "APV Approach 🧮",
+        "ques": "What is **Adjusted Present Value (APV)** and when is it used?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**APV** = Base case NPV + PV of financing side effects\n\n**Base case**: Discount at ungeared cost of equity\n\n**Financing effects**:\n* Tax shield on debt\n* Issue costs\n* Subsidised loans\n\n**Use when**: Capital structure changes significantly"
+        },
+        "explanation": "Separates ***investment*** decision from ***financing*** decision."
+    },
+    {
+        "title": "Real Options 🎲",
+        "ques": "What are **real options** in investment decisions?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Types of Real Options**:\n* Option to delay/defer investment\n* Option to expand\n* Option to abandon\n* Option to switch (inputs/outputs)\n\n**Value**: Flexibility has value not captured in basic NPV"
+        },
+        "explanation": "Traditional NPV may ***undervalue*** projects with significant flexibility."
+    },
+    {
+        "title": "Mergers and Acquisitions 🤝",
+        "ques": "What are the **sources of value** in mergers?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Synergies**:\n* Revenue synergies (cross-selling, market power)\n* Cost synergies (economies of scale, eliminating duplication)\n* Financial synergies (lower cost of capital, tax benefits)\n\n**Value Created** = Post-merger value - Sum of standalone values"
+        },
+        "explanation": "Synergies often ***overestimated***. Integration challenges may destroy value."
+    },
+    {
+        "title": "Valuation Methods 💰",
+        "ques": "Compare **asset-based**, **income-based**, and **market-based** valuations.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Asset-based**: Book value, replacement cost, liquidation value\n* *Use*: Asset-intensive businesses\n\n**Income-based**: DCF, dividend growth model, earnings capitalisation\n* *Use*: Going concerns with predictable cash flows\n\n**Market-based**: P/E ratio, EV/EBITDA comparables\n* *Use*: Quoted companies with comparable peers"
+        },
+        "explanation": "Use ***multiple methods*** and triangulate. Each has limitations."
+    },
+    {
+        "title": "Corporate Reconstruction 🔧",
+        "ques": "What are the **options for financial distress**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Options**:\n* Debt restructuring (extend maturity, reduce rate)\n* Debt-equity swaps\n* Asset sales\n* Rights issues\n* Sale of business\n* Administration/liquidation\n\n**Creditor negotiation**: Key to agreed solutions"
+        },
+        "explanation": "***Going concern*** value usually exceeds liquidation value. Work with stakeholders."
+    },
+    {
+        "title": "Treasury Management 🏦",
+        "ques": "What are the **objectives of treasury management**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Objectives**:\n* Liquidity management\n* Funding/capital management\n* Risk management (FX, interest rate)\n* Corporate finance support\n* Banking relationships\n\n**Centralised vs Decentralised**: Trade-offs in control vs responsiveness"
+        },
+        "explanation": "Treasury is ***cost centre*** or ***profit centre*** depending on mandate."
+    },
+    {
+        "title": "Currency Hedging 🌍",
+        "ques": "Explain **forward contracts** vs **currency options** for hedging.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Forward Contract**:\n* Fix rate for future transaction\n* Obligation to transact\n* No upfront cost\n* Gives up upside/downside\n\n**Currency Option**:\n* Right, not obligation\n* Premium cost upfront\n* Retains upside potential\n* Protects against downside"
+        },
+        "explanation": "Options suit ***uncertain*** exposures. Forwards suit ***certain*** exposures."
+    },
+    {
+        "title": "Interest Rate Swaps 🔄",
+        "ques": "How does an **interest rate swap** work?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Plain Vanilla Swap**:\n* Exchange fixed for floating interest payments\n* Notional principal not exchanged\n* Net settlement of differences\n\n**Uses**:\n* Convert floating debt to fixed (or vice versa)\n* Exploit comparative advantage"
+        },
+        "explanation": "***Comparative advantage*** allows both parties to benefit from swap."
+    },
+    {
+        "title": "Black-Scholes Model ⚙️",
+        "ques": "What are the **inputs** to the Black-Scholes option pricing model?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Five Inputs**:\n1. Current asset price (S)\n2. Exercise price (X)\n3. Time to expiry (T)\n4. Risk-free rate (r)\n5. Volatility (sigma)\n\n**Assumptions**: European option, no dividends, constant volatility"
+        },
+        "explanation": "Higher volatility = higher option value. Used for ***employee share options*** valuation."
+    },
+    {
+        "title": "International Investment 🌐",
+        "ques": "What additional **risks** arise in international projects?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Country Risks**:\n* Political risk (expropriation, regulation changes)\n* Economic risk (inflation, recession)\n* Exchange rate risk\n* Repatriation restrictions\n* Cultural/legal differences\n\n**Adjustments**: Higher discount rate or explicit cash flow adjustments"
+        },
+        "explanation": "Political risk insurance may be available. ***Country risk premiums*** added to WACC."
+    },
+    {
+        "title": "Behavioural Finance 🧠",
+        "ques": "What are common **behavioural biases** in financial decision-making?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Biases**:\n* Overconfidence (overestimate own abilities)\n* Anchoring (over-rely on first information)\n* Herding (follow the crowd)\n* Loss aversion (prefer avoiding losses to gains)\n* Confirmation bias (seek supporting evidence)"
+        },
+        "explanation": "Awareness of biases can improve ***decision quality***."
+    },
+    {
+        "title": "Dividend Policy: Advanced 💵",
+        "ques": "What factors influence **dividend policy** in practice?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Factors**:\n* Legal constraints\n* Debt covenants\n* Investment opportunities\n* Tax considerations\n* Shareholders' preferences\n* Earnings stability\n* Control considerations"
+        },
+        "explanation": "Companies generally prefer ***stable dividends***. Cuts are negative signal."
+    },
+    {
+        "title": "Ethics in Finance 🎭",
+        "ques": "What **ethical issues** arise in corporate finance?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Issues**:\n* Aggressive tax planning\n* Executive compensation\n* Short-termism vs long-term value\n* Stakeholder vs shareholder focus\n* Environmental/social costs\n* Information asymmetry exploitation"
+        },
+        "explanation": "Professional accountants must balance ***commercial*** and ***ethical*** considerations."
+    },
+    {
+        "title": "Cost of Capital: Advanced 📈",
+        "ques": "How do you **adjust cost of capital** for different risk levels?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Approaches**:\n* Use proxy beta from similar company/industry\n* Ungear proxy beta, regear for target capital structure\n* Add risk premium to base WACC\n* Monte Carlo simulation for risk assessment\n\n**Hamada equation**: Links geared and ungeared betas"
+        },
+        "explanation": "Company WACC only appropriate for projects with ***similar risk*** to existing business."
+    }
+]

@@ -1,0 +1,143 @@
+{
+    "id": "learn_cima_ba3",
+    "topicId": "cima_ba3",
+    "topicTitle": "BA3 - Fundamentals of Financial Accounting",
+    "description": "Master CIMA BA3 covering Double Entry, Financial Statements, and Accounting Standards",
+    "baseKP": 50,
+    "slides": [
+        {
+            "id": "ba3_1",
+            "type": "content",
+            "title": "Welcome to CIMA BA3",
+            "content": "# BA3 - Fundamentals of Financial Accounting\n\nBA3 covers **financial accounting** fundamentals.\n\n## What You Will Learn\n\n- **Double Entry** - Bookkeeping\n- **Financial Statements** - Preparation\n- **Adjustments** - Period end\n- **Standards** - Framework\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Concepts | 15% |\n| Recording | 35% |\n| Preparation | 35% |\n| Other | 15% |"
+        },
+        {
+            "id": "ba3_2",
+            "type": "content",
+            "title": "Accounting Equation",
+            "content": "# Foundation of Accounting\n\n## The Equation\n\n```\nAssets = Liabilities + Equity\n```\n\n## Expanded\n\n```\nAssets = Liabilities + Capital + Revenue - Expenses\n```\n\n## Elements\n\n| Element | Definition |\n|---------|------------|\n| Asset | Future economic benefit |\n| Liability | Present obligation |\n| Equity | Residual interest |"
+        },
+        {
+            "id": "ba3_3",
+            "type": "content",
+            "title": "Double Entry System",
+            "content": "# Recording Transactions\n\n## Rules\n\n| Account Type | Debit | Credit |\n|--------------|-------|--------|\n| Assets | Increase | Decrease |\n| Liabilities | Decrease | Increase |\n| Equity | Decrease | Increase |\n| Income | Decrease | Increase |\n| Expenses | Increase | Decrease |\n\n## Journal Entry\n\n```\nDr Account X\nCr Account Y\n\nDebits = Credits\n```"
+        },
+        {
+            "id": "ba3_quiz_1",
+            "type": "quiz",
+            "title": "Double Entry Quiz",
+            "content": "Test your double entry knowledge!",
+            "quizQuestion": "To increase an asset, you?",
+            "quizOptions": [
+                "Credit",
+                "Debit",
+                "Either",
+                "Neither"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ba3_4",
+            "type": "content",
+            "title": "Trial Balance",
+            "content": "# Proving Accuracy\n\n## Purpose\n\n- Lists all account balances\n- Debits should equal credits\n- Identifies errors\n\n## Format\n\n```\nAccount | Debit | Credit\n--------|-------|--------\nAssets  | X     |\nLiabs   |       | X\nIncome  |       | X\nExpenses| X     |\n--------|-------|--------\nTotal   | XX    | XX\n```\n\n## Errors Not Revealed\n\n- Omission\n- Commission\n- Principle\n- Original entry\n- Compensating"
+        },
+        {
+            "id": "ba3_5",
+            "type": "content",
+            "title": "Statement of Profit or Loss",
+            "content": "# Income Statement\n\n## Format\n\n```\nRevenue\n- Cost of Sales\n= Gross Profit\n- Expenses\n= Operating Profit\n+/- Other items\n= Profit Before Tax\n- Tax\n= Profit for the Year\n```\n\n## Cost of Sales\n\n```\nOpening Inventory\n+ Purchases\n- Closing Inventory\n= Cost of Sales\n```"
+        },
+        {
+            "id": "ba3_6",
+            "type": "content",
+            "title": "Statement of Financial Position",
+            "content": "# Balance Sheet\n\n## Format\n\n```\nNon-Current Assets\n+ Current Assets\n= Total Assets\n\nEquity\n+ Non-Current Liabilities\n+ Current Liabilities\n= Total Equity & Liabilities\n```\n\n## Current vs Non-Current\n\n| Current | Non-Current |\n|---------|-------------|\n| < 12 months | > 12 months |\n| Operating cycle | Long-term |"
+        },
+        {
+            "id": "ba3_quiz_2",
+            "type": "quiz",
+            "title": "Statement Quiz",
+            "content": "Test your financial statement knowledge!",
+            "quizQuestion": "Gross profit equals revenue minus?",
+            "quizOptions": [
+                "Expenses",
+                "Cost of sales",
+                "Tax",
+                "Dividends"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ba3_7",
+            "type": "content",
+            "title": "Accruals and Prepayments",
+            "content": "# Period-End Adjustments\n\n## Accruals\n\n```\nExpense incurred but not paid\n\nDr Expense\nCr Accruals (liability)\n```\n\n## Prepayments\n\n```\nExpense paid in advance\n\nDr Prepayments (asset)\nCr Expense\n```\n\n## Matching Principle\n\n```\nMatch income with related expenses\nin the same period\n```"
+        },
+        {
+            "id": "ba3_8",
+            "type": "content",
+            "title": "Depreciation",
+            "content": "# Asset Value Reduction\n\n## Methods\n\n| Method | Pattern |\n|--------|--------|\n| Straight-line | Even |\n| Reducing balance | Declining |\n\n## Straight-Line\n\n```\nDepreciation = (Cost - Residual) / Life\n```\n\n## Reducing Balance\n\n```\nDepreciation = NBV x Rate %\n```\n\n## Entry\n\n```\nDr Depreciation Expense\nCr Accumulated Depreciation\n```"
+        },
+        {
+            "id": "ba3_9",
+            "type": "content",
+            "title": "Inventory Valuation",
+            "content": "# Stock Valuation\n\n## Rule\n\n```\nLower of Cost and NRV\n\nNRV = Selling Price - Costs to Complete/Sell\n```\n\n## Cost Methods\n\n| Method | Flow |\n|--------|------|\n| FIFO | First in first out |\n| Weighted Average | Average cost |\n\n## Impact\n\nClosing inventory affects both P&L and Balance Sheet."
+        },
+        {
+            "id": "ba3_quiz_3",
+            "type": "quiz",
+            "title": "Adjustment Quiz",
+            "content": "Test your adjustments knowledge!",
+            "quizQuestion": "An accrual represents an expense?",
+            "quizOptions": [
+                "Paid in advance",
+                "Not yet incurred",
+                "Incurred but not paid",
+                "Never to be paid"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ba3_10",
+            "type": "content",
+            "title": "Bad Debts and Allowances",
+            "content": "# Receivables Adjustments\n\n## Bad Debt Written Off\n\n```\nDr Bad Debt Expense\nCr Receivables\n```\n\n## Allowance for Doubtful Debts\n\n```\nCreate/Increase:\nDr Bad Debt Expense\nCr Allowance\n\nReduce:\nDr Allowance\nCr P&L\n```\n\n## Statement Impact\n\nReceivables shown net of allowance."
+        },
+        {
+            "id": "ba3_11",
+            "type": "content",
+            "title": "Bank Reconciliation",
+            "content": "# Reconciling Cash\n\n## Timing Differences\n\n| Item | Adjust |\n|------|--------|\n| Unpresented cheques | Bank statement |\n| Outstanding deposits | Bank statement |\n| Bank charges | Cash book |\n| Direct debits | Cash book |\n\n## Format\n\n```\nBank Statement Balance\n+ Outstanding deposits\n- Unpresented cheques\n= Adjusted Balance\n\n(Should equal Cash Book Balance)\n```"
+        },
+        {
+            "id": "ba3_12",
+            "type": "content",
+            "title": "Conceptual Framework",
+            "content": "# Accounting Framework\n\n## Qualitative Characteristics\n\n| Primary | Enhancing |\n|---------|----------|\n| Relevance | Comparability |\n| Faithful representation | Verifiability |\n| | Timeliness |\n| | Understandability |\n\n## Underlying Assumption\n\n- Going concern\n\n## Key Principles\n\n- Accrual basis\n- Materiality\n- Substance over form"
+        },
+        {
+            "id": "ba3_quiz_4",
+            "type": "quiz",
+            "title": "Framework Quiz",
+            "content": "Test your framework knowledge!",
+            "quizQuestion": "Going concern assumes business will?",
+            "quizOptions": [
+                "Close soon",
+                "Continue operating",
+                "Be sold",
+                "Liquidate"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ba3_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CIMA BA3 - Financial Accounting**!\n\n## Key Topics\n\n### Recording\n- Double entry\n- Journal entries\n- Trial balance\n\n### Statements\n- Income statement\n- Balance sheet\n\n### Adjustments\n- Accruals/prepayments\n- Depreciation\n- Bad debts\n\n### Framework\n- Concepts\n- Qualitative characteristics\n\n## Key Rules\n\n| Rule | Application |\n|------|-------------|\n| Assets = L + E | Equation |\n| Debits = Credits | Double entry |\n| Lower of cost/NRV | Inventory |\n\n## What is Next?\n\nExplore BA4 - Ethics, Governance & Law!"
+        }
+    ]
+}

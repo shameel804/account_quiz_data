@@ -1,0 +1,143 @@
+{
+    "id": "learn_cima_e1",
+    "topicId": "cima_e1",
+    "topicTitle": "E1 - Managing Finance in a Digital World",
+    "description": "Master CIMA E1 covering Digital Technology, Information Systems, and Operations Management",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "e1_1",
+            "type": "content",
+            "title": "Welcome to CIMA E1",
+            "content": "# E1 - Managing Finance in a Digital World\n\nE1 covers **technology** and **operations** management.\n\n## What You Will Learn\n\n- **Digital Tech** - Systems and data\n- **Information** - Management systems\n- **Operations** - Business processes\n- **Finance Function** - Modern role\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Digital environment | 25% |\n| Information systems | 30% |\n| Operations | 25% |\n| Finance function | 20% |"
+        },
+        {
+            "id": "e1_2",
+            "type": "content",
+            "title": "Digital Technologies",
+            "content": "# Emerging Technologies\n\n## Key Technologies\n\n| Technology | Application |\n|------------|-------------|\n| AI | Automation |\n| Blockchain | Transactions |\n| Cloud | Infrastructure |\n| IoT | Connected devices |\n| RPA | Process automation |\n\n## Cloud Computing\n\n| Model | Provides |\n|-------|----------|\n| IaaS | Infrastructure |\n| PaaS | Platform |\n| SaaS | Software |"
+        },
+        {
+            "id": "e1_3",
+            "type": "content",
+            "title": "Data and Analytics",
+            "content": "# Data Management\n\n## Big Data 5 Vs\n\n| V | Meaning |\n|---|--------|\n| Volume | Amount |\n| Velocity | Speed |\n| Variety | Types |\n| Veracity | Accuracy |\n| Value | Usefulness |\n\n## Analytics Types\n\n| Type | Question |\n|------|----------|\n| Descriptive | What happened? |\n| Diagnostic | Why? |\n| Predictive | What will? |\n| Prescriptive | What to do? |"
+        },
+        {
+            "id": "e1_quiz_1",
+            "type": "quiz",
+            "title": "Tech Quiz",
+            "content": "Test your digital knowledge!",
+            "quizQuestion": "RPA stands for Robotic Process?",
+            "quizOptions": [
+                "Application",
+                "Automation",
+                "Analysis",
+                "Architecture"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "e1_4",
+            "type": "content",
+            "title": "Cybersecurity",
+            "content": "# Security Considerations\n\n## Threats\n\n| Threat | Description |\n|--------|-------------|\n| Malware | Malicious software |\n| Phishing | Deceptive emails |\n| Ransomware | Encryption attack |\n| Social engineering | Human manipulation |\n\n## Controls\n\n| Control | Protection |\n|---------|------------|\n| Encryption | Data protection |\n| Firewalls | Network |\n| Authentication | Access |\n| Training | Awareness |"
+        },
+        {
+            "id": "e1_5",
+            "type": "content",
+            "title": "Information Systems",
+            "content": "# Business Systems\n\n## System Types\n\n| System | Level |\n|--------|-------|\n| TPS | Operational |\n| MIS | Management |\n| DSS | Decision |\n| EIS | Executive |\n\n## ERP Systems\n\n```\nIntegrated modules:\n- Finance\n- HR\n- Supply chain\n- Manufacturing\n```\n\n## Benefits\n\n- Single source of truth\n- Real-time data\n- Process standardization"
+        },
+        {
+            "id": "e1_6",
+            "type": "content",
+            "title": "Operations Management",
+            "content": "# Business Operations\n\n## Transformation Model\n\n```\nInputs -> Transformation -> Outputs\n```\n\n## Operations Objectives\n\n| Objective | Focus |\n|-----------|-------|\n| Quality | Standards |\n| Speed | Delivery |\n| Dependability | Reliability |\n| Flexibility | Adaptability |\n| Cost | Efficiency |"
+        },
+        {
+            "id": "e1_quiz_2",
+            "type": "quiz",
+            "title": "Operations Quiz",
+            "content": "Test your operations knowledge!",
+            "quizQuestion": "ERP stands for Enterprise Resource?",
+            "quizOptions": [
+                "Process",
+                "Planning",
+                "Program",
+                "Platform"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "e1_7",
+            "type": "content",
+            "title": "Quality Management",
+            "content": "# Quality Approaches\n\n## TQM Principles\n\n| Principle | Focus |\n|-----------|-------|\n| Customer focus | Satisfaction |\n| Continuous improvement | Kaizen |\n| Employee involvement | Everyone |\n| Process approach | Systems |\n\n## Six Sigma\n\n```\nDMAIC:\nDefine -> Measure -> Analyze -> Improve -> Control\n\n3.4 defects per million\n```"
+        },
+        {
+            "id": "e1_8",
+            "type": "content",
+            "title": "Lean Operations",
+            "content": "# Lean Thinking\n\n## Seven Wastes\n\n| Waste | Description |\n|-------|-------------|\n| Overproduction | Too much |\n| Waiting | Idle time |\n| Transport | Movement |\n| Processing | Over-processing |\n| Inventory | Excess stock |\n| Motion | Unnecessary |\n| Defects | Errors |\n\n## Lean Tools\n\n- 5S workplace\n- Kanban\n- Value stream mapping"
+        },
+        {
+            "id": "e1_9",
+            "type": "content",
+            "title": "Supply Chain",
+            "content": "# Supply Chain Management\n\n## Elements\n\n```\nSuppliers -> Company -> Customers\n```\n\n## Strategies\n\n| Strategy | Focus |\n|----------|-------|\n| Lean | Efficiency |\n| Agile | Responsiveness |\n| Leagile | Both |\n\n## Inventory Management\n\n| System | Pattern |\n|--------|--------|\n| JIT | Zero stock |\n| EOQ | Optimal order |\n| MRP | Requirements |"
+        },
+        {
+            "id": "e1_quiz_3",
+            "type": "quiz",
+            "title": "Quality Quiz",
+            "content": "Test your quality knowledge!",
+            "quizQuestion": "DMAIC is used in?",
+            "quizOptions": [
+                "TQM",
+                "Six Sigma",
+                "Lean",
+                "Kaizen"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "e1_10",
+            "type": "content",
+            "title": "Project Management",
+            "content": "# Managing Projects\n\n## Project Lifecycle\n\n```\nInitiation -> Planning -> Execution -> Closure\n```\n\n## Tools\n\n| Tool | Use |\n|------|-----|\n| Gantt chart | Timeline |\n| Critical path | Duration |\n| PERT | Probability |\n| WBS | Structure |\n\n## Success Factors\n\n- Clear objectives\n- Stakeholder buy-in\n- Resources\n- Communication"
+        },
+        {
+            "id": "e1_11",
+            "type": "content",
+            "title": "Finance Function",
+            "content": "# Modern Finance Role\n\n## Evolution\n\n| Traditional | Modern |\n|-------------|--------|\n| Transaction | Strategic |\n| Reporting | Insight |\n| Control | Business partner |\n\n## Finance Transformation\n\n| Area | Change |\n|------|--------|\n| Automation | RPA, AI |\n| Analytics | Data-driven |\n| Cloud | Systems |\n| Shared services | Efficiency |"
+        },
+        {
+            "id": "e1_12",
+            "type": "content",
+            "title": "Business Ethics",
+            "content": "# Ethical Considerations\n\n## CIMA Code\n\n| Principle | Meaning |\n|-----------|--------|\n| Integrity | Honest |\n| Objectivity | Unbiased |\n| Competence | Skilled |\n| Confidentiality | Protect |\n| Professional | Conduct |\n\n## Ethical Decision Making\n\n```\n1. Identify issue\n2. Gather facts\n3. Evaluate options\n4. Decide and act\n5. Review outcome\n```"
+        },
+        {
+            "id": "e1_quiz_4",
+            "type": "quiz",
+            "title": "Finance Quiz",
+            "content": "Test your finance function knowledge!",
+            "quizQuestion": "Modern finance is described as a business?",
+            "quizOptions": [
+                "Controller",
+                "Reporter",
+                "Partner",
+                "Auditor"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "e1_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CIMA E1 - Managing Finance in Digital World**!\n\n## Key Topics\n\n### Technology\n- Emerging tech\n- Data analytics\n- Cybersecurity\n\n### Information\n- Business systems\n- ERP integration\n\n### Operations\n- Quality management\n- Lean and Six Sigma\n- Supply chain\n\n### Finance\n- Modern finance role\n- Transformation\n\n## Key Concepts\n\n| Concept | Application |\n|---------|-------------|\n| RPA | Automation |\n| DMAIC | Quality |\n| JIT | Inventory |\n\n## What is Next?\n\nExplore P1 - Management Accounting!"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_fsa",
+    "topicId": "cma_fsa",
+    "topicTitle": "Financial Statement Analysis",
+    "description": "Master CMA financial analysis including Ratio Analysis, Trend Analysis, and Valuation",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "p2a_1",
+            "type": "content",
+            "title": "Welcome to Financial Statement Analysis",
+            "content": "# Financial Statement Analysis\n\nPart 2A covers **analyzing financial statements**.\n\n## What You Will Learn\n\n- **Ratio Analysis** - Key ratios\n- **Trend Analysis** - Over time\n- **Quality of Earnings** - Sustainability\n- **Valuation** - Business worth\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Ratios | Categories |\n| Trends | Patterns |\n| Earnings quality | Analysis |\n| Valuation | Methods |"
+        },
+        {
+            "id": "p2a_2",
+            "type": "content",
+            "title": "Liquidity Ratios",
+            "content": "# Liquidity Analysis\n\n## Key Ratios\n\n| Ratio | Formula |\n|-------|--------|\n| Current | CA / CL |\n| Quick | (CA - Inventory) / CL |\n| Cash | Cash / CL |\n\n## Interpretation\n\n| Ratio | Good Range |\n|-------|------------|\n| Current | 1.5 - 2.0 |\n| Quick | 1.0 or higher |\n\n## Working Capital\n\n```\nWorking Capital = Current Assets - Current Liabilities\n\nIndicates short-term financial health\n```"
+        },
+        {
+            "id": "p2a_3",
+            "type": "content",
+            "title": "Efficiency Ratios",
+            "content": "# Activity Ratios\n\n## Asset Turnover\n\n| Ratio | Formula |\n|-------|--------|\n| Asset turnover | Sales / Total Assets |\n| Receivables turnover | Sales / Avg Receivables |\n| Inventory turnover | COGS / Avg Inventory |\n| Payables turnover | COGS / Avg Payables |\n\n## Days Calculations\n\n```\nDays Sales Outstanding = 365 / Receivables Turnover\n\nDays Inventory = 365 / Inventory Turnover\n\nDays Payables = 365 / Payables Turnover\n```\n\n## Cash Conversion Cycle\n\n```\nDSO + Days Inventory - Days Payables\n= Cash Conversion Cycle\n```"
+        },
+        {
+            "id": "p2a_quiz_1",
+            "type": "quiz",
+            "title": "Liquidity Quiz",
+            "content": "Test your liquidity ratio knowledge!",
+            "quizQuestion": "The quick ratio excludes which current asset?",
+            "quizOptions": [
+                "Cash",
+                "Receivables",
+                "Inventory",
+                "Prepaid expenses"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p2a_4",
+            "type": "content",
+            "title": "Profitability Ratios",
+            "content": "# Profitability Analysis\n\n## Margin Ratios\n\n| Ratio | Formula |\n|-------|--------|\n| Gross margin | GP / Sales |\n| Operating margin | Operating Income / Sales |\n| Net margin | Net Income / Sales |\n\n## Return Ratios\n\n| Ratio | Formula |\n|-------|--------|\n| ROA | Net Income / Avg Assets |\n| ROE | Net Income / Avg Equity |\n| ROCE | EBIT / Capital Employed |\n\n## DuPont Analysis\n\n```\nROE = Net Margin x Asset Turnover x Equity Multiplier\n    = (NI/Sales) x (Sales/Assets) x (Assets/Equity)\n```"
+        },
+        {
+            "id": "p2a_5",
+            "type": "content",
+            "title": "Leverage Ratios",
+            "content": "# Financial Leverage\n\n## Debt Ratios\n\n| Ratio | Formula |\n|-------|--------|\n| Debt to equity | Total Debt / Total Equity |\n| Debt ratio | Total Debt / Total Assets |\n| Equity ratio | Total Equity / Total Assets |\n\n## Coverage Ratios\n\n| Ratio | Formula |\n|-------|--------|\n| Interest coverage | EBIT / Interest Expense |\n| Debt service | EBITDA / (Interest + Principal) |\n\n## Interpretation\n\n| High Leverage | Low Leverage |\n|---------------|---------------|\n| Higher risk | Lower risk |\n| Magnifies returns | Stable returns |\n| Fixed obligations | Flexibility |"
+        },
+        {
+            "id": "p2a_6",
+            "type": "content",
+            "title": "Market Ratios",
+            "content": "# Market Value Ratios\n\n## Per Share Metrics\n\n| Ratio | Formula |\n|-------|--------|\n| EPS | Net Income / Shares |\n| Book value/share | Equity / Shares |\n| Dividends/share | Dividends / Shares |\n\n## Valuation Ratios\n\n| Ratio | Formula |\n|-------|--------|\n| P/E ratio | Price / EPS |\n| Price/Book | Price / Book Value |\n| Dividend yield | DPS / Price |\n\n## Interpretation\n\n| High P/E | Low P/E |\n|----------|--------|\n| Growth expected | Value stock |\n| Expensive | Cheap |"
+        },
+        {
+            "id": "p2a_quiz_2",
+            "type": "quiz",
+            "title": "Profitability Quiz",
+            "content": "Test your profitability ratio knowledge!",
+            "quizQuestion": "DuPont analysis breaks ROE into how many components?",
+            "quizOptions": [
+                "Two",
+                "Three",
+                "Four",
+                "Five"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2a_7",
+            "type": "content",
+            "title": "Trend Analysis",
+            "content": "# Horizontal Analysis\n\n## Year-over-Year\n\n```\nChange = Current Year - Prior Year\n\n% Change = Change / Prior Year x 100\n```\n\n## Base Year Analysis\n\n```\nIndex = Current Year / Base Year x 100\n\nShows cumulative change from base\n```\n\n## Considerations\n\n| Factor | Impact |\n|--------|--------|\n| Inflation | Distorts comparison |\n| Restructuring | One-time effects |\n| Acquisitions | Growth distortion |"
+        },
+        {
+            "id": "p2a_8",
+            "type": "content",
+            "title": "Common Size Analysis",
+            "content": "# Vertical Analysis\n\n## Income Statement\n\n```\nEach item as % of Sales\n\nExample:\nGross Profit = GP / Sales x 100\n```\n\n## Balance Sheet\n\n```\nEach item as % of Total Assets\n\nExample:\nCash = Cash / Total Assets x 100\n```\n\n## Benefits\n\n| Benefit | Application |\n|---------|-------------|\n| Comparability | Different size companies |\n| Structure | See composition |\n| Benchmarking | Industry comparison |"
+        },
+        {
+            "id": "p2a_9",
+            "type": "content",
+            "title": "Quality of Earnings",
+            "content": "# Earnings Quality\n\n## Indicators\n\n| High Quality | Low Quality |\n|--------------|-------------|\n| Cash-backed | Accrual-heavy |\n| Recurring | One-time items |\n| Conservative | Aggressive |\n\n## Cash Flow Analysis\n\n```\nCash from operations vs Net income\n\nHealthy: CFO > NI\nConcern: CFO << NI\n```\n\n## Red Flags\n\n| Warning | Implication |\n|---------|-------------|\n| Growing receivables | Collection issues |\n| Declining margins | Competition |\n| Increasing liabilities | Financial stress |"
+        },
+        {
+            "id": "p2a_10",
+            "type": "content",
+            "title": "Valuation Methods",
+            "content": "# Business Valuation\n\n## Approaches\n\n| Approach | Methods |\n|----------|--------|\n| Income | DCF, Capitalized earnings |\n| Market | Comparables, multiples |\n| Asset | Book value, liquidation |\n\n## DCF Valuation\n\n```\nValue = Sum of PV of Future Cash Flows\n\nPV = CF / (1 + r)^n\n```\n\n## Market Multiples\n\n| Multiple | Formula |\n|----------|--------|\n| EV/EBITDA | Enterprise Value / EBITDA |\n| P/E | Price / Earnings |\n| P/S | Price / Sales |"
+        },
+        {
+            "id": "p2a_quiz_3",
+            "type": "quiz",
+            "title": "Valuation Quiz",
+            "content": "Test your valuation knowledge!",
+            "quizQuestion": "DCF stands for Discounted Cash?",
+            "quizOptions": [
+                "Cost",
+                "Capital",
+                "Flow",
+                "Funds"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p2a_11",
+            "type": "content",
+            "title": "Industry Analysis",
+            "content": "# Comparative Analysis\n\n## Benchmarking\n\n| Compare To | Purpose |\n|------------|--------|\n| Industry average | Positioning |\n| Competitors | Direct comparison |\n| Best in class | Target setting |\n\n## Industry Factors\n\n| Factor | Consideration |\n|--------|---------------|\n| Life cycle | Growth stage |\n| Competition | Market structure |\n| Regulation | Constraints |\n| Technology | Disruption |"
+        },
+        {
+            "id": "p2a_12",
+            "type": "content",
+            "title": "Cash Flow Analysis",
+            "content": "# Cash Flow Health\n\n## Quality Indicators\n\n| Pattern | Interpretation |\n|---------|---------------|\n| +CFO, -CFI, -CFF | Healthy growth |\n| +CFO, +CFI, -CFF | Asset sales |\n| -CFO, +CFI, +CFF | Financing growth |\n\n## Free Cash Flow\n\n```\nFree Cash Flow = CFO - CapEx\n\nAvailable for debt, dividends, growth\n```\n\n## Analysis Points\n\n- Sustainability\n- Working capital trends\n- CapEx requirements\n- Financing needs"
+        },
+        {
+            "id": "p2a_quiz_4",
+            "type": "quiz",
+            "title": "Cash Flow Quiz",
+            "content": "Test your cash flow knowledge!",
+            "quizQuestion": "Free cash flow equals CFO minus?",
+            "quizOptions": [
+                "Dividends",
+                "Interest",
+                "Capital expenditure",
+                "Debt payments"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p2a_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Part 2A - Financial Statement Analysis**!\n\n## Key Topics\n\n### Ratios\n- Liquidity\n- Efficiency/Activity\n- Profitability\n- Leverage\n- Market\n\n### Analysis\n- Horizontal (trend)\n- Vertical (common size)\n- DuPont analysis\n\n### Quality\n- Earnings quality\n- Cash flow analysis\n- Valuation\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| ROE = NI/E | Return |\n| Current = CA/CL | Liquidity |\n| D/E = Debt/Equity | Leverage |\n| FCF = CFO - CapEx | Cash |\n\n## What is Next?\n\nExplore CMA Part 2B - Corporate Finance!"
+        }
+    ]
+}

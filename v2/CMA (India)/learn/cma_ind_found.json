@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_ind_found",
+    "topicId": "cma_ind_found",
+    "topicTitle": "CMA Foundation Level",
+    "description": "Master CMA India Foundation covering Fundamentals of Accounting, Law, Economics, and Business Mathematics",
+    "baseKP": 50,
+    "slides": [
+        {
+            "id": "cma_f_1",
+            "type": "content",
+            "title": "Welcome to CMA Foundation",
+            "content": "# CMA India Foundation Level\n\nFoundation covers the **basics** for cost and management accounting.\n\n## What You Will Learn\n\n- **Accounting** - Fundamentals\n- **Law** - Business and commercial\n- **Economics** - Micro and macro\n- **Mathematics** - Business calculations\n\n## Foundation Papers\n\n| Paper | Subject |\n|-------|--------|\n| 1 | Fundamentals of Economics |\n| 2 | Fundamentals of Accounting |\n| 3 | Fundamentals of Laws |\n| 4 | Business Mathematics |"
+        },
+        {
+            "id": "cma_f_2",
+            "type": "content",
+            "title": "Accounting Fundamentals",
+            "content": "# Basics of Accounting\n\n## Accounting Equation\n\n```\nAssets = Liabilities + Equity\n```\n\n## Types of Accounts\n\n| Type | Examples |\n|------|----------|\n| Personal | Debtors, creditors |\n| Real | Assets |\n| Nominal | Income, expenses |\n\n## Golden Rules\n\n| Account | Debit | Credit |\n|---------|-------|--------|\n| Personal | Receiver | Giver |\n| Real | What comes in | What goes out |\n| Nominal | Expenses/losses | Income/gains |"
+        },
+        {
+            "id": "cma_f_3",
+            "type": "content",
+            "title": "Journal and Ledger",
+            "content": "# Recording Transactions\n\n## Journal Entry\n\n```\nDate | Particulars | Debit | Credit\n-----|-------------|-------|--------\n```\n\n## Posting to Ledger\n\n```\nAccount Name\n-----------------------\nDebit Side | Credit Side\n-----------------------\n```\n\n## Trial Balance\n\n```\nAll debit balances\n= All credit balances\n\nChecks arithmetic accuracy\n```\n\n## Accounting Cycle\n\n1. Journal entries\n2. Post to ledger\n3. Trial balance\n4. Financial statements"
+        },
+        {
+            "id": "cma_f_quiz_1",
+            "type": "quiz",
+            "title": "Accounting Quiz",
+            "content": "Test your accounting basics!",
+            "quizQuestion": "The accounting equation is Assets = Liabilities +?",
+            "quizOptions": [
+                "Revenue",
+                "Expenses",
+                "Capital/Equity",
+                "Cash"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cma_f_4",
+            "type": "content",
+            "title": "Financial Statements",
+            "content": "# Final Accounts\n\n## Trading Account\n\n```\nOpening Stock + Purchases - Closing Stock\n= Cost of Goods Sold\n\nSales - COGS = Gross Profit\n```\n\n## Profit and Loss Account\n\n```\nGross Profit\n- Operating Expenses\n= Net Profit\n```\n\n## Balance Sheet\n\n| Assets | Liabilities + Equity |\n|--------|----------------------|\n| Fixed assets | Capital |\n| Current assets | Long-term liabilities |\n| | Current liabilities |"
+        },
+        {
+            "id": "cma_f_5",
+            "type": "content",
+            "title": "Business Economics",
+            "content": "# Microeconomics\n\n## Demand and Supply\n\n| Concept | Relationship |\n|---------|--------------|\n| Demand | Price up, quantity down |\n| Supply | Price up, quantity up |\n| Equilibrium | Demand = Supply |\n\n## Elasticity\n\n```\nPrice Elasticity = % Change in Qty / % Change in Price\n\nElastic: > 1\nInelastic: < 1\nUnitary: = 1\n```\n\n## Market Structures\n\n| Structure | Sellers | Price |\n|-----------|---------|-------|\n| Monopoly | One | Price maker |\n| Oligopoly | Few | Price leader |\n| Competition | Many | Price taker |"
+        },
+        {
+            "id": "cma_f_6",
+            "type": "content",
+            "title": "Macroeconomics",
+            "content": "# National Economy\n\n## GDP Calculation\n\n```\nExpenditure Method:\nGDP = C + I + G + (X - M)\n\nC = Consumption\nI = Investment\nG = Government\nX - M = Net exports\n```\n\n## Economic Concepts\n\n| Concept | Meaning |\n|---------|--------|\n| Inflation | Price rise |\n| Deflation | Price fall |\n| Stagflation | Inflation + stagnation |\n\n## Monetary Policy\n\n- Repo rate\n- Bank rate\n- CRR\n- SLR"
+        },
+        {
+            "id": "cma_f_quiz_2",
+            "type": "quiz",
+            "title": "Economics Quiz",
+            "content": "Test your economics knowledge!",
+            "quizQuestion": "When demand elasticity is greater than 1, demand is?",
+            "quizOptions": [
+                "Inelastic",
+                "Elastic",
+                "Unitary",
+                "Perfectly elastic"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_f_7",
+            "type": "content",
+            "title": "Business Law Basics",
+            "content": "# Contract Law\n\n## Essential Elements\n\n| Element | Meaning |\n|---------|--------|\n| Offer | Proposal |\n| Acceptance | Agreement |\n| Consideration | Value exchange |\n| Capacity | Legal ability |\n| Consent | Free agreement |\n\n## Types of Contracts\n\n| Type | Description |\n|------|-------------|\n| Valid | All elements present |\n| Void | Not enforceable |\n| Voidable | Can be cancelled |\n| Illegal | Forbidden by law |"
+        },
+        {
+            "id": "cma_f_8",
+            "type": "content",
+            "title": "Company Law",
+            "content": "# Companies Act 2013\n\n## Types of Companies\n\n| Type | Features |\n|------|----------|\n| Private | Limited members |\n| Public | Open to public |\n| OPC | One person |\n| LLP | Limited liability |\n\n## Company Formation\n\n1. Name approval\n2. MOA and AOA\n3. Registration\n4. Certificate of incorporation\n\n## Key Documents\n\n| Document | Purpose |\n|----------|--------|\n| MOA | Objects and powers |\n| AOA | Internal rules |"
+        },
+        {
+            "id": "cma_f_9",
+            "type": "content",
+            "title": "Business Mathematics",
+            "content": "# Mathematical Foundations\n\n## Ratio and Proportion\n\n```\nRatio = a : b\nProportion = a : b :: c : d\n```\n\n## Percentage\n\n```\nPercentage = (Part / Whole) x 100\n\nIncrease % = (Increase / Original) x 100\n```\n\n## Simple Interest\n\n```\nSI = P x R x T / 100\n\nP = Principal\nR = Rate\nT = Time\n```\n\n## Compound Interest\n\n```\nA = P(1 + R/100)^n\n\nCI = A - P\n```"
+        },
+        {
+            "id": "cma_f_quiz_3",
+            "type": "quiz",
+            "title": "Math Quiz",
+            "content": "Test your business math!",
+            "quizQuestion": "Simple Interest formula is P x R x T divided by?",
+            "quizOptions": [
+                "10",
+                "100",
+                "1000",
+                "12"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_f_10",
+            "type": "content",
+            "title": "Statistics Basics",
+            "content": "# Statistical Methods\n\n## Measures of Central Tendency\n\n| Measure | Formula |\n|---------|--------|\n| Mean | Sum of values / Count |\n| Median | Middle value |\n| Mode | Most frequent |\n\n## Measures of Dispersion\n\n| Measure | Shows |\n|---------|-------|\n| Range | Max - Min |\n| Variance | Spread from mean |\n| Std deviation | Square root of variance |\n\n## Correlation\n\n```\nr = +1: Perfect positive\nr = 0: No correlation\nr = -1: Perfect negative\n```"
+        },
+        {
+            "id": "cma_f_11",
+            "type": "content",
+            "title": "Time Value of Money",
+            "content": "# TVM Concepts\n\n## Present Value\n\n```\nPV = FV / (1 + r)^n\n```\n\n## Future Value\n\n```\nFV = PV x (1 + r)^n\n```\n\n## Annuity\n\n| Type | Payments |\n|------|----------|\n| Ordinary | End of period |\n| Due | Beginning of period |\n\n## Applications\n\n- Loan calculations\n- Investment decisions\n- Retirement planning"
+        },
+        {
+            "id": "cma_f_12",
+            "type": "content",
+            "title": "Commercial Laws",
+            "content": "# Other Important Laws\n\n## Sale of Goods Act\n\n| Term | Meaning |\n|------|--------|\n| Sale | Transfer of ownership |\n| Agreement to sell | Future transfer |\n| Warranty | Minor condition |\n| Condition | Major term |\n\n## Negotiable Instruments\n\n| Instrument | Features |\n|------------|----------|\n| Cheque | Payable on demand |\n| Bill of exchange | Order to pay |\n| Promissory note | Promise to pay |"
+        },
+        {
+            "id": "cma_f_quiz_4",
+            "type": "quiz",
+            "title": "Law Quiz",
+            "content": "Test your law knowledge!",
+            "quizQuestion": "MOA stands for Memorandum of?",
+            "quizOptions": [
+                "Accounts",
+                "Association",
+                "Agreement",
+                "Articles"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_f_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA India Foundation Level**!\n\n## Key Topics\n\n### Accounting\n- Accounting equation\n- Journal and ledger\n- Financial statements\n\n### Economics\n- Demand and supply\n- National income\n- Monetary policy\n\n### Law\n- Contract law\n- Company law\n- Commercial law\n\n### Mathematics\n- Interest calculations\n- Statistics\n- Time value of money\n\n## Foundation Papers\n\n| Paper | Subject |\n|-------|--------|\n| 1 | Economics |\n| 2 | Accounting |\n| 3 | Laws |\n| 4 | Mathematics |\n\n## What is Next?\n\nExplore CMA Intermediate - Group I!"
+        }
+    ]
+}

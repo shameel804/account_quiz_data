@@ -1,0 +1,4429 @@
+[
+    {
+        "q": "GSTR-1 is the return for outward supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-1 is filed by registered person making supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-1 due date is ______ of next month for monthly filers.",
+        "type": "fill_blank",
+        "answers": [
+            "11th"
+        ],
+        "other_options": [
+            "10th",
+            "15th",
+            "20th"
+        ]
+    },
+    {
+        "q": "GSTR-1 contains B2B and B2C invoice details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-1 filing is mandatory for regular taxpayers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match GSTR-1 sections:",
+        "type": "match",
+        "left": [
+            "B2B",
+            "B2C Large",
+            "B2C Small",
+            "Credit Notes"
+        ],
+        "right": [
+            "Invoice-wise",
+            "Invoice-wise",
+            "Consolidated",
+            "Document-wise"
+        ]
+    },
+    {
+        "q": "GSTR-1 quarterly filing is allowed for turnover up to Rs. ______ crore.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "1.5",
+            "2",
+            "10"
+        ]
+    },
+    {
+        "q": "QRMP scheme allows quarterly GSTR-1 filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Invoice Furnishing Facility is for quarterly filers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IFF allows uploading B2B invoices monthly in QRMP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IFF invoice limit is Rs. ______ lakh per month.",
+        "type": "fill_blank",
+        "answers": [
+            "50"
+        ],
+        "other_options": [
+            "25",
+            "75",
+            "100"
+        ]
+    },
+    {
+        "q": "Rearrange monthly GSTR-1 filing:",
+        "type": "rearrange",
+        "words": [
+            "Upload invoices",
+            "Add credit notes",
+            "Verify data",
+            "File GSTR-1",
+            "Receive ARN"
+        ]
+    },
+    {
+        "q": "GSTR-3B is summary return for tax payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-3B due date is ______ of next month.",
+        "type": "fill_blank",
+        "answers": [
+            "20th"
+        ],
+        "other_options": [
+            "11th",
+            "15th",
+            "25th"
+        ]
+    },
+    {
+        "q": "GSTR-3B contains summary of outward and inward supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC is claimed through GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax payment is made through GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match GSTR-3B tables:",
+        "type": "match",
+        "left": [
+            "Table 3.1",
+            "Table 3.2",
+            "Table 4",
+            "Table 5"
+        ],
+        "right": [
+            "Outward supplies",
+            "Inward RCM",
+            "ITC claimed",
+            "Exempt/NIL supplies"
+        ]
+    },
+    {
+        "q": "GSTR-3B quarterly filing has staggered due dates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "QRMP scheme requires monthly tax payment through challan.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "35% of tax in challan if using fixed sum method.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Self-assessment method uses actual liability for challan.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "PMT-06 is challan for QRMP monthly payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange QRMP compliance:",
+        "type": "rearrange",
+        "words": [
+            "Monthly IFF if needed",
+            "Monthly PMT-06",
+            "Quarterly GSTR-1",
+            "Quarterly GSTR-3B",
+            "Adjust challan"
+        ]
+    },
+    {
+        "q": "Late fee for GSTR-1 is Rs. ______ per day per Act.",
+        "type": "fill_blank",
+        "answers": [
+            "50"
+        ],
+        "other_options": [
+            "25",
+            "100",
+            "200"
+        ]
+    },
+    {
+        "q": "Maximum late fee for GSTR-1 is Rs. ______ per return.",
+        "type": "fill_blank",
+        "answers": [
+            "10000"
+        ],
+        "other_options": [
+            "5000",
+            "20000",
+            "25000"
+        ]
+    },
+    {
+        "q": "NIL GSTR-1 late fee is Rs. ______ per day.",
+        "type": "fill_blank",
+        "answers": [
+            "20"
+        ],
+        "other_options": [
+            "10",
+            "50",
+            "100"
+        ]
+    },
+    {
+        "q": "Late fee for GSTR-3B is Rs. 50 per day per Act.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest on late tax payment is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "18"
+        ],
+        "other_options": [
+            "12",
+            "15",
+            "24"
+        ]
+    },
+    {
+        "q": "Match late fee and interest:",
+        "type": "match",
+        "left": [
+            "GSTR-1 late",
+            "GSTR-3B late",
+            "Interest",
+            "NIL return"
+        ],
+        "right": [
+            "Rs. 50 per day",
+            "Rs. 50 per day",
+            "18% per annum",
+            "Rs. 20 per day"
+        ]
+    },
+    {
+        "q": "GSTR-9 is annual return for regular taxpayers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9 due date is ______ of next financial year.",
+        "type": "fill_blank",
+        "answers": [
+            "31st December"
+        ],
+        "other_options": [
+            "30th September",
+            "31st March",
+            "30th November"
+        ]
+    },
+    {
+        "q": "GSTR-9 consolidates all monthly returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9 has 6 parts with multiple tables.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Part II of GSTR-9 shows outward supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange GSTR-9 parts:",
+        "type": "rearrange",
+        "words": [
+            "Basic details",
+            "Outward supplies",
+            "Inward supplies",
+            "ITC details",
+            "Tax paid",
+            "Other information"
+        ]
+    },
+    {
+        "q": "GSTR-9 is mandatory for turnover above Rs. ______ crore.",
+        "type": "fill_blank",
+        "answers": [
+            "2"
+        ],
+        "other_options": [
+            "1",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "q": "Composition dealer files GSTR-9A.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9A is simpler than GSTR-9.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS deductor files GSTR-7 and GSTR-7A.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TCS collector files GSTR-8.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match special returns:",
+        "type": "match",
+        "left": [
+            "GSTR-9A",
+            "GSTR-7",
+            "GSTR-8",
+            "GSTR-10"
+        ],
+        "right": [
+            "Composition annual",
+            "TDS return",
+            "TCS return",
+            "Final return"
+        ]
+    },
+    {
+        "q": "GSTR-9C is reconciliation statement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9C is required for turnover above Rs. ______ crore.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "2",
+            "10",
+            "20"
+        ]
+    },
+    {
+        "q": "GSTR-9C was earlier certified by CA/CMA.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9C is now self-certified.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9C reconciles books with returns filed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange GSTR-9C preparation:",
+        "type": "rearrange",
+        "words": [
+            "Extract books data",
+            "Compare with GSTR-9",
+            "Identify differences",
+            "Explain variances",
+            "File GSTR-9C"
+        ]
+    },
+    {
+        "q": "GSTR-2A is auto-populated statement for recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-2A shows invoices uploaded by suppliers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-2A is read-only document.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-2A is used for ITC reconciliation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-2B is static version of GSTR-2A.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match auto-populated returns:",
+        "type": "match",
+        "left": [
+            "GSTR-2A",
+            "GSTR-2B",
+            "GSTR-4A",
+            "GSTR-6A"
+        ],
+        "right": [
+            "Dynamic ITC",
+            "Static ITC",
+            "For composition",
+            "For ISD"
+        ]
+    },
+    {
+        "q": "GSTR-2B is generated on ______ of month.",
+        "type": "fill_blank",
+        "answers": [
+            "14th"
+        ],
+        "other_options": [
+            "11th",
+            "13th",
+            "15th"
+        ]
+    },
+    {
+        "q": "GSTR-2B considers GSTR-1 filed till 13th.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC matching is done with GSTR-2B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC not in GSTR-2B cannot be claimed.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Rule 36(4) restricts ITC to ______ percent of matched.",
+        "type": "fill_blank",
+        "answers": [
+            "100"
+        ],
+        "other_options": [
+            "105",
+            "110",
+            "120"
+        ]
+    },
+    {
+        "q": "Rearrange ITC matching:",
+        "type": "rearrange",
+        "words": [
+            "Download GSTR-2B",
+            "Match with books",
+            "Identify mismatches",
+            "Follow up with suppliers",
+            "Claim eligible ITC"
+        ]
+    },
+    {
+        "q": "Amendment of GSTR-1 is done through GSTR-1 itself.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "B2B invoice amendment is in amendment tables.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amendment is allowed till September next year or GSTR-9.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Wrong GSTIN in invoice requires credit note and fresh invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amendment affects recipient's GSTR-2A/2B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match amendment scenarios:",
+        "type": "match",
+        "left": [
+            "Wrong value",
+            "Wrong date",
+            "Wrong GSTIN",
+            "Missing invoice"
+        ],
+        "right": [
+            "Amend in GSTR-1",
+            "Amend in GSTR-1",
+            "CDN and fresh invoice",
+            "Upload in GSTR-1"
+        ]
+    },
+    {
+        "q": "NIL return is filed when no transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NIL GSTR-1 can be filed through SMS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NIL GSTR-3B can be filed through SMS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NIL return has reduced late fee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NIL return must be filed even with zero transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange NIL return filing:",
+        "type": "rearrange",
+        "words": [
+            "Verify no transactions",
+            "Login to portal or SMS",
+            "Select NIL filing",
+            "Confirm and submit",
+            "Receive ARN"
+        ]
+    },
+    {
+        "q": "GSTR-4 is quarterly return for composition dealer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-4 is now annual with quarterly statement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CMP-08 is quarterly statement for composition.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CMP-08 due date is ______ of month after quarter.",
+        "type": "fill_blank",
+        "answers": [
+            "18th"
+        ],
+        "other_options": [
+            "15th",
+            "20th",
+            "22nd"
+        ]
+    },
+    {
+        "q": "GSTR-4 annual due date is ______ April.",
+        "type": "fill_blank",
+        "answers": [
+            "30th"
+        ],
+        "other_options": [
+            "15th",
+            "18th",
+            "31st"
+        ]
+    },
+    {
+        "q": "Match composition returns:",
+        "type": "match",
+        "left": [
+            "CMP-08",
+            "GSTR-4",
+            "GSTR-9A",
+            "Payment"
+        ],
+        "right": [
+            "Quarterly statement",
+            "Annual return",
+            "Annual return (old)",
+            "With CMP-08"
+        ]
+    },
+    {
+        "q": "GSTR-5 is for non-resident taxable person.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-5 is filed within 20 days after registration end.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-5A is for OIDAR service providers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NRTP must file GSTR-5 for each tax period.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-5 contains both inward and outward supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange NRTP compliance:",
+        "type": "rearrange",
+        "words": [
+            "Register as NRTP",
+            "Deposit advance tax",
+            "File GSTR-5",
+            "Claim refund if any",
+            "Surrender registration"
+        ]
+    },
+    {
+        "q": "GSTR-6 is for Input Service Distributor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-6 due date is ______ of next month.",
+        "type": "fill_blank",
+        "answers": [
+            "13th"
+        ],
+        "other_options": [
+            "10th",
+            "11th",
+            "15th"
+        ]
+    },
+    {
+        "q": "ISD distributes ITC to recipient units.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ISD document is issued to each recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-6A shows available ITC for ISD.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match ISD returns:",
+        "type": "match",
+        "left": [
+            "GSTR-6",
+            "GSTR-6A",
+            "ISD document",
+            "Distribution"
+        ],
+        "right": [
+            "ISD return",
+            "Auto-populated ITC",
+            "To recipients",
+            "Pro-rata basis"
+        ]
+    },
+    {
+        "q": "GSTR-7 is for TDS deductors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-7 due date is ______ of next month.",
+        "type": "fill_blank",
+        "answers": [
+            "10th"
+        ],
+        "other_options": [
+            "7th",
+            "15th",
+            "20th"
+        ]
+    },
+    {
+        "q": "TDS rate under GST is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "2"
+        ],
+        "other_options": [
+            "1",
+            "5",
+            "10"
+        ]
+    },
+    {
+        "q": "GSTR-7A is TDS certificate issued to deductee.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS is deducted on payment to supplier above Rs. 2.5 lakh.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange TDS under GST:",
+        "type": "rearrange",
+        "words": [
+            "Contract above threshold",
+            "Deduct TDS on payment",
+            "File GSTR-7",
+            "Issue GSTR-7A",
+            "Supplier claims credit"
+        ]
+    },
+    {
+        "q": "GSTR-8 is for e-commerce operators.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-8 due date is ______ of next month.",
+        "type": "fill_blank",
+        "answers": [
+            "10th"
+        ],
+        "other_options": [
+            "7th",
+            "15th",
+            "20th"
+        ]
+    },
+    {
+        "q": "TCS rate under GST is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "1"
+        ],
+        "other_options": [
+            "0.5",
+            "2",
+            "5"
+        ]
+    },
+    {
+        "q": "TCS is collected on net value of supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Suppliers can claim TCS credit in cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match TCS under GST:",
+        "type": "match",
+        "left": [
+            "Operator",
+            "Collection",
+            "Return",
+            "Supplier credit"
+        ],
+        "right": [
+            "E-commerce platform",
+            "1% of net value",
+            "GSTR-8",
+            "In cash ledger"
+        ]
+    },
+    {
+        "q": "GSTR-10 is final return on cancellation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-10 due date is ______ months from cancellation.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "1",
+            "6",
+            "12"
+        ]
+    },
+    {
+        "q": "GSTR-10 contains stock details on cancellation date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC reversal is required in GSTR-10.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-10 cannot be revised once filed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange final return filing:",
+        "type": "rearrange",
+        "words": [
+            "Apply for cancellation",
+            "Get cancellation order",
+            "Prepare stock details",
+            "Calculate ITC reversal",
+            "File GSTR-10"
+        ]
+    },
+    {
+        "q": "GSTR-11 is for UIN holders.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "UIN is issued to embassies and UN agencies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-11 is for claiming refund of taxes paid.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-11 due date is ______ of next month.",
+        "type": "fill_blank",
+        "answers": [
+            "28th"
+        ],
+        "other_options": [
+            "20th",
+            "25th",
+            "30th"
+        ]
+    },
+    {
+        "q": "UIN holders do not make taxable supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match UIN compliance:",
+        "type": "match",
+        "left": [
+            "UIN",
+            "GSTR-11",
+            "Refund",
+            "Eligibility"
+        ],
+        "right": [
+            "Unique Identification Number",
+            "Inward statement",
+            "Of taxes paid",
+            "Embassies/UN"
+        ]
+    },
+    {
+        "q": "Return filing order is GSTR-1 then GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-3B cannot be filed without GSTR-1.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "GSTR-1 filing is blocked if previous GSTR-3B pending.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-3B filing is blocked if previous GSTR-1 pending.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cascading non-filing leads to compliance blockade.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange filing blockage scenario:",
+        "type": "rearrange",
+        "words": [
+            "Miss GSTR-3B",
+            "GSTR-1 blocked",
+            "Miss GSTR-1",
+            "GSTR-3B blocked",
+            "Clear pending first"
+        ]
+    },
+    {
+        "q": "HSN summary is mandatory in GSTR-1 above threshold.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "HSN summary consolidates supply by HSN code.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rate-wise HSN summary is required.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "HSN summary table is Table ______ in GSTR-1.",
+        "type": "fill_blank",
+        "answers": [
+            "12"
+        ],
+        "other_options": [
+            "10",
+            "11",
+            "13"
+        ]
+    },
+    {
+        "q": "HSN summary assists in classification verification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match GSTR-1 tables:",
+        "type": "match",
+        "left": [
+            "Table 4",
+            "Table 5",
+            "Table 9",
+            "Table 12"
+        ],
+        "right": [
+            "B2B",
+            "B2C large",
+            "Amendments",
+            "HSN summary"
+        ]
+    },
+    {
+        "q": "Document summary lists invoices issued.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Document summary shows issued and cancelled.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Document summary is Table ______ in GSTR-1.",
+        "type": "fill_blank",
+        "answers": [
+            "13"
+        ],
+        "other_options": [
+            "11",
+            "12",
+            "14"
+        ]
+    },
+    {
+        "q": "Invoice serial number gaps should be explained.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cancelled invoices are reported in document summary.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange GSTR-1 compilation:",
+        "type": "rearrange",
+        "words": [
+            "Compile invoices",
+            "Segregate by type",
+            "Add amendments",
+            "HSN summary",
+            "Document summary"
+        ]
+    },
+    {
+        "q": "EVC is allowed for GSTR-1 filing for certain taxpayers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DSC is mandatory for companies for GSTR filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Aadhar OTP is a method of EVC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bank account OTP is a method of EVC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Net banking is a method of EVC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match authentication methods:",
+        "type": "match",
+        "left": [
+            "DSC",
+            "Aadhar OTP",
+            "Bank OTP",
+            "Net banking"
+        ],
+        "right": [
+            "Mandatory for company",
+            "Mobile linked OTP",
+            "Registered account",
+            "Login verification"
+        ]
+    },
+    {
+        "q": "ARN is acknowledgment reference number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ARN is generated on successful filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ARN confirms return acceptance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ARN can be used to track return status.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ARN is proof of filing for records.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange return filing completion:",
+        "type": "rearrange",
+        "words": [
+            "Enter data",
+            "Preview and verify",
+            "Sign with DSC/EVC",
+            "Submit return",
+            "Receive ARN"
+        ]
+    },
+    {
+        "q": "JSON file can be used for GSTR-1 upload.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Offline tool generates JSON for upload.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Excel upload using GSTR-1 template is allowed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Direct entry on portal is allowed for GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "API integration is available for ERP to GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match GSTR-1 entry methods:",
+        "type": "match",
+        "left": [
+            "Direct entry",
+            "Offline tool",
+            "Excel",
+            "API"
+        ],
+        "right": [
+            "On portal",
+            "JSON file",
+            "Template upload",
+            "ERP integration"
+        ]
+    },
+    {
+        "q": "GSTR-1 data flows to GSTR-2A of recipients.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Late filing of GSTR-1 delays recipient ITC visibility.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amendment in GSTR-1 reflects in recipient's GSTR-2A.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplier compliance affects recipient ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC is blocked if supplier does not file GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange supplier-recipient ITC flow:",
+        "type": "rearrange",
+        "words": [
+            "Supplier issues invoice",
+            "Supplier files GSTR-1",
+            "Data reflects in GSTR-2A",
+            "Recipient claims ITC",
+            "ITC flows to electronic credit"
+        ]
+    },
+    {
+        "q": "GSTR-3B is auto-drafted from GSTR-1 data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-3B values can be modified before filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC in GSTR-3B is reconciled with GSTR-2B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Mismatch between GSTR-1 and GSTR-3B triggers scrutiny.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Consistent GSTR-1 and GSTR-3B is ideal compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match GSTR reconciliation:",
+        "type": "match",
+        "left": [
+            "GSTR-1 vs 3B",
+            "GSTR-2B vs 3B",
+            "Books vs returns",
+            "Supplier vs recipient"
+        ],
+        "right": [
+            "Turnover match",
+            "ITC match",
+            "GSTR-9 reconciliation",
+            "2A/2B match"
+        ]
+    },
+    {
+        "q": "RCM liability is reported in GSTR-3B Table 3.1(d).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM ITC is claimed in GSTR-3B Table 4.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM payment is from cash ledger only.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM paid is eligible for ITC in same month.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM ITC can be used for forward charge liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange RCM in returns:",
+        "type": "rearrange",
+        "words": [
+            "Identify RCM supply",
+            "Report in Table 3.1(d)",
+            "Pay from cash ledger",
+            "Claim ITC in Table 4",
+            "Net effect is neutral"
+        ]
+    },
+    {
+        "q": "Exempt supplies are reported separately in GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NIL rated supplies are different from exempt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-GST supplies are reported in GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Table 8 of GSTR-1 shows NIL/exempt/non-GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Correct classification of supplies is important.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match supply classifications in GSTR-1:",
+        "type": "match",
+        "left": [
+            "Taxable",
+            "Exempt",
+            "NIL rated",
+            "Non-GST"
+        ],
+        "right": [
+            "Tables 4-7",
+            "Table 8",
+            "Table 8",
+            "Table 8"
+        ]
+    },
+    {
+        "q": "Export details are in Table 6A of GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export with IGST is Table 6A.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export without IGST (LUT) is Table 6B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ supplies are in Table 6A/6B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Deemed export is in Table 6C.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange export reporting:",
+        "type": "rearrange",
+        "words": [
+            "Issue export invoice",
+            "Select with/without IGST",
+            "Report in Table 6",
+            "Claim refund",
+            "Submit proof"
+        ]
+    },
+    {
+        "q": "Inter-state supplies are taxed with IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IGST is reported with state-wise breakup.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Intra-state supplies attract CGST and SGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Correct place of supply determines tax type.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Wrong tax type requires amendment and correction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match tax types in returns:",
+        "type": "match",
+        "left": [
+            "Same state",
+            "Different state",
+            "Export",
+            "Import"
+        ],
+        "right": [
+            "CGST+SGST",
+            "IGST",
+            "IGST zero-rated",
+            "IGST on import"
+        ]
+    },
+    {
+        "q": "Advances received are reported in GSTR-1 Table 11A.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Advance adjustment is in Table 11B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Tax on advance is rate-wise in Table 11.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Advance received for goods is not taxable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Advance for services requires tax payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange advance reporting:",
+        "type": "rearrange",
+        "words": [
+            "Receive advance for services",
+            "Report in Table 11A",
+            "Pay tax in GSTR-3B",
+            "Issue invoice on supply",
+            "Adjust in Table 11B"
+        ]
+    },
+    {
+        "q": "Credit note is reported in Table 9B of GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debit note is reported in Table 9B of GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CDN against registered recipients is invoice-wise.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CDN against unregistered is consolidated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Time limit for credit note issuance is September next year.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match CDN reporting:",
+        "type": "match",
+        "left": [
+            "Credit note registered",
+            "Credit note unregistered",
+            "Debit note",
+            "Linked"
+        ],
+        "right": [
+            "Invoice-wise",
+            "Consolidated",
+            "Invoice-wise",
+            "To original invoice"
+        ]
+    },
+    {
+        "q": "Interest on late payment is reported in GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest calculation is from due date till payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "System calculates interest automatically.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest is paid from cash ledger only.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Late fee for returns is also from cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange penalty and interest payment:",
+        "type": "rearrange",
+        "words": [
+            "File late return",
+            "System calculates interest",
+            "Add late fee",
+            "Pay from cash ledger",
+            "Complete filing"
+        ]
+    },
+    {
+        "q": "ITC claim conditions include invoice reflection in 2B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC claim requires supplier payment of tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 16 conditions must be satisfied for ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC on blocked items cannot be claimed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC reversal is required in certain circumstances.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match ITC conditions:",
+        "type": "match",
+        "left": [
+            "Invoice",
+            "Payment",
+            "Goods/services receipt",
+            "Return filing"
+        ],
+        "right": [
+            "Required for ITC",
+            "To supplier within 180 days",
+            "Must be complete",
+            "Must reflect in 2B"
+        ]
+    },
+    {
+        "q": "ITC reversal is reported in Table 4(B) of GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Ineligible ITC is reported in Table 4(D).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rule 42 reversal for common inputs is in GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rule 43 reversal for capital goods is in GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Net ITC is available for tax offset.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange ITC computation:",
+        "type": "rearrange",
+        "words": [
+            "Total ITC available",
+            "Less ineligible ITC",
+            "Less reversals",
+            "Net ITC",
+            "Use for tax offset"
+        ]
+    },
+    {
+        "q": "Tax offset order is IGST first, then CGST/SGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IGST liability can be offset by IGST, CGST, SGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CGST liability can be offset by CGST, then IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SGST liability can be offset by SGST, then IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cross utilization between CGST and SGST is not allowed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match ITC utilization order:",
+        "type": "match",
+        "left": [
+            "IGST credit",
+            "CGST credit",
+            "SGST credit",
+            "Remaining"
+        ],
+        "right": [
+            "IGST then CGST/SGST",
+            "CGST then IGST",
+            "SGST then IGST",
+            "Pay in cash"
+        ]
+    },
+    {
+        "q": "Electronic credit ledger maintains ITC balance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Electronic cash ledger maintains cash deposits.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Electronic liability ledger shows tax dues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "All ledgers are maintained on GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Ledger balance can be viewed anytime.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange ledger operations:",
+        "type": "rearrange",
+        "words": [
+            "Credit ledger from ITC",
+            "Cash ledger from payment",
+            "Liability ledger from returns",
+            "Offset credit against liability",
+            "Pay balance from cash"
+        ]
+    },
+    {
+        "q": "Revising GSTR-3B is not allowed after filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Errors in GSTR-3B are corrected in subsequent returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Additional tax can be paid in next GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Excess ITC claimed is reversed in subsequent return.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9 provides final adjustment opportunity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match return corrections:",
+        "type": "match",
+        "left": [
+            "GSTR-1 error",
+            "GSTR-3B excess tax",
+            "GSTR-3B less tax",
+            "Annual"
+        ],
+        "right": [
+            "Amend next month",
+            "Claimed in 9",
+            "Pay in next",
+            "Reconcile in GSTR-9"
+        ]
+    },
+    {
+        "q": "Annual return is comprehensive of all monthly returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9 includes supplies, ITC, and tax paid details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9 is filed after all GSTR-1 and GSTR-3B are filed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pending monthly returns block GSTR-9 filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9 cannot be revised after filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange annual return preparation:",
+        "type": "rearrange",
+        "words": [
+            "Complete all monthly returns",
+            "Prepare reconciliation",
+            "Fill GSTR-9",
+            "Verify and file",
+            "Reconcile with 9C"
+        ]
+    },
+    {
+        "q": "Part III of GSTR-9 shows ITC details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Part IV of GSTR-9 shows tax paid details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Part V of GSTR-9 shows late fee details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Part VI of GSTR-9 shows other information.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Supplies from composition to regular are in Part VI.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match GSTR-9 parts:",
+        "type": "match",
+        "left": [
+            "Part I",
+            "Part II",
+            "Part III",
+            "Part IV"
+        ],
+        "right": [
+            "Basic details",
+            "Outward supplies",
+            "ITC",
+            "Tax paid"
+        ]
+    },
+    {
+        "q": "Table 4 of GSTR-9 shows taxable outward supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Table 5 of GSTR-9 shows zero-rated supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Table 6 of GSTR-9 shows ITC as per GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Table 7 of GSTR-9 shows ITC reversed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Table 8 of GSTR-9 shows ITC as per GSTR-2A.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange GSTR-9 ITC reconciliation:",
+        "type": "rearrange",
+        "words": [
+            "ITC per books",
+            "ITC per GSTR-2A",
+            "ITC claimed in 3B",
+            "Difference analysis",
+            "Report in Table 8"
+        ]
+    },
+    {
+        "q": "Table 9 of GSTR-9 shows tax payable and paid.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Additional tax is paid through DRC-03.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DRC-03 is for voluntary payment of dues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DRC-03 can be filed for any short payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DRC-03 payment is from cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match additional payment methods:",
+        "type": "match",
+        "left": [
+            "During return",
+            "After return",
+            "Audit findings",
+            "Voluntary"
+        ],
+        "right": [
+            "In return itself",
+            "DRC-03",
+            "DRC-03",
+            "DRC-03"
+        ]
+    },
+    {
+        "q": "GSTR-9C Part A is reconciliation statement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9C Part B was certification by auditor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9C reconciles turnover per books and returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-9C reconciles ITC per books and returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unreconciled amounts need tax payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange GSTR-9C preparation:",
+        "type": "rearrange",
+        "words": [
+            "Extract accounts data",
+            "Compare with GSTR-9",
+            "Identify variances",
+            "Explain reasons",
+            "Pay additional tax"
+        ]
+    },
+    {
+        "q": "GST audit by CA was mandatory for turnover above Rs. 2 crore.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GST audit is now replaced by self-certification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Self-certification is for GSTR-9C from FY 2020-21.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Taxpayer certifies accuracy of reconciliation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CA certification may still be advisable for large entities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match audit evolution:",
+        "type": "match",
+        "left": [
+            "Before 2020-21",
+            "From 2020-21",
+            "Threshold",
+            "Responsibility"
+        ],
+        "right": [
+            "CA audit",
+            "Self-certified",
+            "Rs. 5 crore",
+            "Taxpayer"
+        ]
+    },
+    {
+        "q": "Refund of excess tax is through RFD-01.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Refund application is filed on GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Export refund is processed within ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "60"
+        ],
+        "other_options": [
+            "30",
+            "45",
+            "90"
+        ]
+    },
+    {
+        "q": "Refund application requires supporting documents.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Provisional refund is 90% of claimed amount for exports.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange refund process:",
+        "type": "rearrange",
+        "words": [
+            "File RFD-01",
+            "Submit documents",
+            "Get provisional refund",
+            "Final assessment",
+            "Balance refund"
+        ]
+    },
+    {
+        "q": "Return filing calendar is published by CBIC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Due date extensions are notified officially.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Extension notifications are on GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Late fee waiver schemes are announced periodically.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Amnesty schemes help with pending compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match due date variations:",
+        "type": "match",
+        "left": [
+            "Extension",
+            "Waiver",
+            "Amnesty",
+            "Regular"
+        ],
+        "right": [
+            "New due date",
+            "Late fee reduction",
+            "Penalty relief",
+            "As notified"
+        ]
+    },
+    {
+        "q": "Dashboard on GST portal shows pending returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Return status shows filed or not filed.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Filed returns can be downloaded from portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Return filing history is maintained.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Compliance rating was proposed based on filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange return monitoring:",
+        "type": "rearrange",
+        "words": [
+            "Login to portal",
+            "Check dashboard",
+            "View pending returns",
+            "File returns",
+            "Track compliance"
+        ]
+    },
+    {
+        "q": "Comparison Statement shows GSTR-1 vs GSTR-3B mismatch.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Mismatch triggers scrutiny by officer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Regular reconciliation prevents mismatches.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Books data should match return data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Monthly reconciliation is best practice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match mismatch types:",
+        "type": "match",
+        "left": [
+            "Turnover mismatch",
+            "ITC mismatch",
+            "Tax mismatch",
+            "Credit note"
+        ],
+        "right": [
+            "GSTR-1 vs 3B",
+            "2B vs 3B",
+            "Computation error",
+            "Reporting difference"
+        ]
+    },
+    {
+        "q": "Outward supplies in GSTR-1 should match GSTR-3B Table 3.1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Variation may arise from place of supply classification.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit note timing affects reconciliation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debit note timing affects reconciliation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Nil and exempt supplies must be consistent.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange turnover reconciliation:",
+        "type": "rearrange",
+        "words": [
+            "GSTR-1 total",
+            "Add credit notes",
+            "Less debit notes",
+            "Compare with 3B",
+            "Explain difference"
+        ]
+    },
+    {
+        "q": "ITC in GSTR-3B should approximately match GSTR-2B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Timing difference may cause ITC variation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Blocked ITC is a reconciling item.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Ineligible ITC causes variation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Reversal creates difference requiring explanation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match ITC reconciliation items:",
+        "type": "match",
+        "left": [
+            "GSTR-2B ITC",
+            "Blocked claim",
+            "Reversal",
+            "Timing"
+        ],
+        "right": [
+            "Available ITC",
+            "Cannot claim",
+            "Reduce ITC",
+            "May shift periods"
+        ]
+    },
+    {
+        "q": "Section 39 governs periodic returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 44 governs annual return.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Section 37 governs outward supply return.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rule 59 provides GSTR-1 details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rule 61 provides GSTR-3B details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange legal provisions:",
+        "type": "rearrange",
+        "words": [
+            "Section 37 outward",
+            "Section 39 periodic",
+            "Section 44 annual",
+            "CGST Rules",
+            "Notifications"
+        ]
+    },
+    {
+        "q": "Common errors include wrong tax type selection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Common errors include wrong place of supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Common errors include invoice date errors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Common errors include GSTIN typos.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Common errors include value miscalculation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match common return errors:",
+        "type": "match",
+        "left": [
+            "CGST vs IGST",
+            "Wrong recipient",
+            "Value error",
+            "HSN error"
+        ],
+        "right": [
+            "Place of supply issue",
+            "GSTIN mistake",
+            "Calculation",
+            "Classification"
+        ]
+    },
+    {
+        "q": "Return filing requires internet connectivity.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Portal downtime delays filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTN maintenance windows are notified.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Mobile app for filing is available.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Desktop view is recommended for detailed returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange technology requirements:",
+        "type": "rearrange",
+        "words": [
+            "Internet access",
+            "Browser compatibility",
+            "DSC registration",
+            "Portal login",
+            "File returns"
+        ]
+    },
+    {
+        "q": "GST Suvidha Provider connects ERP to GST system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSP enables API-based filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ASP is Application Service Provider.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ASP provides front-end for GSP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Direct API is also available for large taxpayers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match filing channels:",
+        "type": "match",
+        "left": [
+            "Portal",
+            "Offline tool",
+            "GSP-ASP",
+            "Direct API"
+        ],
+        "right": [
+            "Web interface",
+            "Bulk upload",
+            "ERP integration",
+            "Enterprise systems"
+        ]
+    },
+    {
+        "q": "Return scrutiny is system-generated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Risk-based selection for scrutiny is used.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Scrutiny notice requires response within time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DRC-01A is pre-demand notice for discrepancy.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Response to scrutiny may close matter.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange scrutiny process:",
+        "type": "rearrange",
+        "words": [
+            "System flags discrepancy",
+            "Scrutiny notice issued",
+            "Taxpayer responds",
+            "Officer verifies",
+            "Close or proceed"
+        ]
+    },
+    {
+        "q": "Comparison report is available on portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-way bill data is compared with returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "TDS/TCS data is compared with returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Income tax data is compared with GST data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Banking data may be compared in audit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match data comparison sources:",
+        "type": "match",
+        "left": [
+            "E-way bill",
+            "TDS returns",
+            "Income tax",
+            "Bank statement"
+        ],
+        "right": [
+            "Movement matching",
+            "Government contracts",
+            "Turnover verification",
+            "Payment verification"
+        ]
+    },
+    {
+        "q": "Penalty for false return is under section ______.",
+        "type": "fill_blank",
+        "answers": [
+            "122"
+        ],
+        "other_options": [
+            "123",
+            "124",
+            "125"
+        ]
+    },
+    {
+        "q": "Penalty for non-filing is Rs. ______ minimum.",
+        "type": "fill_blank",
+        "answers": [
+            "10000"
+        ],
+        "other_options": [
+            "5000",
+            "25000",
+            "50000"
+        ]
+    },
+    {
+        "q": "Penalty for incorrect return is up to Rs. 25000.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Prosecution may follow for serious violations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Compounding of offences is available.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange penalty imposition:",
+        "type": "rearrange",
+        "words": [
+            "Violation identified",
+            "Show cause notice",
+            "Hearing",
+            "Penalty order",
+            "Appeal if aggrieved"
+        ]
+    },
+    {
+        "q": "Quarterly filers must opt for QRMP scheme.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "QRMP option is exercised on portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "QRMP status can be changed once per quarter.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Default is monthly filing if not opted.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Turnover limit for QRMP is Rs. 5 crore.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match QRMP features:",
+        "type": "match",
+        "left": [
+            "Eligibility",
+            "GSTR-1",
+            "GSTR-3B",
+            "IFF"
+        ],
+        "right": [
+            "Up to Rs. 5 crore",
+            "Quarterly",
+            "Quarterly",
+            "Optional monthly B2B"
+        ]
+    },
+    {
+        "q": "IFF is optional for QRMP filers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IFF helps recipient get ITC earlier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IFF invoices flow to quarterly GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IFF limit increase requires approval.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "IFF is filed in first two months of quarter.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange IFF process:",
+        "type": "rearrange",
+        "words": [
+            "Issue B2B invoice",
+            "Upload in IFF",
+            "Recipient gets ITC",
+            "Include in quarterly GSTR-1",
+            "No duplication"
+        ]
+    },
+    {
+        "q": "PMT-06 is challan for QRMP monthly payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "PMT-06 due date is 25th of next month.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "PMT-06 payment methods include fixed sum.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fixed sum is 35% of last quarter liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Self-assessment is actual liability calculation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match PMT-06 methods:",
+        "type": "match",
+        "left": [
+            "Fixed sum",
+            "Self-assessment",
+            "Due date",
+            "Adjustment"
+        ],
+        "right": [
+            "35% of last quarter",
+            "Actual calculation",
+            "25th of month",
+            "In GSTR-3B"
+        ]
+    },
+    {
+        "q": "Return filing is first step in tax compliance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Accurate returns reduce future problems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Documentation supports return data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Audit trail of returns should be maintained.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Professional advice helps in complex situations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange compliance best practices:",
+        "type": "rearrange",
+        "words": [
+            "Maintain good records",
+            "Reconcile regularly",
+            "File on time",
+            "Pay correct tax",
+            "Respond to notices"
+        ]
+    },
+    {
+        "q": "Notice for non-filing is issued by system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ASMT-10 is notice for return scrutiny.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ASMT-11 is reply to scrutiny notice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ASMT-12 is order after scrutiny.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Scrutiny may result in demand or closure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match scrutiny forms:",
+        "type": "match",
+        "left": [
+            "ASMT-10",
+            "ASMT-11",
+            "ASMT-12",
+            "DRC-01"
+        ],
+        "right": [
+            "Scrutiny notice",
+            "Reply",
+            "Order",
+            "Demand notice"
+        ]
+    },
+    {
+        "q": "Demand notice DRC-07 follows order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Payment against demand is through DRC-03.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Appeal against demand is to appellate authority.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Pre-deposit is required for appeal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Stay on demand may be obtained pending appeal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange demand response:",
+        "type": "rearrange",
+        "words": [
+            "Receive demand",
+            "Evaluate grounds",
+            "Pay or appeal",
+            "Pre-deposit if appeal",
+            "Follow up"
+        ]
+    },
+    {
+        "q": "Multiple GSTIN business must file separately for each.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Each state registration has separate returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Inter-unit transactions must be reported correctly.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Group consolidation is for internal purposes only.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Each GSTIN has separate annual return.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match multi-GSTIN compliance:",
+        "type": "match",
+        "left": [
+            "Monthly returns",
+            "Annual return",
+            "ISD",
+            "Reconciliation"
+        ],
+        "right": [
+            "Per GSTIN",
+            "Per GSTIN",
+            "Separate if applicable",
+            "Per GSTIN"
+        ]
+    },
+    {
+        "q": "SEZ unit has separate GSTIN and returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ supplies are reported in GSTR-1 Table 6.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "DTA to SEZ is zero-rated supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SEZ unit claims IGST refund or gets without payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "LUT is required for supply to SEZ without IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange SEZ supply reporting:",
+        "type": "rearrange",
+        "words": [
+            "Supply to SEZ",
+            "Report in Table 6",
+            "With or without IGST",
+            "Claim refund if paid",
+            "Maintain LUT"
+        ]
+    },
+    {
+        "q": "GSTR-1A was proposed for modifications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-2 and GSTR-3 were suspended.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Simplified return structure uses GSTR-1 and GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "New return system proposals are under consideration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Current system is interim but continues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match return evolution:",
+        "type": "match",
+        "left": [
+            "Original",
+            "Suspended",
+            "Current",
+            "Proposed"
+        ],
+        "right": [
+            "GSTR-1,2,3",
+            "GSTR-2,3",
+            "GSTR-1, 3B",
+            "Simplified"
+        ]
+    },
+    {
+        "q": "Nil rated means 0% GST rate applies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Exempt means no GST is leviable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Non-GST means outside GST purview.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "All three are reported in Table 8 but differently treated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC is not available for exempt supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange supply classification:",
+        "type": "rearrange",
+        "words": [
+            "Identify supply type",
+            "Check notification",
+            "Apply correct treatment",
+            "Report appropriately",
+            "ITC implications"
+        ]
+    },
+    {
+        "q": "Zero-rated supply is export or SEZ supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Zero-rated allows ITC claim fully.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Zero-rated is different from nil rated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Zero-rated with IGST enables refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Zero-rated under LUT means no tax upfront.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match zero-rated options:",
+        "type": "match",
+        "left": [
+            "With IGST",
+            "Without IGST",
+            "Refund",
+            "ITC"
+        ],
+        "right": [
+            "Pay and claim refund",
+            "Under LUT",
+            "Of IGST or ITC",
+            "Fully available"
+        ]
+    },
+    {
+        "q": "Import of goods is reported in GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "IGST on imports is paid through customs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Import ITC is claimed in GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Bill of entry is basis for import ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Import appears in GSTR-2A from customs data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange import reporting:",
+        "type": "rearrange",
+        "words": [
+            "Import goods",
+            "Pay IGST at customs",
+            "Get bill of entry",
+            "Claim ITC in 3B",
+            "Match with 2A"
+        ]
+    },
+    {
+        "q": "Stock transfer to job worker is on challan.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Job work return within time is not supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Job work return after time limit is supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Job work charges are separate invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Principal can supply from job worker location.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match job work return treatment:",
+        "type": "match",
+        "left": [
+            "Within 1 year",
+            "After 1 year",
+            "Capital goods",
+            "Charges"
+        ],
+        "right": [
+            "No supply",
+            "Supply",
+            "3 years limit",
+            "Taxable service"
+        ]
+    },
+    {
+        "q": "Credit note reduces output tax liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit note reduces turnover in return.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit note affects recipient ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Recipient must reverse ITC on credit note receipt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Credit note has time limit for issuance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange credit note impact:",
+        "type": "rearrange",
+        "words": [
+            "Issue credit note",
+            "Report in GSTR-1",
+            "Reduce output liability",
+            "Recipient reverses ITC",
+            "Net tax adjusts"
+        ]
+    },
+    {
+        "q": "Debit note increases output tax liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debit note increases turnover in return.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Recipient can claim additional ITC on debit note.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debit note has no time limit unlike credit note.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Debit note is reported in GSTR-1 Table 9B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match debit note treatment:",
+        "type": "match",
+        "left": [
+            "Supplier action",
+            "Recipient action",
+            "Reporting",
+            "Time limit"
+        ],
+        "right": [
+            "Increase output",
+            "Claim more ITC",
+            "Table 9B",
+            "None specified"
+        ]
+    },
+    {
+        "q": "RCM on legal services is reported in GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM on GTA services is reported in GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM on import of services is IGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM on security services is by recipient.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "RCM list is in notifications.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange RCM compliance:",
+        "type": "rearrange",
+        "words": [
+            "Identify RCM supply",
+            "Self-invoice if needed",
+            "Pay tax in 3B",
+            "Claim ITC",
+            "Report correctly"
+        ]
+    },
+    {
+        "q": "E-invoice data auto-populates GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice reduces manual data entry.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice cancellation affects GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "E-invoice and manual invoice should not duplicate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Reconciliation includes e-invoice data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match e-invoice and returns:",
+        "type": "match",
+        "left": [
+            "E-invoice",
+            "GSTR-1",
+            "Cancellation",
+            "Amendment"
+        ],
+        "right": [
+            "Auto-populates",
+            "Includes e-invoice",
+            "Reflects in 1",
+            "Through CDN"
+        ]
+    },
+    {
+        "q": "Annual aggregate turnover determines filing frequency.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Turnover above Rs. 5 crore requires monthly filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Turnover calculation includes all GSTINs of PAN.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "New registration gets turnover estimate for first year.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Threshold crossing changes filing requirement.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Rearrange turnover-based compliance:",
+        "type": "rearrange",
+        "words": [
+            "Calculate annual turnover",
+            "Check threshold",
+            "Determine frequency",
+            "Opt for scheme",
+            "File accordingly"
+        ]
+    },
+    {
+        "q": "Which table in GSTR-1 is for B2B supplies?",
+        "type": "mcq",
+        "options": [
+            "Table 4",
+            "Table 5",
+            "Table 6",
+            "Table 7"
+        ],
+        "correct": "Table 4"
+    },
+    {
+        "q": "What is the threshold for e-invoice applicability?",
+        "type": "mcq",
+        "options": [
+            "Rs. 5 crore turnover",
+            "Rs. 10 crore turnover",
+            "Rs. 20 crore turnover",
+            "Rs. 50 crore turnover"
+        ],
+        "correct": "Rs. 5 crore turnover"
+    },
+    {
+        "q": "GSTR-2B is generated on which date of the month?",
+        "type": "mcq",
+        "options": [
+            "14th",
+            "11th",
+            "13th",
+            "15th"
+        ],
+        "correct": "14th"
+    },
+    {
+        "q": "Which form is used for voluntary tax payment?",
+        "type": "mcq",
+        "options": [
+            "DRC-03",
+            "DRC-01",
+            "DRC-07",
+            "PMT-06"
+        ],
+        "correct": "DRC-03"
+    },
+    {
+        "q": "What is the interest rate on late payment of GST?",
+        "type": "mcq",
+        "options": [
+            "18% per annum",
+            "12% per annum",
+            "24% per annum",
+            "15% per annum"
+        ],
+        "correct": "18% per annum"
+    },
+    {
+        "q": "Which return is for Input Service Distributor?",
+        "type": "mcq",
+        "options": [
+            "GSTR-6",
+            "GSTR-5",
+            "GSTR-7",
+            "GSTR-8"
+        ],
+        "correct": "GSTR-6"
+    },
+    {
+        "q": "GSTR-7 is filed by whom?",
+        "type": "mcq",
+        "options": [
+            "TDS deductor",
+            "TCS collector",
+            "Composition dealer",
+            "ISD"
+        ],
+        "correct": "TDS deductor"
+    },
+    {
+        "q": "What is the TDS rate under GST?",
+        "type": "mcq",
+        "options": [
+            "2%",
+            "1%",
+            "5%",
+            "10%"
+        ],
+        "correct": "2%"
+    },
+    {
+        "q": "GSTR-8 is filed by whom?",
+        "type": "mcq",
+        "options": [
+            "E-commerce operator",
+            "TDS deductor",
+            "Composition dealer",
+            "Regular taxpayer"
+        ],
+        "correct": "E-commerce operator"
+    },
+    {
+        "q": "What is the TCS rate under GST?",
+        "type": "mcq",
+        "options": [
+            "1%",
+            "2%",
+            "0.5%",
+            "5%"
+        ],
+        "correct": "1%"
+    },
+    {
+        "q": "GSTR-10 is which type of return?",
+        "type": "mcq",
+        "options": [
+            "Final return",
+            "Annual return",
+            "Monthly return",
+            "Quarterly return"
+        ],
+        "correct": "Final return"
+    },
+    {
+        "q": "GSTR-11 is for whom?",
+        "type": "mcq",
+        "options": [
+            "UIN holders",
+            "SEZ units",
+            "EOU",
+            "Composition dealers"
+        ],
+        "correct": "UIN holders"
+    },
+    {
+        "q": "What is the due date for GSTR-9?",
+        "type": "mcq",
+        "options": [
+            "31st December",
+            "30th September",
+            "31st March",
+            "30th November"
+        ],
+        "correct": "31st December"
+    },
+    {
+        "q": "GSTR-9C threshold is Rs. ______ crore turnover.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "2",
+            "10",
+            "20"
+        ]
+    },
+    {
+        "q": "Which section governs annual return?",
+        "type": "mcq",
+        "options": [
+            "Section 44",
+            "Section 37",
+            "Section 39",
+            "Section 35"
+        ],
+        "correct": "Section 44"
+    },
+    {
+        "q": "IFF limit per month is Rs. ______ lakh.",
+        "type": "fill_blank",
+        "answers": [
+            "50"
+        ],
+        "other_options": [
+            "25",
+            "75",
+            "100"
+        ]
+    },
+    {
+        "q": "PMT-06 due date is ______ of next month.",
+        "type": "fill_blank",
+        "answers": [
+            "25th"
+        ],
+        "other_options": [
+            "20th",
+            "22nd",
+            "28th"
+        ]
+    },
+    {
+        "q": "Fixed sum method in QRMP is ______ percent of last quarter.",
+        "type": "fill_blank",
+        "answers": [
+            "35"
+        ],
+        "other_options": [
+            "25",
+            "50",
+            "40"
+        ]
+    },
+    {
+        "q": "CMP-08 due date is ______ of month after quarter.",
+        "type": "fill_blank",
+        "answers": [
+            "18th"
+        ],
+        "other_options": [
+            "15th",
+            "20th",
+            "22nd"
+        ]
+    },
+    {
+        "q": "GSTR-6 due date is ______ of next month.",
+        "type": "fill_blank",
+        "answers": [
+            "13th"
+        ],
+        "other_options": [
+            "10th",
+            "11th",
+            "15th"
+        ]
+    },
+    {
+        "q": "GSTR-10 is due within ______ months of cancellation.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "1",
+            "6",
+            "12"
+        ]
+    },
+    {
+        "q": "Penalty under section 122 is minimum Rs. ______.",
+        "type": "fill_blank",
+        "answers": [
+            "10000"
+        ],
+        "other_options": [
+            "5000",
+            "25000",
+            "50000"
+        ]
+    },
+    {
+        "q": "Provisional refund for exports is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "90"
+        ],
+        "other_options": [
+            "80",
+            "95",
+            "100"
+        ]
+    },
+    {
+        "q": "Export refund is processed within ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "60"
+        ],
+        "other_options": [
+            "30",
+            "45",
+            "90"
+        ]
+    },
+    {
+        "q": "ASMT-10 is for return scrutiny.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ASMT-11 is taxpayer's response to scrutiny.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ASMT-12 is scrutiny order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-2A updates dynamically.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-2B is static and date-locked.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match GSTR forms and purposes:",
+        "type": "match",
+        "left": [
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-9",
+            "GSTR-9C"
+        ],
+        "right": [
+            "Outward supplies",
+            "Summary return",
+            "Annual return",
+            "Reconciliation"
+        ]
+    },
+    {
+        "q": "Match special returns:",
+        "type": "match",
+        "left": [
+            "GSTR-4",
+            "GSTR-5",
+            "GSTR-6",
+            "GSTR-7"
+        ],
+        "right": [
+            "Composition annual",
+            "NRTP",
+            "ISD",
+            "TDS"
+        ]
+    },
+    {
+        "q": "Match GSTR-1 tables and content:",
+        "type": "match",
+        "left": [
+            "Table 4",
+            "Table 6",
+            "Table 8",
+            "Table 9"
+        ],
+        "right": [
+            "B2B",
+            "Exports",
+            "NIL/Exempt",
+            "Amendments"
+        ]
+    },
+    {
+        "q": "Match GSTR-3B tables:",
+        "type": "match",
+        "left": [
+            "Table 3.1",
+            "Table 3.2",
+            "Table 4",
+            "Table 5"
+        ],
+        "right": [
+            "Outward",
+            "RCM",
+            "ITC",
+            "Exempt"
+        ]
+    },
+    {
+        "q": "Match due dates:",
+        "type": "match",
+        "left": [
+            "GSTR-1 monthly",
+            "GSTR-3B",
+            "GSTR-7",
+            "GSTR-8"
+        ],
+        "right": [
+            "11th",
+            "20th",
+            "10th",
+            "10th"
+        ]
+    },
+    {
+        "q": "Rearrange monthly return filing sequence:",
+        "type": "rearrange",
+        "words": [
+            "Issue invoices",
+            "Upload to GSTR-1",
+            "File GSTR-1",
+            "Prepare GSTR-3B",
+            "File GSTR-3B"
+        ]
+    },
+    {
+        "q": "Rearrange GSTR-9 preparation:",
+        "type": "rearrange",
+        "words": [
+            "Complete monthly returns",
+            "Reconcile GSTR-1 and 3B",
+            "Prepare GSTR-9",
+            "Review and verify",
+            "File GSTR-9"
+        ]
+    },
+    {
+        "q": "Rearrange ITC claim process in returns:",
+        "type": "rearrange",
+        "words": [
+            "Receive invoice",
+            "Check GSTR-2B",
+            "Verify eligibility",
+            "Claim in GSTR-3B",
+            "Report in credit ledger"
+        ]
+    },
+    {
+        "q": "Rearrange refund application:",
+        "type": "rearrange",
+        "words": [
+            "Accumulate ITC",
+            "File RFD-01",
+            "Submit documents",
+            "Get provisional refund",
+            "Final order"
+        ]
+    },
+    {
+        "q": "Rearrange scrutiny response:",
+        "type": "rearrange",
+        "words": [
+            "Receive ASMT-10",
+            "Gather documents",
+            "Prepare response",
+            "File ASMT-11",
+            "Await order"
+        ]
+    },
+    {
+        "q": "GSTR-1 contains credit note details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-1 contains debit note details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "HSN summary in GSTR-1 is mandatory for all.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "HSN summary requires 4 or 6 digit codes based on turnover.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Document summary shows invoice serial gaps.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-3B allows ITC claim based on GSTR-2B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-3B Table 4 shows total ITC available.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-3B Table 5 shows exempt supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-3B allows tax offset from ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "GSTR-3B balance tax is paid from cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Late fee is calculated automatically by system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest is calculated from due date to payment date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Late fee and interest are paid from cash ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Late fee cannot be paid from ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Penalty for non-filing triggers suo motu assessment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is form for return scrutiny notice?",
+        "type": "mcq",
+        "options": [
+            "ASMT-10",
+            "ASMT-11",
+            "DRC-01",
+            "DRC-03"
+        ],
+        "correct": "ASMT-10"
+    },
+    {
+        "q": "What is form for taxpayer response to scrutiny?",
+        "type": "mcq",
+        "options": [
+            "ASMT-11",
+            "ASMT-10",
+            "ASMT-12",
+            "DRC-01A"
+        ],
+        "correct": "ASMT-11"
+    },
+    {
+        "q": "What is form for scrutiny order?",
+        "type": "mcq",
+        "options": [
+            "ASMT-12",
+            "ASMT-10",
+            "ASMT-11",
+            "DRC-07"
+        ],
+        "correct": "ASMT-12"
+    },
+    {
+        "q": "What is form for demand notice?",
+        "type": "mcq",
+        "options": [
+            "DRC-07",
+            "DRC-01",
+            "DRC-03",
+            "ASMT-12"
+        ],
+        "correct": "DRC-07"
+    },
+    {
+        "q": "What is form for pre-demand communication?",
+        "type": "mcq",
+        "options": [
+            "DRC-01A",
+            "DRC-01",
+            "DRC-07",
+            "ASMT-10"
+        ],
+        "correct": "DRC-01A"
+    },
+    {
+        "q": "Which return contains HSN wise summary?",
+        "type": "mcq",
+        "options": [
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-2A",
+            "GSTR-2B"
+        ],
+        "correct": "GSTR-1"
+    },
+    {
+        "q": "Which return contains document summary?",
+        "type": "mcq",
+        "options": [
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-9",
+            "GSTR-2B"
+        ],
+        "correct": "GSTR-1"
+    },
+    {
+        "q": "Which statement shows ITC available for recipient?",
+        "type": "mcq",
+        "options": [
+            "GSTR-2B",
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-9"
+        ],
+        "correct": "GSTR-2B"
+    },
+    {
+        "q": "Which return reconciles annual data with books?",
+        "type": "mcq",
+        "options": [
+            "GSTR-9C",
+            "GSTR-9",
+            "GSTR-3B",
+            "GSTR-1"
+        ],
+        "correct": "GSTR-9C"
+    },
+    {
+        "q": "Which scheme allows quarterly return filing?",
+        "type": "mcq",
+        "options": [
+            "QRMP",
+            "Composition",
+            "Regular",
+            "ISD"
+        ],
+        "correct": "QRMP"
+    },
+    {
+        "q": "QRMP scheme is for taxpayers with turnover up to:",
+        "type": "mcq",
+        "options": [
+            "Rs. 5 crore",
+            "Rs. 1.5 crore",
+            "Rs. 10 crore",
+            "Rs. 2 crore"
+        ],
+        "correct": "Rs. 5 crore"
+    },
+    {
+        "q": "IFF stands for:",
+        "type": "mcq",
+        "options": [
+            "Invoice Furnishing Facility",
+            "Invoice Filing Facility",
+            "Inward Furnishing Facility",
+            "Input Furnishing Facility"
+        ],
+        "correct": "Invoice Furnishing Facility"
+    },
+    {
+        "q": "QRMP taxpayer pays monthly tax through:",
+        "type": "mcq",
+        "options": [
+            "PMT-06",
+            "GSTR-3B",
+            "DRC-03",
+            "RFD-01"
+        ],
+        "correct": "PMT-06"
+    },
+    {
+        "q": "Composition dealer files which annual return?",
+        "type": "mcq",
+        "options": [
+            "GSTR-4",
+            "GSTR-9",
+            "GSTR-9A",
+            "GSTR-9C"
+        ],
+        "correct": "GSTR-4"
+    },
+    {
+        "q": "GST audit was mandatory for turnover above:",
+        "type": "mcq",
+        "options": [
+            "Rs. 2 crore",
+            "Rs. 5 crore",
+            "Rs. 10 crore",
+            "Rs. 1 crore"
+        ],
+        "correct": "Rs. 2 crore"
+    },
+    {
+        "q": "GST audit is now replaced by:",
+        "type": "mcq",
+        "options": [
+            "Self-certification",
+            "CA certification",
+            "Government audit",
+            "No requirement"
+        ],
+        "correct": "Self-certification"
+    },
+    {
+        "q": "Export refund can be claimed through:",
+        "type": "mcq",
+        "options": [
+            "RFD-01",
+            "DRC-03",
+            "PMT-06",
+            "GSTR-3B"
+        ],
+        "correct": "RFD-01"
+    },
+    {
+        "q": "Zero-rated supply means:",
+        "type": "mcq",
+        "options": [
+            "Export or SEZ supply",
+            "Exempt supply",
+            "Nil rated supply",
+            "Non-GST supply"
+        ],
+        "correct": "Export or SEZ supply"
+    },
+    {
+        "q": "Place of supply for services to B2B is:",
+        "type": "mcq",
+        "options": [
+            "Recipient location",
+            "Supplier location",
+            "Performance location",
+            "Actual user location"
+        ],
+        "correct": "Recipient location"
+    },
+    {
+        "q": "Inter-state supply attracts:",
+        "type": "mcq",
+        "options": [
+            "IGST",
+            "CGST + SGST",
+            "CGST only",
+            "SGST only"
+        ],
+        "correct": "IGST"
+    },
+    {
+        "q": "Intra-state supply attracts:",
+        "type": "mcq",
+        "options": [
+            "CGST + SGST",
+            "IGST",
+            "CGST only",
+            "SGST only"
+        ],
+        "correct": "CGST + SGST"
+    },
+    {
+        "q": "RCM is reported in which table of GSTR-3B?",
+        "type": "mcq",
+        "options": [
+            "Table 3.1(d)",
+            "Table 3.2",
+            "Table 4",
+            "Table 5"
+        ],
+        "correct": "Table 3.1(d)"
+    },
+    {
+        "q": "RCM ITC is claimed in which table?",
+        "type": "mcq",
+        "options": [
+            "Table 4",
+            "Table 3.1",
+            "Table 3.2",
+            "Table 5"
+        ],
+        "correct": "Table 4"
+    },
+    {
+        "q": "Blocked ITC is specified in which section?",
+        "type": "mcq",
+        "options": [
+            "Section 17(5)",
+            "Section 16",
+            "Section 18",
+            "Section 19"
+        ],
+        "correct": "Section 17(5)"
+    },
+    {
+        "q": "ITC reversal for non-payment is after ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "180"
+        ],
+        "other_options": [
+            "90",
+            "120",
+            "365"
+        ]
+    },
+    {
+        "q": "Time limit for ITC claim is September of next year or:",
+        "type": "mcq",
+        "options": [
+            "Annual return filing",
+            "October of next year",
+            "December of same year",
+            "March of next year"
+        ],
+        "correct": "Annual return filing"
+    },
+    {
+        "q": "Notice period for assessment is ______ years from due date.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "2",
+            "5",
+            "7"
+        ]
+    },
+    {
+        "q": "Extended period for fraud cases is ______ years.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "3",
+            "7",
+            "10"
+        ]
+    },
+    {
+        "q": "Appeal to first appellate authority is within ______ months.",
+        "type": "fill_blank",
+        "answers": [
+            "3"
+        ],
+        "other_options": [
+            "1",
+            "6",
+            "12"
+        ]
+    },
+    {
+        "q": "Pre-deposit for first appeal is ______ percent.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "5",
+            "15",
+            "25"
+        ]
+    },
+    {
+        "q": "Pre-deposit for GSTAT appeal is ______ percent additional.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "5",
+            "15",
+            "25"
+        ]
+    },
+    {
+        "q": "Maximum pre-deposit is Rs. ______ crore.",
+        "type": "fill_blank",
+        "answers": [
+            "25"
+        ],
+        "other_options": [
+            "10",
+            "50",
+            "100"
+        ]
+    },
+    {
+        "q": "IGST credit must be used first for IGST liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "CGST credit can offset SGST liability.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "SGST credit can offset CGST liability.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "IGST credit can offset CGST and SGST liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cash ledger balance can be used for any head.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Electronic credit ledger shows ITC balance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Electronic liability ledger shows dues.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Electronic liability is offset by credit first.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Cash balance after set-off is refundable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "ITC balance can be claimed as cash refund in limited cases.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match ITC utilization order:",
+        "type": "match",
+        "left": [
+            "IGST credit",
+            "CGST credit",
+            "SGST credit",
+            "Balance liability"
+        ],
+        "right": [
+            "First use IGST then CGST/SGST",
+            "CGST then IGST",
+            "SGST then IGST",
+            "Pay from cash"
+        ]
+    },
+    {
+        "q": "Match electronic ledgers:",
+        "type": "match",
+        "left": [
+            "Credit ledger",
+            "Cash ledger",
+            "Liability ledger",
+            "Balance"
+        ],
+        "right": [
+            "ITC balance",
+            "Cash deposits",
+            "Tax dues",
+            "Available for use"
+        ]
+    },
+    {
+        "q": "Match time limits:",
+        "type": "match",
+        "left": [
+            "ITC claim",
+            "Assessment period",
+            "Fraud cases",
+            "Appeal"
+        ],
+        "right": [
+            "September next year",
+            "3 years",
+            "5 years",
+            "3 months"
+        ]
+    },
+    {
+        "q": "Match refund categories:",
+        "type": "match",
+        "left": [
+            "Export with IGST",
+            "Export under LUT",
+            "Inverted duty",
+            "Excess balance"
+        ],
+        "right": [
+            "Refund of IGST",
+            "Refund of ITC",
+            "Refund of accumulated ITC",
+            "Refund of cash"
+        ]
+    },
+    {
+        "q": "Match penalty provisions:",
+        "type": "match",
+        "left": [
+            "Section 122",
+            "Section 123",
+            "Section 125",
+            "Section 132"
+        ],
+        "right": [
+            "Non-compliance",
+            "Failure to furnish",
+            "General penalty",
+            "Prosecution"
+        ]
+    },
+    {
+        "q": "Rearrange appeal process:",
+        "type": "rearrange",
+        "words": [
+            "Receive order",
+            "Prepare appeal",
+            "Pay pre-deposit",
+            "File appeal",
+            "Attend hearing"
+        ]
+    },
+    {
+        "q": "Rearrange refund process:",
+        "type": "rearrange",
+        "words": [
+            "Identify refund type",
+            "Prepare application",
+            "Upload documents",
+            "Get provisional",
+            "Final order"
+        ]
+    },
+    {
+        "q": "Rearrange ITC utilization:",
+        "type": "rearrange",
+        "words": [
+            "Calculate output liability",
+            "Set off IGST first",
+            "Then CGST/SGST",
+            "Balance from cash",
+            "File return"
+        ]
+    },
+    {
+        "q": "Rearrange compliance remediation:",
+        "type": "rearrange",
+        "words": [
+            "Identify non-compliance",
+            "Calculate dues",
+            "Pay through DRC-03",
+            "File pending returns",
+            "Regularize status"
+        ]
+    },
+    {
+        "q": "Rearrange registration to filing:",
+        "type": "rearrange",
+        "words": [
+            "Get registration",
+            "Issue invoices",
+            "File GSTR-1",
+            "File GSTR-3B",
+            "File annual return"
+        ]
+    },
+    {
+        "q": "NIL return filing is allowed through SMS.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SMS filing requires registered mobile number.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SMS filing is available for GSTR-1 and GSTR-3B.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SMS filing is available only for NIL returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "SMS filing generates ARN after successful filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition taxpayer cannot collect tax from customer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition taxpayer cannot issue tax invoice.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition taxpayer issues bill of supply.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition taxpayer files CMP-08 quarterly.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Composition scheme requires annual GSTR-4.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match composition compliance:",
+        "type": "match",
+        "left": [
+            "Tax rate",
+            "ITC",
+            "Invoice",
+            "Returns"
+        ],
+        "right": [
+            "Flat rate on turnover",
+            "Not available",
+            "Bill of supply",
+            "CMP-08 and GSTR-4"
+        ]
+    },
+    {
+        "q": "Match non-resident compliance:",
+        "type": "match",
+        "left": [
+            "Registration",
+            "Tax deposit",
+            "Return",
+            "Timeline"
+        ],
+        "right": [
+            "Temporary GSTIN",
+            "Advance required",
+            "GSTR-5",
+            "Within 20 days of expiry"
+        ]
+    },
+    {
+        "q": "Rearrange composition scheme entry:",
+        "type": "rearrange",
+        "words": [
+            "Check eligibility",
+            "File CMP-02",
+            "Get approval",
+            "Reverse ITC",
+            "Follow composition rules"
+        ]
+    },
+    {
+        "q": "Rearrange exit from composition:",
+        "type": "rearrange",
+        "words": [
+            "File CMP-04",
+            "Convert to regular",
+            "Issue tax invoices",
+            "File monthly returns",
+            "Claim ITC going forward"
+        ]
+    },
+    {
+        "q": "What happens if GSTR-1 is not filed for 2 months?",
+        "type": "mcq",
+        "options": [
+            "E-way bill blocked",
+            "GSTIN suspended",
+            "No consequence",
+            "Immediate cancellation"
+        ],
+        "correct": "E-way bill blocked"
+    },
+    {
+        "q": "What happens if GSTR-3B is not filed for 2 months?",
+        "type": "mcq",
+        "options": [
+            "GSTR-1 filing blocked",
+            "GSTIN cancelled",
+            "No consequence",
+            "Penalty only"
+        ],
+        "correct": "GSTR-1 filing blocked"
+    },
+    {
+        "q": "Continuous non-filing may lead to:",
+        "type": "mcq",
+        "options": [
+            "GSTIN cancellation",
+            "Late fee only",
+            "Interest only",
+            "No consequence"
+        ],
+        "correct": "GSTIN cancellation"
+    },
+    {
+        "q": "Best judgment assessment is for:",
+        "type": "mcq",
+        "options": [
+            "Non-filers",
+            "Regular filers",
+            "Composition dealers",
+            "ISD"
+        ],
+        "correct": "Non-filers"
+    },
+    {
+        "q": "Suo motu registration cancellation requires:",
+        "type": "mcq",
+        "options": [
+            "Show cause notice",
+            "Immediate effect",
+            "Appeal first",
+            "Personal hearing"
+        ],
+        "correct": "Show cause notice"
+    },
+    {
+        "q": "Revoked GSTIN can be reactivated within:",
+        "type": "mcq",
+        "options": [
+            "30 days of cancellation order",
+            "60 days",
+            "90 days",
+            "1 year"
+        ],
+        "correct": "30 days of cancellation order"
+    },
+    {
+        "q": "Rearrange revocation process:",
+        "type": "rearrange",
+        "words": [
+            "File all pending returns",
+            "Pay all dues",
+            "Apply for revocation",
+            "Provide reasons",
+            "Get order"
+        ]
+    },
+    {
+        "q": "Rearrange compliance recovery:",
+        "type": "rearrange",
+        "words": [
+            "Identify pending items",
+            "Calculate liabilities",
+            "File returns",
+            "Pay dues",
+            "Resume regular compliance"
+        ]
+    },
+    {
+        "q": "Regular taxpayer must file returns even if no business.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "NIL returns have late fee of Rs. 20 per day.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Maximum late fee for NIL GSTR-3B is Rs. 500.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Regular late fee is Rs. 50 per day per Act.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Maximum late fee for regular GSTR-3B is Rs. 10000.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match late fee caps:",
+        "type": "match",
+        "left": [
+            "NIL GSTR-1",
+            "NIL GSTR-3B",
+            "Regular GSTR-1",
+            "Regular GSTR-3B"
+        ],
+        "right": [
+            "Rs. 500 max",
+            "Rs. 500 max",
+            "Rs. 10000 max",
+            "Rs. 10000 max"
+        ]
+    },
+    {
+        "q": "NIL return late fee capping is a relief measure.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Late fee varies based on turnover in some schemes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest is calculated on gross liability.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Interest is calculated on net tax liability after ITC.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Interest rate change was from 24% to 18%.",
+        "type": "true_false",
+        "correct": "True"
+    }
+]

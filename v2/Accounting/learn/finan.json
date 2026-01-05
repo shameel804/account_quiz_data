@@ -1,0 +1,167 @@
+{
+    "id": "learn_finan",
+    "topicId": "finan",
+    "topicTitle": "Financial Statements",
+    "description": "Master the four major financial statements: Balance Sheet, Income Statement, Cash Flow Statement, and Statement of Changes in Equity",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "finan_1",
+            "type": "content",
+            "title": "Welcome to Financial Statements",
+            "content": "# Introduction to Financial Statements\n\nFinancial statements are the **primary means** of communicating a company's financial performance and position to stakeholders.\n\n## What You Will Learn\n\n- **Balance Sheet** - Snapshot of financial position\n- **Income Statement** - Performance over a period\n- **Cash Flow Statement** - How cash moves through the business\n- **Statement of Changes in Equity** - Changes in owner's interest\n\n## Why Financial Statements Matter\n\n| Stakeholder | Uses Statements To |\n|-------------|-------------------|\n| Investors | Decide whether to buy/sell stock |\n| Creditors | Assess ability to repay loans |\n| Management | Make strategic decisions |\n| Employees | Evaluate job security |\n| Government | Calculate taxes owed |\n\n## The Financial Statement Relationship\n\n```\nIncome Statement\n      |\n      v (Net Income)\nStatement of Changes in Equity\n      |\n      v (Ending Equity)\nBalance Sheet\n      |\n      v (Cash balance ties to)\nCash Flow Statement\n```\n\n> **Key Insight:** All four statements are interconnected and must be read together for a complete picture!"
+        },
+        {
+            "id": "finan_2",
+            "type": "content",
+            "title": "The Balance Sheet Overview",
+            "content": "# The Balance Sheet\n\n## Also Known As: Statement of Financial Position\n\nThe balance sheet shows a company's **financial position at a specific point in time** - like a financial photograph.\n\n## The Fundamental Formula\n\n**Assets = Liabilities + Shareholders Equity**\n\n## Structure of the Balance Sheet\n\n### Assets (What We Own)\n\n**Current Assets** (converted to cash within 1 year)\n- Cash and Cash Equivalents\n- Accounts Receivable\n- Inventory\n- Prepaid Expenses\n\n**Non-Current Assets** (held for more than 1 year)\n- Property, Plant, and Equipment\n- Intangible Assets\n- Long-term Investments\n\n### Liabilities (What We Owe)\n\n**Current Liabilities** (due within 1 year)\n- Accounts Payable\n- Short-term Debt\n- Accrued Expenses\n\n**Non-Current Liabilities** (due after 1 year)\n- Long-term Debt\n- Bonds Payable\n- Deferred Tax Liabilities\n\n### Shareholders Equity (Owner's Interest)\n- Common Stock\n- Retained Earnings\n- Additional Paid-in Capital\n\n> **Remember:** The balance sheet must ALWAYS balance!"
+        },
+        {
+            "id": "finan_3",
+            "type": "content",
+            "title": "Balance Sheet Example",
+            "content": "# Balance Sheet in Action\n\n## Sample Balance Sheet\n\n**ABC Company Balance Sheet**\n*As of December 31, 2024*\n\n### ASSETS\n```\nCurrent Assets:\n  Cash                      $50,000\n  Accounts Receivable        30,000\n  Inventory                  45,000\n  Prepaid Insurance           5,000\n  ---------------------------------\n  Total Current Assets      $130,000\n\nNon-Current Assets:\n  Property & Equipment      $200,000\n  Less: Accumulated Deprec.  (40,000)\n  Intangible Assets           25,000\n  ---------------------------------\n  Total Non-Current Assets  $185,000\n  ---------------------------------\n  TOTAL ASSETS              $315,000\n```\n\n### LIABILITIES & EQUITY\n```\nCurrent Liabilities:\n  Accounts Payable          $25,000\n  Salaries Payable           10,000\n  Short-term Debt            15,000\n  ---------------------------------\n  Total Current Liabilities  $50,000\n\nNon-Current Liabilities:\n  Long-term Debt            $80,000\n  ---------------------------------\n  TOTAL LIABILITIES        $130,000\n\nShareholders Equity:\n  Common Stock              $100,000\n  Retained Earnings          85,000\n  ---------------------------------\n  TOTAL EQUITY             $185,000\n  ---------------------------------\n  TOTAL LIAB. & EQUITY     $315,000\n```\n\n> **Verification:** $315,000 = $130,000 + $185,000 (Balanced!)"
+        },
+        {
+            "id": "finan_quiz_1",
+            "type": "quiz",
+            "title": "Balance Sheet Check",
+            "content": "Test your understanding of the Balance Sheet!",
+            "quizQuestion": "Which of the following is classified as a Current Asset?",
+            "quizOptions": [
+                "Land",
+                "Accounts Receivable",
+                "Long-term Investments",
+                "Patents"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "finan_4",
+            "type": "content",
+            "title": "The Income Statement Overview",
+            "content": "# The Income Statement\n\n## Also Known As: Profit and Loss Statement (P&L)\n\nThe income statement shows a company's **financial performance over a period of time** - revenues, expenses, and resulting profit or loss.\n\n## The Basic Formula\n\n**Revenue - Expenses = Net Income (or Net Loss)**\n\n## Key Components\n\n### Revenue (Top Line)\n- Sales of goods or services\n- Interest income\n- Other operating income\n\n### Cost of Goods Sold (COGS)\n- Direct costs of producing goods sold\n- Materials, labor, manufacturing overhead\n\n### Gross Profit\n**Revenue - COGS = Gross Profit**\n\n### Operating Expenses\n- Selling expenses\n- General and administrative expenses\n- Depreciation and amortization\n\n### Operating Income\n**Gross Profit - Operating Expenses = Operating Income**\n\n### Other Items\n- Interest expense\n- Income tax expense\n\n### Net Income (Bottom Line)\n**Operating Income +- Other Items - Taxes = Net Income**\n\n> **Key Terms:** Top Line = Revenue, Bottom Line = Net Income"
+        },
+        {
+            "id": "finan_5",
+            "type": "content",
+            "title": "Income Statement Example",
+            "content": "# Income Statement in Action\n\n## Sample Income Statement\n\n**ABC Company Income Statement**\n*For the Year Ended December 31, 2024*\n\n```\nRevenue:\n  Net Sales                        $500,000\n  Other Revenue                      10,000\n  ------------------------------------\n  Total Revenue                    $510,000\n\nCost of Goods Sold                 (200,000)\n  ------------------------------------\nGross Profit                       $310,000\n\nOperating Expenses:\n  Selling Expenses                  $80,000\n  Administrative Expenses            60,000\n  Depreciation Expense               20,000\n  ------------------------------------\n  Total Operating Expenses         (160,000)\n  ------------------------------------\nOperating Income                   $150,000\n\nOther Income/(Expenses):\n  Interest Expense                  (15,000)\n  ------------------------------------\nIncome Before Taxes                $135,000\n\nIncome Tax Expense (25%)            (33,750)\n  ------------------------------------\nNet Income                         $101,250\n```\n\n## Key Margins\n\n| Margin | Calculation | Result |\n|--------|-------------|--------|\n| **Gross Margin** | 310,000 / 510,000 | 60.8% |\n| **Operating Margin** | 150,000 / 510,000 | 29.4% |\n| **Net Profit Margin** | 101,250 / 510,000 | 19.9% |\n\n> **Analysis:** Higher margins generally indicate better profitability!"
+        },
+        {
+            "id": "finan_6",
+            "type": "content",
+            "title": "Single-Step vs Multi-Step Income Statement",
+            "content": "# Income Statement Formats\n\n## Single-Step Format\n\nSimple format that groups all revenues and all expenses:\n\n```\nRevenues:\n  Sales Revenue           $500,000\n  Interest Income           5,000\n  ----------------------------\n  Total Revenues          $505,000\n\nExpenses:\n  Cost of Goods Sold      $200,000\n  Operating Expenses       150,000\n  Interest Expense          15,000\n  Income Tax                35,000\n  ----------------------------\n  Total Expenses          (400,000)\n  ----------------------------\nNet Income                $105,000\n```\n\n## Multi-Step Format\n\nMore detailed format showing subtotals:\n\n```\nNet Sales                 $500,000\nCost of Goods Sold        (200,000)\n  ----------------------------\nGross Profit              $300,000\n\nOperating Expenses        (150,000)\n  ----------------------------\nOperating Income          $150,000\n\nOther Revenues/Expenses:\n  Interest Income            5,000\n  Interest Expense         (15,000)\n  ----------------------------\nIncome Before Tax         $140,000\n\nIncome Tax Expense         (35,000)\n  ----------------------------\nNet Income                $105,000\n```\n\n## Which to Use?\n\n| Format | Best For |\n|--------|----------|\n| **Single-Step** | Small businesses, simpler operations |\n| **Multi-Step** | Larger companies, detailed analysis |\n\n> **Tip:** Multi-step provides more useful information for analysis!"
+        },
+        {
+            "id": "finan_quiz_2",
+            "type": "quiz",
+            "title": "Income Statement Quiz",
+            "content": "Test your understanding of the Income Statement!",
+            "quizQuestion": "What is the formula for Gross Profit?",
+            "quizOptions": [
+                "Net Income - Expenses",
+                "Revenue - Cost of Goods Sold",
+                "Operating Income - Interest",
+                "Revenue - All Expenses"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "finan_7",
+            "type": "content",
+            "title": "The Cash Flow Statement Overview",
+            "content": "# The Cash Flow Statement\n\n## Purpose\n\nThe cash flow statement shows **how cash moves in and out** of a business during a period. It explains the change in cash from the beginning to end of the period.\n\n## Why Cash Flow Matters\n\n- **Profitability does not equal cash** - A company can be profitable but cash-poor\n- Shows **actual liquidity** position\n- Reveals **quality of earnings**\n- Essential for **cash planning**\n\n## Three Sections\n\n### 1. Operating Activities\nCash from day-to-day business operations:\n- Cash received from customers\n- Cash paid to suppliers\n- Cash paid for operating expenses\n- Interest and taxes paid\n\n### 2. Investing Activities\nCash from buying/selling long-term assets:\n- Purchase of equipment\n- Sale of investments\n- Acquisitions of other companies\n\n### 3. Financing Activities\nCash from funding the business:\n- Issuing stock\n- Borrowing money\n- Repaying loans\n- Paying dividends\n\n## The Formula\n\n```\nBeginning Cash Balance\n+ Cash from Operating Activities\n+ Cash from Investing Activities\n+ Cash from Financing Activities\n= Ending Cash Balance\n```\n\n> **Critical:** Ending cash must match the cash on the Balance Sheet!"
+        },
+        {
+            "id": "finan_8",
+            "type": "content",
+            "title": "Cash Flow Statement Methods",
+            "content": "# Direct vs Indirect Method\n\n## Two Ways to Present Operating Activities\n\n### Direct Method\n\nShows actual cash receipts and payments:\n\n```\nCash Flows from Operating Activities:\n\n  Cash received from customers    $480,000\n  Cash paid to suppliers         (190,000)\n  Cash paid for wages             (80,000)\n  Cash paid for rent              (24,000)\n  Cash paid for interest          (15,000)\n  Cash paid for taxes             (30,000)\n  ------------------------------------\n  Net Cash from Operations        $141,000\n```\n\n### Indirect Method\n\nStarts with net income and adjusts for non-cash items:\n\n```\nCash Flows from Operating Activities:\n\n  Net Income                      $101,250\n  Adjustments:\n    Depreciation Expense           20,000\n    Increase in Accounts Rec.     (10,000)\n    Decrease in Inventory           8,000\n    Increase in Accounts Pay.      12,000\n    Decrease in Prepaid Exp.        2,000\n  ------------------------------------\n  Net Cash from Operations        $133,250\n```\n\n## Comparison\n\n| Aspect | Direct | Indirect |\n|--------|--------|----------|\n| **Shows** | Actual cash flows | Reconciliation |\n| **Starting point** | Cash receipts | Net Income |\n| **Preferred by** | FASB | Most companies |\n| **Ease of prep** | More difficult | Easier |\n\n> **In Practice:** Over 95% of companies use the indirect method!"
+        },
+        {
+            "id": "finan_9",
+            "type": "content",
+            "title": "Cash Flow Statement Example",
+            "content": "# Complete Cash Flow Statement\n\n**ABC Company Statement of Cash Flows**\n*For the Year Ended December 31, 2024*\n\n```\nCASH FLOWS FROM OPERATING ACTIVITIES:\n  Net Income                           $101,250\n  Adjustments for non-cash items:\n    Depreciation expense                 20,000\n  Changes in working capital:\n    Increase in accounts receivable      (5,000)\n    Decrease in inventory                 3,000\n    Increase in accounts payable          8,000\n  ----------------------------------------\n  Net Cash from Operating Activities   $127,250\n\nCASH FLOWS FROM INVESTING ACTIVITIES:\n  Purchase of equipment               ($45,000)\n  Sale of investments                   15,000\n  ----------------------------------------\n  Net Cash from Investing Activities   ($30,000)\n\nCASH FLOWS FROM FINANCING ACTIVITIES:\n  Proceeds from long-term debt         $50,000\n  Repayment of short-term debt         (20,000)\n  Dividends paid                        (25,000)\n  ----------------------------------------\n  Net Cash from Financing Activities     $5,000\n\n  ----------------------------------------\nNET INCREASE IN CASH                   $102,250\nCash at Beginning of Year                35,000\n  ----------------------------------------\nCASH AT END OF YEAR                    $137,250\n```\n\n## Analysis\n\n- **Positive operating cash flow** - Good sign, core business generates cash\n- **Negative investing** - Company is investing in growth\n- **Positive financing** - Raised more capital than repaid"
+        },
+        {
+            "id": "finan_quiz_3",
+            "type": "quiz",
+            "title": "Cash Flow Quiz",
+            "content": "Test your understanding of the Cash Flow Statement!",
+            "quizQuestion": "Under which section would the purchase of equipment be reported?",
+            "quizOptions": [
+                "Operating Activities",
+                "Investing Activities",
+                "Financing Activities",
+                "Non-Cash Activities"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "finan_10",
+            "type": "content",
+            "title": "Statement of Changes in Equity",
+            "content": "# Statement of Changes in Equity\n\n## Also Known As: Statement of Retained Earnings (simplified version)\n\n## Purpose\n\nThis statement explains **how equity changed** during the period. It bridges the beginning and ending equity balances.\n\n## Components of Equity\n\n### Share Capital\n- Common stock\n- Preferred stock\n- Additional paid-in capital\n\n### Retained Earnings\n- Accumulated profits not distributed as dividends\n- Increases with net income\n- Decreases with net losses and dividends\n\n### Other Comprehensive Income\n- Unrealized gains/losses on investments\n- Foreign currency translation adjustments\n- Pension adjustments\n\n### Treasury Stock\n- Company's own shares repurchased\n- Reduces total equity\n\n## The Basic Formula\n\n```\nBeginning Equity\n+ Net Income (or - Net Loss)\n+ Other Comprehensive Income\n+ Stock Issuances\n- Dividends Declared\n- Treasury Stock Purchases\n= Ending Equity\n```\n\n> **Connection:** Ending equity flows directly to the Balance Sheet!"
+        },
+        {
+            "id": "finan_11",
+            "type": "content",
+            "title": "Statement of Changes in Equity Example",
+            "content": "# Statement of Changes in Equity in Action\n\n**ABC Company Statement of Changes in Equity**\n*For the Year Ended December 31, 2024*\n\n```\n                      Common   Additional  Retained   Total\n                      Stock    Paid-in     Earnings   Equity\n                               Capital\n----------------------------------------------------------------\nBalance, Jan 1       $80,000   $15,000    $58,750   $153,750\n\nNet Income               -         -      101,250    101,250\n\nDividends Declared       -         -      (25,000)   (25,000)\n\nStock Issuance        5,000     5,000         -       10,000\n\n----------------------------------------------------------------\nBalance, Dec 31      $85,000   $20,000   $135,000   $240,000\n```\n\n## What This Tells Us\n\n1. **Net Income** of $101,250 increased retained earnings\n2. **Dividends** of $25,000 were distributed to shareholders\n3. **New stock** was issued for $10,000\n4. **Total equity grew** from $153,750 to $240,000\n\n## Verification\n\n| Change | Amount |\n|--------|--------|\n| + Net Income | +$101,250 |\n| - Dividends | -$25,000 |\n| + Stock Issuance | +$10,000 |\n| **Net Change** | **+$86,250** |\n\n$153,750 + $86,250 = $240,000 (Correct!)\n\n> **Note:** This ending equity matches the Balance Sheet equity section!"
+        },
+        {
+            "id": "finan_12",
+            "type": "content",
+            "title": "How Financial Statements Connect",
+            "content": "# The Financial Statement Interconnection\n\n## How They Link Together\n\n### Connection 1: Income Statement to Equity Statement\n- **Net Income** flows from Income Statement to Statement of Changes in Equity\n- Net Income increases Retained Earnings\n\n### Connection 2: Equity Statement to Balance Sheet\n- **Ending Equity** from the equity statement becomes the equity section of the Balance Sheet\n\n### Connection 3: Balance Sheet to Cash Flow Statement\n- **Beginning and ending cash** must match the cash flow statement\n- Changes in balance sheet accounts explain cash flows\n\n### Connection 4: Cash Flow to Balance Sheet\n- **Ending cash** from the cash flow statement matches cash on the Balance Sheet\n\n## Visual Flow\n\n```\n  INCOME STATEMENT\n         |\n         | Net Income\n         v\n  STATEMENT OF CHANGES IN EQUITY\n         |\n         | Ending Equity\n         v\n  BALANCE SHEET  <----  CASH FLOW STATEMENT\n     (Cash)               (Ending Cash)\n```\n\n## Practical Verification\n\nWhen reviewing financial statements:\n1. Check Net Income ties from IS to Equity Statement\n2. Check Ending Equity ties to Balance Sheet\n3. Check Ending Cash ties from Cash Flow to Balance Sheet\n\n> **Integrity Check:** If the statements do not tie, there is an error somewhere!"
+        },
+        {
+            "id": "finan_13",
+            "type": "content",
+            "title": "Reading Financial Statements",
+            "content": "# How to Analyze Financial Statements\n\n## Step-by-Step Approach\n\n### Step 1: Start with the Income Statement\n- Is the company profitable?\n- Are revenues growing?\n- Are margins healthy?\n\n### Step 2: Review the Balance Sheet\n- What assets does the company own?\n- How much debt does it carry?\n- Is equity growing?\n\n### Step 3: Analyze Cash Flows\n- Is operating cash flow positive?\n- Is the company investing in growth?\n- How is it financing operations?\n\n### Step 4: Check the Equity Statement\n- Are retained earnings growing?\n- Were dividends paid?\n- Was new stock issued?\n\n## Key Questions to Ask\n\n| Statement | Key Questions |\n|-----------|---------------|\n| **Income** | Is it profitable? Growing? |\n| **Balance** | Can it pay its debts? |\n| **Cash Flow** | Does it generate cash? |\n| **Equity** | Is owner value increasing? |\n\n## Red Flags to Watch\n\n- Net income positive but operating cash flow negative\n- Growing debt faster than equity\n- Declining margins over time\n- Large unexplained changes in accounts\n\n> **Tip:** Always read all four statements together for the complete picture!"
+        },
+        {
+            "id": "finan_14",
+            "type": "content",
+            "title": "Financial Statement Users",
+            "content": "# Who Uses Financial Statements?\n\n## Internal Users\n\n### Management\n- Make strategic decisions\n- Plan budgets and forecasts\n- Evaluate performance\n- Identify problems early\n\n### Employees\n- Assess job security\n- Negotiate compensation\n- Understand company health\n\n## External Users\n\n### Investors and Shareholders\n- Decide to buy, hold, or sell stock\n- Evaluate management performance\n- Assess dividend potential\n\n### Creditors and Lenders\n- Evaluate creditworthiness\n- Set loan terms and conditions\n- Monitor existing loans\n\n### Government and Regulators\n- Calculate taxes owed\n- Ensure compliance\n- Monitor industry health\n\n### Analysts and Advisors\n- Make recommendations\n- Value companies\n- Identify trends\n\n## Information Needs\n\n| User | Primary Interest |\n|------|------------------|\n| Investors | Profitability, growth potential |\n| Creditors | Liquidity, solvency |\n| Management | All aspects |\n| Government | Tax liability |\n| Employees | Stability, profitability |\n\n> **Remember:** Financial statements are designed to meet the needs of diverse users!"
+        },
+        {
+            "id": "finan_quiz_4",
+            "type": "quiz",
+            "title": "Users Quiz",
+            "content": "Test your understanding of financial statement users!",
+            "quizQuestion": "Which user group is MOST interested in a company's ability to repay loans?",
+            "quizOptions": [
+                "Investors",
+                "Creditors",
+                "Employees",
+                "Government"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "finan_15",
+            "type": "content",
+            "title": "Notes to Financial Statements",
+            "content": "# Notes to Financial Statements\n\n## What Are Notes?\n\nNotes (or footnotes) provide **additional detail and explanations** that cannot fit in the main financial statements.\n\n## Why Notes Matter\n\n- Explain accounting policies used\n- Provide detail behind summary numbers\n- Disclose contingencies and commitments\n- Required by GAAP and IFRS\n\n## Common Note Disclosures\n\n### Accounting Policies\n- Revenue recognition method\n- Depreciation method\n- Inventory valuation method\n\n### Detail on Specific Accounts\n- Breakdown of property and equipment\n- Aging of accounts receivable\n- Long-term debt terms and maturity\n\n### Contingencies\n- Pending lawsuits\n- Environmental liabilities\n- Guarantees\n\n### Related Party Transactions\n- Transactions with owners\n- Transactions with affiliates\n\n### Subsequent Events\n- Significant events after balance sheet date\n- Acquisitions, disasters, major contracts\n\n## Example Note\n\n```\nNote 5: Inventory\n\nInventory is valued at the lower of cost or\nnet realizable value using the FIFO method.\n\n                        2024        2023\nRaw Materials        $15,000     $12,000\nWork in Progress      10,000       8,000\nFinished Goods        20,000      18,000\n-------------------------\nTotal Inventory      $45,000     $38,000\n```\n\n> **Tip:** Always read the notes - they contain crucial information!"
+        },
+        {
+            "id": "finan_16",
+            "type": "content",
+            "title": "Common Financial Statement Errors",
+            "content": "# Avoiding Common Mistakes\n\n## Preparation Errors\n\n### Classification Errors\n- Putting current items in non-current section\n- Mixing operating and non-operating items\n- Misclassifying cash flow activities\n\n### Timing Errors\n- Recording revenue in wrong period\n- Missing accruals at period end\n- Incorrect depreciation calculations\n\n### Mathematical Errors\n- Calculation mistakes\n- Incorrect totals and subtotals\n- Balance sheet does not balance\n\n## Interpretation Errors\n\n### Ignoring Context\n- Not comparing to prior periods\n- Not considering industry norms\n- Overlooking notes and disclosures\n\n### Over-Reliance on One Statement\n- Looking only at income (ignoring cash)\n- Looking only at profits (ignoring debt)\n\n### Misunderstanding Metrics\n- Confusing cash and accrual figures\n- Misinterpreting ratios\n\n## Prevention Checklist\n\n- [ ] Balance sheet balances\n- [ ] Net income ties to equity statement\n- [ ] Cash ties between statements\n- [ ] All accounts properly classified\n- [ ] Comparative periods included\n- [ ] Notes are complete\n\n> **Best Practice:** Always have someone else review your financial statements!"
+        },
+        {
+            "id": "finan_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **Financial Statements** lesson! Here is what you learned:\n\n## The Four Financial Statements\n\n### Balance Sheet\n- Shows financial position at a point in time\n- **Assets = Liabilities + Equity**\n- Current and non-current classifications\n\n### Income Statement\n- Shows performance over a period\n- **Revenue - Expenses = Net Income**\n- Gross profit, operating income, net income\n\n### Cash Flow Statement\n- Shows cash movements over a period\n- Three sections: Operating, Investing, Financing\n- Direct vs indirect methods\n\n### Statement of Changes in Equity\n- Explains changes in equity over a period\n- Connects net income to balance sheet equity\n\n## Key Connections\n\n| From | To | What Flows |\n|------|-----|------------|\n| Income Statement | Equity Statement | Net Income |\n| Equity Statement | Balance Sheet | Ending Equity |\n| Cash Flow | Balance Sheet | Ending Cash |\n\n## What is Next?\n\nNow you are ready to explore:\n- Accounting concepts and terminology\n- Journal entries and ledgers\n- Financial ratio analysis\n\n> **Remember:** Financial statements tell the story of a business - learn to read that story well!"
+        }
+    ]
+}

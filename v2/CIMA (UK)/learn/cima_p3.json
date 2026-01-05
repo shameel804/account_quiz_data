@@ -1,0 +1,143 @@
+{
+    "id": "learn_cima_p3",
+    "topicId": "cima_p3",
+    "topicTitle": "P3 - Risk Management",
+    "description": "Master CIMA P3 covering Enterprise Risk, Internal Controls, and Risk Response",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "p3_1",
+            "type": "content",
+            "title": "Welcome to CIMA P3",
+            "content": "# P3 - Risk Management\n\nP3 covers **enterprise risk** and **internal controls**.\n\n## What You Will Learn\n\n- **Risk** - ERM framework\n- **Controls** - Internal control\n- **Audit** - Internal audit\n- **Ethics** - Governance\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Risk management | 35% |\n| Internal controls | 30% |\n| Internal audit | 20% |\n| Ethics | 15% |"
+        },
+        {
+            "id": "p3_2",
+            "type": "content",
+            "title": "Enterprise Risk Management",
+            "content": "# ERM Framework\n\n## COSO ERM Components\n\n| Component | Focus |\n|-----------|-------|\n| Governance | Culture, oversight |\n| Strategy | Objectives |\n| Performance | Risk identification |\n| Review | Assessment |\n| Information | Communication |\n\n## Risk Categories\n\n| Category | Examples |\n|----------|----------|\n| Strategic | Competition |\n| Operational | Process |\n| Financial | Market |\n| Compliance | Regulatory |"
+        },
+        {
+            "id": "p3_3",
+            "type": "content",
+            "title": "Risk Assessment",
+            "content": "# Identifying Risk\n\n## Techniques\n\n| Technique | Approach |\n|-----------|----------|\n| Brainstorming | Group |\n| Interviews | Expert |\n| Workshops | Facilitated |\n| Checklists | Standard |\n| SWOT | Analysis |\n\n## Risk Matrix\n\n| | Low Impact | High Impact |\n|---|------------|-------------|\n| High Probability | Medium | High |\n| Low Probability | Low | Medium |\n\n## Risk Appetite\n\n```\nLevel of risk willing to accept\nin pursuit of objectives\n```"
+        },
+        {
+            "id": "p3_quiz_1",
+            "type": "quiz",
+            "title": "Risk Quiz",
+            "content": "Test your risk knowledge!",
+            "quizQuestion": "Risk appetite is the level of risk an organization is?",
+            "quizOptions": [
+                "Required to take",
+                "Willing to accept",
+                "Unable to manage",
+                "Forced to avoid"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p3_4",
+            "type": "content",
+            "title": "Risk Response",
+            "content": "# Managing Risk\n\n## Response Strategies\n\n| Strategy | Action |\n|----------|--------|\n| Avoid | Eliminate |\n| Reduce | Controls |\n| Transfer | Insurance |\n| Accept | Tolerate |\n| Exploit | Opportunity |\n\n## Residual Risk\n\n```\nInherent Risk - Control Effectiveness\n= Residual Risk\n\nMust be within tolerance\n```\n\n## Cost-Benefit\n\n```\nControl cost vs Risk reduction\n```"
+        },
+        {
+            "id": "p3_5",
+            "type": "content",
+            "title": "Financial Risks",
+            "content": "# Market Risks\n\n## Types\n\n| Risk | Source |\n|------|--------|\n| Currency | Exchange rates |\n| Interest | Rate changes |\n| Commodity | Price volatility |\n| Equity | Market movements |\n\n## Hedging\n\n| Instrument | Use |\n|------------|-----|\n| Forwards | Lock rate |\n| Futures | Exchange-traded |\n| Options | Right, not obligation |\n| Swaps | Exchange payments |"
+        },
+        {
+            "id": "p3_6",
+            "type": "content",
+            "title": "Internal Control Framework",
+            "content": "# COSO Internal Control\n\n## Five Components\n\n| Component | Focus |\n|-----------|-------|\n| Control environment | Foundation |\n| Risk assessment | Identification |\n| Control activities | Policies |\n| Information | Communication |\n| Monitoring | Ongoing |\n\n## Control Objectives\n\n| Category | Focus |\n|----------|-------|\n| Operations | Effectiveness |\n| Reporting | Reliability |\n| Compliance | Laws |"
+        },
+        {
+            "id": "p3_quiz_2",
+            "type": "quiz",
+            "title": "Control Quiz",
+            "content": "Test your control knowledge!",
+            "quizQuestion": "COSO internal control has how many components?",
+            "quizOptions": [
+                "Three",
+                "Four",
+                "Five",
+                "Six"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p3_7",
+            "type": "content",
+            "title": "Control Activities",
+            "content": "# Types of Controls\n\n## By Timing\n\n| Type | When |\n|------|------|\n| Preventive | Before |\n| Detective | After |\n| Corrective | Remedy |\n\n## By Nature\n\n| Type | Examples |\n|------|----------|\n| Authorization | Approval |\n| Segregation | Separate duties |\n| Physical | Security |\n| Reconciliation | Matching |\n\n## IT Controls\n\n- General (access, change)\n- Application (input, processing, output)"
+        },
+        {
+            "id": "p3_8",
+            "type": "content",
+            "title": "Internal Audit",
+            "content": "# Audit Function\n\n## Definition\n\n```\nIndependent, objective assurance\nand consulting activity\n```\n\n## IIA Standards\n\n| Category | Focus |\n|----------|-------|\n| Attribute | Quality |\n| Performance | Work |\n\n## Reporting\n\n- To audit committee\n- Independence essential\n- Risk-based approach"
+        },
+        {
+            "id": "p3_9",
+            "type": "content",
+            "title": "Audit Planning",
+            "content": "# Risk-Based Audit\n\n## Annual Plan\n\n| Factor | Consideration |\n|--------|---------------|\n| Risk | Priority |\n| Resources | Capacity |\n| Coverage | Rotation |\n| Requests | Management |\n\n## Engagement\n\n```\n1. Objectives\n2. Scope\n3. Timing\n4. Resources\n5. Communication\n```\n\n## Methodology\n\n- Risk focus\n- Controls testing\n- Substantive testing"
+        },
+        {
+            "id": "p3_quiz_3",
+            "type": "quiz",
+            "title": "Audit Quiz",
+            "content": "Test your audit knowledge!",
+            "quizQuestion": "Internal audit reports to?",
+            "quizOptions": [
+                "CEO",
+                "CFO",
+                "Audit Committee",
+                "Board Chair"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p3_10",
+            "type": "content",
+            "title": "Fraud and Ethics",
+            "content": "# Fraud Prevention\n\n## Fraud Triangle\n\n```\n    Opportunity\n       /\\\n      /  \\\n     /    \\\nPressure--Rationalization\n```\n\n## Detection\n\n| Technique | Approach |\n|-----------|----------|\n| Data analytics | Patterns |\n| Whistleblowing | Reports |\n| Audit | Testing |\n\n## Prevention\n\n- Strong controls\n- Ethical culture\n- Detection mechanisms"
+        },
+        {
+            "id": "p3_11",
+            "type": "content",
+            "title": "Governance",
+            "content": "# Corporate Governance\n\n## Board Role\n\n| Function | Responsibility |\n|----------|---------------|\n| Strategy | Direction |\n| Risk | Oversight |\n| Control | Framework |\n| Ethics | Culture |\n\n## Committees\n\n| Committee | Focus |\n|-----------|-------|\n| Audit | Financial oversight |\n| Risk | Risk management |\n| Remuneration | Pay |\n| Nomination | Appointments |"
+        },
+        {
+            "id": "p3_12",
+            "type": "content",
+            "title": "Cyber Risk",
+            "content": "# Security Risk\n\n## Threats\n\n| Threat | Description |\n|--------|-------------|\n| Malware | Malicious software |\n| Phishing | Deception |\n| Ransomware | Encryption |\n| Insider | Internal threat |\n\n## Controls\n\n| Layer | Protection |\n|-------|------------|\n| Physical | Access |\n| Network | Firewalls |\n| Application | Security |\n| Data | Encryption |\n\n## Frameworks\n\n- ISO 27001\n- NIST\n- COBIT"
+        },
+        {
+            "id": "p3_quiz_4",
+            "type": "quiz",
+            "title": "Cyber Quiz",
+            "content": "Test your cyber knowledge!",
+            "quizQuestion": "The fraud triangle includes opportunity, pressure, and?",
+            "quizOptions": [
+                "Reward",
+                "Risk",
+                "Rationalization",
+                "Resistance"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p3_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CIMA P3 - Risk Management**!\n\n## Key Topics\n\n### Risk\n- ERM framework\n- Risk assessment\n- Risk response\n\n### Controls\n- COSO framework\n- Control activities\n- IT controls\n\n### Audit\n- Internal audit\n- Risk-based approach\n- Reporting\n\n### Ethics\n- Fraud prevention\n- Governance\n- Cyber risk\n\n## Key Frameworks\n\n| Framework | Focus |\n|-----------|-------|\n| COSO ERM | Risk |\n| COSO IC | Controls |\n| IIA | Audit |\n\n## What is Next?\n\nExplore F3 - Financial Strategy!"
+        }
+    ]
+}

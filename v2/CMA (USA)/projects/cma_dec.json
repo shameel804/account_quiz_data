@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Decision-Making Framework 🎯",
+        "ques": "What are the **steps in the decision-making process**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Decision-Making Steps**:\n1. Define the problem/opportunity\n2. Identify alternatives\n3. Gather relevant information\n4. Evaluate alternatives\n5. Make the decision\n6. Implement the decision\n7. Monitor and follow up"
+        },
+        "explanation": "Structured approach improves ***decision quality***."
+    },
+    {
+        "title": "Relevant Costs 💡",
+        "ques": "What are **relevant costs** for decision-making?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Relevant Costs**: Future costs that differ between alternatives\n\n**Irrelevant Costs**:\n* Sunk costs (already incurred)\n* Committed costs (unavoidable)\n* Costs that don't differ between options\n\n**Include**: Opportunity costs (value of foregone alternative)"
+        },
+        "explanation": "Focus on ***incremental*** costs and benefits."
+    },
+    {
+        "title": "Make or Buy Decisions 🏭",
+        "ques": "What factors should be considered in **make or buy** decisions?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Quantitative**:\n* Variable manufacturing costs\n* Avoidable fixed costs\n* Purchase price\n* Opportunity cost of capacity\n\n**Qualitative**:\n* Quality control\n* Supplier reliability\n* Core competencies\n* Confidentiality\n* Long-term costs"
+        },
+        "explanation": "Consider both ***short-term and strategic*** implications."
+    },
+    {
+        "title": "Special Order Decisions 📦",
+        "ques": "How should a **special order** be evaluated?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Accept if**: Incremental Revenue > Incremental Costs\n\n**Consider**:\n* Variable costs of order\n* Additional fixed costs (if any)\n* Opportunity cost if at capacity\n* Impact on regular sales pricing\n* Long-term relationship value"
+        },
+        "explanation": "Only accept if ***excess capacity*** exists or displaced sales are considered."
+    },
+    {
+        "title": "Product Mix Decisions 📊",
+        "ques": "How should **product mix** be determined when resources are constrained?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Approach**:\n1. Identify the constraint (limiting resource)\n2. Calculate contribution margin per unit of constraint\n3. Rank products by contribution per constraint unit\n4. Produce in that order until constraint exhausted\n\n**Key**: Maximize contribution ***per scarce resource***"
+        },
+        "explanation": "Total constraint capacity determines maximum output."
+    },
+    {
+        "title": "Keep or Drop Decisions 🔻",
+        "ques": "How should a **segment discontinuation** decision be analyzed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Analysis**:\n* Compare lost contribution margin to avoidable fixed costs\n* Only costs that disappear are relevant\n* Consider impact on other segments\n\n**Keep if**: Segment contribution margin > Avoidable fixed costs"
+        },
+        "explanation": "Allocated costs that won't reduce are ***irrelevant***."
+    },
+    {
+        "title": "Sell or Process Further 🔧",
+        "ques": "How is a **sell or process further** decision made for joint products?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Decision Rule**:\nProcess further if: Revenue after processing - Revenue at split-off > Additional processing costs\n\n**Key**: Joint costs are sunk at split-off point - ***ignore*** them\n\n**Compare only**: Incremental revenue vs. incremental costs"
+        },
+        "explanation": "Each product evaluated separately at split-off point."
+    },
+    {
+        "title": "Pricing Decisions 💲",
+        "ques": "What **approaches** can be used for pricing decisions?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Approaches**:\n* Cost-plus: Add markup to cost\n* Target costing: Market price minus required profit\n* Value-based: Based on customer perceived value\n* Competition-based: Match or undercut competitors\n* Dynamic pricing: Adjust based on demand"
+        },
+        "explanation": "Best approach depends on ***market conditions*** and ***strategy***."
+    },
+    {
+        "title": "Capital Budgeting NPV 📊",
+        "ques": "How is **NPV** used for capital investment decisions?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**NPV** = Sum of (Cash Flow / (1+r)^n) - Initial Investment\n\n**Decision Rule**:\n* NPV > 0: Accept (creates value)\n* NPV < 0: Reject (destroys value)\n* NPV = 0: Indifferent\n\n**Discount rate**: Cost of capital or hurdle rate"
+        },
+        "explanation": "NPV is theoretically ***superior*** to other methods."
+    },
+    {
+        "title": "Internal Rate of Return 📈",
+        "ques": "What is **IRR** and how is it used?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**IRR**: Discount rate that makes NPV = 0\n\n**Decision Rule**:\n* IRR > Cost of capital: Accept\n* IRR < Cost of capital: Reject\n\n**Limitations**:\n* May have multiple IRRs\n* Assumes reinvestment at IRR\n* Can conflict with NPV rankings"
+        },
+        "explanation": "Use NPV when ***IRR and NPV conflict***."
+    },
+    {
+        "title": "Payback Period ⏱️",
+        "ques": "What are the **advantages and disadvantages** of payback period?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Advantages**:\n* Simple to understand and calculate\n* Measures liquidity/risk\n* Useful for quick screening\n\n**Disadvantages**:\n* Ignores time value of money (unless discounted)\n* Ignores cash flows after payback\n* No clear decision criterion\n* Doesn't measure profitability"
+        },
+        "explanation": "Use as ***supplement*** to NPV, not replacement."
+    },
+    {
+        "title": "Sensitivity Analysis 🎲",
+        "ques": "How is **sensitivity analysis** used in decision-making?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Process**:\n1. Build base case model\n2. Identify key variables\n3. Change one variable at a time\n4. Observe impact on outcome\n5. Identify critical variables\n\n**Output**: Shows which assumptions most affect decision"
+        },
+        "explanation": "Helps understand ***risk*** and focus on critical variables."
+    },
+    {
+        "title": "Scenario Analysis 📋",
+        "ques": "How does **scenario analysis** differ from sensitivity analysis?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Sensitivity**: Changes one variable at a time\n\n**Scenario Analysis**: Changes multiple variables together to create coherent scenarios\n* Best case\n* Base case\n* Worst case\n\n**Advantage**: More realistic representation of how variables move together"
+        },
+        "explanation": "Scenarios should be ***internally consistent***."
+    },
+    {
+        "title": "Marginal Analysis 📊",
+        "ques": "What is **marginal analysis** in decision-making?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Marginal Analysis**: Compare incremental costs and benefits\n\n**Principle**: Take action if marginal benefit > marginal cost\n\n**Applications**:\n* Additional production\n* Price changes\n* Capacity decisions\n* Marketing spend"
+        },
+        "explanation": "Focus on ***next unit***, not average."
+    },
+    {
+        "title": "Decision Trees 🌳",
+        "ques": "How are **decision trees** used for complex decisions?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Components**:\n* Decision nodes (squares): Choices\n* Chance nodes (circles): Uncertain outcomes\n* Branches: Alternatives and probabilities\n* Endpoints: Final payoffs\n\n**Solve by**: Working backwards (expected values at chance nodes)"
+        },
+        "explanation": "Useful for ***sequential decisions*** with uncertainty."
+    }
+]

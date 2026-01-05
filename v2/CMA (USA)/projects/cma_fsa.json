@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Horizontal Analysis 📊",
+        "ques": "What is **horizontal analysis** and how is it performed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Horizontal Analysis**: Comparing financial statement items over multiple periods\n\n**Calculation**:\n* Dollar change = Current Year - Base Year\n* Percentage change = (Current - Base) / Base x 100%\n\n**Use**: Identify trends, growth rates, unusual changes"
+        },
+        "explanation": "Also called ***trend analysis***. Reveals patterns over time."
+    },
+    {
+        "title": "Vertical Analysis 📈",
+        "ques": "How is **vertical analysis** (common size) performed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Vertical Analysis**: Express each item as percentage of base amount\n\n* **Income Statement**: Each item / Revenue x 100%\n* **Balance Sheet**: Each item / Total Assets x 100%\n\n**Use**: Compare companies of different sizes, identify cost structure"
+        },
+        "explanation": "Enables ***cross-company comparison*** regardless of size."
+    },
+    {
+        "title": "Liquidity Ratios 💧",
+        "ques": "Calculate and interpret the **current ratio** and **quick ratio**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Current Ratio** = Current Assets / Current Liabilities\n* Measures overall short-term liquidity\n* Generally > 1.0 preferred\n\n**Quick Ratio** = (Current Assets - Inventory) / Current Liabilities\n* More conservative\n* Excludes less liquid inventory"
+        },
+        "explanation": "Higher ratios indicate ***better ability*** to meet short-term obligations."
+    },
+    {
+        "title": "Profitability Ratios 💰",
+        "ques": "Calculate and explain **ROA** and **ROE**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**ROA** = Net Income / Average Total Assets\n* Measures how efficiently assets generate profit\n\n**ROE** = Net Income / Average Shareholders' Equity\n* Measures return to shareholders\n\n**DuPont Analysis**: ROE = Profit Margin x Asset Turnover x Financial Leverage"
+        },
+        "explanation": "***DuPont*** breakdown identifies drivers of return."
+    },
+    {
+        "title": "Leverage Ratios ⚖️",
+        "ques": "What do **debt ratio** and **times interest earned** measure?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Debt Ratio** = Total Liabilities / Total Assets\n* Measures proportion financed by debt\n* Higher = more leverage risk\n\n**Times Interest Earned** = EBIT / Interest Expense\n* Measures ability to cover interest payments\n* Higher = more comfortable margin"
+        },
+        "explanation": "Leverage ***amplifies*** returns but increases risk."
+    },
+    {
+        "title": "Activity Ratios 🔄",
+        "ques": "Calculate **inventory turnover** and **receivables turnover**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Inventory Turnover** = Cost of Goods Sold / Average Inventory\n* Days in Inventory = 365 / Inventory Turnover\n\n**Receivables Turnover** = Net Credit Sales / Average Receivables\n* Days Sales Outstanding = 365 / Receivables Turnover"
+        },
+        "explanation": "Higher turnover = more ***efficient*** use of assets."
+    },
+    {
+        "title": "Market Ratios 📈",
+        "ques": "Explain **P/E ratio** and **price-to-book ratio**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**P/E Ratio** = Market Price per Share / Earnings per Share\n* Higher = market expects growth\n* Compare to industry peers\n\n**Price-to-Book** = Market Price / Book Value per Share\n* > 1 means market values above book value\n* Assets may be undervalued on balance sheet"
+        },
+        "explanation": "Market ratios reflect ***investor expectations***."
+    },
+    {
+        "title": "Cash Flow Analysis 💵",
+        "ques": "What is **free cash flow** and why is it important?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Free Cash Flow** = Operating Cash Flow - Capital Expenditures\n\n**Importance**:\n* Cash available for distributions or debt repayment\n* More reliable than earnings (harder to manipulate)\n* Indicates financial flexibility\n* Used in valuation models"
+        },
+        "explanation": "Companies can have ***profit but negative cash flow*** and still fail."
+    },
+    {
+        "title": "Cash Flow from Operations 📊",
+        "ques": "What adjustments are made in the **indirect method** of cash flow from operations?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Starting Point**: Net Income\n\n**Adjustments**:\n* Add: Depreciation, amortization (non-cash)\n* Add/Subtract: Changes in working capital\n* Add/Subtract: Losses/gains on asset sales\n\n**Result**: Cash flow from operating activities"
+        },
+        "explanation": "Reconciles ***accrual earnings*** to ***cash basis***."
+    },
+    {
+        "title": "Quality of Earnings 📋",
+        "ques": "What factors indicate **high quality** of earnings?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**High Quality Indicators**:\n* Cash flow closely tracks net income\n* Conservative accounting policies\n* Transparent disclosures\n* Sustainable revenue sources\n* Consistent with industry norms\n* No unusual one-time items"
+        },
+        "explanation": "***Aggressive accounting*** may inflate earnings temporarily."
+    },
+    {
+        "title": "Credit Analysis 🏦",
+        "ques": "What factors do lenders consider in **credit analysis**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Credit Analysis (5 Cs)**:\n1. **Character**: Management integrity, history\n2. **Capacity**: Ability to repay (cash flow)\n3. **Capital**: Equity cushion\n4. **Collateral**: Security available\n5. **Conditions**: Economic and industry factors"
+        },
+        "explanation": "Lenders focus on ***cash flow*** and ***debt coverage***."
+    },
+    {
+        "title": "Comparative Analysis 📏",
+        "ques": "How should **cross-sectional analysis** be performed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Cross-Sectional Analysis**: Compare to peers at same point in time\n\n**Steps**:\n1. Identify appropriate peer group\n2. Calculate key ratios for all\n3. Compare to industry averages/medians\n4. Identify relative strengths/weaknesses\n\n**Caution**: Ensure comparable accounting policies"
+        },
+        "explanation": "Useful for ***benchmarking*** performance."
+    },
+    {
+        "title": "Limitations of Ratio Analysis 📊",
+        "ques": "What are the **limitations** of financial ratio analysis?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Limitations**:\n* Historical data (backward-looking)\n* Different accounting policies\n* Seasonal variations\n* Industry differences\n* Inflation effects\n* Off-balance sheet items\n* Single-period snapshot\n* Window dressing"
+        },
+        "explanation": "Use ratios as ***starting point*** for deeper analysis."
+    },
+    {
+        "title": "Segment Analysis 📊",
+        "ques": "Why is **segment analysis** important?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Importance**:\n* Identifies strong/weak business units\n* Reveals hidden problems in consolidated numbers\n* Different growth rates and margins\n* Better risk assessment\n* Valuation of different parts\n\n**Disclosure**: Required for public companies"
+        },
+        "explanation": "Consolidated data may ***mask*** segment performance."
+    },
+    {
+        "title": "Earnings Manipulation 🎭",
+        "ques": "What are **red flags** for potential earnings manipulation?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Red Flags**:\n* Growing gap between earnings and cash flow\n* Unusual revenue growth vs. peers\n* Rising receivables relative to sales\n* Changing accounting policies\n* Large 4th quarter adjustments\n* Related party transactions\n* Management turnover\n* Auditor concerns"
+        },
+        "explanation": "Use ***forensic analysis*** techniques when red flags appear."
+    }
+]

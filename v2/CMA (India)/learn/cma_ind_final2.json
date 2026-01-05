@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_ind_final2",
+    "topicId": "cma_ind_final2",
+    "topicTitle": "CMA Final - Group II",
+    "description": "Master CMA India Final Group II covering Corporate Financial Reporting, SCF & Sustainability, and Auditing",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "cma_f2_1",
+            "type": "content",
+            "title": "Welcome to Final Group II",
+            "content": "# CMA Final - Group II\n\nGroup II covers **advanced reporting**, **sustainability**, and **audit**.\n\n## What You Will Learn\n\n- **Corporate Reporting** - Ind AS\n- **SCF & Sustainability** - Value creation\n- **Indirect Tax** - Advanced GST\n- **Cost & Management Audit** - Verification\n\n## Group II Papers\n\n| Paper | Subject |\n|-------|--------|\n| 17 | Corporate Financial Reporting |\n| 18 | SCF & Sustainability |\n| 19 | Indirect Tax Laws |\n| 20 | Cost & Management Audit |"
+        },
+        {
+            "id": "cma_f2_2",
+            "type": "content",
+            "title": "Ind AS Framework",
+            "content": "# Indian Accounting Standards\n\n## Key Ind AS\n\n| Ind AS | Topic |\n|--------|-------|\n| 1 | Presentation of FS |\n| 7 | Statement of Cash Flows |\n| 16 | Property, Plant, Equipment |\n| 115 | Revenue from Contracts |\n\n## Fair Value (Ind AS 113)\n\n| Level | Inputs |\n|-------|--------|\n| 1 | Quoted prices |\n| 2 | Observable |\n| 3 | Unobservable |\n\n## Converged with IFRS\n\n- Carve-outs for India\n- Phase-wise implementation"
+        },
+        {
+            "id": "cma_f2_3",
+            "type": "content",
+            "title": "Business Combinations",
+            "content": "# Ind AS 103\n\n## Acquisition Method\n\n```\nConsideration transferred\n+ NCI at acquisition\n- Fair value of net assets\n= Goodwill\n```\n\n## Consolidation\n\n| Entity | Treatment |\n|--------|----------|\n| Subsidiary | Full consolidation |\n| Associate | Equity method |\n| Joint venture | Equity method |\n\n## Control Definition\n\n- Power over investee\n- Variable returns exposure\n- Ability to use power"
+        },
+        {
+            "id": "cma_f2_quiz_1",
+            "type": "quiz",
+            "title": "Ind AS Quiz",
+            "content": "Test your Ind AS knowledge!",
+            "quizQuestion": "Goodwill in a business combination is measured using?",
+            "quizOptions": [
+                "Historical cost",
+                "Acquisition method",
+                "Pooling method",
+                "Equity method"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_f2_4",
+            "type": "content",
+            "title": "Financial Instruments",
+            "content": "# Ind AS 109\n\n## Classification\n\n| Category | Measurement |\n|----------|-------------|\n| Amortized cost | Effective interest |\n| FVOCI | Fair value to OCI |\n| FVTPL | Fair value to P&L |\n\n## Impairment\n\n```\nExpected Credit Loss model:\n\nStage 1: 12-month ECL\nStage 2: Lifetime ECL\nStage 3: Lifetime + interest on net\n```\n\n## Hedge Accounting\n\n- Fair value hedge\n- Cash flow hedge\n- Net investment hedge"
+        },
+        {
+            "id": "cma_f2_5",
+            "type": "content",
+            "title": "Strategic Cost & Performance",
+            "content": "# Performance Management\n\n## Balanced Scorecard\n\n| Perspective | Measures |\n|-------------|----------|\n| Financial | ROI, EVA |\n| Customer | Satisfaction |\n| Internal | Efficiency |\n| Learning | Innovation |\n\n## EVA\n\n```\nEVA = NOPAT - (Capital x WACC)\n```\n\n## Value Drivers\n\n- Revenue growth\n- Operating margin\n- Capital efficiency\n- Cost of capital"
+        },
+        {
+            "id": "cma_f2_6",
+            "type": "content",
+            "title": "Sustainability",
+            "content": "# Sustainability Reporting\n\n## ESG Framework\n\n| Dimension | Focus |\n|-----------|-------|\n| Environmental | Carbon, waste |\n| Social | Labor, community |\n| Governance | Ethics, board |\n\n## Reporting Frameworks\n\n| Framework | Focus |\n|-----------|-------|\n| GRI | Comprehensive |\n| SASB | Industry-specific |\n| TCFD | Climate |\n| BRSR | India requirement |\n\n## Integrated Reporting\n\n- Six capitals\n- Value creation\n- Connectivity"
+        },
+        {
+            "id": "cma_f2_quiz_2",
+            "type": "quiz",
+            "title": "Sustainability Quiz",
+            "content": "Test your sustainability knowledge!",
+            "quizQuestion": "ESG stands for Environmental, Social, and?",
+            "quizOptions": [
+                "Growth",
+                "Governance",
+                "Global",
+                "General"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_f2_7",
+            "type": "content",
+            "title": "Advanced GST",
+            "content": "# GST Advanced Topics\n\n## Reverse Charge\n\n| Situation | Liability |\n|-----------|----------|\n| Import of services | Recipient |\n| Notified supplies | Recipient |\n| Unregistered supplier | Registered recipient |\n\n## Place of Supply\n\n| Supply | Place |\n|--------|-------|\n| Goods | Movement |\n| Services | Location of recipient |\n| Immovable | Property location |\n\n## E-way Bill\n\n- Goods > Rs 50,000\n- Inter/intrastate movement\n- Validity period"
+        },
+        {
+            "id": "cma_f2_8",
+            "type": "content",
+            "title": "GST Returns & Refunds",
+            "content": "# GST Compliance\n\n## Returns\n\n| Return | Due Date |\n|--------|----------|\n| GSTR-1 | 11th of next month |\n| GSTR-3B | 20th of next month |\n| GSTR-9 | Annual |\n\n## Refund\n\n| Situation | Process |\n|-----------|--------|\n| Exports | Zero-rated |\n| Inverted duty | Accumulation |\n| Excess payment | Application |\n\n## Assessment\n\n- Self-assessment\n- Provisional\n- Scrutiny\n- Best judgment"
+        },
+        {
+            "id": "cma_f2_9",
+            "type": "content",
+            "title": "Cost Audit",
+            "content": "# Cost Audit Framework\n\n## Applicability\n\n| Threshold | Companies |\n|-----------|----------|\n| Turnover | > Rs 50 crore |\n| Specified products | Listed |\n\n## Cost Auditor\n\n- CMA qualification\n- Appointed by BOD\n- Remuneration by audit committee\n\n## Cost Records\n\n- CRA-1 rules\n- Product/service costing\n- Reconciliation with financials"
+        },
+        {
+            "id": "cma_f2_quiz_3",
+            "type": "quiz",
+            "title": "Cost Audit Quiz",
+            "content": "Test your cost audit knowledge!",
+            "quizQuestion": "Cost auditor must be a qualified?",
+            "quizOptions": [
+                "CA",
+                "CMA",
+                "CS",
+                "MBA"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_f2_10",
+            "type": "content",
+            "title": "Management Audit",
+            "content": "# Management Audit\n\n## Scope\n\n| Area | Review |\n|------|--------|\n| Planning | Strategy |\n| Organization | Structure |\n| Control | Systems |\n| Performance | Results |\n\n## Internal Audit\n\n- Risk-based approach\n- Control evaluation\n- Operational efficiency\n\n## Reporting\n\n- Findings\n- Recommendations\n- Action plans\n- Follow-up"
+        },
+        {
+            "id": "cma_f2_11",
+            "type": "content",
+            "title": "Forensic Accounting",
+            "content": "# Fraud Investigation\n\n## Fraud Detection\n\n| Technique | Application |\n|-----------|-------------|\n| Data analytics | Pattern analysis |\n| Ratio analysis | Anomalies |\n| Benford's Law | Digit analysis |\n| Interviews | Information gathering |\n\n## Types of Fraud\n\n| Type | Examples |\n|------|----------|\n| Asset misappropriation | Theft |\n| Financial statement | Manipulation |\n| Corruption | Bribery |\n\n## Reporting\n\n- Evidence preservation\n- Legal requirements\n- Restitution"
+        },
+        {
+            "id": "cma_f2_12",
+            "type": "content",
+            "title": "Professional Ethics",
+            "content": "# CMA Ethics\n\n## ICMAI Code\n\n| Principle | Application |\n|-----------|-------------|\n| Integrity | Honesty |\n| Objectivity | Unbiased |\n| Competence | Skills |\n| Confidentiality | Information protection |\n\n## Independence\n\n- Threats identification\n- Safeguards\n- Documentation\n\n## Professional Conduct\n\n- Ethical behavior\n- Due care\n- Professional skepticism"
+        },
+        {
+            "id": "cma_f2_quiz_4",
+            "type": "quiz",
+            "title": "Ethics Quiz",
+            "content": "Test your ethics knowledge!",
+            "quizQuestion": "Professional skepticism means?",
+            "quizOptions": [
+                "Trusting management",
+                "Questioning assumptions",
+                "Ignoring evidence",
+                "Accepting explanations"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_f2_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Final - Group II**!\n\n## Key Topics\n\n### Corporate Reporting\n- Ind AS framework\n- Business combinations\n- Financial instruments\n\n### Sustainability\n- ESG reporting\n- Integrated reporting\n- BRSR compliance\n\n### Indirect Tax\n- Advanced GST\n- Refunds and assessments\n\n### Audit\n- Cost audit\n- Management audit\n- Forensic accounting\n\n## Group II Papers\n\n| Paper | Subject |\n|-------|--------|\n| 17 | Corporate Reporting |\n| 18 | SCF & Sustainability |\n| 19 | Indirect Tax |\n| 20 | Cost & Management Audit |\n\n## Congratulations!\n\nYou completed CMA India course!"
+        }
+    ]
+}

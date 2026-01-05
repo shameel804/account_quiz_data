@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_tx",
+    "topicId": "acca_tx",
+    "topicTitle": "Taxation (TX)",
+    "description": "Master ACCA TX including Income Tax, Corporation Tax, Capital Gains Tax, and VAT",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "tx_1",
+            "type": "content",
+            "title": "Welcome to ACCA TX",
+            "content": "# Taxation (TX)\n\nTX covers the **UK tax system** and its application to individuals and companies.\n\n## What You Will Learn\n\n- **Income Tax** - Personal taxation\n- **Corporation Tax** - Company taxation\n- **CGT** - Capital gains tax\n- **VAT** - Value added tax\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Income tax | 30% |\n| Corporation tax | 25% |\n| CGT | 15% |\n| IHT | 10% |\n| VAT | 15% |\n| Tax admin | 5% |"
+        },
+        {
+            "id": "tx_2",
+            "type": "content",
+            "title": "Income Tax Basics",
+            "content": "# Income Tax\n\n## Taxable Person\n\n- UK resident individuals\n- Tax year: 6 April to 5 April\n\n## Types of Income\n\n| Type | Examples |\n|------|----------|\n| Employment | Salary, bonuses |\n| Self-employment | Trading profits |\n| Property | Rental income |\n| Savings | Interest |\n| Dividends | Company distributions |\n\n## Personal Allowance\n\n```\nPersonal Allowance (PA)\n- Reduces taxable income\n- Tapered at high income\n- Lost above threshold\n```"
+        },
+        {
+            "id": "tx_3",
+            "type": "content",
+            "title": "Income Tax Rates",
+            "content": "# Tax Bands and Rates\n\n## Non-Savings Income\n\n| Band | Rate |\n|------|------|\n| Basic rate | 20% |\n| Higher rate | 40% |\n| Additional rate | 45% |\n\n## Savings Income\n\n| Band | Rate |\n|------|------|\n| Starting rate | 0% |\n| Basic rate | 20% |\n| Higher rate | 40% |\n| Additional rate | 45% |\n\n## Dividend Income\n\n| Band | Rate |\n|------|------|\n| Basic rate | 8.75% |\n| Higher rate | 33.75% |\n| Additional rate | 39.35% |\n\n## Dividend Allowance\n\n- First allowance at 0%"
+        },
+        {
+            "id": "tx_quiz_1",
+            "type": "quiz",
+            "title": "Income Tax Quiz",
+            "content": "Test your income tax knowledge!",
+            "quizQuestion": "What is the basic rate of income tax on non-savings income?",
+            "quizOptions": [
+                "10%",
+                "20%",
+                "40%",
+                "45%"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "tx_4",
+            "type": "content",
+            "title": "Employment Income",
+            "content": "# Employment Income\n\n## Taxable Benefits\n\n| Benefit | Taxable Amount |\n|---------|---------------|\n| Company car | % of list price |\n| Fuel benefit | Fixed multiplier |\n| Accommodation | Annual value |\n| Medical insurance | Cost to employer |\n\n## Exempt Benefits\n\n- Pension contributions\n- Workplace parking\n- Mobile phone (one)\n- Trivial benefits\n\n## PAYE System\n\n```\nPay As You Earn:\n- Tax collected at source\n- Employer responsibility\n- Tax codes applied\n```"
+        },
+        {
+            "id": "tx_5",
+            "type": "content",
+            "title": "Trading Income",
+            "content": "# Self-Employment\n\n## Basis of Assessment\n\n- Current Year Basis (CYB)\n- Accounting period profits\n- Adjustments required\n\n## Adjustment of Profits\n\n```\nAccounting Profit\n+ Disallowable expenses\n- Tax-free income\n= Taxable Trading Profit\n```\n\n## Disallowable Expenses\n\n| Expense | Treatment |\n|---------|----------|\n| Depreciation | Add back |\n| Private use | Add back portion |\n| Entertainment | Add back |\n| Capital items | Add back |\n\n## Capital Allowances\n\n- Replace depreciation\n- Annual Investment Allowance\n- Writing Down Allowance"
+        },
+        {
+            "id": "tx_6",
+            "type": "content",
+            "title": "Capital Allowances",
+            "content": "# Capital Allowances\n\n## Annual Investment Allowance\n\n```\n100% deduction on qualifying assets\nUp to annual limit\n```\n\n## Writing Down Allowance\n\n| Pool | Rate |\n|------|------|\n| Main pool | 18% |\n| Special rate | 6% |\n\n## Calculation\n\n```\nBrought forward balance\n+ Additions (not AIA)\n- Disposals (lower of cost/proceeds)\n= Pool balance\nx WDA rate\n= Capital allowance\n```\n\n## Assets\n\n| Main Pool | Special Rate |\n|-----------|-------------|\n| Plant & machinery | Cars > 50g/km CO2 |\n| Most equipment | Integral features |"
+        },
+        {
+            "id": "tx_7",
+            "type": "content",
+            "title": "Corporation Tax",
+            "content": "# Corporation Tax\n\n## Chargeable Persons\n\n- UK resident companies\n- Accounting period basis\n\n## Taxable Total Profits\n\n```\nTrading Income\n+ Property Income\n+ Investment Income\n+ Chargeable Gains\n- Qualifying Donations\n= Taxable Total Profits\n```\n\n## Corporation Tax Rates\n\n| Profits | Rate |\n|---------|------|\n| Small profits rate | 19% |\n| Main rate | 25% |\n| Marginal relief | Between thresholds |\n\n## Payment Dates\n\n- Small companies: 9 months + 1 day\n- Large companies: Quarterly installments"
+        },
+        {
+            "id": "tx_quiz_2",
+            "type": "quiz",
+            "title": "Corporation Tax Quiz",
+            "content": "Test your corporation tax knowledge!",
+            "quizQuestion": "When must a small company pay its corporation tax?",
+            "quizOptions": [
+                "Within 6 months",
+                "9 months and 1 day after year end",
+                "12 months after year end",
+                "Quarterly installments"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "tx_8",
+            "type": "content",
+            "title": "Capital Gains Tax",
+            "content": "# Capital Gains Tax\n\n## Chargeable Disposals\n\n- Sale of assets\n- Gift of assets\n- Loss or destruction\n\n## CGT Calculation\n\n```\nProceeds (or market value)\n- Allowable costs\n- Enhancement expenditure\n= Chargeable Gain\n- Annual Exempt Amount\n= Taxable Gain\n```\n\n## CGT Rates\n\n| Asset Type | Basic Rate | Higher Rate |\n|------------|------------|-------------|\n| Most assets | 10% | 20% |\n| Residential property | 18% | 28% |\n\n## Reliefs\n\n| Relief | Effect |\n|--------|--------|\n| Business Asset Disposal Relief | 10% rate |\n| Rollover Relief | Defer gain |\n| Gift Relief | Defer gain |"
+        },
+        {
+            "id": "tx_9",
+            "type": "content",
+            "title": "Inheritance Tax",
+            "content": "# Inheritance Tax\n\n## When Charged\n\n- Death transfers\n- Lifetime gifts (some)\n- Trusts\n\n## IHT Calculation\n\n```\nGross Estate\n- Exempt transfers\n- Nil Rate Band\n= Taxable Estate\nx 40%\n= IHT payable\n```\n\n## Exemptions\n\n| Exemption | Amount |\n|-----------|--------|\n| Spouse exemption | Unlimited |\n| Annual exemption | Per year |\n| Small gifts | Per person |\n| Normal expenditure | Regular gifts |\n\n## Taper Relief\n\nGifts 3-7 years before death:\n- Reduced tax rate\n- Graduated reduction"
+        },
+        {
+            "id": "tx_10",
+            "type": "content",
+            "title": "VAT Basics",
+            "content": "# Value Added Tax\n\n## VAT Rates\n\n| Rate | Examples |\n|------|----------|\n| Standard 20% | Most goods/services |\n| Reduced 5% | Fuel, children's car seats |\n| Zero 0% | Food, books, children's clothes |\n| Exempt | Finance, insurance, education |\n\n## VAT Registration\n\n```\nCompulsory: Above threshold\nVoluntary: Below threshold\n\nHistoric test: Past 12 months\nFuture test: Next 30 days\n```\n\n## VAT Calculation\n\n```\nOutput VAT (on sales)\n- Input VAT (on purchases)\n= VAT payable/repayable\n```"
+        },
+        {
+            "id": "tx_11",
+            "type": "content",
+            "title": "VAT Schemes",
+            "content": "# VAT Schemes\n\n## Special Schemes\n\n| Scheme | Description |\n|--------|-------------|\n| Cash accounting | VAT on cash basis |\n| Annual accounting | One annual return |\n| Flat rate | Fixed % of turnover |\n\n## Flat Rate Scheme\n\n```\nTurnover x Flat rate %\n= VAT payable\n\nNo input VAT recovery\n(except capital goods > threshold)\n```\n\n## Partial Exemption\n\n```\nMixed supplies:\n- Taxable: full recovery\n- Exempt: no recovery\n- Mixed: pro-rata recovery\n```"
+        },
+        {
+            "id": "tx_quiz_3",
+            "type": "quiz",
+            "title": "VAT Quiz",
+            "content": "Test your VAT knowledge!",
+            "quizQuestion": "What is the standard rate of VAT in the UK?",
+            "quizOptions": [
+                "5%",
+                "15%",
+                "20%",
+                "25%"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "tx_12",
+            "type": "content",
+            "title": "National Insurance",
+            "content": "# National Insurance\n\n## Classes\n\n| Class | Who Pays |\n|-------|----------|\n| 1 | Employees |\n| 1A | Employers on benefits |\n| 2 | Self-employed |\n| 4 | Self-employed on profits |\n\n## Class 1 Rates\n\n| Band | Employee | Employer |\n|------|----------|----------|\n| Below LEL | Nil | Nil |\n| LEL to PT | 0% | 0% |\n| PT to UEL | 12% | 13.8% |\n| Above UEL | 2% | 13.8% |\n\n## Class 4\n\n```\nOn trading profits:\nMain rate on profits below limit\nReduced rate above upper limit\n```"
+        },
+        {
+            "id": "tx_13",
+            "type": "content",
+            "title": "Tax Administration",
+            "content": "# Tax Administration\n\n## Self-Assessment\n\n| Deadline | Requirement |\n|----------|-------------|\n| 31 Oct | Paper return |\n| 31 Jan | Online return |\n| 31 Jan | Tax payment |\n| 31 July | POA second payment |\n\n## Penalties\n\n| Default | Penalty |\n|---------|--------|\n| Late filing | Fixed + daily |\n| Late payment | % of tax |\n| Errors | Behavior-based |\n\n## HMRC Powers\n\n- Information notices\n- Enquiries\n- Discovery assessments\n- Appeals process"
+        },
+        {
+            "id": "tx_14",
+            "type": "content",
+            "title": "Tax Planning",
+            "content": "# Tax Planning\n\n## Avoidance vs Evasion\n\n| Avoidance | Evasion |\n|-----------|--------|\n| Legal | Illegal |\n| Minimize tax | Hide income |\n| Use reliefs | Fraud |\n\n## Planning Strategies\n\n| Strategy | Effect |\n|----------|--------|\n| Use allowances | Reduce tax |\n| Time income | Optimize rates |\n| Incorporate | Different rates |\n| Pension | Tax relief |\n\n## Anti-Avoidance\n\n- GAAR (General Anti-Abuse Rule)\n- Specific anti-avoidance rules\n- Disclosure requirements"
+        },
+        {
+            "id": "tx_quiz_4",
+            "type": "quiz",
+            "title": "Admin Quiz",
+            "content": "Test your tax admin knowledge!",
+            "quizQuestion": "What is the deadline for online self-assessment tax returns?",
+            "quizOptions": [
+                "31 October",
+                "31 January",
+                "5 April",
+                "31 March"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "tx_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA TX - Taxation**!\n\n## Key Taxes\n\n### Income Tax\n- Personal allowance\n- Tax bands and rates\n- Employment and trading income\n\n### Corporation Tax\n- Company profits\n- Capital allowances\n- Payment dates\n\n### CGT\n- Chargeable gains\n- Reliefs available\n\n### VAT\n- Registration\n- Rates and schemes\n\n## Key Rates\n\n| Tax | Rate |\n|-----|------|\n| IT Basic | 20% |\n| IT Higher | 40% |\n| CT Main | 25% |\n| VAT Standard | 20% |\n\n## What is Next?\n\nExplore ACCA FR - Financial Reporting!"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Understanding Cost Classification 📊",
+        "ques": "Explain the difference between **direct costs** and **indirect costs**. Provide two examples of each.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Direct Costs**: Costs that can be directly traced to a specific cost object (product, service, or department).\n* *Examples*: Raw materials for a product, wages of production workers\n\n**Indirect Costs**: Costs that cannot be easily traced to a specific cost object and must be allocated.\n* *Examples*: Factory rent, supervisor salaries, depreciation of machinery"
+        },
+        "explanation": "Understanding cost classification is fundamental to ***cost accounting***. Direct costs are ***variable*** with production volume, while indirect costs (overheads) are often ***fixed*** or ***semi-fixed***. This distinction affects how costs are ***assigned to products*** and how ***pricing decisions*** are made."
+    },
+    {
+        "title": "Fixed vs Variable Costs 📉",
+        "ques": "Define **fixed costs** and **variable costs**. How do they behave as production volume changes?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Fixed Costs**: Costs that remain constant in total regardless of production volume within a relevant range.\n* Total fixed cost stays same; per unit cost decreases as volume increases\n* *Example*: Rent of $10,000/month is the same whether you make 100 or 1,000 units\n\n**Variable Costs**: Costs that change in direct proportion to production volume.\n* Total variable cost increases; per unit cost stays constant\n* *Example*: Raw material at $5/unit means $500 for 100 units, $5,000 for 1,000 units"
+        },
+        "explanation": "Understanding cost behaviour is essential for ***budgeting***, ***pricing***, and ***decision-making***. In reality, costs may be ***stepped*** (fixed within a range) or ***semi-variable*** (containing both fixed and variable elements). The relevant range is important - fixed costs may change if production moves outside normal capacity."
+    },
+    {
+        "title": "Overhead Absorption Costing 🏭",
+        "ques": "What is **overhead absorption costing** and how is the **overhead absorption rate (OAR)** calculated?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Overhead Absorption Costing**: A method of allocating indirect costs (overheads) to products or cost units using a predetermined rate.\n\n**OAR Calculation**:\nOAR = Budgeted Overhead Costs / Budgeted Activity Level\n\n**Common bases for OAR**:\n* Direct labour hours\n* Machine hours\n* Direct labour cost\n* Units produced\n\n*Example*: If budgeted overheads are $100,000 and budgeted machine hours are 20,000, then OAR = $5 per machine hour"
+        },
+        "explanation": "Absorption costing ensures ***all production costs*** (including overheads) are included in the cost of products. This is required for ***inventory valuation*** under accounting standards. The choice of absorption basis should reflect the ***main driver*** of overhead costs. Under/over absorption occurs when actual activity differs from budget."
+    },
+    {
+        "title": "Marginal Costing Explained 💡",
+        "ques": "What is **marginal costing** and how does it differ from **absorption costing**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Marginal Costing**: A costing method where only variable costs are charged to products. Fixed costs are treated as period costs and written off in full against profit.\n\n**Key Differences**:\n| Aspect | Marginal Costing | Absorption Costing |\n|--------|------------------|--------------------|\n| Fixed costs | Period cost | Product cost |\n| Inventory value | Variable cost only | Full production cost |\n| Profit when stock rises | Lower profit | Higher profit |\n| Use | Decision-making | Financial reporting |"
+        },
+        "explanation": "Marginal costing highlights the ***contribution*** each product makes toward fixed costs and profit. **Contribution = Sales - Variable Costs**. This approach is useful for ***short-term decisions*** like special orders or make-or-buy decisions. Absorption costing is required for ***external reporting*** under most accounting standards."
+    },
+    {
+        "title": "Calculating Contribution 🧮",
+        "ques": "A company sells a product for $50. Variable costs are $30 per unit and fixed costs are $40,000 per month. Calculate the **contribution per unit** and the **break-even point in units**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Contribution per unit** = Selling Price - Variable Cost per Unit\n= $50 - $30 = **$20 per unit**\n\n**Break-even point** = Fixed Costs / Contribution per Unit\n= $40,000 / $20 = **2,000 units**\n\nThe company must sell 2,000 units to cover all costs and make zero profit."
+        },
+        "explanation": "***Contribution*** is a key concept in marginal costing. Each unit sold contributes $20 toward covering fixed costs. Once fixed costs are covered, each additional unit sold generates $20 of ***profit***. The break-even point is where total contribution equals total fixed costs."
+    },
+    {
+        "title": "Budget Types Overview 📝",
+        "ques": "Describe **three different types of budgets** used in organisations.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**1. Fixed Budget**:\n* Set for one level of activity\n* Does not change when actual activity differs\n* Simple but less useful for variance analysis\n\n**2. Flexible Budget**:\n* Adjusts for different activity levels\n* Variable costs flexed, fixed costs unchanged\n* Better for performance evaluation\n\n**3. Zero-Based Budget (ZBB)**:\n* Starts from scratch each period\n* All spending must be justified\n* Time-consuming but eliminates budgetary slack"
+        },
+        "explanation": "Budgets serve multiple purposes: ***planning***, ***coordination***, ***communication***, ***motivation***, ***control***, and ***performance evaluation***. The choice of budget type depends on the organisation's needs. ***Rolling budgets*** are also common, where a new period is added as each period ends."
+    },
+    {
+        "title": "Standard Costing Basics ⚖️",
+        "ques": "What is **standard costing** and what are its main advantages?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Standard Costing**: A system where predetermined costs (standards) are set for materials, labour, and overheads, then compared to actual costs to identify variances.\n\n**Main Advantages**:\n1. **Budgeting**: Provides basis for accurate budgets\n2. **Cost control**: Highlights inefficiencies through variance analysis\n3. **Pricing**: Supports consistent product pricing\n4. **Performance evaluation**: Measures actual vs expected performance\n5. **Reduced record-keeping**: Standard costs simplify bookkeeping"
+        },
+        "explanation": "Standard costing is widely used in ***manufacturing*** environments. Standards should be ***attainable*** but ***challenging*** to motivate performance. Standards may be ***ideal*** (perfect conditions), ***attainable*** (realistic), or ***basic*** (long-term, unchanged). Regular review of standards is important."
+    },
+    {
+        "title": "Material Variances Calculation 📦",
+        "ques": "Calculate the **material price variance** and **material usage variance** given:\n* Standard: 5 kg at $4/kg per unit\n* Actual: 5,500 kg purchased at $4.20/kg for 1,000 units",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Material Price Variance (MPV)**:\n= (Standard Price - Actual Price) x Actual Quantity\n= ($4.00 - $4.20) x 5,500 kg\n= **$1,100 Adverse**\n\n**Material Usage Variance (MUV)**:\n= (Standard Quantity - Actual Quantity) x Standard Price\n= (5,000 kg - 5,500 kg) x $4.00\n= **$2,000 Adverse**\n\n*Standard quantity = 1,000 units x 5 kg = 5,000 kg*"
+        },
+        "explanation": "Material variances help identify whether inefficiency is due to ***paying more than expected*** (price variance) or ***using more than expected*** (usage variance). Adverse variances indicate ***higher costs*** than standard. These variances should be ***investigated*** if significant, considering ***materiality*** and ***controllability***."
+    },
+    {
+        "title": "Labour Variances Analysis 👷",
+        "ques": "Explain the **labour rate variance** and **labour efficiency variance**. What factors might cause each?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Labour Rate Variance**: Difference between actual hourly rate and standard rate.\n* *Causes of adverse*: Wage increases, using higher-skilled workers\n* *Causes of favourable*: Using lower-paid workers, bonus not paid\n\n**Labour Efficiency Variance**: Difference between actual hours worked and standard hours allowed.\n* *Causes of adverse*: Poor supervision, machine breakdowns, learning curve, poor quality materials\n* *Causes of favourable*: Experienced workers, improved methods, better equipment"
+        },
+        "explanation": "Labour variances are interconnected - using ***higher-paid skilled workers*** may cause adverse rate variance but ***favourable efficiency variance***. Investigation should consider ***interdependencies*** between variances. Variances may also have ***external causes*** (market wage rates) or ***internal causes*** (management decisions)."
+    },
+    {
+        "title": "Performance Measurement Concepts 📊",
+        "ques": "What are **Key Performance Indicators (KPIs)**? Give three examples of financial and non-financial KPIs.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**KPIs**: Quantifiable measures used to evaluate success in meeting objectives.\n\n**Financial KPIs**:\n1. Gross profit margin percentage\n2. Return on capital employed (ROCE)\n3. Operating cash flow\n\n**Non-Financial KPIs**:\n1. Customer satisfaction score\n2. Employee turnover rate\n3. Product defect rate"
+        },
+        "explanation": "Effective KPIs should be ***SMART***: Specific, Measurable, Achievable, Relevant, and Time-bound. Organisations should use a ***balanced set*** of financial and non-financial measures. Too many KPIs can overwhelm; focus on the ***vital few*** that drive strategic objectives."
+    },
+    {
+        "title": "High-Low Method 📈",
+        "ques": "Using the **high-low method**, calculate the variable cost per unit and fixed cost given:\n* Month 1: 2,000 units, total cost $50,000\n* Month 2: 3,500 units, total cost $72,500",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Variable Cost per Unit**:\n= (Highest Cost - Lowest Cost) / (Highest Volume - Lowest Volume)\n= ($72,500 - $50,000) / (3,500 - 2,000)\n= $22,500 / 1,500\n= **$15 per unit**\n\n**Fixed Cost**:\n= Total Cost - (Variable Cost x Units)\n= $50,000 - ($15 x 2,000)\n= $50,000 - $30,000\n= **$20,000**"
+        },
+        "explanation": "The high-low method is a ***simple technique*** to separate mixed costs into fixed and variable components. It uses only the ***highest and lowest activity levels***, which is a limitation as it ignores other data points. ***Regression analysis*** provides a more accurate estimate by using all data."
+    },
+    {
+        "title": "Break-Even Analysis Charts 📉",
+        "ques": "List **four key elements** shown on a break-even chart and explain what the **margin of safety** represents.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Key Elements on Break-Even Chart**:\n1. **Fixed costs line**: Horizontal line showing constant fixed costs\n2. **Total cost line**: Starts at fixed cost, slopes upward with variable costs\n3. **Sales revenue line**: Starts at origin, slopes upward with selling price\n4. **Break-even point**: Where total cost line meets revenue line\n\n**Margin of Safety**: The difference between budgeted/actual sales and break-even sales.\n* Shows how much sales can fall before losses begin\n* Can be expressed in units, dollars, or as a percentage"
+        },
+        "explanation": "Break-even charts provide a ***visual representation*** of cost-volume-profit relationships. A ***high margin of safety*** indicates lower risk - the business can withstand sales decline. ***Profit-volume charts*** are an alternative that directly show profit at different activity levels."
+    },
+    {
+        "title": "Absorption vs Marginal: Profit Differences 💰",
+        "ques": "Explain why profits differ between **absorption costing** and **marginal costing** when inventory levels change.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**When Production > Sales (Inventory Increases)**:\n* Absorption costing profit is **HIGHER**\n* Some fixed costs are carried forward in closing inventory\n\n**When Production < Sales (Inventory Decreases)**:\n* Absorption costing profit is **LOWER**\n* Fixed costs from opening inventory are released to profit\n\n**When Production = Sales**:\n* Profits are the **SAME** under both methods\n\n**Profit Difference** = Change in Inventory Units x Fixed Overhead per Unit"
+        },
+        "explanation": "Under absorption costing, fixed overheads are ***absorbed into inventory***. When inventory increases, some fixed costs are ***deferred*** to future periods.This is why companies might be tempted to ***overproduce*** to boost reported profits - a manipulation that marginal costing would reveal."
+    },
+    {
+        "title": "Process Costing Introduction 🏭",
+        "ques": "What is **process costing** and when is it appropriate to use instead of job costing?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Process Costing**: A costing method where costs are averaged over identical or similar units produced in a continuous process.\n\n**Use When**:\n* Producing homogeneous (identical) products\n* Continuous production process\n* Units are indistinguishable from each other\n* *Examples*: Oil refining, chemical production, food processing, paper manufacturing\n\n**Job Costing Use When**:\n* Products are unique or customised\n* Discrete, identifiable jobs\n* *Examples*: Construction, custom furniture, legal services"
+        },
+        "explanation": "Process costing uses ***equivalent units*** to account for partially completed work. The key steps are: 1) Calculate ***equivalent units*** for each cost element, 2) Calculate ***cost per equivalent unit***, 3) Value completed output and closing work-in-progress. FIFO and Weighted Average are common methods."
+    },
+    {
+        "title": "Limiting Factor Analysis 🚧",
+        "ques": "When a business has a **limiting factor** (scarce resource), how should it decide which products to prioritise?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Decision Rule**: Prioritise products with the **highest contribution per unit of limiting factor**.\n\n**Steps**:\n1. Calculate contribution per unit for each product\n2. Identify the limiting factor (scarce resource)\n3. Calculate contribution per unit of limiting factor\n4. Rank products by this ratio (highest first)\n5. Allocate scarce resource starting with highest-ranked product\n\n*Example*: If machine hours are limited, produce the product with highest contribution per machine hour first."
+        },
+        "explanation": "Limiting factor analysis is used for ***short-term decision-making*** when constraints exist. Common limiting factors include ***labour hours***, ***machine capacity***, ***materials***, or ***floor space***. This approach maximises ***total contribution*** given the constraint. ***Linear programming*** can solve more complex problems with multiple constraints."
+    }
+]

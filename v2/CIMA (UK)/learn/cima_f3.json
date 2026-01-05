@@ -1,0 +1,143 @@
+{
+    "id": "learn_cima_f3",
+    "topicId": "cima_f3",
+    "topicTitle": "F3 - Financial Strategy",
+    "description": "Master CIMA F3 covering Corporate Finance, Valuations, and Treasury",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "f3_1",
+            "type": "content",
+            "title": "Welcome to CIMA F3",
+            "content": "# F3 - Financial Strategy\n\nF3 covers **corporate finance** and **strategic decisions**.\n\n## What You Will Learn\n\n- **Formulation** - Financial strategy\n- **Financing** - Sources and structure\n- **Investment** - Valuations\n- **Treasury** - Risk management\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Financial strategy | 25% |\n| Financing decisions | 25% |\n| Investment decisions | 25% |\n| Treasury | 25% |"
+        },
+        {
+            "id": "f3_2",
+            "type": "content",
+            "title": "Financial Strategy",
+            "content": "# Strategic Finance\n\n## Objectives\n\n| Objective | Focus |\n|-----------|-------|\n| Shareholder value | Maximize |\n| Profitability | Returns |\n| Liquidity | Cash |\n| Growth | Expansion |\n\n## Financial Planning\n\n```\nStrategic plan\n-> Financial implications\n-> Funding requirements\n-> Financial strategy\n```\n\n## Value Creation\n\n```\nReturn > Cost of Capital\n= Value creation\n```"
+        },
+        {
+            "id": "f3_3",
+            "type": "content",
+            "title": "Cost of Capital",
+            "content": "# WACC\n\n## Formula\n\n```\nWACC = (E/V x Ke) + (D/V x Kd x (1-T))\n```\n\n## Cost of Equity (CAPM)\n\n```\nKe = Rf + beta(Rm - Rf)\n\nbeta = Systematic risk\n```\n\n## Cost of Debt\n\n```\nKd = Pre-tax cost x (1 - Tax)\n\nor IRR of bond payments\n```"
+        },
+        {
+            "id": "f3_quiz_1",
+            "type": "quiz",
+            "title": "WACC Quiz",
+            "content": "Test your WACC knowledge!",
+            "quizQuestion": "CAPM uses which risk measure?",
+            "quizOptions": [
+                "Alpha",
+                "Beta",
+                "Sigma",
+                "Gamma"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "f3_4",
+            "type": "content",
+            "title": "Capital Structure",
+            "content": "# Financing Mix\n\n## Theories\n\n| Theory | View |\n|--------|------|\n| MM (no tax) | Irrelevant |\n| MM (tax) | Debt adds value |\n| Trade-off | Optimal exists |\n| Pecking order | Internal first |\n\n## Gearing Impact\n\n| Advantage | Disadvantage |\n|-----------|-------------|\n| Tax shield | Financial distress |\n| Lower WACC | Bankruptcy risk |\n| | Agency costs |"
+        },
+        {
+            "id": "f3_5",
+            "type": "content",
+            "title": "Dividend Policy",
+            "content": "# Dividend Decisions\n\n## Theories\n\n| Theory | View |\n|--------|------|\n| Irrelevance (MM) | No effect |\n| Bird in hand | Prefer dividends |\n| Tax preference | Prefer retention |\n| Signaling | Information |\n\n## Practical Factors\n\n| Factor | Impact |\n|--------|--------|\n| Cash available | Constraint |\n| Investment needs | Retention |\n| Expectations | Stability |\n| Covenants | Restrictions |"
+        },
+        {
+            "id": "f3_6",
+            "type": "content",
+            "title": "Business Valuation",
+            "content": "# Valuation Methods\n\n## Asset-Based\n\n| Method | Basis |\n|--------|-------|\n| Book value | Accounting |\n| Replacement | Cost to replace |\n| Liquidation | Sale value |\n\n## Income-Based\n\n| Method | Focus |\n|--------|-------|\n| DCF | Cash flows |\n| Earnings | P/E multiples |\n| EVA | Economic profit |\n\n## Market-Based\n\n- Comparable companies\n- Transaction multiples"
+        },
+        {
+            "id": "f3_quiz_2",
+            "type": "quiz",
+            "title": "Valuation Quiz",
+            "content": "Test your valuation knowledge!",
+            "quizQuestion": "DCF is based on?",
+            "quizOptions": [
+                "Book value",
+                "Market price",
+                "Cash flows",
+                "Earnings"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "f3_7",
+            "type": "content",
+            "title": "DCF Valuation",
+            "content": "# Discounted Cash Flow\n\n## Entity Value\n\n```\nEntity Value = Sum of [FCF / (1+WACC)^n]\n               + Terminal Value\n\nEquity Value = Entity Value - Debt\n```\n\n## Terminal Value\n\n```\nTV = FCF(1+g) / (WACC - g)\n\ng = Growth rate\n```\n\n## Free Cash Flow\n\n```\nEBIT x (1-T)\n+ Depreciation\n- Capex\n- Working capital increase\n= FCF\n```"
+        },
+        {
+            "id": "f3_8",
+            "type": "content",
+            "title": "M&A Transactions",
+            "content": "# Mergers and Acquisitions\n\n## Types\n\n| Type | Direction |\n|------|----------|\n| Horizontal | Same industry |\n| Vertical | Supply chain |\n| Conglomerate | Unrelated |\n\n## Synergies\n\n| Type | Source |\n|------|--------|\n| Revenue | Cross-selling |\n| Cost | Economies |\n| Financial | Tax, funding |\n\n## Consideration\n\n- Cash\n- Shares\n- Mixed\n- Earnout"
+        },
+        {
+            "id": "f3_9",
+            "type": "content",
+            "title": "Treasury Management",
+            "content": "# Treasury Function\n\n## Responsibilities\n\n| Area | Focus |\n|------|-------|\n| Cash | Management |\n| Funding | Raising capital |\n| Risk | Hedging |\n| Relationships | Banks |\n\n## Cash Management\n\n```\nForecast cash needs\nOptimize working capital\nInvest surplus\nManage deficits\n```"
+        },
+        {
+            "id": "f3_10",
+            "type": "content",
+            "title": "Currency Risk",
+            "content": "# Foreign Exchange\n\n## Exposure Types\n\n| Type | Risk |\n|------|------|\n| Transaction | Specific deals |\n| Translation | Consolidation |\n| Economic | Competitive |\n\n## Hedging Methods\n\n| Instrument | Features |\n|------------|----------|\n| Forward | Lock rate |\n| Option | Right, premium |\n| Swap | Exchange payments |\n| Money market | Borrow/invest |\n\n## Natural Hedging\n\n- Match revenues/costs\n- Currency diversification"
+        },
+        {
+            "id": "f3_quiz_3",
+            "type": "quiz",
+            "title": "Currency Quiz",
+            "content": "Test your currency knowledge!",
+            "quizQuestion": "Transaction exposure relates to?",
+            "quizOptions": [
+                "Consolidation",
+                "Specific deals",
+                "Competition",
+                "All business"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "f3_11",
+            "type": "content",
+            "title": "Interest Rate Risk",
+            "content": "# Rate Management\n\n## Exposure\n\n| Position | Risk |\n|----------|------|\n| Floating debt | Rates rise |\n| Fixed assets | Rates fall |\n\n## Hedging\n\n| Instrument | Use |\n|------------|-----|\n| FRA | Lock forward rate |\n| Swap | Exchange fixed/floating |\n| Cap | Maximum rate |\n| Floor | Minimum rate |\n| Collar | Both cap and floor |"
+        },
+        {
+            "id": "f3_12",
+            "type": "content",
+            "title": "Restructuring",
+            "content": "# Financial Restructuring\n\n## Types\n\n| Type | Action |\n|------|--------|\n| Operational | Cost cutting |\n| Financial | Capital structure |\n| Corporate | Strategy change |\n\n## Distress\n\n| Option | Approach |\n|--------|----------|\n| Refinancing | New terms |\n| Debt for equity | Conversion |\n| Asset sale | Disposal |\n| Administration | Protection |\n\n## Value Release\n\n- Spin-offs\n- Buybacks\n- Special dividends"
+        },
+        {
+            "id": "f3_quiz_4",
+            "type": "quiz",
+            "title": "Treasury Quiz",
+            "content": "Test your treasury knowledge!",
+            "quizQuestion": "A cap provides protection against rates?",
+            "quizOptions": [
+                "Falling",
+                "Rising",
+                "Staying constant",
+                "All movements"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "f3_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CIMA F3 - Financial Strategy**!\n\n## Key Topics\n\n### Strategy\n- Financial objectives\n- Cost of capital\n- Value creation\n\n### Financing\n- Capital structure\n- Dividend policy\n- Treasury\n\n### Investment\n- Valuation methods\n- DCF\n- M&A\n\n### Risk\n- Currency\n- Interest rate\n- Hedging\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| WACC | Cost of capital |\n| DCF | Valuation |\n| CAPM | Cost of equity |\n\n## Congratulations!\n\nYou completed all CIMA (UK) topics!"
+        }
+    ]
+}

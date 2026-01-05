@@ -1,0 +1,149 @@
+{
+    "id": "learn_cma_perf",
+    "topicId": "cma_perf",
+    "topicTitle": "Performance Management",
+    "description": "Master CMA performance management including Cost Behavior, Profitability Analysis, and Performance Metrics",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "p1c_1",
+            "type": "content",
+            "title": "Welcome to Performance Management",
+            "content": "# Performance Management\n\nPart 1C covers **performance measurement** and management.\n\n## What You Will Learn\n\n- **Cost Behavior** - Fixed vs variable\n- **Profitability** - Margin analysis\n- **Responsibility Centers** - Accountability\n- **Transfer Pricing** - Internal transactions\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Cost behavior | Patterns |\n| Profitability | Margins |\n| Responsibility | Centers |\n| Transfer pricing | Internal |"
+        },
+        {
+            "id": "p1c_2",
+            "type": "content",
+            "title": "Cost Behavior",
+            "content": "# Cost Patterns\n\n## Cost Types\n\n| Type | Behavior |\n|------|----------|\n| Fixed | Constant total |\n| Variable | Constant per unit |\n| Mixed | Both components |\n| Step | Fixed within range |\n\n## High-Low Method\n\n```\nVariable cost = (High cost - Low cost) / (High activity - Low activity)\n\nFixed cost = Total cost - (Variable x Activity)\n```\n\n## Relevant Range\n\nAssumptions hold within specific volume.\n\n## Cost Estimation\n\n- Account analysis\n- Engineering method\n- Regression analysis"
+        },
+        {
+            "id": "p1c_3",
+            "type": "content",
+            "title": "CVP Analysis",
+            "content": "# Cost-Volume-Profit\n\n## Break-Even Point\n\n```\nBEP (units) = Fixed Costs / Contribution per unit\n\nBEP (sales) = Fixed Costs / CM Ratio\n```\n\n## Contribution Margin\n\n```\nCM per unit = Selling Price - Variable Cost\n\nCM Ratio = CM / Sales\n```\n\n## Target Profit\n\n```\nUnits = (Fixed Costs + Target Profit) / CM per unit\n```\n\n## Margin of Safety\n\n```\nMoS = Actual Sales - Break-Even Sales\n\nMoS% = MoS / Actual Sales\n```"
+        },
+        {
+            "id": "p1c_quiz_1",
+            "type": "quiz",
+            "title": "CVP Quiz",
+            "content": "Test your CVP knowledge!",
+            "quizQuestion": "Break-even point in units equals fixed costs divided by?",
+            "quizOptions": [
+                "Selling price",
+                "Variable cost",
+                "Contribution margin per unit",
+                "Total contribution"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p1c_4",
+            "type": "content",
+            "title": "Profitability Analysis",
+            "content": "# Segment Profitability\n\n## Segment Margin\n\n```\nSales\n- Variable costs\n= Contribution margin\n- Direct fixed costs\n= Segment margin\n- Common fixed costs\n= Operating income\n```\n\n## Traceable vs Common\n\n| Traceable | Common |\n|-----------|--------|\n| Directly attributable | Shared |\n| Segment responsibility | Cannot assign |\n\n## Customer Profitability\n\n| Factor | Impact |\n|--------|--------|\n| Volume | Revenue |\n| Returns | Costs |\n| Service | Support |\n| Payment | Collection |"
+        },
+        {
+            "id": "p1c_5",
+            "type": "content",
+            "title": "Responsibility Centers",
+            "content": "# Responsibility Accounting\n\n## Types of Centers\n\n| Center | Responsibility |\n|--------|---------------|\n| Cost | Costs only |\n| Revenue | Revenue only |\n| Profit | Revenue and costs |\n| Investment | Profit and assets |\n\n## Controllable Costs\n\n```\nOnly evaluate managers on costs\nthey can control\n```\n\n## Performance Reports\n\n| Level | Detail |\n|-------|--------|\n| Department | Operations |\n| Division | Segment |\n| Company | Consolidated |"
+        },
+        {
+            "id": "p1c_6",
+            "type": "content",
+            "title": "Investment Center Metrics",
+            "content": "# Investment Performance\n\n## Return on Investment\n\n```\nROI = Operating Income / Average Assets\n\nor\n\nROI = Margin x Turnover\n    = (Income/Sales) x (Sales/Assets)\n```\n\n## Residual Income\n\n```\nRI = Operating Income - (Assets x Required Return)\n```\n\n## ROI vs RI\n\n| ROI | RI |\n|-----|----|\n| Percentage | Dollar amount |\n| May reject good projects | Better decisions |\n| Comparison easy | Size matters |\n\n## Economic Value Added\n\n```\nEVA = NOPAT - (Capital x WACC)\n```"
+        },
+        {
+            "id": "p1c_7",
+            "type": "content",
+            "title": "Transfer Pricing",
+            "content": "# Internal Pricing\n\n## Methods\n\n| Method | Basis |\n|--------|-------|\n| Market | External price |\n| Cost | Variable or full |\n| Cost-plus | Cost + markup |\n| Negotiated | Agreement |\n\n## Minimum Transfer Price\n\n```\nVariable cost + Opportunity cost\n= Minimum acceptable\n```\n\n## Goals\n\n- Goal congruence\n- Fair evaluation\n- Manager motivation\n- Autonomy\n\n## International\n\n- Arm's length pricing\n- Tax implications"
+        },
+        {
+            "id": "p1c_quiz_2",
+            "type": "quiz",
+            "title": "Transfer Quiz",
+            "content": "Test your transfer pricing knowledge!",
+            "quizQuestion": "The minimum transfer price includes variable cost plus?",
+            "quizOptions": [
+                "Fixed cost",
+                "Opportunity cost",
+                "Market price",
+                "Target profit"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1c_8",
+            "type": "content",
+            "title": "Balanced Scorecard",
+            "content": "# Balanced Performance\n\n## Four Perspectives\n\n| Perspective | Focus |\n|-------------|-------|\n| Financial | Shareholder value |\n| Customer | Satisfaction |\n| Internal | Excellence |\n| Learning | Improvement |\n\n## Key Concepts\n\n- Lead and lag indicators\n- Strategy maps\n- Cause and effect\n\n## Example Measures\n\n| Perspective | Measure |\n|-------------|--------|\n| Financial | ROI, EVA |\n| Customer | Retention |\n| Internal | Cycle time |\n| Learning | Training hours |"
+        },
+        {
+            "id": "p1c_9",
+            "type": "content",
+            "title": "Benchmarking",
+            "content": "# Performance Comparison\n\n## Types of Benchmarking\n\n| Type | Comparison |\n|------|------------|\n| Internal | Own divisions |\n| Competitive | Direct competitors |\n| Functional | Same function |\n| Generic | Best practices |\n\n## Process\n\n```\n1. Identify what to benchmark\n2. Select comparators\n3. Collect data\n4. Analyze gaps\n5. Implement improvements\n```\n\n## Benefits\n\n- Identify best practices\n- Set realistic targets\n- Drive improvement"
+        },
+        {
+            "id": "p1c_10",
+            "type": "content",
+            "title": "Quality Management",
+            "content": "# Quality Costs\n\n## Cost Categories\n\n| Category | Examples |\n|----------|----------|\n| Prevention | Training, design |\n| Appraisal | Inspection, testing |\n| Internal failure | Rework, scrap |\n| External failure | Warranty, returns |\n\n## Trade-offs\n\n```\nMore prevention/appraisal\n= Less failure costs\n```\n\n## TQM\n\nTotal Quality Management:\n- Customer focus\n- Continuous improvement\n- Employee involvement\n\n## Six Sigma\n\n- DMAIC process\n- Statistical quality\n- 3.4 defects per million"
+        },
+        {
+            "id": "p1c_11",
+            "type": "content",
+            "title": "Operating Leverage",
+            "content": "# Leverage Effect\n\n## Degree of Operating Leverage\n\n```\nDOL = Contribution Margin / Operating Income\n\nor\n\nDOL = % Change in Operating Income / % Change in Sales\n```\n\n## Interpretation\n\n| High DOL | Low DOL |\n|----------|--------|\n| More fixed costs | More variable costs |\n| Higher risk | Lower risk |\n| Larger profit swings | Smaller swings |\n\n## Example\n\n```\nDOL of 3 means:\n10% increase in sales\n= 30% increase in profit\n```"
+        },
+        {
+            "id": "p1c_quiz_3",
+            "type": "quiz",
+            "title": "Leverage Quiz",
+            "content": "Test your leverage knowledge!",
+            "quizQuestion": "A company with high fixed costs will have?",
+            "quizOptions": [
+                "Low operating leverage",
+                "High operating leverage",
+                "No operating leverage",
+                "Negative leverage"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1c_12",
+            "type": "content",
+            "title": "Capacity Analysis",
+            "content": "# Capacity Utilization\n\n## Capacity Types\n\n| Type | Definition |\n|------|------------|\n| Theoretical | Maximum possible |\n| Practical | Normal adjustments |\n| Normal | Average expected |\n| Budgeted | Planned level |\n\n## Idle Capacity\n\n```\nCapacity available - Capacity used\n= Idle capacity\n\nIdle capacity x Cost per unit\n= Cost of idle capacity\n```\n\n## Capacity Decisions\n\n- Expand or contract\n- Outsource\n- Special orders"
+        },
+        {
+            "id": "p1c_13",
+            "type": "content",
+            "title": "Compensation Systems",
+            "content": "# Performance-Based Pay\n\n## Compensation Types\n\n| Type | Basis |\n|------|-------|\n| Salary | Fixed |\n| Bonus | Performance |\n| Commission | Sales |\n| Stock options | Equity |\n\n## Design Considerations\n\n| Factor | Goal |\n|--------|------|\n| Motivation | Drive performance |\n| Retention | Keep talent |\n| Alignment | Goal congruence |\n\n## Agency Issues\n\n- Short-term focus\n- Gaming\n- Dysfunctional behavior"
+        },
+        {
+            "id": "p1c_quiz_4",
+            "type": "quiz",
+            "title": "Performance Quiz",
+            "content": "Test your performance knowledge!",
+            "quizQuestion": "Residual income is operating income minus?",
+            "quizOptions": [
+                "Variable costs",
+                "Fixed costs",
+                "Capital charge",
+                "Tax"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p1c_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Part 1C - Performance Management**!\n\n## Key Topics\n\n### Analysis\n- Cost behavior\n- CVP analysis\n- Profitability\n\n### Centers\n- Responsibility accounting\n- ROI and RI\n- Transfer pricing\n\n### Measurement\n- Balanced scorecard\n- Benchmarking\n- Quality costs\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| BEP = FC / CM | Break-even |\n| ROI = Income / Assets | Investment |\n| RI = Income - Charge | Residual |\n| DOL = CM / OI | Leverage |\n\n## What is Next?\n\nExplore CMA Part 1D - Cost Management!"
+        }
+    ]
+}
