@@ -1,0 +1,167 @@
+{
+    "id": "learn_tax",
+    "topicId": "tax",
+    "topicTitle": "Taxation",
+    "description": "Master taxation fundamentals including Direct vs Indirect Taxes, GST/VAT Basics, Corporate and Income Tax, and Tax Deductions and Allowances",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "tax_1",
+            "type": "content",
+            "title": "Welcome to Taxation",
+            "content": "# Introduction to Taxation\n\nTaxation is the **compulsory collection of money** by government from individuals and businesses to fund public services.\n\n## What You Will Learn\n\n- **Direct vs Indirect Taxes** - Different types of taxes\n- **GST/VAT Basics** - Consumption taxes explained\n- **Corporate and Income Tax** - Taxes on profits and earnings\n- **Tax Deductions and Allowances** - Reducing tax liability\n\n## Why Taxation Matters\n\n| Purpose | Description |\n|---------|-------------|\n| Revenue | Fund government operations |\n| Redistribution | Transfer wealth to social programs |\n| Regulation | Discourage certain behaviors |\n| Stabilization | Manage economic cycles |\n\n## The Tax System Players\n\n```\nGovernment (Tax Authority)\n         |\n         v\n+-------------------+\n|   TAX LAWS        |\n| (Legislation)     |\n+-------------------+\n         |\n    +----+----+\n    |         |\nIndividuals  Businesses\n(Taxpayers)  (Taxpayers)\n```\n\n> **Understanding taxation** helps with financial planning and compliance!"
+        },
+        {
+            "id": "tax_2",
+            "type": "content",
+            "title": "Direct vs Indirect Taxes",
+            "content": "# Direct and Indirect Taxes\n\n## What are Direct Taxes?\n\nDirect taxes are paid **directly to the government** by the person or entity on whom they are imposed.\n\n### Characteristics\n- Cannot be transferred to others\n- Based on ability to pay\n- Progressive in nature\n- Examples: Income tax, Corporate tax\n\n### Common Direct Taxes\n\n| Tax | Paid By | Based On |\n|-----|---------|----------|\n| Income Tax | Individuals | Earnings |\n| Corporate Tax | Companies | Profits |\n| Capital Gains Tax | Investors | Asset appreciation |\n| Property Tax | Property owners | Property value |\n| Inheritance Tax | Heirs | Inherited assets |\n\n## What are Indirect Taxes?\n\nIndirect taxes are collected by an intermediary from the consumer who actually bears the tax burden.\n\n### Characteristics\n- Can be transferred to consumers\n- Same rate for everyone\n- Regressive in nature\n- Examples: Sales tax, GST/VAT\n\n### Common Indirect Taxes\n\n| Tax | Collected By | Based On |\n|-----|--------------|----------|\n| GST/VAT | Sellers | Sales value |\n| Excise Duty | Manufacturers | Quantity/value |\n| Customs Duty | Importers | Import value |\n| Service Tax | Service providers | Service value |\n\n> **Key Difference:** Direct = you pay it; Indirect = you pay through prices!"
+        },
+        {
+            "id": "tax_3",
+            "type": "content",
+            "title": "Progressive vs Regressive Taxes",
+            "content": "# Tax Rate Structures\n\n## Progressive Tax\n\nTax rate **increases** as taxable amount increases.\n\n**Example: Income Tax Brackets**\n\n| Income Range | Tax Rate |\n|--------------|----------|\n| $0 - $10,000 | 10% |\n| $10,001 - $40,000 | 20% |\n| $40,001 - $100,000 | 30% |\n| Over $100,000 | 40% |\n\n**Calculation Example:**\nIncome: $50,000\n\n```\n$10,000 x 10% =  $1,000\n$30,000 x 20% =  $6,000\n$10,000 x 30% =  $3,000\n-----------------------\nTotal Tax:      $10,000\nEffective Rate:    20%\n```\n\n## Regressive Tax\n\nTax takes a **higher percentage from low-income** than high-income earners.\n\n**Example: Sales Tax**\n- 10% sales tax on a $1,000 TV = $100\n- For someone earning $20,000: 0.5% of income\n- For someone earning $200,000: 0.05% of income\n\n## Proportional (Flat) Tax\n\nSame tax rate for **all income levels**.\n\n**Example:** 15% flat tax\n- Income $50,000: Tax $7,500\n- Income $500,000: Tax $75,000\n\n> **Progressive taxes** aim to distribute burden based on ability to pay!"
+        },
+        {
+            "id": "tax_quiz_1",
+            "type": "quiz",
+            "title": "Tax Types Check",
+            "content": "Test your understanding of tax types!",
+            "quizQuestion": "Which type of tax is characterized by higher earners paying a higher percentage of their income?",
+            "quizOptions": [
+                "Regressive tax",
+                "Proportional tax",
+                "Progressive tax",
+                "Indirect tax"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "tax_4",
+            "type": "content",
+            "title": "GST Fundamentals",
+            "content": "# Goods and Services Tax (GST)\n\n## What is GST?\n\nGST is a **comprehensive indirect tax** on the supply of goods and services, replacing multiple cascading taxes.\n\n## Key Features\n\n### 1. Destination-Based Tax\n- Tax goes to the state where goods are consumed\n- Not where they are produced\n\n### 2. Multi-Stage Tax\n- Collected at each stage of supply chain\n- Input tax credit prevents cascading\n\n### 3. Value-Added Tax Concept\n- Tax only on value added at each stage\n\n## How GST Works\n\n```\nManufacturer --> Wholesaler --> Retailer --> Consumer\n   GST           GST           GST         Final\n   Paid          Paid          Paid        Bearer\n    |             |             |\n    v             v             v\n  Credit        Credit       No Credit\n  Claimed       Claimed      (End Consumer)\n```\n\n## Example: GST Chain\n\n| Stage | Sale Value | GST (10%) | Credit | Net GST |\n|-------|------------|-----------|--------|--------|\n| Manufacturer | $100 | $10 | $0 | $10 |\n| Wholesaler | $150 | $15 | $10 | $5 |\n| Retailer | $200 | $20 | $15 | $5 |\n| **Total** | | | | **$20** |\n\nConsumer pays $200 + $20 GST = $220\nGovernment collects $20 total.\n\n> **GST eliminates the tax-on-tax problem** of earlier indirect taxes!"
+        },
+        {
+            "id": "tax_5",
+            "type": "content",
+            "title": "Input Tax Credit",
+            "content": "# Input Tax Credit (ITC)\n\n## What is Input Tax Credit?\n\nITC allows businesses to **claim credit for GST paid on purchases** against GST collected on sales.\n\n## How ITC Works\n\n```\nGST Collected on Sales:       $50,000\n(-) GST Paid on Purchases:    $30,000\n                              --------\nNet GST Payable:              $20,000\n```\n\n## Conditions for Claiming ITC\n\n| Condition | Requirement |\n|-----------|-------------|\n| Valid tax invoice | Must have proper GST invoice |\n| Goods/services received | Actual receipt required |\n| Tax paid to government | By supplier |\n| Return filed | ITC claimed in return |\n| Business purpose | Used for taxable supplies |\n\n## ITC Not Available On\n\n- Personal use items\n- Food and beverages (generally)\n- Club memberships\n- Insurance for personal use\n- Works contract for non-business\n\n## ITC Reversal\n\nMust reverse ITC when:\n- Goods are lost, stolen, or destroyed\n- Given as free samples\n- Used for exempt supplies\n- Supplier does not file returns\n\n## Record Keeping\n\n- Maintain purchase registers\n- Keep all invoices organized\n- Reconcile with supplier filings\n- Track ITC utilization\n\n> **ITC is a key benefit** - claim it properly to reduce tax costs!"
+        },
+        {
+            "id": "tax_6",
+            "type": "content",
+            "title": "VAT Principles",
+            "content": "# Value Added Tax (VAT)\n\n## What is VAT?\n\nVAT is a **consumption tax** placed on products at each stage where value is added, from production to point of sale.\n\n## VAT vs GST\n\n| Feature | VAT | GST |\n|---------|-----|-----|\n| Coverage | Goods primarily | Goods and services |\n| Structure | May have multiple rates | Typically unified |\n| Credit | Input VAT credit | Input tax credit |\n| Administration | Often state-level | Usually national |\n\n## How VAT is Calculated\n\n**VAT = Output VAT - Input VAT**\n\n### Example:\n\n```\nPurchase goods:    $100\nInput VAT (20%):    $20 (paid to supplier)\n\nSell goods:        $150\nOutput VAT (20%):   $30 (collected from customer)\n\nVAT Payable:       $30 - $20 = $10\n```\n\n## VAT Registration\n\n### Mandatory When:\n- Turnover exceeds threshold\n- Making taxable supplies\n- Required by law\n\n### Voluntary Registration:\n- May benefit from ITC claims\n- Appears more professional\n- Required for some contracts\n\n## Common VAT Rates\n\n| Rate Type | Applied To |\n|-----------|------------|\n| Standard rate | Most goods/services |\n| Reduced rate | Essential items |\n| Zero rate | Exports, basic food |\n| Exempt | Healthcare, education |\n\n> **VAT is used in over 160 countries** worldwide!"
+        },
+        {
+            "id": "tax_7",
+            "type": "content",
+            "title": "Income Tax Basics",
+            "content": "# Income Tax for Individuals\n\n## What is Income Tax?\n\nA direct tax imposed on individuals and entities based on their **income or profits**.\n\n## Taxable Income Categories\n\n### 1. Salary and Wages\n- Employment income\n- Bonuses and commissions\n- Benefits and perquisites\n\n### 2. Business and Profession\n- Self-employment income\n- Professional fees\n- Business profits\n\n### 3. Capital Gains\n- Sale of property\n- Sale of investments\n- Short-term vs long-term\n\n### 4. Property Income\n- Rental income\n- Lease income\n\n### 5. Other Sources\n- Interest income\n- Dividend income\n- Lottery winnings\n\n## Calculating Tax Liability\n\n```\n  Gross Income\n- Exemptions/Exclusions\n= Total Income\n- Deductions Allowed\n= Taxable Income\nx Tax Rate(s)\n= Tax Before Credits\n- Tax Credits\n= Tax Payable\n- Tax Withheld/Paid\n= Refund or Balance Due\n```\n\n## Filing Requirements\n\n- Annual tax returns\n- Report all income sources\n- Claim allowable deductions\n- Pay by due date\n\n> **Proper planning** can legally minimize your tax burden!"
+        },
+        {
+            "id": "tax_quiz_2",
+            "type": "quiz",
+            "title": "Income Tax Quiz",
+            "content": "Test your income tax knowledge!",
+            "quizQuestion": "Which type of income results from selling an investment for more than its purchase price?",
+            "quizOptions": [
+                "Salary income",
+                "Business income",
+                "Capital gains",
+                "Rental income"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "tax_8",
+            "type": "content",
+            "title": "Corporate Tax",
+            "content": "# Corporate Income Tax\n\n## What is Corporate Tax?\n\nTax levied on the **profits of corporations** after deducting allowable expenses from revenues.\n\n## Corporate Tax Calculation\n\n```\nRevenue                        $1,000,000\n- Cost of Goods Sold             (400,000)\n- Operating Expenses             (300,000)\n- Depreciation                    (50,000)\n- Interest Expense                (25,000)\n                               -----------\nTaxable Income                   $225,000\nx Corporate Tax Rate                  25%\n                               -----------\nCorporate Tax Payable             $56,250\n```\n\n## Key Considerations\n\n### Allowable Deductions\n- Salaries and wages\n- Rent and utilities\n- Marketing and advertising\n- Research and development\n- Depreciation\n- Interest expense (usually)\n\n### Non-Deductible Items\n- Dividends paid\n- Capital expenditures (capitalized instead)\n- Fines and penalties\n- Entertainment (often limited)\n\n## Corporate Tax Rates Globally\n\n| Country | Rate (approx) |\n|---------|---------------|\n| Ireland | 12.5% |\n| UK | 25% |\n| USA | 21% |\n| India | 22-30% |\n| Germany | 30% |\n\n## Minimum Alternative Tax (MAT)\n\nEnsures profitable companies pay minimum tax even with exemptions.\n\n> **Corporate tax planning** is crucial for business profitability!"
+        },
+        {
+            "id": "tax_9",
+            "type": "content",
+            "title": "Tax Deductions Overview",
+            "content": "# Tax Deductions and Allowances\n\n## What are Deductions?\n\nDeductions are amounts that can be **subtracted from gross income** to reduce taxable income.\n\n## Deduction vs Credit\n\n| Feature | Deduction | Credit |\n|---------|-----------|--------|\n| Reduces | Taxable income | Tax liability |\n| Value | Depends on tax bracket | Dollar-for-dollar |\n| Example | $1,000 deduction at 25% bracket saves $250 | $1,000 credit saves $1,000 |\n\n## Common Individual Deductions\n\n### Above-the-Line Deductions\n- Retirement contributions\n- Health savings accounts\n- Student loan interest\n- Self-employment tax\n\n### Itemized Deductions\n- Mortgage interest\n- State and local taxes\n- Charitable contributions\n- Medical expenses (over threshold)\n\n### Standard Deduction\n- Fixed amount if not itemizing\n- Varies by filing status\n- Inflation-adjusted annually\n\n## Business Deductions\n\n| Category | Examples |\n|----------|----------|\n| **Operating** | Rent, utilities, supplies |\n| **Personnel** | Salaries, benefits |\n| **Marketing** | Advertising, promotions |\n| **Professional** | Legal, accounting fees |\n| **Travel** | Business travel, meals |\n| **Depreciation** | Equipment, buildings |\n\n> **Document everything** - deductions require proof!"
+        },
+        {
+            "id": "tax_10",
+            "type": "content",
+            "title": "Capital Allowances and Depreciation",
+            "content": "# Capital Allowances\n\n## What are Capital Allowances?\n\nTax relief for the **cost of business assets** through capital allowances (depreciation for tax purposes).\n\n## Types of Capital Allowances\n\n### 1. Regular Depreciation\nSpread cost over useful life:\n\n```\nAsset Cost: $100,000\nUseful Life: 10 years\nAnnual Allowance: $10,000\n```\n\n### 2. Accelerated Depreciation\nFaster write-off to encourage investment:\n\n| Method | Description |\n|--------|-------------|\n| MACRS (USA) | Accelerated rates by asset class |\n| Section 179 | Immediate expense up to limit |\n| Bonus Depreciation | Additional first-year deduction |\n\n### 3. Investment Allowances\nExtra deduction above actual cost:\n- R&D tax credits\n- Investment incentives\n- Green energy credits\n\n## Example: Accelerated vs Straight-Line\n\n**Asset: $50,000, 5-year life**\n\n| Year | Straight-Line | Double-Declining |\n|------|---------------|------------------|\n| 1 | $10,000 | $20,000 |\n| 2 | $10,000 | $12,000 |\n| 3 | $10,000 | $7,200 |\n| 4 | $10,000 | $5,400 |\n| 5 | $10,000 | $5,400 |\n\n## Tax Impact\n\n```\nDepreciation Expense:    $10,000\nTax Rate:                    25%\nTax Savings:              $2,500\n```\n\n> **Accelerated methods** provide tax savings earlier!"
+        },
+        {
+            "id": "tax_11",
+            "type": "content",
+            "title": "Tax Credits",
+            "content": "# Tax Credits\n\n## What are Tax Credits?\n\nTax credits **directly reduce tax liability**, making them more valuable than deductions.\n\n## Types of Tax Credits\n\n### 1. Non-Refundable Credits\n- Reduce tax to zero but not below\n- Cannot generate a refund\n- Excess may carry forward\n\n**Examples:**\n- Foreign tax credit\n- Education credits\n- Retirement savers credit\n\n### 2. Refundable Credits\n- Can reduce tax below zero\n- Generate cash refund\n- Full value even if no tax liability\n\n**Examples:**\n- Earned income credit\n- Child tax credit (partially)\n- Premium tax credit\n\n## Common Business Credits\n\n| Credit | Purpose |\n|--------|--------|\n| R&D Credit | Encourage research and development |\n| Work Opportunity | Hire target group employees |\n| Investment Credit | Capital investment incentives |\n| Energy Credits | Renewable energy investments |\n\n## Credit vs Deduction Example\n\n**$1,000 Tax Credit vs $1,000 Deduction**\n\n```\nTax Bracket: 25%\n\nCredit Saves: $1,000 (direct reduction)\nDeduction Saves: $1,000 x 25% = $250\n\nCredit is 4x more valuable!\n```\n\n> **Always claim eligible credits** - they provide direct tax savings!"
+        },
+        {
+            "id": "tax_quiz_3",
+            "type": "quiz",
+            "title": "Deductions and Credits Quiz",
+            "content": "Test your understanding!",
+            "quizQuestion": "A taxpayer in the 30% bracket has a $2,000 tax deduction. How much will this save in taxes?",
+            "quizOptions": [
+                "$2,000",
+                "$600",
+                "$1,400",
+                "$200"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "tax_12",
+            "type": "content",
+            "title": "Tax Planning Strategies",
+            "content": "# Tax Planning\n\n## What is Tax Planning?\n\nLegal strategies to **minimize tax liability** while complying with tax laws.\n\n## Key Strategies\n\n### 1. Timing Strategies\n\n**Income Deferral:**\n- Delay receiving income to next year\n- Postpone invoicing in December\n\n**Expense Acceleration:**\n- Prepay deductible expenses\n- Make year-end purchases\n\n### 2. Income Shifting\n\n- Employ family members\n- Establish family trusts\n- Split income among entities\n\n### 3. Investment Strategies\n\n**Tax-Advantaged Accounts:**\n- Retirement accounts (401k, IRA)\n- Health savings accounts\n- Education savings plans\n\n**Tax-Efficient Investments:**\n- Municipal bonds (often tax-free)\n- Long-term capital gains (lower rate)\n\n### 4. Business Structure\n\n| Structure | Tax Treatment |\n|-----------|---------------|\n| Sole Proprietor | Personal rates |\n| Partnership | Pass-through |\n| S Corporation | Pass-through |\n| C Corporation | Corporate rates |\n\n### 5. Retirement Planning\n\n- Maximize contributions\n- Employer matching\n- Tax-deferred growth\n\n> **Tax avoidance is legal** - tax evasion is not!"
+        },
+        {
+            "id": "tax_13",
+            "type": "content",
+            "title": "Withholding and Estimated Taxes",
+            "content": "# Pay-As-You-Go Taxation\n\n## Tax Withholding\n\nEmployers **deduct taxes from wages** and remit to authorities.\n\n### What is Withheld\n\n| Tax | Withheld From |\n|-----|---------------|\n| Income tax | Wages |\n| Social Security | Wages |\n| Medicare | Wages |\n| State income tax | Wages |\n\n### Setting Withholding\n\n- Complete W-4 (or equivalent form)\n- Claim allowances/adjustments\n- Update when circumstances change\n\n## Estimated Tax Payments\n\nRequired when **withholding is insufficient**.\n\n### Who Must Pay\n\n- Self-employed individuals\n- Independent contractors\n- Business owners\n- Those with significant investment income\n\n### Payment Schedule\n\n| Quarter | Due Date |\n|---------|----------|\n| Q1: Jan-Mar | April 15 |\n| Q2: Apr-May | June 15 |\n| Q3: Jun-Aug | September 15 |\n| Q4: Sep-Dec | January 15 |\n\n### Safe Harbor Rules\n\nAvoid penalty by paying:\n- 100% of prior year tax, OR\n- 90% of current year tax\n\n## Calculation Example\n\n```\nEstimated Annual Tax:    $40,000\nQuarterly Payment:       $10,000\n\nIf underpaid, penalties apply!\n```\n\n> **Stay current** with estimated payments to avoid penalties!"
+        },
+        {
+            "id": "tax_14",
+            "type": "content",
+            "title": "Tax Compliance and Filing",
+            "content": "# Tax Compliance\n\n## Filing Requirements\n\n### Individual Returns\n- Annual filing (usually by April 15)\n- Report all income\n- Claim deductions and credits\n- Pay balance due or receive refund\n\n### Business Returns\n\n| Entity Type | Form | Due Date |\n|-------------|------|----------|\n| Sole Prop | Personal return | April 15 |\n| Partnership | Partnership return | March 15 |\n| S Corporation | S Corp return | March 15 |\n| C Corporation | Corporate return | April 15 |\n\n## Record Keeping\n\n### What to Keep\n\n- Income documents (W-2s, 1099s)\n- Expense receipts\n- Bank and investment statements\n- Deduction documentation\n- Prior year returns\n\n### How Long to Keep\n\n| Document Type | Retention Period |\n|---------------|------------------|\n| Tax returns | 7 years minimum |\n| Supporting documents | 7 years |\n| Major purchases | Until sold + 7 years |\n| Business records | 7 years |\n\n## Penalties for Non-Compliance\n\n| Violation | Penalty |\n|-----------|--------|\n| Late filing | 5% per month up to 25% |\n| Late payment | 0.5% per month |\n| Underpayment | Interest + penalties |\n| Fraud | 75% of underpayment |\n\n> **File on time, pay on time** - compliance saves money!"
+        },
+        {
+            "id": "tax_15",
+            "type": "content",
+            "title": "International Taxation Basics",
+            "content": "# International Taxation\n\n## Key Concepts\n\n### 1. Tax Residency\n- Where you are taxed\n- Based on citizenship or physical presence\n- Determines worldwide vs source income\n\n### 2. Source Rules\n- Where income is considered earned\n- Different rules for different income types\n\n### 3. Double Taxation\nSame income taxed by **two countries**:\n- Country of source\n- Country of residence\n\n## Avoiding Double Taxation\n\n### Tax Treaties\n- Bilateral agreements between countries\n- Reduce withholding rates\n- Allocate taxing rights\n\n### Foreign Tax Credit\n```\nUS Tax on Foreign Income:    $10,000\nForeign Tax Paid:            ($7,000)\n                            ---------\nUS Tax Remaining:              $3,000\n```\n\n### Exemption Methods\n- Some countries exempt foreign income\n- Foreign earned income exclusion (limited)\n\n## Transfer Pricing\n\nPricing of transactions between **related entities**:\n- Must be at arm's length\n- Heavily scrutinized by authorities\n- Documentation requirements\n\n## Base Erosion (BEPS)\n\n- OECD initiative to prevent tax avoidance\n- Country-by-country reporting\n- Minimum tax proposals\n\n> **International tax is complex** - professional advice recommended!"
+        },
+        {
+            "id": "tax_quiz_4",
+            "type": "quiz",
+            "title": "International Tax Quiz",
+            "content": "Test your knowledge!",
+            "quizQuestion": "What mechanism helps prevent the same income from being taxed by two different countries?",
+            "quizOptions": [
+                "Tax evasion",
+                "Tax treaties and foreign tax credits",
+                "Transfer pricing",
+                "Tax shelters"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "tax_16",
+            "type": "content",
+            "title": "Tax Audit and Disputes",
+            "content": "# Tax Audits and Disputes\n\n## Types of Tax Audits\n\n### 1. Correspondence Audit\n- Conducted by mail\n- Specific issues only\n- Provide requested documents\n\n### 2. Office Audit\n- At tax authority office\n- Bring records to their location\n- More comprehensive\n\n### 3. Field Audit\n- At taxpayer's location\n- Most thorough\n- For complex returns\n\n## Audit Red Flags\n\n| Issue | Risk Level |\n|-------|------------|\n| High deductions relative to income | High |\n| Cash businesses | High |\n| Round numbers | Medium |\n| Home office deduction | Medium |\n| Large charitable contributions | Medium |\n| Business losses year after year | High |\n\n## Surviving an Audit\n\n1. **Stay calm** - Audits are routine\n2. **Be organized** - Have documents ready\n3. **Answer only what is asked** - Do not volunteer\n4. **Get representation** - Consider a tax professional\n5. **Meet deadlines** - Respond promptly\n\n## Dispute Resolution\n\n### If You Disagree\n\n| Step | Action |\n|------|--------|\n| 1 | Informal discussion with auditor |\n| 2 | Appeal within tax authority |\n| 3 | Tax court |\n| 4 | Federal courts (if applicable) |\n\n> **Documentation is your best defense** in an audit!"
+        },
+        {
+            "id": "tax_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **Taxation** lesson!\n\n## Key Concepts Mastered\n\n### Tax Types\n- **Direct taxes** - Paid directly (income tax)\n- **Indirect taxes** - Collected through others (GST/VAT)\n- **Progressive** - Higher rates for higher income\n\n### GST/VAT\n- Value-added tax at each stage\n- Input tax credit prevents cascading\n- Business credits GST paid on purchases\n\n### Income and Corporate Tax\n- Tax on earnings and profits\n- Various deductions reduce taxable income\n- Different rates for different entities\n\n### Deductions and Credits\n- Deductions reduce taxable income\n- Credits reduce tax directly (more valuable)\n- Documentation required for all claims\n\n## Quick Reference\n\n| Concept | Key Point |\n|---------|----------|\n| Direct vs Indirect | Who bears the burden |\n| Input Tax Credit | Claim GST paid on purchases |\n| Deduction | Reduces taxable income |\n| Credit | Reduces tax dollar-for-dollar |\n| Compliance | File on time, keep records |\n\n## What is Next?\n\nExplore:\n- Financial ratios and analysis\n- Advanced accounting topics\n- Specialized tax areas\n\n> **Tax knowledge is power** - use it for better financial planning!"
+        }
+    ]
+}

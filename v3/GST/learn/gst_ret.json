@@ -1,0 +1,143 @@
+{
+    "id": "learn_gst_ret",
+    "topicId": "gst_ret",
+    "topicTitle": "GST Returns",
+    "description": "Master GST Returns including GSTR-1, GSTR-3B, Annual Return, and Compliance",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "gst_ret1",
+            "type": "content",
+            "title": "Welcome to GST Returns",
+            "content": "# GST Returns\n\nTimely filing is **essential for compliance**.\n\n## What You Will Learn\n\n- **Monthly Returns** - GSTR-1, GSTR-3B\n- **Annual Return** - GSTR-9\n- **Special Returns** - Composition, TDS\n- **Compliance** - Due dates and penalties\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| GSTR-1 | Outward supply |\n| GSTR-3B | Summary |\n| GSTR-9 | Annual |\n| Penalties | Late filing |"
+        },
+        {
+            "id": "gst_ret2",
+            "type": "content",
+            "title": "GSTR-1 - Outward Supplies",
+            "content": "# Outward Supply Details\n\n## Purpose\n\n```\nDetails of all outward supplies:\n- Taxable\n- Exempt\n- Nil rated\n- Non-GST\n```\n\n## Due Dates\n\n| Turnover | Frequency | Due Date |\n|----------|-----------|----------|\n| > Rs 5 Cr | Monthly | 11th |\n| < Rs 5 Cr | Monthly | 13th |\n| QRMP | Quarterly | 13th |\n\n## Contents\n\n- B2B invoices (with GSTIN)\n- B2C large (> Rs 2.5 lakh)\n- B2C small (consolidated)\n- Credit/Debit notes\n- Exports\n- Nil rated/exempt"
+        },
+        {
+            "id": "gst_ret3",
+            "type": "content",
+            "title": "GSTR-3B - Summary Return",
+            "content": "# Monthly Summary\n\n## Purpose\n\n```\nSelf-declared summary:\n- Outward supplies\n- ITC claimed\n- Tax payment\n```\n\n## Due Dates\n\n| Turnover | Frequency | Due Date |\n|----------|-----------|----------|\n| > Rs 5 Cr | Monthly | 20th |\n| < Rs 5 Cr (Group A) | Monthly | 20th |\n| < Rs 5 Cr (Group B) | Monthly | 22nd/24th |\n| QRMP | Quarterly | 22nd/24th |\n\n## Tables\n\n| Table | Content |\n|-------|--------|\n| 3.1 | Outward supplies |\n| 3.2 | Interstate supplies |\n| 4 | ITC |\n| 5 | Exempt/Non-GST |\n| 6 | Tax payment |"
+        },
+        {
+            "id": "gst_ret_quiz1",
+            "type": "quiz",
+            "title": "Return Quiz",
+            "content": "Test your return knowledge!",
+            "quizQuestion": "GSTR-1 is filed by?",
+            "quizOptions": [
+                "5th",
+                "11th",
+                "20th",
+                "25th"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_ret4",
+            "type": "content",
+            "title": "QRMP Scheme",
+            "content": "# Quarterly Return Monthly Payment\n\n## Eligibility\n\n| Criterion | Limit |\n|-----------|-------|\n| Turnover | < Rs 5 Cr |\n| Option | Quarterly filing |\n\n## Returns\n\n| Return | Frequency |\n|--------|----------|\n| GSTR-1 | Quarterly |\n| GSTR-3B | Quarterly |\n| IFF | Monthly option |\n\n## Monthly Tax Payment\n\n| Method | Basis |\n|--------|-------|\n| Fixed sum | 35% of last quarter |\n| Self-assessment | Actual |"
+        },
+        {
+            "id": "gst_ret5",
+            "type": "content",
+            "title": "GSTR-2A and GSTR-2B",
+            "content": "# Inward Supply Statements\n\n## GSTR-2A\n\n```\nDynamic statement:\n- Auto-populated from suppliers\n- Real-time updates\n- Used for reconciliation\n```\n\n## GSTR-2B\n\n```\nStatic statement:\n- Generated on 14th\n- Fixed for the month\n- Used for ITC claim\n```\n\n## Usage\n\n| Statement | Use |\n|-----------|-----|\n| GSTR-2A | Reconciliation |\n| GSTR-2B | ITC claim basis |"
+        },
+        {
+            "id": "gst_ret6",
+            "type": "content",
+            "title": "GSTR-9 - Annual Return",
+            "content": "# Annual Summary\n\n## Due Date\n\n```\n31st December of following FY\n```\n\n## Contents\n\n| Part | Details |\n|------|--------|\n| Part I | Basic details |\n| Part II | Outward supplies |\n| Part III | ITC |\n| Part IV | Tax paid |\n| Part V | Transactions (previous FY) |\n| Part VI | Other information |\n\n## Who Files\n\n- All regular taxpayers\n- Except composition, ISD, casual"
+        },
+        {
+            "id": "gst_ret_quiz2",
+            "type": "quiz",
+            "title": "Annual Quiz",
+            "content": "Test your annual return knowledge!",
+            "quizQuestion": "GSTR-9 due date is?",
+            "quizOptions": [
+                "30th September",
+                "31st October",
+                "30th November",
+                "31st December"
+            ],
+            "correctOptionIndex": 3
+        },
+        {
+            "id": "gst_ret7",
+            "type": "content",
+            "title": "GSTR-9C - Reconciliation Statement",
+            "content": "# Audit Reconciliation\n\n## Applicability\n\n| Turnover | Requirement |\n|----------|-------------|\n| > Rs 5 Cr | Self-certified |\n| < Rs 5 Cr | Not required |\n\n## Contents\n\n```\nReconciliation of:\n- GSTR-9 with books\n- Tax liability\n- ITC\n\nCertified by taxpayer\n(earlier by CA/CMA)\n```\n\n## Tables\n\n| Table | Reconciliation |\n|-------|---------------|\n| 5 | Gross turnover |\n| 6-8 | Tax and ITC |\n| 12-13 | Expenses |\n| 14 | Supplies |\n| 15-16 | Additional liability |"
+        },
+        {
+            "id": "gst_ret8",
+            "type": "content",
+            "title": "Composition Returns",
+            "content": "# CMP-08 and GSTR-4\n\n## CMP-08 (Quarterly)\n\n| Due Date | Purpose |\n|----------|--------|\n| 18th of following month | Tax payment |\n\n## GSTR-4 (Annual)\n\n| Due Date | Purpose |\n|----------|--------|\n| 30th April | Annual return |\n\n## Contents\n\n```\n- Summary of supplies\n- Tax payable\n- Inward supplies (reverse charge)\n```"
+        },
+        {
+            "id": "gst_ret9",
+            "type": "content",
+            "title": "TDS and TCS Returns",
+            "content": "# Special Categories\n\n## GSTR-7 (TDS)\n\n| Filer | Due Date |\n|-------|----------|\n| TDS deductor | 10th |\n\n## GSTR-8 (TCS)\n\n| Filer | Due Date |\n|-------|----------|\n| E-commerce operator | 10th |\n\n## Contents\n\n| Return | Information |\n|--------|-------------|\n| GSTR-7 | TDS deducted, payment |\n| GSTR-8 | TCS collected, payment |"
+        },
+        {
+            "id": "gst_ret_quiz3",
+            "type": "quiz",
+            "title": "Special Return Quiz",
+            "content": "Test your special return knowledge!",
+            "quizQuestion": "GSTR-7 is filed by?",
+            "quizOptions": [
+                "Regular taxpayer",
+                "Composition dealer",
+                "TDS deductor",
+                "E-commerce operator"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "gst_ret10",
+            "type": "content",
+            "title": "Late Fees and Interest",
+            "content": "# Non-Compliance Costs\n\n## Late Fees\n\n| Return | Fee |\n|--------|-----|\n| GSTR-3B (with tax) | Rs 50/day |\n| GSTR-3B (nil) | Rs 20/day |\n| GSTR-1 | Rs 50/day |\n| GSTR-9 | Rs 200/day |\n\n## Caps\n\n| Return | Maximum |\n|--------|--------|\n| GSTR-3B | Rs 10,000 |\n| GSTR-1 | Rs 10,000 |\n| GSTR-9 | 0.25% of turnover |\n\n## Interest\n\n```\n18% per annum on late tax payment\n24% on wrong ITC utilization\n```"
+        },
+        {
+            "id": "gst_ret11",
+            "type": "content",
+            "title": "Return Amendments",
+            "content": "# Correcting Errors\n\n## Amendment Period\n\n```\nAmendments allowed until:\n- 30th November of following FY\n- Or filing of annual return\n```\n\n## Methods\n\n| Error | Correction |\n|-------|------------|\n| B2B invoice | Amendment tables |\n| B2C | In subsequent return |\n| Missing | In current return |\n\n## Limitations\n\n- No revision of filed returns\n- Only amendment in subsequent"
+        },
+        {
+            "id": "gst_ret12",
+            "type": "content",
+            "title": "Compliance Calendar",
+            "content": "# Monthly Due Dates\n\n## Key Dates\n\n| Date | Return/Activity |\n|------|----------------|\n| 10th | TDS/TCS returns |\n| 11th/13th | GSTR-1 |\n| 14th | GSTR-2B generated |\n| 18th | CMP-08 |\n| 20th-24th | GSTR-3B |\n\n## Quarterly\n\n| Date | Return |\n|------|--------|\n| 13th | GSTR-1 (QRMP) |\n| 22nd/24th | GSTR-3B (QRMP) |\n\n## Annual\n\n| Date | Return |\n|------|--------|\n| 31st Dec | GSTR-9, 9C |"
+        },
+        {
+            "id": "gst_ret_quiz4",
+            "type": "quiz",
+            "title": "Fee Quiz",
+            "content": "Test your late fee knowledge!",
+            "quizQuestion": "Late fee for nil GSTR-3B is?",
+            "quizOptions": [
+                "Rs 10/day",
+                "Rs 20/day",
+                "Rs 50/day",
+                "Rs 100/day"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_ret17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **GST Returns**!\n\n## Key Topics\n\n### Monthly\n- GSTR-1 (11th/13th)\n- GSTR-3B (20th-24th)\n- QRMP scheme\n\n### Annual\n- GSTR-9 (31st Dec)\n- GSTR-9C (> Rs 5 Cr)\n\n### Special\n- Composition (CMP-08, GSTR-4)\n- TDS/TCS (GSTR-7/8)\n\n## Key Dates\n\n| Return | Due Date |\n|--------|----------|\n| GSTR-1 | 11th/13th |\n| GSTR-3B | 20th-24th |\n| GSTR-9 | 31st Dec |\n\n## What is Next?\n\nExplore GST Assessment and Appeals!"
+        }
+    ]
+}

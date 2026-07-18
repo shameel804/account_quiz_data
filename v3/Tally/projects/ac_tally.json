@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Ledger & Group Creation",
+    "ques": "How do you create a new ledger in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "To create a new ledger in Tally:\n1. Go to 'Gateway of Tally'.\n2. Select 'Accounts Info'.\n3. Choose 'Ledgers'.\n4. Click on 'Create'.\n5. Enter the ledger name, group, and other details.\n6. Save the ledger by pressing 'Ctrl + A'."
+    },
+    "explanation": "To create a ledger in Tally, follow these steps:\n\n1. **Go to 'Gateway of Tally'** – This is the main menu in Tally where all accounting operations begin.\n2. **Select 'Accounts Info'** – This section contains all account-related features.\n3. **Choose 'Ledgers'** – This option allows you to manage ledgers.\n4. **Click on 'Create'** – This opens a form for ledger creation.\n5. **Enter the ledger name, group, and other details** – The ledger name should be unique, and it must be assigned to an appropriate group.\n6. **Save the ledger by pressing `Ctrl + A`** – This is a shortcut to quickly save the ledger details."
+  },
+  {
+    "title": "Vouchers (Payment, Receipt, Contra, Journal)",
+    "ques": "What is the purpose of a Contra Voucher in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "A Contra Voucher is used for cash and bank transactions such as:\n- Cash deposit into a bank account\n- Cash withdrawal from a bank\n- Transfer of funds between bank accounts\nTo create a Contra Voucher:\n1. Go to 'Gateway of Tally'.\n2. Select 'Accounting Vouchers'.\n3. Press 'F4' for Contra.\n4. Enter the transaction details.\n5. Save the entry by pressing 'Ctrl + A'."
+    },
+    "explanation": "**A Contra Voucher** is used when cash is transferred between bank accounts or between cash and bank.\n\n- ***Cash deposit into a bank account*** – When cash is deposited into the company's bank account.\n- ***Cash withdrawal from a bank*** – When cash is withdrawn from the bank.\n- ***Transfer of funds between bank accounts*** – When money is moved between two different bank accounts of the same business.\n\n**Steps to create a Contra Voucher:**\n\n1. **Go to 'Gateway of Tally'** – The main dashboard.\n2. **Select 'Accounting Vouchers'** – This section contains all voucher types.\n3. **Press `F4` for Contra** – Shortcut key to open Contra Voucher.\n4. **Enter the transaction details** – Select the cash or bank account and enter the amount.\n5. **Save the entry by pressing `Ctrl + A`** – This saves the voucher."
+  },
+  {
+    "title": "Bank Reconciliation in Tally",
+    "ques": "What is Bank Reconciliation in Tally and how is it performed?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Bank Reconciliation in Tally is the process of matching the company's bank ledger with the bank statement.\nSteps to perform Bank Reconciliation:\n1. Go to 'Gateway of Tally'.\n2. Select 'Banking' and choose 'Bank Reconciliation'.\n3. Select the bank ledger.\n4. Enter the bank statement date and match transactions.\n5. Save the reconciliation by pressing 'Ctrl + A'."
+    },
+    "explanation": "**Bank Reconciliation** is used to compare the company's bank ledger in Tally with the actual bank statement to find discrepancies.\n\n**Steps to perform Bank Reconciliation:**\n\n1. **Go to 'Gateway of Tally'** – The main screen where all functions start.\n2. **Select 'Banking' and choose 'Bank Reconciliation'** – This section is specifically for managing bank transactions.\n3. **Select the bank ledger** – Choose the appropriate bank account.\n4. **Enter the bank statement date and match transactions** – Compare the transactions in Tally with the actual bank statement.\n5. **Save the reconciliation by pressing `Ctrl + A`** – Once all transactions are matched, save the record."
+  },
+  {
+    "title": "Adjustments & Closing Entries",
+    "ques": "Why are closing entries important in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Closing entries in Tally help finalize the accounts at the end of a financial period.\nThey are used to:\n- Transfer revenue and expense balances to the profit and loss account.\n- Adjust outstanding expenses and incomes.\n- Balance asset and liability accounts.\n- Prepare accounts for the next financial year."
+    },
+    "explanation": "**Closing entries** are necessary to finalize the books of accounts and ensure accurate financial reporting.\n\nThey help in:\n\n- ***Transferring revenue and expense balances to the profit and loss account*** – This ensures that only the current year's profits or losses are recorded.\n- ***Adjusting outstanding expenses and incomes*** – Any pending transactions must be accounted for.\n- ***Balancing asset and liability accounts*** – Ensures that the balance sheet reflects the true financial position.\n- ***Preparing accounts for the next financial year*** – After closing entries, the accounts are reset for the new financial year."
+  },
+  {
+    "title": "Ledger & Group Creation",
+    "ques": "What is the difference between a Single Ledger and Multiple Ledgers in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "In Tally, Single Ledger creation allows you to create one ledger at a time, while Multiple Ledger creation enables you to create multiple ledgers in a single screen.\n\n- Single Ledger: Used when creating or editing one ledger.\n- Multiple Ledgers: Used for bulk ledger creation under a common group."
+    },
+    "explanation": "Tally provides two ways to create ledgers:\n\n- ***Single Ledger Creation***: This method is used when you want to create a single ledger with detailed customization.\n  - Steps:\n    1. Go to 'Gateway of Tally'.\n    2. Select 'Accounts Info' > 'Ledgers'.\n    3. Click on 'Create' and enter the details.\n\n- ***Multiple Ledger Creation***: This method is useful for creating multiple ledgers at once, under the same group.\n  - Steps:\n    1. Go to 'Gateway of Tally'.\n    2. Select 'Accounts Info' > 'Ledgers'.\n    3. Click on 'Create (Multiple Ledgers)'.\n    4. Select the group and enter ledger names.\n\nUse 'Single Ledger' for detailed entry and 'Multiple Ledger' for faster bulk creation."
+  },
+  {
+    "title": "Vouchers (Payment, Receipt, Contra, Journal)",
+    "ques": "How do you record a Payment Voucher in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "To record a Payment Voucher in Tally:\n1. Go to 'Gateway of Tally'.\n2. Select 'Accounting Vouchers'.\n3. Press 'F5' for Payment.\n4. Select the bank or cash account from which payment is made.\n5. Enter the party name and amount.\n6. Save the entry by pressing 'Ctrl + A'."
+    },
+    "explanation": "**Payment Vouchers** are used to record expenses or payments made to suppliers.\n\n**Steps to create a Payment Voucher:**\n\n1. **Go to 'Gateway of Tally'** – This is the starting point.\n2. **Select 'Accounting Vouchers'** – Contains all voucher types.\n3. **Press `F5` for Payment** – Shortcut to open a Payment Voucher.\n4. **Select the bank or cash account** – Choose the payment source.\n5. **Enter the party name and amount** – The recipient and transaction details.\n6. **Save the entry by pressing `Ctrl + A`** – Confirms and saves the voucher."
+  },
+  {
+    "title": "Bank Reconciliation in Tally",
+    "ques": "What are the common errors found during bank reconciliation in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Common errors in bank reconciliation include:\n- Missing transactions in Tally\n- Incorrect date entries\n- Duplicate entries in the ledger\n- Bank charges not recorded\n- Outstanding cheques not cleared"
+    },
+    "explanation": "During **bank reconciliation**, the following errors are commonly found:\n\n- ***Missing transactions in Tally*** – Transactions recorded in the bank statement but not in Tally.\n- ***Incorrect date entries*** – Differences in transaction dates between Tally and the bank.\n- ***Duplicate entries in the ledger*** – The same transaction is recorded more than once in Tally.\n- ***Bank charges not recorded*** – The bank deducts charges that are not yet entered in Tally.\n- ***Outstanding cheques not cleared*** – Cheques issued but not yet reflected in the bank statement.\n\nTo resolve these errors, compare the bank statement with Tally and adjust any discrepancies."
+  },
+  {
+    "title": "Adjustments & Closing Entries",
+    "ques": "How do you pass an adjustment entry for outstanding expenses in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "To record outstanding expenses in Tally:\n1. Go to 'Gateway of Tally'.\n2. Select 'Accounting Vouchers'.\n3. Press 'F7' for Journal Voucher.\n4. Debit the Expense Account.\n5. Credit the Outstanding Expenses Account.\n6. Save the entry by pressing 'Ctrl + A'."
+    },
+    "explanation": "**Adjustment entries** are required to record outstanding expenses that are due but not yet paid.\n\n**Steps to pass an adjustment entry:**\n\n1. **Go to 'Gateway of Tally'** – Open Tally's main menu.\n2. **Select 'Accounting Vouchers'** – Choose the voucher section.\n3. **Press `F7` for Journal Voucher** – Journal vouchers are used for adjustments.\n4. **Debit the Expense Account** – This increases the recorded expense.\n5. **Credit the Outstanding Expenses Account** – This reflects the liability.\n6. **Save the entry by pressing `Ctrl + A`** – Confirms and saves the record.\n\nExample:\n```plaintext\nRent Expense A/c Dr.  10,000\n     To Outstanding Expenses A/c  10,000\n(Recording outstanding rent)\n```"
+  },
+  {
+    "title": "Vouchers (Payment, Receipt, Contra, Journal)",
+    "ques": "What is the purpose of a Journal Voucher in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "A Journal Voucher is used to record non-cash transactions, such as:\n- Adjustment entries\n- Depreciation\n- Provision for expenses\n- Outstanding incomes and liabilities"
+    },
+    "explanation": "**Journal Vouchers** are used when no direct cash or bank transactions are involved.\n\nExamples of Journal Voucher entries:\n\n- ***Adjustment entries*** – Used for closing balances or corrections.\n- ***Depreciation*** – Recording depreciation on fixed assets.\n- ***Provision for expenses*** – Setting aside an amount for future expenses.\n- ***Outstanding incomes and liabilities*** – Recording income due or expenses payable.\n\nTo create a Journal Voucher:\n1. **Go to 'Gateway of Tally'** – Open the main menu.\n2. **Select 'Accounting Vouchers'** – Open the voucher section.\n3. **Press `F7` for Journal Voucher** – Opens the journal entry screen.\n4. **Enter the accounts and amounts** – Record debit and credit amounts.\n5. **Save the entry by pressing `Ctrl + A`** – Confirms and saves the journal."
+  }
+]

@@ -1,0 +1,181 @@
+{
+    "id": "learn_basic",
+    "topicId": "basic",
+    "topicTitle": "Basic Accounting Principles",
+    "description": "Master the fundamental principles of accounting including the Accounting Equation, Double-Entry System, Accrual vs Cash Accounting, and key standards like GAAP and IFRS",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "basic_1",
+            "type": "content",
+            "title": "Welcome to Basic Accounting Principles",
+            "content": "# Introduction to Accounting Fundamentals\n\nWelcome to the foundation of all financial knowledge! In this lesson, you will learn the **core principles** that govern accounting worldwide.\n\n## What You Will Learn:\n- **The Accounting Equation** - The fundamental formula that balances every transaction\n- **Double-Entry System** - Why every transaction affects two accounts\n- **Accrual vs Cash Accounting** - Two different timing methods\n- **GAAP and IFRS** - The major accounting standards\n\n> **Did You Know?** Accounting dates back over 7,000 years! Ancient civilizations used clay tablets to record transactions.\n\n## Why These Principles Matter\n\n| Principle | Importance |\n|-----------|------------|\n| Accounting Equation | Ensures books always balance |\n| Double-Entry | Prevents errors and fraud |\n| Accrual Method | Shows true financial picture |\n| Standards | Enables comparison across companies |\n\nLet's begin your journey into accounting!"
+        },
+        {
+            "id": "basic_2",
+            "type": "content",
+            "title": "The Accounting Equation Explained",
+            "content": "# The Accounting Equation\n\n## The Foundation of All Accounting\n\nThe accounting equation is the most fundamental concept in accounting:\n\n**Assets = Liabilities + Equity**\n\nThis equation must ALWAYS balance after every transaction.\n\n## Understanding the Components\n\n### Assets\nResources **owned** by the business that provide future economic benefit:\n- Cash\n- Inventory\n- Equipment\n- Buildings\n- Accounts Receivable\n\n### Liabilities\nObligations **owed** to others:\n- Loans\n- Accounts Payable\n- Salaries Payable\n- Taxes Payable\n\n### Equity\nThe **owner's claim** on assets after liabilities:\n- Capital invested by owners\n- Retained earnings\n- Less: Drawings/Dividends\n\n## Visual Representation\n\n```\n+------------------+     +------------------+\n|     ASSETS       |  =  |   LIABILITIES    |\n|                  |     +------------------+\n|   What we OWN    |     |   What we OWE    |\n|                  |     +------------------+\n|                  |  +  |     EQUITY       |\n|                  |     +------------------+\n|                  |     | Owner's Interest |\n+------------------+     +------------------+\n```\n\n> **Key Point:** If assets increase, either liabilities OR equity must also increase to keep the equation balanced."
+        },
+        {
+            "id": "basic_3",
+            "type": "content",
+            "title": "Applying the Accounting Equation",
+            "content": "# Accounting Equation in Action\n\n## Example Transactions\n\nLet's trace how the equation stays balanced:\n\n### Transaction 1: Owner Invests $50,000\n\n| Assets | = | Liabilities | + | Equity |\n|--------|---|-------------|---|--------|\n| +$50,000 Cash | = | $0 | + | +$50,000 Capital |\n\n**Balance:** $50,000 = $0 + $50,000 (Balanced!)\n\n### Transaction 2: Purchase Equipment for $20,000 Cash\n\n| Assets | = | Liabilities | + | Equity |\n|--------|---|-------------|---|--------|\n| -$20,000 Cash | = | $0 | + | $0 |\n| +$20,000 Equipment | | | | |\n\n**Balance:** $50,000 = $0 + $50,000 (Still Balanced!)\n\n### Transaction 3: Borrow $15,000 from Bank\n\n| Assets | = | Liabilities | + | Equity |\n|--------|---|-------------|---|--------|\n| +$15,000 Cash | = | +$15,000 Loan | + | $0 |\n\n**Balance:** $65,000 = $15,000 + $50,000 (Balanced!)\n\n## The Golden Rule\n\n- Every transaction affects **at least two accounts**\n- The equation **MUST** balance after every transaction\n- If it doesn't balance, there's an error somewhere\n\n> **Pro Tip:** Always verify the equation balances after recording transactions!"
+        },
+        {
+            "id": "basic_quiz_1",
+            "type": "quiz",
+            "title": "Check Your Understanding",
+            "content": "Test your knowledge of the Accounting Equation!",
+            "quizQuestion": "If a company has Assets of $100,000 and Liabilities of $40,000, what is the Equity?",
+            "quizOptions": [
+                "$140,000",
+                "$60,000",
+                "$40,000",
+                "$100,000"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "basic_4",
+            "type": "content",
+            "title": "Introduction to Double-Entry System",
+            "content": "# The Double-Entry Bookkeeping System\n\n## What is Double-Entry?\n\nDouble-entry bookkeeping is a system where **every transaction is recorded in at least two accounts** - one debit and one credit.\n\n## The Golden Rules\n\n### For Every Transaction:\n- Total **Debits** MUST equal Total **Credits**\n- At least **two accounts** are affected\n- The accounting equation stays balanced\n\n## Debits and Credits Explained\n\n| Account Type | Debit (Dr) | Credit (Cr) |\n|--------------|------------|-------------|\n| **Assets** | Increase | Decrease |\n| **Liabilities** | Decrease | Increase |\n| **Equity** | Decrease | Increase |\n| **Revenue** | Decrease | Increase |\n| **Expenses** | Increase | Decrease |\n\n## Memory Aid: DEALER\n\n- **D**ividends - Debit to increase\n- **E**xpenses - Debit to increase\n- **A**ssets - Debit to increase\n- **L**iabilities - Credit to increase\n- **E**quity - Credit to increase\n- **R**evenue - Credit to increase\n\n> **Historical Note:** Double-entry was first documented by Luca Pacioli in 1494 and is still used today!"
+        },
+        {
+            "id": "basic_5",
+            "type": "content",
+            "title": "Double-Entry in Practice",
+            "content": "# Applying Double-Entry Bookkeeping\n\n## Example Transactions\n\n### Transaction 1: Purchased Office Supplies for $500 Cash\n\n```\nAccount             Debit      Credit\n-----------------------------------------\nOffice Supplies     $500\n    Cash                       $500\n-----------------------------------------\nTotal               $500       $500\n```\n\n- Office Supplies (Asset) increases = Debit\n- Cash (Asset) decreases = Credit\n\n### Transaction 2: Received $2,000 from Customer for Services\n\n```\nAccount             Debit      Credit\n-----------------------------------------\nCash                $2,000\n    Service Revenue            $2,000\n-----------------------------------------\nTotal               $2,000     $2,000\n```\n\n- Cash (Asset) increases = Debit\n- Revenue increases = Credit\n\n### Transaction 3: Paid $1,000 Rent Expense\n\n```\nAccount             Debit      Credit\n-----------------------------------------\nRent Expense        $1,000\n    Cash                       $1,000\n-----------------------------------------\nTotal               $1,000     $1,000\n```\n\n- Expense increases = Debit\n- Cash (Asset) decreases = Credit\n\n> **Remember:** Debits are always listed first, credits are indented!"
+        },
+        {
+            "id": "basic_quiz_2",
+            "type": "quiz",
+            "title": "Double-Entry Quiz",
+            "content": "Test your understanding of debits and credits!",
+            "quizQuestion": "When a company pays off a loan, which accounts are affected and how?",
+            "quizOptions": [
+                "Debit Cash, Credit Loan Payable",
+                "Debit Loan Payable, Credit Cash",
+                "Debit Loan Payable, Debit Cash",
+                "Credit Loan Payable, Credit Cash"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "basic_6",
+            "type": "content",
+            "title": "Understanding Accrual Accounting",
+            "content": "# Accrual Accounting Method\n\n## What is Accrual Accounting?\n\nAccrual accounting records revenues and expenses **when they are earned or incurred**, regardless of when cash changes hands.\n\n## Key Principles\n\n### Revenue Recognition Principle\nRecord revenue when it is **earned**, not when cash is received.\n\n**Example:** You complete a project in December but receive payment in January.\n- Under accrual: Record revenue in December\n- Under cash: Record revenue in January\n\n### Matching Principle\nRecord expenses in the **same period** as the revenues they help generate.\n\n**Example:** You sell products in December that cost you money to produce.\n- Match the cost of goods sold with December's revenue\n\n## Accrual vs Reality\n\n| Scenario | Accrual Treatment |\n|----------|------------------|\n| Service completed, not yet paid | Record Revenue NOW |\n| Rent paid in advance | Record as Asset, expense over time |\n| Supplies purchased, not yet used | Record as Asset until used |\n| Employee works, payday is next week | Record Expense NOW |\n\n> **Why Accrual?** It provides a more accurate picture of a company's financial health!"
+        },
+        {
+            "id": "basic_7",
+            "type": "content",
+            "title": "Understanding Cash Accounting",
+            "content": "# Cash Basis Accounting\n\n## What is Cash Accounting?\n\nCash accounting records revenues and expenses **only when cash is received or paid**.\n\n## How It Works\n\n### Revenue\nRecorded when cash is **actually received**\n- Customer pays = Record revenue\n- Invoice sent but unpaid = No revenue yet\n\n### Expenses\nRecorded when cash is **actually paid**\n- Pay the bill = Record expense\n- Bill received but unpaid = No expense yet\n\n## Example Comparison\n\n**Scenario:** You provide $5,000 of consulting services in December. Customer pays in January.\n\n| Method | December | January |\n|--------|----------|--------|\n| **Cash Basis** | $0 Revenue | $5,000 Revenue |\n| **Accrual Basis** | $5,000 Revenue | $0 Revenue |\n\n## Who Uses Cash Accounting?\n\n- **Small businesses** with simple transactions\n- **Sole proprietors** and freelancers\n- Businesses with **revenues under $25 million** (in many jurisdictions)\n\n## Advantages of Cash Accounting\n\n- Simple to understand and maintain\n- Clear picture of actual cash flow\n- Easier for tax planning\n\n> **Limitation:** Does not show the complete financial picture of the business."
+        },
+        {
+            "id": "basic_8",
+            "type": "content",
+            "title": "Accrual vs Cash: Side-by-Side",
+            "content": "# Comparing Accrual and Cash Accounting\n\n## Head-to-Head Comparison\n\n| Feature | Accrual | Cash |\n|---------|---------|------|\n| **Revenue recorded** | When earned | When received |\n| **Expenses recorded** | When incurred | When paid |\n| **Complexity** | More complex | Simpler |\n| **Accuracy** | More accurate | Less accurate |\n| **Required for** | Large companies, GAAP | Small businesses |\n| **Shows receivables** | Yes | No |\n| **Shows payables** | Yes | No |\n\n## Practical Example\n\n**Business Activity in January:**\n- Completed services worth $10,000 (collected $6,000)\n- Incurred expenses of $4,000 (paid $3,000)\n\n### Accrual Basis Income Statement\n```\nRevenue:          $10,000\nExpenses:         ($4,000)\n--------------------------\nNet Income:        $6,000\n```\n\n### Cash Basis Income Statement\n```\nCash Received:     $6,000\nCash Paid:        ($3,000)\n--------------------------\nNet Income:        $3,000\n```\n\n## Which Should You Use?\n\n- **Accrual:** Required for GAAP, better for measuring performance\n- **Cash:** Acceptable for small businesses, easier to manage\n\n> **Best Practice:** Most growing businesses should transition to accrual accounting as they scale."
+        },
+        {
+            "id": "basic_quiz_3",
+            "type": "quiz",
+            "title": "Accrual vs Cash Quiz",
+            "content": "Test your understanding of accounting methods!",
+            "quizQuestion": "Under accrual accounting, when should revenue be recorded?",
+            "quizOptions": [
+                "When cash is received",
+                "When the invoice is sent",
+                "When the service is performed or goods are delivered",
+                "At the end of the accounting period"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "basic_9",
+            "type": "content",
+            "title": "Introduction to GAAP",
+            "content": "# Generally Accepted Accounting Principles (GAAP)\n\n## What is GAAP?\n\nGAAP is a set of **accounting standards and principles** used primarily in the United States to ensure financial statements are consistent, comparable, and transparent.\n\n## Key GAAP Principles\n\n### 1. Economic Entity Assumption\nBusiness transactions must be kept **separate** from the owner's personal transactions.\n\n### 2. Monetary Unit Assumption\nAll transactions must be recorded in a **stable currency** (e.g., US Dollar).\n\n### 3. Time Period Assumption\nBusiness activities can be divided into **specific time periods** (months, quarters, years).\n\n### 4. Going Concern Principle\nAssumes the business will **continue operating** indefinitely.\n\n### 5. Historical Cost Principle\nAssets are recorded at their **original purchase price**.\n\n### 6. Full Disclosure Principle\nAll information that could affect a reader's understanding must be **disclosed**.\n\n## Who Sets GAAP?\n\n- **FASB** (Financial Accounting Standards Board) - USA\n- **SEC** (Securities and Exchange Commission) - Enforcement\n\n> **Note:** All publicly traded companies in the US must follow GAAP!"
+        },
+        {
+            "id": "basic_10",
+            "type": "content",
+            "title": "More GAAP Principles",
+            "content": "# Additional GAAP Principles\n\n## Recognition and Measurement Principles\n\n### Revenue Recognition Principle\n- Record revenue when it is **earned and realizable**\n- Must meet specific criteria before recognition\n- ASC 606 provides the current framework\n\n### Matching Principle\n- Match expenses with **related revenues**\n- Expenses follow revenues, not cash payments\n\n### Cost Principle\n- Record assets at **historical cost**\n- Do not adjust for market value changes (with some exceptions)\n\n## Constraints on GAAP\n\n### Materiality\n- Only record items that would **influence decisions**\n- Small amounts can be simplified\n\n### Conservatism\n- When in doubt, choose the option that:\n  - Shows **lower assets** or **higher liabilities**\n  - Recognizes **losses** earlier than gains\n\n### Consistency\n- Use the **same accounting methods** period to period\n- Changes must be disclosed and justified\n\n## The GAAP Hierarchy\n\n1. FASB Standards and Interpretations\n2. FASB Technical Bulletins\n3. AICPA Industry Guides\n4. FASB Implementation Guidance\n\n> **Important:** GAAP compliance is mandatory for public companies!"
+        },
+        {
+            "id": "basic_11",
+            "type": "content",
+            "title": "Introduction to IFRS",
+            "content": "# International Financial Reporting Standards (IFRS)\n\n## What is IFRS?\n\nIFRS is a set of **global accounting standards** developed by the International Accounting Standards Board (IASB) used in over **140 countries**.\n\n## Purpose of IFRS\n\n- Create a **common global language** for financial reporting\n- Enable **cross-border comparisons** of companies\n- Increase **transparency** in financial markets\n- Reduce costs for multinational companies\n\n## Key Characteristics\n\n### Principles-Based\n- Provides **broad guidelines** rather than specific rules\n- Requires **professional judgment**\n- More flexible than GAAP\n\n### Fair Value Focus\n- Many assets measured at **current fair value**\n- More relevant but potentially more volatile\n\n## Where is IFRS Used?\n\n| Region | IFRS Adoption |\n|--------|---------------|\n| European Union | Required |\n| Australia | Required |\n| Canada | Required for public companies |\n| India | Converged standards |\n| Japan | Permitted |\n| USA | Not required (GAAP used) |\n\n> **Trend:** More countries are adopting or converging with IFRS each year!"
+        },
+        {
+            "id": "basic_12",
+            "type": "content",
+            "title": "GAAP vs IFRS Comparison",
+            "content": "# GAAP vs IFRS: Key Differences\n\n## Philosophical Differences\n\n| Aspect | GAAP | IFRS |\n|--------|------|------|\n| **Approach** | Rules-based | Principles-based |\n| **Flexibility** | Less flexible | More flexible |\n| **Detail** | Very specific | Broader guidelines |\n| **Judgment** | Limited | Required |\n\n## Technical Differences\n\n### Inventory Methods\n- **GAAP:** Allows LIFO, FIFO, Weighted Average\n- **IFRS:** LIFO is **prohibited**\n\n### Inventory Write-downs\n- **GAAP:** Cannot reverse write-downs\n- **IFRS:** Reversals are **permitted**\n\n### Development Costs\n- **GAAP:** Generally expensed immediately\n- **IFRS:** Can be **capitalized** if criteria met\n\n### Fixed Asset Revaluation\n- **GAAP:** Not permitted (historical cost only)\n- **IFRS:** Revaluation **allowed** for property, plant, equipment\n\n### Financial Statement Names\n- **GAAP:** Balance Sheet, Income Statement\n- **IFRS:** Statement of Financial Position, Statement of Comprehensive Income\n\n## Convergence Efforts\n\nGAAP and IFRS have been working on **convergence** to reduce differences, though complete harmonization has not been achieved.\n\n> **For Students:** Understanding both standards is valuable in today's global economy!"
+        },
+        {
+            "id": "basic_quiz_4",
+            "type": "quiz",
+            "title": "Standards Quiz",
+            "content": "Test your knowledge of accounting standards!",
+            "quizQuestion": "Which inventory method is allowed under GAAP but prohibited under IFRS?",
+            "quizOptions": [
+                "FIFO (First-In, First-Out)",
+                "LIFO (Last-In, First-Out)",
+                "Weighted Average",
+                "Specific Identification"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "basic_13",
+            "type": "content",
+            "title": "The Accounting Cycle Overview",
+            "content": "# The Accounting Cycle\n\n## What is the Accounting Cycle?\n\nThe accounting cycle is the **step-by-step process** used to record, classify, and summarize financial transactions during an accounting period.\n\n## The 8 Steps\n\n### Step 1: Identify Transactions\n- Analyze business events\n- Determine if they affect the accounting equation\n\n### Step 2: Record in Journal\n- Create journal entries with debits and credits\n- Include date, accounts, amounts, and description\n\n### Step 3: Post to Ledger\n- Transfer journal entries to individual account ledgers\n- Update account balances\n\n### Step 4: Prepare Trial Balance\n- List all account balances\n- Verify debits equal credits\n\n### Step 5: Make Adjusting Entries\n- Record accruals, deferrals, estimates\n- Apply matching principle\n\n### Step 6: Prepare Adjusted Trial Balance\n- Update trial balance with adjustments\n- Final verification before statements\n\n### Step 7: Prepare Financial Statements\n- Income Statement\n- Balance Sheet\n- Cash Flow Statement\n\n### Step 8: Close the Books\n- Close temporary accounts to retained earnings\n- Prepare for next period\n\n> **Cycle:** This process repeats every accounting period!"
+        },
+        {
+            "id": "basic_14",
+            "type": "content",
+            "title": "Types of Business Transactions",
+            "content": "# Understanding Business Transactions\n\n## What Makes a Transaction Recordable?\n\nA transaction must:\n- Be **measurable** in monetary terms\n- **Affect** the financial position of the business\n- Have **supporting documentation**\n\n## Categories of Transactions\n\n### By Cash Involvement\n\n| Type | Description | Example |\n|------|-------------|--------|\n| **Cash** | Immediate cash exchange | Paying rent with cash |\n| **Credit** | Payment delayed | Buying inventory on account |\n| **Non-cash** | No cash involved | Trading equipment for services |\n\n### By Business Activity\n\n#### Operating Transactions\n- Day-to-day business activities\n- Sales, purchases, wages, utilities\n\n#### Investing Transactions\n- Long-term asset purchases/sales\n- Equipment, buildings, investments\n\n#### Financing Transactions\n- Raising or repaying capital\n- Loans, stock issuance, dividends\n\n## Source Documents\n\nEvery transaction needs documentation:\n- **Invoices** - Sales and purchases\n- **Receipts** - Cash transactions\n- **Bank statements** - Deposits and withdrawals\n- **Contracts** - Agreements and obligations\n- **Payroll records** - Employee compensation\n\n> **Audit Trail:** Source documents create a verifiable path from transaction to financial statement!"
+        },
+        {
+            "id": "basic_15",
+            "type": "content",
+            "title": "Fundamental Accounting Assumptions",
+            "content": "# Core Accounting Assumptions\n\n## Why Assumptions Matter\n\nAccounting assumptions provide the **foundation** for preparing financial statements. Without them, there would be no consistency or comparability.\n\n## The Four Key Assumptions\n\n### 1. Going Concern\n**Assumption:** The business will continue operating for the foreseeable future.\n\n**Implications:**\n- Assets are recorded at historical cost, not liquidation value\n- Long-term assets are depreciated over useful life\n- If going concern is doubtful, must disclose\n\n### 2. Economic Entity\n**Assumption:** Business activities are separate from owner's personal activities.\n\n**Implications:**\n- Personal expenses cannot be business deductions\n- Each entity maintains its own records\n- Prevents commingling of funds\n\n### 3. Monetary Unit\n**Assumption:** All transactions are recorded in a single, stable currency.\n\n**Implications:**\n- Transactions are measured in dollars (or local currency)\n- Non-monetary items (like employee morale) are not recorded\n- Ignores effects of inflation\n\n### 4. Periodicity\n**Assumption:** Business life can be divided into time periods for reporting.\n\n**Implications:**\n- Financial statements prepared monthly, quarterly, annually\n- Allows for timely decision-making\n- Requires estimates and adjustments\n\n> **Foundation:** These assumptions underpin all accounting practices!"
+        },
+        {
+            "id": "basic_16",
+            "type": "content",
+            "title": "Qualitative Characteristics of Accounting Information",
+            "content": "# Making Accounting Information Useful\n\n## Fundamental Characteristics\n\n### 1. Relevance\nInformation must be capable of making a **difference** in decisions.\n\n**Components:**\n- **Predictive value** - Helps forecast future outcomes\n- **Confirmatory value** - Confirms or corrects prior expectations\n- **Materiality** - Large enough to influence decisions\n\n### 2. Faithful Representation\nInformation must **accurately represent** what it claims to represent.\n\n**Components:**\n- **Completeness** - Nothing material is omitted\n- **Neutrality** - Not biased toward any outcome\n- **Free from error** - No mistakes or omissions\n\n## Enhancing Characteristics\n\n| Characteristic | Description |\n|----------------|-------------|\n| **Comparability** | Similar items look similar, different items look different |\n| **Verifiability** | Independent observers would reach the same conclusion |\n| **Timeliness** | Information available when needed for decisions |\n| **Understandability** | Clear to users with reasonable business knowledge |\n\n## Cost Constraint\n\nThe **benefit** of providing information must exceed the **cost** of producing it.\n\n- Some information may be too expensive to gather\n- Must balance precision with practicality\n\n> **Goal:** Financial information should help users make better economic decisions!"
+        },
+        {
+            "id": "basic_quiz_5",
+            "type": "quiz",
+            "title": "Final Knowledge Check",
+            "content": "Test your comprehensive understanding of basic accounting principles!",
+            "quizQuestion": "Which assumption allows companies to depreciate assets over multiple years rather than expensing them immediately?",
+            "quizOptions": [
+                "Economic Entity Assumption",
+                "Monetary Unit Assumption",
+                "Going Concern Assumption",
+                "Periodicity Assumption"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "basic_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **Basic Accounting Principles** lesson! Here is what you learned:\n\n## Key Takeaways\n\n### The Accounting Equation\n- **Assets = Liabilities + Equity**\n- Must balance after every transaction\n- Foundation of double-entry bookkeeping\n\n### Double-Entry System\n- Every transaction affects at least two accounts\n- Debits must equal credits\n- Uses the DEALER mnemonic for remembering rules\n\n### Accrual vs Cash Accounting\n- **Accrual:** Record when earned/incurred\n- **Cash:** Record when cash is exchanged\n- Accrual is required for GAAP compliance\n\n### GAAP and IFRS\n- **GAAP:** US standards, rules-based\n- **IFRS:** International standards, principles-based\n- Both aim for transparency and comparability\n\n## What is Next?\n\nNow that you understand the basics, you are ready to explore:\n- Financial Statements in depth\n- Journal entries and ledgers\n- Advanced accounting concepts\n\n> **Remember:** These principles are the building blocks for all accounting knowledge. Master them, and everything else will make more sense!\n\n## Quick Reference\n\n| Principle | Key Point |\n|-----------|----------|\n| Accounting Equation | Always balance |\n| Double-Entry | Debits = Credits |\n| Accrual | Record when earned |\n| GAAP/IFRS | Follow the standards |"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "learn_cima_ba2",
+    "topicId": "cima_ba2",
+    "topicTitle": "BA2 - Fundamentals of Management Accounting",
+    "description": "Master CIMA BA2 covering Cost Classification, Costing Methods, and Budgeting",
+    "baseKP": 50,
+    "slides": [
+        {
+            "id": "ba2_1",
+            "type": "content",
+            "title": "Welcome to CIMA BA2",
+            "content": "# BA2 - Fundamentals of Management Accounting\n\nBA2 covers **costing and budgeting** fundamentals.\n\n## What You Will Learn\n\n- **Cost Classification** - Types of costs\n- **Costing Methods** - Job, process\n- **Budgeting** - Planning and control\n- **Standard Costing** - Variances\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Cost identification | 25% |\n| Costing methods | 25% |\n| Budgeting | 25% |\n| Standard costing | 25% |"
+        },
+        {
+            "id": "ba2_2",
+            "type": "content",
+            "title": "Cost Classification",
+            "content": "# Types of Costs\n\n## By Behavior\n\n| Type | Pattern |\n|------|--------|\n| Fixed | Constant total |\n| Variable | Per unit constant |\n| Semi-variable | Both components |\n| Step | Fixed in ranges |\n\n## By Nature\n\n| Type | Examples |\n|------|----------|\n| Materials | Raw items |\n| Labor | Wages |\n| Overheads | Indirect costs |\n\n## By Function\n\n- Production\n- Administration\n- Selling and distribution"
+        },
+        {
+            "id": "ba2_3",
+            "type": "content",
+            "title": "Cost Behavior",
+            "content": "# Understanding Cost Patterns\n\n## High-Low Method\n\n```\nVariable Cost = (High Cost - Low Cost) / (High Units - Low Units)\n\nFixed Cost = Total Cost - (Variable x Units)\n```\n\n## Total Cost Formula\n\n```\nTotal Cost = Fixed Cost + (Variable Cost x Units)\n```\n\n## Relevant Range\n\n```\nRange where assumptions hold\nOutside range, costs may change\n```"
+        },
+        {
+            "id": "ba2_quiz_1",
+            "type": "quiz",
+            "title": "Cost Quiz",
+            "content": "Test your cost knowledge!",
+            "quizQuestion": "Fixed costs per unit?",
+            "quizOptions": [
+                "Stay constant",
+                "Decrease as volume increases",
+                "Increase as volume increases",
+                "Are always zero"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ba2_4",
+            "type": "content",
+            "title": "Cost Elements",
+            "content": "# Product Cost Build-Up\n\n## Cost Structure\n\n```\nDirect Materials\n+ Direct Labor\n= Prime Cost\n\nPrime Cost\n+ Production Overhead\n= Production Cost\n\nProduction Cost\n+ Non-production Overhead\n= Total Cost\n```\n\n## Direct vs Indirect\n\n| Direct | Indirect |\n|--------|----------|\n| Traceable to product | Cannot trace |\n| Variable usually | Fixed usually |"
+        },
+        {
+            "id": "ba2_5",
+            "type": "content",
+            "title": "Overhead Absorption",
+            "content": "# Allocating Overheads\n\n## Absorption Rate\n\n```\nOAR = Budgeted Overhead / Budgeted Activity\n```\n\n## Absorption Bases\n\n| Base | When Used |\n|------|----------|\n| Direct labor hours | Labor intensive |\n| Machine hours | Capital intensive |\n| Units | Homogeneous products |\n\n## Over/Under Absorption\n\n```\nAbsorbed - Actual = Difference\n\nPositive = Over-absorbed (credit)\nNegative = Under-absorbed (debit)\n```"
+        },
+        {
+            "id": "ba2_6",
+            "type": "content",
+            "title": "Job Costing",
+            "content": "# Job Order Costing\n\n## When Used\n\n- Custom products\n- Unique orders\n- Identifiable jobs\n\n## Job Cost Card\n\n```\nMaterials issued\n+ Labor charged\n+ Overhead absorbed\n= Total job cost\n```\n\n## Batch Costing\n\n```\nTotal batch cost / Number of units\n= Cost per unit\n```"
+        },
+        {
+            "id": "ba2_quiz_2",
+            "type": "quiz",
+            "title": "Costing Quiz",
+            "content": "Test your costing knowledge!",
+            "quizQuestion": "Prime cost equals direct materials plus?",
+            "quizOptions": [
+                "Overheads",
+                "Direct labor",
+                "Fixed costs",
+                "Selling costs"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ba2_7",
+            "type": "content",
+            "title": "Process Costing",
+            "content": "# Continuous Production\n\n## When Used\n\n- Mass production\n- Homogeneous products\n- Continuous processing\n\n## Equivalent Units\n\n```\nComplete units + (WIP x % complete)\n= Equivalent units\n```\n\n## Cost per EU\n\n```\nTotal costs / Equivalent units\n= Cost per equivalent unit\n```\n\n## Normal Loss\n\n```\nExpected wastage\nNo cost allocated\n```"
+        },
+        {
+            "id": "ba2_8",
+            "type": "content",
+            "title": "Budgeting Basics",
+            "content": "# Budget Preparation\n\n## Budget Purpose\n\n| Purpose | Benefit |\n|---------|--------|\n| Planning | Future direction |\n| Coordination | Align activities |\n| Control | Performance measure |\n| Motivation | Targets |\n\n## Master Budget\n\n```\nSales Budget (starting point)\n    |\n    v\nProduction Budget\n    |\n    v\nCost Budgets\n    |\n    v\nCash Budget\n    |\n    v\nMaster Budget\n```"
+        },
+        {
+            "id": "ba2_9",
+            "type": "content",
+            "title": "Cash Budgeting",
+            "content": "# Cash Flow Planning\n\n## Structure\n\n```\nOpening balance\n+ Receipts\n- Payments\n= Closing balance\n```\n\n## Collection Pattern\n\n```\nMonth of sale: 40%\nOne month later: 40%\nTwo months later: 18%\nBad debts: 2%\n```\n\n## Working Capital Impact\n\n- Receivables timing\n- Payables timing\n- Inventory levels"
+        },
+        {
+            "id": "ba2_quiz_3",
+            "type": "quiz",
+            "title": "Budget Quiz",
+            "content": "Test your budgeting knowledge!",
+            "quizQuestion": "Which budget is prepared first?",
+            "quizOptions": [
+                "Cash budget",
+                "Production budget",
+                "Sales budget",
+                "Materials budget"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ba2_10",
+            "type": "content",
+            "title": "Flexible Budgets",
+            "content": "# Flexing the Budget\n\n## Static vs Flexible\n\n| Static | Flexible |\n|--------|----------|\n| One level | Multiple levels |\n| Original plan | Adjusted |\n\n## Flexing Formula\n\n```\nFlexed Budget = Fixed Costs + (Variable Rate x Actual Volume)\n```\n\n## Purpose\n\n- Fair comparison\n- Volume impact removed\n- True efficiency measured"
+        },
+        {
+            "id": "ba2_11",
+            "type": "content",
+            "title": "Standard Costing",
+            "content": "# Standards and Variances\n\n## Standard Cost\n\n```\nPredetermined cost\nBased on expected performance\n```\n\n## Basic Variances\n\n| Variance | Formula |\n|----------|--------|\n| Price | (Actual - Standard) x Actual Qty |\n| Usage | (Actual - Standard Qty) x Std Price |\n\n## Favorable vs Adverse\n\n| F | A |\n|---|---|\n| Better than standard | Worse than standard |"
+        },
+        {
+            "id": "ba2_12",
+            "type": "content",
+            "title": "Variance Analysis",
+            "content": "# Material and Labor\n\n## Material Variances\n\n```\nPrice: (AP - SP) x AQ\nUsage: (AQ - SQ) x SP\n```\n\n## Labor Variances\n\n```\nRate: (AR - SR) x AH\nEfficiency: (AH - SH) x SR\n```\n\n## Interpretation\n\n| Variance | Possible Cause |\n|----------|---------------|\n| Price (+) | Good purchasing |\n| Usage (-) | Material waste |\n| Rate (-) | Higher wages |\n| Efficiency (+) | Skilled workers |"
+        },
+        {
+            "id": "ba2_quiz_4",
+            "type": "quiz",
+            "title": "Variance Quiz",
+            "content": "Test your variance knowledge!",
+            "quizQuestion": "A favorable variance means?",
+            "quizOptions": [
+                "Actual worse than budget",
+                "Actual better than budget",
+                "No difference",
+                "Cannot determine"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ba2_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CIMA BA2 - Management Accounting**!\n\n## Key Topics\n\n### Costs\n- Classification\n- Behavior\n- Elements\n\n### Methods\n- Job costing\n- Process costing\n- Overhead absorption\n\n### Budgeting\n- Master budget\n- Cash budget\n- Flexible budgets\n\n### Standards\n- Standard costing\n- Variance analysis\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| Prime = DM + DL | Product cost |\n| OAR = OH / Activity | Absorption |\n| Variance = (A-S) x Q | Analysis |\n\n## What is Next?\n\nExplore BA3 - Financial Accounting Fundamentals!"
+        }
+    ]
+}

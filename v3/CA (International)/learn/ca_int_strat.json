@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_int_strat",
+    "topicId": "ca_int_strat",
+    "topicTitle": "Strategic Professional Level",
+    "description": "Master CA International Strategic Professional covering SBL and SBR modules",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "cai_sp1",
+            "type": "content",
+            "title": "Welcome to Strategic Professional",
+            "content": "# CA International Strategic Professional\n\nThe **pinnacle** of professional qualification.\n\n## What You Will Learn\n\n- **SBL** - Strategic Business Leader\n- **SBR** - Strategic Business Reporting\n- **Options** - Specialized papers\n\n## Level Structure\n\n| Module | Focus |\n|--------|-------|\n| SBL | Leadership, strategy |\n| SBR | Advanced reporting |\n| AFM | Advanced FM |\n| APM | Advanced PM |\n| ATX | Advanced Tax |\n| AAA | Advanced Audit |"
+        },
+        {
+            "id": "cai_sp2",
+            "type": "content",
+            "title": "Strategic Business Leader",
+            "content": "# SBL Module\n\n## Core Areas\n\n| Area | Content |\n|------|--------|\n| Leadership | Style, ethics |\n| Governance | Board, risk |\n| Strategy | Formulation |\n| Digital | Transformation |\n| Innovation | Business models |\n\n## Competencies\n\n```\n1. Professional skills\n2. Analysis and evaluation\n3. Communication\n4. Scepticism\n5. Commercial awareness\n```"
+        },
+        {
+            "id": "cai_sp3",
+            "type": "content",
+            "title": "Strategic Analysis",
+            "content": "# Strategy Frameworks\n\n## External Analysis\n\n| Tool | Focus |\n|------|-------|\n| PESTEL | Macro |\n| Porter 5 | Industry |\n| Competitors | Position |\n\n## Internal Analysis\n\n| Tool | Focus |\n|------|-------|\n| Value chain | Activities |\n| Resources | VRIO |\n| Capabilities | Competencies |\n\n## SWOT Integration\n\n```\nStrengths + Opportunities = Leverage\nWeaknesses + Threats = Address\n```"
+        },
+        {
+            "id": "cai_sp_quiz1",
+            "type": "quiz",
+            "title": "Strategy Quiz",
+            "content": "Test your strategy knowledge!",
+            "quizQuestion": "VRIO analyzes?",
+            "quizOptions": [
+                "Environment",
+                "Resources",
+                "Competition",
+                "Finances"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_sp4",
+            "type": "content",
+            "title": "Corporate Governance",
+            "content": "# Governance Framework\n\n## Board Roles\n\n| Role | Function |\n|------|----------|\n| Chairman | Leadership |\n| CEO | Execution |\n| NEDs | Oversight |\n| Committees | Specific areas |\n\n## Key Committees\n\n| Committee | Focus |\n|-----------|-------|\n| Audit | Financial oversight |\n| Remuneration | Pay |\n| Nomination | Appointments |\n| Risk | Risk management |"
+        },
+        {
+            "id": "cai_sp5",
+            "type": "content",
+            "title": "Risk Management",
+            "content": "# Enterprise Risk\n\n## Risk Categories\n\n| Type | Examples |\n|------|----------|\n| Strategic | Competition |\n| Operational | Process |\n| Financial | Market |\n| Compliance | Regulatory |\n\n## Risk Process\n\n```\n1. Identify\n2. Assess\n3. Respond\n4. Monitor\n```\n\n## Response Strategies\n\n| Strategy | Action |\n|----------|--------|\n| Avoid | Eliminate |\n| Reduce | Controls |\n| Transfer | Insurance |\n| Accept | Tolerate |"
+        },
+        {
+            "id": "cai_sp6",
+            "type": "content",
+            "title": "Strategic Business Reporting",
+            "content": "# SBR Module\n\n## Key IFRS\n\n| Standard | Topic |\n|----------|-------|\n| IFRS 3 | Business combinations |\n| IFRS 9 | Financial instruments |\n| IFRS 10 | Consolidation |\n| IFRS 15 | Revenue |\n| IFRS 16 | Leases |\n\n## Conceptual Framework\n\n```\n2018 Framework:\n- Objective\n- Qualitative characteristics\n- Elements\n- Recognition\n- Measurement\n- Presentation\n```"
+        },
+        {
+            "id": "cai_sp_quiz2",
+            "type": "quiz",
+            "title": "Governance Quiz",
+            "content": "Test your governance knowledge!",
+            "quizQuestion": "NEDs provide?",
+            "quizOptions": [
+                "Execution",
+                "Oversight",
+                "Operations",
+                "Marketing"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_sp7",
+            "type": "content",
+            "title": "Complex Group Accounting",
+            "content": "# Advanced Consolidation\n\n## Complex Structures\n\n| Structure | Treatment |\n|-----------|----------|\n| Vertical groups | Indirect control |\n| D-shaped | Multiple subs |\n| Mixed | Combined |\n\n## Special Topics\n\n| Topic | Content |\n|-------|--------|\n| Piecemeal | Multiple acquisitions |\n| Disposal | Partial, full |\n| Changes | Control changes |\n| Foreign subs | Translation |"
+        },
+        {
+            "id": "cai_sp8",
+            "type": "content",
+            "title": "Digital Strategy",
+            "content": "# Digital Transformation\n\n## Elements\n\n| Area | Focus |\n|------|-------|\n| Customer | Experience |\n| Operations | Efficiency |\n| Business model | Innovation |\n| Culture | Digital mindset |\n\n## Technologies\n\n| Technology | Application |\n|------------|-------------|\n| AI/ML | Automation |\n| Cloud | Infrastructure |\n| Blockchain | Trust |\n| Big Data | Analytics |\n| IoT | Connected devices |"
+        },
+        {
+            "id": "cai_sp9",
+            "type": "content",
+            "title": "Change Management",
+            "content": "# Leading Change\n\n## Kotter's 8 Steps\n\n```\n1. Create urgency\n2. Form coalition\n3. Create vision\n4. Communicate\n5. Empower action\n6. Generate wins\n7. Build momentum\n8. Anchor in culture\n```\n\n## Resistance\n\n| Cause | Response |\n|-------|----------|\n| Fear | Communicate |\n| Loss | Support |\n| Self-interest | Involve |\n| Inertia | Urgency |"
+        },
+        {
+            "id": "cai_sp_quiz3",
+            "type": "quiz",
+            "title": "Change Quiz",
+            "content": "Test your change management!",
+            "quizQuestion": "Kotter's model has how many steps?",
+            "quizOptions": [
+                "Five",
+                "Six",
+                "Eight",
+                "Ten"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cai_sp10",
+            "type": "content",
+            "title": "Current Reporting Issues",
+            "content": "# Emerging Topics\n\n## Sustainability\n\n| Framework | Focus |\n|-----------|-------|\n| ISSB | Sustainability |\n| TCFD | Climate |\n| GRI | Broad ESG |\n\n## Integrated Reporting\n\n| Capital | Type |\n|---------|------|\n| Financial | Funds |\n| Manufactured | Infrastructure |\n| Intellectual | Knowledge |\n| Human | People |\n| Social | Relationships |\n| Natural | Environment |"
+        },
+        {
+            "id": "cai_sp11",
+            "type": "content",
+            "title": "Professional Ethics",
+            "content": "# Ethical Standards\n\n## Fundamental Principles\n\n| Principle | Application |\n|-----------|-------------|\n| Integrity | Straightforward |\n| Objectivity | Unbiased |\n| Competence | Skilled |\n| Confidentiality | Protect |\n| Behavior | Professional |\n\n## Conceptual Framework\n\n```\nIdentify threats\nEvaluate significance\nApply safeguards\n```"
+        },
+        {
+            "id": "cai_sp12",
+            "type": "content",
+            "title": "Performance Management",
+            "content": "# Strategic Performance\n\n## Balanced Scorecard\n\n| Perspective | Focus |\n|-------------|-------|\n| Financial | Shareholders |\n| Customer | Satisfaction |\n| Internal | Processes |\n| Learning | Growth |\n\n## Other Frameworks\n\n| Framework | Use |\n|-----------|-----|\n| Building blocks | Performance prism |\n| Six Sigma | Quality |\n| TQM | Continuous |"
+        },
+        {
+            "id": "cai_sp_quiz4",
+            "type": "quiz",
+            "title": "BSC Quiz",
+            "content": "Test your BSC knowledge!",
+            "quizQuestion": "BSC has how many perspectives?",
+            "quizOptions": [
+                "Three",
+                "Four",
+                "Five",
+                "Six"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_sp17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CA International Strategic Professional**!\n\n## Key Topics\n\n### SBL\n- Strategy analysis\n- Governance\n- Risk management\n- Digital transformation\n- Change management\n\n### SBR\n- Complex IFRS\n- Group accounting\n- Current issues\n- Ethics\n\n## Key Frameworks\n\n| Framework | Application |\n|-----------|-------------|\n| PESTEL | Environment |\n| Porter 5 | Industry |\n| BSC | Performance |\n| Kotter 8 | Change |\n\n## What is Next?\n\nExplore IFRS Reporting!"
+        }
+    ]
+}

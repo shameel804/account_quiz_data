@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_dec",
+    "topicId": "cma_dec",
+    "topicTitle": "Decision Analysis",
+    "description": "Master CMA decision analysis including CVP, Relevant Costs, Capital Budgeting, and Uncertainty",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "p2c_1",
+            "type": "content",
+            "title": "Welcome to Decision Analysis",
+            "content": "# Decision Analysis\n\nPart 2C covers **managerial decision-making** techniques.\n\n## What You Will Learn\n\n- **CVP Analysis** - Break-even\n- **Relevant Costs** - Decision costs\n- **Capital Budgeting** - Investment\n- **Uncertainty** - Risk analysis\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| CVP | Break-even |\n| Relevant costs | Decisions |\n| Capital budgeting | NPV, IRR |\n| Uncertainty | Risk |"
+        },
+        {
+            "id": "p2c_2",
+            "type": "content",
+            "title": "CVP Analysis",
+            "content": "# Cost-Volume-Profit\n\n## Break-Even\n\n```\nBEP (units) = Fixed Costs / CM per unit\n\nBEP (dollars) = Fixed Costs / CM Ratio\n```\n\n## Contribution Margin\n\n```\nCM = Price - Variable Cost\n\nCM Ratio = CM / Price\n```\n\n## Target Profit\n\n```\nUnits = (Fixed Costs + Target Profit) / CM\n\nFor after-tax target:\nPre-tax profit = Target / (1 - Tax Rate)\n```"
+        },
+        {
+            "id": "p2c_3",
+            "type": "content",
+            "title": "Multi-Product CVP",
+            "content": "# Sales Mix Analysis\n\n## Weighted Average CM\n\n```\nWACM = Sum of (CM x Sales Mix %)\n\nBEP = Fixed Costs / WACM\n```\n\n## Assumptions\n\n- Constant sales mix\n- Linear relationships\n- Relevant range\n\n## Sensitivity\n\n| Change | Effect |\n|--------|--------|\n| Higher CM products | Lower BEP |\n| Lower CM products | Higher BEP |"
+        },
+        {
+            "id": "p2c_quiz_1",
+            "type": "quiz",
+            "title": "CVP Quiz",
+            "content": "Test your CVP knowledge!",
+            "quizQuestion": "The contribution margin ratio equals CM divided by?",
+            "quizOptions": [
+                "Cost",
+                "Profit",
+                "Price (Sales)",
+                "Volume"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p2c_4",
+            "type": "content",
+            "title": "Relevant Costs",
+            "content": "# Decision-Making Costs\n\n## Relevant Costs\n\n| Relevant | Not Relevant |\n|----------|-------------|\n| Future | Past (sunk) |\n| Differential | Committed |\n| Avoidable | Unavoidable |\n\n## Opportunity Cost\n\n```\nValue of next best alternative foregone\n\nAlways relevant for decisions\n```\n\n## Sunk Costs\n\n```\nAlready incurred\nCannot be changed\nIgnore for decisions\n```"
+        },
+        {
+            "id": "p2c_5",
+            "type": "content",
+            "title": "Special Decisions",
+            "content": "# Short-Term Decisions\n\n## Make or Buy\n\n```\nCompare:\n- Internal manufacturing cost\n- External purchase cost\n+ Opportunity cost\n```\n\n## Special Orders\n\n```\nAccept if:\nPrice > Incremental cost\n\nConsider:\n- Excess capacity\n- Market impact\n```\n\n## Discontinue Segment\n\n```\nEliminate if:\nSegment margin < 0\n\nKeep if:\nContributes to fixed costs\n```"
+        },
+        {
+            "id": "p2c_6",
+            "type": "content",
+            "title": "Pricing Decisions",
+            "content": "# Pricing Strategies\n\n## Methods\n\n| Method | Approach |\n|--------|----------|\n| Cost-plus | Cost + markup |\n| Target return | ROI-based |\n| Market | Competitor-based |\n| Value | Customer-perceived |\n\n## Target Pricing\n\n```\nTarget Price - Target Profit = Target Cost\n\nDesign to cost if gap exists\n```\n\n## Price Elasticity\n\n```\nElasticity = % Change Demand / % Change Price\n\n|E| > 1: Elastic\n|E| < 1: Inelastic\n```"
+        },
+        {
+            "id": "p2c_7",
+            "type": "content",
+            "title": "Capital Budgeting Basics",
+            "content": "# Investment Decisions\n\n## Methods\n\n| Method | Criterion |\n|--------|----------|\n| Payback | Time to recover |\n| NPV | Present value |\n| IRR | Rate of return |\n| Profitability index | PV/Cost |\n\n## Cash Flow Identification\n\n| Include | Exclude |\n|---------|--------|\n| Incremental | Sunk costs |\n| After-tax | Allocated overhead |\n| Opportunity | Financing costs |\n| Working capital | Non-cash |"
+        },
+        {
+            "id": "p2c_quiz_2",
+            "type": "quiz",
+            "title": "Capital Budget Quiz",
+            "content": "Test your capital budgeting knowledge!",
+            "quizQuestion": "NPV decision rule: accept if NPV is?",
+            "quizOptions": [
+                "Negative",
+                "Zero",
+                "Positive",
+                "Unknown"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p2c_8",
+            "type": "content",
+            "title": "NPV and IRR",
+            "content": "# Discounted Cash Flow\n\n## Net Present Value\n\n```\nNPV = Sum of PV of Cash Flows - Initial Cost\n\nPV = CF / (1 + r)^n\n\nAccept if NPV > 0\n```\n\n## Internal Rate of Return\n\n```\nRate where NPV = 0\n\nAccept if IRR > Cost of Capital\n```\n\n## NPV vs IRR\n\n| Scenario | Conflict |\n|----------|----------|\n| Mutually exclusive | Use NPV |\n| Different scales | Use NPV |\n| Reinvestment assumption | NPV more realistic |"
+        },
+        {
+            "id": "p2c_9",
+            "type": "content",
+            "title": "Risk in Capital Budgeting",
+            "content": "# Risk Analysis\n\n## Sensitivity Analysis\n\n```\nTest how changes in one variable\naffect project NPV\n```\n\n## Scenario Analysis\n\n| Scenario | Approach |\n|----------|----------|\n| Best case | Optimistic |\n| Base case | Most likely |\n| Worst case | Pessimistic |\n\n## Monte Carlo Simulation\n\n- Multiple scenarios\n- Probability distributions\n- Statistical output\n\n## Risk-Adjusted Discount Rate\n\n```\nHigher risk = Higher discount rate\n= Lower NPV\n```"
+        },
+        {
+            "id": "p2c_10",
+            "type": "content",
+            "title": "Real Options",
+            "content": "# Option Value\n\n## Types of Real Options\n\n| Option | Value |\n|--------|-------|\n| Delay | Wait for information |\n| Expand | Scale up |\n| Abandon | Cut losses |\n| Switch | Change inputs |\n\n## Valuation\n\n```\nProject Value = NPV + Option Value\n\nOptions add value in uncertainty\n```\n\n## When to Consider\n\n- High uncertainty\n- Irreversible investment\n- Information arrival expected"
+        },
+        {
+            "id": "p2c_11",
+            "type": "content",
+            "title": "Decision Trees",
+            "content": "# Sequential Decisions\n\n## Structure\n\n```\n        [Decision]\n       /          \\\\\n     A              B\n     |              |\n  [Chance]       [Chance]\n    /  \\\\           /  \\\\\n  Good  Bad     Good  Bad\n```\n\n## Analysis Steps\n\n1. Map decisions and outcomes\n2. Assign probabilities\n3. Calculate expected values\n4. Work backward\n5. Choose optimal path\n\n## Expected Value\n\n```\nEV = Sum of (Probability x Outcome)\n```"
+        },
+        {
+            "id": "p2c_quiz_3",
+            "type": "quiz",
+            "title": "Decision Quiz",
+            "content": "Test your decision analysis knowledge!",
+            "quizQuestion": "The option to abandon a project provides value by?",
+            "quizOptions": [
+                "Increasing revenue",
+                "Limiting downside risk",
+                "Reducing taxes",
+                "Speeding up payback"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2c_12",
+            "type": "content",
+            "title": "Linear Programming",
+            "content": "# Constrained Optimization\n\n## Elements\n\n| Element | Description |\n|---------|-------------|\n| Objective function | Maximize/minimize |\n| Constraints | Limitations |\n| Decision variables | What to decide |\n\n## Example\n\n```\nMaximize: Z = 5X + 3Y\n\nSubject to:\n2X + Y <= 100\nX + Y <= 80\nX, Y >= 0\n```\n\n## Solution\n\n- Graph constraints\n- Find feasible region\n- Test corner points\n- Optimal at a corner"
+        },
+        {
+            "id": "p2c_quiz_4",
+            "type": "quiz",
+            "title": "Analysis Quiz",
+            "content": "Test your analysis knowledge!",
+            "quizQuestion": "In linear programming, the optimal solution is at?",
+            "quizOptions": [
+                "Center of feasible region",
+                "Corner point",
+                "Origin",
+                "Random point"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2c_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Part 2C - Decision Analysis**!\n\n## Key Topics\n\n### CVP Analysis\n- Break-even\n- Target profit\n- Multi-product\n\n### Relevant Costs\n- Make or buy\n- Special orders\n- Pricing\n\n### Capital Budgeting\n- NPV and IRR\n- Risk analysis\n- Real options\n\n### Optimization\n- Decision trees\n- Linear programming\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| BEP = FC / CM | Break-even |\n| NPV = Sum PV - Cost | Investment |\n| EV = Sum (P x O) | Decisions |\n\n## What is Next?\n\nExplore CMA Part 2D - Risk Management!"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_int_ifrs",
+    "topicId": "ca_int_ifrs",
+    "topicTitle": "International Financial Reporting",
+    "description": "Master IFRS Standards for International Financial Reporting",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "cai_ifrs1",
+            "type": "content",
+            "title": "Welcome to IFRS Reporting",
+            "content": "# International Financial Reporting\n\nMaster the **global language** of accounting.\n\n## What You Will Learn\n\n- **Framework** - Conceptual basis\n- **Standards** - Key IFRS\n- **Groups** - Consolidation\n- **Analysis** - Interpretation\n\n## Structure\n\n| Area | Standards |\n|------|----------|\n| Presentation | IAS 1, 7, 8 |\n| Assets | IAS 16, 38, 36 |\n| Revenue | IFRS 15 |\n| Groups | IFRS 3, 10 |"
+        },
+        {
+            "id": "cai_ifrs2",
+            "type": "content",
+            "title": "Conceptual Framework",
+            "content": "# 2018 Framework\n\n## Objective\n\n```\nProvide useful information for:\n- Existing and potential investors\n- Lenders and other creditors\n```\n\n## Qualitative Characteristics\n\n| Primary | Enhancing |\n|---------|----------|\n| Relevance | Comparability |\n| Faithful representation | Verifiability |\n| | Timeliness |\n| | Understandability |\n\n## Elements\n\n- Assets, Liabilities, Equity\n- Income, Expenses"
+        },
+        {
+            "id": "cai_ifrs3",
+            "type": "content",
+            "title": "IFRS 15 - Revenue",
+            "content": "# Revenue from Contracts\n\n## Five-Step Model\n\n```\n1. Identify contract\n2. Identify performance obligations\n3. Determine transaction price\n4. Allocate to obligations\n5. Recognize when satisfied\n```\n\n## Satisfaction\n\n| Type | When |\n|------|------|\n| Point in time | Control transfers |\n| Over time | Continuous |\n\n## Variable Consideration\n\n- Expected value\n- Most likely amount\n- Subject to constraint"
+        },
+        {
+            "id": "cai_ifrs_quiz1",
+            "type": "quiz",
+            "title": "Revenue Quiz",
+            "content": "Test your IFRS 15 knowledge!",
+            "quizQuestion": "IFRS 15 has how many steps?",
+            "quizOptions": [
+                "Three",
+                "Four",
+                "Five",
+                "Six"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cai_ifrs4",
+            "type": "content",
+            "title": "IFRS 16 - Leases",
+            "content": "# Lease Accounting\n\n## Lessee Model\n\n```\nRecognize:\n- Right-of-use asset\n- Lease liability\n\nAt PV of lease payments\n```\n\n## Subsequent Measurement\n\n| Asset | Liability |\n|-------|----------|\n| Depreciate | Amortize |\n| Impairment | Interest |\n\n## Exemptions\n\n- Short-term (< 12 months)\n- Low value assets"
+        },
+        {
+            "id": "cai_ifrs5",
+            "type": "content",
+            "title": "IFRS 9 - Financial Instruments",
+            "content": "# Classification and Measurement\n\n## Categories\n\n| Category | Basis |\n|----------|-------|\n| Amortized cost | Business model + SPPI |\n| FVOCI | Collect and sell |\n| FVPL | Other |\n\n## Impairment - ECL\n\n| Stage | ECL |\n|-------|-----|\n| 1 | 12-month |\n| 2 | Lifetime |\n| 3 | Lifetime (credit-impaired) |\n\n## Hedging\n\n- Fair value\n- Cash flow\n- Net investment"
+        },
+        {
+            "id": "cai_ifrs6",
+            "type": "content",
+            "title": "IFRS 3 - Business Combinations",
+            "content": "# Acquisition Accounting\n\n## Acquisition Method\n\n```\n1. Identify acquirer\n2. Determine acquisition date\n3. Recognize assets/liabilities at FV\n4. Calculate goodwill\n```\n\n## Goodwill\n\n```\nConsideration\n+ NCI\n+ Previously held equity\n- FV of net assets\n= Goodwill\n```\n\n## Contingent Consideration\n\n- Fair value at acquisition\n- Remeasure subsequently"
+        },
+        {
+            "id": "cai_ifrs_quiz2",
+            "type": "quiz",
+            "title": "Leases Quiz",
+            "content": "Test your IFRS 16 knowledge!",
+            "quizQuestion": "ROU asset stands for Right-of?",
+            "quizOptions": [
+                "Obligation",
+                "Use",
+                "Ownership",
+                "Option"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_ifrs7",
+            "type": "content",
+            "title": "IAS 36 - Impairment",
+            "content": "# Asset Impairment\n\n## When to Test\n\n| Asset | Frequency |\n|-------|----------|\n| Goodwill | Annually |\n| Intangibles (indefinite) | Annually |\n| Others | When indicators |\n\n## Calculation\n\n```\nRecoverable Amount = Higher of:\n- Fair value less costs to sell\n- Value in use\n\nImpairment = Carrying - Recoverable\n```\n\n## Cash Generating Units\n\n- Allocate for testing\n- Impair goodwill first"
+        },
+        {
+            "id": "cai_ifrs8",
+            "type": "content",
+            "title": "IFRS 10 - Consolidation",
+            "content": "# Control Model\n\n## Definition of Control\n\n```\nControl exists when investor has:\n1. Power over investee\n2. Exposure to variable returns\n3. Ability to use power for returns\n```\n\n## Power Indicators\n\n| Indicator | Evidence |\n|-----------|----------|\n| Voting rights | > 50% |\n| Potential rights | Substantive |\n| Contractual | Agreements |\n| De facto | Dispersed others |\n\n## Consolidation Process\n\n- Combine line by line\n- Eliminate intercompany"
+        },
+        {
+            "id": "cai_ifrs9",
+            "type": "content",
+            "title": "IAS 28 - Associates",
+            "content": "# Equity Method\n\n## Significant Influence\n\n| Indicator | Evidence |\n|-----------|----------|\n| Voting | 20-50% |\n| Board | Representation |\n| Transactions | Material |\n| Interchange | Management |\n\n## Equity Method\n\n```\nInitial: Cost\nSubsequent: +/- Share of P&L\n           - Dividends\n           - Impairment\n```\n\n## Joint Ventures\n\n- Also use equity method\n- Joint control required"
+        },
+        {
+            "id": "cai_ifrs_quiz3",
+            "type": "quiz",
+            "title": "Impairment Quiz",
+            "content": "Test your IAS 36 knowledge!",
+            "quizQuestion": "Goodwill is tested for impairment?",
+            "quizOptions": [
+                "Monthly",
+                "Quarterly",
+                "Annually",
+                "Never"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cai_ifrs10",
+            "type": "content",
+            "title": "IAS 21 - Foreign Currency",
+            "content": "# Currency Translation\n\n## Functional Currency\n\n```\nCurrency of primary economic environment\n```\n\n## Foreign Operations\n\n| Item | Rate |\n|------|------|\n| Assets/liabilities | Closing |\n| Income/expense | Average |\n| Equity | Historical |\n\n## Exchange Differences\n\n- P&L: Monetary items\n- OCI: Foreign operations translation"
+        },
+        {
+            "id": "cai_ifrs11",
+            "type": "content",
+            "title": "IAS 12 - Income Taxes",
+            "content": "# Deferred Tax\n\n## Temporary Differences\n\n| Type | Effect |\n|------|--------|\n| Taxable | DTL |\n| Deductible | DTA |\n\n## Recognition\n\n```\nDTL: Always recognize\nDTA: Only if probable recovery\n```\n\n## Measurement\n\n- Enacted tax rates\n- Expected reversal period\n- No discounting"
+        },
+        {
+            "id": "cai_ifrs12",
+            "type": "content",
+            "title": "IAS 19 - Employee Benefits",
+            "content": "# Post-Employment Benefits\n\n## Plan Types\n\n| Type | Risk Bearer |\n|------|-------------|\n| Defined contribution | Employee |\n| Defined benefit | Employer |\n\n## DB Measurement\n\n```\nPresent value of obligation\n- Fair value of plan assets\n= Net liability (or asset)\n```\n\n## Components\n\n| Component | Recognition |\n|-----------|-------------|\n| Service cost | P&L |\n| Net interest | P&L |\n| Remeasurements | OCI |"
+        },
+        {
+            "id": "cai_ifrs_quiz4",
+            "type": "quiz",
+            "title": "Tax Quiz",
+            "content": "Test your IAS 12 knowledge!",
+            "quizQuestion": "DTA is recognized if?",
+            "quizOptions": [
+                "Always",
+                "Never",
+                "Probable recovery",
+                "Certain recovery"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cai_ifrs17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **International Financial Reporting**!\n\n## Key Standards\n\n### Revenue and Leases\n- IFRS 15: 5-step model\n- IFRS 16: ROU asset\n\n### Groups\n- IFRS 3: Acquisition\n- IFRS 10: Control\n- IAS 28: Associates\n\n### Other Key\n- IFRS 9: Instruments\n- IAS 36: Impairment\n- IAS 12: Deferred tax\n\n## Standard Map\n\n| IFRS/IAS | Topic |\n|----------|-------|\n| IFRS 15 | Revenue |\n| IFRS 16 | Leases |\n| IFRS 9 | Instruments |\n| IAS 36 | Impairment |\n\n## What is Next?\n\nExplore Advanced Audit!"
+        }
+    ]
+}

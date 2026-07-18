@@ -1,0 +1,167 @@
+{
+    "id": "learn_adv",
+    "topicId": "adv",
+    "topicTitle": "SAP Integration",
+    "description": "Master SAP integration concepts including MM-FI-CO Integration, SD-FI Integration, Cross-Module Reporting, and End-to-End Business Processes",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "integ_1",
+            "type": "content",
+            "title": "Welcome to SAP Integration",
+            "content": "# SAP Integration Concepts\n\nSAP's power lies in its **integrated nature** - all modules work together seamlessly to provide a unified view of business operations.\n\n## What You Will Learn\n\n- **MM-FI-CO Integration** - Procurement to finance\n- **SD-FI Integration** - Sales to finance\n- **Cross-Module Reporting** - Unified analytics\n- **End-to-End Processes** - Complete business cycles\n\n## Why Integration Matters\n\n| Benefit | Description |\n|---------|-------------|\n| Single Entry | Enter once, update everywhere |\n| Real-Time | Immediate financial impact |\n| Accuracy | No manual reconciliation |\n| Visibility | Complete business view |\n\n## SAP Module Integration Map\n\n```\n       +------+\n       |  SD  |---+\n       +------+   |\n          |       |\n       +------+   |    +------+\n       |  MM  |---+--->|  FI  |\n       +------+   |    +------+\n          |       |       |\n       +------+   |    +------+\n       |  PP  |---+    |  CO  |\n       +------+        +------+\n```\n\n> **Integration eliminates silos** and ensures data consistency!"
+        },
+        {
+            "id": "integ_2",
+            "type": "content",
+            "title": "Procure to Pay Process",
+            "content": "# Procure to Pay (P2P) Integration\n\n## End-to-End Process\n\n```\nPurchase Req --> PO --> GR --> Invoice --> Payment\n   (MM)        (MM)   (MM)    (MM/FI)     (FI)\n```\n\n## Step-by-Step Integration\n\n### 1. Purchase Requisition (ME51N)\n- Internal request for material\n- No FI impact yet\n- Can trigger MRP\n\n### 2. Purchase Order (ME21N)\n- Commitment to vendor\n- CO: Commitment posting (optional)\n- No FI impact yet\n\n### 3. Goods Receipt (MIGO)\n```\nMM: Stock increased\nFI: Dr: Inventory\n    Cr: GR/IR Account\nCO: Cost center if consumed\n```\n\n### 4. Invoice Verification (MIRO)\n```\nMM: Invoice matched to GR/PO\nFI: Dr: GR/IR Account\n    Cr: Vendor (AP)\n    Dr: Tax Account\n```\n\n### 5. Payment (F110)\n```\nFI: Dr: Vendor Account\n    Cr: Bank Account\n```\n\n## Complete Journal Flow\n\n| Step | Debit | Credit |\n|------|-------|--------|\n| GR | Inventory | GR/IR |\n| Invoice | GR/IR, Tax | Vendor |\n| Payment | Vendor | Bank |\n\n> **P2P automation** reduces manual intervention!"
+        },
+        {
+            "id": "integ_3",
+            "type": "content",
+            "title": "Order to Cash Process",
+            "content": "# Order to Cash (O2C) Integration\n\n## End-to-End Process\n\n```\nSales Order --> Delivery --> Billing --> Payment\n    (SD)          (SD)        (SD/FI)     (FI)\n```\n\n## Step-by-Step Integration\n\n### 1. Sales Order (VA01)\n- Customer order received\n- Availability check (MM integration)\n- Credit check (FI integration)\n- CO: Sales order costing\n\n### 2. Delivery (VL01N)\n```\nSD: Outbound delivery created\nMM: Goods issue posted\n    Dr: COGS\n    Cr: Inventory\n```\n\n### 3. Billing (VF01)\n```\nSD: Invoice created\nFI: Dr: Customer (AR)\n    Cr: Revenue\n    Cr: Tax\nCO-PA: Profitability analysis\n```\n\n### 4. Payment Receipt (F-28)\n```\nFI: Dr: Bank\n    Cr: Customer\n```\n\n## CO-PA Integration\n\n```\nBilling Document\n      |\n      v\nCO-PA Posting:\n  Revenue: $10,000\n  COGS: ($6,000)\n  Contribution: $4,000\n  \nCharacteristics:\n  Customer, Product, Region\n```\n\n> **O2C integration** ensures accurate revenue recognition!"
+        },
+        {
+            "id": "integ_quiz_1",
+            "type": "quiz",
+            "title": "Integration Check",
+            "content": "Test your integration knowledge!",
+            "quizQuestion": "When a Goods Receipt is posted, which accounts are affected in FI?",
+            "quizOptions": [
+                "Bank and Vendor",
+                "Inventory and GR/IR",
+                "Expense and Revenue",
+                "Customer and Revenue"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "integ_4",
+            "type": "content",
+            "title": "MM-FI Integration Details",
+            "content": "# MM-FI Integration\n\n## Automatic Account Determination\n\n### Configuration\n\n```\nSPRO > MM > Valuation and Account Assignment >\n  Account Determination > Account Determination Wizard\n```\n\n### Key Elements\n\n| Element | Purpose |\n|---------|--------|\n| Valuation Class | Groups materials for accounting |\n| Transaction Key | Movement type to account link |\n| Account | GL account to post |\n\n## Transaction Keys\n\n| Key | Description | Movement |\n|-----|-------------|----------|\n| BSX | Inventory posting | Stock change |\n| GBB | Offsetting entry | Cost of goods |\n| PRD | Price difference | Variance |\n| WRX | GR/IR clearing | Invoice matching |\n\n## Example: Goods Receipt\n\n```\nMovement Type: 101 (GR from PO)\n\nAccount Determination:\n  BSX --> Inventory Account (3000)\n  WRX --> GR/IR Account (1910)\n\nPosting:\n  Dr: 3000 Inventory    $10,000\n  Cr: 1910 GR/IR        $10,000\n```\n\n## Valuation Classes\n\n| Class | Material Type | Inventory Account |\n|-------|---------------|-------------------|\n| 3000 | Raw Material | 300000 |\n| 3100 | Semi-Finished | 310000 |\n| 7920 | Finished Goods | 320000 |\n\n> **Correct configuration** ensures accurate financials!"
+        },
+        {
+            "id": "integ_5",
+            "type": "content",
+            "title": "SD-FI Integration Details",
+            "content": "# SD-FI Integration\n\n## Billing to Accounting Flow\n\n```\nSD Billing Document (VF01)\n          |\n          v\nAccount Determination\n          |\n          v\nFI Document Created\n          |\n          v\nCO-PA Document (if configured)\n```\n\n## Account Assignment in SD\n\n### Key Factors\n\n| Element | From |\n|---------|------|\n| Customer Account | Customer Master |\n| Revenue Account | Condition Type |\n| Tax Account | Tax Code |\n| Reconciliation Account | Customer Master |\n\n### Revenue Account Determination\n\n```\nChart of Accounts + \nSales Organization + \nAccount Assignment Group (Customer) + \nAccount Assignment Group (Material) + \nAccount Key\n= Revenue Account\n```\n\n## Example: Sales Invoice\n\n```\nBilling: $11,000 (including 10% tax)\n\nFI Posting:\n  Dr: Customer (AR)    $11,000\n  Cr: Revenue          $10,000\n  Cr: Output Tax        $1,000\n\nCO-PA:\n  Revenue: $10,000\n  Customer: ABC Corp\n  Product: Widget A\n  Region: North\n```\n\n## Credit Management Integration\n\n```\nSales Order (VA01)\n      |\n      v\nCredit Check (FI)\n      |\n      v\nApproved? --> Process\n      |\n      v (No)\nBlocked for Credit\n```\n\n> **SD-FI integration** enables accurate revenue reporting!"
+        },
+        {
+            "id": "integ_6",
+            "type": "content",
+            "title": "MM-CO Integration",
+            "content": "# MM-CO Integration\n\n## Cost Assignment in Procurement\n\n### Cost Object Types\n\n| Object | Use Case |\n|--------|----------|\n| Cost Center | Department expense |\n| Internal Order | Project/event |\n| WBS Element | Large project |\n| Network | Complex project |\n\n## Direct Procurement to Cost Center\n\n```\nPurchase Order with Account Assignment:\n  Account: Cost Center 1000\n  \nGoods Receipt:\n  Dr: Expense Account    $500\n  Cr: GR/IR              $500\n  CO: Cost Center 1000   $500\n```\n\n## Indirect Material to Cost Center\n\n```\nGoods Issue (201):\n  From: Warehouse Stock\n  To: Cost Center 1000\n\nPosting:\n  Dr: Expense            $500\n  Cr: Inventory          $500\n  CO: Cost Center 1000   $500\n```\n\n## Activity Type Consumption\n\n```\nProduction Order:\n  Material: RAW-001\n  Labor: 2 hours @ $25/hr\n  Machine: 1 hour @ $50/hr\n\nCO Posting:\n  Material: $100 (Cost Element)\n  Labor: $50 (Activity Type)\n  Machine: $50 (Activity Type)\n```\n\n## Key Integration Points\n\n| MM Transaction | CO Object |\n|----------------|----------|\n| GI to Cost Center | Expense posting |\n| GI to Order | Order cost |\n| GI to Production | WIP |\n\n> **MM-CO integration** provides complete cost visibility!"
+        },
+        {
+            "id": "integ_7",
+            "type": "content",
+            "title": "Production-Finance Integration",
+            "content": "# PP Integration with FI/CO\n\n## Production Order Flow\n\n```\nPlanned Order (MRP)\n        |\n        v\nProduction Order (CO01)\n        |\n        v\nMaterial Issue (MIGO)\n        |\n        v\nConfirmation (CO11N)\n        |\n        v\nGoods Receipt (MIGO)\n        |\n        v\nOrder Settlement (KO88)\n```\n\n## Cost Flow in Production\n\n### Material Consumption (261)\n```\nFI: Dr: WIP (Work in Process)\n    Cr: Inventory\nCO: Production Order: $500 (Material)\n```\n\n### Activity Confirmation\n```\nCO: Production Order:\n    Labor: $100 (Activity)\n    Machine: $50 (Activity)\n```\n\n### Finished Goods Receipt (101)\n```\nFI: Dr: FG Inventory\n    Cr: WIP\nCO: Production Order Credit\n```\n\n### Settlement (KO88)\n```\nVariance Analysis:\n  Standard Cost: $650\n  Actual Cost: $680\n  Variance: $30 (Unfavorable)\n\nSettlement:\n  Dr: Variance Account    $30\n  Cr: Production Order    $30\n```\n\n## Variance Categories\n\n| Type | Cause |\n|------|-------|\n| Price | Material price difference |\n| Quantity | Usage variance |\n| Scrap | Material waste |\n| Efficiency | Labor/machine variance |\n\n> **Production integration** enables accurate product costing!"
+        },
+        {
+            "id": "integ_quiz_2",
+            "type": "quiz",
+            "title": "Production Quiz",
+            "content": "Test your production integration knowledge!",
+            "quizQuestion": "When material is issued to a production order, which account is credited?",
+            "quizOptions": [
+                "WIP",
+                "Inventory",
+                "COGS",
+                "Variance"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "integ_8",
+            "type": "content",
+            "title": "HR-FI Integration",
+            "content": "# HR-FI Payroll Integration\n\n## Payroll to Finance Flow\n\n```\nTime Recording\n      |\n      v\nPayroll Run (PC00_M99_CALC)\n      |\n      v\nRemuneration Statement\n      |\n      v\nPosting to FI (PC00_M99_CIPE)\n```\n\n## Payroll Posting\n\n### Example Payroll\n\n```\nEmployee: John Smith\nCost Center: 1000 (IT Department)\n\nGross Salary:     $5,000\nTax Withholding:   ($750)\nSocial Security:   ($310)\nNet Pay:          $3,940\n```\n\n### FI Posting\n\n```\nDr: Salary Expense     $5,000  (Cost Center 1000)\nCr: Tax Payable          $750\nCr: SS Payable           $310\nCr: Salaries Payable   $3,940\n```\n\n## Cost Distribution\n\n```\nEmployee works on multiple cost centers:\n  IT (1000): 60%\n  Sales (2000): 40%\n\nSalary: $5,000\n  Cost Center 1000: $3,000\n  Cost Center 2000: $2,000\n```\n\n## Integration Points\n\n| HR Element | FI/CO Impact |\n|------------|-------------|\n| Employee Master | Cost center assignment |\n| Wage Types | Cost element mapping |\n| Payroll Results | FI document creation |\n| Time Recording | Activity confirmation |\n\n> **HR-FI integration** ensures accurate personnel costs!"
+        },
+        {
+            "id": "integ_9",
+            "type": "content",
+            "title": "Asset Integration",
+            "content": "# Asset Accounting Integration\n\n## Asset Acquisition from MM\n\n### PO for Capital Asset\n\n```\nPurchase Order (ME21N):\n  Account Assignment: A (Asset)\n  Asset Number: 100001\n  Amount: $50,000\n```\n\n### Goods Receipt\n\n```\nMIGO:\n  Movement Type: 101\n  Account Assignment: Asset\n\nFI Posting:\n  Dr: Asset Under Construction  $50,000\n  Cr: GR/IR Clearing            $50,000\n```\n\n## Asset Capitalization\n\n### From Internal Order\n\n```\nInvestment Order: 500001\nCollected Costs: $75,000\n\nSettlement (KO88):\n  Settlement Receiver: Asset 100002\n\nPosting:\n  Dr: Asset                $75,000\n  Cr: Asset Under Const.   $75,000\n```\n\n## Depreciation Posting\n\n```\nMonthly Depreciation Run (AFAB):\n\nAsset: 100002\nDepreciation: $1,250/month\n\nPosting:\n  Dr: Depreciation Expense  $1,250\n  Cr: Accum. Depreciation   $1,250\n\nCO: Cost Center 1000        $1,250\n```\n\n## Asset Retirement\n\n```\nSale of Asset (ABAON):\n  Book Value: $40,000\n  Sale Price: $45,000\n\nPosting:\n  Dr: Bank                   $45,000\n  Dr: Accum. Depreciation    $35,000\n  Cr: Asset                  $75,000\n  Cr: Gain on Sale            $5,000\n```\n\n> **Asset integration** tracks the complete fixed asset lifecycle!"
+        },
+        {
+            "id": "integ_10",
+            "type": "content",
+            "title": "Cross-Module Document Flow",
+            "content": "# Document Flow Analysis\n\n## What is Document Flow?\n\nA visual representation of all documents created throughout a business process.\n\n## Example: Sales Order Flow\n\n```\nSales Order (SO): 10001\n        |\n        v\nDelivery (DN): 80001\n        |\n        v\nGoods Issue: 4900000001\n        |\n        v\nBilling Document: 90001\n        |\n        v\nFI Document: 1000000001\n        |\n        v\nCO-PA Document: 1234567\n```\n\n## Viewing Document Flow\n\n### Transaction: VA03 (Display Sales Order)\n\n```\nEnvironment > Display Document Flow\n\nResult:\n+--------------------------------+\n| Sales Order     | 10001       |\n|   Delivery      | 80001       |\n|     Goods Issue | 4900000001  |\n|   Billing       | 90001       |\n|     Acctg Doc   | 1000000001  |\n+--------------------------------+\n```\n\n## Key Document Flow Transactions\n\n| Start From | Display TCode |\n|------------|---------------|\n| Sales Order | VA03 |\n| Delivery | VL03N |\n| Billing | VF03 |\n| Purchase Order | ME23N |\n| Goods Movement | MB03 |\n| FI Document | FB03 |\n\n## Why Document Flow Matters\n\n- Trace transaction history\n- Troubleshoot issues\n- Audit trail\n- Process verification\n\n> **Document flow provides complete visibility** into business transactions!"
+        },
+        {
+            "id": "integ_11",
+            "type": "content",
+            "title": "Reconciliation Across Modules",
+            "content": "# Cross-Module Reconciliation\n\n## Why Reconcile?\n\n- Verify data integrity\n- Identify discrepancies\n- Ensure accurate reporting\n- Meet audit requirements\n\n## Key Reconciliation Points\n\n### MM vs FI Inventory\n\n```\nMM Stock Value (MB5L):  $500,000\nFI Inventory GL (FAGLB03): $500,000\n                        ---------\nDifference:                    $0\n```\n\n### GR/IR Clearing\n\n```\nOpen GR (without Invoice): $50,000\nOpen IR (without GR):      $10,000\n\nExpected GR/IR Balance:   ($40,000)\nActual GR/IR Balance:     ($40,000)\nDifference:                     $0\n```\n\n### AP Subledger vs GL\n\n```\nAP Subledger (FBL1N):  $200,000\nAP Control GL:         $200,000\n                      ---------\nDifference:                  $0\n```\n\n## Reconciliation Reports\n\n| Check | Report/TCode |\n|-------|-------------|\n| MM to FI Stock | MB5L vs FS10N |\n| GR/IR Balance | MB5S |\n| AP Reconciliation | F.44 |\n| AR Reconciliation | F.25 |\n| FI to CO | KALC |\n\n## Common Discrepancy Causes\n\n| Issue | Cause |\n|-------|-------|\n| Stock mismatch | Unposted movements |\n| GR/IR difference | Missing invoices |\n| Subledger gap | Direct GL posting |\n\n> **Regular reconciliation** ensures system integrity!"
+        },
+        {
+            "id": "integ_12",
+            "type": "content",
+            "title": "Intercompany Transactions",
+            "content": "# Intercompany Processing\n\n## What is Intercompany?\n\nTransactions between **different company codes** within the same SAP system.\n\n## Intercompany Stock Transfer\n\n```\nCompany 1000 (Seller) --> Company 2000 (Buyer)\n\nMM Posting:\n  1000: Cr: Intercompany Inventory\n  2000: Dr: Inventory\n\nFI Posting:\n  1000: Dr: Intercompany Receivable\n  2000: Cr: Intercompany Payable\n```\n\n## Intercompany Sales\n\n```\nExternal Customer Order to Company 1000\nFulfilled by Company 2000\n\nCompany 2000 (Supplier):\n  Sales to Company 1000\n  Creates Intercompany Invoice\n\nCompany 1000 (Face to Customer):\n  Sales to External Customer\n  Records AP to Company 2000\n```\n\n## Intercompany Clearing\n\n```\nAutomatic Clearing at Period End:\n\n  Company 1000 Receivable from 2000: $50,000\n  Company 2000 Payable to 1000:      $50,000\n\n  Result: Both cleared\n```\n\n## Configuration\n\n```\nSPRO > Financial Accounting > \n  Accounts Receivable/Payable >\n    Business Transactions >\n      Intercompany Postings\n```\n\n## Key Considerations\n\n| Aspect | Requirement |\n|--------|------------|\n| Transfer Pricing | Arm's length prices |\n| Currency | Conversion handling |\n| Elimination | Consolidation entries |\n| Documentation | Audit trail |\n\n> **Intercompany integration** supports multi-entity operations!"
+        },
+        {
+            "id": "integ_quiz_3",
+            "type": "quiz",
+            "title": "Intercompany Quiz",
+            "content": "Test your intercompany knowledge!",
+            "quizQuestion": "In an intercompany stock transfer, what account is debited at the receiving company?",
+            "quizOptions": [
+                "Intercompany Receivable",
+                "Inventory",
+                "Revenue",
+                "Bank"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "integ_13",
+            "type": "content",
+            "title": "Real-Time Analytics",
+            "content": "# Cross-Module Reporting\n\n## Integrated Reports\n\n### Financial Overview\n\nCombines data from all modules:\n\n```\n+----------------------------------+\n| Company Financial Dashboard      |\n+----------------------------------+\n| Revenue (SD):        $10,000,000 |\n| COGS (MM/PP):        ($6,000,000)|\n| Gross Profit:         $4,000,000 |\n| Operating Expenses:  ($2,500,000)|\n| Net Income:           $1,500,000 |\n+----------------------------------+\n```\n\n## SAP Report Types\n\n| Report Type | Source |\n|-------------|--------|\n| FI Financial Statements | FI GL |\n| CO Cost Reports | CO postings |\n| MM Procurement | MM transactions |\n| SD Sales Analysis | SD billing |\n| Integrated P&L | All modules |\n\n## Drill-Down Capability\n\n```\nTotal Revenue: $10,000,000\n      |\n      v\nBy Region:\n  North: $4,000,000\n  South: $3,500,000\n  West: $2,500,000\n        |\n        v\n  By Customer:\n    Customer A: $1,200,000\n    Customer B: $800,000\n          |\n          v\n    By Invoice...\n```\n\n## S/4HANA Advantages\n\n| Feature | Benefit |\n|---------|--------|\n| Embedded Analytics | Real-time insights |\n| Single Data Model | No reconciliation |\n| Fiori Apps | User-friendly dashboards |\n| Live Reporting | Current data always |\n\n> **Integrated reporting** provides complete business visibility!"
+        },
+        {
+            "id": "integ_14",
+            "type": "content",
+            "title": "Period-End Integration",
+            "content": "# Integrated Period-End Closing\n\n## Closing Sequence\n\n### Correct Order Matters!\n\n```\n1. Complete MM activities\n   - Post final GR/IR\n   - Close MM period (MMPV)\n\n2. Complete SD billing\n   - Final billing documents\n   - Revenue recognition\n\n3. Complete PP activities\n   - Production confirmations\n   - Order settlements\n\n4. CO closing activities\n   - Allocations\n   - Assessments\n   - Order settlement\n\n5. FI closing activities\n   - Depreciation (AFAB)\n   - Accruals\n   - Currency revaluation\n   - Period close (OB52)\n```\n\n## Integration Dependencies\n\n```\nMM Period Close\n      |\n      v (required before)\nFI Period Close\n      |\n      v (required before)\nCO Settlement\n```\n\n## Cross-Module Closing Checklist\n\n| Module | Key Activity | TCode |\n|--------|--------------|-------|\n| MM | GR/IR Clearing | MB5S |\n| MM | Period Close | MMPV |\n| PP | Order Settlement | CO88 |\n| CO | Allocations | KSU5 |\n| CO | Order Settlement | KO88 |\n| AA | Depreciation | AFAB |\n| FI | Period Close | OB52 |\n\n> **Coordinated closing** ensures accurate financial reporting!"
+        },
+        {
+            "id": "integ_15",
+            "type": "content",
+            "title": "Integration Troubleshooting",
+            "content": "# Common Integration Issues\n\n## Problem: Missing FI Document\n\n### Symptoms\n- MM document posted\n- No corresponding FI document\n\n### Causes\n- Account determination missing\n- GL account blocked\n- Posting period closed\n\n### Resolution\n```\n1. Check account determination (OBYC)\n2. Verify GL account status (FS00)\n3. Check posting periods (OB52)\n4. Review system log (SM21)\n```\n\n## Problem: GR/IR Imbalance\n\n### Symptoms\n- GR/IR account has balance\n- Items should be cleared\n\n### Causes\n- Quantity/price differences\n- Partial deliveries\n- Missing invoices\n\n### Resolution\n```\n1. Run GR/IR report (MB5S)\n2. Identify unmatched items\n3. Post missing documents\n4. Create adjustment if needed\n```\n\n## Problem: CO Not Updated\n\n### Symptoms\n- FI posting successful\n- CO cost object not updated\n\n### Causes\n- Missing cost object assignment\n- Cost element not created\n- Controlling area issue\n\n### Resolution\n```\n1. Check cost element (KA03)\n2. Verify document (FB03)\n3. Check assignment settings\n4. Repost if necessary (KB61)\n```\n\n## Diagnostic Tools\n\n| Tool | Purpose |\n|------|--------|\n| SM21 | System log |\n| SLG1 | Application log |\n| CDHDR | Change documents |\n| ST22 | Short dumps |\n\n> **Know your troubleshooting tools** for quick resolution!"
+        },
+        {
+            "id": "integ_16",
+            "type": "content",
+            "title": "Best Practices for Integration",
+            "content": "# Integration Best Practices\n\n## Master Data Governance\n\n### Consistent Coding\n\n| Element | Best Practice |\n|---------|---------------|\n| Vendors | Single master across modules |\n| Materials | Complete all views |\n| GL Accounts | Proper assignment groups |\n| Cost Objects | Clear hierarchy |\n\n### Regular Review\n- Quarterly master data audit\n- Clean up obsolete records\n- Validate assignments\n\n## Configuration Standards\n\n### Account Determination\n- Document all mappings\n- Test in development first\n- Validate with finance team\n- Version control changes\n\n### Number Ranges\n- Sufficient range for growth\n- Separate test and production\n- Monitor utilization\n\n## Process Discipline\n\n### Posting Timelines\n- Same-day posting\n- Complete before period close\n- No backdating without approval\n\n### Reconciliation Schedule\n\n| Frequency | Activity |\n|-----------|----------|\n| Daily | Open item review |\n| Weekly | Subledger to GL |\n| Monthly | Full reconciliation |\n| Quarterly | Audit preparation |\n\n## Training and Documentation\n\n- Cross-functional training\n- Process documentation\n- Error handling procedures\n- Escalation paths\n\n> **Discipline and standards** ensure reliable integration!"
+        },
+        {
+            "id": "integ_quiz_4",
+            "type": "quiz",
+            "title": "Best Practices Quiz",
+            "content": "Test your best practices knowledge!",
+            "quizQuestion": "What is the recommended frequency for full cross-module reconciliation?",
+            "quizOptions": [
+                "Daily",
+                "Weekly",
+                "Monthly",
+                "Quarterly"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "integ_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **SAP Integration** lesson!\n\n## Key Concepts Mastered\n\n### Core Process Integration\n- **P2P:** Purchase Req to Payment\n- **O2C:** Sales Order to Collection\n- **Production:** Raw Material to Finished Goods\n\n### Module Connections\n- **MM-FI:** Inventory and GR/IR\n- **SD-FI:** Revenue and Receivables\n- **PP-CO:** Production Costs\n- **HR-FI:** Payroll Expenses\n\n### Cross-Module Activities\n- Document flow tracing\n- Reconciliation points\n- Period-end coordination\n- Intercompany transactions\n\n## Integration Flow Summary\n\n```\n       MM <--> FI <--> SD\n        |       |       |\n        v       v       v\n       CO <--> PP <--> HR\n```\n\n## Quick Reference\n\n| Integration | Key Accounts |\n|-------------|-------------|\n| GR/IR | Inventory, Clearing |\n| Sales | AR, Revenue |\n| Production | WIP, FG Inventory |\n| Payroll | Expense, Payables |\n\n## What is Next?\n\nApply this knowledge to:\n- Troubleshoot integration issues\n- Design new business processes\n- Optimize system performance\n\n> **Understanding integration** is key to SAP mastery!"
+        }
+    ]
+}

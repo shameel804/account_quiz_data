@@ -1,0 +1,6578 @@
+[
+    {
+        "q": "What is the default shortcut key to create a new Ledger in Tally?",
+        "type": "mcq",
+        "o": [
+            "Alt + C",
+            "Ctrl + L",
+            "Alt + L",
+            "Ctrl + C"
+        ]
+    },
+    {
+        "q": "Which group is typically used for creating a Bank Account ledger?",
+        "type": "short_answer",
+        "answers": [
+            "Bank Accounts",
+            "Bank Account"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which menu path is used to create a Ledger in Tally?",
+        "type": "mcq",
+        "o": [
+            "Gateway of Tally > Accounts Info. > Ledgers > Create",
+            "Gateway of Tally > Inventory Info. > Ledgers > Create",
+            "Gateway of Tally > Display > Ledgers",
+            "Gateway of Tally > Accounts Info. > Groups > Create"
+        ]
+    },
+    {
+        "q": "In Tally, a ledger must be placed under a specific ______.",
+        "type": "fill_blank",
+        "answers": [
+            "group"
+        ],
+        "other_options": [
+            "voucher",
+            "company",
+            "stock item",
+            "unit"
+        ]
+    },
+    {
+        "q": "The default group for Sales Ledger in Tally is 'Sales Accounts'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the following Ledger types with their default Groups:",
+        "type": "match",
+        "left": [
+            "Cash",
+            "Sales",
+            "Purchase",
+            "Furniture"
+        ],
+        "right": [
+            "Cash-in-Hand",
+            "Sales Accounts",
+            "Purchase Accounts",
+            "Fixed Assets"
+        ]
+    },
+    {
+        "q": "Which voucher type is used to record cash deposited into the bank?",
+        "type": "mcq",
+        "o": [
+            "Contra",
+            "Payment",
+            "Receipt",
+            "Journal"
+        ]
+    },
+    {
+        "q": "What is the purpose of a Payment Voucher in Tally?",
+        "type": "mcq",
+        "o": [
+            "To record all cash and bank payments",
+            "To record only cash sales",
+            "To record bank deposits",
+            "To record credit purchases"
+        ]
+    },
+    {
+        "q": "Which group is suitable for creating a 'Sundry Debtors' ledger?",
+        "type": "mcq",
+        "o": [
+            "Sundry Debtors",
+            "Current Assets",
+            "Loans (Asset)",
+            "Sales Accounts"
+        ]
+    },
+    {
+        "q": "State the default shortcut key for opening the Contra voucher entry screen.",
+        "type": "short_answer",
+        "answers": [
+            "F4"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the primary use of the Contra voucher in Tally?",
+        "type": "mcq",
+        "o": [
+            "To transfer funds between Cash and Bank accounts",
+            "To record sales transactions",
+            "To adjust tax liabilities",
+            "To enter purchase returns"
+        ]
+    },
+    {
+        "q": "The voucher type used to record all income and money received by the business is called ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Receipt"
+        ],
+        "other_options": [
+            "Payment",
+            "Contra",
+            "Journal",
+            "Purchase"
+        ]
+    },
+    {
+        "q": "By default, how many predefined groups are available in Tally?",
+        "type": "slider",
+        "min": 20,
+        "max": 35,
+        "correct": 28
+    },
+    {
+        "q": "You can change the name of a ledger after it has been created.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is NOT an F11 Accounting Feature?",
+        "type": "odd_one_out",
+        "options": [
+            "Maintain Bill-wise details",
+            "Cost Centers",
+            "Maintain Godowns",
+            "Budgets and Scenarios"
+        ],
+        "correct": "Maintain Godowns"
+    },
+    {
+        "q": "Which option is used to view the list of all ledgers in Tally?",
+        "type": "mcq",
+        "o": [
+            "Display > List of Accounts",
+            "Accounts Info. > Ledgers > Display",
+            "Gateway of Tally > Display > Exception Reports",
+            "Both A and B"
+        ]
+    },
+    {
+        "q": "Match the ledger to its correct primary group in Tally.",
+        "type": "memory",
+        "pairs": {
+            "Cash": "Cash-in-hand",
+            "SBI Account": "Bank Accounts",
+            "Plant & Machinery": "Fixed Assets",
+            "Owner's Equity": "Capital Account"
+        }
+    },
+    {
+        "q": "Which ledger is mandatory to create before recording transactions in Tally?",
+        "type": "short_answer",
+        "answers": [
+            "Cash"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the shortcut key to duplicate a voucher in Tally?",
+        "type": "mcq",
+        "o": [
+            "Alt + 2",
+            "Alt + C",
+            "Ctrl + D",
+            "Alt + D"
+        ]
+    },
+    {
+        "q": "Match the shortcut keys with their Voucher types:",
+        "type": "match",
+        "left": [
+            "F4",
+            "F5",
+            "F6",
+            "F7"
+        ],
+        "right": [
+            "Contra",
+            "Payment",
+            "Receipt",
+            "Journal"
+        ]
+    },
+    {
+        "q": "The Ledger for 'Printing and Stationery' expenses falls under which default group?",
+        "type": "mcq",
+        "o": [
+            "Indirect Expenses",
+            "Direct Expenses",
+            "Fixed Assets",
+            "Current Assets"
+        ]
+    },
+    {
+        "q": "Which voucher type would you use to record depreciation on an asset?",
+        "type": "mcq",
+        "o": [
+            "Journal",
+            "Payment",
+            "Receipt",
+            "Purchase"
+        ]
+    },
+    {
+        "q": "Bank Reconciliation in Tally can be done for any date.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "In Bank Reconciliation, entries cleared in the bank statement are marked as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "reconciled"
+        ],
+        "other_options": [
+            "pending",
+            "cancelled",
+            "void",
+            "approved"
+        ]
+    },
+    {
+        "q": "Swipe LEFT for Direct Expenses, RIGHT for Indirect Expenses.",
+        "type": "swipe_cards",
+        "left_label": "Direct Expense",
+        "right_label": "Indirect Expense",
+        "cards": {
+            "Wages": "left",
+            "Salaries": "right",
+            "Factory Power": "left",
+            "Office Rent": "right"
+        }
+    },
+    {
+        "q": "Which menu is used to access the Bank Reconciliation feature?",
+        "type": "mcq",
+        "o": [
+            "Gateway of Tally > Banking > Bank Reconciliation",
+            "Gateway of Tally > Display > Accounts Books > Cash/Bank Books",
+            "Gateway of Tally > Accounts Info. > Bank Reconciliation",
+            "Gateway of Tally > Vouchers > Bank Reconciliation"
+        ]
+    },
+    {
+        "q": "What is the effect of an 'Adjustment Entry' on the financial statements?",
+        "type": "mcq",
+        "o": [
+            "It ensures accurate matching of revenues and expenses",
+            "It only increases the cash balance",
+            "It is used solely for tax evasion",
+            "It has no effect on profit"
+        ]
+    },
+    {
+        "q": "Which Group is automatically selected when creating a new Purchase Ledger?",
+        "type": "short_answer",
+        "answers": [
+            "Purchase Accounts",
+            "Purchase Account"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is an example of a Direct Income ledger?",
+        "type": "mcq",
+        "o": [
+            "Sales",
+            "Interest Received",
+            "Rent Received",
+            "Commission Received"
+        ]
+    },
+    {
+        "q": "The shortcut key to change the voucher mode between 'As Invoice' and 'As Voucher' is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Ctrl + V"
+        ],
+        "other_options": [
+            "Ctrl + I",
+            "Alt + V",
+            "Ctrl + N",
+            "F11"
+        ]
+    },
+    {
+        "q": "A Receipt voucher can only be used for cash transactions.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Swipe LEFT for default Debit balances, RIGHT for default Credit balances.",
+        "type": "swipe_cards",
+        "left_label": "Debit Balance",
+        "right_label": "Credit Balance",
+        "cards": {
+            "Cash": "left",
+            "Capital": "right",
+            "Purchases": "left",
+            "Sales": "right"
+        }
+    },
+    {
+        "q": "Which ledger is used to record the 'Owner's Capital' invested in the business?",
+        "type": "mcq",
+        "o": [
+            "Capital Account",
+            "Loan Account",
+            "Current Liabilities",
+            "Sales Account"
+        ]
+    },
+    {
+        "q": "Match the Ledger name with the appropriate Group:",
+        "type": "match",
+        "left": [
+            "Capital",
+            "Bank",
+            "Salary",
+            "Office Rent"
+        ],
+        "right": [
+            "Capital Account",
+            "Bank Accounts",
+            "Indirect Expenses",
+            "Indirect Expenses"
+        ]
+    },
+    {
+        "q": "In Tally, how do you pass a rectification entry for a wrong credit sale?",
+        "type": "mcq",
+        "o": [
+            "Use a Journal Voucher to reverse and correct the entry",
+            "Delete the original voucher",
+            "Use a Payment Voucher",
+            "Create a new Sales order"
+        ]
+    },
+    {
+        "q": "What type of account is 'Sundry Creditors'?",
+        "type": "mcq",
+        "o": [
+            "Current Liabilities",
+            "Fixed Assets",
+            "Current Assets",
+            "Loans (Asset)"
+        ]
+    },
+    {
+        "q": "The process of verifying Tally's bank book balance with the bank statement is called ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Bank Reconciliation"
+        ],
+        "other_options": [
+            "Bank Confirmation",
+            "Cash Counting",
+            "Auditing",
+            "Inventory Check"
+        ]
+    },
+    {
+        "q": "What is the first step to take before starting Bank Reconciliation in Tally for a specific period?",
+        "type": "short_answer",
+        "answers": [
+            "Provide the opening balance",
+            "Set opening balance"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Unscramble the word: Anything of value owned by the business.",
+        "type": "word_scramble",
+        "answer": "ASSETS",
+        "decoys": "QW"
+    },
+    {
+        "q": "Which of the following transactions is typically recorded using a Journal Voucher?",
+        "type": "mcq",
+        "o": [
+            "Provision for bad debts",
+            "Cash purchase of goods",
+            "Deposit of cash into bank",
+            "Receipt from a debtor"
+        ]
+    },
+    {
+        "q": "The 'Outstanding Expenses' account belongs to which group?",
+        "type": "mcq",
+        "o": [
+            "Current Liabilities",
+            "Current Assets",
+            "Indirect Expenses",
+            "Direct Expenses"
+        ]
+    },
+    {
+        "q": "Unscramble the word: The master record of an account in Tally.",
+        "type": "word_scramble",
+        "answer": "LEDGER",
+        "decoys": "PQR"
+    },
+    {
+        "q": "You can only reconcile transactions in Tally if the bank statement date matches the voucher date exactly.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Complete the sentence regarding internal fund transfers:",
+        "type": "inline_dropdown",
+        "text": "A [0] voucher is used strictly for internal fund transfers, and its shortcut is [1].",
+        "dropdowns": [
+            {
+                "correct": "Contra",
+                "options": [
+                    "Contra",
+                    "Journal",
+                    "Payment"
+                ]
+            },
+            {
+                "correct": "F4",
+                "options": [
+                    "F4",
+                    "F5",
+                    "F6"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which voucher is used to record a credit purchase of machinery?",
+        "type": "mcq",
+        "o": [
+            "Journal",
+            "Purchase",
+            "Payment",
+            "Contra"
+        ]
+    },
+    {
+        "q": "Match the Voucher abbreviation with its full form:",
+        "type": "match",
+        "left": [
+            "CP",
+            "BR",
+            "BP",
+            "JV"
+        ],
+        "right": [
+            "Cash Payment",
+            "Bank Receipt",
+            "Bank Payment",
+            "Journal Voucher"
+        ]
+    },
+    {
+        "q": "Which Function key is used to select the 'To Bank or Cash' option in a Contra voucher?",
+        "type": "short_answer",
+        "answers": [
+            "F12"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the default group for 'Prepaid Insurance'?",
+        "type": "mcq",
+        "o": [
+            "Current Assets",
+            "Indirect Expenses",
+            "Current Liabilities",
+            "Fixed Assets"
+        ]
+    },
+    {
+        "q": "In Tally, altering a voucher's date after it's been entered requires using the ______ option.",
+        "type": "fill_blank",
+        "answers": [
+            "Alter"
+        ],
+        "other_options": [
+            "Delete",
+            "Duplicate",
+            "Create",
+            "Cancel"
+        ]
+    },
+    {
+        "q": "Complete the sentence regarding expense tracking:",
+        "type": "inline_dropdown",
+        "text": "To track department-wise expenses, activate [0] using the [1] key.",
+        "dropdowns": [
+            {
+                "correct": "Cost Centers",
+                "options": [
+                    "Cost Centers",
+                    "Bill-wise Details",
+                    "Multi-Currency"
+                ]
+            },
+            {
+                "correct": "F11",
+                "options": [
+                    "F11",
+                    "F12",
+                    "F2"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The 'Rent Received' ledger is usually grouped under Direct Incomes.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which Report in Tally shows the list of all vouchers entered for a specific type?",
+        "type": "mcq",
+        "o": [
+            "Day Book",
+            "Trial Balance",
+            "Balance Sheet",
+            "Profit & Loss A/c"
+        ]
+    },
+    {
+        "q": "What is the primary difference between 'Direct Expenses' and 'Indirect Expenses' groups?",
+        "type": "mcq",
+        "o": [
+            "Direct relates to production/purchases, Indirect relates to admin/selling",
+            "Direct are paid in cash, Indirect are on credit",
+            "There is no difference",
+            "Direct relates to assets, Indirect relates to liabilities"
+        ]
+    },
+    {
+        "q": "To cancel a voucher in Tally without deleting it permanently, you can press ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Alt + X"
+        ],
+        "other_options": [
+            "Alt + D",
+            "Ctrl + X",
+            "Alt + C",
+            "Ctrl + D"
+        ]
+    },
+    {
+        "q": "What is the function key number used to open a Payment voucher? (e.g., F?)",
+        "type": "slider",
+        "min": 2,
+        "max": 9,
+        "correct": 5
+    },
+    {
+        "q": "Which Group should be selected for creating a 'Land and Building' ledger?",
+        "type": "mcq",
+        "o": [
+            "Fixed Assets",
+            "Current Assets",
+            "Investments",
+            "Capital Account"
+        ]
+    },
+    {
+        "q": "Explain the primary function of the 'Trial Balance' screen in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "To show the closing balances of all ledgers",
+            "To verify arithmetical accuracy of accounts"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which option allows you to insert a voucher between two existing vouchers?",
+        "type": "mcq",
+        "o": [
+            "Use Alt + I while viewing the Day Book",
+            "Use Ctrl + I on the voucher screen",
+            "It is not possible in Tally",
+            "Delete the later voucher first"
+        ]
+    },
+    {
+        "q": "Which of these transactions is NOT recorded in a Contra voucher?",
+        "type": "odd_one_out",
+        "options": [
+            "Cash deposited into bank",
+            "Cash withdrawn from bank",
+            "Transfer from one bank to another",
+            "Cash paid to a supplier"
+        ],
+        "correct": "Cash paid to a supplier"
+    },
+    {
+        "q": "Match the shortcut keys to their respective screens.",
+        "type": "memory",
+        "pairs": {
+            "Alt+F3": "Company Info",
+            "F11": "Features",
+            "F12": "Configuration",
+            "Alt+F2": "Change Period"
+        }
+    },
+    {
+        "q": "The 'Commission Paid' ledger is categorized under Direct Expenses.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which shortcut is used to bring the list of Ledgers while recording a voucher?",
+        "type": "mcq",
+        "o": [
+            "Alt + C",
+            "Ctrl + L",
+            "Alt + L",
+            "Ctrl + C"
+        ]
+    },
+    {
+        "q": "Match the Adjustment type with its Voucher type:",
+        "type": "match",
+        "left": [
+            "Closing Stock",
+            "Depreciation",
+            "Outstanding Salary",
+            "Prepaid Rent"
+        ],
+        "right": [
+            "Journal",
+            "Journal",
+            "Journal",
+            "Journal"
+        ]
+    },
+    {
+        "q": "What is the purpose of the F11 key in Tally?",
+        "type": "mcq",
+        "o": [
+            "To open Company Features menu",
+            "To open Configuration menu",
+            "To open Contra voucher",
+            "To open Receipt voucher"
+        ]
+    },
+    {
+        "q": "Swipe LEFT for Journal Voucher entries, RIGHT for Payment Voucher entries.",
+        "type": "swipe_cards",
+        "left_label": "Journal",
+        "right_label": "Payment",
+        "cards": {
+            "Depreciation on Machinery": "left",
+            "Rent Paid in Cash": "right",
+            "Outstanding Salary Provision": "left",
+            "Wages Paid via Bank": "right"
+        }
+    },
+    {
+        "q": "When cash is withdrawn from the bank for office use, which accounts are affected?",
+        "type": "mcq",
+        "o": [
+            "Cash account is debited, Bank account is credited",
+            "Bank account is debited, Cash account is credited",
+            "Both accounts are credited",
+            "It is treated as a Journal entry"
+        ]
+    },
+    {
+        "q": "In Bank Reconciliation, the 'Bank Date' refers to the date on which the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "transaction cleared in bank"
+        ],
+        "other_options": [
+            "voucher was printed",
+            "entry was made in Tally",
+            "cheque was issued",
+            "reconciliation was started"
+        ]
+    },
+    {
+        "q": "What is the shortcut to access the Company creation menu?",
+        "type": "short_answer",
+        "answers": [
+            "Alt + F3"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which group is suitable for 'Loan from Bank'?",
+        "type": "mcq",
+        "o": [
+            "Secured Loans",
+            "Current Liabilities",
+            "Capital Account",
+            "Current Assets"
+        ]
+    },
+    {
+        "q": "The feature to automatically calculate duties and taxes in a voucher is enabled via:",
+        "type": "mcq",
+        "o": [
+            "F11 > Statutory & Taxation",
+            "F12 > Invoice mode",
+            "Alt + T",
+            "Ctrl + J"
+        ]
+    },
+    {
+        "q": "Unscramble the word: Voucher used for cash deposits and withdrawals.",
+        "type": "word_scramble",
+        "answer": "CONTRA",
+        "decoys": "XYZ"
+    },
+    {
+        "q": "A 'Debit Note' voucher in Tally is used for Purchase Returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble the word: Voucher used for non-cash adjustment entries.",
+        "type": "word_scramble",
+        "answer": "JOURNAL",
+        "decoys": "WQK"
+    },
+    {
+        "q": "Which of the following is NOT a predefined Primary Group in Tally?",
+        "type": "mcq",
+        "o": [
+            "Computer Expenses",
+            "Sundry Debtors",
+            "Secured Loans",
+            "Stock-in-Hand"
+        ]
+    },
+    {
+        "q": "Match the key with the navigation function in Voucher Entry:",
+        "type": "match",
+        "left": [
+            "Enter",
+            "Esc",
+            "Ctrl + A",
+            "Page Up"
+        ],
+        "right": [
+            "Accept/Accept and Next",
+            "Quit/Go Back",
+            "Accept without closing",
+            "Scroll to previous voucher"
+        ]
+    },
+    {
+        "q": "Where do you enable 'Use Debit/Credit Notes' option?",
+        "type": "mcq",
+        "o": [
+            "F11 > Accounting Features",
+            "F12 > Voucher Entry",
+            "Gateway of Tally > Inventory",
+            "Company Creation screen"
+        ]
+    },
+    {
+        "q": "When recording a receipt from a debtor, the 'Debtor' ledger is credited.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The entry 'Salary Payable for the month' is an example of a ______ entry.",
+        "type": "fill_blank",
+        "answers": [
+            "closing",
+            "adjustment"
+        ],
+        "other_options": [
+            "contra",
+            "payment",
+            "receipt",
+            "purchase"
+        ]
+    },
+    {
+        "q": "Which report helps verify the balance of all Debtors and Creditors individually?",
+        "type": "mcq",
+        "o": [
+            "Outstanding Statement",
+            "Day Book",
+            "Trial Balance",
+            "Balance Sheet"
+        ]
+    },
+    {
+        "q": "Which of the following ledgers should be grouped under 'Duties & Taxes'?",
+        "type": "mcq",
+        "o": [
+            "GST",
+            "Sales Return",
+            "Cash Discount",
+            "Carriage Inward"
+        ]
+    },
+    {
+        "q": "Define the purpose of the 'Multi-Account Printing' option in Bank Reconciliation.",
+        "type": "short_answer",
+        "answers": [
+            "To print reconciliation statements for multiple banks at once"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the group for 'Interest Accrued but not Due'?",
+        "type": "mcq",
+        "o": [
+            "Current Assets",
+            "Current Liabilities",
+            "Fixed Assets",
+            "Direct Incomes"
+        ]
+    },
+    {
+        "q": "Match the Voucher type with its navigation key:",
+        "type": "match",
+        "left": [
+            "Accounting Vouchers",
+            "Inventory Vouchers",
+            "Payroll Vouchers"
+        ],
+        "right": [
+            "Ctrl + F9",
+            "Ctrl + F8",
+            "Ctrl + F7"
+        ]
+    },
+    {
+        "q": "The 'Bank OCC Account' group falls under which main classification?",
+        "type": "mcq",
+        "o": [
+            "Current Liabilities",
+            "Bank Accounts",
+            "Loans (Liability)",
+            "Secured Loans"
+        ]
+    },
+    {
+        "q": "In Tally, 'Cash-in-Hand' is a pre-defined ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ledger"
+        ],
+        "other_options": [
+            "group",
+            "voucher",
+            "company",
+            "feature"
+        ]
+    },
+    {
+        "q": "The F6 key is used to record Bank Receipts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following vouchers will you select to record the owner withdrawing cash for personal use?",
+        "type": "mcq",
+        "o": [
+            "Payment",
+            "Receipt",
+            "Contra",
+            "Journal"
+        ]
+    },
+    {
+        "q": "What does the abbreviation 'CP' stand for in Tally voucher numbering?",
+        "type": "short_answer",
+        "answers": [
+            "Cash Payment"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "How do you pass an entry for 'Bad Debts Recovered'?",
+        "type": "mcq",
+        "o": [
+            "Debit Cash/Bank, Credit Bad Debts Recovered",
+            "Debit Bad Debts, Credit Debtor",
+            "Debit Debtor, Credit Bad Debts",
+            "Debit Bad Debts Recovered, Credit Cash"
+        ]
+    },
+    {
+        "q": "The 'Books Beginning from' date is set during Company Creation.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Which Group acts as the parent for 'Share Capital'?",
+        "type": "mcq",
+        "o": [
+            "Capital Account",
+            "Current Liabilities",
+            "Reserves & Surplus",
+            "Loans (Liability)"
+        ]
+    },
+    {
+        "q": "The ______ feature in F12 configuration allows you to show the ledger balance during voucher entry.",
+        "type": "fill_blank",
+        "answers": [
+            "Show Balances"
+        ],
+        "other_options": [
+            "Show Ledger",
+            "Default Billwise",
+            "Show Inventory",
+            "Predefined Vouchers"
+        ]
+    },
+    {
+        "q": "Match the transaction with the correct Voucher type:",
+        "type": "match",
+        "left": [
+            "Deposit into Bank",
+            "Electricity Bill Paid",
+            "Interest Received in Bank",
+            "Provision for Tax"
+        ],
+        "right": [
+            "Contra",
+            "Payment",
+            "Receipt",
+            "Journal"
+        ]
+    },
+    {
+        "q": "The 'TDS Payable' ledger falls under which group?",
+        "type": "short_answer",
+        "answers": [
+            "Duties & Taxes"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Complete the sentence about basic vouchers:",
+        "type": "inline_dropdown",
+        "text": "Use a [0] voucher to record money leaving the business, and a [1] voucher for incoming money.",
+        "dropdowns": [
+            {
+                "correct": "Payment",
+                "options": [
+                    "Payment",
+                    "Journal",
+                    "Contra"
+                ]
+            },
+            {
+                "correct": "Receipt",
+                "options": [
+                    "Contra",
+                    "Receipt",
+                    "Sales"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Complete the sentence regarding time periods in Tally:",
+        "type": "inline_dropdown",
+        "text": "The [0] key changes the current date, while [1] changes the financial year period.",
+        "dropdowns": [
+            {
+                "correct": "F2",
+                "options": [
+                    "F2",
+                    "F3",
+                    "F4"
+                ]
+            },
+            {
+                "correct": "Alt+F2",
+                "options": [
+                    "Alt+F2",
+                    "Alt+F3",
+                    "Ctrl+F2"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which of the following is true about 'Closing Stock' in Tally?",
+        "type": "mcq",
+        "o": [
+            "It is adjusted through a Journal voucher at year-end",
+            "It is automatically entered during sales billing",
+            "It requires a Purchase voucher",
+            "It is entered as a Payment voucher"
+        ]
+    },
+    {
+        "q": "What is the shortcut to accept a voucher without closing the entry screen?",
+        "type": "mcq",
+        "o": [
+            "Ctrl + A",
+            "Ctrl + Enter",
+            "Alt + A",
+            "Shift + Enter"
+        ]
+    },
+    {
+        "q": "Out of the 28 default groups in Tally, how many are Primary Groups?",
+        "type": "slider",
+        "min": 10,
+        "max": 20,
+        "correct": 15
+    },
+    {
+        "q": "Post-Dated Cheques feature is activated under Banking Features.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is NOT an Accounting Voucher type in Tally?",
+        "type": "mcq",
+        "o": [
+            "Delivery Note",
+            "Contra",
+            "Payment",
+            "Journal"
+        ]
+    },
+    {
+        "q": "In Tally, to view the Profit & Loss statement, you navigate to Gateway of Tally > Display > Profit & Loss A/c.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is NOT considered a core Financial Statement?",
+        "type": "odd_one_out",
+        "options": [
+            "Balance Sheet",
+            "Profit & Loss Account",
+            "Trial Balance",
+            "Stock Summary"
+        ],
+        "correct": "Stock Summary"
+    },
+    {
+        "q": "What is the function of 'Bill-wise entry' in Tally?",
+        "type": "mcq",
+        "o": [
+            "To track outstanding invoices/reference numbers",
+            "To generate tax invoices only",
+            "To calculate GST automatically",
+            "To reconcile bank entries"
+        ]
+    },
+    {
+        "q": "Match the Group with its Financial Statement placement:",
+        "type": "match",
+        "left": [
+            "Fixed Assets",
+            "Current Liabilities",
+            "Direct Incomes",
+            "Indirect Expenses"
+        ],
+        "right": [
+            "Balance Sheet (Assets)",
+            "Balance Sheet (Liabilities)",
+            "Profit & Loss (Credit)",
+            "Profit & Loss (Debit)"
+        ]
+    },
+    {
+        "q": "The ledger for 'Cash Discount Allowed' should be grouped under ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Indirect Expenses"
+        ],
+        "other_options": [
+            "Direct Expenses",
+            "Current Assets",
+            "Direct Incomes",
+            "Fixed Assets"
+        ]
+    },
+    {
+        "q": "Which key combination opens the 'Calculator' panel in Tally?",
+        "type": "short_answer",
+        "answers": [
+            "Ctrl + N"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the primary purpose of the 'Contra' voucher?",
+        "type": "mcq",
+        "o": [
+            "Fund transfers involving Cash or Bank only",
+            "Recording sales on credit",
+            "Recording purchase returns",
+            "Passing year-end adjustments"
+        ]
+    },
+    {
+        "q": "To see the detailed configuration of any ledger, you press Alt + Enter.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Which field in Ledger Creation determines if the account will appear under 'Current Assets' or 'Fixed Assets'?",
+        "type": "mcq",
+        "o": [
+            "Under Group",
+            "Opening Balance",
+            "Maintain Bill-wise",
+            "Cost Centres"
+        ]
+    },
+    {
+        "q": "The 'Reserves and Surplus' group falls under which classification in the Balance Sheet?",
+        "type": "mcq",
+        "o": [
+            "Capital Account",
+            "Secured Loans",
+            "Unsecured Loans",
+            "Current Assets"
+        ]
+    },
+    {
+        "q": "A ______ is used to correct a mistake in the accounting books without altering the original entry.",
+        "type": "fill_blank",
+        "answers": [
+            "rectification entry"
+        ],
+        "other_options": [
+            "deletion entry",
+            "contra entry",
+            "reconciliation entry",
+            "payment entry"
+        ]
+    },
+    {
+        "q": "Match the shortcut with its function in Ledger Creation:",
+        "type": "match",
+        "left": [
+            "Alt + C",
+            "Ctrl + A",
+            "Ctrl + Enter"
+        ],
+        "right": [
+            "Create New Ledger",
+            "Accept Form",
+            "Accept and Close"
+        ]
+    },
+    {
+        "q": "Match the report to its navigation path from the Gateway of Tally.",
+        "type": "memory",
+        "pairs": {
+            "Balance Sheet": "Directly on Gateway",
+            "Daybook": "Display More Reports",
+            "Bank Reconciliation": "Banking",
+            "Voucher Entry": "Vouchers"
+        }
+    },
+    {
+        "q": "What is the shortcut key to change the period in Tally?",
+        "type": "short_answer",
+        "answers": [
+            "Alt + F2"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "When recording a Journal entry, the total debit amount must equal the total credit amount.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the closing entry items to their destination accounts.",
+        "type": "memory",
+        "pairs": {
+            "Closing Stock": "Trading A/c",
+            "Net Profit": "Capital A/c",
+            "Provision for Tax": "P&L A/c",
+            "Drawings": "Capital A/c"
+        }
+    },
+    {
+        "q": "Which of the following is NOT an option in the 'Bank Reconciliation' screen?",
+        "type": "mcq",
+        "o": [
+            "Auto-reconcile all transactions",
+            "Set Bank Date",
+            "Mark as Reconciled",
+            "Provide Opening Balance"
+        ]
+    },
+    {
+        "q": "Which menu option allows you to change the financial year period in Tally after company creation?",
+        "type": "mcq",
+        "o": [
+            "Alt + F2",
+            "F11",
+            "F12",
+            "Alt + F3"
+        ]
+    },
+    {
+        "q": "What is the purpose of creating a 'Cost Centre' in Tally?",
+        "type": "mcq",
+        "o": [
+            "To track expenses and incomes department-wise or project-wise",
+            "To manage inventory valuations",
+            "To reconcile bank statements automatically",
+            "To calculate employee salaries"
+        ]
+    },
+    {
+        "q": "The 'Purchase Order' voucher type is an example of a non-accounting voucher.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which group is most appropriate for creating a 'Mutual Fund Investment' ledger?",
+        "type": "mcq",
+        "o": [
+            "Investments",
+            "Fixed Assets",
+            "Current Assets",
+            "Loans (Asset)"
+        ]
+    },
+    {
+        "q": "Explain the function of the 'Auto Bank Reconciliation' tool in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "To automatically match and reconcile transactions based on bank statement import"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Match the Tally Voucher mode with its description:",
+        "type": "match",
+        "left": [
+            "As Voucher",
+            "As Invoice"
+        ],
+        "right": [
+            "Single entry mode for accounting",
+            "Goods-based entry with inventory details"
+        ]
+    },
+    {
+        "q": "In Tally, 'Bill-wise entry' can be activated from F11: Accounting Features.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What is the primary difference between 'Receipt' and 'Contra' vouchers?",
+        "type": "mcq",
+        "o": [
+            "Receipt involves third-party income, Contra involves internal fund transfer between cash/bank",
+            "Receipt is for cash only, Contra is for bank only",
+            "Receipt is for sales, Contra is for purchases",
+            "There is no difference"
+        ]
+    },
+    {
+        "q": "The option to 'Maintain Inventory' is found under which menu?",
+        "type": "short_answer",
+        "answers": [
+            "F11: Features",
+            "Company Features"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which voucher type is used to record a credit sale transaction?",
+        "type": "mcq",
+        "o": [
+            "Sales Voucher",
+            "Receipt Voucher",
+            "Journal Voucher",
+            "Contra Voucher"
+        ]
+    },
+    {
+        "q": "In Tally, 'Stock-in-Hand' is a pre-defined ______ under the Assets group.",
+        "type": "fill_blank",
+        "answers": [
+            "ledger"
+        ],
+        "other_options": [
+            "group",
+            "voucher type",
+            "cost category",
+            "unit"
+        ]
+    },
+    {
+        "q": "Which shortcut key is used to display the 'List of Accounts' or Chart of Accounts?",
+        "type": "mcq",
+        "o": [
+            "Gateway of Tally > Display > List of Accounts",
+            "Alt + L",
+            "Ctrl + L",
+            "Both A and B"
+        ]
+    },
+    {
+        "q": "Post-dated cheque transactions are recorded in which type of voucher?",
+        "type": "mcq",
+        "o": [
+            "Receipt or Payment with post-dated flag",
+            "Only Journal",
+            "Only Contra",
+            "Purchase Order"
+        ]
+    },
+    {
+        "q": "Swipe LEFT for Trading Account items, RIGHT for P&L Account items.",
+        "type": "swipe_cards",
+        "left_label": "Trading A/c",
+        "right_label": "P&L A/c",
+        "cards": {
+            "Opening Stock": "left",
+            "Advertising Expense": "right",
+            "Factory Lighting": "left",
+            "Audit Fees": "right"
+        }
+    },
+    {
+        "q": "What is the correct group for 'Loose Tools' in accounting?",
+        "type": "mcq",
+        "o": [
+            "Fixed Assets",
+            "Current Assets",
+            "Direct Expenses",
+            "Indirect Expenses"
+        ]
+    },
+    {
+        "q": "The 'Day Book' report in Tally displays all vouchers in chronological order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the Ledger type with the required 'Maintain Bill-wise' setting:",
+        "type": "match",
+        "left": [
+            "Sundry Debtors",
+            "Sundry Creditors",
+            "Bank Accounts"
+        ],
+        "right": [
+            "Yes",
+            "Yes",
+            "Not Applicable (Optional)"
+        ]
+    },
+    {
+        "q": "Which field in a voucher entry determines whether it affects Cash/Bank or not?",
+        "type": "short_answer",
+        "answers": [
+            "Mode of Payment",
+            "Particulars"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the purpose of the 'F12: Configure' option in the voucher entry screen?",
+        "type": "mcq",
+        "o": [
+            "To customize voucher-specific settings like narration, entry, printing",
+            "To change the company financial year",
+            "To create a new ledger",
+            "To open the calculator"
+        ]
+    },
+    {
+        "q": "The ______ feature allows allocation of a single expense to multiple branches.",
+        "type": "fill_blank",
+        "answers": [
+            "Cost Centre"
+        ],
+        "other_options": [
+            "Bill-wise",
+            "Bank Reconciliation",
+            "Budget",
+            "Job Costing"
+        ]
+    },
+    {
+        "q": "Unscramble the word: Statement showing the financial position of a company.",
+        "type": "word_scramble",
+        "answer": "BALANCE",
+        "decoys": "FGH"
+    },
+    {
+        "q": "Which group is used for 'Provision for Taxation'?",
+        "type": "mcq",
+        "o": [
+            "Provisions",
+            "Current Liabilities",
+            "Capital Account",
+            "Loans (Liability)"
+        ]
+    },
+    {
+        "q": "The short-cut key to switch between the single entry and double entry mode is Alt + Enter.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Unscramble the word: Financial gain at the end of the accounting period.",
+        "type": "word_scramble",
+        "answer": "PROFIT",
+        "decoys": "BNM"
+    },
+    {
+        "q": "Which of the following is a mandatory field while creating a Sales Ledger?",
+        "type": "mcq",
+        "o": [
+            "Under Group",
+            "Opening Balance",
+            "Mailing Address",
+            "Telephone Number"
+        ]
+    },
+    {
+        "q": "Match the Inventory Voucher with its action:",
+        "type": "match",
+        "left": [
+            "Purchase Order",
+            "Sales Order",
+            "Rejection In",
+            "Stock Journal"
+        ],
+        "right": [
+            "Intent to buy",
+            "Intent to sell",
+            "Goods returned by customer",
+            "Transfer between godowns"
+        ]
+    },
+    {
+        "q": "What is the function of the 'Memorandum Voucher'?",
+        "type": "mcq",
+        "o": [
+            "To record preliminary entries that do not affect books, like estimates",
+            "To record actual sales",
+            "To delete wrong entries",
+            "To reconcile bank accounts"
+        ]
+    },
+    {
+        "q": "Complete the sentence for finding the Trial Balance:",
+        "type": "inline_dropdown",
+        "text": "To view the Trial Balance, navigate to Gateway of Tally, select [0], and then [1].",
+        "dropdowns": [
+            {
+                "correct": "Display More Reports",
+                "options": [
+                    "Display More Reports",
+                    "Vouchers",
+                    "Masters"
+                ]
+            },
+            {
+                "correct": "Trial Balance",
+                "options": [
+                    "Trial Balance",
+                    "Daybook",
+                    "Cash Flow"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The 'Branch/Division' grouping is achieved in Tally using ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Cost Centres"
+        ],
+        "other_options": [
+            "Voucher Types",
+            "Ledger Groups",
+            "Stock Items",
+            "Budget Scenarios"
+        ]
+    },
+    {
+        "q": "What is the shortcut key to alter a selected ledger from the list?",
+        "type": "short_answer",
+        "answers": [
+            "Alt + Enter",
+            "Ctrl + Enter"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following transactions would NOT appear in a Bank Reconciliation Statement?",
+        "type": "mcq",
+        "o": [
+            "Cash sales deposited directly into bank",
+            "Cheque issued but not presented",
+            "Bank charges debited by bank",
+            "Direct deposit by a customer"
+        ]
+    },
+    {
+        "q": "How do you create a 'Provisional Entry' that should be automatically reversed later?",
+        "type": "mcq",
+        "o": [
+            "Use Reversing Journal feature or Memorandum Voucher",
+            "Use Contra Voucher",
+            "Post-date the Payment Voucher",
+            "Delete the entry after a month"
+        ]
+    },
+    {
+        "q": "Tally allows the creation of multiple ledgers at once using the 'Multi Ledger Creation' feature.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a valid 'Allowable' expense grouped under Direct Expenses?",
+        "type": "mcq",
+        "o": [
+            "Carriage Inward",
+            "Office Rent",
+            "Audit Fees",
+            "Bank Charges"
+        ]
+    },
+    {
+        "q": "The 'Receipt Note' voucher records goods received from a supplier before a bill is entered.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Match the Tally term with its definition:",
+        "type": "match",
+        "left": [
+            "Voucher",
+            "Ledger",
+            "Group",
+            "Stock Item"
+        ],
+        "right": [
+            "A transaction entry",
+            "An account head",
+            "Classification of accounts",
+            "Goods being traded"
+        ]
+    },
+    {
+        "q": "Where do you enable the feature to 'Use Debit/Credit Notes'?",
+        "type": "short_answer",
+        "answers": [
+            "F11: Accounting Features",
+            "Company Features"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Complete the sentence about manual stock updates:",
+        "type": "inline_dropdown",
+        "text": "Closing stock is adjusted manually using a [0] entry if [1] is not maintained.",
+        "dropdowns": [
+            {
+                "correct": "Journal",
+                "options": [
+                    "Journal",
+                    "Contra",
+                    "Payment"
+                ]
+            },
+            {
+                "correct": "Inventory",
+                "options": [
+                    "Inventory",
+                    "Taxation",
+                    "Payroll"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the group for 'Pre-receipt of Income' or 'Income Received in Advance'?",
+        "type": "mcq",
+        "o": [
+            "Current Liabilities",
+            "Current Assets",
+            "Direct Incomes",
+            "Capital Account"
+        ]
+    },
+    {
+        "q": "Which screen allows you to input the opening balance for Stock Items?",
+        "type": "mcq",
+        "o": [
+            "Stock Journal or Ledger Alteration screen",
+            "Payment Voucher",
+            "Bank Reconciliation",
+            "Day Book"
+        ]
+    },
+    {
+        "q": "To delete a voucher permanently, you must press ______ while the voucher is in Alter mode.",
+        "type": "fill_blank",
+        "answers": [
+            "Alt + D"
+        ],
+        "other_options": [
+            "Alt + X",
+            "Ctrl + D",
+            "Alt + C",
+            "Delete"
+        ]
+    },
+    {
+        "q": "The 'Bank OCC' account type is used for overdraft facilities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following vouchers is used to record a purchase return?",
+        "type": "mcq",
+        "o": [
+            "Debit Note",
+            "Credit Note",
+            "Journal",
+            "Payment"
+        ]
+    },
+    {
+        "q": "In the context of Bank Reconciliation, what does 'Uncleared' mean?",
+        "type": "mcq",
+        "o": [
+            "Transactions entered in Tally but not yet reflected in the bank statement",
+            "Transactions that are cancelled",
+            "Transactions with future dates",
+            "Deleted transactions"
+        ]
+    },
+    {
+        "q": "Match the Group with the type of Balance it typically carries:",
+        "type": "match",
+        "left": [
+            "Cash-in-Hand",
+            "Sales Account",
+            "Sundry Creditors",
+            "Fixed Assets"
+        ],
+        "right": [
+            "Debit",
+            "Credit",
+            "Credit",
+            "Debit"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Contra' voucher regarding cash withdrawal?",
+        "type": "short_answer",
+        "answers": [
+            "To record transfer of money from Bank to Cash"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which menu contains the option to 'Split Company Data'?",
+        "type": "mcq",
+        "o": [
+            "Gateway of Tally > F3: Company Info. > Split",
+            "F11 Features",
+            "F12 Configure",
+            "Display Menu"
+        ]
+    },
+    {
+        "q": "In voucher entry, the ______ button toggles the display of the 'Bill-wise' details screen.",
+        "type": "fill_blank",
+        "answers": [
+            "F12"
+        ],
+        "other_options": [
+            "F11",
+            "F6",
+            "F9",
+            "Ctrl + B"
+        ]
+    },
+    {
+        "q": "The terms 'Sundry Debtors' and 'Accounts Receivable' refer to different concepts in Tally.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which report provides a summary of all Income and Expenses over a period?",
+        "type": "mcq",
+        "o": [
+            "Profit & Loss A/c",
+            "Balance Sheet",
+            "Trial Balance",
+            "Cash Flow Statement"
+        ]
+    },
+    {
+        "q": "What is the shortcut key to duplicate a ledger?",
+        "type": "mcq",
+        "o": [
+            "Alt + 2",
+            "Alt + C",
+            "Ctrl + D",
+            "Alt + D"
+        ]
+    },
+    {
+        "q": "Match the shortcut with the action during Voucher Entry:",
+        "type": "match",
+        "left": [
+            "Ctrl + F8",
+            "Ctrl + F9",
+            "Ctrl + F7"
+        ],
+        "right": [
+            "Switch to Inventory Vouchers",
+            "Switch to Accounting Vouchers",
+            "Switch to Payroll Vouchers"
+        ]
+    },
+    {
+        "q": "Define 'Closing Entries' in the context of year-end processing.",
+        "type": "short_answer",
+        "answers": [
+            "Entries passed to transfer nominal account balances to Profit & Loss account"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the function key number used to open a Contra voucher?",
+        "type": "slider",
+        "min": 2,
+        "max": 9,
+        "correct": 4
+    },
+    {
+        "q": "Which of the following is an Internal Audit requirement supported by Tally?",
+        "type": "mcq",
+        "o": [
+            "Voucher verification with audit stamp",
+            "Mandatory customer feedback",
+            "Inventory barcoding",
+            "Automatic tax filing"
+        ]
+    },
+    {
+        "q": "The 'Interest on Capital' entry is typically passed using a Payment voucher.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which group is used for 'Loss on Sale of Asset'?",
+        "type": "mcq",
+        "o": [
+            "Indirect Expenses",
+            "Direct Expenses",
+            "Fixed Assets",
+            "Current Assets"
+        ]
+    },
+    {
+        "q": "What type of account is 'Patents and Trademarks'?",
+        "type": "mcq",
+        "o": [
+            "Fixed Assets (Intangible)",
+            "Current Assets",
+            "Investments",
+            "Direct Expenses"
+        ]
+    },
+    {
+        "q": "The ______ feature in Tally allows you to restrict back-dated voucher entries for specific users.",
+        "type": "fill_blank",
+        "answers": [
+            "Security Control",
+            "TallyVault"
+        ],
+        "other_options": [
+            "Auto Backup",
+            "Split Company",
+            "Data Synchronization",
+            "Group Company"
+        ]
+    },
+    {
+        "q": "How do you create a 'Discount Allowed' ledger in Tally?",
+        "type": "short_answer",
+        "answers": [
+            "Create Ledger, select 'Indirect Expenses' group"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which item does NOT cause a difference in a Bank Reconciliation Statement?",
+        "type": "odd_one_out",
+        "options": [
+            "Bank Charges levied",
+            "Cheques issued but not presented",
+            "Cheques deposited but not cleared",
+            "Cash sales recorded in Cash Book"
+        ],
+        "correct": "Cash sales recorded in Cash Book"
+    },
+    {
+        "q": "Which of the following is NOT a type of Branch/Division Accounting feature?",
+        "type": "mcq",
+        "o": [
+            "Vertical Depreciation",
+            "Cost Centres",
+            "Profit Centres",
+            "Godowns for inventory"
+        ]
+    },
+    {
+        "q": "The entry for 'Cheque dishonoured' involves debiting the Debtor and crediting Bank.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Match the adjustment entry with its effect on the Profit & Loss Account:",
+        "type": "match",
+        "left": [
+            "Outstanding Expenses",
+            "Prepaid Expenses",
+            "Depreciation",
+            "Accrued Income"
+        ],
+        "right": [
+            "Increases Expense",
+            "Decreases Expense",
+            "Increases Expense",
+            "Increases Income"
+        ]
+    },
+    {
+        "q": "What is the group for 'Goodwill'?",
+        "type": "mcq",
+        "o": [
+            "Fixed Assets",
+            "Current Assets",
+            "Capital Account",
+            "Loans (Asset)"
+        ]
+    },
+    {
+        "q": "The 'Batch-wise' details feature is mainly relevant for which type of business?",
+        "type": "mcq",
+        "o": [
+            "Manufacturing/Distribution with expiry dates",
+            "Service industry only",
+            "Banking sector",
+            "Pure cash retail"
+        ]
+    },
+    {
+        "q": "The short-cut key to access 'Quit' or Exit Tally is Ctrl + Q.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the correct voucher type to record 'Owner's Capital introduced into Bank'?",
+        "type": "mcq",
+        "o": [
+            "Receipt",
+            "Contra",
+            "Journal",
+            "Payment"
+        ]
+    },
+    {
+        "q": "The process of grouping multiple companies under a single entity is called ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Group Company"
+        ],
+        "other_options": [
+            "Consolidation",
+            "Merger",
+            "Split",
+            "Export"
+        ]
+    },
+    {
+        "q": "Describe the function of 'Voucher Type' customization in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "To customize the name, numbering, and printing format of different transaction types"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is NOT an Inventory voucher?",
+        "type": "mcq",
+        "o": [
+            "Contra",
+            "Purchase Order",
+            "Rejection Out",
+            "Stock Journal"
+        ]
+    },
+    {
+        "q": "Match the Report with its characteristic:",
+        "type": "match",
+        "left": [
+            "Trial Balance",
+            "Balance Sheet",
+            "Day Book",
+            "Stock Summary"
+        ],
+        "right": [
+            "List of closing balances",
+            "Financial position at a point",
+            "Chronological voucher list",
+            "Quantity and value of stock"
+        ]
+    },
+    {
+        "q": "Which F-key directly opens the Sales Voucher in Accounting Invoice mode?",
+        "type": "mcq",
+        "o": [
+            "F8",
+            "F5",
+            "F6",
+            "F7"
+        ]
+    },
+    {
+        "q": "A 'Payment' voucher can be used to record the payment of an expense even if no invoice exists.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the effect of 'Use Reversing Journal & Optional Vouchers' in F12?",
+        "type": "mcq",
+        "o": [
+            "Enables auto-reversal of Journal entries",
+            "Allows payment entries to be reversed",
+            "Deletes the selected voucher",
+            "Reverses the reconciliation status"
+        ]
+    },
+    {
+        "q": "The 'Reserves & Surplus' group is used to allocate profits for specific purposes.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Which option is used to migrate data from Tally to other software?",
+        "type": "mcq",
+        "o": [
+            "Export",
+            "Import",
+            "Split",
+            "Backup"
+        ]
+    },
+    {
+        "q": "Match the BRS (Bank Reconciliation Statement) terms to their meanings.",
+        "type": "memory",
+        "pairs": {
+            "Balance as per company": "Cash Book",
+            "Balance as per bank": "Pass Book",
+            "Unpresented cheque": "Issued but not cleared",
+            "Uncredited cheque": "Deposited but not cleared"
+        }
+    },
+    {
+        "q": "The short-cut to change the Date in any report or voucher is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "F2"
+        ],
+        "other_options": [
+            "Alt + F2",
+            "Ctrl + F2",
+            "F1",
+            "Alt + D"
+        ]
+    },
+    {
+        "q": "What is the shortcut to access the 'Exception Reports'?",
+        "type": "short_answer",
+        "answers": [
+            "Gateway of Tally > Display > Exception Reports"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which ledger is credited when 'Goods destroyed by fire'?",
+        "type": "mcq",
+        "o": [
+            "Purchase/Trading Account",
+            "Loss by Fire Account",
+            "Cash Account",
+            "Sales Account"
+        ]
+    },
+    {
+        "q": "Match the Accounting Principle with the corresponding Tally Feature:",
+        "type": "match",
+        "left": [
+            "Going Concern",
+            "Accrual",
+            "Consistency",
+            "Prudence"
+        ],
+        "right": [
+            "Recording Depreciation",
+            "Outstanding Expense Journal",
+            "Same depreciation method",
+            "Provision for Doubtful Debts"
+        ]
+    },
+    {
+        "q": "Swipe LEFT if recorded first in Cash Book, RIGHT if first in Pass Book.",
+        "type": "swipe_cards",
+        "left_label": "Cash Book First",
+        "right_label": "Pass Book First",
+        "cards": {
+            "Cheque issued to vendor": "left",
+            "Bank charges deducted": "right",
+            "Cheque deposited in bank": "left",
+            "Direct deposit by customer": "right"
+        }
+    },
+    {
+        "q": "The 'Bill of Materials' feature in Tally is used to define:",
+        "type": "mcq",
+        "o": [
+            "Components required to manufacture a finished good",
+            "Billing address of customers",
+            "Tax calculation methods",
+            "Voucher numbering methods"
+        ]
+    },
+    {
+        "q": "Unscramble the word: Process of matching bank statement with company records.",
+        "type": "word_scramble",
+        "answer": "RECONCILE",
+        "decoys": "BCD"
+    },
+    {
+        "q": "It is mandatory to maintain 'Bill-wise' details for Cash ledger.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which group is used for 'Unsecured Loans' given by the company?",
+        "type": "mcq",
+        "o": [
+            "Loans (Asset)",
+            "Current Liabilities",
+            "Secured Loans",
+            "Capital Account"
+        ]
+    },
+    {
+        "q": "The option 'Use for Post-Dated Transactions' is found in the ______ configuration.",
+        "type": "fill_blank",
+        "answers": [
+            "Bank Ledger"
+        ],
+        "other_options": [
+            "Voucher Type",
+            "Inventory",
+            "Group",
+            "Tax"
+        ]
+    },
+    {
+        "q": "Explain the 'Dr/Cr' mode of voucher entry.",
+        "type": "short_answer",
+        "answers": [
+            "A mode where you directly specify the debit or credit effect of each line item"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Unscramble the word: The short description written at the bottom of a voucher.",
+        "type": "word_scramble",
+        "answer": "NARRATION",
+        "decoys": "VXZ"
+    },
+    {
+        "q": "What is the primary use of the 'Stock Journal' voucher?",
+        "type": "mcq",
+        "o": [
+            "To transfer stock between godowns or adjust quantities",
+            "To record purchases",
+            "To record manufacturing output",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "The default number of decimal places for currency in Tally is 2.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Which voucher records the purchase of fixed assets on credit?",
+        "type": "mcq",
+        "o": [
+            "Journal",
+            "Purchase",
+            "Payment",
+            "Contra"
+        ]
+    },
+    {
+        "q": "Complete the sentence about BRS:",
+        "type": "inline_dropdown",
+        "text": "Bank Reconciliation is done to match the [0] balance with the official [1] statement.",
+        "dropdowns": [
+            {
+                "correct": "Company Book",
+                "options": [
+                    "Company Book",
+                    "Creditor Book",
+                    "Debtor Book"
+                ]
+            },
+            {
+                "correct": "Bank Passbook",
+                "options": [
+                    "Bank Passbook",
+                    "Tax",
+                    "Audit"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which menu is used to create a new 'Voucher Type'?",
+        "type": "mcq",
+        "o": [
+            "Accounts Info. > Voucher Type > Create",
+            "Inventory Info. > Voucher Type",
+            "Gateway of Tally > Display",
+            "Banking > Voucher Type"
+        ]
+    },
+    {
+        "q": "Complete the sentence on cheque reversals:",
+        "type": "inline_dropdown",
+        "text": "A cheque bounce requires reversing the original [0] entry using a [1] voucher.",
+        "dropdowns": [
+            {
+                "correct": "Receipt",
+                "options": [
+                    "Receipt",
+                    "Payment",
+                    "Journal"
+                ]
+            },
+            {
+                "correct": "Payment",
+                "options": [
+                    "Payment",
+                    "Contra",
+                    "Receipt"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The short-cut key to import data in Tally is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Ctrl + Alt + I"
+        ],
+        "other_options": [
+            "Alt + I",
+            "Ctrl + I",
+            "Alt + O",
+            "Ctrl + O"
+        ]
+    },
+    {
+        "q": "The 'Interest on Loan' ledger is usually placed under Indirect Expenses.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the Ledger Field with its description:",
+        "type": "match",
+        "left": [
+            "Alias",
+            "Under Group",
+            "Mailing Details",
+            "Opening Balance"
+        ],
+        "right": [
+            "Alternative name",
+            "Classification",
+            "Address etc.",
+            "Initial financial standing"
+        ]
+    },
+    {
+        "q": "What is the function key number used to open a Journal voucher?",
+        "type": "slider",
+        "min": 4,
+        "max": 10,
+        "correct": 7
+    },
+    {
+        "q": "What is the function of 'TallyVault'?",
+        "type": "short_answer",
+        "answers": [
+            "To encrypt company data for security"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a valid Inventory Voucher type?",
+        "type": "mcq",
+        "o": [
+            "Rejection In",
+            "Contra",
+            "Receipt",
+            "Journal"
+        ]
+    },
+    {
+        "q": "Which of the following entries is typically passed to adjust 'Manager's Commission'?",
+        "type": "mcq",
+        "o": [
+            "Journal Voucher debiting P&L and crediting Commission Payable",
+            "Payment Voucher",
+            "Contra Voucher",
+            "Receipt Voucher"
+        ]
+    },
+    {
+        "q": "The 'Export' function is used to create a backup of the data.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the default Statutory Compliance feature in Tally for India?",
+        "type": "mcq",
+        "o": [
+            "GST",
+            "VAT",
+            "Service Tax",
+            "CST"
+        ]
+    },
+    {
+        "q": "The 'Voucher Numbering' style of a specific type can be changed in the Voucher Type ______ screen.",
+        "type": "fill_blank",
+        "answers": [
+            "Alter",
+            "Modify"
+        ],
+        "other_options": [
+            "Create",
+            "Delete",
+            "Display",
+            "Configuration"
+        ]
+    },
+    {
+        "q": "Match the shortcut with the period change feature:",
+        "type": "match",
+        "left": [
+            "F2",
+            "Alt + F2"
+        ],
+        "right": [
+            "Change Date",
+            "Change Period"
+        ]
+    },
+    {
+        "q": "Which report helps in identifying the slow-moving or non-moving stock items?",
+        "type": "mcq",
+        "o": [
+            "Stock Summary / Movement Analysis",
+            "Day Book",
+            "Outstanding Statement",
+            "Trial Balance"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a default accounting voucher in Tally?",
+        "type": "odd_one_out",
+        "options": [
+            "Contra",
+            "Journal",
+            "Sales",
+            "Depreciation"
+        ],
+        "correct": "Depreciation"
+    },
+    {
+        "q": "What is the shortcut to toggle between 'Single Entry' and 'Double Entry' mode?",
+        "type": "short_answer",
+        "answers": [
+            "F12"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The 'Cheque Printing' option in Ledger Master is enabled for Bank Ledgers.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Match the adjustment to the voucher type used in Tally.",
+        "type": "memory",
+        "pairs": {
+            "Depreciation": "Journal",
+            "Salary Paid": "Payment",
+            "Interest Received": "Receipt",
+            "Cash to Bank": "Contra"
+        }
+    },
+    {
+        "q": "Which group is suitable for creating a 'Telephone Deposit' ledger?",
+        "type": "mcq",
+        "o": [
+            "Current Assets",
+            "Indirect Expenses",
+            "Fixed Assets",
+            "Direct Expenses"
+        ]
+    },
+    {
+        "q": "In Tally, 'E-Way Bill' generation is integrated directly into the Sales Invoice screen.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the Accounting Voucher for entering initial stock quantities?",
+        "type": "mcq",
+        "o": [
+            "Stock Journal",
+            "Purchase",
+            "Receipt",
+            "Journal"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of creating 'Cost Categories' in Tally?",
+        "type": "mcq",
+        "o": [
+            "To allocate costs across parallel dimensions like Department and Project simultaneously",
+            "To manage inventory valuation methods",
+            "To classify ledgers into groups",
+            "To reconcile bank statements"
+        ]
+    },
+    {
+        "q": "Explain the difference between 'Cost Centre' and 'Cost Category' in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "Cost Centre is a single dimension of cost allocation, Cost Category allows parallel allocation across multiple dimensions"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which voucher type is used to record Goods sent on approval basis?",
+        "type": "mcq",
+        "o": [
+            "Delivery Note",
+            "Sales Order",
+            "Journal",
+            "Payment"
+        ]
+    },
+    {
+        "q": "Swipe LEFT for Provisions, RIGHT for Reserves.",
+        "type": "swipe_cards",
+        "left_label": "Provision",
+        "right_label": "Reserve",
+        "cards": {
+            "Provision for Bad Debts": "left",
+            "General Reserve": "right",
+            "Provision for Tax": "left",
+            "Capital Reserve": "right"
+        }
+    },
+    {
+        "q": "Swipe LEFT for Capital Expenditure, RIGHT for Revenue Expenditure.",
+        "type": "swipe_cards",
+        "left_label": "Capital Exp",
+        "right_label": "Revenue Exp",
+        "cards": {
+            "Purchasing a new Server": "left",
+            "Server Maintenance Contract": "right",
+            "Building Extension": "left",
+            "Monthly Office Rent": "right"
+        }
+    },
+    {
+        "q": "The feature 'Maintain Multiple Godowns' is enabled under ______.",
+        "type": "fill_blank",
+        "answers": [
+            "F11: Inventory Features"
+        ],
+        "other_options": [
+            "F12: Configure",
+            "Company Creation",
+            "Ledger Creation",
+            "Stock Item Creation"
+        ]
+    },
+    {
+        "q": "Tally can automatically calculate TDS on vendor payments based on predefined rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the Statutory Feature with its Configuration Path in Tally:",
+        "type": "match",
+        "left": [
+            "GST",
+            "TDS",
+            "TCS",
+            "Payroll"
+        ],
+        "right": [
+            "F11 > Statutory & Taxation",
+            "F11 > Statutory & Taxation",
+            "F11 > Statutory & Taxation",
+            "F11 > Payroll"
+        ]
+    },
+    {
+        "q": "Unscramble the word: To reduce the book value of a fixed asset.",
+        "type": "word_scramble",
+        "answer": "DEPRECIATE",
+        "decoys": "XZ"
+    },
+    {
+        "q": "What is the effect of activating 'Use Debit/Credit Notes' in F11?",
+        "type": "mcq",
+        "o": [
+            "Enables separate voucher types for Purchase Returns and Sales Returns",
+            "Disables the Journal voucher",
+            "Enables auto-bank reconciliation",
+            "Forces bill-wise entry for all ledgers"
+        ]
+    },
+    {
+        "q": "Which report shows the input tax credit available and output tax liability for a GST period?",
+        "type": "mcq",
+        "o": [
+            "GSTR-3B Report",
+            "Trial Balance",
+            "Cash Flow",
+            "Stock Summary"
+        ]
+    },
+    {
+        "q": "The 'Zero-Valued Entries' feature in vouchers is used to record transactions with nil monetary value.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Unscramble the word: A document used to record a financial transaction.",
+        "type": "word_scramble",
+        "answer": "VOUCHER",
+        "decoys": "BLM"
+    },
+    {
+        "q": "Complete the sentence for adjusting asset values:",
+        "type": "inline_dropdown",
+        "text": "To record depreciation, pass an entry in the [0] voucher using the [1] key.",
+        "dropdowns": [
+            {
+                "correct": "Journal",
+                "options": [
+                    "Journal",
+                    "Contra",
+                    "Receipt"
+                ]
+            },
+            {
+                "correct": "F7",
+                "options": [
+                    "F7",
+                    "F4",
+                    "F8"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which of the following is a valid 'Voucher Class' for Payment vouchers?",
+        "type": "mcq",
+        "o": [
+            "TDS Payment",
+            "GST Sales",
+            "Purchase Order",
+            "Contra Transfer"
+        ]
+    },
+    {
+        "q": "The 'Budget' feature in Tally allows variance analysis against actuals.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the Voucher Class with its appropriate use:",
+        "type": "match",
+        "left": [
+            "Sales Voucher Class",
+            "Purchase Voucher Class",
+            "Payment Voucher Class"
+        ],
+        "right": [
+            "GST Sales Invoice",
+            "GST Purchase Invoice",
+            "TDS Payment Entry"
+        ]
+    },
+    {
+        "q": "What is the shortcut key to open the 'Scenario' management screen?",
+        "type": "short_answer",
+        "answers": [
+            "Alt + F5",
+            "Gateway of Tally > Accounts Info. > Scenarios"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which ledger group is used for 'GST Payable'?",
+        "type": "mcq",
+        "o": [
+            "Duties & Taxes",
+            "Current Assets",
+            "Direct Expenses",
+            "Sales Accounts"
+        ]
+    },
+    {
+        "q": "Complete the sentence on period-end adjustments:",
+        "type": "inline_dropdown",
+        "text": "Outstanding salary is grouped under [0], whereas prepaid rent is classified as a [1].",
+        "dropdowns": [
+            {
+                "correct": "Current Liabilities",
+                "options": [
+                    "Current Liabilities",
+                    "Indirect Expenses",
+                    "Fixed Assets"
+                ]
+            },
+            {
+                "correct": "Current Asset",
+                "options": [
+                    "Current Asset",
+                    "Current Liability",
+                    "Capital"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "In Tally, 'Input GST' and 'Output GST' ledgers must be placed under the same group.",
+        "type": "mcq",
+        "o": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "q": "The ______ voucher type is used to record the reversal of a Debit Note.",
+        "type": "fill_blank",
+        "answers": [
+            "Credit Note"
+        ],
+        "other_options": [
+            "Journal",
+            "Contra",
+            "Receipt",
+            "Sales Return"
+        ]
+    },
+    {
+        "q": "What is the function key number used to open a Receipt voucher?",
+        "type": "slider",
+        "min": 4,
+        "max": 9,
+        "correct": 6
+    },
+    {
+        "q": "Explain the function of 'Optional Vouchers' in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "To record provisional entries that can be later regularized or removed from books"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following can be defined in a 'Voucher Class'?",
+        "type": "mcq",
+        "o": [
+            "Automatic tax calculation rules",
+            "Company address",
+            "Inventory godown details",
+            "User password"
+        ]
+    },
+    {
+        "q": "Which menu is used to activate 'Interest Calculation' on outstanding balances?",
+        "type": "mcq",
+        "o": [
+            "F11 > Accounting Features > Interest Calculation",
+            "F12 > Voucher Entry",
+            "Accounts Info. > Ledger",
+            "Banking > Interest"
+        ]
+    },
+    {
+        "q": "Match the Scenario type with the data it modifies:",
+        "type": "match",
+        "left": [
+            "Actuals",
+            "Budgeted",
+            "Revised Estimates",
+            "Forecast"
+        ],
+        "right": [
+            "Real transactions",
+            "Planned amounts",
+            "Updated plan",
+            "Projected future"
+        ]
+    },
+    {
+        "q": "The 'Payroll' module in Tally handles Employee categories and salary structures.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the correct sequence to set up TDS in Tally?",
+        "type": "mcq",
+        "o": [
+            "Enable TDS in F11, create TDS ledgers, create TDS Voucher Class",
+            "Create Voucher first, then enable TDS",
+            "TDS is automatic in all ledgers",
+            "Create a Journal entry"
+        ]
+    },
+    {
+        "q": "Which group is appropriate for creating an 'Advance Tax' ledger?",
+        "type": "mcq",
+        "o": [
+            "Current Assets",
+            "Duties & Taxes",
+            "Indirect Expenses",
+            "Provisions"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a Current Asset?",
+        "type": "odd_one_out",
+        "options": [
+            "Cash-in-hand",
+            "Bank Accounts",
+            "Sundry Debtors",
+            "Capital Account"
+        ],
+        "correct": "Capital Account"
+    },
+    {
+        "q": "Match the Bill-wise detail flags to their purpose.",
+        "type": "memory",
+        "pairs": {
+            "New Ref": "Creating a new bill",
+            "Agst Ref": "Adjusting an existing bill",
+            "Advance": "Receiving/Paying beforehand",
+            "On Account": "Lump sum without bill allocation"
+        }
+    },
+    {
+        "q": "The 'Separate Discount Column' feature in Invoice mode is enabled via ______.",
+        "type": "fill_blank",
+        "answers": [
+            "F12: Configure"
+        ],
+        "other_options": [
+            "F11: Features",
+            "Voucher Type Alteration",
+            "Ledger Creation",
+            "Company Creation"
+        ]
+    },
+    {
+        "q": "What is the shortcut to apply 'Auto Filling' of columns in a voucher?",
+        "type": "short_answer",
+        "answers": [
+            "Alt + J"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Swipe LEFT for Sundry Debtors, RIGHT for Sundry Creditors.",
+        "type": "swipe_cards",
+        "left_label": "Debtors",
+        "right_label": "Creditors",
+        "cards": {
+            "Customers": "left",
+            "Suppliers": "right",
+            "Clients": "left",
+            "Vendors": "right"
+        }
+    },
+    {
+        "q": "How does Tally handle 'Reverse Charge Mechanism' under GST?",
+        "type": "mcq",
+        "o": [
+            "By enabling 'Is Reverse Charge' in Purchase Voucher Class",
+            "By creating a separate company",
+            "By using Contra voucher",
+            "It is not supported in Tally"
+        ]
+    },
+    {
+        "q": "The 'Cash Flow' report is a statutory requirement for all companies in Tally.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following is NOT a preset Payroll component?",
+        "type": "mcq",
+        "o": [
+            "Stock Transfer",
+            "Basic Pay",
+            "Dearness Allowance",
+            "Provident Fund"
+        ]
+    },
+    {
+        "q": "Match the Payroll Ledger with its typical Group:",
+        "type": "match",
+        "left": [
+            "Salaries Expense",
+            "PF Payable",
+            "ESI Payable",
+            "Employee Advance"
+        ],
+        "right": [
+            "Indirect Expenses",
+            "Current Liabilities",
+            "Current Liabilities",
+            "Loans & Advances (Asset)"
+        ]
+    },
+    {
+        "q": "Unscramble the word: A customer who owes money to your business.",
+        "type": "word_scramble",
+        "answer": "DEBTOR",
+        "decoys": "JKP"
+    },
+    {
+        "q": "The 'Point of Sale' feature in Tally is designed for retail billing.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What is the purpose of 'Tracking Numbers' in inventory?",
+        "type": "mcq",
+        "o": [
+            "To track serial numbers or batch numbers of stock items",
+            "To number vouchers automatically",
+            "To track customer IDs",
+            "To generate PIN codes"
+        ]
+    },
+    {
+        "q": "Unscramble the word: A supplier to whom your business owes money.",
+        "type": "word_scramble",
+        "answer": "CREDITOR",
+        "decoys": "TYU"
+    },
+    {
+        "q": "To generate GSTR-2B reconciliation, Tally provides the ______ report.",
+        "type": "fill_blank",
+        "answers": [
+            "Input Tax Credit Reconciliation"
+        ],
+        "other_options": [
+            "Output Tax Summary",
+            "Day Book",
+            "Balance Sheet",
+            "Audit Trail"
+        ]
+    },
+    {
+        "q": "Explain the function of 'Tally Audit' feature.",
+        "type": "short_answer",
+        "answers": [
+            "To track changes made to vouchers after they are entered, including alterations and deletions"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the effect of setting 'Rounding Method' in an Invoice?",
+        "type": "mcq",
+        "o": [
+            "It automatically adjusts the total to the nearest rupee or specified rounding",
+            "It rounds off quantities only",
+            "It disables decimal places",
+            "It changes currency"
+        ]
+    },
+    {
+        "q": "Which of the following voucher modes supports 'Batch-wise' entry?",
+        "type": "mcq",
+        "o": [
+            "As Invoice",
+            "As Voucher",
+            "Both A and B",
+            "Only Journal"
+        ]
+    },
+    {
+        "q": "The 'Rejection Out' voucher records goods returned to a supplier.",
+        "type": "mcq",
+        "o": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "q": "Complete the sentence on third-party ledgers:",
+        "type": "inline_dropdown",
+        "text": "When creating a supplier ledger, group it under [0]. For a customer, use [1].",
+        "dropdowns": [
+            {
+                "correct": "Sundry Creditors",
+                "options": [
+                    "Sundry Creditors",
+                    "Sundry Debtors",
+                    "Provisions"
+                ]
+            },
+            {
+                "correct": "Sundry Debtors",
+                "options": [
+                    "Sundry Debtors",
+                    "Sundry Creditors",
+                    "Bank Accounts"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Match the Tally Export format with its use:",
+        "type": "match",
+        "left": [
+            "XML",
+            "Excel",
+            "PDF",
+            "UDF"
+        ],
+        "right": [
+            "Data interchange",
+            "Spreadsheet reporting",
+            "Document printing",
+            "User Defined Fields"
+        ]
+    },
+    {
+        "q": "Which menu path allows you to set 'Security Levels' for users?",
+        "type": "mcq",
+        "o": [
+            "Company Info > Security Control > Users and Passwords",
+            "F11 Features",
+            "Accounts Info > Voucher Types",
+            "Gateway of Tally > Display"
+        ]
+    },
+    {
+        "q": "What is the correct Voucher to record 'Excise Duty Payable' on manufactured goods?",
+        "type": "short_answer",
+        "answers": [
+            "Journal"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The 'Multi-Currency' feature in Tally is enabled in the Company Creation screen.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Which report shows the Profit/Loss of each Cost Centre separately?",
+        "type": "mcq",
+        "o": [
+            "Cost Centre Breakup in P&L",
+            "Balance Sheet",
+            "Stock Summary",
+            "Day Book"
+        ]
+    },
+    {
+        "q": "Complete the sentence regarding bill allocation:",
+        "type": "inline_dropdown",
+        "text": "Bill-wise details require you to select [0] when paying an existing invoice, or [1] for a prepayment.",
+        "dropdowns": [
+            {
+                "correct": "Agst Ref",
+                "options": [
+                    "Agst Ref",
+                    "New Ref",
+                    "On Account"
+                ]
+            },
+            {
+                "correct": "Advance",
+                "options": [
+                    "Advance",
+                    "New Ref",
+                    "Agst Ref"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The ______ voucher is used to record internal consumption of goods.",
+        "type": "fill_blank",
+        "answers": [
+            "Stock Journal"
+        ],
+        "other_options": [
+            "Rejection Out",
+            "Purchase",
+            "Sales",
+            "Receipt Note"
+        ]
+    },
+    {
+        "q": "What is the function key number used to open a Sales voucher?",
+        "type": "slider",
+        "min": 5,
+        "max": 10,
+        "correct": 8
+    },
+    {
+        "q": "The 'Auto Cost Calculation' feature in Manufacturing Journal automatically calculates the finished good cost.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a mandatory step before deleting a Ledger?",
+        "type": "mcq",
+        "o": [
+            "Delete all vouchers where the ledger is used",
+            "Just alter the name",
+            "Backup is not required",
+            "Delete the company"
+        ]
+    },
+    {
+        "q": "Match the Manufacturing Vouchers with their functions:",
+        "type": "match",
+        "left": [
+            "Bill of Materials",
+            "Manufacturing Journal",
+            "Stock Journal"
+        ],
+        "right": [
+            "Defines components",
+            "Records production and consumption",
+            "Transfer/Wastage of stock"
+        ]
+    },
+    {
+        "q": "Which of these is NOT a Direct Expense?",
+        "type": "odd_one_out",
+        "options": [
+            "Wages",
+            "Carriage Inward",
+            "Factory Power",
+            "Office Salary"
+        ],
+        "correct": "Office Salary"
+    },
+    {
+        "q": "What is the purpose of 'Data Synchronization' in Tally?",
+        "type": "mcq",
+        "o": [
+            "To update data between two locations",
+            "To delete old data",
+            "To convert currency",
+            "To compress data size"
+        ]
+    },
+    {
+        "q": "Match the inventory vouchers to their shortcuts.",
+        "type": "memory",
+        "pairs": {
+            "Purchase": "F9",
+            "Sales": "F8",
+            "Delivery Note": "Alt+F8",
+            "Receipt Note": "Alt+F9"
+        }
+    },
+    {
+        "q": "Explain the concept of 'Negative Stock' in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "When stock quantity goes below zero due to billing before entry of purchase"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is NOT an option in 'F12: Configure' for Sales Voucher?",
+        "type": "mcq",
+        "o": [
+            "Enable Cost Centre",
+            "Show Inventory Details",
+            "Show Accounting Details",
+            "Company Tax Identification"
+        ]
+    },
+    {
+        "q": "The 'Job Costing' feature is implemented using Cost Centres.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which field in Stock Item creation allows linking to a Trading Account?",
+        "type": "mcq",
+        "o": [
+            "Stock Group",
+            "Units",
+            "Opening Balance",
+            "Rate of Duty"
+        ]
+    },
+    {
+        "q": "Match the voucher modes to their characteristics.",
+        "type": "memory",
+        "pairs": {
+            "Single Entry Mode": "One Credit/Debit prompt",
+            "Double Entry Mode": "Multiple Dr/Cr allowed",
+            "As Invoice Mode": "Shows Rate and Amount columns"
+        }
+    },
+    {
+        "q": "To record 'Pure Agent' transactions in GST, you typically use a Journal Voucher with specific configurations.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "The shortcut to quickly enter 'Narration' during voucher entry is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Alt + R"
+        ],
+        "other_options": [
+            "Ctrl + N",
+            "F5",
+            "F9",
+            "F6"
+        ]
+    },
+    {
+        "q": "Match the Security Level with its permission:",
+        "type": "match",
+        "left": [
+            "Owner",
+            "Data Entry",
+            "Auditor",
+            "Manager"
+        ],
+        "right": [
+            "Full Access",
+            "Voucher Entry Only",
+            "View and Verify",
+            "Reports and Minor Alterations"
+        ]
+    },
+    {
+        "q": "Swipe LEFT for Receipt Voucher, RIGHT for Sales Voucher.",
+        "type": "swipe_cards",
+        "left_label": "Receipt",
+        "right_label": "Sales",
+        "cards": {
+            "Cash received from Customer": "left",
+            "Goods sold on credit": "right",
+            "Interest received from Bank": "left",
+            "Goods sold for cash": "right"
+        }
+    },
+    {
+        "q": "What is the shortcut to import a Bank Statement for Auto Reconciliation?",
+        "type": "short_answer",
+        "answers": [
+            "Ctrl + O",
+            "Ctrl + Alt + I"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which inventory valuation method is NOT directly available in Tally?",
+        "type": "mcq",
+        "o": [
+            "LIFO",
+            "FIFO",
+            "Average Cost",
+            "At Zero Cost"
+        ]
+    },
+    {
+        "q": "The 'Percentage-based' grouping in Cost Centres allows proportional allocation of expenses.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Which of the following vouchers is used to record a Tax Payment to the Government?",
+        "type": "mcq",
+        "o": [
+            "Payment Voucher",
+            "Journal Voucher",
+            "Contra Voucher",
+            "Purchase Voucher"
+        ]
+    },
+    {
+        "q": "In Tally, 'Service Tax' or 'GST' on services is automatically calculated based on the ______ defined in the Sales Ledger.",
+        "type": "fill_blank",
+        "answers": [
+            "Nature of Services"
+        ],
+        "other_options": [
+            "Stock Item",
+            "Voucher Number",
+            "Invoice Print",
+            "Company Address"
+        ]
+    },
+    {
+        "q": "The 'Accounts Receivable' report shows the list of Bills outstanding from Sundry Debtors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble the word: Goods that remain unsold at the end of the year.",
+        "type": "word_scramble",
+        "answer": "STOCK",
+        "decoys": "QWR"
+    },
+    {
+        "q": "Which menu is used to create a new 'Employee Group'?",
+        "type": "mcq",
+        "o": [
+            "Payroll Info > Employee Groups",
+            "Accounts Info > Groups",
+            "Inventory Info",
+            "F11 Features"
+        ]
+    },
+    {
+        "q": "What is the function of 'Physcial Stock Voucher'?",
+        "type": "mcq",
+        "o": [
+            "To record the actual physical stock count and adjust variances",
+            "To record purchases",
+            "To delete stock items",
+            "To reconcile bank"
+        ]
+    },
+    {
+        "q": "Unscramble the word: Voucher used for goods sent back to a supplier.",
+        "type": "word_scramble",
+        "answer": "RETURN",
+        "decoys": "XZC"
+    },
+    {
+        "q": "Match the Currency Type with its symbol handling in Tally:",
+        "type": "match",
+        "left": [
+            "Base Currency",
+            "Foreign Currency",
+            "Multi-Currency"
+        ],
+        "right": [
+            "Default company currency",
+            "Tracks exchange rate",
+            "Allows multiple currency ledgers"
+        ]
+    },
+    {
+        "q": "Explain the 'Audit Trail' or 'Tally Audit' listing.",
+        "type": "short_answer",
+        "answers": [
+            "A report showing all modifications, deletions, and insertions of vouchers with user details"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is necessary to print a 'Form 16' for employees?",
+        "type": "mcq",
+        "o": [
+            "Payroll Module configuration",
+            "Inventory Module enabled",
+            "GST enabled",
+            "TallyVault password"
+        ]
+    },
+    {
+        "q": "The 'Mark as Reconciled' option can be manually toggled using the Spacebar in Bank Reconciliation.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What is the primary use of the 'Job Costing' module?",
+        "type": "mcq",
+        "o": [
+            "To track revenue and expenses for specific projects or jobs",
+            "To calculate employee salaries",
+            "To reconcile bank statements",
+            "To manage inventory levels"
+        ]
+    },
+    {
+        "q": "The configuration 'Use Common Ledger A/c for Item Allocation' is found in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "F12: Invoice Configuration"
+        ],
+        "other_options": [
+            "F11: Features",
+            "Voucher Alteration",
+            "Ledger Master",
+            "Company Creation"
+        ]
+    },
+    {
+        "q": "The 'Supplementary Details' function allows you to attach additional text to a voucher.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is an Accounting Voucher type used for year-end adjustments?",
+        "type": "mcq",
+        "o": [
+            "Journal",
+            "Sales Order",
+            "Receipt Note",
+            "Rejection In"
+        ]
+    },
+    {
+        "q": "Match the GST Ledger with its Nature of Transaction:",
+        "type": "match",
+        "left": [
+            "Input SGST",
+            "Output CGST",
+            "Input IGST",
+            "Output IGST"
+        ],
+        "right": [
+            "Asset (Tax Credit)",
+            "Liability (Tax Payable)",
+            "Asset (Tax Credit)",
+            "Liability (Tax Payable)"
+        ]
+    },
+    {
+        "q": "What is the shortcut to cancel a line item during voucher entry?",
+        "type": "short_answer",
+        "answers": [
+            "Alt + X",
+            "Ctrl + X"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which option must be enabled to record 'Discount' as a separate line item in an Invoice?",
+        "type": "mcq",
+        "o": [
+            "Separate Discount Column in F12",
+            "Bill-wise details in F11",
+            "Zero-valued entries",
+            "Use for Job Costing"
+        ]
+    },
+    {
+        "q": "The 'Manufacturing Date' and 'Expiry Date' are tracked using the 'Mfg Date' feature in Batches.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Which report provides the details of Tax Deducted at Source (TDS) deducted and payable?",
+        "type": "mcq",
+        "o": [
+            "TDS Computation Report",
+            "GSTR-1",
+            "Cash Flow",
+            "Funds Flow"
+        ]
+    },
+    {
+        "q": "The short-cut key to view the outstanding list of a specific Sundry Debtor is Alt + F5.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What is the correct voucher to record 'Cheque Dishonour' charges levied by the bank?",
+        "type": "mcq",
+        "o": [
+            "Journal or Payment",
+            "Contra",
+            "Receipt",
+            "Purchase"
+        ]
+    },
+    {
+        "q": "The ______ feature in Tally requires the user to define 'Units of Measure' for each item.",
+        "type": "fill_blank",
+        "answers": [
+            "Inventory"
+        ],
+        "other_options": [
+            "Payroll",
+            "Accounting",
+            "Taxation",
+            "Banking"
+        ]
+    },
+    {
+        "q": "Explain the term 'Godown' in Tally Inventory.",
+        "type": "short_answer",
+        "answers": [
+            "A location or bin where stock items are physically stored"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following groups is a Reserve/Surplus account?",
+        "type": "mcq",
+        "o": [
+            "General Reserve",
+            "Sundry Debtors",
+            "Loans (Asset)",
+            "Bank Accounts"
+        ]
+    },
+    {
+        "q": "The 'Tracking Number' feature is applicable only for finished goods.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which menu path is correct for displaying the 'Funds Flow' statement?",
+        "type": "mcq",
+        "o": [
+            "Display > Cash/Funds Flow > Funds Flow",
+            "Accounts Info > Funds Flow",
+            "Banking > Funds Flow",
+            "Inventory > Funds Flow"
+        ]
+    },
+    {
+        "q": "Complete the sentence regarding asset purchases:",
+        "type": "inline_dropdown",
+        "text": "When purchasing machinery on credit, the entry is passed in a [0] voucher, crediting the [1] account.",
+        "dropdowns": [
+            {
+                "correct": "Journal",
+                "options": [
+                    "Journal",
+                    "Purchase",
+                    "Payment"
+                ]
+            },
+            {
+                "correct": "Supplier",
+                "options": [
+                    "Supplier",
+                    "Cash",
+                    "Machinery"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Match the Data Management option with its function:",
+        "type": "match",
+        "left": [
+            "Backup",
+            "Restore",
+            "Split",
+            "Repair"
+        ],
+        "right": [
+            "Copy data to safe location",
+            "Retrieve backed up data",
+            "Divide data by date",
+            "Fix corrupted data"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'GST Rate Setup' utility?",
+        "type": "mcq",
+        "o": [
+            "To apply HSN/SAC-wise GST rates to stock items and ledgers",
+            "To create new ledgers",
+            "To print cheques",
+            "To calculate salaries"
+        ]
+    },
+    {
+        "q": "The 'Interest Calculation' feature can only charge simple interest.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Complete the sentence regarding unknown entries:",
+        "type": "inline_dropdown",
+        "text": "The primary group 'Suspense A/c' is used for [0] discrepancies and is shown in the [1].",
+        "dropdowns": [
+            {
+                "correct": "Trial Balance",
+                "options": [
+                    "Trial Balance",
+                    "Bank",
+                    "Cash"
+                ]
+            },
+            {
+                "correct": "Balance Sheet",
+                "options": [
+                    "Balance Sheet",
+                    "P&L",
+                    "Daybook"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the function key number used to open a Purchase voucher?",
+        "type": "slider",
+        "min": 6,
+        "max": 12,
+        "correct": 9
+    },
+    {
+        "q": "Which key is used to accept a screen or form in Tally universally?",
+        "type": "short_answer",
+        "answers": [
+            "Enter",
+            "Ctrl + Enter"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which voucher type is used to adjust excess payment made to a supplier against a future bill?",
+        "type": "mcq",
+        "o": [
+            "Journal or Receipt depending on set-off",
+            "Contra",
+            "Purchase Order",
+            "Stock Journal"
+        ]
+    },
+    {
+        "q": "Which of the following does NOT belong under Duties & Taxes?",
+        "type": "odd_one_out",
+        "options": [
+            "GST",
+            "VAT",
+            "TDS",
+            "Bank Charges"
+        ],
+        "correct": "Bank Charges"
+    },
+    {
+        "q": "In Tally, 'Cost Break-up' can be viewed during Sales Invoice entry if configured.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "The ______ report is essential for filing GST returns as it captures outward supplies.",
+        "type": "fill_blank",
+        "answers": [
+            "GSTR-1"
+        ],
+        "other_options": [
+            "GSTR-2A",
+            "GSTR-3B",
+            "Trial Balance",
+            "Cash Flow"
+        ]
+    },
+    {
+        "q": "Match the Statutory Return with its filing frequency:",
+        "type": "match",
+        "left": [
+            "GSTR-1",
+            "GSTR-3B",
+            "TDS Return",
+            "ITR"
+        ],
+        "right": [
+            "Monthly/Quarterly",
+            "Monthly/Quarterly",
+            "Quarterly",
+            "Annually"
+        ]
+    },
+    {
+        "q": "What is the function of the 'Print Preview' option in vouchers?",
+        "type": "mcq",
+        "o": [
+            "To display the physical invoice layout before printing",
+            "To edit the voucher",
+            "To delete the voucher",
+            "To change the date"
+        ]
+    },
+    {
+        "q": "The 'Multi-Address' feature for a ledger is enabled in the Ledger Alteration mode.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the tax abbreviations used in Tally.",
+        "type": "memory",
+        "pairs": {
+            "TDS": "Tax Deducted at Source",
+            "TCS": "Tax Collected at Source",
+            "GST": "Goods and Services Tax",
+            "VAT": "Value Added Tax"
+        }
+    },
+    {
+        "q": "Which of the following is NOT a type of Post-dated Transaction?",
+        "type": "mcq",
+        "o": [
+            "Stock Reservation",
+            "Post-dated Cheque Received",
+            "Post-dated Cheque Issued",
+            "Post-dated Bill"
+        ]
+    },
+    {
+        "q": "What is the shortcut to insert a new voucher before the current one in Day Book?",
+        "type": "short_answer",
+        "answers": [
+            "Alt + I"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the purpose of 'Sub-Groups' in Tally's Chart of Accounts?",
+        "type": "mcq",
+        "o": [
+            "To create a hierarchical classification under a primary group for detailed reporting",
+            "To replace primary groups entirely",
+            "To store inventory data only",
+            "To manage multiple currencies"
+        ]
+    },
+    {
+        "q": "Explain the function of 'Voucher Classes' in Tally for advanced taxation.",
+        "type": "short_answer",
+        "answers": [
+            "To pre-define specific accounting and tax rules for different transaction types within the same voucher type"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which configuration allows the use of 'Debit Note' as a Purchase Return voucher?",
+        "type": "mcq",
+        "o": [
+            "F11 > Accounting Features > Use Debit/Credit Notes",
+            "F12 > Voucher Entry",
+            "Voucher Type Alteration",
+            "Company Creation"
+        ]
+    },
+    {
+        "q": "The 'Reversing Journal' feature automatically reverses a specific Journal entry on the ______ of the next period.",
+        "type": "fill_blank",
+        "answers": [
+            "first day"
+        ],
+        "other_options": [
+            "last day",
+            "any random day",
+            "15th day",
+            "end of year"
+        ]
+    },
+    {
+        "q": "Tally's 'Data Synchronization' feature allows automatic conflict resolution for duplicate entries.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the Advanced Inventory feature with its requirement:",
+        "type": "match",
+        "left": [
+            "Bill of Materials",
+            "Compound Units",
+            "Batch-wise Details",
+            "Price Levels"
+        ],
+        "right": [
+            "Manufacturing process",
+            "Alternate unit measures",
+            "Expiry date tracking",
+            "Customer-specific pricing"
+        ]
+    },
+    {
+        "q": "What is the primary advantage of using 'Cost Categories' over just 'Cost Centres'?",
+        "type": "mcq",
+        "o": [
+            "It enables multi-dimensional cost analysis, like Department + Project simultaneously",
+            "It reduces the number of ledgers",
+            "It replaces inventory management",
+            "It automates bank entries"
+        ]
+    },
+    {
+        "q": "Which Tally feature helps in tracking TDS deductions as per Income Tax sections?",
+        "type": "mcq",
+        "o": [
+            "TDS Nature of Payment",
+            "GST Classification",
+            "Cost Centre Allocation",
+            "Inventory Tracking"
+        ]
+    },
+    {
+        "q": "The 'Auto Journal' for closing stock can only be enabled from the Voucher Type creation screen.",
+        "type": "mcq",
+        "o": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "q": "Which of the following is a valid 'Voucher Class' for Sales transactions under GST?",
+        "type": "mcq",
+        "o": [
+            "Local Sales, Interstate Sales, Export Sales",
+            "Cash Purchase, Credit Purchase",
+            "TDS Deduction, TDS Payment",
+            "Bank Deposit, Cash Withdrawal"
+        ]
+    },
+    {
+        "q": "The ______ feature in Tally ERP allows users to compare actual spending against planned budgets.",
+        "type": "fill_blank",
+        "answers": [
+            "Budget Variance"
+        ],
+        "other_options": [
+            "Cost Centre",
+            "Cash Flow",
+            "Ratio Analysis",
+            "Audit Trail"
+        ]
+    },
+    {
+        "q": "Swipe LEFT for Duties & Taxes, RIGHT for Direct Incomes.",
+        "type": "swipe_cards",
+        "left_label": "Taxes",
+        "right_label": "Income",
+        "cards": {
+            "CGST": "left",
+            "Delivery Charges Received": "right",
+            "SGST": "left",
+            "Professional Fees Billed": "right"
+        }
+    },
+    {
+        "q": "Define 'Credit Limit' in the context of Sundry Debtors.",
+        "type": "short_answer",
+        "answers": [
+            "The maximum monetary value of goods/services allowed to a customer on credit"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following ledgers is required for recording TCS (Tax Collected at Source) on sales?",
+        "type": "mcq",
+        "o": [
+            "TCS Duty Ledger under Duties & Taxes",
+            "Sales Ledger under Sales Accounts",
+            "Bank Ledger under Bank Accounts",
+            "Party Ledger under Sundry Debtors"
+        ]
+    },
+    {
+        "q": "The 'Interest Calculation' feature in Tally operates on a simple interest logic only.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "How do you classify a 'Sundry Debtor' who has a credit (negative) balance?",
+        "type": "mcq",
+        "o": [
+            "It is effectively a Current Liability",
+            "It remains a Current Asset",
+            "It must be transferred to Capital Account",
+            "It is written off immediately"
+        ]
+    },
+    {
+        "q": "Match the Voucher status with its meaning:",
+        "type": "match",
+        "left": [
+            "Optional",
+            "Post-dated",
+            "Cancelled",
+            "Reversing"
+        ],
+        "right": [
+            "Provisional entry",
+            "Future effective date",
+            "Void entry",
+            "Auto reversed"
+        ]
+    },
+    {
+        "q": "What is the shortcut to view the 'TDS Computation' report?",
+        "type": "mcq",
+        "o": [
+            "Display > Statutory Reports > TDS Reports",
+            "Banking > TDS",
+            "F11 > TDS",
+            "Accounts Info > TDS"
+        ]
+    },
+    {
+        "q": "Explain the use of 'Zero-valued Entries' in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "To record items or entries with nil monetary value but with quantities, such as free samples"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a key configuration for setting up 'Job Costing'?",
+        "type": "mcq",
+        "o": [
+            "Enable Cost Centres and set 'Use for Job Costing'",
+            "Enable Inventory and set 'Batch-wise'",
+            "Enable Payroll and set 'Earnings'",
+            "Enable Banking and set 'Auto Reconciliation'"
+        ]
+    },
+    {
+        "q": "The 'Receipt Note' voucher impacts financial books by crediting the Supplier's account.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the purpose of 'Tracking Numbers' in an advanced inventory setup?",
+        "type": "mcq",
+        "o": [
+            "To manage serial/batch numbers for warranty or expiry tracking",
+            "To assign unique numbers to vouchers",
+            "To track telephone numbers of suppliers",
+            "To number the pages of a report"
+        ]
+    },
+    {
+        "q": "To record a 'Purchase of Fixed Asset' in an Invoice mode, you must select the Fixed Asset group and enable 'Track Capital Goods'.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Which report is most useful for analyzing the liquidity position of a business?",
+        "type": "mcq",
+        "o": [
+            "Cash Flow Statement",
+            "Stock Summary",
+            "Trial Balance",
+            "GSTR-1"
+        ]
+    },
+    {
+        "q": "The short-cut key to activate the 'Auto Value Calculation' in Manufacturing Journal is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Ctrl + A"
+        ],
+        "other_options": [
+            "F12",
+            "Alt + C",
+            "F9",
+            "Ctrl + M"
+        ]
+    },
+    {
+        "q": "Match the Payroll Component with its type:",
+        "type": "match",
+        "left": [
+            "Basic Pay",
+            "HRA",
+            "Employee PF",
+            "Employer PF"
+        ],
+        "right": [
+            "Earning",
+            "Earning",
+            "Deduction",
+            "Employer Contribution"
+        ]
+    },
+    {
+        "q": "What is the shortcut to open the 'Physical Stock Voucher'?",
+        "type": "short_answer",
+        "answers": [
+            "Alt + F10"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Unscramble the word: Statutory levies collected by the government.",
+        "type": "word_scramble",
+        "answer": "TAXES",
+        "decoys": "WXY"
+    },
+    {
+        "q": "How does Tally handle 'GST on Reverse Charge' from unregistered dealers?",
+        "type": "mcq",
+        "o": [
+            "Through a specific Purchase Voucher Class with Reverse Charge enabled",
+            "It is not supported in Tally",
+            "By using a Contra voucher",
+            "By modifying the company address"
+        ]
+    },
+    {
+        "q": "The 'Accounts Payable' and 'Accounts Receivable' reports are generated based on 'Bill-wise' details.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble the word: Feature to allocate expenses to different departments or projects.",
+        "type": "word_scramble",
+        "answer": "CENTER",
+        "decoys": "PLM"
+    },
+    {
+        "q": "Which of the following is NOT a valid Stock Valuation method in Tally?",
+        "type": "mcq",
+        "o": [
+            "Weighted Average Perpetual",
+            "FIFO",
+            "Monthly Average Cost",
+            "Last Purchase Cost"
+        ]
+    },
+    {
+        "q": "What is the function of the 'Exception Reports' in Tally?",
+        "type": "mcq",
+        "o": [
+            "To highlight inconsistencies like negative stock or ledgers exceeding credit limits",
+            "To display all successful backups",
+            "To print daily sales invoices",
+            "To calculate tax returns"
+        ]
+    },
+    {
+        "q": "The feature 'Use for Payroll' is enabled in the ______ master.",
+        "type": "fill_blank",
+        "answers": [
+            "Payroll",
+            "Employee"
+        ],
+        "other_options": [
+            "Ledger",
+            "Voucher",
+            "Company",
+            "Inventory"
+        ]
+    },
+    {
+        "q": "Explain the concept of 'Markup/Markdown' in Tally price list management.",
+        "type": "short_answer",
+        "answers": [
+            "Automatic increase or decrease percentage applied to standard selling price to create different price levels"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following entries is used to adjust the 'Opening Balance' of a Ledger?",
+        "type": "mcq",
+        "o": [
+            "Alter the ledger and enter the amount in 'Opening Balance' field, or use a Journal voucher",
+            "Only Payment voucher",
+            "Only Contra voucher",
+            "Delete and recreate the ledger"
+        ]
+    },
+    {
+        "q": "Match the Analysis report with the data it presents:",
+        "type": "match",
+        "left": [
+            "Ratio Analysis",
+            "Cash Flow",
+            "Funds Flow",
+            "Variance Analysis"
+        ],
+        "right": [
+            "Performance metrics",
+            "Liquidity sources",
+            "Working capital change",
+            "Budget vs Actual"
+        ]
+    },
+    {
+        "q": "The 'Duplicate Invoice Number' warning is a feature controlled by F12 Configuration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following ledgers is typically used as a 'Duty Ledger' in GST transactions?",
+        "type": "mcq",
+        "o": [
+            "Input CGST/SGST",
+            "Sales Account",
+            "Sundry Debtors",
+            "Cash"
+        ]
+    },
+    {
+        "q": "Complete the sentence about data export:",
+        "type": "inline_dropdown",
+        "text": "To export a report from Tally, the shortcut is [0]. The default format often used for external tools is [1].",
+        "dropdowns": [
+            {
+                "correct": "Alt+E",
+                "options": [
+                    "Alt+E",
+                    "Alt+P",
+                    "Ctrl+E"
+                ]
+            },
+            {
+                "correct": "XML",
+                "options": [
+                    "XML",
+                    "PDF",
+                    "JPEG"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the correct voucher to transfer material from one godown to another?",
+        "type": "mcq",
+        "o": [
+            "Stock Journal",
+            "Purchase Order",
+            "Sales Order",
+            "Rejection In"
+        ]
+    },
+    {
+        "q": "Complete the sentence on data removal:",
+        "type": "inline_dropdown",
+        "text": "To delete a ledger completely, press [0] in the Ledger [1] screen.",
+        "dropdowns": [
+            {
+                "correct": "Alt+D",
+                "options": [
+                    "Alt+D",
+                    "Ctrl+D",
+                    "Shift+D"
+                ]
+            },
+            {
+                "correct": "Alter",
+                "options": [
+                    "Alter",
+                    "Create",
+                    "Display"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The 'Database Server' feature in Tally is used for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "multi-user access over a network"
+        ],
+        "other_options": [
+            "single user encryption",
+            "backup only",
+            "internet browsing",
+            "printing"
+        ]
+    },
+    {
+        "q": "Out of the 28 default groups in Tally, how many are Sub-groups?",
+        "type": "slider",
+        "min": 8,
+        "max": 18,
+        "correct": 13
+    },
+    {
+        "q": "Describe the Tally feature 'Print after Save'.",
+        "type": "short_answer",
+        "answers": [
+            "A configuration that automatically prompts or prints a voucher immediately after it is accepted"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "How do you create a 'Compound GST' structure (CGST + SGST) in Tally?",
+        "type": "mcq",
+        "o": [
+            "Create a Voucher Class with multiple tax ledgers and define calculation sequence",
+            "Create only one ledger for both",
+            "Use the Payroll module",
+            "Tally does not support compound taxes"
+        ]
+    },
+    {
+        "q": "The 'Split Company Data' feature can be used to split data based on Godowns.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following is NOT a pre-defined option in the 'Security Control' for users?",
+        "type": "mcq",
+        "o": [
+            "Stock Value Access Only",
+            "Owner",
+            "Data Entry",
+            "Auditor"
+        ]
+    },
+    {
+        "q": "Match the Multi-Account Printing feature with its benefit:",
+        "type": "match",
+        "left": [
+            "Ledger Multi-Print",
+            "Voucher Multi-Print",
+            "Bank Recon Multi-Print"
+        ],
+        "right": [
+            "Multiple accounts at once",
+            "Multiple vouchers at once",
+            "Multiple banks at once"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT an F12 Configuration option?",
+        "type": "odd_one_out",
+        "options": [
+            "Show Narrations",
+            "Show Opening Balances",
+            "Create New Ledger",
+            "Format of Report"
+        ],
+        "correct": "Create New Ledger"
+    },
+    {
+        "q": "What is the purpose of 'HSN/SAC Code' configuration?",
+        "type": "mcq",
+        "o": [
+            "To classify goods and services for accurate GST reporting",
+            "To number the sales invoices",
+            "To track inventory batches",
+            "To calculate employee bonuses"
+        ]
+    },
+    {
+        "q": "The 'Material In' and 'Material Out' vouchers are alternative names for Purchase and Sales in some configurations.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Which of the following tasks requires the 'TallyVault' password?",
+        "type": "mcq",
+        "o": [
+            "Opening the encrypted company data",
+            "Creating a new ledger",
+            "Printing a voucher",
+            "Viewing the Day Book"
+        ]
+    },
+    {
+        "q": "The short-cut to open the 'Calculator' in Tally is Ctrl + N.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What is the function of the 'Auto Cost Calculation' in a Manufacturing Journal?",
+        "type": "short_answer",
+        "answers": [
+            "To automatically compute the cost of finished goods based on raw material and other input costs"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is an example of a 'Capital Goods' entry in GST?",
+        "type": "mcq",
+        "o": [
+            "Purchase of Machinery with Input Tax Credit",
+            "Purchase of Stationery",
+            "Sale of Scrap",
+            "Payment of Rent"
+        ]
+    },
+    {
+        "q": "In Tally, you can define a 'User-defined Field' (UDF) for additional master data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which menu allows you to define the 'Method of Calculation' for Interest?",
+        "type": "mcq",
+        "o": [
+            "Accounts Info. > Interest Calculation",
+            "F11 Features",
+            "Inventory Info",
+            "Banking Menu"
+        ]
+    },
+    {
+        "q": "Match the GSTR report with its function:",
+        "type": "match",
+        "left": [
+            "GSTR-1",
+            "GSTR-2A",
+            "GSTR-3B",
+            "GSTR-9"
+        ],
+        "right": [
+            "Outward supplies",
+            "Auto-drafted inward supplies",
+            "Summary return",
+            "Annual return"
+        ]
+    },
+    {
+        "q": "The 'Physical Stock Voucher' automatically updates the stock valuation.",
+        "type": "fill_blank",
+        "answers": [
+            "True"
+        ],
+        "other_options": [
+            "False",
+            "Only in Invoice mode",
+            "Depends on Godown",
+            "Manual"
+        ]
+    },
+    {
+        "q": "Explain 'Batch-wise' vs 'Tracking Number' distinction.",
+        "type": "short_answer",
+        "answers": [
+            "Batch-wise tracks common attributes like expiry for a lot; Tracking Number tracks unique IDs for individual items"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following vouchers can be used to record 'Pure Agent' transactions under GST?",
+        "type": "mcq",
+        "o": [
+            "Journal Voucher with specific Pure Agent settings",
+            "Contra Voucher",
+            "Payment Voucher only",
+            "Stock Journal"
+        ]
+    },
+    {
+        "q": "Match the Cost Center terms to their logical mappings.",
+        "type": "memory",
+        "pairs": {
+            "Cost Category": "Department",
+            "Cost Center": "Employee or Project",
+            "Allocation": "Distribution of expenses",
+            "Predefined Class": "Auto-allocation percentage"
+        }
+    },
+    {
+        "q": "The 'Negative Stock' restriction can be bypassed by specific user permissions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of the 'Separate Discount Column' in the Invoice mode?",
+        "type": "mcq",
+        "o": [
+            "To show the discount amount as a distinct column instead of adjusting the item rate",
+            "To hide the discount from the invoice",
+            "To change the tax rate automatically",
+            "To delete the inventory entry"
+        ]
+    },
+    {
+        "q": "Which report shows the 'Change in Working Capital' over a period?",
+        "type": "mcq",
+        "o": [
+            "Funds Flow Statement",
+            "Trial Balance",
+            "Day Book",
+            "Outstanding Report"
+        ]
+    },
+    {
+        "q": "The ______ file format is used to import Bank Statements for Auto Reconciliation.",
+        "type": "fill_blank",
+        "answers": [
+            "Excel",
+            "CSV"
+        ],
+        "other_options": [
+            "PDF",
+            "JPG",
+            "DOC",
+            "TXT"
+        ]
+    },
+    {
+        "q": "Match the Manufacturing entry with its inventory effect:",
+        "type": "match",
+        "left": [
+            "Manufacturing Journal",
+            "Bill of Materials",
+            "Stock Journal (Consumption)"
+        ],
+        "right": [
+            "Decreases Raw Material, Increases Finished Goods",
+            "Template for components",
+            "Decreases stock due to wastage"
+        ]
+    },
+    {
+        "q": "Match the administrative operations in Tally.",
+        "type": "memory",
+        "pairs": {
+            "Tally Vault": "Data Encryption",
+            "Backup": "Creating a safe copy",
+            "Restore": "Extracting saved data",
+            "Split Company": "Dividing financial years"
+        }
+    },
+    {
+        "q": "What is the primary purpose of 'Group Company' in Tally?",
+        "type": "mcq",
+        "o": [
+            "To consolidate the financial statements of multiple companies",
+            "To split a company into two",
+            "To create a new branch",
+            "To manage multiple users"
+        ]
+    },
+    {
+        "q": "Swipe LEFT for F11 Features, RIGHT for F12 Configurations.",
+        "type": "swipe_cards",
+        "left_label": "F11 Features",
+        "right_label": "F12 Config",
+        "cards": {
+            "Enable Cost Centers": "left",
+            "Show Narrations in Voucher": "right",
+            "Enable GST": "left",
+            "Skip Date field during entry": "right"
+        }
+    },
+    {
+        "q": "The 'Supplementary Cost' in manufacturing journal includes overheads like labor or electricity.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a type of 'Price Level' in Tally?",
+        "type": "mcq",
+        "o": [
+            "Tax Inclusive Level",
+            "Wholesale Price",
+            "Retail Price",
+            "Distributor Price"
+        ]
+    },
+    {
+        "q": "Describe the use of the 'Alias' feature in Ledger creation.",
+        "type": "short_answer",
+        "answers": [
+            "To assign an alternate name or code to a ledger for quick search or identification"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which Voucher is used to record 'Service Received' but bill not yet received?",
+        "type": "mcq",
+        "o": [
+            "Memorandum Voucher or Journal as Provision",
+            "Payment Voucher",
+            "Contra Voucher",
+            "Sales Voucher"
+        ]
+    },
+    {
+        "q": "The 'Ratio Analysis' report requires manual calculation of all formulas.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "How do you print a 'Cheque' for a Payment voucher in Tally?",
+        "type": "mcq",
+        "o": [
+            "Enable 'Cheque Printing' in Bank Ledger and use the Print option in Payment Voucher",
+            "Use the Contra Voucher print",
+            "Print from the Day Book",
+            "Tally does not support cheque printing"
+        ]
+    },
+    {
+        "q": "Match the Payroll Employee Group with a typical salary structure:",
+        "type": "match",
+        "left": [
+            "Managers",
+            "Workers",
+            "Sales Executives"
+        ],
+        "right": [
+            "Fixed Salary",
+            "Wages",
+            "Salary + Commission"
+        ]
+    },
+    {
+        "q": "The 'TDS on Rent' ledger is grouped under ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Duties & Taxes"
+        ],
+        "other_options": [
+            "Indirect Expenses",
+            "Current Assets",
+            "Loans (Asset)",
+            "Sundry Debtors"
+        ]
+    },
+    {
+        "q": "What is the shortcut to enter 'Date' in the voucher entry screen?",
+        "type": "short_answer",
+        "answers": [
+            "F2"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is NOT a valid 'Nature of Payment' for TDS?",
+        "type": "mcq",
+        "o": [
+            "Purchase of Goods",
+            "Salary",
+            "Contract",
+            "Professional Fees"
+        ]
+    },
+    {
+        "q": "The 'Export to PDF' feature requires a separate PDF printer driver installed.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the effect of enabling 'Maintain Multiple Mailing Details'?",
+        "type": "mcq",
+        "o": [
+            "Allows storing multiple contact names/addresses for a single ledger",
+            "Creates multiple ledgers for the same party",
+            "Duplicates the company",
+            "Disables emailing"
+        ]
+    },
+    {
+        "q": "Which configuration provides 'Warn on Negative Stock'?",
+        "type": "mcq",
+        "o": [
+            "F12: Invoice Configuration",
+            "F11: Inventory Features",
+            "Company Creation",
+            "Stock Item Master"
+        ]
+    },
+    {
+        "q": "The 'Use for Self Assessment' feature is related to ______ liability.",
+        "type": "fill_blank",
+        "answers": [
+            "GST reverse charge"
+        ],
+        "other_options": [
+            "TDS",
+            "PF",
+            "PT",
+            "ESI"
+        ]
+    },
+    {
+        "q": "What is the shortcut to access 'Ratio Analysis'?",
+        "type": "short_answer",
+        "answers": [
+            "Gateway of Tally > Display > Ratio Analysis"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a correct statement about 'Drill-down' functionality?",
+        "type": "mcq",
+        "o": [
+            "It allows the user to view detailed transactions from a summary report",
+            "It is used to delete vouchers",
+            "It creates a backup",
+            "It disables security"
+        ]
+    },
+    {
+        "q": "Match the Advanced Feature with its typical user:",
+        "type": "match",
+        "left": [
+            "Audit Trail",
+            "Scenario Management",
+            "Job Costing",
+            "TallyVault"
+        ],
+        "right": [
+            "Auditor",
+            "Management",
+            "Project Manager",
+            "Owner"
+        ]
+    },
+    {
+        "q": "Unscramble the word: The left side of an accounting entry.",
+        "type": "word_scramble",
+        "answer": "DEBIT",
+        "decoys": "QPL"
+    },
+    {
+        "q": "The 'Godown' in Tally can be categorized as 'Primary' and 'Secondary'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which voucher is used to record 'Goods on Consignment' sent to an agent?",
+        "type": "mcq",
+        "o": [
+            "Delivery Note",
+            "Sales Voucher",
+            "Receipt Voucher",
+            "Journal Voucher"
+        ]
+    },
+    {
+        "q": "In Tally, 'Funds Flow' shows the movement of cash and bank balances only.",
+        "type": "mcq",
+        "o": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "q": "What is the function of the 'Translate' button in multi-lingual Tally?",
+        "type": "mcq",
+        "o": [
+            "To enter ledger names and data in regional languages",
+            "To convert currency only",
+            "To change company address",
+            "To print invoices"
+        ]
+    },
+    {
+        "q": "Unscramble the word: The right side of an accounting entry.",
+        "type": "word_scramble",
+        "answer": "CREDIT",
+        "decoys": "MNX"
+    },
+    {
+        "q": "The short-cut to paste the previous line's details in the current field is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Alt + C"
+        ],
+        "other_options": [
+            "Ctrl + V",
+            "Shift + Insert",
+            "Alt + P",
+            "Ctrl + C"
+        ]
+    },
+    {
+        "q": "Complete the sentence comparing Tally settings:",
+        "type": "inline_dropdown",
+        "text": "In Tally, F12 represents [0] which are user-specific, while F11 represents [1] which are company-specific.",
+        "dropdowns": [
+            {
+                "correct": "Configurations",
+                "options": [
+                    "Configurations",
+                    "Features",
+                    "Reports"
+                ]
+            },
+            {
+                "correct": "Features",
+                "options": [
+                    "Features",
+                    "Configurations",
+                    "Masters"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Explain the term 'Pre-closure of Loan' accounting in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "Journal entry adjusting the loan ledger against bank payment and writing off any remaining interest"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Complete the sentence for finding daily entries:",
+        "type": "inline_dropdown",
+        "text": "The [0] shows all daily transactions chronologically and is found under [1].",
+        "dropdowns": [
+            {
+                "correct": "Daybook",
+                "options": [
+                    "Daybook",
+                    "Balance Sheet",
+                    "Trial Balance"
+                ]
+            },
+            {
+                "correct": "Display More Reports",
+                "options": [
+                    "Display More Reports",
+                    "Masters",
+                    "Banking"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which option allows the accountant to prevent editing of vouchers before a specific date?",
+        "type": "mcq",
+        "o": [
+            "Enable 'Allow Voucher Edit' by date in Security Control",
+            "Delete old vouchers",
+            "Use Contra Voucher",
+            "Split the company"
+        ]
+    },
+    {
+        "q": "The 'Notional Value' of a free sample is entered in the 'Zero-valued Entries' mode.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which report analyzes the Gross Profit margin of each item or transaction?",
+        "type": "mcq",
+        "o": [
+            "Item-wise Profitability Report",
+            "Trial Balance",
+            "Bank Reconciliation",
+            "GSTR-3B"
+        ]
+    },
+    {
+        "q": "How many ledgers are pre-created by default in a new Tally company?",
+        "type": "slider",
+        "min": 0,
+        "max": 5,
+        "correct": 2
+    },
+    {
+        "q": "What is the primary function of 'Tally Definition Language' (TDL) in Tally?",
+        "type": "mcq",
+        "o": [
+            "To customize and extend the functionality of Tally software",
+            "To create new accounting standards",
+            "To replace the default menu structure",
+            "To manage hardware resources"
+        ]
+    },
+    {
+        "q": "Explain the concept of 'Sub-Ledger' and its implementation in Tally's data structure.",
+        "type": "short_answer",
+        "answers": [
+            "A sub-ledger is not a native Tally concept; it is emulated using Group hierarchies and Cost Centres to track detailed transactions under a main ledger"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is NOT an Indirect Income?",
+        "type": "odd_one_out",
+        "options": [
+            "Interest Received",
+            "Discount Received",
+            "Commission Received",
+            "Sales Revenue"
+        ],
+        "correct": "Sales Revenue"
+    },
+    {
+        "q": "Which option allows you to configure 'Automatic Back-up' scheduling in Tally Server?",
+        "type": "mcq",
+        "o": [
+            "Tally Server Monitor / Control Center",
+            "F11 Features",
+            "F12 Configure",
+            "Company Info Menu"
+        ]
+    },
+    {
+        "q": "Match the liability accounts to their correct groups.",
+        "type": "memory",
+        "pairs": {
+            "Bank Overdraft": "Bank OD A/c",
+            "Outstanding Rent": "Current Liabilities",
+            "Retained Earnings": "Reserves & Surplus",
+            "Long term Loan": "Loans (Liability)"
+        }
+    },
+    {
+        "q": "In TDL, the 'Collection' capability is defined using the ______ attribute.",
+        "type": "fill_blank",
+        "answers": [
+            "Collection",
+            "Child Of"
+        ],
+        "other_options": [
+            "Method",
+            "Definition",
+            "Storage",
+            "Format"
+        ]
+    },
+    {
+        "q": "Tally's 'Remote Access' feature allows a user to directly access Tally data without a Tally license.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the TDL component with its description:",
+        "type": "match",
+        "left": [
+            "Report",
+            "Collection",
+            "Object",
+            "Function"
+        ],
+        "right": [
+            "Print/Display output",
+            "Data aggregation definition",
+            "User Interface element",
+            "Computational logic"
+        ]
+    },
+    {
+        "q": "What is the purpose of 'Multi-Currency Exchange Rate Adjustment'?",
+        "type": "mcq",
+        "o": [
+            "To pass forex gain/loss entries on outstanding foreign currency balances",
+            "To print invoices in different languages",
+            "To change the base currency permanently",
+            "To delete a currency"
+        ]
+    },
+    {
+        "q": "Which of the following is a critical limitation of Tally's 'Data Synchronization'?",
+        "type": "mcq",
+        "o": [
+            "It requires identical master configurations on both sides to avoid conflicts",
+            "It automatically merges different companies",
+            "It works without internet",
+            "It creates a new company"
+        ]
+    },
+    {
+        "q": "The 'Variance Analysis' report is found under the Display > Ratio Analysis menu.",
+        "type": "mcq",
+        "o": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "q": "What is the expert method to handle 'Branch Accounting' where branches have different PAN numbers?",
+        "type": "mcq",
+        "o": [
+            "Create separate companies and use Group Company for consolidation",
+            "Use Cost Centres only",
+            "Create a single ledger for all branches",
+            "Use Rejection Out vouchers"
+        ]
+    },
+    {
+        "q": "The ______ function in TDL is used to traverse collections and perform actions on each record.",
+        "type": "fill_blank",
+        "answers": [
+            "Walk"
+        ],
+        "other_options": [
+            "Sum",
+            "Aggregate",
+            "Filter",
+            "Compute"
+        ]
+    },
+    {
+        "q": "Define the use of 'UDF' (User Defined Fields) in advanced reporting.",
+        "type": "short_answer",
+        "answers": [
+            "To store custom information in masters and vouchers that can be used for filtering and display in custom reports"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "How does Tally handle 'Deferred Tax' calculations?",
+        "type": "mcq",
+        "o": [
+            "It requires manual Journal entries based on external computation, not automatic",
+            "It is fully automated like GST",
+            "It uses the Payroll module",
+            "It adjusts through the Contra voucher"
+        ]
+    },
+    {
+        "q": "The 'Control Centre' in Tally Server manages licenses and active users.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following TDL symbols is used for 'System Formula'?",
+        "type": "mcq",
+        "o": [
+            "@",
+            "#",
+            "$",
+            "%"
+        ]
+    },
+    {
+        "q": "Match the asset accounts to their correct groups.",
+        "type": "memory",
+        "pairs": {
+            "Goodwill": "Fixed Assets",
+            "Prepaid Insurance": "Current Assets",
+            "Shares in ABC Ltd": "Investments",
+            "Security Deposit": "Deposits (Asset)"
+        }
+    },
+    {
+        "q": "Match the Tally Integration Capability with the technology:",
+        "type": "match",
+        "left": [
+            "REST API",
+            "ODBC",
+            "XML Import",
+            "Tally Gateway"
+        ],
+        "right": [
+            "Third-party web integration",
+            "Database connectivity",
+            "Data migration",
+            "Email/SMS services"
+        ]
+    },
+    {
+        "q": "What is the function of the 'Sub-Report' feature in advanced TDL Report design?",
+        "type": "mcq",
+        "o": [
+            "To nest a secondary report within a main report for detailed breakdowns",
+            "To delete a primary report",
+            "To split the company data",
+            "To create a backup of the report"
+        ]
+    },
+    {
+        "q": "Explain the 'Drilldown' from Balance Sheet to Voucher in terms of data architecture.",
+        "type": "short_answer",
+        "answers": [
+            "Tally uses internal pointers (object IDs) to link a summary amount directly to the original journal entries that formed it"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is NOT a standard parameter in Tally's 'Job Costing' analysis?",
+        "type": "mcq",
+        "o": [
+            "Currency Exchange Spread",
+            "Material Cost",
+            "Labour Cost",
+            "Overhead Allocation"
+        ]
+    },
+    {
+        "q": "The 'Exception Reports' can be fully customized using TDL.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary use of the 'Aggregate' collection in TDL?",
+        "type": "mcq",
+        "o": [
+            "To compute sum, average, min, max on a set of objects",
+            "To create a new company",
+            "To check Tally license",
+            "To print labels"
+        ]
+    },
+    {
+        "q": "In Advanced GST, the 'Is Non-GST Supply' flag is used for ______ transactions.",
+        "type": "fill_blank",
+        "answers": [
+            "exempt/non-taxable"
+        ],
+        "other_options": [
+            "interstate",
+            "reverse charge",
+            "export",
+            "high sea sales"
+        ]
+    },
+    {
+        "q": "Match the Tally Version with its architecture type:",
+        "type": "match",
+        "left": [
+            "Tally.Server 9",
+            "TallyPrime",
+            "Tally.ERP 9 Silver"
+        ],
+        "right": [
+            "Client-Server / Multi-threaded",
+            "Single-threaded or Multi-threaded",
+            "Single User"
+        ]
+    },
+    {
+        "q": "What is the shortcut to view the 'TDL and Add-on' management screen?",
+        "type": "short_answer",
+        "answers": [
+            "Ctrl + Alt + T"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which protocol does Tally use for its remote connectivity services?",
+        "type": "mcq",
+        "o": [
+            "Tally proprietary protocol over TCP/IP",
+            "HTTP only",
+            "FTP",
+            "SMTP"
+        ]
+    },
+    {
+        "q": "The 'Recompute' option forces Tally to recalculate dependent values in reports.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the ledger types to their descriptions.",
+        "type": "memory",
+        "pairs": {
+            "Sundry Debtors": "Customers buying on credit",
+            "Sundry Creditors": "Suppliers selling on credit",
+            "Duties & Taxes": "Tax-related accounts",
+            "Suspense A/c": "Unidentified transactions"
+        }
+    },
+    {
+        "q": "Swipe LEFT for Contra entry, RIGHT for Journal entry.",
+        "type": "swipe_cards",
+        "left_label": "Contra",
+        "right_label": "Journal",
+        "cards": {
+            "Cash deposited into Bank": "left",
+            "Depreciation charged": "right",
+            "Cash withdrawn for office": "left",
+            "Provision for audit fee": "right"
+        }
+    },
+    {
+        "q": "Which of the following errors indicates a 'Master Mismatch' in Synchronization?",
+        "type": "mcq",
+        "o": [
+            "Ledger names or masters differ between client and server",
+            "Internet connection is lost",
+            "Printer is offline",
+            "Password is wrong"
+        ]
+    },
+    {
+        "q": "What is the purpose of 'Auto Filler' TDL function?",
+        "type": "mcq",
+        "o": [
+            "To automatically fill default values in fields based on conditions",
+            "To delete empty vouchers",
+            "To import bank statements",
+            "To compress data"
+        ]
+    },
+    {
+        "q": "Swipe LEFT for Fixed Assets, RIGHT for Investments.",
+        "type": "swipe_cards",
+        "left_label": "Fixed Asset",
+        "right_label": "Investment",
+        "cards": {
+            "Office Premises": "left",
+            "Government Bonds": "right",
+            "Delivery Van": "left",
+            "Mutual Funds": "right"
+        }
+    },
+    {
+        "q": "The configuration 'Allow Back-dated entries for previous financial year' is limited by the ______ date.",
+        "type": "fill_blank",
+        "answers": [
+            "Books Beginning From"
+        ],
+        "other_options": [
+            "Current Date",
+            "Last Backup",
+            "Split Date",
+            "Year End"
+        ]
+    },
+    {
+        "q": "Swipe LEFT for Master Creation, RIGHT for Voucher Entry.",
+        "type": "swipe_cards",
+        "left_label": "Master",
+        "right_label": "Voucher",
+        "cards": {
+            "Creating a New Ledger": "left",
+            "Recording a Payment": "right",
+            "Creating a Stock Item": "left",
+            "Entering a Sales Invoice": "right"
+        }
+    },
+    {
+        "q": "Explain the 'Attribute' inheritance model in TDL.",
+        "type": "short_answer",
+        "answers": [
+            "TDL uses hierarchical Object-Attribute-Method model where children inherit attributes of parents unless overridden locally"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a valid 'Method' type in TDL for custom validation?",
+        "type": "mcq",
+        "o": [
+            "Trigger",
+            "Delete",
+            "Print",
+            "Save As"
+        ]
+    },
+    {
+        "q": "Swipe LEFT for Asset Accounts, RIGHT for Liability Accounts.",
+        "type": "swipe_cards",
+        "left_label": "Asset",
+        "right_label": "Liability",
+        "cards": {
+            "Cash in Bank": "left",
+            "Unpaid Salaries": "right",
+            "Inventory": "left",
+            "Bank Loan": "right"
+        }
+    },
+    {
+        "q": "The 'GST E-Invoice' JSON generation in Tally requires TDL customization in older versions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "How do you manage 'Loan against Securities' with fluctuating interest in Tally?",
+        "type": "mcq",
+        "o": [
+            "Use Debit/Credit Notes and separate Interest Calculation ledgers",
+            "Use only Contra vouchers",
+            "Use only Payroll",
+            "Tally cannot manage it"
+        ]
+    },
+    {
+        "q": "Match the 'Print' format option with its file output:",
+        "type": "match",
+        "left": [
+            "XML",
+            "HTML",
+            "PDF",
+            "Excel"
+        ],
+        "right": [
+            "Structured data",
+            "Web page",
+            "Portable Document",
+            "Spreadsheet"
+        ]
+    },
+    {
+        "q": "What is the function of the 'Partition' feature in Tally Data Structure?",
+        "type": "mcq",
+        "o": [
+            "To create logical separation of data within a company, usually by date",
+            "To create a new company",
+            "To delete old data",
+            "To format the hard disk"
+        ]
+    },
+    {
+        "q": "Unscramble the word: A summary report of all ledger balances to check arithmetic accuracy.",
+        "type": "word_scramble",
+        "answer": "TRIAL",
+        "decoys": "ZXV"
+    },
+    {
+        "q": "Unscramble the word: Money or goods withdrawn by the owner for personal use.",
+        "type": "word_scramble",
+        "answer": "DRAWINGS",
+        "decoys": "KJH"
+    },
+    {
+        "q": "The 'Use for Self Assessment' flag is enabled in the ______ master.",
+        "type": "fill_blank",
+        "answers": [
+            "Duty Ledger",
+            "Tax Ledger"
+        ],
+        "other_options": [
+            "Stock Item",
+            "Voucher Type",
+            "Employee",
+            "Bank"
+        ]
+    },
+    {
+        "q": "What is the shortcut to invoke 'Calculator' inside a TDL field?",
+        "type": "short_answer",
+        "answers": [
+            "Ctrl + M"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is NOT a standard 'Security Level' in Tally?",
+        "type": "mcq",
+        "o": [
+            "System Manager",
+            "Owner",
+            "Data Entry",
+            "Auditor"
+        ]
+    },
+    {
+        "q": "The 'Dependency' attribute in TDL ensures a field is recalculated when its source changes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary function of 'Tally Connector'?",
+        "type": "mcq",
+        "o": [
+            "To integrate Tally with external third-party applications via XML/JSON",
+            "To connect the printer",
+            "To manage users",
+            "To install Tally"
+        ]
+    },
+    {
+        "q": "Complete the sentence on Bank groupings:",
+        "type": "inline_dropdown",
+        "text": "The default group for a Bank Account is [0], which falls under the primary group [1].",
+        "dropdowns": [
+            {
+                "correct": "Bank Accounts",
+                "options": [
+                    "Bank Accounts",
+                    "Cash-in-hand",
+                    "Investments"
+                ]
+            },
+            {
+                "correct": "Current Assets",
+                "options": [
+                    "Current Assets",
+                    "Fixed Assets",
+                    "Loans"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which of the following errors indicates a corrupted Tally data file?",
+        "type": "mcq",
+        "o": [
+            "Database Error / CRC Error",
+            "Memory Access Violation",
+            "Printer Not Found",
+            "Division by Zero"
+        ]
+    },
+    {
+        "q": "Complete the sentence regarding owner withdrawals:",
+        "type": "inline_dropdown",
+        "text": "Drawing cash for personal use is recorded in a [0] voucher, debiting the [1] account.",
+        "dropdowns": [
+            {
+                "correct": "Payment",
+                "options": [
+                    "Payment",
+                    "Contra",
+                    "Receipt"
+                ]
+            },
+            {
+                "correct": "Drawings",
+                "options": [
+                    "Drawings",
+                    "Bank",
+                    "Capital"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The feature 'Allow to enter stock in negative' is enabled from Stock Item Master.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Match the Tally Error with its likely cause:",
+        "type": "match",
+        "left": [
+            "Cannot allocate memory",
+            "Duplicate Voucher Number",
+            "Invalid Master reference"
+        ],
+        "right": [
+            "Insufficient RAM/64-bit limit",
+            "Manual numbering conflict",
+            "Deleted ledger still referenced"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Validation' attribute in TDL Field Definition?",
+        "type": "short_answer",
+        "answers": [
+            "To restrict the values a user can enter in a field based on a condition or formula"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which type of ledger is required to track 'Input Service Distributor' (ISD) under GST?",
+        "type": "mcq",
+        "o": [
+            "Duties & Taxes (ISD Input Credit)",
+            "Sundry Debtors",
+            "Sales Account",
+            "Current Assets"
+        ]
+    },
+    {
+        "q": "The 'Scenario' feature can be used to simulate different taxation laws before they are enacted.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What does the 'Is OD' flag in a Bank Ledger facilitate?",
+        "type": "mcq",
+        "o": [
+            "Treats the account as an Overdraft (Credit balance) account",
+            "Deletes the bank account",
+            "Freezes the bank account",
+            "Prints cheques"
+        ]
+    },
+    {
+        "q": "The TDL procedure to copy data from one company to another is called ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Export-Import or Data Synchronization"
+        ],
+        "other_options": [
+            "Split",
+            "Backup",
+            "Rewrite",
+            "Delete and Recreate"
+        ]
+    },
+    {
+        "q": "Explain the 'Platform' attribute in TDL.",
+        "type": "short_answer",
+        "answers": [
+            "It specifies the operating system or environment (e.g., Windows, Browser) where the TDL component should run"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is an Advanced Statutory Feature for Exports?",
+        "type": "mcq",
+        "o": [
+            "LUT/Bond management",
+            "Cash Discount",
+            "Batch Numbering",
+            "Simple Interest"
+        ]
+    },
+    {
+        "q": "Tally's 'Online' mode in Data Synchronization uses Tally.NET servers as intermediaries.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the function of 'Alter Id' in TDL?",
+        "type": "mcq",
+        "o": [
+            "To provide backward compatibility by mapping old object names to new ones",
+            "To change the user password",
+            "To delete vouchers",
+            "To rename the company"
+        ]
+    },
+    {
+        "q": "How do you record a 'Provisional Entries for Tax' that should auto-reverse?",
+        "type": "mcq",
+        "o": [
+            "Use Reversing Journal voucher type",
+            "Use Payment voucher",
+            "Delete the entry manually",
+            "Use Contra voucher"
+        ]
+    },
+    {
+        "q": "The 'Color' attribute in TDL can be used to highlight negative amounts in Red.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Match the TDL File Type with its content:",
+        "type": "match",
+        "left": [
+            ".tdl",
+            ".tcp",
+            ".tsf"
+        ],
+        "right": [
+            "Program/Report definitions",
+            "Tally Configuration file",
+            "Tally Serial/State file"
+        ]
+    },
+    {
+        "q": "What is the use of 'Line Attributes' in TDL Reports?",
+        "type": "short_answer",
+        "answers": [
+            "To dynamically format rows (bold, color, height) based on conditions"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a correct path to enable 'Transaction Level GST' for mixed supplies?",
+        "type": "mcq",
+        "o": [
+            "F12 > Allow modification of Tax Rate at voucher level",
+            "F11 > Statutory Features",
+            "Company Creation",
+            "Ledger Alteration"
+        ]
+    },
+    {
+        "q": "The 'Rewrite' function in Tally rewrites the database to fix structural inconsistencies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is the default Tally Gateway for HTTP requests?",
+        "type": "mcq",
+        "o": [
+            "9000",
+            "8080",
+            "80",
+            "3306"
+        ]
+    },
+    {
+        "q": "The ______ voucher type is used to adjust stock quantity but also passes an accounting entry for capital goods.",
+        "type": "fill_blank",
+        "answers": [
+            "Stock Journal"
+        ],
+        "other_options": [
+            "Manufacturing Journal",
+            "Physical Stock",
+            "Delivery Note",
+            "Receipt Note"
+        ]
+    },
+    {
+        "q": "Describe the 'Action' keyword in TDL form design.",
+        "type": "short_answer",
+        "answers": [
+            "It is used to bind a button or key press to a specific TDL function or report execution"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a limitation of Tally's inventory module in handling complex manufacturing?",
+        "type": "mcq",
+        "o": [
+            "Lack of native MRP (Material Requirements Planning) workflow",
+            "Cannot track batches",
+            "Cannot use multiple godowns",
+            "Cannot process sales"
+        ]
+    },
+    {
+        "q": "The 'Rejections In' voucher automatically generates a Credit Note.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the primary purpose of 'e-Invoicing' TDL add-ons?",
+        "type": "mcq",
+        "o": [
+            "To generate IRN and QR codes from Sales Invoices",
+            "To print cheques",
+            "To send emails",
+            "To calculate salary"
+        ]
+    },
+    {
+        "q": "Which of the following TDL categories governs 'Tax Audit Report' generation?",
+        "type": "mcq",
+        "o": [
+            "Statutory Compliance Reports",
+            "Inventory Reports",
+            "Payroll Reports",
+            "Management Reports"
+        ]
+    },
+    {
+        "q": "The 'Localize' attribute in TDL supports multi-lingual static text.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Match the Compliance standard with its Tally Report:",
+        "type": "match",
+        "left": [
+            "Form 3CD",
+            "GSTR-9C",
+            "24Q",
+            "PF Monthly"
+        ],
+        "right": [
+            "Tax Audit",
+            "GST Audit",
+            "TDS Salary Return",
+            "Provident Fund ECR"
+        ]
+    },
+    {
+        "q": "What is the function of the 'Set as Default' option in Ledger Printing?",
+        "type": "short_answer",
+        "answers": [
+            "To set the current print layout as the standard for all future prints of that ledger type"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is an advanced method to handle 'Royalty Payments' in Tally?",
+        "type": "mcq",
+        "o": [
+            "Use User Defined Fields and TDL to link Sales Qty to Royalty Rate",
+            "Use Contra Voucher",
+            "Use Delivery Note",
+            "Royalty cannot be managed"
+        ]
+    },
+    {
+        "q": "The 'Skip Date' feature in Bank Reconciliation ignores cheques before a certain date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary danger of using 'Tally Data Migration' tools incorrectly?",
+        "type": "mcq",
+        "o": [
+            "Loss of data integrity and audit trail linking",
+            "Increase in computer speed",
+            "Better printing quality",
+            "Automatic backup"
+        ]
+    },
+    {
+        "q": "The ______ is a system-generated unique identifier for every transaction in the Tally database.",
+        "type": "fill_blank",
+        "answers": [
+            "Voucher Key",
+            "GUID"
+        ],
+        "other_options": [
+            "Voucher Number",
+            "Date",
+            "Amount",
+            "Narration"
+        ]
+    },
+    {
+        "q": "Explain the 'Storage' attribute in TDL field definitions.",
+        "type": "short_answer",
+        "answers": [
+            "It defines the physical database column where the value of a field is persisted"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a correct method to automate 'Trial Balance Mailing'?",
+        "type": "mcq",
+        "o": [
+            "Use TDL to schedule a script that emails the report",
+            "Use F11 Features",
+            "Use F12 Configure",
+            "Tally cannot mail reports"
+        ]
+    },
+    {
+        "q": "The 'Remove' attribute in TDL deletes a definition from the base product.",
+        "type": "mcq",
+        "o": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "q": "Which F-key is used to view the 'Detailed Help' or 'Support' Center?",
+        "type": "mcq",
+        "o": [
+            "Alt + H",
+            "F1",
+            "Ctrl + H",
+            "F10"
+        ]
+    },
+    {
+        "q": "Match the Tally Data element with its content:",
+        "type": "match",
+        "left": [
+            "Master",
+            "Voucher",
+            "Company",
+            "Group"
+        ],
+        "right": [
+            "Ledger/Stock Item",
+            "Transaction",
+            "Books of Accounts",
+            "Classification"
+        ]
+    },
+    {
+        "q": "What is the shortcut to activate 'Multi-Company Print' option?",
+        "type": "short_answer",
+        "answers": [
+            "Alt + F10"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a performance bottleneck in Tally when handling millions of transactions?",
+        "type": "mcq",
+        "o": [
+            "Single-threaded processing in specific legacy versions",
+            "Database server speed",
+            "Printer speed",
+            "Internet bandwidth"
+        ]
+    },
+    {
+        "q": "The 'Track Additional Cost of Purchase' feature allocates landing costs to stock items.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "How do you configure 'Automatic TDS deduction' on a specific service?",
+        "type": "mcq",
+        "o": [
+            "Link the Service Ledger to a TDS Nature of Payment in Voucher Class",
+            "Use only F11",
+            "Use Contra voucher",
+            "TDS cannot be automated"
+        ]
+    },
+    {
+        "q": "The 'Slave' attribute in TDL is used to mirror the behavior of one field based on another.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What is the recommended maximum size for a Tally Company data file for optimal performance?",
+        "type": "mcq",
+        "o": [
+            "No strict limit, but splitting by year is advised for large data",
+            "100 MB",
+            "1 GB",
+            "10 GB"
+        ]
+    },
+    {
+        "q": "The 'Generate Report' button on the voucher screen is driven by a ______ in TDL.",
+        "type": "fill_blank",
+        "answers": [
+            "Button"
+        ],
+        "other_options": [
+            "Field",
+            "Collection",
+            "Print",
+            "Method"
+        ]
+    },
+    {
+        "q": "What is the purpose of 'Overwrite' mode in Tally Export?",
+        "type": "short_answer",
+        "answers": [
+            "To replace the existing target data completely instead of appending it"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is NOT a component of Tally's 'Advanced Compliance' suite?",
+        "type": "mcq",
+        "o": [
+            "SEBI Filings",
+            "GST Returns",
+            "TDS Returns",
+            "e-Invoicing"
+        ]
+    },
+    {
+        "q": "What is the core function of the 'Tally Virtual Machine' (TVM) in Tally's architecture?",
+        "type": "mcq",
+        "o": [
+            "To execute TDL bytecode and manage object persistence",
+            "To install the operating system",
+            "To browse the internet",
+            "To manage printer drivers"
+        ]
+    },
+    {
+        "q": "Explain the role of the 'Synchronization Engine' in resolving Global Unique Identifier (GUID) conflicts.",
+        "type": "short_answer",
+        "answers": [
+            "It uses timestamp and master GUID mapping tables to merge data from different sites while detecting duplicates"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which TDL attribute is used to define a 'Computed Field' that does not store data physically?",
+        "type": "mcq",
+        "o": [
+            "Set as",
+            "Storage",
+            "Type",
+            "Width"
+        ]
+    },
+    {
+        "q": "In TDL, the 'Explode' attribute is used to flatten ______ into individual display lines.",
+        "type": "fill_blank",
+        "answers": [
+            "Collections"
+        ],
+        "other_options": [
+            "Objects",
+            "Reports",
+            "Methods",
+            "Variables"
+        ]
+    },
+    {
+        "q": "Tally's native database engine supports true relational referential integrity constraints.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the TDL Symbol with its function in expressions:",
+        "type": "match",
+        "left": [
+            "$$",
+            "##",
+            "@@",
+            "::"
+        ],
+        "right": [
+            "System Variable",
+            "Field Value",
+            "Internal Object",
+            "Scope Resolution"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of the 'Pre-Compilation' flag in TDL add-ons?",
+        "type": "mcq",
+        "o": [
+            "To encrypt and obfuscate source code for security",
+            "To speed up printer output",
+            "To delete temporary files",
+            "To connect to the internet"
+        ]
+    },
+    {
+        "q": "How does Tally handle 'Branch Level Profitability' where inter-branch transfers are billed?",
+        "type": "mcq",
+        "o": [
+            "Through elimination entries in Group Company consolidation and Cost Centre mapping",
+            "It cannot handle branch profitability",
+            "By deleting the transfer entries",
+            "By using only Cash ledger"
+        ]
+    },
+    {
+        "q": "The 'Is Internal' attribute in a Voucher Type ensures it does not appear in statutory reports.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What is the function of the 'Garbage Collection' routine in Tally's data management?",
+        "type": "mcq",
+        "o": [
+            "To compact data by removing deleted objects marked as 'Dead'",
+            "To delete all ledgers",
+            "To install new software",
+            "To sort the Day Book"
+        ]
+    },
+    {
+        "q": "The ______ method is used to dynamically calculate tax breakup in an Invoice TDL.",
+        "type": "fill_blank",
+        "answers": [
+            "Tax Breakup"
+        ],
+        "other_options": [
+            "Compute",
+            "Aggregate",
+            "Print",
+            "Export"
+        ]
+    },
+    {
+        "q": "Define the 'Context' concept in TDL Report generation.",
+        "type": "short_answer",
+        "answers": [
+            "Context defines the current object/record being processed in a loop or report, allowing access to its fields"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following TDL components is essential for creating a 'Real-time Dashboard'?",
+        "type": "mcq",
+        "o": [
+            "Auto Refresh attribute in Report",
+            "Static Variable",
+            "Permanent Collection",
+            "Print Button"
+        ]
+    },
+    {
+        "q": "The 'Native Import' of Excel data requires the file to be in CSV format.",
+        "type": "mcq",
+        "o": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "q": "What is the function of 'Background' and 'Foreground' synchronization?",
+        "type": "mcq",
+        "o": [
+            "Background syncs automatically on schedule; Foreground syncs manually",
+            "Background syncs online; Foreground syncs offline",
+            "They are the same",
+            "Foreground is only for printing"
+        ]
+    },
+    {
+        "q": "Match the TDL 'Type' keyword with the data it holds:",
+        "type": "match",
+        "left": [
+            "String",
+            "Number",
+            "Date",
+            "Logical"
+        ],
+        "right": [
+            "Text data",
+            "Decimal values",
+            "Calendar dates",
+            "Boolean Yes/No"
+        ]
+    },
+    {
+        "q": "What is the shortcut to open the 'Tally Audit Trail' for a specific ledger?",
+        "type": "short_answer",
+        "answers": [
+            "Alt + F5"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following TDL elements supports 'Recursive' call?",
+        "type": "mcq",
+        "o": [
+            "Function",
+            "Object",
+            "Report",
+            "Line"
+        ]
+    },
+    {
+        "q": "The 'Is Client of' attribute is used in defining Master-Slave relationships in TDL.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the purpose of the 'Capability List' in Tally Data Synchronization?",
+        "type": "mcq",
+        "o": [
+            "To specify which masters and vouchers are synced to a specific client",
+            "To list printer capabilities",
+            "To show user rights",
+            "To display inventory items"
+        ]
+    },
+    {
+        "q": "In advanced manufacturing, the 'Co-Product' and 'By-Product' accounting is managed through the ______ voucher.",
+        "type": "fill_blank",
+        "answers": [
+            "Manufacturing Journal"
+        ],
+        "other_options": [
+            "Sales",
+            "Purchase",
+            "Journal",
+            "Receipt Note"
+        ]
+    },
+    {
+        "q": "Explain 'Attribute Overloading' in the context of TDL.",
+        "type": "short_answer",
+        "answers": [
+            "The ability to define the same attribute multiple times in a hierarchy, where the most specific definition takes precedence"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is NOT a standard filter in TDL 'Collection' definition?",
+        "type": "mcq",
+        "o": [
+            "Sys Name",
+            "Child Of",
+            "Belongs To",
+            "Is Group"
+        ]
+    },
+    {
+        "q": "Tally's 'Remote Access' feature relies on the Tally.NET framework to tunnel the connection.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of 'Alter Mode' (A-Mode) in TDL Field behavior?",
+        "type": "mcq",
+        "o": [
+            "To define how a field appears or behaves during creation vs alteration of a master",
+            "To change the company data path",
+            "To delete the field",
+            "To sort the field"
+        ]
+    },
+    {
+        "q": "Which of the following is a complex Tax configuration in Tally?",
+        "type": "mcq",
+        "o": [
+            "Tax on Tax (Cascading Tax) scenario",
+            "Simple CGST",
+            "Simple SGST",
+            "Simple IGST"
+        ]
+    },
+    {
+        "q": "The 'VAT Assessment' report falls under the 'Statutory Audit' section.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "Match the Tally internal file extension with its content:",
+        "type": "match",
+        "left": [
+            ".tsf",
+            ".900",
+            ".1800",
+            ".tfl"
+        ],
+        "right": [
+            "Company Registration",
+            "Company Data (1000s)",
+            "Company Data (2000s)",
+            "Tally File Lock"
+        ]
+    },
+    {
+        "q": "What is the shortcut to force 'Recalculate' in a TDL Report?",
+        "type": "short_answer",
+        "answers": [
+            "Ctrl + Alt + R"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following TDL features allows conditional display of lines?",
+        "type": "mcq",
+        "o": [
+            "Skip",
+            "Width",
+            "Sort",
+            "Border"
+        ]
+    },
+    {
+        "q": "The 'Add-on' Management screen shows the list of compiled TCP files.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "How do you handle 'Futures and Options' accounting in Tally?",
+        "type": "mcq",
+        "o": [
+            "Using Memorandum vouchers for contract notes and Journal for MTM settlements",
+            "It cannot be handled",
+            "Only through Payroll",
+            "Only through Contra"
+        ]
+    },
+    {
+        "q": "The ______ collection is used to fetch all ledgers belonging to a specific group in TDL.",
+        "type": "fill_blank",
+        "answers": [
+            "Ledgers"
+        ],
+        "other_options": [
+            "Objects",
+            "Groups",
+            "Vouchers",
+            "Companies"
+        ]
+    },
+    {
+        "q": "Explain 'Platform Dependent Compilation' in TDL.",
+        "type": "short_answer",
+        "answers": [
+            "TDL can be compiled to different formats (TCP) optimized for Desktop, Browser, or Server environments"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is an advanced feature of Tally's 'Audit Compliance' for companies?",
+        "type": "mcq",
+        "o": [
+            "Companies Act Annexure generation",
+            "Simple Trial Balance",
+            "Day Book printing",
+            "Ledger creation"
+        ]
+    },
+    {
+        "q": "The 'Unique' attribute in TDL ensures that a field value is not duplicated across masters.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What is the function of the 'TDL Interface' (HTTP Interface)?",
+        "type": "mcq",
+        "o": [
+            "To allow external applications to push or pull data from Tally via REST-like calls",
+            "To print documents",
+            "To manage mouse clicks",
+            "To change font color"
+        ]
+    },
+    {
+        "q": "The 'Batch' size parameter in Export controls the number of ______ per file.",
+        "type": "fill_blank",
+        "answers": [
+            "vouchers"
+        ],
+        "other_options": [
+            "companies",
+            "printers",
+            "users",
+            "ledgers"
+        ]
+    },
+    {
+        "q": "What is the use of 'Namespace' definition in TDL?",
+        "type": "short_answer",
+        "answers": [
+            "To avoid naming conflicts between different add-on libraries by grouping definitions"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a sign of 'Data Fragmentation' in Tally?",
+        "type": "mcq",
+        "o": [
+            "Slow performance even with limited data",
+            "Fast printing",
+            "Smooth scrolling",
+            "Quick backup"
+        ]
+    },
+    {
+        "q": "The 'Base Type' of a UDF cannot be changed after creation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "How does Tally ensure data consistency when a Transaction is interrupted by power failure?",
+        "type": "mcq",
+        "o": [
+            "Using Atomic Transaction Commit and Rollback mechanism",
+            "It doesn't ensure consistency",
+            "It auto-saves every second",
+            "It locks the computer"
+        ]
+    },
+    {
+        "q": "Match the Tally Report with its grouping logic:",
+        "type": "match",
+        "left": [
+            "Schedules VI",
+            "Form 3CD",
+            "Cost Category Summary",
+            "GST Reconciliation"
+        ],
+        "right": [
+            "Balance Sheet Groups",
+            "Audit Clauses",
+            "Parallel Cost Allocation",
+            "Mismatch Reports"
+        ]
+    },
+    {
+        "q": "What is the shortcut to open the 'Tally.NET Information' screen?",
+        "type": "short_answer",
+        "answers": [
+            "Ctrl + Alt + N"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following TDL 'Action' types is used to print a report?",
+        "type": "mcq",
+        "o": [
+            "Print Report",
+            "Delete Report",
+            "Save Report",
+            "Export Report"
+        ]
+    },
+    {
+        "q": "The 'Local Formula' applies to the entire report, while 'Column Formula' applies to a specific cell.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What is the primary benefit of using 'TallyPrime' over 'Tally.ERP 9' in terms of architecture?",
+        "type": "mcq",
+        "o": [
+            "Multitasking interface and go-to search bar",
+            "Removal of accounting features",
+            "Mandatory internet connection",
+            "Less security"
+        ]
+    },
+    {
+        "q": "The 'Auto Generated' voucher type flag is used for vouchers created by the system, like tax split.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "In TDL, the 'Key' attribute is used to define a ______ in a collection.",
+        "type": "fill_blank",
+        "answers": [
+            "unique identifier"
+        ],
+        "other_options": [
+            "color",
+            "width",
+            "title",
+            "print order"
+        ]
+    },
+    {
+        "q": "Explain the 'Singleton' pattern in TDL Objects.",
+        "type": "short_answer",
+        "answers": [
+            "A design limitation/enforcement where a specific Object can only have one instance across the application"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a valid 'Method' to dynamically fetch data in a TDL Field?",
+        "type": "mcq",
+        "o": [
+            "$$FetchValue",
+            "$$DeleteValue",
+            "$$PrintValue",
+            "$$SortValue"
+        ]
+    },
+    {
+        "q": "The 'Reserved Words' in TDL can be used as variable names.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following vouchers can be used to reverse the effect of a Rejection In?",
+        "type": "mcq",
+        "o": [
+            "Rejection Out",
+            "Sales Order",
+            "Purchase Order",
+            "Physical Stock"
+        ]
+    },
+    {
+        "q": "The 'Tally Gateway' service runs on port ______ by default.",
+        "type": "fill_blank",
+        "answers": [
+            "9999"
+        ],
+        "other_options": [
+            "8080",
+            "80",
+            "443",
+            "3306"
+        ]
+    },
+    {
+        "q": "Match the Tally Security Level with its restriction:",
+        "type": "match",
+        "left": [
+            "Disallow Back Date",
+            "Disallow Delete",
+            "Disallow Print",
+            "Disallow Export"
+        ],
+        "right": [
+            "Date Restriction",
+            "Voucher Integrity",
+            "Confidentiality",
+            "Data Leak Prevention"
+        ]
+    },
+    {
+        "q": "What is the shortcut to view the 'Product and Features' information?",
+        "type": "short_answer",
+        "answers": [
+            "Ctrl + Alt + H",
+            "Ctrl + H"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the impact of enabling 'Maintain Multiple Godowns' on voucher entry?",
+        "type": "mcq",
+        "o": [
+            "It prompts for godown allocation for stock items in invoices",
+            "It disables stock entry",
+            "It forces bank entry",
+            "It hides the date field"
+        ]
+    },
+    {
+        "q": "The 'Control Voucher' type is used to manage user permissions dynamically.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following TDL features supports 'Drag and Drop' functionality?",
+        "type": "mcq",
+        "o": [
+            "TallyPrime UI components",
+            "Tally.ERP 9 Gold",
+            "Tally 7.2",
+            "Tally Server 3.0"
+        ]
+    },
+    {
+        "q": "The 'Multi-Location Inventory' report requires Godown and Batch master configuration.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Reverse Charge' ledger group in GST?",
+        "type": "mcq",
+        "o": [
+            "To track liability payable directly by the recipient of goods/services",
+            "To track sales to government",
+            "To track export sales",
+            "To track inter-state purchases"
+        ]
+    },
+    {
+        "q": "The 'Method' attribute in a Button triggers a ______ when clicked.",
+        "type": "fill_blank",
+        "answers": [
+            "function",
+            "action"
+        ],
+        "other_options": [
+            "print",
+            "field",
+            "line",
+            "report"
+        ]
+    },
+    {
+        "q": "Explain the use of '$$IsEmpty' function in TDL.",
+        "type": "short_answer",
+        "answers": [
+            "To check if a field or variable contains no value"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is an advanced security feature in Tally for data at rest?",
+        "type": "mcq",
+        "o": [
+            "TallyVault Encryption",
+            "User Password",
+            "Screen Lock",
+            "Windows Firewall"
+        ]
+    },
+    {
+        "q": "The 'Stock Query' feature in TDL can display live stock status during invoice entry.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "How do you handle 'Lease Accounting' in Tally as per Ind AS 116?",
+        "type": "mcq",
+        "o": [
+            "Manual amortization schedules via Journal entries for Right-of-Use assets",
+            "Automatic schedule in Stock Journal",
+            "Using Contra entries",
+            "Tally fully automates lease accounting"
+        ]
+    },
+    {
+        "q": "The 'Invisible' attribute in TDL removes the field from the screen and memory.",
+        "type": "mcq",
+        "o": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "q": "Match the Tally Trace Log type with the issue it debugs:",
+        "type": "match",
+        "left": [
+            "TDL Trace",
+            "ODBC Trace",
+            "Sync Trace",
+            "Print Trace"
+        ],
+        "right": [
+            "Coding errors",
+            "Database connection",
+            "Data transfer errors",
+            "Output formatting"
+        ]
+    },
+    {
+        "q": "What is the shortcut to export the current report to PDF?",
+        "type": "short_answer",
+        "answers": [
+            "Alt + E"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a characteristic of the 'High Performance' mode in Tally Server?",
+        "type": "mcq",
+        "o": [
+            "Parallel processing of read requests",
+            "Single user only",
+            "No data entry allowed",
+            "Printer disabled"
+        ]
+    },
+    {
+        "q": "The 'Override Using' attribute in TDL allows a parent attribute to replace a child one.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "What is the correct handling of 'Import of Services' in Tally GST?",
+        "type": "mcq",
+        "o": [
+            "Record as Purchase with Reverse Charge mechanism",
+            "Record as Sales",
+            "Record as Contra",
+            "Ignore the transaction"
+        ]
+    },
+    {
+        "q": "The ______ collection in TDL is used to access the current company's accounting year periods.",
+        "type": "fill_blank",
+        "answers": [
+            "Periods"
+        ],
+        "other_options": [
+            "Vouchers",
+            "Masters",
+            "Reports",
+            "Buttons"
+        ]
+    },
+    {
+        "q": "Describe the 'Data Abstraction Layer' in Tally's new architecture.",
+        "type": "short_answer",
+        "answers": [
+            "A layer that separates the business logic (TDL) from the physical storage engine, allowing future database changes without breaking code"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is NOT a valid TDL 'Perspective'?",
+        "type": "mcq",
+        "o": [
+            "Hardware",
+            "Accounting",
+            "Inventory",
+            "Payroll"
+        ]
+    },
+    {
+        "q": "The 'Aggressive Locking' strategy in SQL-based Tally prevents concurrent edits.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following is the correct order of precedence in TDL expressions?",
+        "type": "mcq",
+        "o": [
+            "Unary, Arithmetic, Comparison, Logical",
+            "Logical, Comparison, Arithmetic, Unary",
+            "Arithmetic, Unary, Logical, Comparison",
+            "Comparison, Logical, Arithmetic, Unary"
+        ]
+    },
+    {
+        "q": "The 'Service' attribute in Tally Gateway configuration defines the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "background process"
+        ],
+        "other_options": [
+            "printer name",
+            "user name",
+            "company name",
+            "tax rate"
+        ]
+    },
+    {
+        "q": "What is the function of 'Is Billwise On' in TDL?",
+        "type": "short_answer",
+        "answers": [
+            "To check if the current ledger has Bill-wise tracking enabled"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following describes the 'Zero-Base Budgeting' implementation in Tally?",
+        "type": "mcq",
+        "o": [
+            "Manual creation of a new Scenario with zeroed-out budgets",
+            "It is fully automated",
+            "It uses Contra vouchers",
+            "It requires deletion of all previous data"
+        ]
+    },
+    {
+        "q": "The 'Show All' filter in reports removes all applied quick filters.",
+        "type": "mcq",
+        "o": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "q": "How do you merge two identical ledgers accidentally created in Tally?",
+        "type": "mcq",
+        "o": [
+            "Use TDL/Third-party Merge tool or rename one and manually adjust entries",
+            "Tally has a built-in merge button",
+            "Delete both and recreate",
+            "It merges automatically"
+        ]
+    },
+    {
+        "q": "Match the Report Printing Destination with its mechanism:",
+        "type": "match",
+        "left": [
+            "Printer",
+            "File",
+            "Email",
+            "Cloud"
+        ],
+        "right": [
+            "Physical hard copy",
+            "Disk output",
+            "MAPI/SMTP",
+            "Tally.NET upload"
+        ]
+    },
+    {
+        "q": "What is the shortcut to recalculate all values in a TDL Report?",
+        "type": "short_answer",
+        "answers": [
+            "Ctrl + Alt + R"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a standard TDL operator for 'Not Equal To'?",
+        "type": "mcq",
+        "o": [
+            "!=",
+            "=",
+            "==",
+            "><"
+        ]
+    },
+    {
+        "q": "The 'Min. Stock Level' violation warning is part of the Exception Reports.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In a 'Group Company', the elimination of inter-company transactions is automatically calculated.",
+        "type": "mcq",
+        "o": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "q": "The ______ attribute in TDL is used to center-align text in a report column.",
+        "type": "fill_blank",
+        "answers": [
+            "Align"
+        ],
+        "other_options": [
+            "Width",
+            "Border",
+            "Style",
+            "Format"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'Audit Snapshot' feature?",
+        "type": "short_answer",
+        "answers": [
+            "To capture a static picture of voucher details at a specific time for audit verification"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a reason for 'Deadlock' in a multi-user Tally environment?",
+        "type": "mcq",
+        "o": [
+            "Two users trying to alter the same voucher simultaneously",
+            "Too much RAM",
+            "Fast internet",
+            "Using Single User license"
+        ]
+    },
+    {
+        "q": "The 'Transaction Date' and 'Voucher Date' are stored in separate fields in the Tally database.",
+        "type": "mcq",
+        "o": [
+            "False",
+            "True"
+        ]
+    },
+    {
+        "q": "What is the purpose of 'Multi-lingual' configuration in TallyPrime?",
+        "type": "mcq",
+        "o": [
+            "To allow data entry and reporting in different languages",
+            "To translate the OS",
+            "To change keyboard layout",
+            "To install fonts"
+        ]
+    },
+    {
+        "q": "The 'Search and Filter' box in TallyPrime is based on a ______ search algorithm.",
+        "type": "fill_blank",
+        "answers": [
+            "fuzzy"
+        ],
+        "other_options": [
+            "exact match only",
+            "binary",
+            "linear",
+            "case-sensitive"
+        ]
+    },
+    {
+        "q": "Define 'Partial Stock Journal' in advanced inventory.",
+        "type": "short_answer",
+        "answers": [
+            "A journal that adjusts stock quantity for specific batches or tracking numbers without affecting the entire item ledger"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following TDL concepts allows encapsulation of reusable code?",
+        "type": "mcq",
+        "o": [
+            "Include",
+            "Delete",
+            "Print",
+            "Export"
+        ]
+    }
+]

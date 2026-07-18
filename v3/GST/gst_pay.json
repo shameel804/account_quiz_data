@@ -1,0 +1,5833 @@
+[
+    {
+        "q": "Which mode of payment allows direct transfer of funds from the taxpayer's bank account to the government?",
+        "type": "mcq",
+        "o": [
+            "Online Payment via Net Banking",
+            "Payment through Credit Card",
+            "Cash Payment at Authorized Bank",
+            "Payment via Demand Draft"
+        ]
+    },
+    {
+        "q": "What is the full form of TDS under GST?",
+        "type": "short_answer",
+        "answers": [
+            "Tax Deducted at Source"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Interest on late payment of GST is calculated from the ______ following the due date.",
+        "type": "fill_blank",
+        "answers": [
+            "day"
+        ],
+        "other_options": [
+            "month",
+            "week",
+            "year"
+        ]
+    },
+    {
+        "q": "Which form is used to file a refund application under GST?",
+        "type": "mcq",
+        "o": [
+            "GST RFD-01",
+            "GST PMT-09",
+            "GST REG-01",
+            "GST CMP-08"
+        ]
+    },
+    {
+        "q": "Over the Counter payment of GST is an offline mode of payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Who is required to deduct TDS under GST?",
+        "type": "mcq",
+        "o": [
+            "Specified government departments and agencies",
+            "All registered taxpayers",
+            "Only e-commerce operators",
+            "Any buyer of goods"
+        ]
+    },
+    {
+        "q": "How many days is a generated GST challan (Form GST PMT-06) valid for payment?",
+        "type": "slider",
+        "min": 5,
+        "max": 30,
+        "correct": 15
+    },
+    {
+        "q": "Match the GST forms with their respective ledgers or functions.",
+        "type": "memory",
+        "pairs": {
+            "PMT-01": "Electronic Liability Register",
+            "PMT-02": "Electronic Credit Ledger",
+            "PMT-05": "Electronic Cash Ledger",
+            "PMT-06": "Challan for Payment"
+        }
+    },
+    {
+        "q": "Match the payment mode with its description:",
+        "type": "match",
+        "left": [
+            "Net Banking",
+            "NEFT/RTGS",
+            "Debit/Credit Card",
+            "Cash/Cheque"
+        ],
+        "right": [
+            "Authorized bank's online portal",
+            "Fund transfer from any bank branch",
+            "Payment gateway on GST portal",
+            "Over the Counter at authorized bank"
+        ]
+    },
+    {
+        "q": "Which of these is NOT a valid mode of paying GST?",
+        "type": "odd_one_out",
+        "options": [
+            "Internet Banking",
+            "NEFT",
+            "RTGS",
+            "Cryptocurrency",
+            "Over the Counter"
+        ],
+        "correct": "Cryptocurrency"
+    },
+    {
+        "q": "The amount of TDS deducted by the deductor is reflected in the ______ of the deductee.",
+        "type": "fill_blank",
+        "answers": [
+            "electronic cash ledger"
+        ],
+        "other_options": [
+            "electronic liability register",
+            "GST return",
+            "credit ledger"
+        ]
+    },
+    {
+        "q": "What is the time limit for claiming a refund of excess payment of tax?",
+        "type": "mcq",
+        "o": [
+            "2 years from the relevant date",
+            "1 year from the date of payment",
+            "3 years from the end of the financial year",
+            "6 months from the date of filing return"
+        ]
+    },
+    {
+        "q": "Late fee for not filing GSTR-3B is capped at a maximum of Rs. 500 per return.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Swipe RIGHT for Minor Heads and LEFT for Major Heads under GST payments.",
+        "type": "swipe_cards",
+        "left_label": "Major Head",
+        "right_label": "Minor Head",
+        "cards": {
+            "CGST": "left",
+            "SGST": "left",
+            "IGST": "left",
+            "Interest": "right",
+            "Penalty": "right",
+            "Late Fee": "right"
+        }
+    },
+    {
+        "q": "Which challan is used for making GST payments?",
+        "type": "short_answer",
+        "answers": [
+            "PMT-06"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "TCS under GST is applicable to which entity?",
+        "type": "mcq",
+        "o": [
+            "E-commerce operators",
+            "Specified government departments",
+            "Input service distributors",
+            "Casual taxable persons"
+        ]
+    },
+    {
+        "q": "Unscramble the term for the 14-digit number generated on the GST portal before payment.",
+        "type": "word_scramble",
+        "answer": "CPIN",
+        "decoys": "ZXY"
+    },
+    {
+        "q": "A registered person can pay GST using virtual payment addresses.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the rate of TDS under GST?",
+        "type": "mcq",
+        "o": [
+            "2%",
+            "5%",
+            "1%",
+            "10%"
+        ]
+    },
+    {
+        "q": "In case of excess payment of tax, the refund is credited to the taxpayer's ______.",
+        "type": "fill_blank",
+        "answers": [
+            "bank account"
+        ],
+        "other_options": [
+            "electronic credit ledger",
+            "electronic cash ledger",
+            "GST return"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a mode of GST payment?",
+        "type": "mcq",
+        "o": [
+            "PayPal",
+            "Net Banking",
+            "NEFT/RTGS",
+            "Over the Counter"
+        ]
+    },
+    {
+        "q": "Complete the sentence regarding Over The Counter (OTC) GST payments:",
+        "type": "inline_dropdown",
+        "text": "Over the counter payments are restricted to Rs. [0] per challan per tax period, except for [1] departments.",
+        "dropdowns": [
+            {
+                "correct": "10000",
+                "options": [
+                    "5000",
+                    "10000",
+                    "50000"
+                ]
+            },
+            {
+                "correct": "government",
+                "options": [
+                    "government",
+                    "corporate",
+                    "foreign"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the minimum amount for which a refund can be claimed under GST?",
+        "type": "short_answer",
+        "answers": [
+            "Rs. 1000"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Interest on delayed refund to the taxpayer is paid at the rate of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "6%"
+        ],
+        "other_options": [
+            "12%",
+            "18%",
+            "24%"
+        ]
+    },
+    {
+        "q": "What is the standard annual interest rate (in percentage) for delayed payment of GST under Section 50(1)?",
+        "type": "slider",
+        "min": 10,
+        "max": 24,
+        "correct": 18
+    },
+    {
+        "q": "Match the GST form with its purpose:",
+        "type": "match",
+        "left": [
+            "PMT-01",
+            "PMT-06",
+            "RFD-01",
+            "GSTR-3B"
+        ],
+        "right": [
+            "Electronic Tax Liability Register",
+            "Challan for payment",
+            "Refund Application",
+            "Monthly Return"
+        ]
+    },
+    {
+        "q": "Match the payment abbreviations with their full forms.",
+        "type": "memory",
+        "pairs": {
+            "NEFT": "National Electronic Fund Transfer",
+            "RTGS": "Real Time Gross Settlement",
+            "CIN": "Challan Identification Number",
+            "EFP": "Electronic Focal Point"
+        }
+    },
+    {
+        "q": "The last date for payment of GST under the monthly return is the 20th of the following month.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of these is NOT a component of or related to a GST challan?",
+        "type": "odd_one_out",
+        "options": [
+            "CPIN",
+            "CIN",
+            "BRN",
+            "Passport Number"
+        ],
+        "correct": "Passport Number"
+    },
+    {
+        "q": "Who is responsible for collecting TCS under GST?",
+        "type": "mcq",
+        "o": [
+            "E-commerce operator",
+            "Supplier of goods",
+            "Recipient of supply",
+            "Bank branch"
+        ]
+    },
+    {
+        "q": "A unique identification number is issued to the TDS deductor.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Swipe RIGHT for items paid via Cash Ledger, LEFT for items that can be paid via Credit Ledger.",
+        "type": "swipe_cards",
+        "left_label": "Credit Ledger",
+        "right_label": "Cash Ledger",
+        "cards": {
+            "Output IGST Liability": "left",
+            "Output CGST Liability": "left",
+            "Interest": "right",
+            "Penalty": "right",
+            "Late Fees": "right"
+        }
+    },
+    {
+        "q": "Which ledger contains the amount of input tax credit available?",
+        "type": "mcq",
+        "o": [
+            "Electronic Credit Ledger",
+            "Electronic Cash Ledger",
+            "Electronic Liability Register",
+            "PMT-01 Register"
+        ]
+    },
+    {
+        "q": "Unscramble the term for the document created to deposit tax.",
+        "type": "word_scramble",
+        "answer": "CHALLAN",
+        "decoys": "QK"
+    },
+    {
+        "q": "The interest rate for late payment of GST is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "18%"
+        ],
+        "other_options": [
+            "24%",
+            "12%",
+            "6%"
+        ]
+    },
+    {
+        "q": "What is the turnover threshold for mandatory TDS deduction by a government department?",
+        "type": "short_answer",
+        "answers": [
+            "contract value exceeding Rs. 2.5 lakh"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Under Section 50(3), a taxpayer who wrongly avails and utilizes Input Tax Credit must pay an interest rate of [0] percent [1].",
+        "type": "inline_dropdown",
+        "text": "Under Section 50(3), a taxpayer who wrongly avails and utilizes Input Tax Credit must pay an interest rate of [0] percent [1].",
+        "dropdowns": [
+            {
+                "correct": "24",
+                "options": [
+                    "18",
+                    "24",
+                    "12"
+                ]
+            },
+            {
+                "correct": "annually",
+                "options": [
+                    "monthly",
+                    "annually",
+                    "quarterly"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which of the following payments is first adjusted from the electronic credit ledger?",
+        "type": "mcq",
+        "o": [
+            "Output tax liability",
+            "Interest",
+            "Late fee",
+            "Penalty"
+        ]
+    },
+    {
+        "q": "A refund claim can be filed online only through the GST portal.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the ledger with its content:",
+        "type": "match",
+        "left": [
+            "Electronic Cash Ledger",
+            "Electronic Credit Ledger",
+            "Electronic Liability Register"
+        ],
+        "right": [
+            "Deposits made by taxpayer",
+            "Input Tax Credit claimed",
+            "Total tax liability"
+        ]
+    },
+    {
+        "q": "Which section of the CGST Act deals with refunds?",
+        "type": "mcq",
+        "o": [
+            "Section 54",
+            "Section 49",
+            "Section 73",
+            "Section 16"
+        ]
+    },
+    {
+        "q": "How many digits does a Challan Identification Number (CIN) contain?",
+        "type": "slider",
+        "min": 10,
+        "max": 20,
+        "correct": 17
+    },
+    {
+        "q": "TCS rate under GST is 1% of the net value of taxable supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Swipe RIGHT for CIN facts, LEFT for CPIN facts.",
+        "type": "swipe_cards",
+        "left_label": "CPIN",
+        "right_label": "CIN",
+        "cards": {
+            "14 digits long": "left",
+            "Generated by GST Portal": "left",
+            "17 digits long": "right",
+            "Generated by the Bank": "right"
+        }
+    },
+    {
+        "q": "Payment of tax, interest, penalty, and fees is made through challan ______.",
+        "type": "fill_blank",
+        "answers": [
+            "PMT-06"
+        ],
+        "other_options": [
+            "PMT-01",
+            "PMT-04",
+            "GST DRC-03"
+        ]
+    },
+    {
+        "q": "Which of these is an offline mode of GST payment?",
+        "type": "mcq",
+        "o": [
+            "Over the Counter payment at bank",
+            "UPI payment",
+            "Mobile wallets",
+            "Net banking"
+        ]
+    },
+    {
+        "q": "What is the maximum rate of interest prescribed under the CGST Act for undue refund claims?",
+        "type": "short_answer",
+        "answers": [
+            "24%"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A TDS certificate must be issued to the deductee within ______ days of deduction.",
+        "type": "fill_blank",
+        "answers": [
+            "5"
+        ],
+        "other_options": [
+            "10",
+            "15",
+            "30"
+        ]
+    },
+    {
+        "q": "Which form is used to file an appeal against a refund rejection order?",
+        "type": "mcq",
+        "o": [
+            "GST APL-01",
+            "GST RFD-01",
+            "GST PMT-09",
+            "GST DRC-03"
+        ]
+    },
+    {
+        "q": "Late fee for nil return in GSTR-3B is Rs. 50 per day.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Electronic Cash Ledger can be maintained in how many major heads?",
+        "type": "mcq",
+        "o": [
+            "Five",
+            "Three",
+            "Four",
+            "Two"
+        ]
+    },
+    {
+        "q": "The TDS amount is reflected in the Electronic ______ Ledger of the deductee.",
+        "type": "fill_blank",
+        "answers": [
+            "Cash"
+        ],
+        "other_options": [
+            "Credit",
+            "Liability",
+            "Input"
+        ]
+    },
+    {
+        "q": "Match the term with its correct rate/amount:",
+        "type": "match",
+        "left": [
+            "TDS Rate",
+            "TCS Rate",
+            "Interest on late payment",
+            "Minimum refund amount"
+        ],
+        "right": [
+            "2%",
+            "1%",
+            "18%",
+            "Rs. 1000"
+        ]
+    },
+    {
+        "q": "Which entity collects TCS on goods sold through its platform?",
+        "type": "mcq",
+        "o": [
+            "Amazon",
+            "A government department buying goods",
+            "A registered taxpayer selling directly",
+            "A recipient of services"
+        ]
+    },
+    {
+        "q": "The process of offsetting tax liability starts with the electronic credit ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the time limit for granting a provisional refund of 90%?",
+        "type": "short_answer",
+        "answers": [
+            "7 days from acknowledgment"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Payment of interest and penalty cannot be made using input tax credit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is the correct order of payment adjustment?",
+        "type": "mcq",
+        "o": [
+            "Tax, Interest, Penalty, Fee",
+            "Penalty, Interest, Tax, Fee",
+            "Fee, Tax, Interest, Penalty",
+            "Interest, Tax, Penalty, Fee"
+        ]
+    },
+    {
+        "q": "Refund of input tax credit is allowed in case of ______ rated supplies.",
+        "type": "fill_blank",
+        "answers": [
+            "zero"
+        ],
+        "other_options": [
+            "exempt",
+            "nil",
+            "inter-state"
+        ]
+    },
+    {
+        "q": "Unscramble the type of ledger where all tax deposits are credited.",
+        "type": "word_scramble",
+        "answer": "CASH",
+        "decoys": "ZWB"
+    },
+    {
+        "q": "Who can authorize a refund sanction order?",
+        "type": "mcq",
+        "o": [
+            "Proper Officer",
+            "Any GST practitioner",
+            "Taxpayer self",
+            "Bank manager"
+        ]
+    },
+    {
+        "q": "GST PMT-09 is used for transferring amounts between major heads.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the form number for the TDS certificate under GST?",
+        "type": "short_answer",
+        "answers": [
+            "GSTR-7A"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A refund of unutilized ITC on account of inverted duty structure is available for ______.",
+        "type": "fill_blank",
+        "answers": [
+            "goods"
+        ],
+        "other_options": [
+            "services",
+            "both goods and services",
+            "exports"
+        ]
+    },
+    {
+        "q": "Match the payment mode with its timing:",
+        "type": "match",
+        "left": [
+            "Net Banking",
+            "NEFT/RTGS",
+            "OTC Cheque"
+        ],
+        "right": [
+            "Real-time",
+            "Same day or next day",
+            "Subject to clearance"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a valid reason for refund under GST?",
+        "type": "mcq",
+        "o": [
+            "Change in management of company",
+            "Export of goods or services",
+            "Excess payment of tax",
+            "Finalization of provisional assessment"
+        ]
+    },
+    {
+        "q": "The deductor must file GSTR-7 by the 10th of the following month.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the maximum late fee per day for GSTR-3B (with liability) under CGST Act?",
+        "type": "mcq",
+        "o": [
+            "Rs. 50",
+            "Rs. 25",
+            "Rs. 100",
+            "Rs. 200"
+        ]
+    },
+    {
+        "q": "What is the total TDS rate under GST for an intra-state supply (CGST + SGST)?",
+        "type": "slider",
+        "min": 1,
+        "max": 5,
+        "correct": 2
+    },
+    {
+        "q": "Interest on refund is calculated from the date of ______ until the date of issue of refund.",
+        "type": "fill_blank",
+        "answers": [
+            "filing refund application"
+        ],
+        "other_options": [
+            "due date",
+            "acknowledgment date",
+            "end of quarter"
+        ]
+    },
+    {
+        "q": "Match the TDS/TCS forms to their descriptions.",
+        "type": "memory",
+        "pairs": {
+            "GSTR-7": "TDS Return",
+            "GSTR-7A": "TDS Certificate",
+            "GSTR-8": "TCS Return",
+            "GSTR-8A": "TCS Statement"
+        }
+    },
+    {
+        "q": "Which of these entities is NOT mandated to deduct TDS under Section 51?",
+        "type": "odd_one_out",
+        "options": [
+            "Local authority",
+            "Government agencies",
+            "Public Sector Undertakings",
+            "Small unregistered retailers"
+        ],
+        "correct": "Small unregistered retailers"
+    },
+    {
+        "q": "Which major head in the Electronic Cash Ledger is used for payment of interest?",
+        "type": "short_answer",
+        "answers": [
+            "Other"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "TCS is to be deposited by the e-commerce operator by the 10th of the following month.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which type of refund requires the applicant to provide a bank guarantee?",
+        "type": "mcq",
+        "o": [
+            "Provisional refund",
+            "Final refund",
+            "Refund of advance tax",
+            "Refund to UN bodies"
+        ]
+    },
+    {
+        "q": "Swipe RIGHT for TCS, LEFT for TDS.",
+        "type": "swipe_cards",
+        "left_label": "TDS",
+        "right_label": "TCS",
+        "cards": {
+            "Section 51": "left",
+            "Government Contracts": "left",
+            "Section 52": "right",
+            "E-commerce Operators": "right"
+        }
+    },
+    {
+        "q": "Credit in the Electronic Cash Ledger is used for payment of tax, interest, penalty, and ______.",
+        "type": "fill_blank",
+        "answers": [
+            "fee"
+        ],
+        "other_options": [
+            "refund",
+            "input credit",
+            "assessment"
+        ]
+    },
+    {
+        "q": "Unscramble the mechanism where tax is collected by an e-commerce operator.",
+        "type": "word_scramble",
+        "answer": "TCS",
+        "decoys": "ABY"
+    },
+    {
+        "q": "Match the document with its related process:",
+        "type": "match",
+        "left": [
+            "GSTR-7A",
+            "RFD-04",
+            "PMT-03",
+            "RFD-06"
+        ],
+        "right": [
+            "TDS Certificate",
+            "Provisional Refund Order",
+            "Payment Register",
+            "Final Refund Order"
+        ]
+    },
+    {
+        "q": "Complete the TDS threshold rule:",
+        "type": "inline_dropdown",
+        "text": "TDS is deducted if the total value of supply under a contract exceeds Rs. [0] lakhs, and must be deposited by the [1] of the next month.",
+        "dropdowns": [
+            {
+                "correct": "2.5",
+                "options": [
+                    "1.5",
+                    "2.5",
+                    "5.0"
+                ]
+            },
+            {
+                "correct": "10th",
+                "options": [
+                    "10th",
+                    "15th",
+                    "20th"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Payment of GST by any mode other than online is called ______ payment.",
+        "type": "fill_blank",
+        "answers": [
+            "over the counter",
+            "offline"
+        ],
+        "other_options": [
+            "direct",
+            "manual",
+            "physical"
+        ]
+    },
+    {
+        "q": "Which of these challans is used for payment of TDS?",
+        "type": "mcq",
+        "o": [
+            "PMT-06",
+            "PMT-02",
+            "PMT-05",
+            "PMT-03"
+        ]
+    },
+    {
+        "q": "A refund of wrongly collected and deposited tax can be claimed by the unregistered person.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the due date for depositing TCS by an e-commerce operator?",
+        "type": "short_answer",
+        "answers": [
+            "10th of the following month"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the standard TCS rate (IGST or CGST+SGST) collected by e-commerce operators in percentage?",
+        "type": "slider",
+        "min": 1,
+        "max": 10,
+        "correct": 1
+    },
+    {
+        "q": "The Electronic Cash Ledger is maintained in ______ major heads.",
+        "type": "fill_blank",
+        "answers": [
+            "five"
+        ],
+        "other_options": [
+            "three",
+            "six",
+            "four"
+        ]
+    },
+    {
+        "q": "Which of the following is an authorized bank for OTC GST payments?",
+        "type": "mcq",
+        "o": [
+            "State Bank of India",
+            "Any cooperative bank",
+            "Any private bank branch",
+            "Payment banks only"
+        ]
+    },
+    {
+        "q": "TDS deducted under GST is available as credit in the electronic credit ledger of the deductee.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the major head with its purpose in cash ledger:",
+        "type": "match",
+        "left": [
+            "Integrated Tax",
+            "Central Tax",
+            "State/UT Tax",
+            "Cess",
+            "Other"
+        ],
+        "right": [
+            "IGST payment",
+            "CGST payment",
+            "SGST/UTGST payment",
+            "Compensation Cess payment",
+            "Interest/Penalty payment"
+        ]
+    },
+    {
+        "q": "Refund of ______ can be claimed by a tourist leaving India.",
+        "type": "fill_blank",
+        "answers": [
+            "IGST"
+        ],
+        "other_options": [
+            "CGST",
+            "SGST",
+            "Cess"
+        ]
+    },
+    {
+        "q": "Which rule of CGST Rules, 2017 deals with refund?",
+        "type": "mcq",
+        "o": [
+            "Rule 89 to 97A",
+            "Rule 36 to 44",
+            "Rule 54 to 60",
+            "Rule 10 to 20"
+        ]
+    },
+    {
+        "q": "Payment through mobile wallets is allowed for GST payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The maximum rate of TCS under GST is ______%.",
+        "type": "short_answer",
+        "answers": [
+            "1"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Who files Form GSTR-8?",
+        "type": "mcq",
+        "o": [
+            "E-commerce operators collecting TCS",
+            "TDS deductors",
+            "Input service distributors",
+            "Non-resident taxable persons"
+        ]
+    },
+    {
+        "q": "Refund of accumulated ITC due to inverted duty structure is not applicable for services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The interest rate for excess refund granted to the taxpayer is ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "18"
+        ],
+        "other_options": [
+            "24",
+            "12",
+            "6"
+        ]
+    },
+    {
+        "q": "A refund application must be accompanied by documentary evidence as specified in Rule ______.",
+        "type": "fill_blank",
+        "answers": [
+            "89"
+        ],
+        "other_options": [
+            "54",
+            "36",
+            "44"
+        ]
+    },
+    {
+        "q": "Which of these is NOT an online mode of GST payment?",
+        "type": "mcq",
+        "o": [
+            "Demand Draft at bank counter",
+            "UPI",
+            "Credit Card",
+            "Net Banking"
+        ]
+    },
+    {
+        "q": "Match the type of refund with its relevant date:",
+        "type": "match",
+        "left": [
+            "Export of goods",
+            "Excess payment of tax",
+            "Deemed exports",
+            "ITC on zero-rated supplies"
+        ],
+        "right": [
+            "Date of export",
+            "Date of payment",
+            "Date of return filing",
+            "End of financial year"
+        ]
+    },
+    {
+        "q": "GSTR-7A is the TDS certificate issued under GST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the form number for acknowledgment of refund application?",
+        "type": "short_answer",
+        "answers": [
+            "RFD-02"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The Electronic Liability Register is maintained in Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "PMT-01"
+        ],
+        "other_options": [
+            "PMT-02",
+            "PMT-06",
+            "PMT-05"
+        ]
+    },
+    {
+        "q": "Which entity is NOT required to deduct TDS under GST?",
+        "type": "mcq",
+        "o": [
+            "A private limited company buying goods",
+            "A government department buying goods",
+            "An agency of central government",
+            "A local authority"
+        ]
+    },
+    {
+        "q": "Interest on delayed payment of GST is calculated on a monthly basis.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The time limit for issuing final refund order after application is ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "60"
+        ],
+        "other_options": [
+            "30",
+            "45",
+            "90"
+        ]
+    },
+    {
+        "q": "Which of the following banks is authorized to collect GST via OTC?",
+        "type": "mcq",
+        "o": [
+            "ICICI Bank",
+            "Any nationalized bank only",
+            "Only RBI",
+            "Only SBI"
+        ]
+    },
+    {
+        "q": "TDS and TCS provisions both apply to e-commerce operators.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the purpose of filing PMT-09?",
+        "type": "short_answer",
+        "answers": [
+            "Transfer of amount between major heads"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Match the return with its filing frequency:",
+        "type": "match",
+        "left": [
+            "GSTR-7",
+            "GSTR-8",
+            "GSTR-3B"
+        ],
+        "right": [
+            "Monthly",
+            "Monthly",
+            "Monthly"
+        ]
+    },
+    {
+        "q": "Match the compliance deadlines for TDS and TCS.",
+        "type": "memory",
+        "pairs": {
+            "TDS Deposit": "10th of next month",
+            "TCS Deposit": "10th of next month",
+            "Annual TCS Statement": "31st December",
+            "Late Payment Interest": "18 percent"
+        }
+    },
+    {
+        "q": "Which challan is used to make a deposit into the Electronic Cash Ledger?",
+        "type": "mcq",
+        "o": [
+            "PMT-06",
+            "PMT-01",
+            "PMT-02",
+            "RFD-01"
+        ]
+    },
+    {
+        "q": "There is no maximum ceiling on the amount of late fee for GSTR-1.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which tax is EXCLUDED when calculating the 2.5 Lakh contract value threshold for TDS?",
+        "type": "odd_one_out",
+        "options": [
+            "CGST",
+            "SGST",
+            "IGST",
+            "Basic goods value"
+        ],
+        "correct": "Basic goods value"
+    },
+    {
+        "q": "Refund of input tax credit is not available if the goods are ______.",
+        "type": "fill_blank",
+        "answers": [
+            "exempted"
+        ],
+        "other_options": [
+            "exported",
+            "zero-rated",
+            "inter-state supplied"
+        ]
+    },
+    {
+        "q": "Which of the following is a characteristic of TCS under GST?",
+        "type": "mcq",
+        "o": [
+            "Collected by e-commerce operator on net value of supplies",
+            "Deducted by government departments",
+            "Applicable on all B2B transactions",
+            "Rate is 2% of contract value"
+        ]
+    },
+    {
+        "q": "A refund can be withheld if the department has appealed against the refund order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Swipe RIGHT for Electronic Commerce, LEFT for Government Entities.",
+        "type": "swipe_cards",
+        "left_label": "Government",
+        "right_label": "E-commerce",
+        "cards": {
+            "Deducts TDS": "left",
+            "Issues GSTR-7": "left",
+            "Collects TCS": "right",
+            "Issues GSTR-8": "right"
+        }
+    },
+    {
+        "q": "What is the rate of interest for refunds sanctioned after 60 days?",
+        "type": "short_answer",
+        "answers": [
+            "6%"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Unscramble the term for the deduction of tax at the source of payment.",
+        "type": "word_scramble",
+        "answer": "TDS",
+        "decoys": "LKQ"
+    },
+    {
+        "q": "The Electronic ______ Ledger reflects the total tax payable by the registered person.",
+        "type": "fill_blank",
+        "answers": [
+            "Liability"
+        ],
+        "other_options": [
+            "Credit",
+            "Cash",
+            "Input"
+        ]
+    },
+    {
+        "q": "Which section of the CGST Act mandates TCS?",
+        "type": "mcq",
+        "o": [
+            "Section 52",
+            "Section 51",
+            "Section 54",
+            "Section 49"
+        ]
+    },
+    {
+        "q": "Late fee for GSTR-4 (composition) is Rs. 200 per day.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the date with the corresponding event:",
+        "type": "match",
+        "left": [
+            "10th of next month",
+            "20th of next month",
+            "5 days from deduction"
+        ],
+        "right": [
+            "Due date GSTR-7",
+            "Due date GSTR-3B",
+            "Issue of TDS certificate"
+        ]
+    },
+    {
+        "q": "Refund of unutilized ITC in case of capital goods is allowed on a ______ basis.",
+        "type": "fill_blank",
+        "answers": [
+            "pro-rata"
+        ],
+        "other_options": [
+            "full",
+            "monthly",
+            "quarterly"
+        ]
+    },
+    {
+        "q": "Which payment mode uses a challan generated online but paid physically at the bank?",
+        "type": "mcq",
+        "o": [
+            "Over the Counter",
+            "Net Banking",
+            "UPI",
+            "Debit Card"
+        ]
+    },
+    {
+        "q": "Fill in the late fee details for delayed GSTR-7 (TDS return) filing:",
+        "type": "inline_dropdown",
+        "text": "The late fee is Rs. [0] per day subject to a maximum of Rs. [1] under CGST.",
+        "dropdowns": [
+            {
+                "correct": "100",
+                "options": [
+                    "50",
+                    "100",
+                    "200"
+                ]
+            },
+            {
+                "correct": "5000",
+                "options": [
+                    "1000",
+                    "5000",
+                    "10000"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "TDS under GST is applicable when the contract value exceeds Rs. 2,50,000.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the maximum late fee per act (CGST + SGST) for GSTR-3B nil return?",
+        "type": "short_answer",
+        "answers": [
+            "Rs. 500"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which electronic ledger is debited first while making payment of self-assessed tax?",
+        "type": "mcq",
+        "o": [
+            "Electronic Credit Ledger",
+            "Electronic Cash Ledger",
+            "Electronic Liability Register",
+            "PMT-06 Challan"
+        ]
+    },
+    {
+        "q": "A TDS deductor is required to file GSTR-7 within how many days after the end of the month?",
+        "type": "short_answer",
+        "answers": [
+            "10 days",
+            "10"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The refund of ITC on account of zero-rated supplies without payment of tax is subject to a formula prescribed in Rule ______ of CGST Rules.",
+        "type": "fill_blank",
+        "answers": [
+            "89(4)"
+        ],
+        "other_options": [
+            "54",
+            "36",
+            "44"
+        ]
+    },
+    {
+        "q": "Maximum penalty amount (in Rs.) for failing to collect TCS is 10,000. Use the slider to select this amount.",
+        "type": "slider",
+        "min": 5000,
+        "max": 20000,
+        "correct": 10000
+    },
+    {
+        "q": "Which of the following major heads is NOT part of the Electronic Cash Ledger?",
+        "type": "mcq",
+        "o": [
+            "Input Tax Credit",
+            "Integrated Tax",
+            "Central Tax",
+            "Cess"
+        ]
+    },
+    {
+        "q": "Payment of tax using a credit card through the GST portal is an online mode of payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the roles in a TCS transaction.",
+        "type": "memory",
+        "pairs": {
+            "E-commerce Operator": "Collects TCS",
+            "Supplier": "Sells goods/services on platform",
+            "Customer": "Pays the total consideration",
+            "Government": "Receives the deposited TCS"
+        }
+    },
+    {
+        "q": "What is the time limit for issuing a TDS certificate after deduction?",
+        "type": "mcq",
+        "o": [
+            "5 days from the date of deduction",
+            "10 days from the end of the month",
+            "15 days from the date of deduction",
+            "30 days from the end of the month"
+        ]
+    },
+    {
+        "q": "Match the form number with its use:",
+        "type": "match",
+        "left": [
+            "RFD-01",
+            "RFD-02",
+            "RFD-04",
+            "RFD-06"
+        ],
+        "right": [
+            "Refund Application",
+            "Acknowledgement",
+            "Provisional Refund Order",
+            "Final Refund Order"
+        ]
+    },
+    {
+        "q": "Interest for late filing of return is calculated from the ______ following the due date.",
+        "type": "fill_blank",
+        "answers": [
+            "day"
+        ],
+        "other_options": [
+            "week",
+            "month",
+            "quarter"
+        ]
+    },
+    {
+        "q": "TCS collected by an e-commerce operator is credited to which ledger of the supplier?",
+        "type": "mcq",
+        "o": [
+            "Electronic Cash Ledger",
+            "Electronic Credit Ledger",
+            "Electronic Liability Register",
+            "E-commerce Operator's Ledger"
+        ]
+    },
+    {
+        "q": "A composition dealer can claim a refund of input tax credit on inputs.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which entity is exempt from deduction of TDS under GST?",
+        "type": "short_answer",
+        "answers": [
+            "suppliers whose aggregate turnover is below the threshold",
+            "small taxpayers"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The maximum late fee per return under CGST Act for GSTR-3B is Rs. ______.",
+        "type": "fill_blank",
+        "answers": [
+            "5000"
+        ],
+        "other_options": [
+            "10000",
+            "2000",
+            "500"
+        ]
+    },
+    {
+        "q": "Which of the following is the first step in the GST refund process?",
+        "type": "mcq",
+        "o": [
+            "Filing of RFD-01",
+            "Issuance of provisional refund",
+            "Filing of GSTR-3B",
+            "Sanction of refund by proper officer"
+        ]
+    },
+    {
+        "q": "NEFT/RTGS payment for GST is considered a real-time payment mode.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the rate of TCS applicable under IGST Act for inter-state supplies?",
+        "type": "mcq",
+        "o": [
+            "1%",
+            "2%",
+            "5%",
+            "0.5%"
+        ]
+    },
+    {
+        "q": "The ______ is used to transfer any amount lying in the electronic cash ledger from one major head to another.",
+        "type": "fill_blank",
+        "answers": [
+            "PMT-09"
+        ],
+        "other_options": [
+            "PMT-06",
+            "PMT-03",
+            "RFD-01"
+        ]
+    },
+    {
+        "q": "Match the payment method with its typical processing time:",
+        "type": "match",
+        "left": [
+            "UPI Payment",
+            "NEFT Payment",
+            "OTC Cheque Payment"
+        ],
+        "right": [
+            "Instant",
+            "2-4 hours or same day",
+            "2-3 working days"
+        ]
+    },
+    {
+        "q": "Which section of the CGST Act empowers the government to notify TDS provisions?",
+        "type": "mcq",
+        "o": [
+            "Section 51",
+            "Section 52",
+            "Section 54",
+            "Section 49"
+        ]
+    },
+    {
+        "q": "Refund of 90% of the claimed amount is granted provisionally within 7 days of acknowledgment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the due date for payment of GST for a regular taxpayer filing GSTR-3B monthly?",
+        "type": "short_answer",
+        "answers": [
+            "20th of the following month"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A refund application for unutilized ITC on account of exports requires a certificate from a ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Chartered Accountant",
+            "CA"
+        ],
+        "other_options": [
+            "Cost Accountant",
+            "GST Practitioner",
+            "Tax Auditor"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT an authorized bank for GST OTC payment?",
+        "type": "mcq",
+        "o": [
+            "A cooperative bank not authorized by RBI",
+            "State Bank of India",
+            "ICICI Bank",
+            "HDFC Bank"
+        ]
+    },
+    {
+        "q": "The TDS amount deducted by a government department is reflected in Part C of GSTR-2A.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the penalty for incorrect deduction of TDS under GST?",
+        "type": "mcq",
+        "o": [
+            "Interest at 18% and penalty as per Section 122",
+            "Rs. 10,000 flat penalty",
+            "Cancellation of registration",
+            "Imprisonment for 6 months"
+        ]
+    },
+    {
+        "q": "Payment of CGST and SGST cannot be made through a single challan.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The Electronic Liability Register records all liabilities of a taxpayer in Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "PMT-01"
+        ],
+        "other_options": [
+            "PMT-02",
+            "PMT-03",
+            "PMT-04"
+        ]
+    },
+    {
+        "q": "Which category of refund requires a copy of the shipping bill?",
+        "type": "mcq",
+        "o": [
+            "Refund of IGST on export of goods",
+            "Refund of excess cash payment",
+            "Refund to UN agencies",
+            "Refund of accumulated ITC"
+        ]
+    },
+    {
+        "q": "What is the maximum rate of interest chargeable on delayed refund to the taxpayer?",
+        "type": "short_answer",
+        "answers": [
+            "9%",
+            "6% to 9%"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Late fee for delay in filing GSTR-1 is levied under Section ______ of the CGST Act.",
+        "type": "fill_blank",
+        "answers": [
+            "47"
+        ],
+        "other_options": [
+            "73",
+            "54",
+            "122"
+        ]
+    },
+    {
+        "q": "Which of the following correctly describes the TCS collection process?",
+        "type": "mcq",
+        "o": [
+            "E-commerce operator collects from supplier on net value of supplies",
+            "Buyer collects from seller",
+            "Government collects from supplier",
+            "Supplier collects from buyer"
+        ]
+    },
+    {
+        "q": "A refund of ITC on inputs used for exempted goods is allowed under GST.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Unscramble the word for a business that sells via Amazon or Flipkart.",
+        "type": "word_scramble",
+        "answer": "SUPPLIER",
+        "decoys": "ZXT"
+    },
+    {
+        "q": "Match the GST ledger with its balance type:",
+        "type": "match",
+        "left": [
+            "Electronic Credit Ledger",
+            "Electronic Cash Ledger",
+            "Electronic Liability Register"
+        ],
+        "right": [
+            "ITC Available",
+            "Cash Deposited",
+            "Total Tax Payable"
+        ]
+    },
+    {
+        "q": "Which challan is used for making a payment of self-assessed tax voluntarily?",
+        "type": "mcq",
+        "o": [
+            "PMT-06",
+            "PMT-09",
+            "RFD-01",
+            "DRC-03"
+        ]
+    },
+    {
+        "q": "What is the general time limit (in years) from the relevant date to claim a GST refund?",
+        "type": "slider",
+        "min": 1,
+        "max": 5,
+        "correct": 2
+    },
+    {
+        "q": "TDS under GST is applicable on the supply of both goods and services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the relevant date for claiming a refund with the scenario.",
+        "type": "memory",
+        "pairs": {
+            "Export of goods by sea": "Date ship leaves India",
+            "Export of goods by air": "Date aircraft leaves India",
+            "Deemed exports": "Date of return filing",
+            "Refund of unutilized ITC": "End of financial year"
+        }
+    },
+    {
+        "q": "The total amount of refund sanctioned along with interest is credited to the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "bank account of the taxpayer"
+        ],
+        "other_options": [
+            "electronic credit ledger",
+            "electronic cash ledger",
+            "registered mobile number"
+        ]
+    },
+    {
+        "q": "What is the minimum contract value for TDS deduction under GST?",
+        "type": "short_answer",
+        "answers": [
+            "exceeding Rs. 2.5 lakh",
+            "Rs. 2,50,000"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following can pay GST offline?",
+        "type": "mcq",
+        "o": [
+            "A taxpayer without internet access visiting an authorized bank",
+            "Only a taxpayer with a valid credit card",
+            "Only an e-commerce operator",
+            "Only a government department"
+        ]
+    },
+    {
+        "q": "Which of these is NOT a valid ground for claiming a GST refund?",
+        "type": "odd_one_out",
+        "options": [
+            "Zero-rated supplies",
+            "Inverted duty structure",
+            "Excess balance in Cash Ledger",
+            "Personal expenditure on luxury goods"
+        ],
+        "correct": "Personal expenditure on luxury goods"
+    },
+    {
+        "q": "The refund of IGST paid on exports is processed by the customs system automatically.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Swipe RIGHT for Officer Actions, LEFT for Taxpayer Actions in the refund process.",
+        "type": "swipe_cards",
+        "left_label": "Taxpayer",
+        "right_label": "Officer",
+        "cards": {
+            "Files RFD-01": "left",
+            "Replies to Deficiency Memo": "left",
+            "Issues RFD-02 Acknowledgement": "right",
+            "Issues RFD-06 Final Order": "right"
+        }
+    },
+    {
+        "q": "Payment of interest on late tax payment is the first priority while adjusting payments.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the form number for applying for refund of IGST paid on export of goods with payment of tax?",
+        "type": "fill_blank",
+        "answers": [
+            "Not required",
+            "automatic through shipping bill"
+        ],
+        "other_options": [
+            "RFD-01A",
+            "GSTR-1",
+            "PMT-09"
+        ]
+    },
+    {
+        "q": "Which rate of interest applies if a taxpayer wrongly avails and utilizes input tax credit?",
+        "type": "mcq",
+        "o": [
+            "24%",
+            "18%",
+            "12%",
+            "6%"
+        ]
+    },
+    {
+        "q": "What is the full form of PMT-06?",
+        "type": "short_answer",
+        "answers": [
+            "Challan for payment of tax, interest, penalty, fees and others"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The interest on delayed refund is calculated at the rate of 6% if the refund is sanctioned after ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "60"
+        ],
+        "other_options": [
+            "30",
+            "45",
+            "90"
+        ]
+    },
+    {
+        "q": "Which entity is primarily responsible for collecting TCS?",
+        "type": "mcq",
+        "o": [
+            "E-commerce operator",
+            "Government department",
+            "Input service distributor",
+            "Casual taxable person"
+        ]
+    },
+    {
+        "q": "A TDS certificate must be downloaded by the deductee from the GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the limit with the provision:",
+        "type": "match",
+        "left": [
+            "Contract value > Rs. 2.5 Lakh",
+            "Turnover > Rs. 20 Lakh",
+            "Refund amount < Rs. 1000"
+        ],
+        "right": [
+            "TDS applicable",
+            "Registration required",
+            "Refund not admissible"
+        ]
+    },
+    {
+        "q": "Which of the following is an online mode of GST payment?",
+        "type": "mcq",
+        "o": [
+            "Immediate Payment Service (IMPS)",
+            "Demand Draft",
+            "Pay Order",
+            "Cash deposit"
+        ]
+    },
+    {
+        "q": "The due date for filing GSTR-8 by an e-commerce operator is the 10th of the next month.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble the term for getting excess tax paid back from the government.",
+        "type": "word_scramble",
+        "answer": "REFUND",
+        "decoys": "BKM"
+    },
+    {
+        "q": "What is the time limit for completing refund proceedings by the proper officer?",
+        "type": "short_answer",
+        "answers": [
+            "60 days from the date of receipt of application"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Complete the rule for the minimum refund amount:",
+        "type": "inline_dropdown",
+        "text": "No refund shall be paid if the amount claimed is less than Rs. [0] under any single [1].",
+        "dropdowns": [
+            {
+                "correct": "1000",
+                "options": [
+                    "500",
+                    "1000",
+                    "5000"
+                ]
+            },
+            {
+                "correct": "tax head",
+                "options": [
+                    "tax head",
+                    "invoice",
+                    "financial year"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Any amount debited from Electronic Credit Ledger is reflected in Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "PMT-03"
+        ],
+        "other_options": [
+            "PMT-01",
+            "PMT-05",
+            "PMT-06"
+        ]
+    },
+    {
+        "q": "Who bears the cost of interest if there is a delay in sanctioning refund beyond 60 days?",
+        "type": "mcq",
+        "o": [
+            "Government",
+            "Proper officer personally",
+            "Taxpayer",
+            "Bank"
+        ]
+    },
+    {
+        "q": "TDS and TCS provisions under GST are applicable from the same date.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The late fee for GSTR-4 (Composition return) is Rs. ______ per day.",
+        "type": "fill_blank",
+        "answers": [
+            "25"
+        ],
+        "other_options": [
+            "50",
+            "100",
+            "200"
+        ]
+    },
+    {
+        "q": "Which of the following refund claims is filed in FORM GST RFD-10?",
+        "type": "mcq",
+        "o": [
+            "Refund to tourist leaving India",
+            "Refund of export of services",
+            "Refund of excess tax",
+            "Refund of ITC"
+        ]
+    },
+    {
+        "q": "What is the correct sequence of payment adjustment for a liability?",
+        "type": "short_answer",
+        "answers": [
+            "Self-assessed tax, interest, penalty, fee",
+            "Tax, Interest, Penalty, Fee"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A refund can be claimed by a UN agency for tax paid on inward supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the scenario with the applicable interest rate:",
+        "type": "match",
+        "left": [
+            "Delayed refund to taxpayer",
+            "Late payment of tax",
+            "Undue or excess refund"
+        ],
+        "right": [
+            "6%",
+            "18%",
+            "24%"
+        ]
+    },
+    {
+        "q": "Which of the following methods is used for payment of GST by a composition dealer?",
+        "type": "mcq",
+        "o": [
+            "Using challan PMT-06 from Electronic Cash Ledger",
+            "Using Electronic Credit Ledger",
+            "Direct debit from Input Tax Credit",
+            "Using challan PMT-09 only"
+        ]
+    },
+    {
+        "q": "The Government has the power to notify the rate of TDS, not exceeding the rate specified in the Act.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The amount of TDS available to the deductee is reflected in which part of GSTR-2A?",
+        "type": "fill_blank",
+        "answers": [
+            "Part C"
+        ],
+        "other_options": [
+            "Part A",
+            "Part B",
+            "Part D"
+        ]
+    },
+    {
+        "q": "Within how many days must an officer issue a refund acknowledgment (RFD-02)?",
+        "type": "slider",
+        "min": 5,
+        "max": 30,
+        "correct": 15
+    },
+    {
+        "q": "Match the RFD Forms with their purpose.",
+        "type": "memory",
+        "pairs": {
+            "RFD-03": "Deficiency Memo",
+            "RFD-04": "Provisional Refund Order",
+            "RFD-05": "Payment Advice",
+            "RFD-06": "Final Refund Order"
+        }
+    },
+    {
+        "q": "Which of the following is NOT a prerequisite for a valid refund claim?",
+        "type": "mcq",
+        "o": [
+            "Payment of late fee for all previous returns",
+            "Filing of all relevant returns",
+            "Valid bank account linked with GSTIN",
+            "No pending demand against the taxpayer"
+        ]
+    },
+    {
+        "q": "What is the maximum rate of TDS prescribed under the CGST Act?",
+        "type": "short_answer",
+        "answers": [
+            "2%"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The amount collected as TCS is deposited by the operator in the ______ ledger.",
+        "type": "fill_blank",
+        "answers": [
+            "electronic cash ledger of the supplier"
+        ],
+        "other_options": [
+            "electronic credit ledger",
+            "liability register",
+            "bank account"
+        ]
+    },
+    {
+        "q": "Online payment of GST is facilitated through how many authorized payment gateways?",
+        "type": "mcq",
+        "o": [
+            "Multiple gateways authorized by RBI",
+            "Only one gateway",
+            "Only through SBI gateway",
+            "Maximum of two gateways"
+        ]
+    },
+    {
+        "q": "The late fee for delay in filing GSTR-9 (Annual Return) is Rs. 200 per day.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of these funds does NOT belong to the Consumer Welfare Fund (CWF)?",
+        "type": "odd_one_out",
+        "options": [
+            "Unjust enrichment transfers",
+            "Penalties deposited by default",
+            "Grants made by the government",
+            "Taxpayer's Electronic Credit Ledger"
+        ],
+        "correct": "Taxpayer's Electronic Credit Ledger"
+    },
+    {
+        "q": "Match the GST term with the related section:",
+        "type": "match",
+        "left": [
+            "TDS",
+            "TCS",
+            "Refund",
+            "Interest on late payment"
+        ],
+        "right": [
+            "Section 51",
+            "Section 52",
+            "Section 54",
+            "Section 50"
+        ]
+    },
+    {
+        "q": "Swipe RIGHT for Exempt Supplies, LEFT for Zero-rated Supplies.",
+        "type": "swipe_cards",
+        "left_label": "Zero-rated",
+        "right_label": "Exempt",
+        "cards": {
+            "Exports out of India": "left",
+            "Supplies to SEZ": "left",
+            "No ITC refund allowed": "right",
+            "Nil rate of tax": "right"
+        }
+    },
+    {
+        "q": "Which form is used for the final sanction of a refund?",
+        "type": "mcq",
+        "o": [
+            "FORM GST RFD-06",
+            "FORM GST RFD-04",
+            "FORM GST RFD-01",
+            "FORM GST RFD-02"
+        ]
+    },
+    {
+        "q": "Payment of tax using a debit card is treated as an offline mode of payment under GST.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The concept of 'Relevant Date' for a refund claim is defined under the Explanation to ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Section 54"
+        ],
+        "other_options": [
+            "Section 49",
+            "Section 51",
+            "Section 52"
+        ]
+    },
+    {
+        "q": "Unscramble the term for sending goods outside India.",
+        "type": "word_scramble",
+        "answer": "EXPORT",
+        "decoys": "VW"
+    },
+    {
+        "q": "Which of the following can file a refund application electronically?",
+        "type": "mcq",
+        "o": [
+            "Registered taxpayer on common portal",
+            "Unregistered buyer on email",
+            "Any person through a bank branch",
+            "Only through a GST practitioner offline"
+        ]
+    },
+    {
+        "q": "TCS collected by the e-commerce operator must be deposited by the 20th of the following month.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the due date for payment of TDS by a government deductor?",
+        "type": "short_answer",
+        "answers": [
+            "10th of the following month"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A refund arising due to a court order must be claimed within ______ years from the date of the order.",
+        "type": "fill_blank",
+        "answers": [
+            "2"
+        ],
+        "other_options": [
+            "1",
+            "3",
+            "5"
+        ]
+    },
+    {
+        "q": "What is the primary difference between TDS and TCS under GST?",
+        "type": "mcq",
+        "o": [
+            "TDS is deducted by buyer; TCS is collected by e-commerce operator",
+            "TDS is 1%; TCS is 2%",
+            "TDS is for services; TCS is for goods",
+            "TDS is refundable; TCS is not"
+        ]
+    },
+    {
+        "q": "Unjust enrichment principle does not apply to refund of exports.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Complete the sentence regarding provisional refunds:",
+        "type": "inline_dropdown",
+        "text": "Provisional refund for zero-rated supplies is granted at [0] percent of the claim within [1] days.",
+        "dropdowns": [
+            {
+                "correct": "90",
+                "options": [
+                    "80",
+                    "90",
+                    "100"
+                ]
+            },
+            {
+                "correct": "7",
+                "options": [
+                    "7",
+                    "15",
+                    "30"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which major head in the Electronic Cash Ledger records the deposit for interest payment?",
+        "type": "mcq",
+        "o": [
+            "Other",
+            "Central Tax",
+            "Integrated Tax",
+            "State Tax"
+        ]
+    },
+    {
+        "q": "The threshold limit for contract value for TDS deduction applies to a single supplier in a financial year.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The maximum late fee for GSTR-1 is capped at Rs. 5000 per return in each act.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following payment modes does NOT require the generation of a challan on the GST portal?",
+        "type": "mcq",
+        "o": [
+            "Direct payment through UPI without pre-login",
+            "Net Banking after logging in",
+            "OTC payment with pre-printed challan",
+            "Debit card payment on portal"
+        ]
+    },
+    {
+        "q": "What is the penalty for a deductor who fails to furnish TDS certificate to the deductee?",
+        "type": "fill_blank",
+        "answers": [
+            "Rs. 100 per day",
+            "late fee of Rs. 100 per day"
+        ],
+        "other_options": [
+            "Rs. 200 per day",
+            "Rs. 500 per day",
+            "Rs. 50 per day"
+        ]
+    },
+    {
+        "q": "Match the refund ground with the relevant date:",
+        "type": "match",
+        "left": [
+            "Export of services",
+            "Provisional assessment finalization",
+            "Inverted duty structure",
+            "Judgment of court"
+        ],
+        "right": [
+            "Date of receipt of payment",
+            "Date of adjustment of tax",
+            "End of financial year",
+            "Date of judgment"
+        ]
+    },
+    {
+        "q": "Within how many days must the final refund order (RFD-06) be issued from the date of application?",
+        "type": "slider",
+        "min": 30,
+        "max": 90,
+        "correct": 60
+    },
+    {
+        "q": "Which of the following is a valid mode of generating a CPIN for GST payment?",
+        "type": "mcq",
+        "o": [
+            "Logging into the GST portal and creating a challan",
+            "Visiting any bank branch and asking for a form",
+            "Sending an email to the GST officer",
+            "Filing GSTR-3B without a challan"
+        ]
+    },
+    {
+        "q": "Swipe RIGHT for True, LEFT for False regarding a Deficiency Memo (RFD-03).",
+        "type": "swipe_cards",
+        "left_label": "False",
+        "right_label": "True",
+        "cards": {
+            "A fresh application must be filed": "right",
+            "The original ARN is closed": "right",
+            "You can just email missing files": "left",
+            "The 60-day timer continues without pause": "left"
+        }
+    },
+    {
+        "q": "Unscramble the word for a memo issued when a refund application is incomplete.",
+        "type": "word_scramble",
+        "answer": "DEFICIENCY",
+        "decoys": "QZ"
+    },
+    {
+        "q": "Interest on refund payable by the government is taxable in the hands of the taxpayer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the standard interest rate (in percentage) paid by the government if a refund is delayed beyond 60 days under Section 56?",
+        "type": "slider",
+        "min": 4,
+        "max": 12,
+        "correct": 6
+    },
+    {
+        "q": "What is the abbreviated form of the Electronic Liability Register?",
+        "type": "short_answer",
+        "answers": [
+            "PMT-01"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A taxpayer can claim a refund of input tax credit accumulated due to inverted duty structure on ______.",
+        "type": "fill_blank",
+        "answers": [
+            "inputs"
+        ],
+        "other_options": [
+            "input services",
+            "capital goods",
+            "output supplies"
+        ]
+    },
+    {
+        "q": "Match the terms related to Inverted Duty Structure.",
+        "type": "memory",
+        "pairs": {
+            "Inputs": "Subject to higher tax rate",
+            "Outputs": "Subject to lower tax rate",
+            "Capital Goods": "No ITC refund allowed",
+            "Input Services": "No ITC refund allowed"
+        }
+    },
+    {
+        "q": "Which GST rule deals with the procedure for claiming a refund?",
+        "type": "mcq",
+        "o": [
+            "Rule 89",
+            "Rule 36",
+            "Rule 54",
+            "Rule 10"
+        ]
+    },
+    {
+        "q": "A deductor can correct errors in TDS return by filing GSTR-7A.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the time limit for the issuance of a deficiency memo for a refund application?",
+        "type": "fill_blank",
+        "answers": [
+            "15 days",
+            "within 15 days"
+        ],
+        "other_options": [
+            "7 days",
+            "30 days",
+            "60 days"
+        ]
+    },
+    {
+        "q": "Which item is EXCLUDED from claiming an ITC refund under the Inverted Duty Structure?",
+        "type": "odd_one_out",
+        "options": [
+            "Raw materials",
+            "Packaging materials",
+            "Consumables",
+            "Capital goods"
+        ],
+        "correct": "Capital goods"
+    },
+    {
+        "q": "Which of the following is NOT an essential document for an export refund claim?",
+        "type": "mcq",
+        "o": [
+            "Certificate of origin",
+            "Shipping bill",
+            "Export invoice",
+            "Bank realization certificate"
+        ]
+    },
+    {
+        "q": "Payment of tax through UPI is an online mode of payment.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Who is required to file Form GSTR-7?",
+        "type": "short_answer",
+        "answers": [
+            "TDS deductor"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The refund of ______ is not allowed if the exported goods are re-imported.",
+        "type": "fill_blank",
+        "answers": [
+            "IGST"
+        ],
+        "other_options": [
+            "CGST",
+            "SGST",
+            "Cess"
+        ]
+    },
+    {
+        "q": "Which ledger is used to pay the interest component on late tax payment?",
+        "type": "mcq",
+        "o": [
+            "Electronic Cash Ledger",
+            "Electronic Credit Ledger",
+            "Electronic Liability Register",
+            "Interest Adjustment Ledger"
+        ]
+    },
+    {
+        "q": "The TCS provision under GST does not apply to supplies made by a composition dealer.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Swipe RIGHT for Inverted Duty Structure, LEFT for Export of Goods.",
+        "type": "swipe_cards",
+        "left_label": "Export",
+        "right_label": "Inverted Duty",
+        "cards": {
+            "Zero-rated supply": "left",
+            "Refund on input services allowed": "left",
+            "Input tax > Output tax": "right",
+            "No refund for input services": "right"
+        }
+    },
+    {
+        "q": "Match the period with the corresponding due date:",
+        "type": "match",
+        "left": [
+            "Monthly Return (Mar)",
+            "Quarterly Return (Jan-Mar)",
+            "Annual Return (FY)"
+        ],
+        "right": [
+            "20th April",
+            "30th April (Composition)",
+            "31st December"
+        ]
+    },
+    {
+        "q": "What is the consequence of non-payment of TCS to the government by the operator?",
+        "type": "mcq",
+        "o": [
+            "Interest at 18% and penalty",
+            "Only penalty of Rs. 10000",
+            "Cancellation of registration",
+            "Imprisonment only"
+        ]
+    },
+    {
+        "q": "A valid GST return must be filed before applying for a refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which section of the CGST Act provides for the order of discharge of tax and other dues?",
+        "type": "mcq",
+        "o": [
+            "Section 49(8)",
+            "Section 50(1)",
+            "Section 54(1)",
+            "Section 51(1)"
+        ]
+    },
+    {
+        "q": "The formula for calculating the maximum refund of unutilized ITC for inverted duty structure is given under Rule 89(5). What is the core variable 'Net ITC'?",
+        "type": "short_answer",
+        "answers": [
+            "ITC availed on inputs during the relevant period"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A TDS deductor fails to file GSTR-7. The late fee per day is Rs. ______ under CGST Act, subject to a maximum of Rs. 5000.",
+        "type": "fill_blank",
+        "answers": [
+            "100"
+        ],
+        "other_options": [
+            "50",
+            "200",
+            "500"
+        ]
+    },
+    {
+        "q": "In the context of provisional refund, what is the maximum percentage of the claimed amount that can be sanctioned?",
+        "type": "mcq",
+        "o": [
+            "90%",
+            "80%",
+            "100%",
+            "75%"
+        ]
+    },
+    {
+        "q": "Match the refund rejection reason with the correct officer action:",
+        "type": "match",
+        "left": [
+            "Unjust enrichment",
+            "Incomplete documents",
+            "Excess ITC claim",
+            "Non-receipt of export proceeds"
+        ],
+        "right": [
+            "Amount transferred to Consumer Welfare Fund",
+            "Deficiency Memo Issued",
+            "Restricted to Net ITC as per formula",
+            "Refund Withheld"
+        ]
+    },
+    {
+        "q": "Interest on net tax liability paid late is calculated on the gross tax liability for the month.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which form is used by the proper officer to issue a show cause notice for rejection of a refund?",
+        "type": "mcq",
+        "o": [
+            "GST RFD-08",
+            "GST RFD-06",
+            "GST RFD-04",
+            "GST RFD-02"
+        ]
+    },
+    {
+        "q": "Unscramble the instrument required along with a LUT to export without paying IGST.",
+        "type": "word_scramble",
+        "answer": "BOND",
+        "decoys": "XJ"
+    },
+    {
+        "q": "The Electronic Cash Ledger balance can be re-credited if a payment fails due to technical reasons on the bank's side through Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "PMT-03"
+        ],
+        "other_options": [
+            "PMT-06",
+            "PMT-09",
+            "RFD-01"
+        ]
+    },
+    {
+        "q": "What is the rate of interest applicable when a taxpayer retains an excess refund wrongly granted by the department?",
+        "type": "short_answer",
+        "answers": [
+            "24%"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is NOT a valid reason for the issuance of a deficiency memo against a refund application?",
+        "type": "mcq",
+        "o": [
+            "Refund amount is less than Rs. 1000",
+            "Application not filed in prescribed form",
+            "Supporting documents not complete",
+            "Invoice details missing in statement"
+        ]
+    },
+    {
+        "q": "An e-commerce operator is required to collect TCS on the 'Net Value of Taxable Supplies'. This excludes returned goods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fill in the blanks regarding export without tax payment:",
+        "type": "inline_dropdown",
+        "text": "To export without paying IGST, a taxpayer must furnish a [0] or a Letter of [1].",
+        "dropdowns": [
+            {
+                "correct": "Bond",
+                "options": [
+                    "Cheque",
+                    "Bond",
+                    "Draft"
+                ]
+            },
+            {
+                "correct": "Undertaking",
+                "options": [
+                    "Understanding",
+                    "Undertaking",
+                    "Unification"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Match the type of refund with its limitation:",
+        "type": "match",
+        "left": [
+            "ITC on inputs (Inverted Duty)",
+            "Deemed Exports",
+            "Export of Services",
+            "Advance Tax"
+        ],
+        "right": [
+            "Restricted to formula in Rule 89(5)",
+            "Supplier or recipient can claim",
+            "Provisional refund limited to 90%",
+            "Must prove no supply occurred"
+        ]
+    },
+    {
+        "q": "The unique number generated at the time of filing a refund application is called ______.",
+        "type": "fill_blank",
+        "answers": [
+            "ARN",
+            "Application Reference Number"
+        ],
+        "other_options": [
+            "CPIN",
+            "BRN",
+            "GSTIN"
+        ]
+    },
+    {
+        "q": "Which of the following ledgers is debited automatically by the system when a liability is entered in GSTR-3B?",
+        "type": "mcq",
+        "o": [
+            "Electronic Liability Register (PMT-01)",
+            "Electronic Credit Ledger",
+            "Electronic Cash Ledger",
+            "GSTR-3B Register"
+        ]
+    },
+    {
+        "q": "TDS deducted under GST can be claimed as a refund in cash by the deductee if it remains unutilized.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the prescribed time limit for the proper officer to issue a final refund order after receiving a reply to a show cause notice?",
+        "type": "short_answer",
+        "answers": [
+            "60 days from the date of receipt of application",
+            "60 days"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "For how many financial years is a Letter of Undertaking (LUT) usually valid before requiring renewal?",
+        "type": "slider",
+        "min": 1,
+        "max": 5,
+        "correct": 1
+    },
+    {
+        "q": "A registered person can transfer a misallocated payment from SGST head to IGST head using ______.",
+        "type": "fill_blank",
+        "answers": [
+            "PMT-09"
+        ],
+        "other_options": [
+            "PMT-06",
+            "PMT-03",
+            "GSTR-3B"
+        ]
+    },
+    {
+        "q": "Match the Sections/Forms for withholding a refund.",
+        "type": "memory",
+        "pairs": {
+            "Section 54(10)": "Taxpayer defaulted in filing returns",
+            "Section 54(11)": "Refund order is under appeal",
+            "RFD-07": "Order for withholding refund"
+        }
+    },
+    {
+        "q": "In the formula for refund of ITC on account of inverted duty structure, 'Turnover of inverted rated supply' is divided by ______.",
+        "type": "mcq",
+        "o": [
+            "Adjusted Total Turnover",
+            "Total Turnover of Zero-Rated Supply",
+            "Export Turnover",
+            "Total Input Tax Credit"
+        ]
+    },
+    {
+        "q": "Which section details the interest on delayed refunds to the taxpayer?",
+        "type": "mcq",
+        "o": [
+            "Section 56",
+            "Section 50",
+            "Section 54",
+            "Section 42"
+        ]
+    },
+    {
+        "q": "A TDS certificate (GSTR-7A) is mandatory for the deductee to claim the credit.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the treatment of TCS credit in the hands of the supplier?",
+        "type": "mcq",
+        "o": [
+            "It appears in the Electronic Cash Ledger",
+            "It is directly adjusted against output liability in GSTR-3B",
+            "It appears in the Electronic Credit Ledger",
+            "It is refunded automatically"
+        ]
+    },
+    {
+        "q": "The Consumer Welfare Fund is governed by Section ______ of the CGST Act.",
+        "type": "fill_blank",
+        "answers": [
+            "57"
+        ],
+        "other_options": [
+            "54",
+            "56",
+            "58"
+        ]
+    },
+    {
+        "q": "Match the scenario with the correct relevant date for refund:",
+        "type": "match",
+        "left": [
+            "Export of Goods by Sea",
+            "Supply to SEZ unit with payment",
+            "Finalization of provisional assessment",
+            "Refund of pre-deposit for appeal"
+        ],
+        "right": [
+            "Date of ship leaving port",
+            "Date of receipt of payment",
+            "Date of adjustment of tax",
+            "Date of favorable order"
+        ]
+    },
+    {
+        "q": "Which of the following is an incorrect statement regarding the provisional refund?",
+        "type": "mcq",
+        "o": [
+            "It is granted without any security or bond",
+            "It is 90% of the total claim",
+            "It is granted for zero-rated supplies",
+            "It requires FORM GST RFD-04"
+        ]
+    },
+    {
+        "q": "Which of these is NOT considered a 'Deemed Export' under GST?",
+        "type": "odd_one_out",
+        "options": [
+            "Supply against Advance Authorization",
+            "Supply to Export Oriented Unit (EOU)",
+            "Supply of gold by bank against authorization",
+            "Supply to a domestic unregistered consumer"
+        ],
+        "correct": "Supply to a domestic unregistered consumer"
+    },
+    {
+        "q": "The facility to make a payment through IMPS is available 24x7 on the GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Swipe RIGHT for Export WITHOUT IGST payment, LEFT for Export WITH IGST payment.",
+        "type": "swipe_cards",
+        "left_label": "With IGST",
+        "right_label": "Without IGST",
+        "cards": {
+            "Pay tax first, claim later": "left",
+            "Automatic refund via ICEGATE": "left",
+            "Requires LUT or Bond": "right",
+            "Claim ITC refund manually via RFD-01": "right"
+        }
+    },
+    {
+        "q": "What is the maximum aggregate turnover limit for a supplier to be exempt from TDS deduction provisions under a government contract?",
+        "type": "short_answer",
+        "answers": [
+            "Rs. 20 lakh",
+            "Rs. 20,00,000"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "If a refund is not issued within 60 days, the interest payable to the applicant starts from the expiry of 60 days till the date of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "actual refund",
+            "issue of refund order"
+        ],
+        "other_options": [
+            "filing of application",
+            "acknowledgment",
+            "date of deficiency memo"
+        ]
+    },
+    {
+        "q": "Which type of refund does not require the principle of 'unjust enrichment' to be checked?",
+        "type": "mcq",
+        "o": [
+            "Refund of accumulated ITC on exports",
+            "Refund of excess tax paid",
+            "Refund on account of judgment",
+            "Refund to UN bodies"
+        ]
+    },
+    {
+        "q": "Penalty for late filing of GSTR-8 (TCS return) is Rs. 100 per day under CGST.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of FORM GST PMT-04?",
+        "type": "mcq",
+        "o": [
+            "Intimation of discrepancy in Electronic Credit Ledger",
+            "Application for refund",
+            "Transfer of amount between heads",
+            "Cash deposit challan"
+        ]
+    },
+    {
+        "q": "The proper officer must issue a deficiency memo in Form RFD- ______ if the application is incomplete.",
+        "type": "fill_blank",
+        "answers": [
+            "03"
+        ],
+        "other_options": [
+            "02",
+            "04",
+            "05"
+        ]
+    },
+    {
+        "q": "Which of the following is a major head in the Electronic Cash Ledger for compensation cess?",
+        "type": "mcq",
+        "o": [
+            "Cess",
+            "Compensation Fund",
+            "Other",
+            "Additional Tax"
+        ]
+    },
+    {
+        "q": "Unscramble the principle where tax burden is passed to the consumer, barring the taxpayer from a refund.",
+        "type": "word_scramble",
+        "answer": "UNJUST",
+        "decoys": "PWX"
+    },
+    {
+        "q": "TDS is deducted on the total contract value including GST.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Complete the rule of Unjust Enrichment:",
+        "type": "inline_dropdown",
+        "text": "If the taxpayer has passed the tax burden to the [0], the refund amount is transferred to the Consumer [1] Fund.",
+        "dropdowns": [
+            {
+                "correct": "consumer",
+                "options": [
+                    "government",
+                    "consumer",
+                    "supplier"
+                ]
+            },
+            {
+                "correct": "Welfare",
+                "options": [
+                    "Welfare",
+                    "Protection",
+                    "Benefit"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the maximum rate of TDS that the government can notify under Section 51?",
+        "type": "short_answer",
+        "answers": [
+            "2%",
+            "two percent"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A refund claim for unutilized ITC on account of zero-rated supplies requires a certificate from a CA if the amount exceeds ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Rs. 2 lakh",
+            "Rs. 2,00,000"
+        ],
+        "other_options": [
+            "Rs. 5 lakh",
+            "Rs. 1 lakh",
+            "Rs. 10 lakh"
+        ]
+    },
+    {
+        "q": "How many days does a taxpayer have to reply to a Show Cause Notice (RFD-08) for refund rejection?",
+        "type": "slider",
+        "min": 7,
+        "max": 30,
+        "correct": 15
+    },
+    {
+        "q": "Which rule empowers the department to withhold refund in certain cases?",
+        "type": "mcq",
+        "o": [
+            "Rule 96",
+            "Rule 89",
+            "Rule 97A",
+            "Rule 92"
+        ]
+    },
+    {
+        "q": "Unscramble the name of the customs portal that processes automatic IGST refunds for exports.",
+        "type": "word_scramble",
+        "answer": "ICEGATE",
+        "decoys": "MQ"
+    },
+    {
+        "q": "Match the e-commerce operator action with the correct consequence:",
+        "type": "match",
+        "left": [
+            "Fails to collect TCS",
+            "Fails to deposit TCS",
+            "Fails to file GSTR-8",
+            "Collects TCS but files wrong details"
+        ],
+        "right": [
+            "Penalty u/s 122",
+            "Interest u/s 50",
+            "Late fee u/s 47",
+            "Notice u/s 73/74"
+        ]
+    },
+    {
+        "q": "Payment of GST using a cheque is considered complete on the date of the cheque.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Select the correct documents for an automatic IGST export refund:",
+        "type": "inline_dropdown",
+        "text": "For IGST refund on goods exported, the [0] is deemed as the refund application, provided an export [1] is filed by the carrier.",
+        "dropdowns": [
+            {
+                "correct": "shipping bill",
+                "options": [
+                    "tax invoice",
+                    "shipping bill",
+                    "waybill"
+                ]
+            },
+            {
+                "correct": "manifest",
+                "options": [
+                    "manifest",
+                    "ledger",
+                    "register"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "In the refund application form, the statement of invoices must be provided in Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "GST RFD-01A",
+            "RFD-01A"
+        ],
+        "other_options": [
+            "GSTR-2A",
+            "PMT-06",
+            "GSTR-1"
+        ]
+    },
+    {
+        "q": "Which of the following correctly defines 'Turnover of zero-rated supply of goods'?",
+        "type": "mcq",
+        "o": [
+            "Value of goods exported or supplied to SEZ",
+            "Total turnover of the entity",
+            "Value of all taxable supplies",
+            "Value of exempt supplies"
+        ]
+    },
+    {
+        "q": "What is the rate of interest for belated payment of TCS by an e-commerce operator?",
+        "type": "short_answer",
+        "answers": [
+            "18%"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "How many main electronic ledgers are maintained on the GST portal for a registered taxpayer?",
+        "type": "slider",
+        "min": 1,
+        "max": 5,
+        "correct": 3
+    },
+    {
+        "q": "A refund of ITC on inputs on account of inverted duty structure is not available if the output supply is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "nil rated",
+            "NIL rated"
+        ],
+        "other_options": [
+            "zero rated",
+            "exempt",
+            "inter-state"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT available as a refund under Section 54?",
+        "type": "mcq",
+        "o": [
+            "Refund of interest paid voluntarily",
+            "Export of goods with tax payment",
+            "ITC accumulated due to zero-rated supplies",
+            "Excess balance in Electronic Cash Ledger"
+        ]
+    },
+    {
+        "q": "A valid return GSTR-3B is a pre-condition for applying for any type of GST refund.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the due date for filing GSTR-7 for the month of June?",
+        "type": "mcq",
+        "o": [
+            "10th July",
+            "20th July",
+            "15th July",
+            "31st July"
+        ]
+    },
+    {
+        "q": "The Electronic ______ Ledger is merely a log of debits and credits; one cannot make a payment directly from it.",
+        "type": "fill_blank",
+        "answers": [
+            "Liability",
+            "Liability Register"
+        ],
+        "other_options": [
+            "Credit",
+            "Cash",
+            "Input"
+        ]
+    },
+    {
+        "q": "When a taxpayer claims a refund of excess tax paid, the relevant date is the date of ______.",
+        "type": "short_answer",
+        "answers": [
+            "payment of tax"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following statements regarding UPI payment for GST is correct?",
+        "type": "mcq",
+        "o": [
+            "It is an instant online payment mode",
+            "It requires a physical visit to the bank",
+            "It can only be used for amounts below Rs. 2000",
+            "It is an offline mode"
+        ]
+    },
+    {
+        "q": "A tax deductor must issue a certificate to the deductee within 10 days of deduction.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the section with the prescribed interest:",
+        "type": "match",
+        "left": [
+            "Section 50(1)",
+            "Section 50(3)",
+            "Section 54(12)",
+            "Section 56"
+        ],
+        "right": [
+            "Late payment of tax",
+            "Undue retention of refund",
+            "Provisional refund interest",
+            "Delay in refund to taxpayer"
+        ]
+    },
+    {
+        "q": "In the Electronic Cash Ledger, deposits are recorded under the head 'Major Head' and 'Minor Head'. A Minor Head identifies the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "type of tax",
+            "tax type"
+        ],
+        "other_options": [
+            "amount",
+            "return period",
+            "challan number"
+        ]
+    },
+    {
+        "q": "Match the electronic ledgers to their primary function.",
+        "type": "memory",
+        "pairs": {
+            "Cash Ledger": "Records all deposits made via challan",
+            "Credit Ledger": "Records all eligible ITC availed",
+            "Liability Register": "Records all tax and penalty dues"
+        }
+    },
+    {
+        "q": "Which of the following is a correct sequence for utilizing ITC for payment of output liability?",
+        "type": "mcq",
+        "o": [
+            "IGST Credit -> CGST Credit -> SGST Credit",
+            "SGST Credit -> CGST Credit -> IGST Credit",
+            "CGST Credit -> SGST Credit -> IGST Credit",
+            "Any credit in any order"
+        ]
+    },
+    {
+        "q": "Which of these is NEVER recorded as a credit in the Electronic Cash Ledger?",
+        "type": "odd_one_out",
+        "options": [
+            "Tax deposit via NEFT",
+            "Interest payment deposit",
+            "Late fee deposit",
+            "Input Tax Credit from purchases"
+        ],
+        "correct": "Input Tax Credit from purchases"
+    },
+    {
+        "q": "TCS provisions under GST are governed by Section 51 of the CGST Act.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Swipe RIGHT for Allowed ITC cross-utilization, LEFT for Not Allowed.",
+        "type": "swipe_cards",
+        "left_label": "Not Allowed",
+        "right_label": "Allowed",
+        "cards": {
+            "IGST credit to pay CGST": "right",
+            "IGST credit to pay SGST": "right",
+            "CGST credit to pay SGST": "left",
+            "SGST credit to pay CGST": "left"
+        }
+    },
+    {
+        "q": "What is the procedure for a refund of IGST paid on exports?",
+        "type": "short_answer",
+        "answers": [
+            "Automatic processing by customs based on shipping bill and GSTR-1",
+            "system based disbursal"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The minimum amount of refund claim is Rs. ______, but this limit does not apply to UN bodies or embassies.",
+        "type": "fill_blank",
+        "answers": [
+            "1000",
+            "Rs. 1000"
+        ],
+        "other_options": [
+            "500",
+            "2000",
+            "5000"
+        ]
+    },
+    {
+        "q": "In case of a mismatch between GSTR-1 and the shipping bill, the refund of IGST on exports is ______.",
+        "type": "mcq",
+        "o": [
+            "Withheld until the error is rectified",
+            "Automatically processed",
+            "Rejected permanently",
+            "Sanctioned manually by a proper officer"
+        ]
+    },
+    {
+        "q": "Payment of tax under the QRMP scheme is due on the 25th of the month following the quarter for registered persons in certain states.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble the liability type that CANNOT be paid using the Electronic Credit Ledger.",
+        "type": "word_scramble",
+        "answer": "INTEREST",
+        "decoys": "QV"
+    },
+    {
+        "q": "What is the penalty for a deductor who fails to remit TDS to the government within the due date?",
+        "type": "mcq",
+        "o": [
+            "Interest at 18% per annum plus penalty",
+            "Rs. 10,000 fine",
+            "Cancellation of registration",
+            "Imprisonment only"
+        ]
+    },
+    {
+        "q": "Complete the rule regarding the Electronic Credit Ledger:",
+        "type": "inline_dropdown",
+        "text": "The Electronic [0] Ledger can exclusively be used for the payment of [1].",
+        "dropdowns": [
+            {
+                "correct": "Credit",
+                "options": [
+                    "Cash",
+                    "Credit",
+                    "Liability"
+                ]
+            },
+            {
+                "correct": "Tax",
+                "options": [
+                    "Interest",
+                    "Tax",
+                    "Penalty"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The amount of TCS credit appearing in the Electronic Cash Ledger can be utilized for payment of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "output tax liability",
+            "tax liability"
+        ],
+        "other_options": [
+            "interest",
+            "late fee",
+            "penalty"
+        ]
+    },
+    {
+        "q": "Match the ITC source with its mandatory first utilization.",
+        "type": "memory",
+        "pairs": {
+            "IGST Credit": "Must first pay IGST liability",
+            "CGST Credit": "Must first pay CGST liability",
+            "SGST Credit": "Must first pay SGST liability"
+        }
+    },
+    {
+        "q": "What is the maximum cap on late fee for GSTR-5 (Non-resident taxable person) per day?",
+        "type": "short_answer",
+        "answers": [
+            "Rs. 200",
+            "200"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A shipping bill filed by an exporter is treated as a refund application for IGST paid on exports.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which form is used to file an appeal to the Appellate Authority against a refund rejection order?",
+        "type": "mcq",
+        "o": [
+            "FORM GST APL-01",
+            "FORM GST RFD-09",
+            "FORM GST DRC-03",
+            "FORM GST RFD-10"
+        ]
+    },
+    {
+        "q": "The facility of Over the Counter (OTC) payment is available only up to a maximum of Rs. ______ per transaction.",
+        "type": "fill_blank",
+        "answers": [
+            "10,000",
+            "10000"
+        ],
+        "other_options": [
+            "5,000",
+            "20,000",
+            "50,000"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT an e-commerce operator as per the definition under Section 9(5)?",
+        "type": "mcq",
+        "o": [
+            "A pure agent acting on behalf of the supplier",
+            "Amazon",
+            "Flipkart",
+            "Swiggy"
+        ]
+    },
+    {
+        "q": "A registered person can pay tax through the Electronic Credit Ledger using challan PMT-06.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following is NOT an approved mode to top up the Electronic Cash Ledger?",
+        "type": "odd_one_out",
+        "options": [
+            "NEFT",
+            "RTGS",
+            "Internet Banking",
+            "Promissory Note",
+            "Credit Card"
+        ],
+        "correct": "Promissory Note"
+    },
+    {
+        "q": "Match the Form with its due date:",
+        "type": "match",
+        "left": [
+            "GSTR-7",
+            "GSTR-8",
+            "GSTR-3B",
+            "GSTR-1"
+        ],
+        "right": [
+            "10th of next month",
+            "10th of next month",
+            "20th of next month",
+            "11th of next month"
+        ]
+    },
+    {
+        "q": "The interest on late payment of GST is calculated on the ______ tax liability.",
+        "type": "fill_blank",
+        "answers": [
+            "net",
+            "output net of ITC"
+        ],
+        "other_options": [
+            "gross",
+            "total",
+            "input"
+        ]
+    },
+    {
+        "q": "Swipe RIGHT for PMT-09 functions, LEFT for actions PMT-09 CANNOT do.",
+        "type": "swipe_cards",
+        "left_label": "Cannot Do",
+        "right_label": "PMT-09 Functions",
+        "cards": {
+            "Transfer Cash from CGST to SGST": "right",
+            "Transfer Cash from Tax to Penalty": "right",
+            "Transfer Credit from CGST to SGST": "left",
+            "Transfer ITC to another GSTIN": "left"
+        }
+    },
+    {
+        "q": "What is the time limit for the taxpayer to rectify a deficiency in a refund application after receiving a deficiency memo?",
+        "type": "short_answer",
+        "answers": [
+            "any time before the expiry of the limitation period",
+            "within the limitation period"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following would result in the refund being credited to the Consumer Welfare Fund?",
+        "type": "mcq",
+        "o": [
+            "Tax incidence has been passed on to the customer",
+            "Application was filed after 2 years",
+            "Refund is less than Rs. 1000",
+            "Documents were incomplete"
+        ]
+    },
+    {
+        "q": "Unscramble the term for the register tracking a taxpayer's GST dues.",
+        "type": "word_scramble",
+        "answer": "LIABILITY",
+        "decoys": "XZ"
+    },
+    {
+        "q": "TDS under GST must be deducted at the time of payment or credit to the supplier, whichever is later.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the formula symbol 'T' in the Refund Formula for inverted duty structure (Rule 89(5))?",
+        "type": "mcq",
+        "o": [
+            "Turnover of inverted rated supply of goods",
+            "Total turnover",
+            "Adjusted total turnover",
+            "Net input tax credit"
+        ]
+    },
+    {
+        "q": "The Electronic Cash Ledger can be used to pay interest, but only if the balance is under the ______ minor head.",
+        "type": "fill_blank",
+        "answers": [
+            "Other"
+        ],
+        "other_options": [
+            "Tax",
+            "Cess",
+            "Interest"
+        ]
+    },
+    {
+        "q": "A government department is exempt from TDS deduction if the value of the contract is below Rs. 2.5 lakh.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Fill in the ITC utilization sequence rule:",
+        "type": "inline_dropdown",
+        "text": "When paying tax, one must exhaust the [0] ITC completely before utilizing [1] ITC.",
+        "dropdowns": [
+            {
+                "correct": "IGST",
+                "options": [
+                    "CGST",
+                    "SGST",
+                    "IGST"
+                ]
+            },
+            {
+                "correct": "CGST",
+                "options": [
+                    "CGST",
+                    "IGST",
+                    "Interest"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which section of the CGST Act provides for the collection of TCS by e-commerce operators?",
+        "type": "short_answer",
+        "answers": [
+            "Section 52"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In a match question, the 'left' side lists components of the Electronic Cash Ledger. Which component is specifically for interest?",
+        "type": "mcq",
+        "o": [
+            "Other",
+            "Cess",
+            "Central Tax",
+            "State Tax"
+        ]
+    },
+    {
+        "q": "A refund of unutilized ITC on zero-rated supplies is allowed even if the supply is fully exempt.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The liability for late fee for GSTR-3B is capped at Rs. ______ per return for nil filers under CGST Act.",
+        "type": "fill_blank",
+        "answers": [
+            "500"
+        ],
+        "other_options": [
+            "250",
+            "1000",
+            "5000"
+        ]
+    },
+    {
+        "q": "Unscramble the abbreviation for real-time bank transfers used in GST payments.",
+        "type": "word_scramble",
+        "answer": "RTGS",
+        "decoys": "PQ"
+    },
+    {
+        "q": "Which of the following is a key step before issuing a refund order (RFD-06)?",
+        "type": "mcq",
+        "o": [
+            "Issuing RFD-04 for provisional refund or checking unjust enrichment",
+            "Filing GSTR-9",
+            "Issuing a show cause notice in DRC-01",
+            "Issuing a demand order"
+        ]
+    },
+    {
+        "q": "Complete the form requirement for ledger discrepancies:",
+        "type": "inline_dropdown",
+        "text": "Any discrepancy in the Electronic Credit Ledger must be communicated by the taxpayer using Form GST [0]-[1].",
+        "dropdowns": [
+            {
+                "correct": "PMT",
+                "options": [
+                    "RFD",
+                    "PMT",
+                    "ITC"
+                ]
+            },
+            {
+                "correct": "04",
+                "options": [
+                    "01",
+                    "04",
+                    "09"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the rate of TCS prescribed under the IGST Act?",
+        "type": "short_answer",
+        "answers": [
+            "1%"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Match the PMT forms with their uses.",
+        "type": "memory",
+        "pairs": {
+            "PMT-01": "Liability Register",
+            "PMT-03": "Re-credit of refund to ledger",
+            "PMT-04": "Communication of discrepancy",
+            "PMT-09": "Transfer of amount between heads"
+        }
+    },
+    {
+        "q": "The acknowledgment for a refund application (RFD-02) must be issued within ______ days from the date of filing.",
+        "type": "fill_blank",
+        "answers": [
+            "15"
+        ],
+        "other_options": [
+            "7",
+            "30",
+            "60"
+        ]
+    },
+    {
+        "q": "Which payment mode is typically used for high-value transactions outside banking hours under GST?",
+        "type": "mcq",
+        "o": [
+            "RTGS",
+            "NEFT",
+            "OTC Cheque",
+            "UPI"
+        ]
+    },
+    {
+        "q": "Which of these liabilities is NEVER recorded in the Electronic Liability Register?",
+        "type": "odd_one_out",
+        "options": [
+            "Tax dues from returns",
+            "Liabilities from assessments",
+            "Penalty from show cause notice",
+            "Employee PF liabilities"
+        ],
+        "correct": "Employee PF liabilities"
+    },
+    {
+        "q": "The interest on erroneous refund is recoverable under Section 73 or 74, as the case may be.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the situation with the maximum refund period:",
+        "type": "match",
+        "left": [
+            "Provisional Assessment",
+            "Export of services",
+            "Judgment of High Court",
+            "Inverted Duty Structure"
+        ],
+        "right": [
+            "2 years from adjustment date",
+            "2 years from receipt of forex",
+            "2 years from judgment date",
+            "2 years from end of financial year"
+        ]
+    },
+    {
+        "q": "A taxpayer has a balance in the 'Cess' head of the Electronic Cash Ledger. Can it be used to pay CGST liability?",
+        "type": "mcq",
+        "o": [
+            "No, PMT-09 transfer is not allowed between major heads of different streams",
+            "Yes, using PMT-09",
+            "Yes, automatically",
+            "Yes, only if the officer approves"
+        ]
+    },
+    {
+        "q": "The TDS provision under GST is mandatory for all public sector undertakings irrespective of the contract value.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "When a refund is sanctioned, the order is issued in Form RFD-06 and the amount is credited to the taxpayer's ______.",
+        "type": "fill_blank",
+        "answers": [
+            "bank account"
+        ],
+        "other_options": [
+            "electronic cash ledger",
+            "credit ledger",
+            "wallet"
+        ]
+    },
+    {
+        "q": "Match the refund application annexures with their purpose.",
+        "type": "memory",
+        "pairs": {
+            "Annexure 1": "Certificate by CA or CMA",
+            "Annexure 2": "Details of invoices",
+            "FIRC": "Proof of forex for services",
+            "Shipping Bill": "Proof of export for goods"
+        }
+    },
+    {
+        "q": "What is the consequence for an e-commerce operator if it fails to collect TCS?",
+        "type": "short_answer",
+        "answers": [
+            "Penalty under section 122",
+            "liable to penalty"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In the GST payment architecture, the CPIN (Common Portal Identification Number) is valid for a period of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "15 days"
+        ],
+        "other_options": [
+            "30 days",
+            "7 days",
+            "60 days"
+        ]
+    },
+    {
+        "q": "Swipe RIGHT for Export of Services proof, LEFT for Export of Goods proof.",
+        "type": "swipe_cards",
+        "left_label": "Export of Goods",
+        "right_label": "Export of Services",
+        "cards": {
+            "Shipping Bill": "left",
+            "Bill of Lading": "left",
+            "FIRC": "right",
+            "BRC": "right"
+        }
+    },
+    {
+        "q": "Which rule specifically provides for the grant of a provisional refund?",
+        "type": "mcq",
+        "o": [
+            "Rule 91",
+            "Rule 89",
+            "Rule 86",
+            "Rule 92"
+        ]
+    },
+    {
+        "q": "Refund arising out of a provisional assessment can be granted provisionally under Rule 91.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Under Section 49(10), the Government may prescribe the maximum proportion of output tax liability that can be discharged through the electronic credit ledger. This limit is governed by which rule?",
+        "type": "mcq",
+        "o": [
+            "Rule 86B",
+            "Rule 89A",
+            "Rule 96A",
+            "Rule 36(4)"
+        ]
+    },
+    {
+        "q": "In the context of Rule 86B, a registered person cannot use ITC to discharge more than 99% of output liability in specific cases. Who is exempt from this restriction?",
+        "type": "short_answer",
+        "answers": [
+            "Taxpayers with income tax paid > Rs. 1 lakh in last two years",
+            "Taxpayers who have received refund > Rs. 1 lakh"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The Electronic Liability Register (PMT-01) reflects the total tax liability of a taxpayer, which is populated automatically from the returns filed and also manually by the proper officer through Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "DRC-07"
+        ],
+        "other_options": [
+            "DRC-01",
+            "GST PMT-06",
+            "RFD-06"
+        ]
+    },
+    {
+        "q": "Which of the following payments made by a taxpayer will NOT be recorded in the Electronic Cash Ledger?",
+        "type": "mcq",
+        "o": [
+            "Payment of penalty through ITC reversal",
+            "Deposit via NEFT",
+            "OTC payment at bank",
+            "TCS deposited by operator"
+        ]
+    },
+    {
+        "q": "Match the specific refund ground with the precise condition required:",
+        "type": "match",
+        "left": [
+            "Refund of ITC on exports without payment (Bond/LUT)",
+            "Refund of ITC (Inverted Duty) for Services",
+            "Provisional Refund (Zero-rated)",
+            "Refund to International Tourist"
+        ],
+        "right": [
+            "Requires LUT/Bond & formula Rule 89(4)",
+            "Not admissible unless specifically notified",
+            "90% within 7 days, requires CA certificate if >2L",
+            "RFD-10, requires passport & purchase proof"
+        ]
+    },
+    {
+        "q": "Unscramble the term for foreign exchange received for export of services.",
+        "type": "word_scramble",
+        "answer": "FOREX",
+        "decoys": "BZT"
+    },
+    {
+        "q": "Complete the sentence on service export documentation:",
+        "type": "inline_dropdown",
+        "text": "For a refund on export of [0], a Bank Realisation Certificate or FIRC is [1].",
+        "dropdowns": [
+            {
+                "correct": "services",
+                "options": [
+                    "goods",
+                    "services",
+                    "capital goods"
+                ]
+            },
+            {
+                "correct": "mandatory",
+                "options": [
+                    "optional",
+                    "mandatory",
+                    "not required"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "A TDS deductor under GST is also a 'taxpayer' and must file GSTR-3B if registered normally.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the implication if an e-commerce operator fails to remit the TCS collected within the due date?",
+        "type": "mcq",
+        "o": [
+            "Interest at 18% from the due date till payment",
+            "A fixed penalty of Rs. 50,000",
+            "Immediate cancellation of GST registration",
+            "No interest if paid before notice"
+        ]
+    },
+    {
+        "q": "The formula Max Refund = (Turnover of zero-rated supply / Adjusted Total Turnover) x Net ITC is specified for which type of refund?",
+        "type": "short_answer",
+        "answers": [
+            "Export of goods or services without payment of tax",
+            "Zero-rated supply under Bond/LUT"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Interest on belated payment of TDS is computed under Section 50(1) from the date the tax was ______ until the date of actual payment.",
+        "type": "fill_blank",
+        "answers": [
+            "deducted",
+            "deduction"
+        ],
+        "other_options": [
+            "due",
+            "invoiced",
+            "credited"
+        ]
+    },
+    {
+        "q": "Which of the following statements is TRUE regarding the recovery of erroneous refund?",
+        "type": "mcq",
+        "o": [
+            "It is treated as an arrear of tax and can be recovered under Section 79",
+            "It can only be adjusted against future refunds",
+            "It requires a separate civil suit to be filed",
+            "It is time-barred after 1 year"
+        ]
+    },
+    {
+        "q": "The function to generate a Challan (PMT-06) is disabled if the taxpayer has an active negative balance in the Electronic Cash Ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the specific GST interest rates to their scenarios.",
+        "type": "memory",
+        "pairs": {
+            "18 percent": "Standard delayed tax payment",
+            "24 percent": "Undue ITC claim",
+            "6 percent": "Government delays refund > 60 days",
+            "9 percent": "Refund withheld by order but later released"
+        }
+    },
+    {
+        "q": "The process of offsetting liability starts by exhausting IGST credit first for IGST liability, then for CGST and SGST. This hierarchy is defined in which section?",
+        "type": "fill_blank",
+        "answers": [
+            "Section 49(5)"
+        ],
+        "other_options": [
+            "Section 49(2)",
+            "Section 50(1)",
+            "Section 16(2)"
+        ]
+    },
+    {
+        "q": "Which of the following is a direct consequence of the 'Doctrine of Unjust Enrichment' under Section 54(8)(a)?",
+        "type": "mcq",
+        "o": [
+            "Refund credited to the Consumer Welfare Fund",
+            "Refund rejected outright",
+            "Taxpayer penalized for 100% of claim",
+            "Refund granted in cash after CA certificate"
+        ]
+    },
+    {
+        "q": "What is the time limit for claiming a refund of tax paid on an intra-state supply which was subsequently held to be inter-state?",
+        "type": "short_answer",
+        "answers": [
+            "2 years from the date of payment of tax"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "If a refund application is not processed within 60 days, the interest payable is 6% for the period beyond 60 days till the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "date of actual refund",
+            "refund issuance"
+        ],
+        "other_options": [
+            "date of order",
+            "date of acknowledgement",
+            "end of quarter"
+        ]
+    },
+    {
+        "q": "Which of the following challans is used exclusively for making deposits for the purpose of 'Voluntary Tax Payments' or 'Self-Assessment Tax' before show cause notice?",
+        "type": "mcq",
+        "o": [
+            "PMT-06",
+            "DRC-03",
+            "PMT-09",
+            "RFD-01"
+        ]
+    },
+    {
+        "q": "An Input Service Distributor (ISD) can claim a refund of unutilized ITC on exports.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Swipe RIGHT for Relevant Date scenarios, LEFT for non-relevant dates.",
+        "type": "swipe_cards",
+        "left_label": "Not a Relevant Date",
+        "right_label": "Relevant Date",
+        "cards": {
+            "Date of final adjustment (Provisional Assessment)": "right",
+            "Date of communication of court order": "right",
+            "Date the invoice was printed": "left",
+            "Date of hiring an accountant": "left"
+        }
+    },
+    {
+        "q": "Match the ITC utilization order with the correct tax liability:",
+        "type": "match",
+        "left": [
+            "For IGST Liability",
+            "For CGST Liability",
+            "For SGST Liability"
+        ],
+        "right": [
+            "IGST -> CGST -> SGST",
+            "IGST -> CGST only",
+            "IGST -> SGST only"
+        ]
+    },
+    {
+        "q": "In the context of Rule 89(5) (Inverted Duty Refund), if the 'Net ITC' is completely from input services, the refund amount is automatically ______.",
+        "type": "fill_blank",
+        "answers": [
+            "zero",
+            "nil"
+        ],
+        "other_options": [
+            "maximum",
+            "50%",
+            "100%"
+        ]
+    },
+    {
+        "q": "Unscramble the term for the formal letter demanding tax or rejecting a refund.",
+        "type": "word_scramble",
+        "answer": "NOTICE",
+        "decoys": "WQ"
+    },
+    {
+        "q": "Which of the following is an essential prerequisite for a UN agency to claim a GST refund?",
+        "type": "mcq",
+        "o": [
+            "Certificate from Ministry of External Affairs and UIN",
+            "Registration as a casual taxable person",
+            "PAN card of the head of the agency",
+            "No requirement for any registration"
+        ]
+    },
+    {
+        "q": "The GST portal provides a facility to save a challan partially filled. This saved challan is called a 'Draft Challan' and is valid for 7 days.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the effect of Rule 88 on the refund of voluntary tax payments made during an investigation?",
+        "type": "short_answer",
+        "answers": [
+            "Refund is not allowed until the investigation is completed and a favorable order is issued"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A supplier sells through an e-commerce operator. The TCS is collected on the ______ value of taxable supplies.",
+        "type": "fill_blank",
+        "answers": [
+            "net"
+        ],
+        "other_options": [
+            "gross",
+            "MRP",
+            "market"
+        ]
+    },
+    {
+        "q": "Which of the following describes the correct treatment of a late fee for GSTR-3B in the Electronic Liability Register?",
+        "type": "mcq",
+        "o": [
+            "It is auto-populated in the Liability Register upon filing the late return",
+            "It must be manually added by the proper officer",
+            "It is not recorded in the register",
+            "It is only visible in the Cash Ledger"
+        ]
+    },
+    {
+        "q": "TDS credit appearing in the Electronic Cash Ledger of the deductee can be transferred to another registered person via PMT-09.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The 'relevant date' for claiming a refund of provisional assessment is the date of ______ of tax.",
+        "type": "fill_blank",
+        "answers": [
+            "adjustment"
+        ],
+        "other_options": [
+            "payment",
+            "deposit",
+            "assessment"
+        ]
+    },
+    {
+        "q": "Which of the following is a pre-condition for applying for a refund of accumulated ITC on account of exports under Bond/LUT?",
+        "type": "mcq",
+        "o": [
+            "Filing of GSTR-3B and GSTR-1 for the relevant period",
+            "Obtaining a no-objection certificate from customs",
+            "Payment of IGST at the time of export",
+            "Reversal of all ITC claimed"
+        ]
+    },
+    {
+        "q": "Match the challan type with its primary use:",
+        "type": "match",
+        "left": [
+            "PMT-06",
+            "PMT-09",
+            "DRC-03"
+        ],
+        "right": [
+            "Initial deposit of tax/interest",
+            "Re-allocation of cash between heads",
+            "Voluntary tax payment during proceedings"
+        ]
+    },
+    {
+        "q": "What is the maximum rate of interest that can be imposed on a taxpayer for retaining an excess refund?",
+        "type": "short_answer",
+        "answers": [
+            "24%"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Complete the timeline for a refund rejection notice:",
+        "type": "inline_dropdown",
+        "text": "If a refund is rejected, the officer issues a notice in RFD-[0] and the applicant must reply within [1] days.",
+        "dropdowns": [
+            {
+                "correct": "08",
+                "options": [
+                    "03",
+                    "08",
+                    "10"
+                ]
+            },
+            {
+                "correct": "15",
+                "options": [
+                    "7",
+                    "15",
+                    "30"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The annual return GSTR-9 is a prerequisite for claiming any refund of unutilized ITC.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which statement is correct regarding the issuance of a deficiency memo (RFD-03)?",
+        "type": "mcq",
+        "o": [
+            "Issuing a deficiency memo stops the 60-day processing time limit temporarily",
+            "The deficiency memo rejects the refund permanently",
+            "The officer must grant a partial refund immediately",
+            "No further action can be taken by the taxpayer"
+        ]
+    },
+    {
+        "q": "The principle of 'unjust enrichment' is not applicable to refunds arising out of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "export of goods or services",
+            "zero-rated supplies"
+        ],
+        "other_options": [
+            "inverted duty structure",
+            "excess payment of tax",
+            "provisional assessment"
+        ]
+    },
+    {
+        "q": "Which of the following categories of taxpayers is specifically excluded from the TDS deduction provisions under Section 51?",
+        "type": "mcq",
+        "o": [
+            "A supplier whose aggregate turnover in the preceding FY is less than Rs. 20 lakh",
+            "A public sector undertaking",
+            "A registered composition dealer",
+            "An authority of the Central Government"
+        ]
+    },
+    {
+        "q": "The balance in the Electronic Credit Ledger can be utilized for the payment of late fees.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the consequence of a mismatch between the GSTR-1 and GSTR-3B of a supplier while claiming a refund of ITC on exports?",
+        "type": "short_answer",
+        "answers": [
+            "The refund may be withheld until the mismatch is rectified",
+            "Refund processing is stopped"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Match the refund claim amounts to their documentation requirement regarding unjust enrichment.",
+        "type": "memory",
+        "pairs": {
+            "Under 2 Lakhs": "Self declaration by taxpayer",
+            "Over 2 Lakhs": "CA or CMA Certificate",
+            "Zero-rated supply": "No unjust enrichment check needed"
+        }
+    },
+    {
+        "q": "The maximum refund of unutilized ITC under inverted duty structure is calculated as (Net ITC x ______ / AT) minus tax payable on inverted supply.",
+        "type": "fill_blank",
+        "answers": [
+            "Turnover of inverted rated supply"
+        ],
+        "other_options": [
+            "Total Turnover",
+            "Export Turnover",
+            "Adjusted Total Turnover"
+        ]
+    },
+    {
+        "q": "Swipe RIGHT if Unjust Enrichment APPLIES, LEFT if it DOES NOT apply.",
+        "type": "swipe_cards",
+        "left_label": "Does NOT Apply",
+        "right_label": "Applies",
+        "cards": {
+            "General refund of excess tax": "right",
+            "Refund of pre-deposit for appeal": "right",
+            "Export of goods": "left",
+            "Refund of unutilized ITC": "left"
+        }
+    },
+    {
+        "q": "When a payment is made via Over the Counter (OTC) using cash, the upper limit for a single transaction is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Rs. 10,000"
+        ],
+        "other_options": [
+            "Rs. 5,000",
+            "Rs. 20,000",
+            "Rs. 1,00,000"
+        ]
+    },
+    {
+        "q": "Which of the following is true regarding the 'Provisional Attachment of Property' to protect revenue in case of fraudulent refunds?",
+        "type": "mcq",
+        "o": [
+            "It is governed by Section 83 of the CGST Act",
+            "It is automatic upon filing of refund",
+            "It requires the taxpayer's consent",
+            "It cannot be applied to bank accounts"
+        ]
+    },
+    {
+        "q": "TDS deducted under GST is always reflected in the deductee's Electronic Credit Ledger.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Unscramble the professional title of the person who can certify refund claims over 2 Lakhs.",
+        "type": "word_scramble",
+        "answer": "AUDITOR",
+        "decoys": "ZK"
+    },
+    {
+        "q": "Match the Form with the appropriate stage in refund process:",
+        "type": "match",
+        "left": [
+            "RFD-01",
+            "RFD-02",
+            "RFD-05",
+            "RFD-06"
+        ],
+        "right": [
+            "Filing",
+            "Acknowledgment",
+            "Payment Advice",
+            "Sanction Order"
+        ]
+    },
+    {
+        "q": "What is the interest rate applicable on the belated deposit of TCS by an e-commerce operator?",
+        "type": "short_answer",
+        "answers": [
+            "18%"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Fill in the principle of unjust enrichment:",
+        "type": "inline_dropdown",
+        "text": "Unjust enrichment occurs when a taxpayer passes the [0] of tax to another person, causing the refund to go to the Consumer [1] Fund.",
+        "dropdowns": [
+            {
+                "correct": "incidence",
+                "options": [
+                    "incidence",
+                    "credit",
+                    "ledger"
+                ]
+            },
+            {
+                "correct": "Welfare",
+                "options": [
+                    "Relief",
+                    "Welfare",
+                    "Protection"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which of the following refunds requires a bond or letter of undertaking (LUT) to be furnished?",
+        "type": "mcq",
+        "o": [
+            "Refund of unutilized ITC on zero-rated supplies without payment of IGST",
+            "Refund of excess cash balance",
+            "Refund of IGST paid on exports",
+            "Refund to SEZ supplier with payment"
+        ]
+    },
+    {
+        "q": "The Electronic Cash Ledger is entirely maintained by the taxpayer; the proper officer cannot debit any amount from it.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "In a scenario where a taxpayer has to pay output tax of Rs. 1000, interest of Rs. 100, and late fee of Rs. 500, the payment made is adjusted in the sequence of ______ first.",
+        "type": "fill_blank",
+        "answers": [
+            "tax"
+        ],
+        "other_options": [
+            "interest",
+            "late fee",
+            "penalty"
+        ]
+    },
+    {
+        "q": "Which entity is responsible for the collection of TCS on supplies of services through an electronic commerce operator?",
+        "type": "mcq",
+        "o": [
+            "The electronic commerce operator",
+            "The service provider",
+            "The service recipient",
+            "The GST department"
+        ]
+    },
+    {
+        "q": "A taxpayer has a Rs. 500 credit in the 'Cess' head of the Cash Ledger. They can transfer this to the 'CGST' head using PMT-09.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the precise definition of 'Adjusted Total Turnover' in the refund formula under Rule 89(4)?",
+        "type": "short_answer",
+        "answers": [
+            "Total Turnover minus value of exempt supplies"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The proper officer must pass a speaking order in Form RFD-06 within a total period not exceeding ______ days from the date of receipt of the complete application.",
+        "type": "fill_blank",
+        "answers": [
+            "60"
+        ],
+        "other_options": [
+            "30",
+            "90",
+            "120"
+        ]
+    },
+    {
+        "q": "Which of the following is a valid mode of payment for GST that does NOT require an internet connection at the time of physical payment?",
+        "type": "mcq",
+        "o": [
+            "Over the Counter through pre-printed challan",
+            "UPI payment via smartphone",
+            "Net banking login",
+            "Credit card swipe on portal"
+        ]
+    },
+    {
+        "q": "Match the appeal details related to a rejected refund.",
+        "type": "memory",
+        "pairs": {
+            "First Appellate Authority": "Joint Commissioner (Appeals)",
+            "Time limit to file appeal": "3 months",
+            "Pre-deposit required": "10 percent of disputed tax",
+            "Appeal Form": "APL-01"
+        }
+    },
+    {
+        "q": "A composition dealer is liable to deduct TDS while making a contract payment to a works contractor.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "In the context of Rule 96A, export refund can be withheld if the Commissioner has reasons to believe that the exporter is a ______ exporter.",
+        "type": "fill_blank",
+        "answers": [
+            "risky",
+            "suspicious",
+            "fraudulent"
+        ],
+        "other_options": [
+            "regular",
+            "star",
+            "new"
+        ]
+    },
+    {
+        "q": "What happens to the unutilized ITC in the Electronic Credit Ledger at the time of cancellation of registration?",
+        "type": "mcq",
+        "o": [
+            "It lapses and is not refundable except in specific cases like zero-rated supply",
+            "It is automatically refunded in cash",
+            "It can be transferred to the proprietor's personal account",
+            "It is transferred to the Consumer Welfare Fund"
+        ]
+    },
+    {
+        "q": "Interest on delayed payment of TDS is the liability of the deductor, even if the deductee has already paid the tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Complete the requirement for foreign exchange on exported services:",
+        "type": "inline_dropdown",
+        "text": "The exporter must receive payment in convertible [0] exchange or in Indian Rupees where permitted by the [1].",
+        "dropdowns": [
+            {
+                "correct": "foreign",
+                "options": [
+                    "domestic",
+                    "foreign",
+                    "digital"
+                ]
+            },
+            {
+                "correct": "RBI",
+                "options": [
+                    "SBI",
+                    "RBI",
+                    "SEBI"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Match the type of refund order with the correct Form:",
+        "type": "match",
+        "left": [
+            "Provisional Sanction",
+            "Final Sanction",
+            "Payment Advice",
+            "Rejection Order"
+        ],
+        "right": [
+            "RFD-04",
+            "RFD-06",
+            "RFD-05",
+            "RFD-08"
+        ]
+    },
+    {
+        "q": "What is the minimum amount of refund that can be claimed under the 'Refund to Tourist' scheme (RFD-10)?",
+        "type": "short_answer",
+        "answers": [
+            "Rs. 1000"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following statements is FALSE regarding the Cash Ledger?",
+        "type": "mcq",
+        "o": [
+            "Balance in Cash Ledger can be used to pay output tax, interest, penalty, fees, and others",
+            "It is credited with TDS/TCS",
+            "It can be re-credited via PMT-03 on payment failure",
+            "It is maintained on the common portal"
+        ]
+    },
+    {
+        "q": "A refund claim filed for unutilized ITC on account of zero-rated supplies must be filed within 2 years from the date of export.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The interest rate for delayed refunds (Section 56) is linked to the repo rate of RBI, ranging between ______% and 9%.",
+        "type": "fill_blank",
+        "answers": [
+            "6"
+        ],
+        "other_options": [
+            "4",
+            "5",
+            "7"
+        ]
+    },
+    {
+        "q": "A registered person who has committed fraud while claiming a refund can be subjected to arrest under Section ______ of the CGST Act.",
+        "type": "fill_blank",
+        "answers": [
+            "132"
+        ],
+        "other_options": [
+            "73",
+            "74",
+            "129"
+        ]
+    },
+    {
+        "q": "Unscramble the term denoting a refund application that has successfully passed all checks.",
+        "type": "word_scramble",
+        "answer": "APPROVED",
+        "decoys": "XN"
+    },
+    {
+        "q": "Complete the rule on Inverted Duty Structure refunds:",
+        "type": "inline_dropdown",
+        "text": "If seeking a refund for an [0] duty structure, one cannot claim refund on input [1].",
+        "dropdowns": [
+            {
+                "correct": "inverted",
+                "options": [
+                    "inverted",
+                    "exempt",
+                    "zero"
+                ]
+            },
+            {
+                "correct": "services",
+                "options": [
+                    "goods",
+                    "services",
+                    "materials"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which payment method is characterized by the generation of a Unique Transaction Reference (UTR) number for tracking?",
+        "type": "mcq",
+        "o": [
+            "NEFT/RTGS",
+            "Credit Card",
+            "UPI",
+            "OTC Cash"
+        ]
+    },
+    {
+        "q": "Once a challan (PMT-06) is generated, the amount and tax head details cannot be modified; a new challan must be generated.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary condition for a supplier to allow TCS to be collected by an e-commerce operator?",
+        "type": "short_answer",
+        "answers": [
+            "The supplier must be registered under GST",
+            "Registration under GST"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In the Electronic Liability Register, demands from orders under Sections 73 and 74 are populated from Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "DRC-07"
+        ],
+        "other_options": [
+            "DRC-01",
+            "DRC-02",
+            "DRC-03"
+        ]
+    },
+    {
+        "q": "Which of the following is an INCORRECT application of the payment sequence under Section 49(8)?",
+        "type": "mcq",
+        "o": [
+            "Interest is discharged first before any tax liability",
+            "Self-assessed tax is discharged first",
+            "Penalty follows interest",
+            "Fees are discharged last"
+        ]
+    },
+    {
+        "q": "A refund sanction order must be issued within 60 days, failing which interest is automatically credited to the taxpayer without any further application.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Fill in the TDS registration requirement:",
+        "type": "inline_dropdown",
+        "text": "TDS deductors must take mandatory registration under Section [0] without any [1] limit.",
+        "dropdowns": [
+            {
+                "correct": "24",
+                "options": [
+                    "22",
+                    "24",
+                    "51"
+                ]
+            },
+            {
+                "correct": "threshold",
+                "options": [
+                    "threshold",
+                    "turnover",
+                    "liability"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Match the Section with its primary subject:",
+        "type": "match",
+        "left": [
+            "Section 49(5)",
+            "Section 49(6)",
+            "Section 49(10)",
+            "Section 49A"
+        ],
+        "right": [
+            "ITC utilization order",
+            "Interest/Penalty must use Cash",
+            "Rule 86B restriction",
+            "Utilization of ITC (CGST/SGST cross)"
+        ]
+    },
+    {
+        "q": "A taxpayer receives a refund for export of services. The relevant date is the date of receipt of ______ in convertible foreign exchange.",
+        "type": "fill_blank",
+        "answers": [
+            "payment",
+            "consideration"
+        ],
+        "other_options": [
+            "invoice",
+            "order",
+            "BRC"
+        ]
+    },
+    {
+        "q": "What is the penalty for an e-commerce operator who enables a supply of goods through an unregistered dealer?",
+        "type": "mcq",
+        "o": [
+            "Penalty up to Rs. 25,000 under Section 122",
+            "No penalty if TCS is collected",
+            "Cancellation of registration of the unregistered dealer",
+            "Imprisonment of 6 months"
+        ]
+    },
+    {
+        "q": "Unscramble the term for platforms like Amazon that are liable to collect TCS.",
+        "type": "word_scramble",
+        "answer": "ECOMMERCE",
+        "decoys": "QZ"
+    },
+    {
+        "q": "The Electronic Credit Ledger can reflect a negative balance if ITC has been reversed by the proper officer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Complete the statement regarding TCS:",
+        "type": "inline_dropdown",
+        "text": "TCS is collected at [0] percent on the net value of taxable supplies made through the [1] operator.",
+        "dropdowns": [
+            {
+                "correct": "1",
+                "options": [
+                    "1",
+                    "2",
+                    "5"
+                ]
+            },
+            {
+                "correct": "e-commerce",
+                "options": [
+                    "government",
+                    "e-commerce",
+                    "banking"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the maximum amount of late fee under CGST Act for not filing GSTR-7 (TDS return) within the due date?",
+        "type": "short_answer",
+        "answers": [
+            "Rs. 5000"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "An amount collected as TCS by an operator but not deposited is recoverable under Section 79 from the operator, along with interest at ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "18"
+        ],
+        "other_options": [
+            "24",
+            "6",
+            "12"
+        ]
+    },
+    {
+        "q": "Which of the following represents a scenario where the Provisional Attachment of property (Section 83) is justified?",
+        "type": "mcq",
+        "o": [
+            "Commissioner believes a person is about to dispose of property to avoid recovery of fraudulent refund",
+            "A taxpayer files a legitimate refund claim of high value",
+            "A taxpayer has a negative balance in the electronic credit ledger",
+            "A show cause notice under Section 73 is issued"
+        ]
+    },
+    {
+        "q": "In the process of refund, the bank account validation is done automatically by the PFMS system for amounts above Rs. 10,000.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Under the GST framework, the procedure for payment through challan is detailed under Chapter ______ of the CGST Rules, 2017.",
+        "type": "fill_blank",
+        "answers": [
+            "IX",
+            "9"
+        ],
+        "other_options": [
+            "VIII",
+            "X",
+            "XI"
+        ]
+    },
+    {
+        "q": "Which of the following correctly describes the 'Cess' head in the Electronic Cash Ledger?",
+        "type": "mcq",
+        "o": [
+            "It is exclusively for depositing Compensation Cess",
+            "It is a generic head for any type of cess",
+            "It can be used to pay CGST",
+            "It is merged with the 'Other' head"
+        ]
+    },
+    {
+        "q": "A casual taxable person is exempt from the deduction of TDS under Section 51.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Under Section 54(8A), a registered person claiming a refund of ITC on zero-rated supplies without payment of tax may receive payment of the refund in installments if the claim exceeds what amount?",
+        "type": "mcq",
+        "o": [
+            "Rs. 10 lakh",
+            "Rs. 5 lakh",
+            "Rs. 50 lakh",
+            "Rs. 1 crore"
+        ]
+    },
+    {
+        "q": "Fill in the refund prerequisite for casual taxpayers:",
+        "type": "inline_dropdown",
+        "text": "A casual taxable person claiming a refund must have filed all [0] for the entire period of their [1].",
+        "dropdowns": [
+            {
+                "correct": "returns",
+                "options": [
+                    "invoices",
+                    "returns",
+                    "challans"
+                ]
+            },
+            {
+                "correct": "registration",
+                "options": [
+                    "registration",
+                    "supply",
+                    "audit"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "In the context of Rule 96B, the recovery of erroneous export refund is made along with interest at 15% if the exporter fails to realize export proceeds within the time allowed under FEMA.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The proper officer must issue a deficiency memo in Form RFD-03 within 15 days. If not issued, the application is deemed to be ______.",
+        "type": "fill_blank",
+        "answers": [
+            "complete",
+            "acknowledged"
+        ],
+        "other_options": [
+            "rejected",
+            "approved",
+            "provisional"
+        ]
+    },
+    {
+        "q": "Match the specific rule with its nuanced refund provision:",
+        "type": "match",
+        "left": [
+            "Rule 89(1A)",
+            "Rule 89(2B)",
+            "Rule 89(4B)",
+            "Rule 96A"
+        ],
+        "right": [
+            "Refund of Cess on export under Bond",
+            "Refund of ITC on deemed exports",
+            "Refund by specialized agencies (UN etc.)",
+            "Withholding of export refund in risky cases"
+        ]
+    },
+    {
+        "q": "What is the consequence of the recipient of an inverted duty supply claiming a refund, but the supplier has paid tax under the composition levy?",
+        "type": "short_answer",
+        "answers": [
+            "Refund of ITC is not admissible as composition supplies are not eligible for ITC"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a condition that triggers the applicability of Section 49A over Section 49(5)?",
+        "type": "mcq",
+        "o": [
+            "Cross-utilization of SGST credit for CGST liability",
+            "Utilization of IGST credit for IGST liability",
+            "Utilization of CGST credit for IGST liability",
+            "Payment of interest using credit ledger"
+        ]
+    },
+    {
+        "q": "An amount lying in the Electronic Credit Ledger can be transferred to the Electronic Cash Ledger to pay interest on late payment.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The concept of 'Net ITC' in Rule 89(5) is defined as 'ITC availed on inputs during the relevant period' minus ITC on inputs for which refund is claimed under sub-rule ______.",
+        "type": "fill_blank",
+        "answers": [
+            "89(4A)",
+            "89(4C)",
+            "89(4)"
+        ],
+        "other_options": [
+            "89(1)",
+            "89(5)",
+            "89(6)"
+        ]
+    },
+    {
+        "q": "Which of the following forms is generated by the system to intimate the taxpayer about a discrepancy in the Electronic Credit Ledger?",
+        "type": "mcq",
+        "o": [
+            "PMT-04",
+            "PMT-03",
+            "PMT-06",
+            "PMT-09"
+        ]
+    },
+    {
+        "q": "What is the rate of interest applicable under Section 50(3) for the period an erroneous refund remains unpaid after the show cause notice?",
+        "type": "short_answer",
+        "answers": [
+            "24%"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In the formula for refund of ITC under Rule 89(4), if 'Adjusted Total Turnover' is zero, the refund amount is automatically zero.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The jurisdictional Commissioner can withhold a refund under Rule 96A if a GST officer raises an objection. The maximum initial period of withholding is ______ days.",
+        "type": "fill_blank",
+        "answers": [
+            "30"
+        ],
+        "other_options": [
+            "15",
+            "60",
+            "90"
+        ]
+    },
+    {
+        "q": "Which of the following is a correct interpretation of the 'Relevant Date' for a refund of input tax credit on zero-rated supply of services where payment is received in advance?",
+        "type": "mcq",
+        "o": [
+            "Date of issue of invoice, provided the advance is adjusted against the invoice",
+            "Date of receipt of advance",
+            "Date of provision of service",
+            "Date of filing the refund application"
+        ]
+    },
+    {
+        "q": "Match the type of cross-empowerment with its utilization restriction:",
+        "type": "match",
+        "left": [
+            "IGST to CGST",
+            "CGST to SGST",
+            "SGST to IGST"
+        ],
+        "right": [
+            "Allowed",
+            "Not Allowed (post Sec 49A)",
+            "Allowed"
+        ]
+    },
+    {
+        "q": "A TDS deductor makes a late deduction. The interest liability of 18% is calculated from the due date of payment to the actual date of payment.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the maximum time limit for the proper officer to issue an order under Rule 92(3) for a refund claim that involves a provisional assessment?",
+        "type": "short_answer",
+        "answers": [
+            "60 days from the date of receipt of the final adjustment order"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The Electronic Liability Register in Form PMT-01 is divided into two parts: Part A records ______ and Part B records liabilities arising from proceedings.",
+        "type": "fill_blank",
+        "answers": [
+            "self-assessed liabilities",
+            "returns"
+        ],
+        "other_options": [
+            "demand orders",
+            "refunds",
+            "cash deposits"
+        ]
+    },
+    {
+        "q": "Which of the following situations constitutes an error in the utilization of ITC under Section 49A?",
+        "type": "mcq",
+        "o": [
+            "Utilizing SGST credit to pay CGST liability",
+            "Utilizing IGST credit to pay CGST liability",
+            "Utilizing CGST credit to pay IGST liability",
+            "Utilizing CGST credit to pay SGST liability"
+        ]
+    },
+    {
+        "q": "The principle of 'unjust enrichment' is not a bar for a refund of pre-deposit made during an appeal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In the context of TCS, the e-commerce operator must file an annual statement in Form GSTR-9B.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the methodology for calculating the refund of compensation cess on export of goods under bond?",
+        "type": "fill_blank",
+        "answers": [
+            "Rule 89(1A)",
+            "same formula as ITC refund under Rule 89(4)"
+        ],
+        "other_options": [
+            "Rule 89(4)",
+            "Rule 89(5)",
+            "Rule 96"
+        ]
+    },
+    {
+        "q": "Which rule explicitly allows the refund of 90% of the claimed amount on a provisional basis for zero-rated supplies?",
+        "type": "mcq",
+        "o": [
+            "Rule 91(2)",
+            "Rule 89(1)",
+            "Rule 92(3)",
+            "Rule 96(1)"
+        ]
+    },
+    {
+        "q": "Match the challan with its specific function:",
+        "type": "match",
+        "left": [
+            "PMT-03",
+            "PMT-04",
+            "PMT-05",
+            "PMT-07"
+        ],
+        "right": [
+            "Re-credit of failed transaction",
+            "Discrepancy in credit ledger",
+            "Electronic Liability Register (old)",
+            "Notice for demand"
+        ]
+    },
+    {
+        "q": "A registered person fails to pay the self-assessed tax in GSTR-3B. The interest is calculated under Section 50(1) from the due date till the actual payment date.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the specific condition under Rule 91 for granting a provisional refund to a person other than a zero-rated supplier?",
+        "type": "short_answer",
+        "answers": [
+            "Not applicable; provisional refund is only for zero-rated supplies or deemed exports"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The term 'Turnover of zero-rated supply of services' in Rule 89(4) refers to the aggregate of payments received during the relevant period for zero-rated supply of services plus ______.",
+        "type": "fill_blank",
+        "answers": [
+            "zero-rated supply of services where payment has not been received"
+        ],
+        "other_options": [
+            "export of goods",
+            "domestic supplies",
+            "exempt supplies"
+        ]
+    },
+    {
+        "q": "Which of the following is correct regarding the time limit for claiming refund by a UN agency?",
+        "type": "mcq",
+        "o": [
+            "Two years from the last day of the quarter in which supply was received",
+            "One year from the date of invoice",
+            "Six months from the date of purchase",
+            "There is no time limit"
+        ]
+    },
+    {
+        "q": "A show cause notice for rejection of refund must be issued in Form GST RFD-08 before passing the final order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The maximum amount of refund of unutilized ITC under inverted duty structure is restricted by the formula: (______ x Turnover of inverted supply / Adjusted Total Turnover) - Tax payable on such supply.",
+        "type": "fill_blank",
+        "answers": [
+            "Net ITC"
+        ],
+        "other_options": [
+            "Gross ITC",
+            "Total ITC",
+            "Input Tax Credit"
+        ]
+    },
+    {
+        "q": "In which scenario is the TDS deductor liable to pay the tax himself instead of deducting it from the supplier?",
+        "type": "mcq",
+        "o": [
+            "If the deductor fails to deduct TDS, the tax is payable by the deductor",
+            "If the supplier is an unregistered person",
+            "If the contract value is below Rs. 2.5 lakh",
+            "If the deductee fails to file the return"
+        ]
+    },
+    {
+        "q": "What is the primary difference between DRC-03 and PMT-06 for voluntary payments?",
+        "type": "short_answer",
+        "answers": [
+            "DRC-03 is used for discharging demand during proceedings or voluntary pre-deposit, PMT-06 for routine self-assessment"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A refund sanctioned provisionally (RFD-04) must be adjusted against the final refund amount sanctioned in Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "RFD-06"
+        ],
+        "other_options": [
+            "RFD-05",
+            "RFD-02",
+            "RFD-03"
+        ]
+    },
+    {
+        "q": "Which of the following correctly states the impact of Section 49A on the cross-utilization of CGST and SGST?",
+        "type": "mcq",
+        "o": [
+            "CGST credit cannot be used for SGST and vice versa",
+            "CGST credit can be used for SGST but not vice versa",
+            "SGST credit can be used for CGST but not vice versa",
+            "There is no restriction on cross-utilization"
+        ]
+    },
+    {
+        "q": "A 'Deemed Export' supplier can claim a refund of tax paid only if the recipient does not avail of ITC on the same.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the TDS compliance requirement with the applicable penalty:",
+        "type": "match",
+        "left": [
+            "Failure to deduct TDS",
+            "Deducts but fails to deposit",
+            "Deposits but fails to file GSTR-7",
+            "Fails to issue TDS certificate"
+        ],
+        "right": [
+            "Amount payable u/s 79",
+            "Interest u/s 50",
+            "Late fee u/s 47",
+            "Penalty u/s 125"
+        ]
+    },
+    {
+        "q": "If a taxpayer's refund application is rejected entirely, the proper officer must issue a speaking order in ______.",
+        "type": "fill_blank",
+        "answers": [
+            "RFD-08"
+        ],
+        "other_options": [
+            "RFD-06",
+            "RFD-04",
+            "DRC-07"
+        ]
+    },
+    {
+        "q": "What is the 'relevant date' for a refund of unutilized ITC on zero-rated supply of goods under Rule 89(4)?",
+        "type": "short_answer",
+        "answers": [
+            "End of the financial year in which the claim for refund arises"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following transactions will result in the automatic re-credit of the Electronic Cash Ledger?",
+        "type": "mcq",
+        "o": [
+            "Failure of an online payment due to a network error resulting in debit but no settlement",
+            "A voluntary payment of tax using DRC-03",
+            "An excess payment of tax detected in GSTR-9",
+            "A refund order passed by the proper officer"
+        ]
+    },
+    {
+        "q": "The doctrine of unjust enrichment applies to a refund of excess payment of tax where the burden has been passed on to the consumer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Under Rule 96C, the bank account used for the receipt of export proceeds must be linked to the GST portal for validation purposes.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The amount of interest on refund under Section 56 is calculated from the expiry of ______ days from the date of receipt of the complete application.",
+        "type": "fill_blank",
+        "answers": [
+            "60"
+        ],
+        "other_options": [
+            "30",
+            "45",
+            "90"
+        ]
+    },
+    {
+        "q": "Which of the following correctly describes the purpose of Part B of Form GST RFD-01?",
+        "type": "mcq",
+        "o": [
+            "Statement of invoices for unutilized ITC refund",
+            "Refund application for excess cash",
+            "Declaration for unjust enrichment",
+            "Bank account details"
+        ]
+    },
+    {
+        "q": "What is the maximum limit for the total late fee payable under Section 47 for GSTR-1 (other than nil filers) in a financial year?",
+        "type": "short_answer",
+        "answers": [
+            "0.5% of turnover in the state or Union territory",
+            "0.50%"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In the context of Rule 89(4), if the entire ITC is from input services, the Net ITC is considered zero for the purpose of the refund formula.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The Electronic Cash Ledger is maintained in the form of a regular ledger account, separately for each major head, and the taxpayer can view the balance through ______.",
+        "type": "fill_blank",
+        "answers": [
+            "common portal",
+            "GST portal"
+        ],
+        "other_options": [
+            "bank statement",
+            "challan",
+            "return"
+        ]
+    },
+    {
+        "q": "Which of the following is the correct treatment of unutilized ITC on capital goods in the refund formula under Rule 89(5)?",
+        "type": "mcq",
+        "o": [
+            "ITC on capital goods is excluded from the definition of Net ITC",
+            "It is fully included in Net ITC",
+            "It is refundable only in cash",
+            "It requires a separate application"
+        ]
+    },
+    {
+        "q": "Match the type of export with the corresponding refund mechanism:",
+        "type": "match",
+        "left": [
+            "Physical export with tax payment",
+            "Physical export under Bond/LUT",
+            "Services export with tax payment",
+            "Services export under Bond/LUT"
+        ],
+        "right": [
+            "Automatic IGST refund (Customs)",
+            "Manual RFD-01 refund",
+            "Manual RFD-01 refund",
+            "Manual RFD-01 refund"
+        ]
+    },
+    {
+        "q": "A taxpayer who has been granted a provisional refund and subsequently the final refund is sanctioned at a lower amount must return the excess with interest at 24%.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary purpose of the GST PMT-05 register?",
+        "type": "short_answer",
+        "answers": [
+            "To maintain the record of all payments made by a taxpayer"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The refund of accumulated ITC under Rule 89(4B) by a specialized agency (UN etc.) requires a certificate from a ______ to certify the claim.",
+        "type": "fill_blank",
+        "answers": [
+            "Chartered Accountant",
+            "CA"
+        ],
+        "other_options": [
+            "GST Officer",
+            "Cost Accountant",
+            "Ministry of External Affairs"
+        ]
+    },
+    {
+        "q": "Which of the following challans is NOT used for making a payment to the government under GST?",
+        "type": "mcq",
+        "o": [
+            "PMT-02",
+            "PMT-06",
+            "DRC-03",
+            "PMT-09"
+        ]
+    },
+    {
+        "q": "Section 54(14) provides that no refund of unutilized ITC shall be allowed in cases where the goods exported are subjected to export duty.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In the context of a mismatch between GSTR-1 and GSTR-3B, the refund is withheld unless the variation is less than ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "10"
+        ],
+        "other_options": [
+            "5",
+            "15",
+            "20"
+        ]
+    },
+    {
+        "q": "Which of the following is the correct definition of 'Turnover in a State or UT' for the purpose of the refund formula?",
+        "type": "mcq",
+        "o": [
+            "Total value of all taxable supplies and exempt supplies within the state",
+            "Total value of export supplies",
+            "Total value of inter-state supplies",
+            "Total value of zero-rated supplies"
+        ]
+    },
+    {
+        "q": "The interest rate for delayed payment of TCS by an e-commerce operator is 18% per annum.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the exact definition of 'Relevant Date' for a refund of input tax credit on deemed exports?",
+        "type": "short_answer",
+        "answers": [
+            "Date of filing of the return relating to such deemed exports"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The formal sanction of a refund order is communicated to the Treasury/PAO for disbursal through a payment advice in Form ______.",
+        "type": "fill_blank",
+        "answers": [
+            "RFD-05"
+        ],
+        "other_options": [
+            "RFD-04",
+            "RFD-06",
+            "RFD-02"
+        ]
+    },
+    {
+        "q": "Which of the following actions by a proper officer is legally correct when a refund application is found to be fully in order?",
+        "type": "mcq",
+        "o": [
+            "Issue RFD-06 within 60 days",
+            "Issue RFD-04 within 30 days",
+            "Issue RFD-08 and wait for hearing",
+            "Adjust it against future liabilities automatically"
+        ]
+    },
+    {
+        "q": "The 'Provisional Attachment' of property under Section 83 is applicable only after the issuance of a demand order under Section 74.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the refund type with its specific time limit:",
+        "type": "match",
+        "left": [
+            "Export of Goods",
+            "Excess Payment of Tax",
+            "Inverted Duty Structure",
+            "Judgment of Court"
+        ],
+        "right": [
+            "2 years from relevant date",
+            "2 years from date of payment",
+            "2 years from end of financial year",
+            "2 years from date of judgment"
+        ]
+    },
+    {
+        "q": "A refund application for a large amount is filed. The officer can sanction a part of the refund if there is a clear deficiency in the rest of the claim.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the fate of an excess balance in the Electronic Cash Ledger upon cancellation of registration?",
+        "type": "fill_blank",
+        "answers": [
+            "Refundable after adjusting any dues",
+            "it can be refunded"
+        ],
+        "other_options": [
+            "Lapses to government",
+            "Transferred to credit ledger",
+            "Transferred to partner"
+        ]
+    },
+    {
+        "q": "Which Section empowers the Government to disallow the refund in cases of 'Unjust Enrichment'?",
+        "type": "mcq",
+        "o": [
+            "Section 54(8)",
+            "Section 54(3)",
+            "Section 56",
+            "Section 49(5)"
+        ]
+    },
+    {
+        "q": "An acknowledgment in RFD-02 is issued electronically and contains the ARN number. This is a mandatory step for the 60-day processing time to start.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the specific penalty under Section 122(1)(vi) for taking/availing a refund of tax without payment of tax to the government?",
+        "type": "short_answer",
+        "answers": [
+            "Penalty of 100% of the tax involved",
+            "100% penalty"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The formula for proportional ITC reversal on inputs used for exempt supplies (Rule 42) directly impacts the quantum of ______ in the refund calculation.",
+        "type": "fill_blank",
+        "answers": [
+            "Net ITC"
+        ],
+        "other_options": [
+            "Gross ITC",
+            "Total Turnover",
+            "Adjusted Turnover"
+        ]
+    },
+    {
+        "q": "Which of the following is a mandatory annexure for filing a refund of unutilized ITC on exports under Bond/LUT?",
+        "type": "mcq",
+        "o": [
+            "Statement of invoices (RFD-01A)",
+            "Shipping bill copy",
+            "Bill of entry",
+            "Bank guarantee"
+        ]
+    },
+    {
+        "q": "Electronic Cash Ledger deposits older than 2 years are automatically forfeited.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Under Section 54(3), a registered person may claim a refund of unutilized ITC at the end of any tax period. However, for inverted duty structure, what is the specific 'tax period' referred to in Rule 89(5)?",
+        "type": "mcq",
+        "o": [
+            "The relevant period as defined in the explanation to the rule",
+            "Only the month of March",
+            "Every quarter",
+            "Any continuous period of 6 months"
+        ]
+    },
+    {
+        "q": "If a supplier charges GST on an inter-state supply but wrongly remits it as CGST/SGST, the refund is claimed by the supplier as excess payment. What is the crucial bar under Section 54(3)?",
+        "type": "short_answer",
+        "answers": [
+            "The incidence of tax has not been passed on to any other person",
+            "unjust enrichment"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The Electronic Cash Ledger balance that remains unutilized for a period of more than 365 days from the date of deposit can be refunded, but only after adjusting any ______.",
+        "type": "fill_blank",
+        "answers": [
+            "outstanding liability"
+        ],
+        "other_options": [
+            "interest",
+            "penalty",
+            "fee"
+        ]
+    },
+    {
+        "q": "Which of the following is an INCORRECT application of Section 49(6) regarding the discharge of interest and penalty?",
+        "type": "mcq",
+        "o": [
+            "Interest on late payment can be discharged using the Electronic Credit Ledger",
+            "The proper officer can debit interest from the Credit Ledger",
+            "Penalty must be paid from the Cash Ledger",
+            "Late fee is paid from the Cash Ledger"
+        ]
+    },
+    {
+        "q": "Match the specific recovery mechanism with the corresponding section of the CGST Act:",
+        "type": "match",
+        "left": [
+            "Recovery from a defaulter",
+            "Recovery from a third party holding money",
+            "Recovery through a garnishee order",
+            "Recovery by sale of detained goods"
+        ],
+        "right": [
+            "Section 79(1)(a)",
+            "Section 79(1)(c)",
+            "Section 79(1)(d)",
+            "Section 79(1)(b)"
+        ]
+    },
+    {
+        "q": "The principle of 'unjust enrichment' does not apply to refunds of excess balance in the Electronic Cash Ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Under Rule 86B, a taxpayer restricted by the 99% ITC utilization rule must pay at least 1% of the output liability in cash. This restriction does not apply if the taxpayer has paid more than Rs. ______ as income tax in the preceding two financial years.",
+        "type": "fill_blank",
+        "answers": [
+            "1 lakh",
+            "Rs. 1,00,000"
+        ],
+        "other_options": [
+            "50,000",
+            "2 lakh",
+            "5 lakh"
+        ]
+    },
+    {
+        "q": "Which of the following scenarios would lead to a refund being credited to the Consumer Welfare Fund instead of the taxpayer's bank account?",
+        "type": "mcq",
+        "o": [
+            "The taxpayer fails to prove that the tax burden was not passed on to the consumer",
+            "The application was filed one day late",
+            "The refund amount is less than Rs. 2000",
+            "The taxpayer is a composition dealer"
+        ]
+    },
+    {
+        "q": "A registered person who has been issued a deficiency memo (RFD-03) must file a fresh refund application. The original claim date is lost.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the precise calculation for the interest on refund (Section 56) where the refund is of IGST paid on exports but the system delay is caused by a mismatch?",
+        "type": "short_answer",
+        "answers": [
+            "6% from the date of filing GSTR-1/GSTR-3B till the date of actual credit if the fault is of the department"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In the context of TDS under GST, the value of the contract for the threshold limit of Rs. 2.5 lakh is the total value of the ______ including all taxes.",
+        "type": "fill_blank",
+        "answers": [
+            "supply",
+            "contract"
+        ],
+        "other_options": [
+            "goods",
+            "services",
+            "invoice"
+        ]
+    },
+    {
+        "q": "Which of the following correctly describes the refund process for an ISD (Input Service Distributor)?",
+        "type": "mcq",
+        "o": [
+            "An ISD cannot claim a refund of unutilized ITC",
+            "An ISD can claim a refund of export ITC",
+            "An ISD can claim a refund of excess balance",
+            "An ISD files a refund in Form RFD-10"
+        ]
+    },
+    {
+        "q": "Match the Section/Rule with its specific numeric limit or rate:",
+        "type": "match",
+        "left": [
+            "Section 51 (TDS Rate - Intra State)",
+            "Section 52 (TCS Rate - Intra State)",
+            "Rule 96A (Initial Withholding Period)",
+            "Section 56 (Max Refund Interest)"
+        ],
+        "right": [
+            "CGST 1% + SGST 1%",
+            "Max 1% (notified)",
+            "30 days",
+            "6% (notified)"
+        ]
+    },
+    {
+        "q": "A taxpayer has a credit of Rs. 10,000 in the CGST head of the Electronic Cash Ledger and Rs. 5,000 liability in the SGST head. Using PMT-09, the taxpayer can transfer funds directly to pay the SGST liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the legal implication of Section 49(10) read with Rule 86B on a large taxpayer with significant ITC but negligible cash profit?",
+        "type": "short_answer",
+        "answers": [
+            "They must pay at least 1% of output liability in cash, limiting 99% ITC usage"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The refund of accumulated ITC on zero-rated supplies under Bond/LUT is calculated based on the formula: (Turnover of zero-rated supply / ______) x Net ITC.",
+        "type": "fill_blank",
+        "answers": [
+            "Adjusted Total Turnover"
+        ],
+        "other_options": [
+            "Total Turnover",
+            "Export Turnover",
+            "Gross Turnover"
+        ]
+    },
+    {
+        "q": "Which of the following constitutes 'fraudulent availment' of ITC leading to a longer period of limitation for recovery under Section 74?",
+        "type": "mcq",
+        "o": [
+            "Availing ITC without an invoice",
+            "Availing ITC on a genuine invoice reported late",
+            "Availing ITC on an invoice from a cancelled dealer",
+            "Claiming refund of ITC reversed voluntarily"
+        ]
+    },
+    {
+        "q": "The interest on delayed refund (Section 56) is payable by the government only if the delay is not attributable to the taxpayer.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In the inverted duty structure refund formula (Rule 89(5)), the 'tax payable on the inverted rated supply of goods' is calculated by applying the rate of tax on the ______ supply.",
+        "type": "fill_blank",
+        "answers": [
+            "inverted rated"
+        ],
+        "other_options": [
+            "exempt",
+            "zero-rated",
+            "output"
+        ]
+    },
+    {
+        "q": "What is the 'Net Value of Taxable Supplies' for the purpose of TCS calculation under Section 52?",
+        "type": "short_answer",
+        "answers": [
+            "Gross value of taxable supplies minus returned goods and discounts"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a mandatory field in Form RFD-01 for a refund of unutilized ITC on exports without payment?",
+        "type": "mcq",
+        "o": [
+            "Details of the bank account validated by PFMS",
+            "Shipping bill number only",
+            "Invoice number without any declaration",
+            "Aadhaar number"
+        ]
+    },
+    {
+        "q": "A refund sanction order under RFD-06 can be issued for an amount higher than the provisional refund (RFD-04) if the total sanctioned amount exceeds the claimed amount.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the form with the specific entity using it:",
+        "type": "match",
+        "left": [
+            "GSTR-7",
+            "GSTR-8",
+            "GSTR-7A",
+            "RFD-10"
+        ],
+        "right": [
+            "TDS Deductor",
+            "TCS Collector",
+            "Deductee (certificate)",
+            "International Tourist"
+        ]
+    },
+    {
+        "q": "The amount of TCS deposited by an e-commerce operator is directly reflected in the Electronic Liability Register of the supplier.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the time limit for a proper officer to issue a show cause notice (RFD-08) if the refund is to be rejected on grounds of unjust enrichment?",
+        "type": "fill_blank",
+        "answers": [
+            "within 60 days from receipt of application",
+            "60 days"
+        ],
+        "other_options": [
+            "30 days",
+            "45 days",
+            "90 days"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a recognized major head in the Electronic Cash Ledger?",
+        "type": "mcq",
+        "o": [
+            "Additional Tax",
+            "Integrated Tax",
+            "Central Tax",
+            "State Tax"
+        ]
+    },
+    {
+        "q": "A refund for unutilized ITC on capital goods can be claimed only if the goods are exported as such.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the core principle established by the Supreme Court regarding the 'Relevant Date' for a refund of unutilized ITC on zero-rated supplies?",
+        "type": "short_answer",
+        "answers": [
+            "It is the end of the financial year in which the claim arises"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The PMT-03 form is crucial for re-crediting the Electronic Cash Ledger when a payment fails due to ______ reasons.",
+        "type": "fill_blank",
+        "answers": [
+            "technical"
+        ],
+        "other_options": [
+            "legal",
+            "accounting",
+            "manual"
+        ]
+    },
+    {
+        "q": "Under Section 54(6), a person claiming a refund of unutilized ITC must satisfy the proper officer that the input tax credit has not been claimed as ______.",
+        "type": "fill_blank",
+        "answers": [
+            "reversal",
+            "deduction",
+            "expenditure"
+        ],
+        "other_options": [
+            "output",
+            "payment",
+            "adjustment"
+        ]
+    },
+    {
+        "q": "Which of the following is the precise legal basis for the application of the Consumer Welfare Fund?",
+        "type": "mcq",
+        "o": [
+            "Section 57 of the CGST Act",
+            "Section 54(8) of the CGST Act",
+            "Rule 97 of the CGST Rules",
+            "Section 56 of the CGST Act"
+        ]
+    },
+    {
+        "q": "When a taxpayer makes a voluntary payment during a search using DRC-03, a refund of this amount is available automatically after the investigation.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the type of duty drawback with the applicable GST refund rule:",
+        "type": "match",
+        "left": [
+            "Duty Drawback of Customs",
+            "Duty Drawback of Central Excise",
+            "GST Refund on Export (with tax)"
+        ],
+        "right": [
+            "Allowed independently",
+            "Not allowed (GST subsumed)",
+            "IGST refunded automatically"
+        ]
+    },
+    {
+        "q": "What is the specific legal requirement under Rule 96 for an exporter whose refund is withheld under Rule 96A?",
+        "type": "short_answer",
+        "answers": [
+            "Provide a bond or bank guarantee to release the withheld refund"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The 'Adjusted Total Turnover' for the refund formula under Rule 89(4) includes the turnover of exempt supplies.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following represents a valid method for a non-resident taxable person to make a payment of GST?",
+        "type": "mcq",
+        "o": [
+            "Through challan PMT-06 deposited via wire transfer into the government account",
+            "Utilizing Input Tax Credit",
+            "Using a credit card not registered in India",
+            "By adjusting against future supplies"
+        ]
+    },
+    {
+        "q": "Interest on the late filing of GSTR-3B (net liability) is calculated under Section 50 from the due date of filing to the ______.",
+        "type": "fill_blank",
+        "answers": [
+            "date of actual payment",
+            "date of filing return with payment"
+        ],
+        "other_options": [
+            "date of notice",
+            "end of month",
+            "date of filing without payment"
+        ]
+    },
+    {
+        "q": "An appeal against an order of rejection of refund (RFD-08) lies with the First Appellate Authority under Section ______.",
+        "type": "fill_blank",
+        "answers": [
+            "107"
+        ],
+        "other_options": [
+            "73",
+            "74",
+            "129"
+        ]
+    },
+    {
+        "q": "Which of the following statements is TRUE regarding the TDS deduction on a supply where GST is payable under Reverse Charge Mechanism (RCM)?",
+        "type": "mcq",
+        "o": [
+            "TDS is not deductible on the tax component paid under RCM",
+            "TDS is deductible on the entire contract value",
+            "TDS is deductible only on the GST amount",
+            "RCM supplies are exempt from all TDS"
+        ]
+    },
+    {
+        "q": "The late fee for GSTR-5 (Non-resident taxable person) is capped at Rs. 200 per day of default.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the specific scenario with the correct 'Relevant Date' for refund:",
+        "type": "match",
+        "left": [
+            "Supply under provisional assessment finalized",
+            "Appeal won with favorable order",
+            "Pre-deposit for filing appeal",
+            "Unregistered person refund"
+        ],
+        "right": [
+            "Date of adjustment of tax",
+            "Date of communication of order",
+            "Date of favorable order",
+            "Date of payment of tax"
+        ]
+    },
+    {
+        "q": "What is the primary reason that capital goods ITC is excluded from the refund formula under Rule 89(5) for inverted duty structure?",
+        "type": "short_answer",
+        "answers": [
+            "Capital goods are not inputs and have a separate depreciation/refund mechanism"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In the Electronic Liability Register, a demand confirmed under Section 73 or 74 is posted in the register on the issuance of ______.",
+        "type": "fill_blank",
+        "answers": [
+            "DRC-07"
+        ],
+        "other_options": [
+            "DRC-01",
+            "DRC-13",
+            "DRC-03"
+        ]
+    },
+    {
+        "q": "Which of the following is an exception to the rule that TDS is deductible at the rate of 2% on the payment made?",
+        "type": "mcq",
+        "o": [
+            "When the location of the supplier and the place of supply are in different states, IGST TDS applies",
+            "When the contract is for exempt supplies",
+            "When the payment is made in cash",
+            "When the supplier is a composition dealer"
+        ]
+    },
+    {
+        "q": "A proper officer can unilaterally debit the Electronic Credit Ledger to adjust a confirmed demand.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Under Rule 89(4C), a specialized agency of the UN can claim a refund of the tax paid on inward supplies. What is the maximum time limit for filing this refund?",
+        "type": "fill_blank",
+        "answers": [
+            "Two years from the last day of the quarter in which supply was received"
+        ],
+        "other_options": [
+            "One year from invoice",
+            "Six months from supply",
+            "Four years from invoice"
+        ]
+    },
+    {
+        "q": "Which of the following correctly defines the term 'Aggregate Turnover' for the TDS exemption threshold?",
+        "type": "mcq",
+        "o": [
+            "All-India turnover of the supplier in the preceding financial year",
+            "Turnover from the specific government contract",
+            "Turnover in the state of the deductor",
+            "Total turnover including exempt and non-GST supplies"
+        ]
+    },
+    {
+        "q": "If a refund is sanctioned under RFD-06, and interest is also payable, the interest is credited along with the principal amount directly to the bank account.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the precise effect of Rule 36(4) on the quantum of refund of unutilized ITC on exports?",
+        "type": "short_answer",
+        "answers": [
+            "ITC not reflecting in GSTR-2A beyond the 10% limit is ineligible, reducing Net ITC for the refund formula"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The quarterly return GSTR-4 for composition dealers is due by the 18th of the month following the quarter.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In the context of PMT-09, the transfer of funds from the 'Cess' head to the 'Central Tax' head is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "not allowed",
+            "prohibited"
+        ],
+        "other_options": [
+            "allowed freely",
+            "allowed with permission",
+            "automatic"
+        ]
+    },
+    {
+        "q": "Which of the following actions is legally sanctioned under Rule 145 of the CGST Rules regarding refund procedures?",
+        "type": "mcq",
+        "o": [
+            "The Commissioner can extend the time limit for refund processing beyond 60 days",
+            "The Commissioner can reduce the 60-day limit to 30 days",
+            "The taxpayer can extend the time limit voluntarily",
+            "The time limit is absolute and cannot be extended"
+        ]
+    },
+    {
+        "q": "The 'Net ITC' for inverted duty refund excludes ITC from import of goods.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the tax treatment of interest received on a delayed refund by an exporter?",
+        "type": "short_answer",
+        "answers": [
+            "It is a taxable supply under GST and IGST is payable under RCM"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "If a taxpayer fails to pay the tax liability within 30 days of the due date, interest at 18% is calculated from the due date. For periods beyond 30 days, the rate increases to ______%.",
+        "type": "fill_blank",
+        "answers": [
+            "18"
+        ],
+        "other_options": [
+            "24",
+            "30",
+            "36"
+        ]
+    },
+    {
+        "q": "Which of the following scenarios permits an e-commerce operator to avoid collecting TCS on a particular supply?",
+        "type": "mcq",
+        "o": [
+            "The supplier is a registered person making an exempt supply",
+            "The supplier is selling goods worth Rs. 100",
+            "The supplier is a small-scale industry",
+            "The operator is a foreign company"
+        ]
+    },
+    {
+        "q": "The government may notify a higher rate of TCS up to 5% under Section 52.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the Tax type with the correct TDS component rate:",
+        "type": "match",
+        "left": [
+            "Central Tax",
+            "State Tax",
+            "Integrated Tax"
+        ],
+        "right": [
+            "1%",
+            "1%",
+            "2%"
+        ]
+    },
+    {
+        "q": "The Electronic Cash Ledger can have a negative balance if a refund is adjusted against a future demand.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the specific Rule that provides for the refund of Compensation Cess on exports under bond?",
+        "type": "fill_blank",
+        "answers": [
+            "Rule 89(1A)"
+        ],
+        "other_options": [
+            "Rule 89(4)",
+            "Rule 96",
+            "Rule 97A"
+        ]
+    },
+    {
+        "q": "Which of the following is a consequence of not linking a bank account validated by PFMS while filing a refund for zero-rated supplies?",
+        "type": "mcq",
+        "o": [
+            "The refund application is not processed and a deficiency memo may be issued",
+            "The refund is automatically credited to the cash ledger",
+            "The refund is processed manually by cheque",
+            "No consequence; it is optional"
+        ]
+    },
+    {
+        "q": "A refund of unutilized ITC can be claimed even if the exported goods are re-imported within 6 months.",
+        "type": "true_false",
+        "correct": "False"
+    }
+]

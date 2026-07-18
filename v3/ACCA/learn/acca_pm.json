@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_pm",
+    "topicId": "acca_pm",
+    "topicTitle": "Performance Management (PM)",
+    "description": "Master ACCA PM including ABC, Target Costing, Transfer Pricing, and Performance Analysis",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "pm_1",
+            "type": "content",
+            "title": "Welcome to ACCA PM",
+            "content": "# Performance Management (PM)\n\nPM covers **advanced management accounting** for decision-making.\n\n## What You Will Learn\n\n- **ABC** - Activity-based costing\n- **Target Costing** - Market-driven\n- **Transfer Pricing** - Internal transactions\n- **Performance** - Modern measures\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Decision making | 25% |\n| Costing systems | 25% |\n| Budgeting | 20% |\n| Performance | 30% |"
+        },
+        {
+            "id": "pm_2",
+            "type": "content",
+            "title": "Activity-Based Costing",
+            "content": "# ABC Costing\n\n## Traditional vs ABC\n\n| Traditional | ABC |\n|-------------|-----|\n| Volume-based | Activity-based |\n| Single OAR | Multiple cost pools |\n| Simple | More accurate |\n\n## ABC Process\n\n```\n1. Identify activities\n2. Assign costs to pools\n3. Identify cost drivers\n4. Calculate driver rates\n5. Charge to products\n```\n\n## Cost Drivers\n\n| Activity | Driver |\n|----------|--------|\n| Purchasing | Number of orders |\n| Setup | Number of setups |\n| Inspection | Number of inspections |\n| Storage | Space occupied |"
+        },
+        {
+            "id": "pm_3",
+            "type": "content",
+            "title": "Target Costing",
+            "content": "# Target Costing\n\n## Market-Driven Pricing\n\n```\nTarget Selling Price (market)\n- Target Profit Margin\n= Target Cost\n```\n\n## Cost Gap\n\n```\nEstimated Cost - Target Cost = Cost Gap\n\nIf gap exists, reduce through:\n- Value analysis\n- Design changes\n- Process improvement\n```\n\n## Value Engineering\n\n| Technique | Focus |\n|-----------|-------|\n| Functional analysis | Eliminate waste |\n| Design review | Simplify design |\n| Supplier involvement | Input from chain |\n\n## Benefits\n\n- Customer-focused\n- Proactive cost management\n- Cross-functional teams"
+        },
+        {
+            "id": "pm_quiz_1",
+            "type": "quiz",
+            "title": "Target Costing Quiz",
+            "content": "Test your target costing knowledge!",
+            "quizQuestion": "Target cost equals target price minus?",
+            "quizOptions": [
+                "Variable cost",
+                "Fixed cost",
+                "Target profit",
+                "Standard cost"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "pm_4",
+            "type": "content",
+            "title": "Life Cycle Costing",
+            "content": "# Life Cycle Costing\n\n## Product Life Cycle\n\n```\nIntroduction -> Growth -> Maturity -> Decline\n```\n\n## Costs Across Lifecycle\n\n| Stage | Major Costs |\n|-------|-------------|\n| Development | R&D, design |\n| Introduction | Marketing |\n| Growth | Production |\n| Maturity | Support, variants |\n| Decline | Disposal |\n\n## Benefits\n\n- Full cost visibility\n- Better pricing decisions\n- Environmental costs included\n\n## Maximizing Returns\n\n- Reduce design costs\n- Minimize production costs\n- Extend maturity phase\n- Plan for decline"
+        },
+        {
+            "id": "pm_5",
+            "type": "content",
+            "title": "Throughput Accounting",
+            "content": "# Throughput Accounting\n\n## Theory of Constraints\n\nThe bottleneck limits system output.\n\n## Key Measures\n\n| Measure | Formula |\n|---------|--------|\n| Throughput | Sales - Material cost |\n| Conversion cost | All other costs |\n| TPAR | Throughput / Time on bottleneck |\n\n## TPAR Decision\n\n```\nTPAR > 1: Product profitable\nTPAR < 1: Consider discontinuing\n```\n\n## Managing Bottleneck\n\n- Maximize bottleneck use\n- Reduce setup times\n- Improve quality\n- Add capacity"
+        },
+        {
+            "id": "pm_6",
+            "type": "content",
+            "title": "Environmental Accounting",
+            "content": "# Environmental Costing\n\n## Environmental Costs\n\n| Category | Examples |\n|----------|----------|\n| Prevention | Training, audits |\n| Detection | Monitoring, testing |\n| Internal failure | Waste treatment |\n| External failure | Fines, cleanup |\n\n## Benefits of Tracking\n\n- Cost reduction opportunities\n- Regulatory compliance\n- Stakeholder expectations\n- Competitive advantage\n\n## Input/Output Analysis\n\n```\nInputs (materials, energy)\n    |\n    v\n    Process\n    |\n    +-> Products\n    +-> Waste/emissions\n```"
+        },
+        {
+            "id": "pm_7",
+            "type": "content",
+            "title": "Transfer Pricing",
+            "content": "# Transfer Pricing\n\n## What is Transfer Price?\n\nPrice charged between divisions for internal trades.\n\n## Methods\n\n| Method | Formula |\n|--------|--------|\n| Market-based | External market price |\n| Cost-based | Cost + markup |\n| Negotiated | Agreed between divisions |\n\n## Minimum Transfer Price\n\n```\nMarginal cost\n+ Opportunity cost of transfer\n= Minimum transfer price\n```\n\n## Goal Congruence\n\n- Align divisional and company goals\n- Motivate managers\n- Enable fair evaluation"
+        },
+        {
+            "id": "pm_quiz_2",
+            "type": "quiz",
+            "title": "Transfer Pricing Quiz",
+            "content": "Test your transfer pricing knowledge!",
+            "quizQuestion": "Minimum transfer price includes marginal cost plus?",
+            "quizOptions": [
+                "Fixed cost",
+                "Opportunity cost",
+                "Target profit",
+                "Market price"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "pm_8",
+            "type": "content",
+            "title": "Divisional Performance",
+            "content": "# Divisional Measures\n\n## Return on Investment\n\n```\nROI = Profit / Capital Employed x 100\n```\n\n## Residual Income\n\n```\nRI = Profit - (CE x Cost of Capital)\n```\n\n## ROI vs RI\n\n| ROI | RI |\n|-----|----|\n| Percentage | Absolute amount |\n| Easy comparison | Size-adjusted |\n| May reject good projects | Better decisions |\n\n## Economic Value Added\n\n```\nEVA = NOPAT - (CE x WACC)\n```"
+        },
+        {
+            "id": "pm_9",
+            "type": "content",
+            "title": "Balanced Scorecard",
+            "content": "# Balanced Scorecard\n\n## Four Perspectives\n\n| Perspective | Key Question |\n|-------------|-------------|\n| Financial | How do we look to shareholders? |\n| Customer | How do customers see us? |\n| Internal | What must we excel at? |\n| Learning | How can we improve? |\n\n## Example Measures\n\n| Perspective | Measure |\n|-------------|--------|\n| Financial | ROI, revenue growth |\n| Customer | Satisfaction, retention |\n| Internal | Cycle time, quality |\n| Learning | Training hours, innovation |\n\n## Benefits\n\n- Balanced view\n- Links strategy to operations\n- Non-financial measures"
+        },
+        {
+            "id": "pm_10",
+            "type": "content",
+            "title": "Pricing Strategies",
+            "content": "# Pricing Decisions\n\n## Pricing Methods\n\n| Method | Approach |\n|--------|----------|\n| Cost-plus | Full cost + markup |\n| Marginal | Variable cost + contribution |\n| Market | Competitor-based |\n| Value | Customer-perceived value |\n\n## Price Elasticity\n\n```\nElasticity = % change in demand / % change in price\n\nElastic: > 1 (demand sensitive)\nInelastic: < 1 (demand stable)\n```\n\n## Optimal Price\n\n```\nMR = MC for profit maximization\n\nPrice = a - bQ\nMR = a - 2bQ\n```"
+        },
+        {
+            "id": "pm_11",
+            "type": "content",
+            "title": "Limiting Factor Analysis",
+            "content": "# Scarce Resources\n\n## Single Limiting Factor\n\n```\nContribution per unit /\nLimiting factor per unit\n= Contribution per limiting factor\n\nRank products by this ratio\n```\n\n## Example\n\n```\nProduct A: $20 cont, 2 labor hours\nProduct B: $15 cont, 1 labor hour\n\nA: $20/2 = $10 per hour\nB: $15/1 = $15 per hour\n\nPriority: B first, then A\n```\n\n## Multiple Limiting Factors\n\nUse linear programming:\n- Objective function\n- Constraints\n- Feasible region\n- Optimal point"
+        },
+        {
+            "id": "pm_quiz_3",
+            "type": "quiz",
+            "title": "Limiting Factor Quiz",
+            "content": "Test your limiting factor knowledge!",
+            "quizQuestion": "When ranking products with a limiting factor, prioritize products with highest?",
+            "quizOptions": [
+                "Total contribution",
+                "Selling price",
+                "Contribution per limiting factor",
+                "Profit margin"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "pm_12",
+            "type": "content",
+            "title": "Risk and Uncertainty",
+            "content": "# Decision-Making Under Uncertainty\n\n## Expected Value\n\n```\nEV = Sum of (Probability x Outcome)\n```\n\n## Decision Trees\n\n```\n        [Decision]\n       /          \\\\\n     Option A    Option B\n       |           |\n    [Chance]    [Chance]\n      / \\\\         / \\\\\n   Good  Bad   Good  Bad\n```\n\n## Sensitivity Analysis\n\nHow much can variables change before decision changes?\n\n## Risk Attitudes\n\n| Attitude | Preference |\n|----------|------------|\n| Risk-seeking | Higher variance |\n| Risk-neutral | Expected value |\n| Risk-averse | Lower variance |"
+        },
+        {
+            "id": "pm_13",
+            "type": "content",
+            "title": "Beyond Budgeting",
+            "content": "# Modern Budgeting\n\n## Traditional Budget Criticisms\n\n- Time-consuming\n- Gaming behavior\n- Outdated quickly\n- Focus on cost cutting\n\n## Rolling Budgets\n\n```\nContinuously updated:\nMonth 1 actual -> Add Month 13 budget\n```\n\n## Beyond Budgeting\n\n| Principle | Meaning |\n|-----------|--------|\n| Relative targets | Beat competitors |\n| Adaptive planning | Rolling forecasts |\n| Resources on demand | Not fixed |"
+        },
+        {
+            "id": "pm_14",
+            "type": "content",
+            "title": "Variance Analysis Advanced",
+            "content": "# Advanced Variances\n\n## Sales Variances\n\n```\nSales Price Variance:\n(Actual - Budget price) x Actual qty\n\nSales Volume Variance:\n(Actual - Budget qty) x Standard contribution\n```\n\n## Mix and Yield\n\n```\nMix Variance:\n(Actual mix - Std mix) x Std cost x Actual total\n\nYield Variance:\n(Actual yield - Std yield) x Std cost\n```\n\n## Planning and Operating\n\nSplit variances into:\n- Planning (budget error)\n- Operating (efficiency)"
+        },
+        {
+            "id": "pm_quiz_4",
+            "type": "quiz",
+            "title": "Variance Quiz",
+            "content": "Test your advanced variance knowledge!",
+            "quizQuestion": "What does the mix variance measure?",
+            "quizOptions": [
+                "Price changes",
+                "Efficiency",
+                "Input proportions",
+                "Volume changes"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "pm_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA PM - Performance Management**!\n\n## Key Topics\n\n### Costing Systems\n- ABC costing\n- Target costing\n- Life cycle costing\n- Throughput accounting\n\n### Performance\n- ROI and RI\n- EVA\n- Balanced scorecard\n- Transfer pricing\n\n### Decision Making\n- Limiting factors\n- Pricing decisions\n- Risk analysis\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| ROI = Profit/CE | Divisional measure |\n| RI = Profit - CE x CoC | Absolute measure |\n| TPAR = Throughput/Time | Bottleneck |\n\n## What is Next?\n\nExplore ACCA TX - Taxation!"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Stock Groups",
+    "ques": "What is the purpose of Stock Groups in Tally Inventory Management?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Stock Groups in Tally are used to categorize inventory items based on similar characteristics. This helps in easy identification, classification, and reporting."
+    },
+    "explanation": "***Stock Groups*** allow you to organize inventory items into meaningful categories.\n\n- ***Purpose:*** Helps in managing large inventories efficiently.\n- ***Grouping Criteria:*** Items with similar properties are grouped together.\n- ***Example:*** A business selling electronics may create Stock Groups like `Laptops`, `Mobile Phones`, `Accessories`."
+  },
+  {
+    "title": "Categories & Units",
+    "ques": "How do Categories and Units help in inventory management in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Categories help classify stock items that belong to multiple groups, while Units define the measurement for stock items, such as pieces, kilograms, or liters."
+    },
+    "explanation": "- ***Categories:*** Used for classification of items that belong to multiple stock groups.\n  - Example: `Brand A` and `Brand B` for different types of clothing.\n- ***Units:*** Define the measurement unit of stock items.\n  - Example: `pcs`, `kg`, `liters`, etc.\n- ***Use Case:*** A grocery store may have a category `Dairy Products` containing stock items from different Stock Groups like `Milk`, `Cheese`, and `Yogurt`, measured in `liters` or `grams`."
+  },
+  {
+    "title": "Stock Items & BOM (Bill of Materials)",
+    "ques": "What is the difference between Stock Items and BOM in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Stock Items refer to individual goods available for sale or use, while BOM (Bill of Materials) defines the components required to manufacture a finished product."
+    },
+    "explanation": "- ***Stock Items:*** Basic inventory items stored in Tally.\n  - Example: `Wooden Table`, `Laptop`\n- ***Bill of Materials (BOM):*** Used for manufacturing processes where multiple stock items are combined to create a finished product.\n  - Example: A `Bicycle` may require `Frame`, `Wheels`, and `Handlebars`.\n- ***Use Case:*** A furniture manufacturer can create a BOM for a `Wooden Chair` listing raw materials like `Wood`, `Nails`, and `Glue`."
+  },
+  {
+    "title": "Godown & Warehouse Management",
+    "ques": "How does Tally help in managing multiple Godowns and Warehouses?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Tally allows users to track stock movement between multiple Godowns or Warehouses, ensuring efficient inventory management."
+    },
+    "explanation": "- ***Godown/Warehouse:*** A location where stock is stored.\n- ***Purpose:*** Helps businesses with multiple storage locations keep track of inventory accurately.\n- ***Features:***\n  - Transfer stock between locations.\n  - Maintain separate stock reports for each warehouse.\n- ***Example:*** A business with warehouses in `Mumbai` and `Delhi` can track stock levels separately and manage stock transfers efficiently."
+  },
+  {
+    "title": "Inventory Valuation Methods",
+    "ques": "What are the different Inventory Valuation Methods available in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Tally provides various inventory valuation methods such as FIFO, LIFO, Weighted Average, and Standard Costing to determine stock value."
+    },
+    "explanation": "- ***FIFO (First-In-First-Out):*** The oldest stock is issued first.\n  - Example: A dairy store selling milk ensures older stock is sold before new stock.\n- ***LIFO (Last-In-First-Out):*** The newest stock is issued first.\n  - Example: Used in industries where newer products are prioritized for sale.\n- ***Weighted Average:*** The cost of stock is averaged.\n  - Example: Suitable for items with fluctuating prices like fuel.\n- ***Standard Costing:*** Fixed cost is assigned to items.\n  - Example: Used in industries with predefined costs for manufacturing."
+  },
+  {
+    "title": "Stock Item Creation",
+    "ques": "How can you create a Stock Item in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "To create a Stock Item in Tally, go to Gateway of Tally > Inventory Info > Stock Items > Create and enter details like Name, Unit, Stock Group, and Opening Balance."
+    },
+    "explanation": "- ***Stock Items*** are individual products available for sale or consumption.\n- ***Steps to create a Stock Item:***\n  1. Go to `Gateway of Tally` > `Inventory Info` > `Stock Items` > `Create`.\n  2. Enter the `Name` of the stock item.\n  3. Select the `Stock Group` and `Category` (if applicable).\n  4. Choose the `Unit of Measurement` (e.g., pcs, kg, liter).\n  5. Enter the `Opening Balance` and `Rate` if applicable.\n  6. Save the entry.\n- ***Example:*** A company selling mobile phones can create a stock item `Samsung Galaxy S22` under the `Mobile Phones` stock group."
+  },
+  {
+    "title": "Stock Transfers",
+    "ques": "What is the purpose of Stock Transfers in Tally, and how can they be recorded?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Stock Transfers in Tally help businesses move inventory between different Godowns or Warehouses. They can be recorded using the Stock Journal voucher."
+    },
+    "explanation": "- ***Purpose of Stock Transfers:***\n  - To maintain proper inventory records for different locations.\n  - To track the movement of goods between Godowns/Warehouses.\n- ***Steps to record a Stock Transfer:***\n  1. Go to `Gateway of Tally` > `Accounting Vouchers` > `F7: Stock Journal`.\n  2. Select the `Source Godown` and `Destination Godown`.\n  3. Enter the `Stock Item` and `Quantity` being transferred.\n  4. Save the voucher.\n- ***Example:*** A business moving 100 units of `Laptop Chargers` from `Delhi Warehouse` to `Mumbai Warehouse` would use a Stock Journal voucher."
+  },
+  {
+    "title": "Negative Stock Handling",
+    "ques": "How does Tally handle negative stock, and how can it be prevented?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Tally allows transactions with negative stock, but it can be prevented by enabling 'No Negative Stock' in Inventory Features."
+    },
+    "explanation": "- ***Negative Stock*** occurs when a sale is recorded without sufficient stock.\n- ***Effects of Negative Stock:***\n  - Incorrect inventory reports.\n  - Financial discrepancies.\n- ***How to prevent Negative Stock:***\n  1. Go to `F11: Features` > `Inventory Features`.\n  2. Enable `No Negative Stock`.\n  3. Ensure proper stock maintenance before sales.\n- ***Example:*** A retail store with `0` units of `LED TVs` should not allow a sale of `5` units without first recording a stock purchase."
+  },
+  {
+    "title": "Reorder Level",
+    "ques": "What is the significance of the Reorder Level in Tally, and how is it set?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The Reorder Level in Tally ensures that stock is replenished before running out. It is set based on sales demand and lead time."
+    },
+    "explanation": "- ***Reorder Level*** is the minimum stock quantity required to maintain smooth business operations.\n- ***Significance:***\n  - Prevents stock shortages.\n  - Ensures timely reordering.\n- ***Steps to set Reorder Level:***\n  1. Go to `Inventory Info` > `Stock Items` > `Alter`.\n  2. Select the stock item and enter the `Reorder Level`.\n  3. Enter the `Minimum Order Quantity`.\n  4. Save the settings.\n- ***Example:*** A shop selling `Printers` may set a reorder level of `10` units to ensure timely restocking."
+  },
+  {
+    "title": "Batch-wise Inventory",
+    "ques": "What is Batch-wise Inventory in Tally, and how is it beneficial?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Batch-wise Inventory in Tally allows tracking stock items based on their batch numbers, expiry dates, and manufacturing details."
+    },
+    "explanation": "- ***Batch-wise Inventory:***\n  - Used for tracking items with expiry or production batches.\n  - Helps businesses manage perishable goods.\n- ***How to enable Batch-wise Inventory:***\n  1. Go to `F11: Features` > `Inventory Features`.\n  2. Enable `Maintain Batch-wise Details`.\n  3. While creating stock items, enter the `Batch Number` and `Expiry Date`.\n- ***Example:*** A pharmaceutical company selling `Cough Syrup` can track stock using batch numbers like `Batch#123` with an expiry date of `30-06-2025`."
+  },
+  {
+    "title": "Inventory Reports",
+    "ques": "What are the key Inventory Reports available in Tally, and how are they useful?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Tally provides Inventory Reports such as Stock Summary, Godown Summary, and Stock Ageing Analysis to help businesses track stock movements and valuation."
+    },
+    "explanation": "- ***Types of Inventory Reports:***\n  - ***Stock Summary:*** Displays overall stock status.\n  - ***Godown Summary:*** Shows stock available in different godowns.\n  - ***Stock Ageing Analysis:*** Highlights slow-moving and old stock.\n- ***Benefits of Inventory Reports:***\n  - Helps in decision-making regarding stock purchases.\n  - Identifies excess and slow-moving inventory.\n- ***Example:*** A retail store owner can use `Stock Ageing Analysis` to identify items that have been in stock for more than `6 months` and offer discounts to clear them."
+  },
+  {
+    "title": "Manufacturing Journal",
+    "ques": "What is a Manufacturing Journal in Tally, and when is it used?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "A Manufacturing Journal in Tally is used to record the production of finished goods from raw materials based on a Bill of Materials (BOM)."
+    },
+    "explanation": "- ***Manufacturing Journal:***\n  - Used in businesses that manufacture products from raw materials.\n  - Records stock consumption and finished goods production.\n- ***Steps to use a Manufacturing Journal:***\n  1. Go to `Accounting Vouchers` > `Stock Journal`.\n  2. Enter raw materials consumed and finished goods produced.\n  3. Save the journal entry.\n- ***Example:*** A bakery producing `Cakes` can create a Manufacturing Journal recording `Flour`, `Sugar`, and `Eggs` as consumed and `Chocolate Cake` as the finished product."
+  },
+  {
+    "title": "Multi-Location Stock Management",
+    "ques": "How does Tally handle Multi-Location Stock Management, and why is it useful?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Tally allows businesses to maintain stock across multiple locations (Godowns or Warehouses), helping in better inventory tracking and stock transfers."
+    },
+    "explanation": "- ***Multi-Location Stock Management:***\n  - Allows businesses to store and track stock in multiple locations.\n  - Enables smooth stock transfers between locations.\n- ***Benefits:***\n  - Avoids stock shortages by transferring items between warehouses.\n  - Maintains separate stock reports for each location.\n- ***Example:*** A retail chain with stores in `New York`, `Los Angeles`, and `Chicago` can manage stock separately for each store and transfer goods as needed."
+  },
+  {
+    "title": "Alternate Units of Measure",
+    "ques": "What is the purpose of Alternate Units of Measure in Tally, and how is it used?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Alternate Units of Measure in Tally allow stock items to be measured in more than one unit, useful for flexible stock management."
+    },
+    "explanation": "- ***Alternate Units of Measure:***\n  - Helps businesses track stock in multiple units (e.g., `kg` and `grams`).\n  - Useful when buying in one unit and selling in another.\n- ***How to enable it:***\n  1. Go to `Inventory Info` > `Units of Measure` > `Create`.\n  2. Select `Compound Unit` and define relationships (e.g., `1 kg = 1000 grams`).\n- ***Example:*** A grocery store can buy `Sugar` in `kilograms` and sell it in `grams`."
+  },
+  {
+    "title": "Cost Centers & Cost Categories in Inventory",
+    "ques": "How can Cost Centers and Cost Categories be applied in Inventory Management in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Cost Centers and Cost Categories help in tracking expenses related to specific inventory transactions, useful for project-based cost allocation."
+    },
+    "explanation": "- ***Cost Centers:*** Track expenses for different departments or branches.\n- ***Cost Categories:*** Classify costs across multiple Cost Centers.\n- ***Usage in Inventory:***\n  - Helps allocate stock purchases to different projects or departments.\n  - Used for cost analysis of specific stock movements.\n- ***Example:*** A construction company purchasing `Cement` can allocate costs to `Project A` and `Project B` using Cost Centers."
+  },
+  {
+    "title": "Stock Ageing Analysis Report",
+    "ques": "What is the Stock Ageing Analysis Report in Tally, and how does it help in decision-making?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "The Stock Ageing Analysis Report in Tally helps businesses identify old stock based on purchase dates and take action accordingly."
+    },
+    "explanation": "- ***Stock Ageing Analysis Report:***\n  - Categorizes stock items based on how long they have been in inventory.\n  - Helps in identifying slow-moving or obsolete stock.\n- ***Report Sections:***\n  - `0-30 days`\n  - `31-60 days`\n  - `61-90 days`, etc.\n- ***Example:*** A clothing retailer can check which `Winter Jackets` have been in stock for more than `6 months` and apply discounts to clear them."
+  },
+  {
+    "title": "Job Work in Inventory Management",
+    "ques": "What is Job Work in Tally Inventory Management, and how is it recorded?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Job Work in Tally allows businesses to track outsourced manufacturing processes where raw materials are sent to third-party vendors for processing."
+    },
+    "explanation": "- ***Job Work:***\n  - Used when a company sends raw materials to another company for processing.\n  - Helps track materials sent and received after processing.\n- ***Steps to Record:***\n  1. Go to `Inventory Vouchers` > `Job Work Out Order`.\n  2. Enter details of raw materials sent.\n  3. Record the receipt of finished goods using `Job Work In Order`.\n- ***Example:*** A footwear company sending `Leather` to a third-party factory for `Shoe Manufacturing` can track inventory using Job Work vouchers."
+  },
+  {
+    "title": "Standard Rate Setup",
+    "ques": "What is the purpose of setting a Standard Rate for stock items in Tally?",
+    "answer": {
+      "type": "text",
+      "lang": null,
+      "content": "Standard Rate in Tally helps businesses fix a predefined cost for stock items to maintain uniform pricing and cost control."
+    },
+    "explanation": "- ***Standard Rate Setup:***\n  - Allows businesses to define fixed purchase and selling prices.\n  - Ensures uniformity in cost calculations.\n- ***How to Set Up:***\n  1. Go to `Inventory Info` > `Stock Items` > `Alter`.\n  2. Enter the `Standard Cost` and `Standard Selling Price`.\n  3. Save the settings.\n- ***Example:*** A wholesaler fixing a `Standard Cost` of `$50` and a `Standard Selling Price` of `$70` for `LED Bulbs`."
+  }
+]

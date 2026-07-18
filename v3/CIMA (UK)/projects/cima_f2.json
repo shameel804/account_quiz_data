@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Complex Group Structures 📊",
+        "ques": "How are **step acquisitions** accounted for?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Step Acquisition**:\n* Remeasure previous holding at FV\n* Recognize gain/loss in P&L\n* Add to consideration for goodwill calculation\n* Full consolidation from control date"
+        },
+        "explanation": "Step acquisition creates ***deemed disposal***."
+    },
+    {
+        "title": "Disposal of Subsidiaries 📉",
+        "ques": "How is **disposal of subsidiary** accounted for?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Disposal**:\n* Derecognize assets and liabilities\n* Derecognize goodwill\n* Recognize proceeds\n* Reclassify OCI to P&L\n* Recognize gain/loss"
+        },
+        "explanation": "Disposal calculated at ***group level***."
+    },
+    {
+        "title": "Foreign Currency Translation 💱",
+        "ques": "How are **foreign operations** translated?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Translation**:\n* Assets/liabilities: Closing rate\n* Income/expenses: Average rate (or transaction rate)\n* Equity: Historical rate\n* Exchange differences: OCI"
+        },
+        "explanation": "Translation differences in ***equity***."
+    },
+    {
+        "title": "Hedge Accounting 🛡️",
+        "ques": "What are the **types of hedges** under IFRS 9?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Types**:\n* Fair value hedge: Hedge of asset/liability value\n* Cash flow hedge: Hedge of future cash flows\n* Net investment hedge: Hedge of foreign operation\n\n**Requirement**: Documentation and effectiveness"
+        },
+        "explanation": "Hedge accounting reduces ***P&L volatility***."
+    },
+    {
+        "title": "Financial Instruments - Complex 📈",
+        "ques": "How are **compound instruments** split?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Compound Instrument**: Liability + Equity\n\nExample: Convertible bond\n* Liability = PV of cash flows\n* Equity = Residual"
+        },
+        "explanation": "Split reflects ***economic substance***."
+    },
+    {
+        "title": "Share-Based Payment IFRS 2 📊",
+        "ques": "How are **equity-settled** share-based payments accounted for?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Accounting**:\n* Measure at FV at grant date\n* Spread expense over vesting period\n* Credit to equity\n* No remeasurement for changes in FV"
+        },
+        "explanation": "Equity-settled uses ***grant date FV***."
+    },
+    {
+        "title": "Sustainability Reporting 🌱",
+        "ques": "What are the **frameworks** for sustainability reporting?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Frameworks**:\n* GRI: Comprehensive sustainability\n* SASB: Industry-specific\n* TCFD: Climate-related\n* ISSB: New global standards\n* Integrated reporting: Six capitals"
+        },
+        "explanation": "Reporting evolving toward ***global standards***."
+    },
+    {
+        "title": "Joint Arrangements IFRS 11 🤝",
+        "ques": "What are the types of **joint arrangements**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Types**:\n* Joint operation: Rights to assets, obligations for liabilities\n* Joint venture: Rights to net assets\n\n**Accounting**:\n* JO: Proportionate consolidation of assets/liabilities\n* JV: Equity method"
+        },
+        "explanation": "Classification based on ***legal structure and contract***."
+    },
+    {
+        "title": "Hyperinflation IAS 29 📈",
+        "ques": "When is economy **hyperinflationary**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Indicators**:\n* Cumulative inflation > 100% over three years\n* Population prefers foreign currency\n* Prices linked to price index\n* Interest rates compensate for inflation"
+        },
+        "explanation": "Restate financial statements for ***purchasing power***."
+    },
+    {
+        "title": "Fair Value Measurement IFRS 13 📊",
+        "ques": "What is the **fair value hierarchy**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Hierarchy**:\n* Level 1: Quoted prices in active markets\n* Level 2: Observable inputs (other than Level 1)\n* Level 3: Unobservable inputs\n\n**Priority**: Use highest level available"
+        },
+        "explanation": "Hierarchy improves ***comparability***."
+    },
+    {
+        "title": "Operating Segments IFRS 8 📊",
+        "ques": "What determines **operating segments**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Identification**:\n* Management approach\n* Chief operating decision maker (CODM)\n* Regular review of performance\n* Resource allocation decisions\n\n**Quantitative thresholds**: 10% test"
+        },
+        "explanation": "Segments reflect ***internal reporting***."
+    },
+    {
+        "title": "Non-current Assets Held for Sale IFRS 5 📊",
+        "ques": "When is an asset classified as **held for sale**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Criteria**:\n* Available for immediate sale\n* Sale highly probable\n* Actively marketed\n* Expected completion within 12 months\n\n**Measurement**: Lower of CV and FV less costs to sell"
+        },
+        "explanation": "No depreciation when ***held for sale***."
+    },
+    {
+        "title": "Going Concern 📋",
+        "ques": "What are the **going concern** considerations?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Assessment**:\n* At least 12 months from reporting date\n* Consider available information\n* Material uncertainties disclosed\n* If not appropriate, different basis of accounting"
+        },
+        "explanation": "Going concern is ***fundamental assumption***."
+    },
+    {
+        "title": "Changes in Accounting Policies 📊",
+        "ques": "How are **accounting policy changes** accounted for?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Retrospective Application**:\n* Adjust opening retained earnings\n* Restate comparatives\n* Disclose impact\n\n**Exception**: Impracticable to determine cumulative effect"
+        },
+        "explanation": "Retrospective shows ***consistent treatment***."
+    },
+    {
+        "title": "Events After Reporting Period IAS 10 📅",
+        "ques": "How are **post-balance sheet events** classified?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Types**:\n* Adjusting: Evidence of conditions at period end\n* Non-adjusting: Conditions arose after period end\n\n**Treatment**: Adjust amounts or disclose only"
+        },
+        "explanation": "Classification determines ***accounting treatment***."
+    }
+]

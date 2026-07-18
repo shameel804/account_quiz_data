@@ -1,0 +1,167 @@
+{
+    "id": "learn_journ",
+    "topicId": "journ",
+    "topicTitle": "Journal Entries & Ledgers",
+    "description": "Master the art of recording transactions through journal entries, understanding T-Accounts, General and Subsidiary Ledgers, and preparing adjusting and closing entries",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "journ_1",
+            "type": "content",
+            "title": "Welcome to Journal Entries & Ledgers",
+            "content": "# Journal Entries and Ledgers\n\nJournal entries are the **foundation of recording** every business transaction. Ledgers organize these entries by account.\n\n## What You Will Learn\n\n- **Recording Transactions** - The journal entry format\n- **General and Subsidiary Ledgers** - Organizing accounts\n- **T-Accounts** - Visual representation of accounts\n- **Adjusting and Closing Entries** - Period-end procedures\n\n## The Recording Process Flow\n\n```\nSource Document\n      |\n      v\n   Journal\n      |\n      v\n   Ledger\n      |\n      v\nTrial Balance\n      |\n      v\nFinancial Statements\n```\n\n## Why This Matters\n\n| Benefit | Description |\n|---------|-------------|\n| Accuracy | Proper recording prevents errors |\n| Audit Trail | Documentation of all transactions |\n| Organization | Easy to find specific accounts |\n| Compliance | Meets regulatory requirements |\n\n> **Fun Fact:** The journal is called the \"book of original entry\" because it is where transactions are first recorded!"
+        },
+        {
+            "id": "journ_2",
+            "type": "content",
+            "title": "The General Journal",
+            "content": "# The General Journal\n\n## What is a Journal?\n\nA journal is the **chronological record** of all business transactions. Each entry includes the date, accounts affected, amounts, and a brief description.\n\n## Journal Entry Format\n\n```\nDate       Account Title               Debit     Credit\n---------------------------------------------------------\nJan 15    Cash                         5,000\n             Service Revenue                      5,000\n          (Received cash for services)\n```\n\n## Rules for Journal Entries\n\n### 1. Date\n- Record the date of the transaction\n\n### 2. Debits First\n- List debit accounts first\n- Amounts in debit column\n\n### 3. Credits Indented\n- Credit accounts are indented\n- Amounts in credit column\n\n### 4. Description\n- Brief explanation in parentheses\n- Also called narration\n\n### 5. Balance\n- Total debits MUST equal total credits\n\n## Example Entry Breakdown\n\n```\nJan 20    Equipment                   10,000\n             Cash                                 4,000\n             Notes Payable                        6,000\n          (Purchased equipment, paid part\n           cash, balance on note)\n```\n\nThis is a **compound entry** - more than two accounts affected.\n\n> **Remember:** Debits on top, credits indented below!"
+        },
+        {
+            "id": "journ_3",
+            "type": "content",
+            "title": "Common Journal Entry Examples",
+            "content": "# Journal Entry Examples\n\n## 1. Owner Investment\n\nOwner invests $50,000 cash into the business:\n\n```\nJan 1     Cash                        50,000\n             Owner's Capital                     50,000\n          (Owner initial investment)\n```\n\n## 2. Purchase on Account\n\nPurchased inventory for $8,000 on credit:\n\n```\nJan 5     Inventory                    8,000\n             Accounts Payable                     8,000\n          (Purchased inventory on account)\n```\n\n## 3. Cash Sale\n\nSold goods for $3,000 cash, cost was $1,800:\n\n```\nJan 10    Cash                         3,000\n             Sales Revenue                        3,000\n          (Cash sale to customer)\n\nJan 10    Cost of Goods Sold           1,800\n             Inventory                            1,800\n          (Record cost of goods sold)\n```\n\n## 4. Payment to Supplier\n\nPaid $5,000 to supplier on account:\n\n```\nJan 15    Accounts Payable             5,000\n             Cash                                 5,000\n          (Payment to supplier)\n```\n\n## 5. Paid Expenses\n\nPaid rent expense of $2,000:\n\n```\nJan 20    Rent Expense                 2,000\n             Cash                                 2,000\n          (Paid monthly rent)\n```\n\n> **Practice:** Write entries for every transaction you encounter!"
+        },
+        {
+            "id": "journ_quiz_1",
+            "type": "quiz",
+            "title": "Journal Entry Check",
+            "content": "Test your understanding of journal entries!",
+            "quizQuestion": "When a company purchases supplies on account, which entries are made?",
+            "quizOptions": [
+                "Debit Cash, Credit Supplies",
+                "Debit Supplies, Credit Accounts Payable",
+                "Debit Accounts Payable, Credit Supplies",
+                "Debit Supplies, Credit Cash"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "journ_4",
+            "type": "content",
+            "title": "Understanding T-Accounts",
+            "content": "# T-Accounts Explained\n\n## What is a T-Account?\n\nA T-Account is a **visual representation** of an account that resembles the letter T. It shows debits on the left and credits on the right.\n\n## T-Account Format\n\n```\n         Account Name\n    -----------------------\n    Debit    |    Credit\n             |\n    ++++     |    ----\n             |\n```\n\n## Example: Cash Account\n\n```\n              Cash\n    -----------------------\n    Debit    |    Credit\n             |\n    50,000   |     4,000\n     3,000   |     5,000\n     2,000   |     2,000\n    -------  |    -------\n    55,000   |    11,000\n             |\n    Balance: 44,000 (Debit)\n```\n\n## Normal Balances\n\n| Account Type | Normal Balance | Increases With |\n|--------------|----------------|----------------|\n| Assets | Debit | Debit |\n| Liabilities | Credit | Credit |\n| Equity | Credit | Credit |\n| Revenue | Credit | Credit |\n| Expenses | Debit | Debit |\n\n## Calculating Balance\n\n1. Total all debits\n2. Total all credits\n3. Subtract smaller from larger\n4. Balance is on the side with larger total\n\n> **Use T-Accounts** to visualize how transactions affect each account!"
+        },
+        {
+            "id": "journ_5",
+            "type": "content",
+            "title": "T-Account Transaction Analysis",
+            "content": "# Analyzing Transactions with T-Accounts\n\n## Transaction: Purchased Equipment for $20,000\n- Paid $8,000 cash\n- Balance on account\n\n### Step 1: Identify Accounts\n- Equipment (Asset) - increases\n- Cash (Asset) - decreases\n- Accounts Payable (Liability) - increases\n\n### Step 2: Determine Debit/Credit\n- Equipment increases = Debit\n- Cash decreases = Credit\n- Accounts Payable increases = Credit\n\n### Step 3: Draw T-Accounts\n\n```\n        Equipment              Cash           Accounts Payable\n    ---------------     ---------------     ---------------\n    Dr    |    Cr       Dr    |    Cr       Dr    |    Cr\n          |                   |                   |\n    20,000|            Bal   |   8,000           |   12,000\n          |            30,000|                   |\n    ------            -------                    -------\n    20,000            Bal: 22,000                12,000\n```\n\n## Verification\n\n- Debits: $20,000 (Equipment)\n- Credits: $8,000 (Cash) + $12,000 (A/P) = $20,000\n- **Balanced!**\n\n## Using T-Accounts for Complex Transactions\n\nT-Accounts help you:\n- Visualize the double-entry effect\n- Verify debits equal credits\n- Track running balances\n- Prepare for posting to ledger\n\n> **Tip:** Draw T-Accounts for complex transactions before recording!"
+        },
+        {
+            "id": "journ_6",
+            "type": "content",
+            "title": "The General Ledger",
+            "content": "# The General Ledger\n\n## What is a General Ledger?\n\nThe general ledger is the **master accounting record** containing all accounts used by a company. It is where journal entries are posted.\n\n## Purpose\n\n- **Organize** all accounts in one place\n- **Track** the balance of each account\n- **Prepare** trial balance and financial statements\n- **Provide** audit trail\n\n## General Ledger Account Format\n\n```\nAccount: Cash                                  Account No: 101\n--------------------------------------------------------------\nDate     Description      Ref   Debit    Credit   Balance\n--------------------------------------------------------------\nJan 1    Owner investment  J1   50,000            50,000 Dr\nJan 5    Supplies purchase J1             500    49,500 Dr\nJan 10   Service revenue   J2    3,000           52,500 Dr\nJan 15   Rent payment      J2            2,000   50,500 Dr\n```\n\n## Key Elements\n\n| Element | Description |\n|---------|-------------|\n| Date | When transaction occurred |\n| Description | Brief explanation |\n| Ref (Reference) | Journal page number |\n| Debit | Amount debited |\n| Credit | Amount credited |\n| Balance | Running account balance |\n\n## Chart of Accounts\n\nAccounts are organized by category:\n- 100s - Assets\n- 200s - Liabilities\n- 300s - Equity\n- 400s - Revenue\n- 500s - Expenses\n\n> **The ledger is the heart of the accounting system!**"
+        },
+        {
+            "id": "journ_7",
+            "type": "content",
+            "title": "Subsidiary Ledgers",
+            "content": "# Subsidiary Ledgers\n\n## What is a Subsidiary Ledger?\n\nA subsidiary ledger contains **detailed information** supporting a control account in the general ledger.\n\n## Common Subsidiary Ledgers\n\n### Accounts Receivable Subsidiary Ledger\nDetailed records for each customer:\n\n```\nCustomer: ABC Company\n------------------------------------------------------\nDate     Description      Debit    Credit   Balance\n------------------------------------------------------\nJan 5    Invoice 1001     2,000             2,000\nJan 15   Payment                   1,500      500\nJan 20   Invoice 1025     3,000             3,500\n```\n\n### Accounts Payable Subsidiary Ledger\nDetailed records for each supplier:\n\n```\nVendor: XYZ Suppliers\n------------------------------------------------------\nDate     Description      Debit    Credit   Balance\n------------------------------------------------------\nJan 3    Purchase                  5,000    5,000\nJan 10   Payment          3,000             2,000\nJan 18   Purchase                  4,000    6,000\n```\n\n## Control Account Relationship\n\n```\n    General Ledger              Subsidiary Ledger\n    ---------------            ------------------\n    Accounts Receivable   =    Customer A  $2,000\n    Control: $8,500            Customer B  $3,500\n                               Customer C  $3,000\n                               ----------\n                               Total:      $8,500\n```\n\n## Benefits of Subsidiary Ledgers\n\n- Detailed customer/vendor information\n- Easier to manage individual accounts\n- Reduces clutter in general ledger\n- Provides control through reconciliation\n\n> **Reconcile** subsidiary ledgers to control accounts regularly!"
+        },
+        {
+            "id": "journ_quiz_2",
+            "type": "quiz",
+            "title": "Ledger Quiz",
+            "content": "Test your understanding of ledgers!",
+            "quizQuestion": "What is the relationship between a control account and its subsidiary ledger?",
+            "quizOptions": [
+                "They are unrelated",
+                "The subsidiary ledger total should equal the control account balance",
+                "The control account shows more detail than the subsidiary ledger",
+                "Subsidiary ledgers replace control accounts"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "journ_8",
+            "type": "content",
+            "title": "The Posting Process",
+            "content": "# Posting from Journal to Ledger\n\n## What is Posting?\n\nPosting is the process of **transferring entries** from the journal to individual accounts in the ledger.\n\n## Step-by-Step Posting\n\n### Step 1: Locate the Ledger Account\nFind the account in the general ledger.\n\n### Step 2: Enter the Date\nRecord the date of the transaction.\n\n### Step 3: Enter the Reference\nRecord the journal page number (e.g., J1).\n\n### Step 4: Enter the Amount\n- Enter debits in the debit column\n- Enter credits in the credit column\n\n### Step 5: Calculate New Balance\nUpdate the running balance.\n\n## Example\n\n**Journal Entry:**\n```\nJan 15    Supplies                   500\n             Cash                            500\n          (Purchased office supplies)\n```\n\n**Posted to Supplies Account:**\n```\nAccount: Supplies                              No: 125\n------------------------------------------------------\nDate     Description      Ref   Debit   Credit  Balance\n------------------------------------------------------\nJan 15   Purchase         J1      500           500 Dr\n```\n\n**Posted to Cash Account:**\n```\nAccount: Cash                                  No: 101\n------------------------------------------------------\nDate     Description      Ref   Debit   Credit  Balance\n------------------------------------------------------\nJan 1    Beg Balance           10,000          10,000 Dr\nJan 15   Supplies         J1             500    9,500 Dr\n```\n\n> **Cross-reference:** The journal reference (J1) helps trace entries back to their source!"
+        },
+        {
+            "id": "journ_9",
+            "type": "content",
+            "title": "Adjusting Entries",
+            "content": "# Adjusting Entries\n\n## Purpose of Adjusting Entries\n\nMade at **period end** to ensure:\n- Revenues are recorded when earned\n- Expenses are recorded when incurred\n- Assets and liabilities are correctly stated\n\n## Four Categories of Adjustments\n\n### 1. Prepaid Expenses (Deferrals)\n\nAdvance payment that becomes expense:\n\n```\nDec 31   Insurance Expense         1,000\n            Prepaid Insurance               1,000\n         (One month insurance expired)\n```\n\n### 2. Unearned Revenues (Deferrals)\n\nAdvance receipt that becomes revenue:\n\n```\nDec 31   Unearned Revenue          500\n            Service Revenue                  500\n         (Services performed on advance)\n```\n\n### 3. Accrued Expenses\n\nExpense incurred but not yet paid:\n\n```\nDec 31   Salary Expense           3,000\n            Salaries Payable               3,000\n         (Salaries earned but unpaid)\n```\n\n### 4. Accrued Revenues\n\nRevenue earned but not yet received:\n\n```\nDec 31   Accounts Receivable       800\n            Interest Revenue                 800\n         (Interest earned but not received)\n```\n\n## Additional Adjustments\n\n### Depreciation\n```\nDec 31   Depreciation Expense     2,000\n            Accumulated Depreciation        2,000\n```\n\n### Bad Debt Estimate\n```\nDec 31   Bad Debt Expense           500\n            Allowance for Doubtful Accts      500\n```\n\n> **Never skip adjusting entries** - they ensure accurate financial statements!"
+        },
+        {
+            "id": "journ_10",
+            "type": "content",
+            "title": "Adjusting Entry Calculations",
+            "content": "# Calculating Adjustments\n\n## Prepaid Expense Example\n\n**Situation:** On October 1, paid $12,000 for 12 months of insurance. Adjusting on December 31.\n\n**Calculation:**\n- Monthly insurance: $12,000 / 12 = $1,000\n- Months expired (Oct, Nov, Dec): 3 months\n- Amount to expense: $1,000 x 3 = $3,000\n\n**Entry:**\n```\nDec 31   Insurance Expense        3,000\n            Prepaid Insurance              3,000\n```\n\n## Depreciation Example\n\n**Situation:** Equipment cost $24,000, 5-year life, no salvage value. Full year adjustment.\n\n**Calculation:**\n- Annual depreciation: $24,000 / 5 = $4,800\n\n**Entry:**\n```\nDec 31   Depreciation Expense     4,800\n            Accumulated Depreciation       4,800\n```\n\n## Accrued Salary Example\n\n**Situation:** Weekly payroll is $5,000 paid every Friday. December 31 is a Wednesday.\n\n**Calculation:**\n- Daily salary: $5,000 / 5 = $1,000\n- Days accrued (Mon, Tue, Wed): 3 days\n- Amount to accrue: $1,000 x 3 = $3,000\n\n**Entry:**\n```\nDec 31   Salary Expense           3,000\n            Salaries Payable              3,000\n```\n\n## Unearned Revenue Example\n\n**Situation:** Received $6,000 on November 1 for 6 months service. Adjusting December 31.\n\n**Calculation:**\n- Monthly revenue: $6,000 / 6 = $1,000\n- Months earned (Nov, Dec): 2 months\n- Amount earned: $1,000 x 2 = $2,000\n\n**Entry:**\n```\nDec 31   Unearned Revenue         2,000\n            Service Revenue               2,000\n```"
+        },
+        {
+            "id": "journ_quiz_3",
+            "type": "quiz",
+            "title": "Adjusting Entries Quiz",
+            "content": "Test your adjustment calculations!",
+            "quizQuestion": "A company pays $2,400 for a 2-year insurance policy on July 1. What is the adjusting entry amount for insurance expense on December 31 of the first year?",
+            "quizOptions": [
+                "$100",
+                "$600",
+                "$1,200",
+                "$2,400"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "journ_11",
+            "type": "content",
+            "title": "Closing Entries Overview",
+            "content": "# Closing Entries\n\n## What are Closing Entries?\n\nClosing entries are made at the **end of the accounting period** to:\n- Transfer temporary account balances to permanent accounts\n- Reset temporary accounts to zero\n- Prepare for the next accounting period\n\n## Temporary vs Permanent Accounts\n\n| Temporary (Closed) | Permanent (Not Closed) |\n|-------------------|------------------------|\n| Revenue | Assets |\n| Expenses | Liabilities |\n| Dividends | Equity (Capital accounts) |\n\n## The Closing Process\n\n### Step 1: Close Revenue Accounts\nTransfer all revenue to Income Summary:\n\n```\nDec 31   Service Revenue         50,000\n            Income Summary                50,000\n```\n\n### Step 2: Close Expense Accounts\nTransfer all expenses to Income Summary:\n\n```\nDec 31   Income Summary          35,000\n            Rent Expense                  10,000\n            Salary Expense                20,000\n            Utilities Expense              5,000\n```\n\n### Step 3: Close Income Summary\nTransfer net income/loss to Retained Earnings:\n\n```\nDec 31   Income Summary          15,000\n            Retained Earnings             15,000\n         (Net Income: $50,000 - $35,000)\n```\n\n### Step 4: Close Dividends\nTransfer dividends to Retained Earnings:\n\n```\nDec 31   Retained Earnings        5,000\n            Dividends                      5,000\n```\n\n> **After closing:** All temporary accounts have zero balances!"
+        },
+        {
+            "id": "journ_12",
+            "type": "content",
+            "title": "Closing Entries Example",
+            "content": "# Complete Closing Entry Example\n\n## Pre-Closing Trial Balance (Partial)\n\n```\nAccount                     Debit      Credit\n----------------------------------------------\nService Revenue                        $80,000\nRent Expense               $24,000\nSalary Expense              40,000\nUtilities Expense            6,000\nDepreciation Expense         5,000\nDividends                    8,000\nRetained Earnings (Beg)                 25,000\n```\n\n## Closing Entry 1: Close Revenues\n\n```\nDec 31   Service Revenue         80,000\n            Income Summary                80,000\n```\n\n## Closing Entry 2: Close Expenses\n\n```\nDec 31   Income Summary          75,000\n            Rent Expense                  24,000\n            Salary Expense                40,000\n            Utilities Expense              6,000\n            Depreciation Expense           5,000\n```\n\n## Closing Entry 3: Close Income Summary\n\nNet Income = $80,000 - $75,000 = $5,000\n\n```\nDec 31   Income Summary           5,000\n            Retained Earnings              5,000\n```\n\n## Closing Entry 4: Close Dividends\n\n```\nDec 31   Retained Earnings        8,000\n            Dividends                      8,000\n```\n\n## Result\n\n- Ending Retained Earnings: $25,000 + $5,000 - $8,000 = **$22,000**\n- All temporary accounts are now **zero**\n\n> **Verify:** Post-closing trial balance should show only permanent accounts!"
+        },
+        {
+            "id": "journ_13",
+            "type": "content",
+            "title": "Post-Closing Trial Balance",
+            "content": "# The Post-Closing Trial Balance\n\n## Purpose\n\nPrepared **after closing entries** to:\n- Verify debits still equal credits\n- Ensure all temporary accounts are zero\n- Confirm books are ready for new period\n\n## What It Contains\n\n**Only Permanent Accounts:**\n- Assets\n- Liabilities\n- Equity (with updated Retained Earnings)\n\n**NOT Included:**\n- Revenue\n- Expenses\n- Dividends\n\n## Example Post-Closing Trial Balance\n\n```\nABC Company\nPost-Closing Trial Balance\nDecember 31, 2024\n\nAccount                     Debit      Credit\n----------------------------------------------\nCash                       $45,000\nAccounts Receivable         30,000\nSupplies                     5,000\nEquipment                  100,000\nAccumulated Depreciation               $25,000\nAccounts Payable                        18,000\nNotes Payable                           50,000\nCommon Stock                            65,000\nRetained Earnings                       22,000\n----------------------------------------------\nTotals                    $180,000    $180,000\n```\n\n## Verification Checklist\n\n- [ ] Debits equal credits\n- [ ] No revenue accounts appear\n- [ ] No expense accounts appear\n- [ ] No dividend account appears\n- [ ] Retained Earnings reflects net income/dividends\n\n> **Ready for New Period:** The post-closing trial balance is the starting point for the next accounting cycle!"
+        },
+        {
+            "id": "journ_14",
+            "type": "content",
+            "title": "Special Journals",
+            "content": "# Special Journals\n\n## Why Use Special Journals?\n\nSpecial journals **simplify recording** high-volume, repetitive transactions.\n\n## Four Common Special Journals\n\n### 1. Sales Journal\nRecords all **credit sales**:\n\n```\nSales Journal                                     Page S1\n----------------------------------------------------------\nDate    Customer    Invoice   Accts Rec Dr / Sales Rev Cr\n----------------------------------------------------------\nJan 5   ABC Co.     1001         $2,000\nJan 8   XYZ Inc.    1002          3,500\nJan 12  MNO Ltd.    1003          1,500\n----------------------------------------------------------\nMonth Total                      $7,000     (S1)\n```\n\n### 2. Purchases Journal\nRecords all **credit purchases**:\n\n```\nPurchases Journal                                 Page P1\n----------------------------------------------------------\nDate    Vendor      Terms    Inventory Dr / Accts Pay Cr\n----------------------------------------------------------\nJan 3   Supplier A  n/30          $4,000\nJan 10  Supplier B  2/10,n/30      2,500\n----------------------------------------------------------\nMonth Total                       $6,500     (P1)\n```\n\n### 3. Cash Receipts Journal\nRecords all **cash received**:\n- Cash sales\n- Collections from customers\n- Other cash receipts\n\n### 4. Cash Payments Journal\nRecords all **cash paid**:\n- Payments to suppliers\n- Cash purchases\n- Expense payments\n\n## Benefits\n\n- Saves time with repetitive entries\n- Reduces errors\n- Allows division of labor\n- Simplifies posting (monthly totals)\n\n> **The General Journal** is still used for non-routine transactions!"
+        },
+        {
+            "id": "journ_quiz_4",
+            "type": "quiz",
+            "title": "Special Journals Quiz",
+            "content": "Test your understanding of special journals!",
+            "quizQuestion": "Which special journal would be used to record a sale made on credit?",
+            "quizOptions": [
+                "Cash Receipts Journal",
+                "Cash Payments Journal",
+                "Sales Journal",
+                "General Journal"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "journ_15",
+            "type": "content",
+            "title": "Error Detection and Correction",
+            "content": "# Finding and Fixing Errors\n\n## Types of Errors\n\n### Errors That Cause Trial Balance Imbalance\n\n| Error Type | Description |\n|------------|-------------|\n| **Slide** | Decimal point moved (1,000 recorded as 100) |\n| **Transposition** | Digits reversed (72 recorded as 27) |\n| **One-sided** | Only debit or credit posted |\n| **Math error** | Addition or subtraction mistake |\n\n### Errors That Do NOT Affect Balance\n\n| Error Type | Description |\n|------------|-------------|\n| **Wrong account** | Correct amount, wrong account |\n| **Error of omission** | Transaction not recorded at all |\n| **Error of reversal** | Debits and credits swapped |\n| **Compensating** | Two errors that cancel out |\n\n## Finding Errors\n\n### Step 1: Calculate the Difference\nFind the amount debits and credits are off by.\n\n### Step 2: Look for That Exact Amount\nCheck if an entry for that amount was missed.\n\n### Step 3: Divide by 2\nIf divisible by 2, look for entry on wrong side.\n\n### Step 4: Divide by 9\nIf divisible by 9, likely a transposition error.\n\n## Correcting Entries\n\n**Never erase or delete!** Use correcting entries:\n\n```\nOriginal (Wrong):\n  Supplies           500\n      Cash                   500\n\nCorrection:\n  Equipment          500\n      Supplies               500\n  (Correct entry from Supplies to Equipment)\n```\n\n> **Prevention is best:** Double-check entries before posting!"
+        },
+        {
+            "id": "journ_16",
+            "type": "content",
+            "title": "Accounting Cycle Review",
+            "content": "# The Complete Accounting Cycle\n\n## The Nine Steps\n\n### During the Period:\n\n**Step 1: Analyze Transactions**\n- Identify accounts affected\n- Determine debit/credit\n\n**Step 2: Journalize**\n- Record in general journal\n- Use proper format\n\n**Step 3: Post to Ledger**\n- Transfer to individual accounts\n- Update balances\n\n### At Period End:\n\n**Step 4: Unadjusted Trial Balance**\n- List all account balances\n- Verify debits = credits\n\n**Step 5: Adjusting Entries**\n- Accruals and deferrals\n- Journalize and post\n\n**Step 6: Adjusted Trial Balance**\n- Reflects all adjustments\n- Ready for statements\n\n**Step 7: Financial Statements**\n- Income Statement\n- Statement of Retained Earnings\n- Balance Sheet\n\n**Step 8: Closing Entries**\n- Close temporary accounts\n- Transfer to retained earnings\n\n**Step 9: Post-Closing Trial Balance**\n- Verify permanent account balances\n- Ready for new period\n\n## Cycle Frequency\n\n| Period | Steps Performed |\n|--------|-----------------|\n| Daily | Steps 1-3 |\n| Monthly | Steps 4-6 (sometimes 7) |\n| Annually | All 9 steps |\n\n> **The cycle repeats** every accounting period!"
+        },
+        {
+            "id": "journ_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **Journal Entries and Ledgers** lesson!\n\n## Key Concepts Mastered\n\n### Journal Entries\n- Debits listed first, credits indented\n- Total debits must equal total credits\n- Include date, accounts, amounts, description\n\n### T-Accounts\n- Visual representation of accounts\n- Left side = Debit, Right side = Credit\n- Useful for transaction analysis\n\n### Ledgers\n- **General Ledger:** Master record of all accounts\n- **Subsidiary Ledgers:** Detailed supporting records\n- Always reconcile subsidiary to control accounts\n\n### Adjusting Entries\n- Made at period end\n- Four types: Prepaid, Unearned, Accrued expenses, Accrued revenues\n\n### Closing Entries\n- Reset temporary accounts to zero\n- Transfer net income to retained earnings\n\n## Quick Reference\n\n| Process | Purpose |\n|---------|--------|\n| Journalizing | Record transactions |\n| Posting | Transfer to ledger |\n| Adjusting | Ensure accuracy |\n| Closing | Prepare for new period |\n\n## What is Next?\n\nExplore:\n- Cost and managerial accounting\n- Financial statement analysis\n- Auditing procedures\n\n> **Practice makes perfect:** The more entries you record, the more natural it becomes!"
+        }
+    ]
+}

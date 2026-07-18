@@ -1,0 +1,155 @@
+{
+    "id": "learn_cma_ext",
+    "topicId": "cma_ext",
+    "topicTitle": "External Financial Reporting Decisions",
+    "description": "Master CMA Part 1 including Financial Statements, Recognition, and Measurement",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "p1a_1",
+            "type": "content",
+            "title": "Welcome to CMA Part 1A",
+            "content": "# External Financial Reporting\n\nPart 1A covers **financial reporting** under US GAAP.\n\n## What You Will Learn\n\n- **Financial Statements** - Structure and content\n- **Recognition** - When to record\n- **Measurement** - How to value\n- **Disclosure** - What to report\n\n## CMA Part 1 Overview\n\n| Section | Weight |\n|---------|--------|\n| External Reporting | 15% |\n| Planning & Analysis | 20% |\n| Cost Management | 15% |\n| Internal Controls | 15% |\n| Technology & Analytics | 15% |\n| Economics | 20% |"
+        },
+        {
+            "id": "p1a_2",
+            "type": "content",
+            "title": "Financial Statements",
+            "content": "# Financial Statement Framework\n\n## Primary Statements\n\n| Statement | Purpose |\n|-----------|--------|\n| Balance Sheet | Financial position |\n| Income Statement | Performance |\n| Statement of Cash Flows | Cash movements |\n| Statement of Equity | Owner changes |\n\n## Balance Sheet Format\n\n```\nAssets:\n  Current assets\n  Non-current assets\n\nLiabilities:\n  Current liabilities\n  Long-term liabilities\n\nEquity:\n  Common stock\n  Retained earnings\n```\n\n## Current vs Non-Current\n\n| Current | Non-Current |\n|---------|-------------|\n| < 1 year | > 1 year |\n| Operating cycle | Long-term |"
+        },
+        {
+            "id": "p1a_3",
+            "type": "content",
+            "title": "Income Statement",
+            "content": "# Income Statement\n\n## Single-Step Format\n\n```\nRevenues\n- All expenses\n= Net income\n```\n\n## Multi-Step Format\n\n```\nRevenue\n- COGS\n= Gross profit\n- Operating expenses\n= Operating income\n+/- Other items\n= Income before tax\n- Tax\n= Net income\n```\n\n## Comprehensive Income\n\n| Item | Treatment |\n|------|----------|\n| Net income | Through P&L |\n| OCI items | Not through P&L |\n\n## OCI Examples\n\n- Unrealized gains on AFS\n- Foreign currency translation\n- Pension adjustments"
+        },
+        {
+            "id": "p1a_quiz_1",
+            "type": "quiz",
+            "title": "Statements Quiz",
+            "content": "Test your financial statement knowledge!",
+            "quizQuestion": "Which format shows gross profit separately?",
+            "quizOptions": [
+                "Single-step",
+                "Multi-step",
+                "Report form",
+                "Account form"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1a_4",
+            "type": "content",
+            "title": "Revenue Recognition",
+            "content": "# ASC 606 Revenue\n\n## Five-Step Model\n\n```\n1. Identify contract\n2. Identify performance obligations\n3. Determine transaction price\n4. Allocate to obligations\n5. Recognize when satisfied\n```\n\n## Performance Obligations\n\n| Type | Recognition |\n|------|-------------|\n| Point in time | On transfer |\n| Over time | As progress |\n\n## Variable Consideration\n\n```\nConstraint:\nOnly include if highly probable\nno significant reversal\n```\n\n## Contract Costs\n\n- Incremental costs: Capitalize\n- Fulfillment costs: Capitalize if criteria met"
+        },
+        {
+            "id": "p1a_5",
+            "type": "content",
+            "title": "Inventory",
+            "content": "# Inventory Accounting\n\n## Cost Flow Methods\n\n| Method | Effect |\n|--------|--------|\n| FIFO | Ending inventory = recent |\n| LIFO | COGS = recent |\n| Weighted Average | Smoothed |\n\n## Lower of Cost or NRV\n\n```\nNRV = Selling price - Completion costs - Selling costs\n\nIf Cost > NRV: Write down\n```\n\n## LIFO Reserve\n\n```\nLIFO Reserve = FIFO Inventory - LIFO Inventory\n\nUsed to convert between methods\n```\n\n## Perpetual vs Periodic\n\n| System | Updates |\n|--------|--------|\n| Perpetual | Continuous |\n| Periodic | At period end |"
+        },
+        {
+            "id": "p1a_6",
+            "type": "content",
+            "title": "Long-Lived Assets",
+            "content": "# PPE and Intangibles\n\n## Initial Measurement\n\n```\nPurchase price\n+ Directly attributable costs\n+ Asset retirement obligation\n= Initial cost\n```\n\n## Depreciation Methods\n\n| Method | Pattern |\n|--------|--------|\n| Straight-line | Even |\n| Declining balance | Accelerated |\n| Units of production | Usage-based |\n\n## Impairment (US GAAP)\n\n```\nStep 1: Recoverability test\n(Carrying > Undiscounted cash flows?)\n\nStep 2: Impairment loss\n(Carrying - Fair value)\n```\n\n## Intangibles\n\n| Type | Amortization |\n|------|-------------|\n| Finite life | Amortize |\n| Indefinite life | Test for impairment |"
+        },
+        {
+            "id": "p1a_7",
+            "type": "content",
+            "title": "Leases",
+            "content": "# ASC 842 Leases\n\n## Lessee Accounting\n\n| Lease Type | Treatment |\n|------------|----------|\n| Finance | Like ownership |\n| Operating | Like rental |\n\n## Recognition\n\n```\nAll leases > 12 months:\n- Right-of-use asset\n- Lease liability\n```\n\n## Finance Lease\n\n- Amortize ROU asset\n- Interest on liability\n- Front-loaded expense\n\n## Operating Lease\n\n- Single lease expense\n- Straight-line pattern"
+        },
+        {
+            "id": "p1a_quiz_2",
+            "type": "quiz",
+            "title": "Assets Quiz",
+            "content": "Test your asset accounting knowledge!",
+            "quizQuestion": "Under US GAAP, the first step of impairment testing is?",
+            "quizOptions": [
+                "Calculate fair value",
+                "Recoverability test",
+                "Write down asset",
+                "Calculate value in use"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1a_8",
+            "type": "content",
+            "title": "Income Taxes",
+            "content": "# ASC 740 Income Taxes\n\n## Current vs Deferred\n\n| Type | Basis |\n|------|-------|\n| Current | Tax return |\n| Deferred | Temporary differences |\n\n## Deferred Tax\n\n```\nDeferred Tax = Temporary difference x Tax rate\n```\n\n## DTL vs DTA\n\n| Type | Creates |\n|------|--------|\n| DTL | Future taxable > book |\n| DTA | Future deductible > book |\n\n## Valuation Allowance\n\n```\nIf more likely than not\nDTA won't be realized:\nRecord valuation allowance\n```"
+        },
+        {
+            "id": "p1a_9",
+            "type": "content",
+            "title": "Pensions",
+            "content": "# Pension Accounting\n\n## Plan Types\n\n| Type | Risk Bearer |\n|------|-------------|\n| Defined contribution | Employee |\n| Defined benefit | Employer |\n\n## Defined Benefit\n\n```\nNet liability = PBO - Fair value of assets\n```\n\n## Pension Cost Components\n\n| In P&L | In OCI |\n|--------|--------|\n| Service cost | Actuarial gains/losses |\n| Interest cost | Prior service cost |\n| Return on assets | |\n\n## Amortization\n\nOCI items amortized to P&L using corridor approach."
+        },
+        {
+            "id": "p1a_10",
+            "type": "content",
+            "title": "Equity Transactions",
+            "content": "# Stockholders' Equity\n\n## Stock Issuance\n\n```\nDr Cash (proceeds)\nCr Common Stock (par)\nCr APIC (excess)\n```\n\n## Treasury Stock\n\n| Method | Treatment |\n|--------|----------|\n| Cost | Dr Treasury at cost |\n| Par | Dr Treasury at par |\n\n## Stock Dividends\n\n| Size | Charge to RE |\n|------|-------------|\n| Small (< 25%) | Fair value |\n| Large (> 25%) | Par value |\n\n## Stock Splits\n\nNo journal entry, adjust shares outstanding."
+        },
+        {
+            "id": "p1a_11",
+            "type": "content",
+            "title": "Statement of Cash Flows",
+            "content": "# Cash Flow Statement\n\n## Three Sections\n\n| Section | Activities |\n|---------|------------|\n| Operating | Trading |\n| Investing | Assets |\n| Financing | Capital |\n\n## Indirect Method\n\n```\nNet income\n+/- Non-cash items\n+/- Working capital changes\n= Cash from operations\n```\n\n## Non-Cash Adjustments\n\n- Depreciation (add)\n- Gains on sale (subtract)\n- Losses on sale (add)\n- Increase in receivables (subtract)\n- Increase in payables (add)"
+        },
+        {
+            "id": "p1a_quiz_3",
+            "type": "quiz",
+            "title": "Cash Flow Quiz",
+            "content": "Test your cash flow knowledge!",
+            "quizQuestion": "Under the indirect method, depreciation is?",
+            "quizOptions": [
+                "Subtracted from net income",
+                "Added back to net income",
+                "Ignored",
+                "Shown in investing"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1a_12",
+            "type": "content",
+            "title": "Earnings Per Share",
+            "content": "# EPS Calculation\n\n## Basic EPS\n\n```\nBasic EPS = (Net income - Preferred dividends) /\n            Weighted average shares\n```\n\n## Diluted EPS\n\n```\nAdjust for:\n- Convertible securities\n- Options (treasury stock method)\n- Contingent shares\n```\n\n## Treasury Stock Method\n\n```\nAdditional shares =\nOptions exercisable\n- Shares that could be repurchased\n  at average market price\n```\n\n## Antidilutive\n\nExclude if would increase EPS."
+        },
+        {
+            "id": "p1a_13",
+            "type": "content",
+            "title": "Fair Value",
+            "content": "# Fair Value Measurement\n\n## Definition\n\nExit price in orderly transaction.\n\n## Fair Value Hierarchy\n\n| Level | Inputs |\n|-------|--------|\n| 1 | Quoted prices |\n| 2 | Observable |\n| 3 | Unobservable |\n\n## Most Common Uses\n\n- Financial instruments\n- Impairment testing\n- Business combinations\n\n## Disclosure\n\n- Fair value by level\n- Transfers between levels\n- Level 3 reconciliation"
+        },
+        {
+            "id": "p1a_14",
+            "type": "content",
+            "title": "SEC Reporting",
+            "content": "# SEC Filings\n\n## Major Forms\n\n| Form | Purpose |\n|------|--------|\n| 10-K | Annual report |\n| 10-Q | Quarterly report |\n| 8-K | Current events |\n| S-1 | Registration |\n\n## 10-K Contents\n\n- Business description\n- Risk factors\n- MD&A\n- Financial statements\n- Notes\n\n## SOX Requirements\n\n- CEO/CFO certification\n- Internal control assessment\n- Audit of controls"
+        },
+        {
+            "id": "p1a_quiz_4",
+            "type": "quiz",
+            "title": "Reporting Quiz",
+            "content": "Test your SEC reporting knowledge!",
+            "quizQuestion": "Form 10-K is filed?",
+            "quizOptions": [
+                "Quarterly",
+                "Annually",
+                "Monthly",
+                "As events occur"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1a_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Part 1A - External Financial Reporting**!\n\n## Key Topics\n\n### Statements\n- Balance sheet\n- Income statement\n- Cash flows\n\n### Recognition\n- Revenue (ASC 606)\n- Leases (ASC 842)\n\n### Measurement\n- Inventory\n- Long-lived assets\n- Fair value\n\n### Other\n- Income taxes\n- Pensions\n- EPS\n\n## Key Standards\n\n| Standard | Topic |\n|----------|-------|\n| ASC 606 | Revenue |\n| ASC 842 | Leases |\n| ASC 740 | Taxes |\n\n## What is Next?\n\nExplore CMA Part 1B - Planning, Budgeting & Forecasting!"
+        }
+    ]
+}

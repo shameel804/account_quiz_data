@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_ind_inter1",
+    "topicId": "cma_ind_inter1",
+    "topicTitle": "CMA Intermediate - Group I",
+    "description": "Master CMA India Intermediate Group I covering Financial Accounting, Company Law, and Direct Taxation",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "cma_i1_1",
+            "type": "content",
+            "title": "Welcome to Intermediate Group I",
+            "content": "# CMA Intermediate - Group I\n\nGroup I covers **financial accounting**, **law**, and **taxation**.\n\n## What You Will Learn\n\n- **Financial Accounting** - Advanced topics\n- **Laws & Ethics** - Corporate compliance\n- **Direct Tax** - Income tax\n- **Cost Accounting** - Basics\n\n## Group I Papers\n\n| Paper | Subject |\n|-------|--------|\n| 5 | Financial Accounting |\n| 6 | Laws & Ethics |\n| 7 | Direct Taxation |\n| 8 | Cost Accounting |"
+        },
+        {
+            "id": "cma_i1_2",
+            "type": "content",
+            "title": "Partnership Accounts",
+            "content": "# Partnership Accounting\n\n## Partner's Capital Account\n\n| Debit | Credit |\n|-------|--------|\n| Drawings | Capital |\n| Losses | Interest on capital |\n| | Salary |\n| | Profit share |\n\n## Profit Distribution\n\n```\n1. Interest on capital\n2. Partner salaries\n3. Commission\n4. Share of remaining profit (ratio)\n```\n\n## Admission of Partner\n\n- Goodwill treatment\n- Revaluation of assets\n- New profit sharing ratio"
+        },
+        {
+            "id": "cma_i1_3",
+            "type": "content",
+            "title": "Company Accounts",
+            "content": "# Corporate Accounting\n\n## Share Capital\n\n| Type | Features |\n|------|----------|\n| Equity | Voting rights |\n| Preference | Fixed dividend |\n\n## Issue of Shares\n\n```\nShare Application\nShare Allotment\nFirst and Final Call\n```\n\n## Forfeiture and Reissue\n\n```\nForfeiture:\nDr Share Capital\nCr Share Forfeiture\n\nReissue:\nCr Share Capital + premium\n```"
+        },
+        {
+            "id": "cma_i1_quiz_1",
+            "type": "quiz",
+            "title": "Company Quiz",
+            "content": "Test your company accounts knowledge!",
+            "quizQuestion": "When shares are forfeited, which account is credited?",
+            "quizOptions": [
+                "Share Capital",
+                "Share Premium",
+                "Share Forfeiture",
+                "Calls in Arrears"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cma_i1_4",
+            "type": "content",
+            "title": "Financial Statements per AS",
+            "content": "# Accounting Standards\n\n## Key Standards\n\n| AS | Topic |\n|----|-------|\n| AS 1 | Disclosure policies |\n| AS 2 | Inventory valuation |\n| AS 6 | Depreciation |\n| AS 9 | Revenue recognition |\n\n## Schedule III\n\nFormat for company financial statements:\n- Balance sheet format\n- Statement of P&L\n- Classification requirements\n\n## Notes to Accounts\n\n- Accounting policies\n- Additional disclosures\n- Contingent liabilities"
+        },
+        {
+            "id": "cma_i1_5",
+            "type": "content",
+            "title": "Cash Flow Statement",
+            "content": "# AS 3 Cash Flow\n\n## Three Activities\n\n| Activity | Examples |\n|----------|----------|\n| Operating | Trading |\n| Investing | Assets |\n| Financing | Capital |\n\n## Indirect Method\n\n```\nNet Profit\n+ Non-cash expenses\n+/- Working capital changes\n= Cash from operations\n```\n\n## Treatment\n\n| Item | Activity |\n|------|----------|\n| Dividends paid | Financing |\n| Interest paid | Operating or Financing |\n| Tax paid | Operating |"
+        },
+        {
+            "id": "cma_i1_6",
+            "type": "content",
+            "title": "Corporate Law",
+            "content": "# Companies Act 2013\n\n## Board of Directors\n\n| Requirement | Rule |\n|-------------|------|\n| Minimum | 3 (public), 2 (private) |\n| Maximum | 15 (can increase) |\n| Independent | 1/3 for listed |\n\n## Meetings\n\n| Type | Frequency |\n|------|----------|\n| AGM | Within 6 months |\n| Board | Every quarter |\n| EGM | As needed |\n\n## CSR\n\n- 2% of average net profit\n- Qualifying criteria\n- CSR committee"
+        },
+        {
+            "id": "cma_i1_quiz_2",
+            "type": "quiz",
+            "title": "Law Quiz",
+            "content": "Test your company law knowledge!",
+            "quizQuestion": "Minimum directors for a public company is?",
+            "quizOptions": [
+                "1",
+                "2",
+                "3",
+                "5"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cma_i1_7",
+            "type": "content",
+            "title": "Income Tax Basics",
+            "content": "# Direct Taxation\n\n## Heads of Income\n\n| Head | Examples |\n|------|----------|\n| Salary | Employment income |\n| House property | Rental income |\n| PGBP | Business profits |\n| Capital gains | Asset sales |\n| Other sources | Interest, dividends |\n\n## Tax Calculation\n\n```\nGross Total Income\n- Chapter VI-A deductions\n= Total Income\nx Tax rates\n= Tax liability\n```"
+        },
+        {
+            "id": "cma_i1_8",
+            "type": "content",
+            "title": "Salary Income",
+            "content": "# Income from Salary\n\n## Components\n\n| Component | Taxable |\n|-----------|--------|\n| Basic | Fully |\n| DA | Fully |\n| HRA | Exempt (limits) |\n| Allowances | Varies |\n\n## HRA Exemption\n\n```\nLeast of:\n1. Actual HRA\n2. 50%/40% of salary\n3. Rent - 10% salary\n```\n\n## Perquisites\n\n- Rent-free accommodation\n- Company car\n- Medical benefits"
+        },
+        {
+            "id": "cma_i1_9",
+            "type": "content",
+            "title": "House Property Income",
+            "content": "# Property Income\n\n## Annual Value\n\n```\nGross Annual Value\n- Municipal taxes paid\n= Net Annual Value\n\nNAV\n- 30% standard deduction\n- Interest on loan\n= Income from HP\n```\n\n## Self-Occupied Property\n\n- GAV is nil\n- Interest deduction up to Rs 2 lakh\n\n## Let-Out Property\n\n| Deduction | Limit |\n|-----------|-------|\n| Standard | 30% of NAV |\n| Interest | No limit |"
+        },
+        {
+            "id": "cma_i1_quiz_3",
+            "type": "quiz",
+            "title": "Tax Quiz",
+            "content": "Test your tax knowledge!",
+            "quizQuestion": "Standard deduction from house property income is?",
+            "quizOptions": [
+                "10%",
+                "20%",
+                "30%",
+                "50%"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cma_i1_10",
+            "type": "content",
+            "title": "Business Income",
+            "content": "# PGBP Income\n\n## Allowable Expenses\n\n| Expense | Treatment |\n|---------|----------|\n| Rent | Allowed |\n| Salary | Allowed |\n| Depreciation | As per IT Act |\n| Bad debts | Allowed |\n\n## Disallowed Expenses\n\n| Expense | Section |\n|---------|--------|\n| Personal | Not related to business |\n| Penalty | Infringement |\n| Wealth tax | Not allowed |\n\n## Depreciation\n\n- Block of assets\n- WDV method\n- Prescribed rates"
+        },
+        {
+            "id": "cma_i1_11",
+            "type": "content",
+            "title": "Capital Gains",
+            "content": "# Capital Gains Tax\n\n## Types\n\n| Type | Holding Period |\n|------|---------------|\n| Short-term | < 12/24/36 months |\n| Long-term | > 12/24/36 months |\n\n## Calculation\n\n```\nSale consideration\n- Cost of acquisition\n- Improvement cost\n- Transfer expenses\n= Capital gain\n```\n\n## Indexation\n\n```\nIndexed cost = Cost x (CII of sale / CII of purchase)\n```\n\n## Exemptions\n\n- Section 54: Residential house\n- Section 54EC: Bonds\n- Section 54F: Any asset"
+        },
+        {
+            "id": "cma_i1_12",
+            "type": "content",
+            "title": "Cost Accounting Basics",
+            "content": "# Introduction to Costing\n\n## Cost Classification\n\n| By Nature | By Behavior |\n|-----------|-------------|\n| Material | Fixed |\n| Labor | Variable |\n| Overheads | Semi-variable |\n\n## Cost Elements\n\n```\nPrime Cost = Direct Material + Direct Labor\n\nFactory Cost = Prime Cost + Factory Overhead\n\nCost of Production = Factory Cost + Admin Overhead\n\nTotal Cost = CoP + Selling & Distribution\n```"
+        },
+        {
+            "id": "cma_i1_quiz_4",
+            "type": "quiz",
+            "title": "Cost Quiz",
+            "content": "Test your costing knowledge!",
+            "quizQuestion": "Prime cost equals direct materials plus?",
+            "quizOptions": [
+                "Overheads",
+                "Direct labor",
+                "Admin costs",
+                "Selling costs"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_i1_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Intermediate - Group I**!\n\n## Key Topics\n\n### Financial Accounting\n- Partnership accounts\n- Company accounts\n- Cash flow statement\n\n### Law\n- Companies Act 2013\n- Board and meetings\n- CSR requirements\n\n### Taxation\n- Five heads of income\n- Salary, HP, PGBP\n- Capital gains\n\n### Costing\n- Cost classification\n- Cost elements\n\n## Group I Papers\n\n| Paper | Subject |\n|-------|--------|\n| 5 | Financial Accounting |\n| 6 | Laws & Ethics |\n| 7 | Direct Taxation |\n| 8 | Cost Accounting |\n\n## What is Next?\n\nExplore CMA Intermediate - Group II!"
+        }
+    ]
+}

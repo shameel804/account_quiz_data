@@ -1,0 +1,149 @@
+{
+    "id": "learn_cma_cost",
+    "topicId": "cma_cost",
+    "topicTitle": "Cost Management",
+    "description": "Master CMA cost management including Costing Systems, ABC, Lean Manufacturing, and Supply Chain",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "p1d_1",
+            "type": "content",
+            "title": "Welcome to Cost Management",
+            "content": "# Cost Management\n\nPart 1D covers **cost accounting** systems and techniques.\n\n## What You Will Learn\n\n- **Costing Systems** - Job, process, hybrid\n- **ABC** - Activity-based costing\n- **Lean** - JIT and lean manufacturing\n- **Supply Chain** - Cost optimization\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Costing systems | Methods |\n| ABC/ABM | Activities |\n| Lean operations | Efficiency |\n| Supply chain | Integrated cost |"
+        },
+        {
+            "id": "p1d_2",
+            "type": "content",
+            "title": "Job Order Costing",
+            "content": "# Job Costing\n\n## When Used\n\n- Custom products\n- Unique orders\n- Service industries\n\n## Cost Tracking\n\n```\nJob Cost Sheet:\n- Direct materials\n- Direct labor\n- Applied overhead\n= Total job cost\n```\n\n## Overhead Application\n\n```\nPredetermined OH Rate = Est. OH / Est. Activity\n\nApplied OH = Actual Activity x POHR\n```\n\n## Over/Under Applied\n\n```\nApplied OH - Actual OH = Difference\n\nPositive = Over-applied\nNegative = Under-applied\n```"
+        },
+        {
+            "id": "p1d_3",
+            "type": "content",
+            "title": "Process Costing",
+            "content": "# Process Costing\n\n## When Used\n\n- Continuous production\n- Homogeneous products\n- Mass manufacturing\n\n## Equivalent Units\n\n```\nComplete units + (WIP x % complete)\n= Equivalent units\n```\n\n## Cost per Equivalent Unit\n\n```\nTotal costs / Equivalent units\n= Cost per equivalent unit\n```\n\n## Methods\n\n| Method | WIP Treatment |\n|--------|---------------|\n| FIFO | Separate BOP |\n| Weighted average | Combined |"
+        },
+        {
+            "id": "p1d_quiz_1",
+            "type": "quiz",
+            "title": "Costing Quiz",
+            "content": "Test your costing knowledge!",
+            "quizQuestion": "Process costing uses what concept for WIP?",
+            "quizOptions": [
+                "Job cost sheet",
+                "Equivalent units",
+                "Standard costs",
+                "Actual costs"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p1d_4",
+            "type": "content",
+            "title": "Activity-Based Costing",
+            "content": "# ABC Costing\n\n## Traditional vs ABC\n\n| Traditional | ABC |\n|-------------|-----|\n| Volume-based | Activity-based |\n| Single rate | Multiple pools |\n| Less accurate | More accurate |\n\n## ABC Process\n\n```\n1. Identify activities\n2. Assign costs to pools\n3. Select cost drivers\n4. Calculate rates\n5. Apply to products\n```\n\n## Cost Drivers\n\n| Activity | Driver |\n|----------|--------|\n| Setup | Number of setups |\n| Inspection | Number inspected |\n| Purchasing | Number of orders |\n| Storage | Square footage |"
+        },
+        {
+            "id": "p1d_5",
+            "type": "content",
+            "title": "Activity-Based Management",
+            "content": "# ABM\n\n## Value vs Non-Value Activities\n\n| Value-Added | Non-Value |\n|-------------|----------|\n| Customer pays for | Customer won't pay |\n| Transforms product | Waste |\n| Necessary | Eliminate |\n\n## Operational ABM\n\n- Improve efficiency\n- Reduce non-value\n- Process improvement\n\n## Strategic ABM\n\n- Product mix\n- Pricing decisions\n- Customer analysis\n\n## Benefits\n\n- Better costing\n- Process improvement\n- Strategic decisions"
+        },
+        {
+            "id": "p1d_6",
+            "type": "content",
+            "title": "Target Costing",
+            "content": "# Target Costing\n\n## Market-Driven Pricing\n\n```\nTarget Price (market)\n- Target Profit\n= Target Cost\n```\n\n## Cost Gap\n\n```\nEstimated Cost - Target Cost = Gap\n\nMust close gap to be profitable\n```\n\n## Cost Reduction\n\n| Technique | Focus |\n|-----------|-------|\n| Value engineering | Design changes |\n| Supplier involvement | Input costs |\n| Process improvement | Efficiency |\n\n## Kaizen Costing\n\n- Continuous improvement\n- Production phase\n- Incremental reductions"
+        },
+        {
+            "id": "p1d_7",
+            "type": "content",
+            "title": "Lean Manufacturing",
+            "content": "# Lean Principles\n\n## Seven Wastes\n\n| Waste | Description |\n|-------|-------------|\n| Overproduction | Making too much |\n| Waiting | Idle time |\n| Transport | Unnecessary movement |\n| Processing | Excess work |\n| Inventory | Excess stock |\n| Motion | Unnecessary movement |\n| Defects | Quality issues |\n\n## Lean Tools\n\n| Tool | Purpose |\n|------|--------|\n| 5S | Organization |\n| Kanban | Visual control |\n| Kaizen | Continuous improvement |\n| Value stream | Flow analysis |"
+        },
+        {
+            "id": "p1d_quiz_2",
+            "type": "quiz",
+            "title": "Lean Quiz",
+            "content": "Test your lean knowledge!",
+            "quizQuestion": "How many wastes are identified in lean manufacturing?",
+            "quizOptions": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p1d_8",
+            "type": "content",
+            "title": "JIT Manufacturing",
+            "content": "# Just-In-Time\n\n## JIT Principles\n\n- Produce when needed\n- Minimize inventory\n- Pull system\n- Quality focus\n\n## Benefits\n\n| Benefit | Impact |\n|---------|--------|\n| Lower inventory | Less capital |\n| Less waste | Cost savings |\n| Quality | Fewer defects |\n| Flexibility | Responsiveness |\n\n## Requirements\n\n- Reliable suppliers\n- Flexible workforce\n- Quality processes\n- Continuous improvement\n\n## Risks\n\n- Supply disruption\n- Demand variability"
+        },
+        {
+            "id": "p1d_9",
+            "type": "content",
+            "title": "Theory of Constraints",
+            "content": "# TOC\n\n## Bottleneck Focus\n\nThe constraint limits system output.\n\n## TOC Process\n\n```\n1. Identify constraint\n2. Exploit constraint\n3. Subordinate everything\n4. Elevate constraint\n5. Repeat\n```\n\n## Throughput Accounting\n\n```\nThroughput = Sales - Material cost\n\nThroughput per constraint hour\n= Ranking for decisions\n```\n\n## Key Measures\n\n| Measure | Formula |\n|---------|--------|\n| Throughput | Sales - Materials |\n| Inventory | All money invested |\n| Operating expense | All other costs |"
+        },
+        {
+            "id": "p1d_10",
+            "type": "content",
+            "title": "Life Cycle Costing",
+            "content": "# Life Cycle Costs\n\n## Product Life Cycle\n\n```\nDevelopment -> Introduction -> Growth -> Maturity -> Decline\n```\n\n## Cost Categories\n\n| Phase | Costs |\n|-------|-------|\n| Development | R&D, design |\n| Production | Manufacturing |\n| Support | Maintenance |\n| Disposal | Retirement |\n\n## Benefits\n\n- Full cost visibility\n- Better decisions\n- Long-term focus\n\n## Total Cost of Ownership\n\n- Purchase price\n- Operating costs\n- Maintenance\n- Disposal"
+        },
+        {
+            "id": "p1d_11",
+            "type": "content",
+            "title": "Supply Chain Costing",
+            "content": "# Supply Chain Costs\n\n## Cost Categories\n\n| Category | Examples |\n|----------|----------|\n| Procurement | Ordering, receiving |\n| Production | Manufacturing |\n| Distribution | Shipping, handling |\n| Inventory | Holding costs |\n\n## Total Cost of Ownership\n\n```\nPurchase price\n+ Ordering costs\n+ Holding costs\n+ Quality costs\n+ Shortage costs\n= Total ownership cost\n```\n\n## Supplier Evaluation\n\n- Price\n- Quality\n- Delivery\n- Service\n- Financial stability"
+        },
+        {
+            "id": "p1d_quiz_3",
+            "type": "quiz",
+            "title": "Supply Chain Quiz",
+            "content": "Test your supply chain knowledge!",
+            "quizQuestion": "Total cost of ownership includes purchase price plus?",
+            "quizOptions": [
+                "Only ordering costs",
+                "Only holding costs",
+                "All related costs over lifespan",
+                "Only quality costs"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p1d_12",
+            "type": "content",
+            "title": "Joint and By-Products",
+            "content": "# Joint Costing\n\n## Split-Off Point\n\nWhere products become separately identifiable.\n\n## Allocation Methods\n\n| Method | Basis |\n|--------|-------|\n| Physical units | Quantity |\n| Sales value | Revenue at split |\n| NRV | Final sales - Further processing |\n\n## By-Products\n\n| Treatment | Method |\n|-----------|--------|\n| Revenue | Credit to main product |\n| Cost offset | Reduce joint cost |\n\n## Further Processing\n\n```\nProcess if:\nIncremental revenue > Incremental cost\n```"
+        },
+        {
+            "id": "p1d_13",
+            "type": "content",
+            "title": "Environmental Costing",
+            "content": "# Environmental Costs\n\n## Cost Categories\n\n| Category | Examples |\n|----------|----------|\n| Prevention | Audits, training |\n| Detection | Monitoring, testing |\n| Internal failure | Cleanup, rework |\n| External failure | Fines, remediation |\n\n## Full Cost Accounting\n\n- Include environmental costs\n- Assign to activities/products\n- Make visible\n\n## Benefits\n\n- Better decisions\n- Regulatory compliance\n- Reputation\n- Sustainability"
+        },
+        {
+            "id": "p1d_quiz_4",
+            "type": "quiz",
+            "title": "Cost Quiz",
+            "content": "Test your cost management knowledge!",
+            "quizQuestion": "Target cost equals target price minus?",
+            "quizOptions": [
+                "Variable cost",
+                "Fixed cost",
+                "Target profit",
+                "Actual cost"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p1d_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Part 1D - Cost Management**!\n\n## Key Topics\n\n### Costing Systems\n- Job order costing\n- Process costing\n- Activity-based costing\n\n### Modern Methods\n- Target costing\n- Life cycle costing\n- ABC/ABM\n\n### Lean Operations\n- JIT manufacturing\n- Theory of constraints\n- Seven wastes\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| POHR = Est OH / Est Activity | Applied OH |\n| Target Cost = Price - Profit | Target costing |\n| Throughput = Sales - Materials | TOC |\n\n## What is Next?\n\nExplore CMA Part 1E - Internal Controls!"
+        }
+    ]
+}

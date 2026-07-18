@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_inv",
+    "topicId": "cma_inv",
+    "topicTitle": "Investment Decisions",
+    "description": "Master CMA investment decisions including Capital Budgeting, Project Evaluation, and Post-Audit",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "p2e_1",
+            "type": "content",
+            "title": "Welcome to Investment Decisions",
+            "content": "# Investment Decisions\n\nPart 2E covers **capital investment** analysis.\n\n## What You Will Learn\n\n- **Capital Budgeting** - Evaluation methods\n- **Cash Flows** - Identification\n- **Risk Analysis** - Uncertainty\n- **Post-Audit** - Review\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Methods | NPV, IRR, Payback |\n| Cash flows | Relevant flows |\n| Risk | Analysis |\n| Review | Post-audit |"
+        },
+        {
+            "id": "p2e_2",
+            "type": "content",
+            "title": "Capital Budgeting Process",
+            "content": "# Investment Process\n\n## Steps\n\n```\n1. Identify opportunities\n2. Estimate cash flows\n3. Evaluate alternatives\n4. Select projects\n5. Implement\n6. Post-audit\n```\n\n## Project Types\n\n| Type | Description |\n|------|-------------|\n| Replacement | Existing assets |\n| Expansion | New capacity |\n| Mandatory | Regulatory |\n| Strategic | Long-term goals |"
+        },
+        {
+            "id": "p2e_3",
+            "type": "content",
+            "title": "Cash Flow Estimation",
+            "content": "# Relevant Cash Flows\n\n## Include\n\n| Item | Treatment |\n|------|----------|\n| Initial outlay | Invest at start |\n| Operating cash flows | During project |\n| Terminal value | End of project |\n| Working capital | Investment and recovery |\n\n## Exclude\n\n| Item | Reason |\n|------|--------|\n| Sunk costs | Already spent |\n| Allocated overhead | Not incremental |\n| Financing costs | In discount rate |\n\n## Tax Effects\n\n```\nAfter-tax CF = Pre-tax CF x (1 - Tax)\nTax shield = Depreciation x Tax Rate\n```"
+        },
+        {
+            "id": "p2e_quiz_1",
+            "type": "quiz",
+            "title": "Cash Flow Quiz",
+            "content": "Test your cash flow knowledge!",
+            "quizQuestion": "Sunk costs should be?",
+            "quizOptions": [
+                "Included in analysis",
+                "Excluded from analysis",
+                "Added to initial cost",
+                "Recovered at end"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2e_4",
+            "type": "content",
+            "title": "Payback Period",
+            "content": "# Payback Method\n\n## Calculation\n\n```\nPayback = Years until initial cost recovered\n```\n\n## Example\n\n```\nCost: $100,000\nYear 1: $40,000\nYear 2: $40,000\nYear 3: $30,000\n\nPayback = 2 + (20,000/30,000) = 2.67 years\n```\n\n## Pros and Cons\n\n| Advantage | Disadvantage |\n|-----------|-------------|\n| Simple | Ignores time value |\n| Liquidity focus | Ignores post-payback |\n| Risk measure | Arbitrary cutoff |"
+        },
+        {
+            "id": "p2e_5",
+            "type": "content",
+            "title": "Net Present Value",
+            "content": "# NPV Method\n\n## Formula\n\n```\nNPV = Sum of PV of Cash Flows - Initial Cost\n\nPV = CF / (1 + r)^n\n```\n\n## Decision Rule\n\n| NPV | Decision |\n|-----|----------|\n| > 0 | Accept |\n| < 0 | Reject |\n| = 0 | Indifferent |\n\n## Advantages\n\n- Time value\n- All cash flows\n- Dollar value added\n- Theoretically correct"
+        },
+        {
+            "id": "p2e_6",
+            "type": "content",
+            "title": "Internal Rate of Return",
+            "content": "# IRR Method\n\n## Definition\n\n```\nRate where NPV = 0\n```\n\n## Decision Rule\n\n| IRR | Decision |\n|-----|----------|\n| > Cost of capital | Accept |\n| < Cost of capital | Reject |\n\n## Limitations\n\n| Issue | Problem |\n|-------|--------|\n| Multiple IRRs | Non-conventional flows |\n| Scale | Different project sizes |\n| Reinvestment | Assumes reinvest at IRR |\n\n## Modified IRR (MIRR)\n\nReinvests at cost of capital"
+        },
+        {
+            "id": "p2e_quiz_2",
+            "type": "quiz",
+            "title": "NPV Quiz",
+            "content": "Test your NPV knowledge!",
+            "quizQuestion": "NPV uses which discount rate?",
+            "quizOptions": [
+                "Inflation rate",
+                "Cost of capital",
+                "Prime rate",
+                "Risk-free rate"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2e_7",
+            "type": "content",
+            "title": "Profitability Index",
+            "content": "# PI Method\n\n## Formula\n\n```\nPI = PV of Cash Flows / Initial Cost\n\nor\n\nPI = 1 + (NPV / Initial Cost)\n```\n\n## Decision Rule\n\n| PI | Decision |\n|----|----------|\n| > 1 | Accept |\n| < 1 | Reject |\n\n## When to Use\n\n- Capital rationing\n- Ranking projects\n- Different sizes"
+        },
+        {
+            "id": "p2e_8",
+            "type": "content",
+            "title": "Comparing Methods",
+            "content": "# Method Comparison\n\n## Ranking\n\n| Method | Preference |\n|--------|------------|\n| NPV | Theoretically best |\n| IRR | Commonly used |\n| PI | Capital rationing |\n| Payback | Quick screen |\n\n## Conflicts\n\n| Situation | Use |\n|-----------|-----|\n| Mutually exclusive | NPV |\n| Capital rationing | PI |\n| Different scales | NPV |\n\n## Best Practice\n\nUse multiple methods for confirmation"
+        },
+        {
+            "id": "p2e_9",
+            "type": "content",
+            "title": "Risk in Investment",
+            "content": "# Risk Analysis\n\n## Sensitivity Analysis\n\n```\nChange one variable at a time\nObserve impact on NPV\n```\n\n## Scenario Analysis\n\n| Scenario | Probability | NPV |\n|----------|-------------|-----|\n| Best | 25% | High |\n| Base | 50% | Medium |\n| Worst | 25% | Low |\n\n## Expected NPV\n\n```\nE(NPV) = Sum of (Probability x NPV)\n```"
+        },
+        {
+            "id": "p2e_10",
+            "type": "content",
+            "title": "Risk-Adjusted Analysis",
+            "content": "# Adjusting for Risk\n\n## Risk-Adjusted Discount Rate\n\n```\nHigher risk = Higher rate = Lower NPV\n\nProject rate = WACC + Risk premium\n```\n\n## Certainty Equivalents\n\n```\nConvert risky cash flows\nto certain equivalents\nDiscount at risk-free rate\n```\n\n## Real vs Nominal\n\n```\nReal rate = (1 + Nominal) / (1 + Inflation) - 1\n\nMatch cash flows to rate type\n```"
+        },
+        {
+            "id": "p2e_quiz_3",
+            "type": "quiz",
+            "title": "Risk Quiz",
+            "content": "Test your risk analysis knowledge!",
+            "quizQuestion": "Sensitivity analysis changes how many variables at a time?",
+            "quizOptions": [
+                "None",
+                "One",
+                "Two",
+                "All"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2e_11",
+            "type": "content",
+            "title": "Capital Rationing",
+            "content": "# Limited Capital\n\n## Types\n\n| Type | Cause |\n|------|-------|\n| Hard | External constraints |\n| Soft | Internal policy |\n\n## Selection Method\n\n```\n1. Calculate PI for each project\n2. Rank by PI\n3. Select until capital exhausted\n```\n\n## Considerations\n\n- Project divisibility\n- Multi-period constraints\n- Integer programming"
+        },
+        {
+            "id": "p2e_12",
+            "type": "content",
+            "title": "Post-Investment Audit",
+            "content": "# Post-Audit Review\n\n## Purpose\n\n- Verify assumptions\n- Improve future decisions\n- Accountability\n\n## Process\n\n```\n1. Compare actual vs projected\n2. Analyze variances\n3. Document lessons\n4. Apply to future\n```\n\n## Benefits\n\n| Benefit | Impact |\n|---------|--------|\n| Learning | Better estimates |\n| Accountability | Careful analysis |\n| Early warning | Correct problems |"
+        },
+        {
+            "id": "p2e_quiz_4",
+            "type": "quiz",
+            "title": "Investment Quiz",
+            "content": "Test your investment knowledge!",
+            "quizQuestion": "A profitability index greater than 1 means?",
+            "quizOptions": [
+                "Reject project",
+                "Accept project",
+                "Defer project",
+                "Neutral"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2e_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Part 2E - Investment Decisions**!\n\n## Key Topics\n\n### Methods\n- NPV (preferred)\n- IRR\n- Payback\n- Profitability index\n\n### Cash Flows\n- Relevant flows\n- Tax effects\n- Working capital\n\n### Risk\n- Sensitivity analysis\n- Scenario analysis\n- Risk adjustment\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| NPV = Sum PV - Cost | Investment |\n| PI = PV / Cost | Ranking |\n| E(NPV) = Sum P x NPV | Expected value |\n\n## What is Next?\n\nExplore CMA Part 2F - Professional Ethics!"
+        }
+    ]
+}

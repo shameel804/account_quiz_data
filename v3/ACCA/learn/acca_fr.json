@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_fr",
+    "topicId": "acca_fr",
+    "topicTitle": "Financial Reporting (FR)",
+    "description": "Master ACCA FR including IFRS Framework, IAS Standards, Group Accounts, and Interpretation",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "fr_1",
+            "type": "content",
+            "title": "Welcome to ACCA FR",
+            "content": "# Financial Reporting (FR)\n\nFR covers the application of **IFRS standards** in financial statements.\n\n## What You Will Learn\n\n- **Conceptual Framework** - Principles\n- **Key IAS/IFRS** - Standards application\n- **Group Accounts** - Consolidation\n- **Interpretation** - Ratio analysis\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Framework | 10% |\n| IAS/IFRS | 45% |\n| Group accounts | 30% |\n| Interpretation | 15% |"
+        },
+        {
+            "id": "fr_2",
+            "type": "content",
+            "title": "Conceptual Framework",
+            "content": "# IASB Conceptual Framework\n\n## Purpose\n\n- Guide standard setting\n- Assist preparers\n- Help users understand\n\n## Qualitative Characteristics\n\n| Fundamental | Enhancing |\n|-------------|----------|\n| Relevance | Comparability |\n| Faithful representation | Verifiability |\n| | Timeliness |\n| | Understandability |\n\n## Elements of FS\n\n| Element | Definition |\n|---------|------------|\n| Asset | Future economic benefit |\n| Liability | Present obligation |\n| Equity | Residual interest |\n| Income | Increase in assets |\n| Expense | Decrease in assets |"
+        },
+        {
+            "id": "fr_3",
+            "type": "content",
+            "title": "IAS 16 - PPE",
+            "content": "# Property, Plant and Equipment\n\n## Recognition\n\nWhen:\n- Probable future benefits\n- Cost can be measured reliably\n\n## Initial Measurement\n\n```\nPurchase Price\n+ Directly attributable costs\n+ Dismantling costs (if obliged)\n= Initial Cost\n```\n\n## Subsequent Measurement\n\n| Model | Basis |\n|-------|-------|\n| Cost | Cost less depreciation |\n| Revaluation | Fair value |\n\n## Depreciation\n\n```\n(Cost - Residual Value) / Useful Life\n```\n\n## Revaluation\n\n- Gain: OCI (unless reversal)\n- Loss: P&L (unless previous gain)"
+        },
+        {
+            "id": "fr_quiz_1",
+            "type": "quiz",
+            "title": "IAS 16 Quiz",
+            "content": "Test your IAS 16 knowledge!",
+            "quizQuestion": "Under the revaluation model, where is a revaluation gain recognized (first-time)?",
+            "quizOptions": [
+                "Profit or loss",
+                "Retained earnings",
+                "Other comprehensive income",
+                "Cash flow statement"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "fr_4",
+            "type": "content",
+            "title": "IAS 38 - Intangibles",
+            "content": "# Intangible Assets\n\n## Definition\n\nIdentifiable non-monetary asset without physical substance.\n\n## Recognition\n\n| Source | Treatment |\n|--------|----------|\n| Purchased | Capitalize |\n| Internally developed | R&D rules |\n\n## R&D Costs\n\n| Phase | Treatment |\n|-------|----------|\n| Research | Expense |\n| Development | Capitalize (if criteria) |\n\n## Development Criteria\n\n- Technical feasibility\n- Intention to complete\n- Ability to use/sell\n- Generate benefits\n- Resources available\n- Reliable measurement"
+        },
+        {
+            "id": "fr_5",
+            "type": "content",
+            "title": "IAS 36 - Impairment",
+            "content": "# Impairment of Assets\n\n## When to Test\n\n- Indication of impairment\n- Annually for goodwill/intangibles\n\n## Recoverable Amount\n\n```\nHigher of:\n- Fair value less costs to sell\n- Value in use\n```\n\n## Value in Use\n\n```\nPresent value of future cash flows\nusing appropriate discount rate\n```\n\n## Impairment Loss\n\n```\nCarrying amount - Recoverable amount\n= Impairment loss\n\nRecognize in P&L\n(unless revalued asset)\n```\n\n## Reversal\n\n- Allowed for most assets\n- Not allowed for goodwill"
+        },
+        {
+            "id": "fr_6",
+            "type": "content",
+            "title": "IAS 37 - Provisions",
+            "content": "# Provisions and Contingencies\n\n## Provision Recognition\n\n| Criteria | Required |\n|----------|----------|\n| Present obligation | Yes |\n| Probable outflow | Yes |\n| Reliable estimate | Yes |\n\n## Contingent Liabilities\n\n| Probability | Treatment |\n|-------------|----------|\n| Probable | Provide |\n| Possible | Disclose |\n| Remote | Nothing |\n\n## Contingent Assets\n\n| Probability | Treatment |\n|-------------|----------|\n| Virtually certain | Recognize |\n| Probable | Disclose |\n| Possible | Nothing |"
+        },
+        {
+            "id": "fr_7",
+            "type": "content",
+            "title": "IFRS 15 - Revenue",
+            "content": "# Revenue from Contracts\n\n## Five-Step Model\n\n```\n1. Identify contract\n2. Identify performance obligations\n3. Determine transaction price\n4. Allocate to obligations\n5. Recognize when satisfied\n```\n\n## Performance Obligation\n\n| Type | Recognition |\n|------|-------------|\n| Point in time | On transfer |\n| Over time | As progress |\n\n## Over Time Criteria\n\n- Customer receives benefit\n- Asset with no alternative use\n- Enforceable right to payment"
+        },
+        {
+            "id": "fr_quiz_2",
+            "type": "quiz",
+            "title": "IFRS 15 Quiz",
+            "content": "Test your revenue knowledge!",
+            "quizQuestion": "How many steps are in the IFRS 15 revenue recognition model?",
+            "quizOptions": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "fr_8",
+            "type": "content",
+            "title": "IFRS 16 - Leases",
+            "content": "# Leases\n\n## Lessee Accounting\n\nAll leases (except exemptions):\n\n```\nRecognize:\n- Right-of-use asset\n- Lease liability\n```\n\n## Initial Measurement\n\n| Item | Basis |\n|------|-------|\n| ROU Asset | Lease liability + direct costs |\n| Liability | PV of lease payments |\n\n## Subsequent\n\n| Item | Treatment |\n|------|----------|\n| ROU Asset | Depreciate |\n| Liability | Reduce by payments |\n| Interest | Recognize in P&L |\n\n## Exemptions\n\n- Short-term (< 12 months)\n- Low value assets"
+        },
+        {
+            "id": "fr_9",
+            "type": "content",
+            "title": "Group Accounts - Basics",
+            "content": "# Consolidated Financial Statements\n\n## When to Consolidate\n\nParent controls subsidiary.\n\n## Control Exists When\n\n- Power over investee\n- Exposure to variable returns\n- Ability to use power\n\n## Basic Consolidation\n\n```\n100% Parent assets\n+ 100% Subsidiary assets\n- Intra-group balances\n= Consolidated assets\n```\n\n## Elimination\n\n| Eliminate | Reason |\n|-----------|--------|\n| Investment in sub | Replaced by assets |\n| Intra-group receivables | Internal balances |\n| Intra-group sales | Internal transactions |"
+        },
+        {
+            "id": "fr_10",
+            "type": "content",
+            "title": "Goodwill and NCI",
+            "content": "# Goodwill Calculation\n\n## Formula\n\n```\nConsideration\n+ NCI at acquisition\n- Fair value of net assets\n= Goodwill\n```\n\n## NCI Measurement\n\n| Method | Basis |\n|--------|-------|\n| Fair value | Includes goodwill |\n| Proportionate | NCI% x net assets |\n\n## Impairment\n\n- Test annually n- Impair goodwill first\n- Cannot reverse\n\n## NCI in SOFP\n\n```\nNCI at acquisition\n+ NCI share of post-acq profits\n= NCI at year end\n```"
+        },
+        {
+            "id": "fr_11",
+            "type": "content",
+            "title": "Associates",
+            "content": "# Associates and Joint Ventures\n\n## Associate\n\nSignificant influence (usually 20-50%).\n\n## Equity Method\n\n```\nInvestment in associate:\n\nCost of investment\n+ Share of post-acq profits\n- Dividends received\n= Carrying amount\n```\n\n## Consolidation\n\n| In SOFP | In P&L |\n|---------|--------|\n| Single line asset | Share of profit |\n\n## Joint Ventures\n\n- Joint control\n- Same equity method"
+        },
+        {
+            "id": "fr_quiz_3",
+            "type": "quiz",
+            "title": "Groups Quiz",
+            "content": "Test your consolidation knowledge!",
+            "quizQuestion": "At what level of investment is significant influence typically presumed?",
+            "quizOptions": [
+                "10%",
+                "20%",
+                "51%",
+                "75%"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fr_12",
+            "type": "content",
+            "title": "Statement of Cash Flows",
+            "content": "# IAS 7 - Cash Flows\n\n## Three Categories\n\n| Activity | Examples |\n|----------|----------|\n| Operating | Trading cash |\n| Investing | Asset purchases |\n| Financing | Loans, dividends |\n\n## Operating - Indirect\n\n```\nProfit before tax\n+ Depreciation\n+ Finance costs\n+/- Working capital changes\n= Cash from operations\n```\n\n## Non-Cash Items\n\n- Depreciation\n- Impairment\n- Revaluation gains/losses\n- Share-based payments"
+        },
+        {
+            "id": "fr_13",
+            "type": "content",
+            "title": "Interpretation",
+            "content": "# Financial Analysis\n\n## Ratio Categories\n\n| Category | Measures |\n|----------|----------|\n| Profitability | Margins, ROCE |\n| Liquidity | Current, quick ratio |\n| Gearing | Debt/equity |\n| Efficiency | Turnover ratios |\n\n## Key Ratios\n\n```\nROCE = PBIT / CE x 100\n\nGross margin = GP / Revenue x 100\n\nCurrent ratio = CA / CL\n\nGearing = Debt / Equity x 100\n```\n\n## Limitations\n\n- Historic data\n- Different policies\n- Non-financial ignored"
+        },
+        {
+            "id": "fr_14",
+            "type": "content",
+            "title": "Other Standards",
+            "content": "# Other Key Standards\n\n## IAS 2 - Inventory\n\n```\nLower of:\n- Cost\n- NRV\n```\n\n## IAS 10 - Events After\n\n| Type | Treatment |\n|------|----------|\n| Adjusting | Adjust FS |\n| Non-adjusting | Disclose |\n\n## IAS 21 - Foreign Currency\n\n- Translate at closing rate\n- Exchange differences in OCI\n\n## IAS 40 - Investment Property\n\n- Fair value or cost model\n- FV changes in P&L"
+        },
+        {
+            "id": "fr_quiz_4",
+            "type": "quiz",
+            "title": "Standards Quiz",
+            "content": "Test your standards knowledge!",
+            "quizQuestion": "Under IAS 40, where are fair value gains on investment property recognized?",
+            "quizOptions": [
+                "OCI",
+                "Profit or loss",
+                "Retained earnings",
+                "Not recognized"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fr_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA FR - Financial Reporting**!\n\n## Key Topics\n\n### Standards\n- IAS 16 - PPE\n- IAS 38 - Intangibles\n- IAS 36 - Impairment\n- IAS 37 - Provisions\n- IFRS 15 - Revenue\n- IFRS 16 - Leases\n\n### Groups\n- Consolidation\n- Goodwill and NCI\n- Associates\n\n### Analysis\n- Ratio interpretation\n- Cash flow analysis\n\n## Key Concepts\n\n| Concept | Standard |\n|---------|----------|\n| Fair value | Multiple |\n| Impairment | IAS 36 |\n| Control | IFRS 10 |\n\n## What is Next?\n\nExplore ACCA AA - Audit and Assurance!"
+        }
+    ]
+}

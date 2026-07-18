@@ -1,0 +1,6345 @@
+[
+    {
+        "q": "What does GST stand for in Tally?",
+        "type": "mcq",
+        "o": [
+            "Goods and Services Tax",
+            "General Sales Tax",
+            "Government Service Tax",
+            "Global Sales Tariff"
+        ]
+    },
+    {
+        "q": "Which menu in Tally Gateway is used to activate GST?",
+        "type": "mcq",
+        "o": [
+            "F11 Features",
+            "F12 Configure",
+            "Gateway of Tally",
+            "Display Menu"
+        ]
+    },
+    {
+        "q": "The _____ option under F11 is used to enable Goods and Services Tax.",
+        "type": "fill_blank",
+        "answers": [
+            "Statutory and Taxation"
+        ],
+        "other_options": [
+            "Accounting Features",
+            "Inventory Features",
+            "Taxation Setup",
+            "Company Features"
+        ]
+    },
+    {
+        "q": "GST registration can be done for a company only after it is created.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the shortcut key to open Company GST Details in Tally Prime?",
+        "type": "mcq",
+        "o": [
+            "Alt+G",
+            "Ctrl+G",
+            "Alt+S",
+            "Ctrl+T"
+        ]
+    },
+    {
+        "q": "Which of the following is a mandatory field when enabling GST in Tally?",
+        "type": "mcq",
+        "o": [
+            "State",
+            "Bank Name",
+            "Email ID",
+            "Contact Person"
+        ]
+    },
+    {
+        "q": "What is the full form of HSN code?",
+        "type": "short_answer",
+        "answers": [
+            "Harmonized System of Nomenclature"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Match the GST tax heads with their applicability:",
+        "type": "match",
+        "left": [
+            "CGST",
+            "SGST",
+            "IGST",
+            "UTGST"
+        ],
+        "right": [
+            "Central Tax",
+            "State Tax",
+            "Integrated Tax",
+            "Union Territory Tax"
+        ]
+    },
+    {
+        "q": "GST rates in India are the same for all products.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "How many main tax ledgers should be created for GST in Tally?",
+        "type": "mcq",
+        "o": [
+            "3",
+            "5",
+            "2",
+            "4"
+        ]
+    },
+    {
+        "q": "The place of supply in GST determines whether a transaction is _____ or _____. ",
+        "type": "fill_blank",
+        "answers": [
+            "intra-state",
+            "inter-state"
+        ],
+        "other_options": [
+            "local",
+            "national",
+            "export",
+            "import"
+        ]
+    },
+    {
+        "q": "Standard GST registration turnover limit for services (in Lakhs).",
+        "type": "slider",
+        "min": 10,
+        "max": 40,
+        "correct": 20
+    },
+    {
+        "q": "Which ledger type is used to create a CGST ledger in Tally?",
+        "type": "mcq",
+        "o": [
+            "Duties and Taxes",
+            "Current Liabilities",
+            "Current Assets",
+            "Direct Expenses"
+        ]
+    },
+    {
+        "q": "Match Tally Tax ledgers with their underlying description.",
+        "type": "memory",
+        "pairs": {
+            "CGST": "Central tax component",
+            "SGST": "State tax component",
+            "Input VAT": "Old state tax on value addition",
+            "Sales": "Revenue account group"
+        }
+    },
+    {
+        "q": "What is the purpose of the 'Tax Liability' ledger in Tally?",
+        "type": "mcq",
+        "o": [
+            "To record tax payable to the government",
+            "To record tax collected from customers",
+            "To claim input tax credit",
+            "To calculate turnover"
+        ]
+    },
+    {
+        "q": "Which of these is NOT a GST classification in Tally?",
+        "type": "odd_one_out",
+        "options": [
+            "Taxable",
+            "Nil Rated",
+            "Exempt",
+            "Zero Rated",
+            "Capital Goods"
+        ],
+        "correct": "Capital Goods"
+    },
+    {
+        "q": "Categorize these tax terms as TDS or TCS.",
+        "type": "swipe_cards",
+        "left_label": "TDS",
+        "right_label": "TCS",
+        "cards": {
+            "Tax Deducted at Source": "left",
+            "Deducted on payments": "left",
+            "Tax Collected at Source": "right",
+            "Collected on sales": "right"
+        }
+    },
+    {
+        "q": "Name the Tally feature that allows automatic calculation of GST in invoices.",
+        "type": "short_answer",
+        "answers": [
+            "Auto calculation of tax",
+            "Automatic tax calculation"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Tally automatically updates the GSTR-1 report in real-time.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which method is used to account for GST in Tally if you want tax to be added to the stock item value?",
+        "type": "mcq",
+        "o": [
+            "Tax-inclusive method",
+            "Tax-exclusive method",
+            "Composite method",
+            "Reverse charge method"
+        ]
+    },
+    {
+        "q": "Unscramble the Tally group used for tax ledgers.",
+        "type": "word_scramble",
+        "answer": "DUTIES",
+        "decoys": "XQ"
+    },
+    {
+        "q": "Complete the sentence to enable GST in Tally.",
+        "type": "inline_dropdown",
+        "text": "To enable GST, press [0] and then go to [1] features.",
+        "dropdowns": [
+            {
+                "correct": "F11",
+                "options": [
+                    "F11",
+                    "F12",
+                    "F2"
+                ]
+            },
+            {
+                "correct": "Statutory",
+                "options": [
+                    "Accounting",
+                    "Inventory",
+                    "Statutory"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The _____ ledger is used to claim input tax credit in Tally.",
+        "type": "fill_blank",
+        "answers": [
+            "Input Tax Credit"
+        ],
+        "other_options": [
+            "Tax Liability",
+            "Output Tax",
+            "Sales Tax",
+            "Excise Duty"
+        ]
+    },
+    {
+        "q": "Unscramble the abbreviation for India's comprehensive indirect tax.",
+        "type": "word_scramble",
+        "answer": "GST",
+        "decoys": "QZ"
+    },
+    {
+        "q": "What does TDS stand for?",
+        "type": "mcq",
+        "o": [
+            "Tax Deducted at Source",
+            "Tax Deducted on Sales",
+            "Total Deduction System",
+            "Tax Declaration Statement"
+        ]
+    },
+    {
+        "q": "In Tally, TDS can be enabled through F11: Features.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which ledger group is typically used for creating a TDS Payable ledger?",
+        "type": "mcq",
+        "o": [
+            "Current Liabilities",
+            "Duties and Taxes",
+            "Current Assets",
+            "Loans and Advances"
+        ]
+    },
+    {
+        "q": "Match the TDS nature of payments with their section:",
+        "type": "match",
+        "left": [
+            "Salary",
+            "Contract Payment",
+            "Rent",
+            "Professional Fees"
+        ],
+        "right": [
+            "192",
+            "194C",
+            "194I",
+            "194J"
+        ]
+    },
+    {
+        "q": "What is the name of the feature in Tally used to create TDS deduction entries?",
+        "type": "mcq",
+        "o": [
+            "Voucher Entry",
+            "Tax Deducted at Source",
+            "Statutory Deductions",
+            "Deduction Master"
+        ]
+    },
+    {
+        "q": "Name the two types of duties that were replaced by GST in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "Excise Duty and Service Tax",
+            "Service Tax and VAT",
+            "Excise and VAT"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The TDS deduction entry is recorded in the _____ voucher type.",
+        "type": "fill_blank",
+        "answers": [
+            "Journal"
+        ],
+        "other_options": [
+            "Payment",
+            "Receipt",
+            "Contra",
+            "Purchase"
+        ]
+    },
+    {
+        "q": "Complete the full forms of GST classification codes.",
+        "type": "inline_dropdown",
+        "text": "HSN stands for Harmonized System of [0] and SAC stands for Services Accounting [1].",
+        "dropdowns": [
+            {
+                "correct": "Nomenclature",
+                "options": [
+                    "Numbers",
+                    "Nomenclature",
+                    "Network"
+                ]
+            },
+            {
+                "correct": "Code",
+                "options": [
+                    "Code",
+                    "Category",
+                    "Company"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a component of TCS in Tally?",
+        "type": "mcq",
+        "o": [
+            "Tax Deducted at Source",
+            "Tax Collected at Source",
+            "Scrap Sale",
+            "Timber Sale"
+        ]
+    },
+    {
+        "q": "Match GST rates to their common items.",
+        "type": "memory",
+        "pairs": {
+            "0 percent": "Fresh Milk",
+            "5 percent": "Spices",
+            "12 percent": "Butter",
+            "18 percent": "Banking Services"
+        }
+    },
+    {
+        "q": "TCS is applicable on the sale of certain specified goods.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In Tally, how is VAT different from GST?",
+        "type": "mcq",
+        "o": [
+            "VAT is a state-level tax, GST is a unified tax",
+            "VAT applies to services only",
+            "GST applies to goods only",
+            "VAT is calculated on GST"
+        ]
+    },
+    {
+        "q": "What is the full form of TCS in Tally?",
+        "type": "short_answer",
+        "answers": [
+            "Tax Collected at Source"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which voucher type is primarily used for recording TCS transactions in Tally?",
+        "type": "mcq",
+        "o": [
+            "Sales Voucher",
+            "Receipt Voucher",
+            "Journal Voucher",
+            "Payment Voucher"
+        ]
+    },
+    {
+        "q": "The _____ report in Tally shows all VAT transactions grouped by rate.",
+        "type": "fill_blank",
+        "answers": [
+            "VAT Computation"
+        ],
+        "other_options": [
+            "VAT Register",
+            "VAT Return",
+            "VAT Summary",
+            "Tax Audit"
+        ]
+    },
+    {
+        "q": "What is the prerequisite for creating payroll entries in Tally?",
+        "type": "mcq",
+        "o": [
+            "Enable Payroll in F11 Features",
+            "Create a new company",
+            "Disable GST",
+            "Set up bank accounts"
+        ]
+    },
+    {
+        "q": "Match the payroll components with their category:",
+        "type": "match",
+        "left": [
+            "Basic Pay",
+            "HRA",
+            "Professional Tax",
+            "PF Employer"
+        ],
+        "right": [
+            "Earnings",
+            "Allowances",
+            "Deductions",
+            "Company Contributions"
+        ]
+    },
+    {
+        "q": "Income Tax in Tally Payroll is calculated automatically if the tax slab is configured.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Form number for filing the annual GST return.",
+        "type": "slider",
+        "min": 1,
+        "max": 10,
+        "correct": 9
+    },
+    {
+        "q": "Match Payroll statutory terms with their full forms.",
+        "type": "memory",
+        "pairs": {
+            "PF": "Provident Fund",
+            "ESI": "Employee State Insurance",
+            "PT": "Professional Tax",
+            "IT": "Income Tax"
+        }
+    },
+    {
+        "q": "Which Tally feature is used to define employee groups for payroll?",
+        "type": "mcq",
+        "o": [
+            "Employee Groups",
+            "Payroll Masters",
+            "Cost Centers",
+            "Job Costing"
+        ]
+    },
+    {
+        "q": "How many types of Provident Fund are supported in Tally Payroll?",
+        "type": "mcq",
+        "o": [
+            "3",
+            "2",
+            "4",
+            "1"
+        ]
+    },
+    {
+        "q": "Name the form used for filing Income Tax Returns in India that Tally data helps populate.",
+        "type": "short_answer",
+        "answers": [
+            "ITR",
+            "Income Tax Return"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which is NOT a valid Nature of Payment section under TDS?",
+        "type": "odd_one_out",
+        "options": [
+            "Section 194C",
+            "Section 194J",
+            "Section 194H",
+            "Section 194Z"
+        ],
+        "correct": "Section 194Z"
+    },
+    {
+        "q": "Which report in Tally shows the income tax computation for all employees?",
+        "type": "mcq",
+        "o": [
+            "Payroll Statement",
+            "Income Tax Computation Report",
+            "Form 16",
+            "Tax Audit Report"
+        ]
+    },
+    {
+        "q": "The _____ acts define the slabs for income tax deduction from salary in Tally.",
+        "type": "fill_blank",
+        "answers": [
+            "Income Tax Act"
+        ],
+        "other_options": [
+            "Companies Act",
+            "GST Act",
+            "Labour Law",
+            "Finance Act"
+        ]
+    },
+    {
+        "q": "Classify these items as Payroll Pay Heads or Statutory Deductions.",
+        "type": "swipe_cards",
+        "left_label": "Payroll Pay Head",
+        "right_label": "Statutory Deduction",
+        "cards": {
+            "Basic Salary": "left",
+            "HRA": "left",
+            "EPF Contribution": "right",
+            "TDS on Salary": "right"
+        }
+    },
+    {
+        "q": "Professional Tax is applicable in all states of India.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the shortcut to access the Payroll Voucher in Tally Prime?",
+        "type": "mcq",
+        "o": [
+            "Alt+F1",
+            "Ctrl+P",
+            "Alt+Y",
+            "Shift+V"
+        ]
+    },
+    {
+        "q": "Swipe based on GST trade boundaries.",
+        "type": "swipe_cards",
+        "left_label": "Interstate",
+        "right_label": "Intrastate",
+        "cards": {
+            "IGST Levy": "left",
+            "Export of Goods": "left",
+            "CGST Levy": "right",
+            "SGST Levy": "right"
+        }
+    },
+    {
+        "q": "Which of the following is a statutory deduction in payroll?",
+        "type": "mcq",
+        "o": [
+            "Employees' Provident Fund",
+            "Conveyance Allowance",
+            "Medical Reimbursement",
+            "Dearness Allowance"
+        ]
+    },
+    {
+        "q": "Match the form with its purpose:",
+        "type": "match",
+        "left": [
+            "Form 16",
+            "Form 24Q",
+            "Form 26AS",
+            "ITR-1"
+        ],
+        "right": [
+            "Salary TDS Certificate",
+            "Quarterly TDS Return for Salary",
+            "Annual Tax Credit Statement",
+            "Income Tax Return for Individuals"
+        ]
+    },
+    {
+        "q": "What does the term 'Dearness Allowance' refer to in Tally payroll?",
+        "type": "mcq",
+        "o": [
+            "An allowance to offset inflation for government employees",
+            "A bonus for private sector employees",
+            "A travel allowance",
+            "A housing subsidy"
+        ]
+    },
+    {
+        "q": "Name the Tally report that provides a summarized view of taxes payable.",
+        "type": "short_answer",
+        "answers": [
+            "Statutory Summary",
+            "Tax Summary",
+            "Statutory Reports"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The 'Allowances' pay head type in Tally can be linked to multiple employee groups.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of 'Form 27Q' in TDS compliance?",
+        "type": "mcq",
+        "o": [
+            "Quarterly TDS statement for payments to NRIs",
+            "Annual return for salaries",
+            "Income tax challan",
+            "Tax exemption certificate"
+        ]
+    },
+    {
+        "q": "Which option in Tally allows you to view all GST returns?",
+        "type": "mcq",
+        "o": [
+            "GST Reports",
+            "Display > Statutory Reports",
+            "Gateway > Returns",
+            "Taxation > GST"
+        ]
+    },
+    {
+        "q": "A _____ is required to file GSTR-3B correctly in Tally.",
+        "type": "fill_blank",
+        "answers": [
+            "GST reconciliation",
+            "reconciliation"
+        ],
+        "other_options": [
+            "tax invoice",
+            "ledger balance",
+            "stock summary",
+            "audit report"
+        ]
+    },
+    {
+        "q": "Unscramble the abbreviation for the mechanism where the buyer pays the tax.",
+        "type": "word_scramble",
+        "answer": "RCM",
+        "decoys": "LK"
+    },
+    {
+        "q": "Which GSTR form is filed monthly for outward supplies in Tally?",
+        "type": "mcq",
+        "o": [
+            "GSTR-1",
+            "GSTR-2A",
+            "GSTR-3B",
+            "GSTR-9"
+        ]
+    },
+    {
+        "q": "GSTR-2A is an auto-drafted return generated by the GST portal.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "How do you export GST returns data from Tally for filing?",
+        "type": "mcq",
+        "o": [
+            "Using the 'Export' option in GST Reports",
+            "Copy-pasting from ledgers",
+            "Printing a PDF",
+            "Using email function"
+        ]
+    },
+    {
+        "q": "Match the GST return with its frequency:",
+        "type": "match",
+        "left": [
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-9",
+            "GSTR-4"
+        ],
+        "right": [
+            "Monthly/Quarterly",
+            "Monthly",
+            "Annually",
+            "Annually for Composition Dealers"
+        ]
+    },
+    {
+        "q": "What is the main prerequisite to file GST returns directly from Tally?",
+        "type": "mcq",
+        "o": [
+            "Configure the GST portal credentials in Tally",
+            "Export data to Excel",
+            "Print the report",
+            "Close the books"
+        ]
+    },
+    {
+        "q": "Name the annual return form used for regular GST taxpayers.",
+        "type": "short_answer",
+        "answers": [
+            "GSTR-9"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The GSTR-_____ is the summary return filed monthly.",
+        "type": "fill_blank",
+        "answers": [
+            "3B"
+        ],
+        "other_options": [
+            "1",
+            "2A",
+            "9",
+            "4"
+        ]
+    },
+    {
+        "q": "Which of the following transactions is recorded in GSTR-1?",
+        "type": "mcq",
+        "o": [
+            "Outward supplies of goods and services",
+            "Input tax credit",
+            "Tax payments",
+            "Import of services"
+        ]
+    },
+    {
+        "q": "Select the correct classification codes under GST in Tally.",
+        "type": "inline_dropdown",
+        "text": "Under GST in Tally, [0] is used for goods and [1] is used for services.",
+        "dropdowns": [
+            {
+                "correct": "HSN",
+                "options": [
+                    "SAC",
+                    "HSN",
+                    "TIN"
+                ]
+            },
+            {
+                "correct": "SAC",
+                "options": [
+                    "SAC",
+                    "HSN",
+                    "PIN"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Tally Prime supports one-click filing of GSTR-1 directly to the portal.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the use of the 'GST Audit Report' in Tally?",
+        "type": "mcq",
+        "o": [
+            "To reconcile and verify GST data before filing",
+            "To compute income tax",
+            "To track inventory",
+            "To generate profit and loss"
+        ]
+    },
+    {
+        "q": "Which Tally feature helps identify mismatches between purchase register and GSTR-2A?",
+        "type": "mcq",
+        "o": [
+            "Purchase Reconciliation",
+            "Sales Register",
+            "Stock Summary",
+            "Tax Deduction"
+        ]
+    },
+    {
+        "q": "What is the purpose of 'E-Invoicing' setup in Tally?",
+        "type": "mcq",
+        "o": [
+            "To generate invoices with an IRN for GST compliance",
+            "To email invoices",
+            "To print invoices in bulk",
+            "To calculate discount"
+        ]
+    },
+    {
+        "q": "Name the document that contains unique IRN required for certain B2B invoices under GST.",
+        "type": "short_answer",
+        "answers": [
+            "Invoice Reference Number",
+            "IRN"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ button in Tally GST reports helps to generate the JSON file for filing.",
+        "type": "fill_blank",
+        "answers": [
+            "Export"
+        ],
+        "other_options": [
+            "Print",
+            "Send",
+            "Upload",
+            "Submit"
+        ]
+    },
+    {
+        "q": "Late fee for filing GSTR-1 can be automatically calculated in Tally.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which ledger is debited when paying GST to the government through Tally?",
+        "type": "mcq",
+        "o": [
+            "CGST/SGST/IGST Ledger",
+            "Bank Account",
+            "Tax Liability",
+            "Input Tax Credit"
+        ]
+    },
+    {
+        "q": "Unscramble the voucher type used for tax adjustments.",
+        "type": "word_scramble",
+        "answer": "JOURNAL",
+        "decoys": "VW"
+    },
+    {
+        "q": "Match the GST action with its shortcut in Tally:",
+        "type": "match",
+        "left": [
+            "Enable GST",
+            "Tax Ledger Creation",
+            "Generate GSTR-1",
+            "Statutory Configuration"
+        ],
+        "right": [
+            "F11",
+            "Create Ledger",
+            "GST Reports",
+            "Alt+G > Statutory"
+        ]
+    },
+    {
+        "q": "What is 'Reverse Charge Mechanism' in GST?",
+        "type": "mcq",
+        "o": [
+            "Tax paid by the recipient of goods/services",
+            "Tax paid by the supplier",
+            "Tax refund mechanism",
+            "Tax exemption for exports"
+        ]
+    },
+    {
+        "q": "TDS is applicable only on salary payments.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "In Tally, what does 'Nature of Payment' define in TDS context?",
+        "type": "mcq",
+        "o": [
+            "The specific section under which TDS is deducted",
+            "The mode of payment",
+            "The bank account used",
+            "The invoice date"
+        ]
+    },
+    {
+        "q": "Name the Tally master where you define the TDS rate for a specific section.",
+        "type": "short_answer",
+        "answers": [
+            "TDS Nature of Payment",
+            "Nature of Payment",
+            "TDS Master"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ feature in Tally helps auto-calculate TDS on vendor payments.",
+        "type": "fill_blank",
+        "answers": [
+            "TDS deduction",
+            "Tax Deducted at Source"
+        ],
+        "other_options": [
+            "GST",
+            "TCS",
+            "Payroll",
+            "Ledger"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a type of supply under GST?",
+        "type": "mcq",
+        "o": [
+            "Tax-exempt supply",
+            "Taxable supply",
+            "Zero-rated supply",
+            "Nil-rated supply"
+        ]
+    },
+    {
+        "q": "How is an 'Exempt Supply' different from a 'Nil-Rated Supply' in Tally?",
+        "type": "mcq",
+        "o": [
+            "Exempt supply has no tax by notification, Nil-rated has 0% rate",
+            "Nil-rated supply is taxable, exempt is not",
+            "Both are fully taxable at 5%",
+            "Exempt supply includes exports"
+        ]
+    },
+    {
+        "q": "Match the type of supply with its example:",
+        "type": "match",
+        "left": [
+            "Taxable Supply",
+            "Zero-rated Supply",
+            "Exempt Supply",
+            "Nil-rated Supply"
+        ],
+        "right": [
+            "Electronics with 18% GST",
+            "Export of goods",
+            "Healthcare services",
+            "Fresh fruits"
+        ]
+    },
+    {
+        "q": "GST Payable is always credited in a payment voucher.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the primary advantage of using 'Tax Unit' in Tally?",
+        "type": "mcq",
+        "o": [
+            "To manage multiple GST registrations within one company",
+            "To segregate payroll",
+            "To track inventory separately",
+            "To create branch accounts"
+        ]
+    },
+    {
+        "q": "Which Tally screen shows the breakup of input tax credit available?",
+        "type": "mcq",
+        "o": [
+            "Input Tax Credit Summary",
+            "Tax Liability Ledger",
+            "Sales Register",
+            "Purchase Order"
+        ]
+    },
+    {
+        "q": "What does the 'Composition Scheme' under GST imply in Tally?",
+        "type": "mcq",
+        "o": [
+            "A flat tax rate on turnover for small taxpayers",
+            "Higher tax rate on luxury goods",
+            "Tax exemption for all sales",
+            "Monthly tax filing"
+        ]
+    },
+    {
+        "q": "Name the GST registration type for businesses operating in multiple states in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "Multi-state registration",
+            "Multiple registration",
+            "State-wise registration"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ feature allows you to record the party's GSTIN in Tally ledgers.",
+        "type": "fill_blank",
+        "answers": [
+            "GSTIN/UIN field"
+        ],
+        "other_options": [
+            "Address field",
+            "Bank details",
+            "Contact field",
+            "Opening balance"
+        ]
+    },
+    {
+        "q": "TCS stands for Tax Collected at Source and is collected by the seller.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Identify the tax configuration for employee salaries.",
+        "type": "inline_dropdown",
+        "text": "When an employer deducts tax from an employee's salary, it is called [0], and it is configured in Tally's [1] module.",
+        "dropdowns": [
+            {
+                "correct": "TDS",
+                "options": [
+                    "TCS",
+                    "TDS",
+                    "VAT"
+                ]
+            },
+            {
+                "correct": "Payroll",
+                "options": [
+                    "Inventory",
+                    "Payroll",
+                    "Manufacturing"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which statutory report details all TDS entries for a specific period?",
+        "type": "mcq",
+        "o": [
+            "TDS Computation Report",
+            "GSTR-1",
+            "Payroll Statement",
+            "Cash Flow"
+        ]
+    },
+    {
+        "q": "Number of digits in an HSN code mandatory for B2B turnover above 5 crores.",
+        "type": "slider",
+        "min": 2,
+        "max": 8,
+        "correct": 6
+    },
+    {
+        "q": "What is the next step after creating a Sales Voucher with GST in Tally?",
+        "type": "mcq",
+        "o": [
+            "Accept the voucher to update ledgers",
+            "Delete the entry",
+            "Export to PDF",
+            "Change the date"
+        ]
+    },
+    {
+        "q": "In Tally, 'Input Tax Credit' is recorded on purchases to set off against output tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match TDS sections with their payment nature.",
+        "type": "memory",
+        "pairs": {
+            "194C": "Payments to Contractors",
+            "194J": "Professional Fees",
+            "194I": "Rent payments",
+            "194A": "Interest other than securities"
+        }
+    },
+    {
+        "q": "What happens when you mismatch the Place of Supply in an invoice?",
+        "type": "mcq",
+        "o": [
+            "GST calculation type will be incorrect (IGST vs CGST/SGST)",
+            "Invoice will not be saved",
+            "Tally crashes",
+            "Discount is removed"
+        ]
+    },
+    {
+        "q": "Name the commonly used voucher mode for adjusting input credit with output liability.",
+        "type": "short_answer",
+        "answers": [
+            "Journal Voucher",
+            "Journal"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The Tally gateway menu path for Payroll Info is Gateway of Tally > _____. ",
+        "type": "fill_blank",
+        "answers": [
+            "Payroll Info"
+        ],
+        "other_options": [
+            "Accounts Info",
+            "Inventory Info",
+            "Statutory Info",
+            "Display"
+        ]
+    },
+    {
+        "q": "Which is NOT a valid e-Way Bill supply type?",
+        "type": "odd_one_out",
+        "options": [
+            "Outward",
+            "Inward",
+            "Export",
+            "Suspension"
+        ],
+        "correct": "Suspension"
+    },
+    {
+        "q": "Which of the following is a payroll earning component by default in Tally?",
+        "type": "mcq",
+        "o": [
+            "Basic Pay",
+            "PF Contribution",
+            "ESI",
+            "Professional Tax"
+        ]
+    },
+    {
+        "q": "Match the Payroll reports with their content:",
+        "type": "match",
+        "left": [
+            "Pay Slip",
+            "Attendance Sheet",
+            "Payroll Statement",
+            "Gratuity Summary"
+        ],
+        "right": [
+            "Employee monthly pay details",
+            "Days present/absent",
+            "Month-wise salary register",
+            "End-of-service benefits"
+        ]
+    },
+    {
+        "q": "What is the Employer's contribution rate for EPF in India typically set in Tally?",
+        "type": "mcq",
+        "o": [
+            "12%",
+            "10%",
+            "15%",
+            "5%"
+        ]
+    },
+    {
+        "q": "Tally allows defining different pay structures for different employee groups.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which option in Tally enables Export of Data?",
+        "type": "mcq",
+        "o": [
+            "Alt+E from the report screen",
+            "Ctrl+E",
+            "Alt+X",
+            "Shift+E"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of 'Tax Audit' features in Tally?",
+        "type": "mcq",
+        "o": [
+            "To assist auditors in verifying tax compliance",
+            "To file returns",
+            "To create new companies",
+            "To manage inventory"
+        ]
+    },
+    {
+        "q": "Categorize these as Exempt or Zero Rated Supplies.",
+        "type": "swipe_cards",
+        "left_label": "Exempt Supply",
+        "right_label": "Zero Rated Supply",
+        "cards": {
+            "No tax applies": "left",
+            "Unprocessed grains": "left",
+            "Exports": "right",
+            "SEZ supplies": "right"
+        }
+    },
+    {
+        "q": "Name the statutory form for quarterly statement of TCS in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "27EQ",
+            "Form 27EQ"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Unscramble the abbreviation for a GST tax identification number.",
+        "type": "word_scramble",
+        "answer": "GSTIN",
+        "decoys": "PR"
+    },
+    {
+        "q": "The deduction of _____ from employee salary is done as per the Professional Tax slab.",
+        "type": "fill_blank",
+        "answers": [
+            "Professional Tax"
+        ],
+        "other_options": [
+            "Income Tax",
+            "EPF",
+            "ESI",
+            "GST"
+        ]
+    },
+    {
+        "q": "Which accounts are affected when recording employer's PF contribution in Tally?",
+        "type": "mcq",
+        "o": [
+            "PF Contribution Expense and PF Payable",
+            "Bank and Salary",
+            "Salary and Tax",
+            "PF and Cash"
+        ]
+    },
+    {
+        "q": "Tally supports bulk import of employee master data.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Where is the 'Computation' report located for an employee's Income Tax?",
+        "type": "mcq",
+        "o": [
+            "Payroll Reports > Income Tax Computation",
+            "Accounts Book > Ledger",
+            "GST Reports",
+            "TDS Reports"
+        ]
+    },
+    {
+        "q": "How do you correct a wrongly recorded TDS entry in Tally?",
+        "type": "mcq",
+        "o": [
+            "Use the 'Alter' or 'Reverse Journal' function",
+            "Delete the company",
+            "Ignore and file returns",
+            "Change system date"
+        ]
+    },
+    {
+        "q": "Select the correct voucher and ledger type for tax set off.",
+        "type": "inline_dropdown",
+        "text": "The [0] entry is used to transfer input tax credit to set off [1] liability.",
+        "dropdowns": [
+            {
+                "correct": "Journal",
+                "options": [
+                    "Payment",
+                    "Journal",
+                    "Contra"
+                ]
+            },
+            {
+                "correct": "Output",
+                "options": [
+                    "Input",
+                    "Output",
+                    "Expense"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Name the three ledgers standard for basic GST setup in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "Input CGST, Input SGST, Output CGST",
+            "Output SGST",
+            "CGST, SGST, IGST"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ voucher type records advance tax payments in Tally.",
+        "type": "fill_blank",
+        "answers": [
+            "Payment"
+        ],
+        "other_options": [
+            "Receipt",
+            "Journal",
+            "Contra",
+            "Sales"
+        ]
+    },
+    {
+        "q": "Which key combination opens the 'Calculator' pane in Tally while making entries?",
+        "type": "mcq",
+        "o": [
+            "Ctrl+N",
+            "Alt+C",
+            "Ctrl+M",
+            "Alt+B"
+        ]
+    },
+    {
+        "q": "Match the Tally shortcut with its action:",
+        "type": "match",
+        "left": [
+            "Alt+G",
+            "Alt+C",
+            "F11",
+            "F12"
+        ],
+        "right": [
+            "Go To",
+            "Calculator",
+            "Features",
+            "Configure"
+        ]
+    },
+    {
+        "q": "GST can be enabled mid-year in Tally without any opening balance adjustments.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the effect of selecting 'Is GST Applicable' as 'No' for a ledger?",
+        "type": "mcq",
+        "o": [
+            "Transactions with that ledger will not attract GST",
+            "Tally will show an error",
+            "Invoice cannot be saved",
+            "Tax rate becomes zero"
+        ]
+    },
+    {
+        "q": "In Tally, what is the purpose of the 'Tax Analysis' view in sales register?",
+        "type": "mcq",
+        "o": [
+            "To view tax breakup of each transaction",
+            "To delete invoices",
+            "To print reports",
+            "To alter company details"
+        ]
+    },
+    {
+        "q": "Which option under GST Configuration allows setting up of e-way bill details?",
+        "type": "mcq",
+        "o": [
+            "GST Details > E-Way Bill",
+            "F12 Configure",
+            "Company Creation",
+            "Inventory Info"
+        ]
+    },
+    {
+        "q": "Unscramble the Tally term for parties we owe money to.",
+        "type": "word_scramble",
+        "answer": "CREDITORS",
+        "decoys": "BQ"
+    },
+    {
+        "q": "The _____ field in stock item master links the product to a specific HSN code.",
+        "type": "fill_blank",
+        "answers": [
+            "HSN/SAC"
+        ],
+        "other_options": [
+            "GST Rate",
+            "Taxability",
+            "Description",
+            "Unit"
+        ]
+    },
+    {
+        "q": "Tally Prime allows generation of e-invoices with IRN directly for all businesses without any third-party integration.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What does SAC stand for under GST?",
+        "type": "short_answer",
+        "answers": [
+            "Services Accounting Code"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which tax ledger is credited when a purchase is made from an unregistered dealer under Reverse Charge?",
+        "type": "mcq",
+        "o": [
+            "GST Liability (RCM)",
+            "Input Tax Credit",
+            "Cash Ledger",
+            "Purchase Account"
+        ]
+    },
+    {
+        "q": "Match the tax type with the ledger group:",
+        "type": "match",
+        "left": [
+            "Output IGST",
+            "Input CGST",
+            "TDS Payable",
+            "TCS Receivable"
+        ],
+        "right": [
+            "Duties and Taxes",
+            "Duties and Taxes",
+            "Current Liabilities",
+            "Current Assets"
+        ]
+    },
+    {
+        "q": "How do you record an advance receipt from a customer including GST in Tally?",
+        "type": "mcq",
+        "o": [
+            "Use Receipt Voucher and select taxable service",
+            "Use Payment Voucher",
+            "Use Contra Voucher",
+            "Use Journal Voucher"
+        ]
+    },
+    {
+        "q": "The 'Set/Alter GST Details' option is used to configure GSTIN for the company.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Name the report that shows the difference between GSTR-2A and the purchase register.",
+        "type": "short_answer",
+        "answers": [
+            "Purchase Mismatch Report",
+            "GSTR-2A Reconciliation"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Choose the correct document types under GST.",
+        "type": "inline_dropdown",
+        "text": "A registered dealer must issue a [0] invoice for taxable sales, and a [1] of supply for exempt sales.",
+        "dropdowns": [
+            {
+                "correct": "Tax",
+                "options": [
+                    "Tax",
+                    "Retail",
+                    "Proforma"
+                ]
+            },
+            {
+                "correct": "Bill",
+                "options": [
+                    "Bill",
+                    "Receipt",
+                    "Note"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which menu path is used to create a new GST rate setup for a specific commodity?",
+        "type": "mcq",
+        "o": [
+            "Tax Rate Setup",
+            "Ledger Creation",
+            "Voucher Entry",
+            "GST Reports"
+        ]
+    },
+    {
+        "q": "The _____ category is assigned to a party ledger to identify them as a composition dealer.",
+        "type": "fill_blank",
+        "answers": [
+            "Composition"
+        ],
+        "other_options": [
+            "Regular",
+            "Unregistered",
+            "Exempt",
+            "Nil-Rated"
+        ]
+    },
+    {
+        "q": "What is the purpose of 'Statutory Adjustment' entries in Tally?",
+        "type": "mcq",
+        "o": [
+            "To correct mismatches in tax credits or liabilities",
+            "To enter opening stock",
+            "To record sales returns",
+            "To adjust inventory"
+        ]
+    },
+    {
+        "q": "TCS is collected by the buyer from the seller.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match pre-GST tax acronyms with their descriptions.",
+        "type": "memory",
+        "pairs": {
+            "VAT": "Value Added Tax",
+            "TIN": "Taxpayer Identification Number",
+            "CST": "Central Sales Tax",
+            "LST": "Local Sales Tax"
+        }
+    },
+    {
+        "q": "Match the voucher type with the TCS scenario:",
+        "type": "match",
+        "left": [
+            "Sales of Scrap",
+            "Receipt of Sale Proceeds",
+            "Advance for Timber"
+        ],
+        "right": [
+            "Sales Voucher",
+            "Receipt Voucher",
+            "Receipt Voucher"
+        ]
+    },
+    {
+        "q": "Which key is pressed to accept a voucher in Tally?",
+        "type": "mcq",
+        "o": [
+            "Ctrl+A",
+            "Enter",
+            "Alt+S",
+            "Shift+Enter"
+        ]
+    },
+    {
+        "q": "How do you define a new 'Nature of Processing' for TDS in Tally?",
+        "type": "mcq",
+        "o": [
+            "Create or Alter under TDS Nature of Payment",
+            "Alter Company",
+            "Change F11 Features",
+            "Modify Voucher"
+        ]
+    },
+    {
+        "q": "Number of characters in a PAN card.",
+        "type": "slider",
+        "min": 8,
+        "max": 15,
+        "correct": 10
+    },
+    {
+        "q": "Match TCS sections with their descriptions.",
+        "type": "memory",
+        "pairs": {
+            "206C": "Scrap sales",
+            "206C(1C)": "Toll Plaza parking",
+            "206C(1G)": "Foreign Remittance",
+            "206C(1H)": "Sale of Goods"
+        }
+    },
+    {
+        "q": "Name the type of ledger used to record TDS deducted from contractors.",
+        "type": "short_answer",
+        "answers": [
+            "TDS on Contract",
+            "TDS Payable 194C"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The 'Lower TDS' certificate details can be entered in the party ledger master.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which is NOT a standard Tally voucher type for taxation entries?",
+        "type": "odd_one_out",
+        "options": [
+            "Sales",
+            "Purchase",
+            "Journal",
+            "Modification",
+            "Receipt"
+        ],
+        "correct": "Modification"
+    },
+    {
+        "q": "What is the formula to calculate TDS amount in a transaction?",
+        "type": "mcq",
+        "o": [
+            "Base Amount * TDS Rate / 100",
+            "Base Amount + Tax",
+            "Gross Amount * 100",
+            "Invoice Value * 1.18"
+        ]
+    },
+    {
+        "q": "Swipe left for Output Tax, right for Input Tax.",
+        "type": "swipe_cards",
+        "left_label": "Output Tax",
+        "right_label": "Input Tax",
+        "cards": {
+            "Tax on Sales": "left",
+            "Current Liability": "left",
+            "Tax on Purchases": "right",
+            "Current Asset": "right"
+        }
+    },
+    {
+        "q": "Categorize these industries as Goods or Services.",
+        "type": "swipe_cards",
+        "left_label": "Goods",
+        "right_label": "Services",
+        "cards": {
+            "Manufacturing": "left",
+            "Trading": "left",
+            "Consulting": "right",
+            "Auditing": "right"
+        }
+    },
+    {
+        "q": "Unscramble the abbreviation for Tax Deducted at Source.",
+        "type": "word_scramble",
+        "answer": "TDS",
+        "decoys": "ZX"
+    },
+    {
+        "q": "The TDS _____ report provides a party-wise summary of tax deducted.",
+        "type": "fill_blank",
+        "answers": [
+            "Computation"
+        ],
+        "other_options": [
+            "Outstanding",
+            "Remittance",
+            "Challan",
+            "Ledger"
+        ]
+    },
+    {
+        "q": "Which Pay Head type includes 'Employer ESI Contribution' in Tally?",
+        "type": "mcq",
+        "o": [
+            "Employer Statutory Contributions",
+            "Employee Deductions",
+            "Earnings",
+            "Allowances"
+        ]
+    },
+    {
+        "q": "Match the payroll component to its calculation type:",
+        "type": "match",
+        "left": [
+            "Basic Pay",
+            "HRA",
+            "PF (Employee)",
+            "Net Salary"
+        ],
+        "right": [
+            "Flat Rate or Variable",
+            "Percentage of Basic",
+            "Percentage of Basic",
+            "Basic + Allowances - Deductions"
+        ]
+    },
+    {
+        "q": "ESI is applicable to employees whose gross salary is below a specified limit.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Identify requirements for Payroll Income Tax calculation.",
+        "type": "inline_dropdown",
+        "text": "For calculating Income Tax in Payroll, Tally requires the employee's [0] number and investment [1].",
+        "dropdowns": [
+            {
+                "correct": "PAN",
+                "options": [
+                    "TAN",
+                    "PAN",
+                    "DIN"
+                ]
+            },
+            {
+                "correct": "Declaration",
+                "options": [
+                    "Declaration",
+                    "Withdrawal",
+                    "Deposit"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the role of the 'Payroll Auto Fill' feature?",
+        "type": "mcq",
+        "o": [
+            "To automatically populate attendance and payroll data",
+            "To create new ledgers",
+            "To close the payroll",
+            "To export data"
+        ]
+    },
+    {
+        "q": "How do you generate Form 16 for employees in Tally?",
+        "type": "mcq",
+        "o": [
+            "From Payroll Reports > Form 16",
+            "From Accounts Book",
+            "From TDS Reports",
+            "From GST Reports"
+        ]
+    },
+    {
+        "q": "Name the report that shows month-wise salary expenses for the company.",
+        "type": "short_answer",
+        "answers": [
+            "Payroll Statement",
+            "Salary Register"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ master defines the tax regime (Old or New) for income tax calculation in payroll.",
+        "type": "fill_blank",
+        "answers": [
+            "Employee Master"
+        ],
+        "other_options": [
+            "Company Master",
+            "Tax Master",
+            "Salary Details",
+            "Voucher"
+        ]
+    },
+    {
+        "q": "GSTR-3B is a summary return that includes details of sales, purchases, and tax liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble the central tax component of GST.",
+        "type": "word_scramble",
+        "answer": "CGST",
+        "decoys": "YU"
+    },
+    {
+        "q": "Select the correct voucher for recording advance tax.",
+        "type": "inline_dropdown",
+        "text": "In Tally, [0] entries are passed to record advance tax paid, typically using the [1] voucher.",
+        "dropdowns": [
+            {
+                "correct": "Payment",
+                "options": [
+                    "Receipt",
+                    "Payment",
+                    "Journal"
+                ]
+            },
+            {
+                "correct": "Payment",
+                "options": [
+                    "Payment",
+                    "Contra",
+                    "Sales"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which GSTR form is used for filing details of inward supplies by the recipient?",
+        "type": "mcq",
+        "o": [
+            "GSTR-2A / GSTR-2B",
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-9"
+        ]
+    },
+    {
+        "q": "What is the 'GST Audit Trail' in Tally?",
+        "type": "mcq",
+        "o": [
+            "A log of changes made to tax masters and transactions",
+            "A financial statement",
+            "An inventory report",
+            "A payroll summary"
+        ]
+    },
+    {
+        "q": "Match the GSTR form with its content:",
+        "type": "match",
+        "left": [
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-9",
+            "GSTR-9C"
+        ],
+        "right": [
+            "Outward Supplies",
+            "Summary Return",
+            "Annual Return",
+            "Reconciliation Statement"
+        ]
+    },
+    {
+        "q": "Number of alphanumeric characters in a GSTIN.",
+        "type": "slider",
+        "min": 10,
+        "max": 20,
+        "correct": 15
+    },
+    {
+        "q": "Match GST components with their receiving government.",
+        "type": "memory",
+        "pairs": {
+            "CGST": "Central Government",
+            "SGST": "State Government",
+            "IGST": "Shared between Center and State",
+            "UTGST": "Union Territory"
+        }
+    },
+    {
+        "q": "Tally can directly integrate with the GST Suvidha Provider (GSP) for return filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which menu option helps reconcile input tax credit with the GST portal data?",
+        "type": "mcq",
+        "o": [
+            "GST Reconciliation",
+            "GST Filing",
+            "Tax Audit",
+            "Tax Payment"
+        ]
+    },
+    {
+        "q": "How do you mark a transaction as 'Excluded' from a GSTR return in Tally?",
+        "type": "mcq",
+        "o": [
+            "Set 'Include in GST Return' to No in the voucher",
+            "Delete the transaction",
+            "Change the date",
+            "Alter the GST rate"
+        ]
+    },
+    {
+        "q": "Name the file format exported from Tally for uploading GSTR-1 to the portal.",
+        "type": "short_answer",
+        "answers": [
+            "JSON",
+            "JavaScript Object Notation"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____ ' Exception Report identifies vouchers that are incomplete for GST return filing.",
+        "type": "fill_blank",
+        "answers": [
+            "GST"
+        ],
+        "other_options": [
+            "Voucher",
+            "Audit",
+            "Exception",
+            "Statutory"
+        ]
+    },
+    {
+        "q": "Which of the following is a pre-defined tax rate slab in Tally for Indian GST?",
+        "type": "mcq",
+        "o": [
+            "5%, 12%, 18%, 28%",
+            "0%, 10%, 20%, 30%",
+            "2%, 4%, 6%, 8%",
+            "15%, 25%, 35%"
+        ]
+    },
+    {
+        "q": "What does the 'Taxable Value' represent on an invoice?",
+        "type": "mcq",
+        "o": [
+            "The value on which tax is calculated",
+            "The total including tax",
+            "The CGST amount",
+            "The discount"
+        ]
+    },
+    {
+        "q": "A 'Nil-Rated' supply attracts 0% GST in Tally.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the entity type with the correct identification:",
+        "type": "match",
+        "left": [
+            "Regular Taxpayer",
+            "Composition Dealer",
+            "Unregistered Dealer",
+            "Import/Export"
+        ],
+        "right": [
+            "GSTIN",
+            "GSTIN with C prefix",
+            "No GSTIN",
+            "LUT/Bond required"
+        ]
+    },
+    {
+        "q": "Which option enables automatic calculation of taxes on stock items?",
+        "type": "mcq",
+        "o": [
+            "Set 'Taxability' as Taxable in Stock Item",
+            "Create a new voucher",
+            "Alter the company",
+            "Change the date"
+        ]
+    },
+    {
+        "q": "Name the ledger required to claim input credit on capital goods purchased.",
+        "type": "short_answer",
+        "answers": [
+            "Input Tax Credit Capital Goods",
+            "Input CGST Capital",
+            "Input IGST Capital"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____ ' option in party ledger enables automatic pop-up of party's GSTIN in vouchers.",
+        "type": "fill_blank",
+        "answers": [
+            "GST Registration Details"
+        ],
+        "other_options": [
+            "Contact Details",
+            "Address",
+            "Bank Details",
+            "Opening Balance"
+        ]
+    },
+    {
+        "q": "A Journal Voucher is used to transfer Input Tax Credit to GST Payable ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the treatment of 'Deemed Exports' in Tally?",
+        "type": "mcq",
+        "o": [
+            "Recorded as taxable supply with a specific tax rate",
+            "Recorded as exempt supply",
+            "Recorded as nil-rated",
+            "Ignored in GST"
+        ]
+    },
+    {
+        "q": "How do you record a 'Credit Note' for a sales return in Tally?",
+        "type": "mcq",
+        "o": [
+            "Use Credit Note Voucher with 'Nature of Return' selected",
+            "Use Sales Voucher",
+            "Use Debit Note Voucher",
+            "Use Journal Voucher"
+        ]
+    },
+    {
+        "q": "Match the voucher with its tax impact:",
+        "type": "match",
+        "left": [
+            "Sales Voucher",
+            "Purchase Voucher",
+            "Debit Note (Purchase Return)",
+            "Credit Note (Sales Return)"
+        ],
+        "right": [
+            "Output Tax Increases",
+            "Input Tax Increases",
+            "Input Tax Decreases",
+            "Output Tax Decreases"
+        ]
+    },
+    {
+        "q": "Which is NOT a valid method of tax calculation in Tally?",
+        "type": "odd_one_out",
+        "options": [
+            "On Item Rate",
+            "On Value",
+            "On Quantity",
+            "On Weight"
+        ],
+        "correct": "On Weight"
+    },
+    {
+        "q": "TCS is applicable on the sale of motor vehicles above a certain value.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Where do you define the TCS rate applicable for a specific product?",
+        "type": "mcq",
+        "o": [
+            "TCS Nature of Collection",
+            "TDS Nature of Payment",
+            "Stock Item Master",
+            "Tax Rate Setup"
+        ]
+    },
+    {
+        "q": "Swipe left for Composition Dealer rules, right for Regular Dealer rules.",
+        "type": "swipe_cards",
+        "left_label": "Composition Dealer",
+        "right_label": "Regular Dealer",
+        "cards": {
+            "Files GSTR-4": "left",
+            "No ITC allowed": "left",
+            "Files GSTR-1": "right",
+            "Claims ITC": "right"
+        }
+    },
+    {
+        "q": "Name the TDS section applicable for payment of interest to a resident.",
+        "type": "short_answer",
+        "answers": [
+            "194A"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The threshold limit for TDS deduction can be defined in the _____ master.",
+        "type": "fill_blank",
+        "answers": [
+            "TDS Nature of Payment"
+        ],
+        "other_options": [
+            "Company",
+            "Party Ledger",
+            "Voucher",
+            "Accounting Feature"
+        ]
+    },
+    {
+        "q": "Which report displays the list of pending TDS payments?",
+        "type": "mcq",
+        "o": [
+            "TDS Payable Ledger",
+            "GSTR-1",
+            "Payroll Register",
+            "Stock Summary"
+        ]
+    },
+    {
+        "q": "TDS must be deducted at the time of credit or payment, whichever is earlier.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of the 'Challan Reconciliation' feature in TDS?",
+        "type": "mcq",
+        "o": [
+            "To match TDS deducted with tax deposited to the government",
+            "To calculate bonus",
+            "To file GST returns",
+            "To manage inventory"
+        ]
+    },
+    {
+        "q": "How do you record late payment interest on TDS in Tally?",
+        "type": "mcq",
+        "o": [
+            "Create a Journal Voucher debiting Interest Expense",
+            "Create a Sales Voucher",
+            "Create a Receipt Voucher",
+            "Alter the bank ledger"
+        ]
+    },
+    {
+        "q": "Unscramble the state component of GST.",
+        "type": "word_scramble",
+        "answer": "SGST",
+        "decoys": "WQ"
+    },
+    {
+        "q": "Match the Tally module to its function:",
+        "type": "match",
+        "left": [
+            "GST Module",
+            "TDS Module",
+            "Payroll Module",
+            "TCS Module"
+        ],
+        "right": [
+            "Goods and Services Tax",
+            "Tax Deduction at Source",
+            "Employee Salary Processing",
+            "Tax Collection at Source"
+        ]
+    },
+    {
+        "q": "What is the maximum number of pay heads allowed in a single payroll structure?",
+        "type": "mcq",
+        "o": [
+            "Unlimited",
+            "20",
+            "50",
+            "100"
+        ]
+    },
+    {
+        "q": "Name the standard allowance that is typically 40% or 50% of basic salary.",
+        "type": "short_answer",
+        "answers": [
+            "House Rent Allowance",
+            "HRA"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ voucher is used to pay salary to employees in Tally.",
+        "type": "fill_blank",
+        "answers": [
+            "Payroll"
+        ],
+        "other_options": [
+            "Payment",
+            "Receipt",
+            "Journal",
+            "Contra"
+        ]
+    },
+    {
+        "q": "Bonus is calculated as a statutory deduction in Tally Payroll.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which tax regime details can be selected for an employee in Tally?",
+        "type": "mcq",
+        "o": [
+            "Old Regime or New Regime",
+            "State Tax",
+            "Central Tax",
+            "Local Tax"
+        ]
+    },
+    {
+        "q": "What is the effect of changing the 'Applicable From' date in a tax rate setup?",
+        "type": "mcq",
+        "o": [
+            "It determines the effective date for the tax rate change",
+            "It deletes old transactions",
+            "It changes the company creation date",
+            "It alters the financial year"
+        ]
+    },
+    {
+        "q": "Choose the correct fields when receiving an advance subject to GST.",
+        "type": "inline_dropdown",
+        "text": "When an advance is received from a customer, GST liability may arise. In Tally, you use the [0] voucher and mark it as [1].",
+        "dropdowns": [
+            {
+                "correct": "Receipt",
+                "options": [
+                    "Receipt",
+                    "Payment",
+                    "Sales"
+                ]
+            },
+            {
+                "correct": "Advance",
+                "options": [
+                    "Advance",
+                    "Final",
+                    "Pending"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Unscramble the term for the tax levied on imports and exports.",
+        "type": "word_scramble",
+        "answer": "CUSTOMS",
+        "decoys": "FGH"
+    },
+    {
+        "q": "The '_____ ' report in Tally is used to verify all statutory liabilities before payment.",
+        "type": "fill_blank",
+        "answers": [
+            "Statutory Payables"
+        ],
+        "other_options": [
+            "Profit and Loss",
+            "Balance Sheet",
+            "Trial Balance",
+            "Cash Flow"
+        ]
+    },
+    {
+        "q": "An e-invoice must be registered on the IRP before it is valid.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which keyboard shortcut opens the 'Master' creation menu in Tally Gateway?",
+        "type": "mcq",
+        "o": [
+            "Alt+M",
+            "Ctrl+M",
+            "Alt+G",
+            "Ctrl+C"
+        ]
+    },
+    {
+        "q": "Match the accounting entry to its financial effect:",
+        "type": "match",
+        "left": [
+            "Debit Input Tax Credit",
+            "Credit Output Tax",
+            "Debit Expense",
+            "Credit Income"
+        ],
+        "right": [
+            "Asset Increases",
+            "Liability Increases",
+            "Expense Increases",
+            "Income Increases"
+        ]
+    },
+    {
+        "q": "Name the menu used to import masters like ledgers and stock items in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "Import Data",
+            "Data Import",
+            "Migration"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the purpose of 'Cost Centre' in Tally Payroll?",
+        "type": "mcq",
+        "o": [
+            "To allocate salary expenses to specific departments or projects",
+            "To calculate tax",
+            "To generate invoices",
+            "To manage inventory"
+        ]
+    },
+    {
+        "q": "Tally allows tracking of multiple branches with separate GST registrations using Tax Units.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which field is mandatory to capture in a sales invoice for B2B transactions under GST?",
+        "type": "mcq",
+        "o": [
+            "Buyer's GSTIN",
+            "Buyer's Email",
+            "Vehicle Number",
+            "Delivery Address"
+        ]
+    },
+    {
+        "q": "What type of supply is an export of services considered in Tally?",
+        "type": "mcq",
+        "o": [
+            "Zero-rated supply",
+            "Exempt supply",
+            "Nil-rated supply",
+            "Non-GST supply"
+        ]
+    },
+    {
+        "q": "The abbreviation LUT stands for _____ under GST for exports.",
+        "type": "fill_blank",
+        "answers": [
+            "Letter of Undertaking"
+        ],
+        "other_options": [
+            "Limited User Tax",
+            "Letter of Unit Trust",
+            "Local Utility Tax",
+            "Liability Under Tax"
+        ]
+    },
+    {
+        "q": "Identify the primary GST monthly return.",
+        "type": "inline_dropdown",
+        "text": "The [0] report in Tally shows the complete summary of tax liability and ITC for the month, known as [1].",
+        "dropdowns": [
+            {
+                "correct": "GST",
+                "options": [
+                    "VAT",
+                    "GST",
+                    "TDS"
+                ]
+            },
+            {
+                "correct": "GSTR-3B",
+                "options": [
+                    "GSTR-1",
+                    "GSTR-3B",
+                    "GSTR-9"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "TDS is not applicable on payments made for professional services.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which voucher type records the employer's PF contribution as a liability?",
+        "type": "mcq",
+        "o": [
+            "Journal Voucher",
+            "Payment Voucher",
+            "Receipt Voucher",
+            "Contra Voucher"
+        ]
+    },
+    {
+        "q": "Name the statutory report showing all employee deductions for a month.",
+        "type": "short_answer",
+        "answers": [
+            "Payroll Deduction Report",
+            "Deduction Statement"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ field in a ledger master must be set correctly to auto-populate in GST reports.",
+        "type": "fill_blank",
+        "answers": [
+            "GST Registration Type"
+        ],
+        "other_options": [
+            "Mailing Address",
+            "Contact",
+            "Currency",
+            "Balance"
+        ]
+    },
+    {
+        "q": "What is the function of 'GST Rate Setup' in Tally?",
+        "type": "mcq",
+        "o": [
+            "To define tax rates for specific goods and services",
+            "To create ledgers",
+            "To alter vouchers",
+            "To print invoices"
+        ]
+    },
+    {
+        "q": "A Composite Supply under GST involves a mix of goods and services taxed at the principal item's rate.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "How do you record a 'Mixed Supply' in Tally?",
+        "type": "mcq",
+        "o": [
+            "Select the item with the highest tax rate for the whole supply",
+            "Split the invoice into multiple items",
+            "Use Nil-Rated category",
+            "Calculate average tax"
+        ]
+    },
+    {
+        "q": "Match the TDS section with the payment:",
+        "type": "match",
+        "left": [
+            "192",
+            "194I",
+            "194J",
+            "194H"
+        ],
+        "right": [
+            "Salary",
+            "Rent",
+            "Professional Fees",
+            "Commission"
+        ]
+    },
+    {
+        "q": "Which function key is used to add a voucher in Tally Prime?",
+        "type": "mcq",
+        "o": [
+            "Alt+A",
+            "Ctrl+A",
+            "F1",
+            "F4"
+        ]
+    },
+    {
+        "q": "Match tax rates to their respective payroll components.",
+        "type": "memory",
+        "pairs": {
+            "PT": "State specific slabs",
+            "PF": "Twelve percent of basic",
+            "ESI": "Total four percent combined",
+            "IT": "Based on income tax slabs"
+        }
+    },
+    {
+        "q": "Name the system-generated voucher type used for point of sale transactions.",
+        "type": "short_answer",
+        "answers": [
+            "POS Voucher",
+            "Sales Voucher"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "GST on advances received must be paid in the same month of receipt.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the output of the 'GST Return Filer' tool in Tally?",
+        "type": "mcq",
+        "o": [
+            "JSON file for uploading to GSTN portal",
+            "Printed copy of return",
+            "Excel summary",
+            "Audit report"
+        ]
+    },
+    {
+        "q": "TDS rate for section 194J technical services (percent).",
+        "type": "slider",
+        "min": 1,
+        "max": 10,
+        "correct": 2
+    },
+    {
+        "q": "Which report helps identify missing HSN codes in stock items?",
+        "type": "mcq",
+        "o": [
+            "GST Exception Report",
+            "Stock Summary",
+            "Sales Register",
+            "Audit Trail"
+        ]
+    },
+    {
+        "q": "The _____ ledger is used to reflect the tax liability on reverse charge purchases.",
+        "type": "fill_blank",
+        "answers": [
+            "Reverse Charge Liability",
+            "GST RCM Payable"
+        ],
+        "other_options": [
+            "Output Tax",
+            "Input Tax",
+            "Cash",
+            "Purchase"
+        ]
+    },
+    {
+        "q": "Match GST registration types in Tally to their features.",
+        "type": "memory",
+        "pairs": {
+            "Regular": "Files standard monthly or quarterly returns",
+            "Composition": "Pays flat rate tax quarterly",
+            "Unregistered": "Does not have a GSTIN",
+            "Consumer": "End user of goods"
+        }
+    },
+    {
+        "q": "Match the return with its filing due date (typical):",
+        "type": "match",
+        "left": [
+            "GSTR-1",
+            "GSTR-3B",
+            "GSTR-9"
+        ],
+        "right": [
+            "11th of next month",
+            "20th of next month",
+            "31st December of next FY"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT required for e-Way Bill generation in Tally?",
+        "type": "odd_one_out",
+        "options": [
+            "Transporter ID",
+            "Vehicle Number",
+            "Driver License",
+            "Distance in Kms"
+        ],
+        "correct": "Driver License"
+    },
+    {
+        "q": "Every transaction in Tally automatically updates the relevant GST report.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What does the 'Suppress Tax Details' option do in a voucher?",
+        "type": "mcq",
+        "o": [
+            "Hides the tax calculation pane in the voucher entry screen",
+            "Deletes the tax amount",
+            "Exempts the transaction from tax",
+            "Disables GST"
+        ]
+    },
+    {
+        "q": "How do you activate TDS features in a newly created company?",
+        "type": "mcq",
+        "o": [
+            "F11 Features > Statutory and Taxation > Enable TDS",
+            "Create a TDS Ledger",
+            "Alter Company Master",
+            "Open Display Menu"
+        ]
+    },
+    {
+        "q": "Name the accounting entry to record TDS remittance to the government.",
+        "type": "short_answer",
+        "answers": [
+            "Payment Voucher debiting TDS Payable",
+            "Payment Entry"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ report is used to generate employee pay slips in Tally.",
+        "type": "fill_blank",
+        "answers": [
+            "Pay Slip"
+        ],
+        "other_options": [
+            "Attendance",
+            "Salary Register",
+            "PF Report",
+            "ESI Report"
+        ]
+    },
+    {
+        "q": "PF contribution is mandatory for all employees regardless of salary in Tally.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which option enables auto bank reconciliation in Tally?",
+        "type": "mcq",
+        "o": [
+            "Bank Reconciliation feature in Banking Menu",
+            "Sales Register",
+            "GST Reports",
+            "Payroll"
+        ]
+    },
+    {
+        "q": "In Tally, what is the purpose of the 'GST Adjustment Journal'?",
+        "type": "mcq",
+        "o": [
+            "To adjust input tax credit against output tax liability or reclassify tax heads",
+            "To record sales entries",
+            "To print financial statements",
+            "To create stock items"
+        ]
+    },
+    {
+        "q": "Which condition requires the 'ISD Credit Received' ledger in Tally?",
+        "type": "mcq",
+        "o": [
+            "When an entity receives an Input Service Distributor invoice",
+            "When purchasing raw materials",
+            "When filing GSTR-3B",
+            "When exporting services"
+        ]
+    },
+    {
+        "q": "The _____ ledger is used to record the liability arising from reverse charge mechanism purchases.",
+        "type": "fill_blank",
+        "answers": [
+            "GST RCM Payable"
+        ],
+        "other_options": [
+            "Output Tax",
+            "Input Tax",
+            "Cash",
+            "Purchase"
+        ]
+    },
+    {
+        "q": "Tally allows automatic bifurcation of ITC into IGST, CGST, and SGST while making payment to the government.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Name the specific voucher type used to record an ITC reversal in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "Journal Voucher",
+            "Journal"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the implication of marking a ledger as 'Deemed Export' in Tally?",
+        "type": "mcq",
+        "o": [
+            "It allows processing refund claims or special tax treatment",
+            "It disables GST calculation",
+            "It marks the party as blacklisted",
+            "It increases the tax rate"
+        ]
+    },
+    {
+        "q": "Match the ITC rule with its set-off priority in Tally:",
+        "type": "match",
+        "left": [
+            "IGST Payment",
+            "CGST Payment",
+            "SGST Payment"
+        ],
+        "right": [
+            "IGST -> CGST -> SGST",
+            "IGST -> CGST",
+            "IGST -> SGST"
+        ]
+    },
+    {
+        "q": "Which configuration defines the 'Periodicity of GSTR-1 Filing' for a company?",
+        "type": "mcq",
+        "o": [
+            "GST Details in Company Master",
+            "F12 Configure",
+            "Inventory Info",
+            "Payroll Settings"
+        ]
+    },
+    {
+        "q": "Tally supports the concept of 'Transporter ID' in E-Way Bill generation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Name the Tally module used to manage contracts and track TDS for multiple transactions over time.",
+        "type": "short_answer",
+        "answers": [
+            "Bill-wise Accounting",
+            "Reference-based TDS"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Swipe to classify GSTR-1 vs GSTR-2.",
+        "type": "swipe_cards",
+        "left_label": "GSTR-1",
+        "right_label": "GSTR-2",
+        "cards": {
+            "Outward Supplies": "left",
+            "Sales Data": "left",
+            "Inward Supplies": "right",
+            "Purchase Data": "right"
+        }
+    },
+    {
+        "q": "How does Tally handle partial reverse charge on a composite supply?",
+        "type": "mcq",
+        "o": [
+            "By splitting the invoice into taxable and RCM tax lines",
+            "By ignoring RCM",
+            "By charging full tax to the customer",
+            "By deleting the invoice"
+        ]
+    },
+    {
+        "q": "The '_____' exception resolution resolves mismatches when party A GSTIN is missing.",
+        "type": "fill_blank",
+        "answers": [
+            "GST Exception Report"
+        ],
+        "other_options": [
+            "Balance Sheet",
+            "Audit Trail",
+            "Cash Flow",
+            "Inventory"
+        ]
+    },
+    {
+        "q": "What is the function of 'Tax Payment' under the Statutory menu?",
+        "type": "mcq",
+        "o": [
+            "To record the challan for GST remittance to the government",
+            "To generate sales invoices",
+            "To calculate payroll",
+            "To export data"
+        ]
+    },
+    {
+        "q": "Match the GST register with its content:",
+        "type": "match",
+        "left": [
+            "GSTR-1 Register",
+            "GSTR-3B Register",
+            "ITC Register",
+            "Tax Liability Register"
+        ],
+        "right": [
+            "Outward Supplies",
+            "Summary of Inward/Outward",
+            "Input Tax Credit Availed",
+            "Net Tax Payable"
+        ]
+    },
+    {
+        "q": "GST on 'Advances Adjusted against Invoices' is automatically reversed in Tally if configured correctly.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which advanced parameter controls the rounding of tax values in Tally?",
+        "type": "mcq",
+        "o": [
+            "Round off ledger or round-off method in configuration",
+            "Tax Rate Setup",
+            "Ledger Creation",
+            "Voucher Type"
+        ]
+    },
+    {
+        "q": "Name the document number that must be referenced when generating an E-Way Bill for inter-state supply in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "Transporter Document Number",
+            "Vehicle Number",
+            "Invoice Reference"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ party type is used for transactions with embassies or UN bodies that do not have GSTIN.",
+        "type": "fill_blank",
+        "answers": [
+            "Unregistered"
+        ],
+        "other_options": [
+            "Regular",
+            "Composition",
+            "Deemed Export",
+            "Taxable"
+        ]
+    },
+    {
+        "q": "Tally automatically creates a 'GST Payable' ledger when enabling GST features.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the primary use of 'Multi-Currency' in conjunction with GST for exports?",
+        "type": "mcq",
+        "o": [
+            "To record invoice values in foreign currency and calculate taxable value in INR",
+            "To avoid tax payment",
+            "To print invoices",
+            "To manage payroll"
+        ]
+    },
+    {
+        "q": "Categorize these as generating Input Tax Credit or Tax Liability.",
+        "type": "swipe_cards",
+        "left_label": "Input Tax Credit",
+        "right_label": "Tax Liability",
+        "cards": {
+            "Purchases": "left",
+            "Capital Goods bought": "left",
+            "Sales": "right",
+            "RCM payable": "right"
+        }
+    },
+    {
+        "q": "Match the TDS threshold with its consequence:",
+        "type": "match",
+        "left": [
+            "Single Transaction Below Threshold",
+            "Cumulative Below Threshold",
+            "Threshold Exceeded"
+        ],
+        "right": [
+            "No TDS",
+            "No TDS",
+            "TDS Deducted"
+        ]
+    },
+    {
+        "q": "Unscramble the process of adjusting input tax against output tax.",
+        "type": "word_scramble",
+        "answer": "SETOFF",
+        "decoys": "KM"
+    },
+    {
+        "q": "How do you record a 'TDS Refund' from the government in Tally?",
+        "type": "mcq",
+        "o": [
+            "Receipt Voucher debiting Bank, crediting TDS Receivable",
+            "Journal Voucher debiting TDS Payable",
+            "Sales Voucher",
+            "Purchase Voucher"
+        ]
+    },
+    {
+        "q": "Name the two types of TDS deduction limits that can be configured in a contract.",
+        "type": "short_answer",
+        "answers": [
+            "Single Transaction Limit",
+            "Cumulative Limit"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' feature in Tally Payroll ensures that the correct tax regime is applied per employee.",
+        "type": "fill_blank",
+        "answers": [
+            "Tax Regime Selection"
+        ],
+        "other_options": [
+            "Attendance",
+            "Voucher",
+            "Cost Centre",
+            "Ledger"
+        ]
+    },
+    {
+        "q": "Tally's 'Professional Tax' computation can vary monthly based on the slab system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which Pay Head type supports 'Calculation Period' to define tax effective dates in payroll?",
+        "type": "mcq",
+        "o": [
+            "Income Tax Component",
+            "Basic Pay",
+            "Dearness Allowance",
+            "Conveyance"
+        ]
+    },
+    {
+        "q": "How are 'Arrears of Salary' treated in the Income Tax Computation Report?",
+        "type": "mcq",
+        "o": [
+            "It is taxed in the year of receipt with relief calculation if set up",
+            "It is ignored",
+            "It is treated as exempt",
+            "It doubles the tax"
+        ]
+    },
+    {
+        "q": "Match the statutory pay head with its governing act:",
+        "type": "match",
+        "left": [
+            "PF Contribution",
+            "ESI Contribution",
+            "Professional Tax",
+            "TDS on Salary"
+        ],
+        "right": [
+            "EPF Act",
+            "ESI Act",
+            "State Govt. Act",
+            "Income Tax Act"
+        ]
+    },
+    {
+        "q": "Tally cannot handle payroll for employees with tax residency status as 'Non-Resident'.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the 'GST Credit Mismatch' report primarily used for?",
+        "type": "mcq",
+        "o": [
+            "To identify differences between GSTR-2A and purchase register",
+            "To calculate sales tax",
+            "To print invoices",
+            "To reconcile bank accounts"
+        ]
+    },
+    {
+        "q": "Name the specific ledger used to record GST late fees and interest.",
+        "type": "short_answer",
+        "answers": [
+            "Interest and Late Fee Payable",
+            "Late Fee Ledger"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ function is used to match GSTR-2B data with the purchase register automatically.",
+        "type": "fill_blank",
+        "answers": [
+            "Auto Reconciliation"
+        ],
+        "other_options": [
+            "Manual Entry",
+            "Voucher Entry",
+            "Stock Transfer",
+            "Export"
+        ]
+    },
+    {
+        "q": "E-Invoice JSON generated by Tally must be manually verified before uploading to IRP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which parameters are essential to configure 'E-Invoice' in Tally?",
+        "type": "mcq",
+        "o": [
+            "API credentials, IRN URL, and Authentication Token",
+            "Ledger name only",
+            "Stock item name only",
+            "Bank details"
+        ]
+    },
+    {
+        "q": "What does the 'Cancel IRN' option in Tally signify?",
+        "type": "mcq",
+        "o": [
+            "It sends a request to the portal to cancel the generated invoice reference number",
+            "It deletes the invoice",
+            "It files the return",
+            "It modifies the date"
+        ]
+    },
+    {
+        "q": "Match the return with its filing mechanism:",
+        "type": "match",
+        "left": [
+            "GSTR-1",
+            "GSTR-3B",
+            "CMP-08",
+            "ITC-04"
+        ],
+        "right": [
+            "Outward Supplies",
+            "Summary Tax Payment",
+            "Composition Dealer Quarterly",
+            "Goods Sent for Job Work"
+        ]
+    },
+    {
+        "q": "Select the correct terms for the RCM mechanism.",
+        "type": "inline_dropdown",
+        "text": "Under the [0] charge mechanism, the [1] is responsible for paying GST directly to the government.",
+        "dropdowns": [
+            {
+                "correct": "Reverse",
+                "options": [
+                    "Forward",
+                    "Reverse",
+                    "Direct"
+                ]
+            },
+            {
+                "correct": "Recipient",
+                "options": [
+                    "Supplier",
+                    "Recipient",
+                    "Transporter"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Tally provides a direct link to pay GST through net banking from the payment screen.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which report tracks the 'GST Refund' status for exporters?",
+        "type": "mcq",
+        "o": [
+            "Export Refund Report",
+            "Sales Register",
+            "Stock Summary",
+            "Income Tax Report"
+        ]
+    },
+    {
+        "q": "Name the type of refund claim where accumulated ITC due to exports is sought.",
+        "type": "short_answer",
+        "answers": [
+            "Refund of Accumulated ITC",
+            "ITC Refund"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Unscramble the abbreviation for Value Added Tax.",
+        "type": "word_scramble",
+        "answer": "VAT",
+        "decoys": "PO"
+    },
+    {
+        "q": "The _____ setting in Tally allows the user to block ITC for specific capital goods.",
+        "type": "fill_blank",
+        "answers": [
+            "ITC Restriction"
+        ],
+        "other_options": [
+            "Voucher",
+            "Tax Rate",
+            "Party",
+            "Ledger"
+        ]
+    },
+    {
+        "q": "What is the role of the 'Tax Unit' in E-Way Bill management?",
+        "type": "mcq",
+        "o": [
+            "To manage separate E-Way Bill generation for different GST registrations",
+            "To calculate income tax",
+            "To handle payroll",
+            "To manage inventory levels"
+        ]
+    },
+    {
+        "q": "A 'Nil Rated' supply and an 'Exempt Supply' are identical in Tally's tax treatment.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "How is 'Job Work' processed under GST in Tally?",
+        "type": "mcq",
+        "o": [
+            "Using 'ITC-04' and specific 'Deemed Supply' vouchers if not returned on time",
+            "Standard sales voucher",
+            "Purchase voucher only",
+            "Receipt voucher"
+        ]
+    },
+    {
+        "q": "Match the statutory form to its TDS filing purpose:",
+        "type": "match",
+        "left": [
+            "Form 24Q",
+            "Form 26Q",
+            "Form 27Q",
+            "Form 27EQ"
+        ],
+        "right": [
+            "Salary TDS",
+            "Non-Salary TDS (Resident)",
+            "Non-Salary TDS (NRI)",
+            "TCS Return"
+        ]
+    },
+    {
+        "q": "Which Tally feature allows you to assign 'Deduction Type' as 'No Deduction' for a specific vendor?",
+        "type": "mcq",
+        "o": [
+            "Party Ledger TDS Details Configuration",
+            "Stock Item Master",
+            "GST Rate Setup",
+            "Voucher Type"
+        ]
+    },
+    {
+        "q": "Name the TDS report that calculates short-deduction and interest liability.",
+        "type": "short_answer",
+        "answers": [
+            "TDS Short Deduction Report",
+            "TDS Computation"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' TCS master defines the collection rate for scrap sales.",
+        "type": "fill_blank",
+        "answers": [
+            "Nature of Collection"
+        ],
+        "other_options": [
+            "Nature of Payment",
+            "Tax Rate",
+            "Stock Item",
+            "Ledger"
+        ]
+    },
+    {
+        "q": "Identify the payroll head classifications.",
+        "type": "inline_dropdown",
+        "text": "In Tally Payroll, [0] heads are used to define earnings, deductions, and [1] contributions.",
+        "dropdowns": [
+            {
+                "correct": "Pay",
+                "options": [
+                    "Cost",
+                    "Pay",
+                    "Ledger"
+                ]
+            },
+            {
+                "correct": "Statutory",
+                "options": [
+                    "Optional",
+                    "Statutory",
+                    "Voluntary"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "TDS on Purchase of immovable property is captured under Section 194IA.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Due date for filing GSTR-1 for monthly filers (day of the next month).",
+        "type": "slider",
+        "min": 5,
+        "max": 20,
+        "correct": 11
+    },
+    {
+        "q": "What is the purpose of 'Normal/Presumptive/Provisional' tax computation in Tally Payroll?",
+        "type": "mcq",
+        "o": [
+            "To handle different types of employee tax calculation scenarios",
+            "To file GST returns",
+            "To manage inventory",
+            "To create ledgers"
+        ]
+    },
+    {
+        "q": "How is 'Perquisite Value' treated in employee master?",
+        "type": "mcq",
+        "o": [
+            "Added to Gross Salary as a non-cash earning for tax calculation",
+            "Ignored completely",
+            "Deducted from Net Pay",
+            "Treated as a loan"
+        ]
+    },
+    {
+        "q": "Match the payroll deduction with its typical impact:",
+        "type": "match",
+        "left": [
+            "EPF (Employee)",
+            "ESI",
+            "PT",
+            "Income Tax"
+        ],
+        "right": [
+            "12% of Basic",
+            "% of Gross",
+            "State Slab",
+            "Annual Tax Slab"
+        ]
+    },
+    {
+        "q": "Tally can automatically distribute employer contributions to respective cost centers based on employee allocation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is 'Section 80C' in the context of Tally Payroll?",
+        "type": "mcq",
+        "o": [
+            "A deduction component under Income Tax computation master",
+            "A TDS section",
+            "A GST rate",
+            "A voucher type"
+        ]
+    },
+    {
+        "q": "Name the field in the employee master where PAN is captured for tax returns.",
+        "type": "short_answer",
+        "answers": [
+            "PAN",
+            "Permanent Account Number"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Match GST forms to their function.",
+        "type": "memory",
+        "pairs": {
+            "GSTR-3B": "Monthly Summary",
+            "GSTR-9": "Annual Return",
+            "ITC-04": "Job Work Return",
+            "CMP-08": "Composition Scheme Payment"
+        }
+    },
+    {
+        "q": "The _____ report validates data continuity between GSTR-1 and GSTR-3B.",
+        "type": "fill_blank",
+        "answers": [
+            "GST Reconciliation"
+        ],
+        "other_options": [
+            "Audit",
+            "Exception",
+            "Mismatch",
+            "Liabilities"
+        ]
+    },
+    {
+        "q": "GSTR-9 is required to be filed by regular taxpayers even if their aggregate turnover is below 2 crores.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which ledger should be selected to record 'GST Cess' in a supply?",
+        "type": "mcq",
+        "o": [
+            "Compensation Cess Ledger",
+            "CGST Ledger",
+            "SGST Ledger",
+            "IGST Ledger"
+        ]
+    },
+    {
+        "q": "How do you handle 'Bill of Supply' entries in Tally?",
+        "type": "mcq",
+        "o": [
+            "Select 'Bill of Supply' in the sales voucher for composition/unregistered deals",
+            "Use normal invoice",
+            "Use purchase voucher",
+            "Use payment voucher"
+        ]
+    },
+    {
+        "q": "Match the transaction with its voucher type:",
+        "type": "match",
+        "left": [
+            "Import of Goods",
+            "Export of Services",
+            "Stock Transfer to Branch",
+            "Reverse Charge on Advocate Fees"
+        ],
+        "right": [
+            "Purchase Voucher (IGST)",
+            "Sales Voucher (Zero-Rated)",
+            "Stock Journal",
+            "Journal Voucher"
+        ]
+    },
+    {
+        "q": "Which is NOT a classification for GST on goods?",
+        "type": "odd_one_out",
+        "options": [
+            "Taxable",
+            "Exempt",
+            "Nil Rated",
+            "Depreciated",
+            "Non-GST"
+        ],
+        "correct": "Depreciated"
+    },
+    {
+        "q": "Tally allows batch-wise or item-wise reconciliation of GSTR-2A.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is 'HSN Summary' in GSTR-1?",
+        "type": "mcq",
+        "o": [
+            "A report that sums up outward supplies grouped by HSN code",
+            "A list of all ledgers",
+            "A stock summary",
+            "A tax payment challan"
+        ]
+    },
+    {
+        "q": "Name the option that enables automatic UIN update for party ledgers from the portal.",
+        "type": "short_answer",
+        "answers": [
+            "Sync Party Info",
+            "GST Portal Sync"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' feature is crucial for grouping multiple GST registrations under one company.",
+        "type": "fill_blank",
+        "answers": [
+            "Tax Unit"
+        ],
+        "other_options": [
+            "Cost Centre",
+            "Voucher",
+            "Ledger",
+            "Stock Group"
+        ]
+    },
+    {
+        "q": "TDS under Section 194Q is applicable on purchase of goods exceeding Rs. 50 lakhs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a consequence of non-reconciliation of GSTR-2A?",
+        "type": "mcq",
+        "o": [
+            "Loss of input tax credit and potential demand notices",
+            "Higher profit",
+            "Lower sales",
+            "Automatic filing"
+        ]
+    },
+    {
+        "q": "What does the 'Export of Data' feature in GST Reports generate?",
+        "type": "mcq",
+        "o": [
+            "A structured JSON or Excel file for compliance",
+            "A printed report",
+            "A new company",
+            "A backup"
+        ]
+    },
+    {
+        "q": "Swipe according to TDS sections 194C and 194I.",
+        "type": "swipe_cards",
+        "left_label": "Section 194C",
+        "right_label": "Section 194I",
+        "cards": {
+            "Contractor Payments": "left",
+            "Advertising contracts": "left",
+            "Rent for Plant": "right",
+            "Rent for Building": "right"
+        }
+    },
+    {
+        "q": "Match the TCS section with the goods:",
+        "type": "match",
+        "left": [
+            "206C(1)",
+            "206C(1F)",
+            "206C(1G)",
+            "206C(1H)"
+        ],
+        "right": [
+            "Alcoholic liquor, tendu leaves",
+            "Motor vehicle above 10 lakh",
+            "Foreign remittance under LRS",
+            "Sale of goods above 50 lakh"
+        ]
+    },
+    {
+        "q": "Unscramble the term for the base value on which tax is calculated.",
+        "type": "word_scramble",
+        "answer": "ASSESSABLE",
+        "decoys": "QZ"
+    },
+    {
+        "q": "Tally uses the concept of 'Sub-components' to compute complex Income Tax formulas dynamically.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary function of 'GST Rate Updation' utility?",
+        "type": "mcq",
+        "o": [
+            "To bulk update tax rates across stock items and ledgers",
+            "To delete old vouchers",
+            "To change financial year",
+            "To create a new company"
+        ]
+    },
+    {
+        "q": "Choose the correct voucher configuration for depositing TDS.",
+        "type": "inline_dropdown",
+        "text": "To record TDS payment to the government in Tally, use the [0] voucher and select [1] payment.",
+        "dropdowns": [
+            {
+                "correct": "Payment",
+                "options": [
+                    "Journal",
+                    "Payment",
+                    "Receipt"
+                ]
+            },
+            {
+                "correct": "Statutory",
+                "options": [
+                    "Regular",
+                    "Statutory",
+                    "Advance"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Name the ledger classification required for 'GST on Advances Received'.",
+        "type": "short_answer",
+        "answers": [
+            "Current Liabilities",
+            "Duties and Taxes"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ parameter in stock item controls whether e-invoice applies to sales.",
+        "type": "fill_blank",
+        "answers": [
+            "E-Invoice Applicable"
+        ],
+        "other_options": [
+            "GST Rate",
+            "HSN Code",
+            "Unit",
+            "Taxability"
+        ]
+    },
+    {
+        "q": "Tally automatically creates a 'TCS Payable' ledger when TCS is enabled.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which payment mode is typically selected when depositing TDS using a challan?",
+        "type": "mcq",
+        "o": [
+            "Challan / Statutory Payment",
+            "Cash",
+            "Credit Card",
+            "Contra"
+        ]
+    },
+    {
+        "q": "How is the 'Turnover Threshold' for Tax Audit defined in Tally?",
+        "type": "mcq",
+        "o": [
+            "It is an external statutory limit; Tally tracks aggregate turnover for identification",
+            "It is entered manually in the audit report",
+            "It is defined in the payroll module",
+            "It is calculated in inventory"
+        ]
+    },
+    {
+        "q": "Match the payroll cycle type with its characteristic:",
+        "type": "match",
+        "left": [
+            "Monthly",
+            "Bi-Monthly",
+            "Weekly",
+            "Daily Wages"
+        ],
+        "right": [
+            "Standard Salaried",
+            "Some specific sectors",
+            "Labor contracts",
+            "Casual labor"
+        ]
+    },
+    {
+        "q": "Unscramble the document required for reporting movement of goods worth over fifty thousand.",
+        "type": "word_scramble",
+        "answer": "EWAYBILL",
+        "decoys": "X"
+    },
+    {
+        "q": "Tally does not support 'Undo' for a statutory payment voucher once accepted.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Complete the tax adjustment logic for sales returns.",
+        "type": "inline_dropdown",
+        "text": "If goods are returned by a customer, a [0] note is issued, which reduces the [1] tax liability.",
+        "dropdowns": [
+            {
+                "correct": "Credit",
+                "options": [
+                    "Debit",
+                    "Credit",
+                    "Delivery"
+                ]
+            },
+            {
+                "correct": "Output",
+                "options": [
+                    "Input",
+                    "Output",
+                    "Exempt"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the role of 'GST Form 16A/16B' in Tally?",
+        "type": "mcq",
+        "o": [
+            "It is a TDS certificate; GST uses different forms",
+            "It is a GST return",
+            "It is a payment receipt",
+            "It is an invoice format"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT typically generated from the Tally Tax Audit module?",
+        "type": "mcq",
+        "o": [
+            "Form 3CD",
+            "Form 3CA",
+            "GSTR-9",
+            "Form 3CB"
+        ]
+    },
+    {
+        "q": "Name the prefix used for e-invoice IRN generation.",
+        "type": "short_answer",
+        "answers": [
+            "IRN",
+            "Invoice Reference Number"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Match GST portal terms with their meanings.",
+        "type": "memory",
+        "pairs": {
+            "B2B": "Business to Business",
+            "B2C": "Business to Consumer",
+            "HSN": "Goods Classification Code",
+            "SAC": "Services Classification Code"
+        }
+    },
+    {
+        "q": "The '_____' report lists all vouchers where ITC has been provisionally claimed but not matched.",
+        "type": "fill_blank",
+        "answers": [
+            "ITC Mismatch"
+        ],
+        "other_options": [
+            "GSTR-1",
+            "Payroll",
+            "Stock",
+            "Cash"
+        ]
+    },
+    {
+        "q": "A 'Depreciation Schedule' is part of the Taxation module in Tally.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "How do you treat 'Bad Debts' recovered in GST in Tally?",
+        "type": "mcq",
+        "o": [
+            "Journal Voucher crediting the customer and debiting Bank; GST is payable on the supply",
+            "Ignore tax",
+            "Sales Return",
+            "Purchase Return"
+        ]
+    },
+    {
+        "q": "Due date for depositing TDS (day of the following month).",
+        "type": "slider",
+        "min": 1,
+        "max": 15,
+        "correct": 7
+    },
+    {
+        "q": "What is the primary objective of configuring 'GST Rule 36(4)' compliance in Tally?",
+        "type": "mcq",
+        "o": [
+            "To restrict provisional ITC to 5% of matched credit in GSTR-2B",
+            "To increase tax rates",
+            "To disable e-invoicing",
+            "To merge ledgers"
+        ]
+    },
+    {
+        "q": "How does Tally Prime handle 'ISD (Input Service Distributor) Invoice' allocation to units?",
+        "type": "mcq",
+        "o": [
+            "Through ISD Credit Received ledger and distribution journals",
+            "Through standard sales voucher",
+            "Through payment voucher",
+            "Through contra entry"
+        ]
+    },
+    {
+        "q": "The _____ feature allows reclassification of ITC from IGST to CGST/SGST heads during payment.",
+        "type": "fill_blank",
+        "answers": [
+            "Set-off Configuration"
+        ],
+        "other_options": [
+            "Voucher Alteration",
+            "Tax Rate",
+            "Ledger Merge",
+            "Stock Transfer"
+        ]
+    },
+    {
+        "q": "Tally's 'GSTR-9 Offline Tool' allows direct filing of annual returns without exporting JSON.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Name the specific report that validates invoice-level data against E-Invoice schema before IRP submission.",
+        "type": "short_answer",
+        "answers": [
+            "E-Invoice Validation Report",
+            "Pre-submission Validation"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the accounting treatment of 'Cross Charge' between distinct persons under GST in Tally?",
+        "type": "mcq",
+        "o": [
+            "Recorded as a taxable outward supply in the providing unit",
+            "Recorded as exempt supply",
+            "Recorded as nil-rated",
+            "Recorded as purchase return"
+        ]
+    },
+    {
+        "q": "Match tax ledgers to their behavior in Tally.",
+        "type": "memory",
+        "pairs": {
+            "Output CGST": "Increases Current Liabilities",
+            "Input IGST": "Increases Current Assets",
+            "TDS Payable": "Statutory Liability",
+            "Advance Tax Paid": "Asset Account"
+        }
+    },
+    {
+        "q": "Match the advanced ITC concept with its treatment in Tally:",
+        "type": "match",
+        "left": [
+            "ITC on Capital Goods",
+            "Common Credit for Exempt Supplies",
+            "ISD Credit",
+            "ITC Reversal Rule 42"
+        ],
+        "right": [
+            "Full ITC if not blocked",
+            "Apportioned per Rule 42/43",
+            "Distributed via ISD Invoice",
+            "Journal Voucher for Reversal"
+        ]
+    },
+    {
+        "q": "Which parameter defines the 'Validity Period' for a lower TDS certificate in a party master?",
+        "type": "mcq",
+        "o": [
+            "Lower Deduction Certificate Details section",
+            "Contact Details",
+            "Bank Details",
+            "GST Details"
+        ]
+    },
+    {
+        "q": "Tally supports automatic calculation of interest under Section 201(1A) for late TDS remittance.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Name the ledger type used to record 'TCS on Goods Purchased for Self-Consumption'.",
+        "type": "short_answer",
+        "answers": [
+            "TCS Receivable",
+            "Current Assets"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of these is NOT a valid state in Tally's GST configuration?",
+        "type": "odd_one_out",
+        "options": [
+            "Kerala",
+            "Maharashtra",
+            "Texas",
+            "Gujarat",
+            "Delhi"
+        ],
+        "correct": "Texas"
+    },
+    {
+        "q": "What triggers the 'GST Liability on Advance Received' adjustment entry automatically?",
+        "type": "mcq",
+        "o": [
+            "Raising the final invoice against the advance receipt",
+            "Receiving payment",
+            "Closing the books",
+            "Deleting the advance entry"
+        ]
+    },
+    {
+        "q": "The _____ voucher type is used to transfer stock between two GSTINs of the same entity with tax implications.",
+        "type": "fill_blank",
+        "answers": [
+            "Stock Journal"
+        ],
+        "other_options": [
+            "Sales",
+            "Purchase",
+            "Receipt",
+            "Payment"
+        ]
+    },
+    {
+        "q": "What is the purpose of 'Additional Cost of Purchase' configuration in GST imports?",
+        "type": "mcq",
+        "o": [
+            "To capitalize customs duty and freight into the inventory value and ITC",
+            "To reduce sales price",
+            "To eliminate tax",
+            "To create payroll"
+        ]
+    },
+    {
+        "q": "Categorize these as Zero-rated or Exempt supplies.",
+        "type": "swipe_cards",
+        "left_label": "Zero-rated",
+        "right_label": "Exempt",
+        "cards": {
+            "Exports to other countries": "left",
+            "SEZ Supplies": "left",
+            "Fresh Vegetables": "right",
+            "Educational Books": "right"
+        }
+    },
+    {
+        "q": "Match the GSTR form with its advanced requirement:",
+        "type": "match",
+        "left": [
+            "GSTR-9",
+            "GSTR-9C",
+            "GSTR-10",
+            "ITC-03"
+        ],
+        "right": [
+            "Annual Return",
+            "Reconciliation & Audit",
+            "Final Return (Cancellation)",
+            "ITC Reversal on Composition Switch"
+        ]
+    },
+    {
+        "q": "Tally's 'Exception Report for E-Way Bill' can detect the distance mismatch for inter-state supplies.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "How do you configure Tally to handle 'Mixed Supply' and 'Composite Supply' distinctly?",
+        "type": "mcq",
+        "o": [
+            "By setting 'Taxability' and principal item mapping in stock group or service ledgers",
+            "By creating a new company",
+            "By disabling GST",
+            "By merging all items"
+        ]
+    },
+    {
+        "q": "Name the master where 'Part B' of E-Way Bill (Vehicle details) can be auto-updated via API in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "E-Way Bill Master",
+            "Transporter Master"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____ ' feature enables Tally to directly connect to IRP for generating IRN without manual intervention.",
+        "type": "fill_blank",
+        "answers": [
+            "Direct API Integration"
+        ],
+        "other_options": [
+            "Remote Access",
+            "Audit Trail",
+            "Data Synchronization",
+            "Export"
+        ]
+    },
+    {
+        "q": "Tally allows the creation of a 'Negative Liability' for GST in case of excessive advance tax payment.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Classify these settings under F11 Features or F12 Configuration.",
+        "type": "swipe_cards",
+        "left_label": "F11 Features",
+        "right_label": "F12 Configuration",
+        "cards": {
+            "Enable GST": "left",
+            "Enable TDS": "left",
+            "Provide Buyer Details": "right",
+            "Show HSN details in invoice": "right"
+        }
+    },
+    {
+        "q": "Which specific voucher records 'Import of Services' under Reverse Charge?",
+        "type": "mcq",
+        "o": [
+            "Journal Voucher or Purchase Voucher with RCM flag",
+            "Receipt Voucher",
+            "Contra Voucher",
+            "Stock Journal"
+        ]
+    },
+    {
+        "q": "Unscramble the abbreviation for the individual income tax return.",
+        "type": "word_scramble",
+        "answer": "ITR",
+        "decoys": "BG"
+    },
+    {
+        "q": "Match the advanced payroll concept with its configuration:",
+        "type": "match",
+        "left": [
+            "Arrears Relief u/s 89(1)",
+            "Gratuity Projection",
+            "Leave Encashment",
+            "NPS Deduction"
+        ],
+        "right": [
+            "Form 10E Data",
+            "Actuarial Valuation Input",
+            "Pay Head Calculation",
+            "80CCD(1) Component"
+        ]
+    },
+    {
+        "q": "What is the role of 'User Defined Functions' in Tally Payroll Tax Computation?",
+        "type": "mcq",
+        "o": [
+            "To write complex custom logic for tax slabs or exemptions",
+            "To create new menus",
+            "To print reports",
+            "To manage users"
+        ]
+    },
+    {
+        "q": "Name the specific area in Tally where 'Perquisites' like rent-free accommodation are quantified for tax.",
+        "type": "short_answer",
+        "answers": [
+            "Employee Income Tax Master",
+            "Perquisites Section"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' report in Payroll summarizes the projected annual tax liability for all employees.",
+        "type": "fill_blank",
+        "answers": [
+            "Income Tax Projection"
+        ],
+        "other_options": [
+            "Payslip",
+            "Attendance",
+            "PF Report",
+            "ESI"
+        ]
+    },
+    {
+        "q": "Tally can automatically compute 'Deferred Tax' based on timing differences in fixed assets.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which condition necessitates the creation of a 'Service Tax Ledger' even in the GST era in Tally?",
+        "type": "mcq",
+        "o": [
+            "To account for legacy transactions from pre-GST period",
+            "For new GST invoices",
+            "For payroll",
+            "For inventory management"
+        ]
+    },
+    {
+        "q": "How does Tally handle 'Job Work Returns' under GST after the stipulated period?",
+        "type": "mcq",
+        "o": [
+            "Auto-generates a Deemed Supply voucher if not returned within the statutory limit",
+            "Deletes the entry",
+            "Ignores tax",
+            "Converts to exempt supply"
+        ]
+    },
+    {
+        "q": "Match the TDS entity with its identification:",
+        "type": "match",
+        "left": [
+            "Deductor",
+            "Deductee",
+            "PAN of Non-Deductor",
+            "No PAN"
+        ],
+        "right": [
+            "TAN",
+            "PAN",
+            "PAN of Recipient",
+            "Higher TDS Rate"
+        ]
+    },
+    {
+        "q": "The 'TDS Provisional Assessment' feature allows partial deduction based on estimated income.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the mechanism to track 'GST Refund Voucher' for inverted duty structure?",
+        "type": "mcq",
+        "o": [
+            "Create a receipt voucher debiting bank, crediting GST Refund Receivable",
+            "Create a sales voucher",
+            "Create a journal for reversal",
+            "Create a purchase voucher"
+        ]
+    },
+    {
+        "q": "Name the Tally utility that checks for duplicate IRN generation before pushing to the portal.",
+        "type": "short_answer",
+        "answers": [
+            "IRN Duplicate Check",
+            "Validation Utility"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Select the correct terms for transactional data entry.",
+        "type": "inline_dropdown",
+        "text": "When providing [0] details in Tally, you must specify the [1] rate and nature of transaction.",
+        "dropdowns": [
+            {
+                "correct": "GST",
+                "options": [
+                    "Bank",
+                    "GST",
+                    "Dispatch"
+                ]
+            },
+            {
+                "correct": "Tax",
+                "options": [
+                    "Discount",
+                    "Tax",
+                    "Interest"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The _____ configuration enables capturing of 'Place of Delivery' distinct from 'Place of Supply' in invoices.",
+        "type": "fill_blank",
+        "answers": [
+            "Shipping Details"
+        ],
+        "other_options": [
+            "Tax Unit",
+            "Voucher Type",
+            "Party Details",
+            "Ledger"
+        ]
+    },
+    {
+        "q": "Tally supports 'Vendor Wise Reconciliation' for TCS collections.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble the abbreviation for shared GST on interstate trade.",
+        "type": "word_scramble",
+        "answer": "IGST",
+        "decoys": "VW"
+    },
+    {
+        "q": "What is the practical use of 'Multi-Accounting Year' in statutory compliance?",
+        "type": "mcq",
+        "o": [
+            "To generate financial and tax reports for overlapping audit periods",
+            "To delete old data",
+            "To increase tax rates",
+            "To merge companies"
+        ]
+    },
+    {
+        "q": "How do you activate 'Goods Transport Agency (GTA)' GST rate configuration in Tally?",
+        "type": "mcq",
+        "o": [
+            "Select 'GTA' as the service type in stock item or ledger creation",
+            "Change the company name",
+            "Disable TDS",
+            "Create a bank ledger"
+        ]
+    },
+    {
+        "q": "Identify the report used to catch errors before tax filing.",
+        "type": "inline_dropdown",
+        "text": "In Tally, the [0] report helps identify errors or incomplete information before filing [1] returns.",
+        "dropdowns": [
+            {
+                "correct": "Exception",
+                "options": [
+                    "Exception",
+                    "Summary",
+                    "Daybook"
+                ]
+            },
+            {
+                "correct": "GST",
+                "options": [
+                    "Income",
+                    "GST",
+                    "Property"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Match the Section with its TDS deduction scenario:",
+        "type": "match",
+        "left": [
+            "194DA",
+            "194EE",
+            "194F",
+            "194LA"
+        ],
+        "right": [
+            "Life Insurance Policy",
+            "NSS Deposits",
+            "Repurchase by MF/UTI",
+            "Compensation on Immovable Property"
+        ]
+    },
+    {
+        "q": "Tally's 'Data Migration' tool preserves all statutory tax masters when upgrading from Tally ERP 9.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which report analyzes the 'Tax Gap' between GSTR-1 and GSTR-3B?",
+        "type": "mcq",
+        "o": [
+            "GSTR-1 vs GSTR-3B Comparison",
+            "Balance Sheet",
+            "Stock Summary",
+            "Payroll Register"
+        ]
+    },
+    {
+        "q": "Name the advanced feature that splits a single invoice into multiple tax rates for different line items automatically.",
+        "type": "short_answer",
+        "answers": [
+            "Multi-Tax Invoice",
+            "Item-wise Tax Configuration"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "TDS rate on winning from lotteries (percent) under Section 194B.",
+        "type": "slider",
+        "min": 10,
+        "max": 40,
+        "correct": 30
+    },
+    {
+        "q": "The _____ flag in a voucher entry suspends the tax liability for that specific transaction until the actual supply occurs.",
+        "type": "fill_blank",
+        "answers": [
+            "Tax Suspense"
+        ],
+        "other_options": [
+            "Cancel",
+            "Void",
+            "Delete",
+            "Adjust"
+        ]
+    },
+    {
+        "q": "GST Audit Report (GSTR-9C) requires reconciliation of turnover between audited financials and GST returns.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the consequence of selecting 'Composition Scheme' incorrectly mid-year in Tally?",
+        "type": "mcq",
+        "o": [
+            "System warning and potential reversal of ITC via journal",
+            "Automatic tax increase",
+            "Account lock",
+            "Loss of data"
+        ]
+    },
+    {
+        "q": "Match Tally voucher keys for taxation entries.",
+        "type": "memory",
+        "pairs": {
+            "F7": "Journal Voucher",
+            "F8": "Sales Voucher",
+            "F9": "Purchase Voucher",
+            "F5": "Payment Voucher"
+        }
+    },
+    {
+        "q": "Match the payroll earning with its taxability:",
+        "type": "match",
+        "left": [
+            "Basic Pay",
+            "Transport Allowance",
+            "Gratuity (Govt)",
+            "Leave Travel Allowance"
+        ],
+        "right": [
+            "Fully Taxable",
+            "Partially Exempt",
+            "Fully Exempt",
+            "Exempt subject to limits"
+        ]
+    },
+    {
+        "q": "Tally can process 'Final Settlement' for an employee automatically calculating all pending dues and deductions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which method is used to block ITC on certain expenditures like personal use in Tally?",
+        "type": "mcq",
+        "o": [
+            "ITC Restriction List in Tax Configuration",
+            "Deleting the entry",
+            "Changing the year",
+            "Altering the bank"
+        ]
+    },
+    {
+        "q": "Name the report that tracks all debit/credit notes issued to comply with GSTR-1 reporting.",
+        "type": "short_answer",
+        "answers": [
+            "GSTR-1 Document Summary",
+            "Debit/Credit Note Register"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which is NOT an income tax exemption section in Payroll?",
+        "type": "odd_one_out",
+        "options": [
+            "Section 80C",
+            "Section 80D",
+            "Section 80G",
+            "Section 80Z",
+            "Section 80E"
+        ],
+        "correct": "Section 80Z"
+    },
+    {
+        "q": "The '_____ ' TDS feature calculates the tax on the aggregate of all bills for a party within a contract.",
+        "type": "fill_blank",
+        "answers": [
+            "Cumulative Threshold"
+        ],
+        "other_options": [
+            "Single Bill",
+            "Invoice Date",
+            "Payment Terms",
+            "Ledger"
+        ]
+    },
+    {
+        "q": "Categorize these as TCS or TDS.",
+        "type": "swipe_cards",
+        "left_label": "TCS",
+        "right_label": "TDS",
+        "cards": {
+            "Scrap Sales Collection": "left",
+            "Timber Sales": "left",
+            "Professional Fees Deduction": "right",
+            "Rent Paid Deduction": "right"
+        }
+    },
+    {
+        "q": "Tally can manage 'UIN Holders' (UN Agencies) by recording supply as 'Deemed Export'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble the system that replaces physical transport waybills.",
+        "type": "word_scramble",
+        "answer": "EWAY",
+        "decoys": "PQX"
+    },
+    {
+        "q": "What is the purpose of 'Statutory Audit Features' in Tally's Audit & Compliance menu?",
+        "type": "mcq",
+        "o": [
+            "To provide assisted audit trails and vouching tools for statutory compliance",
+            "To create new companies",
+            "To manage inventory levels",
+            "To reconcile payroll"
+        ]
+    },
+    {
+        "q": "How do you handle 'Assessment Year' vs 'Financial Year' configuration in payroll taxation?",
+        "type": "mcq",
+        "o": [
+            "Set the Financial Year in Company; Payroll calculates Tax for Assessment Year",
+            "Ignore the difference",
+            "Create two companies",
+            "Disable tax"
+        ]
+    },
+    {
+        "q": "Match the advanced GST concept with its ledger:",
+        "type": "match",
+        "left": [
+            "E-Commerce Operator TCS",
+            "Import IGST",
+            "Reverse Charge Purchase",
+            "GST Cess Payable"
+        ],
+        "right": [
+            "TCS by ECO Ledger",
+            "Customs IGST Ledger",
+            "RCM Liability Ledger",
+            "Compensation Cess Ledger"
+        ]
+    },
+    {
+        "q": "Tally's 'Retention Price' setting in TCS impacts the collection amount.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Select the correct terms for Professional Tax liability.",
+        "type": "inline_dropdown",
+        "text": "When an employer deducts Professional Tax, it is a [0] liability and is grouped under [1] and Taxes.",
+        "dropdowns": [
+            {
+                "correct": "Statutory",
+                "options": [
+                    "Personal",
+                    "Statutory",
+                    "Contingent"
+                ]
+            },
+            {
+                "correct": "Duties",
+                "options": [
+                    "Provisions",
+                    "Duties",
+                    "Creditors"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which core engine calculates the differential tax output when an invoice is modified after filing?",
+        "type": "mcq",
+        "o": [
+            "Amendment and Rectification Workflow",
+            "Sales Register",
+            "Stock Journal",
+            "Bank Reconciliation"
+        ]
+    },
+    {
+        "q": "Name the specific function used to settle TDS Receivable against TDS Payable in group company scenarios.",
+        "type": "short_answer",
+        "answers": [
+            "Contra Entry",
+            "Journal Adjustment"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The _____ document type is used to report export invoices without payment of IGST under LUT.",
+        "type": "fill_blank",
+        "answers": [
+            "Export (LUT)"
+        ],
+        "other_options": [
+            "Tax Invoice",
+            "Bill of Supply",
+            "Credit Note",
+            "Debit Note"
+        ]
+    },
+    {
+        "q": "Tally allows automated updating of HSN codes via a master utility without altering individual stock items.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the 'Time of Supply' logic primarily based on in Tally's invoice configuration?",
+        "type": "mcq",
+        "o": [
+            "Invoice date or Payment date, whichever is earlier",
+            "Delivery date only",
+            "Order date only",
+            "System date"
+        ]
+    },
+    {
+        "q": "How do you record a 'Works Contract' supply that involves both material and service?",
+        "type": "mcq",
+        "o": [
+            "Create a composite tax ledger or item with appropriate SAC/HSN and tax rate",
+            "Use standard sales voucher",
+            "Use payment voucher",
+            "Ignore service component"
+        ]
+    },
+    {
+        "q": "Match the advanced payroll deduction with its limit:",
+        "type": "match",
+        "left": [
+            "EPF",
+            "ESI",
+            "NPS (Employer)",
+            "Voluntary PF"
+        ],
+        "right": [
+            "12% of Basic + DA",
+            "0.75% of Gross (Employee)",
+            "10% of Basic + DA (14% CG)",
+            "Up to statutory limit"
+        ]
+    },
+    {
+        "q": "Unscramble the record of tax deducted given to the deductee.",
+        "type": "word_scramble",
+        "answer": "CERTIFICATE",
+        "decoys": "J"
+    },
+    {
+        "q": "Tally Prime supports 'Sandbox' mode for testing tax configurations without affecting live data.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which advanced filter in GST Reports allows viewing transactions specific to 'SEZ Developers'?",
+        "type": "mcq",
+        "o": [
+            "Supply Type Filter > SEZ with/without payment",
+            "Date filter",
+            "Voucher filter",
+            "Amount filter"
+        ]
+    },
+    {
+        "q": "Name the head under which 'Late Fees on TDS Return' is booked in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "Interest and Late Fee Payable",
+            "Expenses"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' option in purchase entries auto-reverses ITC if payment is not made to MSME within 45 days.",
+        "type": "fill_blank",
+        "answers": [
+            "MSME Payment Compliance"
+        ],
+        "other_options": [
+            "GST Due",
+            "Tax Reversal",
+            "Invoice Aging",
+            "Payment Reminder"
+        ]
+    },
+    {
+        "q": "Tally's 'Data Auditor' can detect changes made to statutory masters after the financial year is locked.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the effect of enabling 'Electronic Liability Register' in Tally?",
+        "type": "mcq",
+        "o": [
+            "It tracks all tax debits and credits akin to the GST portal ledger",
+            "It creates a new company",
+            "It deletes old entries",
+            "It prints invoices"
+        ]
+    },
+    {
+        "q": "How do you handle 'Liquidated Damages' under GST in Tally?",
+        "type": "mcq",
+        "o": [
+            "Record as a debit note/credit note with applicable GST if it constitutes a supply",
+            "Ignore completely",
+            "Record as salary",
+            "Record as inventory"
+        ]
+    },
+    {
+        "q": "Choose the correct invoice types based on registration status.",
+        "type": "inline_dropdown",
+        "text": "A [0] invoice is generated when making a sale to an unregistered dealer, while a [1] invoice is for B2B.",
+        "dropdowns": [
+            {
+                "correct": "B2C",
+                "options": [
+                    "B2B",
+                    "B2C",
+                    "RCM"
+                ]
+            },
+            {
+                "correct": "Tax",
+                "options": [
+                    "Tax",
+                    "Retail",
+                    "Delivery"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Match the statutory return with the required annexures:",
+        "type": "match",
+        "left": [
+            "GSTR-9",
+            "9C",
+            "GSTR-1",
+            "3B"
+        ],
+        "right": [
+            "15 Tables",
+            "Part A & B",
+            "12 Sections",
+            "6 Sections"
+        ]
+    },
+    {
+        "q": "The 'Auto Reversal of ITC' feature can be triggered based on a predefined number of days of unpaid bills.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary risk of mismanaging 'Statutory Configuration' across multiple tax units?",
+        "type": "mcq",
+        "o": [
+            "Incorrect tax calculation and liability reporting for different states",
+            "Faster performance",
+            "Lower tax liability",
+            "Automatic filing"
+        ]
+    },
+    {
+        "q": "Name the report that consolidates all GST liabilities across different tax units.",
+        "type": "short_answer",
+        "answers": [
+            "Consolidated GST Liability Report",
+            "GST Group Summary"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' master is essential for recording TDS on sale of immovable property in Tally.",
+        "type": "fill_blank",
+        "answers": [
+            "Nature of Payment 194IA"
+        ],
+        "other_options": [
+            "Nature of Collection",
+            "Tax Unit",
+            "Voucher",
+            "Stock Item"
+        ]
+    },
+    {
+        "q": "Match e-Way bill components to their meaning.",
+        "type": "memory",
+        "pairs": {
+            "Part A": "Contains Invoice details",
+            "Part B": "Contains Transporter details",
+            "Validity": "Based on distance traveled",
+            "Portal": "Managed by NIC"
+        }
+    },
+    {
+        "q": "Tally supports 'Budget vs Actual' comparison for tax liabilities.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which feature helps identify 'Dormant Tax Ledgers' that can be cleaned up?",
+        "type": "mcq",
+        "o": [
+            "Master Analysis Report",
+            "GST Audit",
+            "Voucher Verification",
+            "Bank Reconciliation"
+        ]
+    },
+    {
+        "q": "How do you handle 'SEIS/MEIS' duty credit scrips in Tally?",
+        "type": "mcq",
+        "o": [
+            "Record as Other Income and adjust against tax liability if applicable",
+            "Ignore completely",
+            "Record as capital",
+            "Record as loan"
+        ]
+    },
+    {
+        "q": "Match the advanced compliance feature with its purpose:",
+        "type": "match",
+        "left": [
+            "GST Rule 86B",
+            "E-Invoicing Turnover Limit",
+            "QRMP Scheme",
+            "Section 194Q"
+        ],
+        "right": [
+            "1% Cash Payment Rule",
+            "Rs. 5 Crore Threshold",
+            "Quarterly Filing Monthly Payment",
+            "TDS on Purchase of Goods"
+        ]
+    },
+    {
+        "q": "Tally's 'Taxation History' report provides a log of all tax rate changes over time.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Penalty per day for late filing of Nil GSTR-3B under CGST (in Rupees).",
+        "type": "slider",
+        "min": 0,
+        "max": 50,
+        "correct": 10
+    },
+    {
+        "q": "What is the 'Statutory Payment Challan Reconciliation' used for in TDS?",
+        "type": "mcq",
+        "o": [
+            "To match TDS deducted with TDS deposited via challan",
+            "To calculate payroll",
+            "To generate GST returns",
+            "To manage inventory"
+        ]
+    },
+    {
+        "q": "Name the ledger type used to temporarily park tax liability when a transaction is under dispute.",
+        "type": "short_answer",
+        "answers": [
+            "Tax Suspense Ledger",
+            "Contingent Liability"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' setting under GST details ensures that tax is calculated on the reverse charge basis for specified parties.",
+        "type": "fill_blank",
+        "answers": [
+            "Party GST Details > Taxability"
+        ],
+        "other_options": [
+            "Bank Details",
+            "Contact",
+            "Ledger Name",
+            "Opening Balance"
+        ]
+    },
+    {
+        "q": "Tally's 'Group Company' feature allows centralized tax filing for all branches.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the primary advantage of using 'Bill of Entry' references in purchase vouchers?",
+        "type": "mcq",
+        "o": [
+            "Accurate mapping of customs duty and IGST for ITC on imports",
+            "Faster printing",
+            "Discount calculation",
+            "Payroll management"
+        ]
+    },
+    {
+        "q": "How do you treat 'Free Samples' and 'Destroyed Goods' in Tally under GST?",
+        "type": "mcq",
+        "o": [
+            "Reverse ITC on free samples if no consideration; Destroyed goods require ITC reversal",
+            "Ignore both",
+            "Apply full tax",
+            "Claim full ITC"
+        ]
+    },
+    {
+        "q": "Match the payroll computation type with its Tally setting:",
+        "type": "match",
+        "left": [
+            "Fixed Amount",
+            "Percentage of Basic",
+            "Computed Value",
+            "Slab Based"
+        ],
+        "right": [
+            "Conveyance",
+            "HRA",
+            "Arrears Relief",
+            "Income Tax"
+        ]
+    },
+    {
+        "q": "Match payroll forms with their function.",
+        "type": "memory",
+        "pairs": {
+            "Form 16": "Income Tax Certificate",
+            "Form 12BB": "Investment Declaration",
+            "Form 24Q": "Salary TDS Return",
+            "Form 26Q": "Non-Salary TDS Return"
+        }
+    },
+    {
+        "q": "Which is NOT an accepted GST registration type in Tally Prime?",
+        "type": "odd_one_out",
+        "options": [
+            "Regular",
+            "Composition",
+            "Unregistered",
+            "Freelancer",
+            "Consumer"
+        ],
+        "correct": "Freelancer"
+    },
+    {
+        "q": "Swipe for Debit Note vs Credit Note uses.",
+        "type": "swipe_cards",
+        "left_label": "Debit Note",
+        "right_label": "Credit Note",
+        "cards": {
+            "Purchase Return": "left",
+            "Increase in ITC": "left",
+            "Sales Return": "right",
+            "Decrease in Output Tax": "right"
+        }
+    },
+    {
+        "q": "Tally allows backward calculation of tax in 'Tax Inclusive' transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which report identifies 'GST Payable' that has remained unpaid for over 180 days?",
+        "type": "mcq",
+        "o": [
+            "ITC Reversal Due Report",
+            "Sales Register",
+            "Stock Summary",
+            "Cash Flow"
+        ]
+    },
+    {
+        "q": "What is the primary mechanism in Tally to handle 'Cross-Charge' valuation between distinct persons as per Schedule I of CGST Act?",
+        "type": "mcq",
+        "o": [
+            "Journal Voucher with Open Market Value as per Rule 28",
+            "Sales Voucher with Nil Rate",
+            "Purchase Voucher with Zero Value",
+            "Contra Entry with Face Value"
+        ]
+    },
+    {
+        "q": "How does Tally Prime enforce 'Rule 36(4)' restriction on ITC claims beyond the statutory limit?",
+        "type": "mcq",
+        "o": [
+            "By flagging excess provisional credit in the Reconciliation Exception Report",
+            "By deleting the ledger",
+            "By blocking the voucher",
+            "By changing the financial year"
+        ]
+    },
+    {
+        "q": "The '_____' report dynamically calculates ITC reversal under Rule 42 and 43 for common inputs and capital goods.",
+        "type": "fill_blank",
+        "answers": [
+            "ITC Reversal Computation"
+        ],
+        "other_options": [
+            "GSTR-1",
+            "Payroll",
+            "Audit",
+            "Inventory"
+        ]
+    },
+    {
+        "q": "Tally's 'GST Annual Computation' engine can auto-populate Table 8A of GSTR-9 directly from GSTR-2B reconciliation without manual intervention.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Name the specific ledger group used to account for 'Deferred Tax Liability' arising from GST timing differences.",
+        "type": "short_answer",
+        "answers": [
+            "Non-Current Liability",
+            "Deferred Tax"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the impact of configuring 'Continuous Supply of Services' in a party ledger for time of supply?",
+        "type": "mcq",
+        "o": [
+            "Triggers tax liability on milestone completion or payment recognition",
+            "Disables tax",
+            "Delays invoice indefinitely",
+            "Sets rate to zero"
+        ]
+    },
+    {
+        "q": "Categorize these as Direct or Indirect Taxes.",
+        "type": "swipe_cards",
+        "left_label": "Direct Tax",
+        "right_label": "Indirect Tax",
+        "cards": {
+            "Income Tax": "left",
+            "Corporate Tax": "left",
+            "GST": "right",
+            "Custom Duty": "right"
+        }
+    },
+    {
+        "q": "Match the advanced GST adjudication status with its Tally voucher mapping:",
+        "type": "match",
+        "left": [
+            "Notice Received",
+            "Demand Confirmed",
+            "Refund Sanctioned",
+            "Appeal Filed"
+        ],
+        "right": [
+            "Contingent Liability Memo",
+            "Tax Payable Journal",
+            "Refund Receivable Voucher",
+            "Contingent Asset Note"
+        ]
+    },
+    {
+        "q": "Unscramble the basic principle behind GST being a destination-based tax.",
+        "type": "word_scramble",
+        "answer": "CONSUMPTION",
+        "decoys": "Y"
+    },
+    {
+        "q": "Identify the conditions for e-invoicing.",
+        "type": "inline_dropdown",
+        "text": "Under GST, the [0] limit for e-invoicing has been progressively reduced to encompass more [1].",
+        "dropdowns": [
+            {
+                "correct": "Threshold",
+                "options": [
+                    "Maximum",
+                    "Threshold",
+                    "Minimum"
+                ]
+            },
+            {
+                "correct": "Businesses",
+                "options": [
+                    "Consumers",
+                    "Businesses",
+                    "Governments"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which advanced parameter allows for 'Multi-currency tax computation' for foreign outward remittances under TCS?",
+        "type": "mcq",
+        "o": [
+            "TCS Nature of Collection with Forex Rate Type",
+            "Stock Item Master",
+            "GST Rate Setup",
+            "Voucher Type"
+        ]
+    },
+    {
+        "q": "Tally supports 'API-based TRP (Tax Return Preparer) integration' for bulk filing of multiple GSTINs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Name the exception handling routine in Tally for resolving 'Differential Percentage of ITC' in banking and financial services.",
+        "type": "short_answer",
+        "answers": [
+            "Banking ITC Exception",
+            "Rule 38 Exception"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the role of 'Sub-Ledger for TDS' in complex construction contracts?",
+        "type": "mcq",
+        "o": [
+            "To track multiple contract milestones under the same party PAN",
+            "To manage bank accounts",
+            "To print invoices",
+            "To calculate GST"
+        ]
+    },
+    {
+        "q": "Unscramble the name of the accounting software widely used in India for taxation.",
+        "type": "word_scramble",
+        "answer": "TALLY",
+        "decoys": "QK"
+    },
+    {
+        "q": "The '_____' feature allows splitting a single TDS challan across multiple deductee rows for Form 24Q/26Q preparation.",
+        "type": "fill_blank",
+        "answers": [
+            "Challan Bifurcation"
+        ],
+        "other_options": [
+            "Voucher Split",
+            "Data Export",
+            "Batch Processing",
+            "Audit Trail"
+        ]
+    },
+    {
+        "q": "How do you handle 'TDS on Crypto Assets' (Section 194S) in Tally's framework?",
+        "type": "mcq",
+        "o": [
+            "Create a custom Nature of Payment master with 1%/0.1% rate",
+            "Use standard salary TDS",
+            "Use GST module",
+            "Ignore the transaction"
+        ]
+    },
+    {
+        "q": "Match the advanced TDS provision with its non-compliance penalty trigger:",
+        "type": "match",
+        "left": [
+            "Short Deduction",
+            "Late Remittance",
+            "Non-filing of Return",
+            "Incorrect PAN"
+        ],
+        "right": [
+            "Interest 201(1A)",
+            "Interest + Penalty 234E",
+            "Penalty 271H",
+            "Demand u/s 206C"
+        ]
+    },
+    {
+        "q": "Tally's 'TDS Correction Statement' feature allows direct online rectification of Form 26Q without external utilities.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which payroll configuration handles 'Section 80CCD(2) Employer NPS Contribution' deduction correctly for Central Government employees?",
+        "type": "mcq",
+        "o": [
+            "Pay Head linked to '80CCD(2) Employer Contribution' category",
+            "Basic Pay Head",
+            "HRA Pay Head",
+            "Loan Pay Head"
+        ]
+    },
+    {
+        "q": "Name the advanced Income Tax component that requires 'Full Value of Consideration' for computing capital gains on ESOPs in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "Perquisite on ESOP",
+            "ESOP Tax"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' method in Payroll Info calculates the relief under Section 89(1) for arrears of salary.",
+        "type": "fill_blank",
+        "answers": [
+            "Arrears Relief Computation"
+        ],
+        "other_options": [
+            "Standard Deduction",
+            "Gross Up",
+            "Flat Rate",
+            "Tax Slab"
+        ]
+    },
+    {
+        "q": "Tally Prime supports 'Shadow Payroll' for expatriate employees to track hypothetical tax liability.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the purpose of 'Tax Liability on Composite Supply of Works Contract' rule in Tally?",
+        "type": "mcq",
+        "o": [
+            "To segregate goods and services components for correct GST rate",
+            "To apply a single rate",
+            "To delete the transaction",
+            "To calculate payroll"
+        ]
+    },
+    {
+        "q": "How do you configure 'SEIS/MEIS Scrip Utilization' to reduce GST cash outflow?",
+        "type": "mcq",
+        "o": [
+            "By creating a tax adjustment journal referencing the scrip as a tax credit",
+            "By ignoring the scrip",
+            "By deleting the tax liability",
+            "By creating a new company"
+        ]
+    },
+    {
+        "q": "Match the advanced E-way bill scenario with its configuration:",
+        "type": "match",
+        "left": [
+            "Export via Ship",
+            "Multi-Vehicle Transport",
+            "Bulk Material Movement",
+            "Part B Update via API"
+        ],
+        "right": [
+            "Shipping Bill Ref",
+            "Multiple Part-B Slips",
+            "Transporter ID override",
+            "Real-time Integration"
+        ]
+    },
+    {
+        "q": "Tally's 'Consolidated E-Invoice Report' provides a portal-wise IRN status across multiple IRP endpoints.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which master controls the 'Aggregate Turnover' threshold for compulsory E-Invoicing eligibility check in Tally?",
+        "type": "mcq",
+        "o": [
+            "Company Master Statutory Details",
+            "Voucher Type",
+            "Stock Item",
+            "Bank Ledger"
+        ]
+    },
+    {
+        "q": "Name the specific ledger type required to account for 'Input Service Distributor (ISD) credit' receipt in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "ISD Credit Receivable",
+            "Input Tax Credit ISD"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' exception resolution handles the mismatch between the sum of B2C invoices and the HSN summary in GSTR-1.",
+        "type": "fill_blank",
+        "answers": [
+            "HSN Summary Mismatch"
+        ],
+        "other_options": [
+            "Party Ledger",
+            "Tax Rate",
+            "Voucher",
+            "Bank"
+        ]
+    },
+    {
+        "q": "A 'Nil Return' for GSTR-3B can be auto-generated in Tally if there are no purchase or sales transactions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the treatment of 'Deemed Exports' where the recipient provides a 'CT-3' form in Tally?",
+        "type": "mcq",
+        "o": [
+            "Record as Taxable Supply with payment and claim refund subsequently",
+            "Record as Exempt",
+            "Record as Zero-rated",
+            "Ignore the form"
+        ]
+    },
+    {
+        "q": "Select the specific tax rate for precious metals.",
+        "type": "inline_dropdown",
+        "text": "The [0] percent rate is generally applied to precious metals like gold under [1].",
+        "dropdowns": [
+            {
+                "correct": "Three",
+                "options": [
+                    "Zero",
+                    "Three",
+                    "Eighteen"
+                ]
+            },
+            {
+                "correct": "GST",
+                "options": [
+                    "VAT",
+                    "GST",
+                    "TDS"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "How does Tally handle 'Budgetary Support' claims for eligible units under GST?",
+        "type": "mcq",
+        "o": [
+            "Through a separate Refund Receivable ledger tracking the support amount",
+            "Through Sales Voucher",
+            "Through Inventory",
+            "Through Payroll"
+        ]
+    },
+    {
+        "q": "Match the advanced cost center allocation with its tax impact:",
+        "type": "match",
+        "left": [
+            "Exempted Cost Center",
+            "Taxable Cost Center",
+            "Export Cost Center",
+            "R&D Cost Center"
+        ],
+        "right": [
+            "Reversal of ITC",
+            "Full ITC",
+            "Zero-rated ITC Refund",
+            "Specific ITC Block"
+        ]
+    },
+    {
+        "q": "Tally's 'Statutory Audit Documents' feature can automatically draft 'Form 3CD' based on ledger balances.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which advanced TDS scenario requires the use of 'Multiple TAN' configuration in a single company?",
+        "type": "mcq",
+        "o": [
+            "Centralized vs. State-wise TDS deductions under different branches",
+            "Single office payroll",
+            "GST filing",
+            "Inventory management"
+        ]
+    },
+    {
+        "q": "Name the specific report that validates TAN/PAN consistency for all deductors in the TDS module.",
+        "type": "short_answer",
+        "answers": [
+            "TDS Master Validation",
+            "TAN PAN Consistency Report"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' function is used to allocate a single payment to multiple TDS challans or periods.",
+        "type": "fill_blank",
+        "answers": [
+            "Multi-Challan Reconciliation"
+        ],
+        "other_options": [
+            "Voucher Split",
+            "Bank Allocation",
+            "Ledger Merge",
+            "Batch Posting"
+        ]
+    },
+    {
+        "q": "Tally allows automatic calculation of 'TDS on Non-Resident Payments' under DTAA rates without manual override.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the impact of 'Blocked Credit' under Section 17(5) on the ITC Register in Tally?",
+        "type": "mcq",
+        "o": [
+            "Segregated into a permanent reversal ledger, not available for set-off",
+            "Moved to stock value",
+            "Transferred to sales",
+            "Deleted permanently"
+        ]
+    },
+    {
+        "q": "How do you configure 'GST on Liquidated Damages' as per recent advance rulings?",
+        "type": "mcq",
+        "o": [
+            "Create a service ledger with SAC 9997 for 'Other Services' if taxable",
+            "Use nil-rated supply",
+            "Ignore the transaction",
+            "Record as capital receipt"
+        ]
+    },
+    {
+        "q": "Match the complex GST scenario with its valuation rule:",
+        "type": "match",
+        "left": [
+            "Related Party Transaction",
+            "Agent Supply",
+            "Free of Cost Material",
+            "Forex Fluctuation"
+        ],
+        "right": [
+            "Rule 28",
+            "Rule 29",
+            "Rule 27",
+            "Rule 34"
+        ]
+    },
+    {
+        "q": "Tally's 'Electronic Cash Ledger' synchronization with the portal updates challan balances automatically.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which feature enables 'Point of Sale' billing with dynamic QR code for UPI-based GST collection?",
+        "type": "mcq",
+        "o": [
+            "POS Voucher with UPI QR configuration",
+            "Standard Sales Voucher",
+            "Journal Voucher",
+            "Receipt Voucher"
+        ]
+    },
+    {
+        "q": "Name the advance rule that restricts ITC for 'CSR Expenditure' under GST.",
+        "type": "short_answer",
+        "answers": [
+            "Section 17(5)(h)",
+            "Blocked Credit"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' payroll component is used for deducting tax on 'Accommodation Provided to Employees' as per perquisite rules.",
+        "type": "fill_blank",
+        "answers": [
+            "Perquisite Value of Rent-Free Accommodation"
+        ],
+        "other_options": [
+            "Basic Pay",
+            "HRA",
+            "Conveyance",
+            "Medical"
+        ]
+    },
+    {
+        "q": "Tally supports 'Form 12BB' generation as a proof of investment declaration for income tax.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the strategic use of 'Sub-stock items' in handling complex GST rate revisions?",
+        "type": "mcq",
+        "o": [
+            "To maintain granular historical tax rates for the same product across time",
+            "To delete old stock",
+            "To merge companies",
+            "To avoid tax calculation"
+        ]
+    },
+    {
+        "q": "How do you handle 'GST on Delayed Payment Charges' from customers?",
+        "type": "mcq",
+        "o": [
+            "Record as a debit note with the same GST rate as the original supply",
+            "Ignore GST",
+            "Record as exempt income",
+            "Record as capital gain"
+        ]
+    },
+    {
+        "q": "Match the payroll exemption with its relevant limit as configured in Tally:",
+        "type": "match",
+        "left": [
+            "Gratuity",
+            "Leave Encashment",
+            "VRS Compensation",
+            "Retrenchment Compensation"
+        ],
+        "right": [
+            "20 Lakhs",
+            "25 Lakhs (Non-Govt)",
+            "5 Lakhs",
+            "Section 10(10B) Limit"
+        ]
+    },
+    {
+        "q": "Tally's 'Inter-Branch Reconciliation' can auto-consolidate GST liability across distinct persons.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the consequence of enabling 'Track Profit Center' for a tax ledger?",
+        "type": "mcq",
+        "o": [
+            "Enables vertical-wise tax liability assessment for segmental reporting",
+            "Disables the ledger",
+            "Deletes the tax",
+            "Merges ledgers"
+        ]
+    },
+    {
+        "q": "Name the specific algorithm used by Tally to populate GSTR-9 Table 8D (ITC Reclaimed).",
+        "type": "short_answer",
+        "answers": [
+            "Reclaimed ITC Logic",
+            "Reversal Reclaim Matrix"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' configuration in Tally initiates the 'Anti-Profiteering' computation for rate changes.",
+        "type": "fill_blank",
+        "answers": [
+            "Price Variance Analysis"
+        ],
+        "other_options": [
+            "GST Rate Setup",
+            "Voucher",
+            "Payroll",
+            "Ledger"
+        ]
+    },
+    {
+        "q": "Tally supports end-to-end encryption for E-Invoice payloads transmitted to the IRP.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which function key triggers the 'Statutory Reconciliation' dashboard in Tally Prime?",
+        "type": "mcq",
+        "o": [
+            "Customizable Go To (Alt+G) -> Statutory Reconciliation",
+            "F1",
+            "F11",
+            "Ctrl+S"
+        ]
+    },
+    {
+        "q": "How is 'Inter-State Stock Transfer to Agent' treated under Schedule I in Tally?",
+        "type": "mcq",
+        "o": [
+            "As a taxable supply with IGST, valued per Rule 28",
+            "As exempt supply",
+            "As nil-rated",
+            "As purchase return"
+        ]
+    },
+    {
+        "q": "Match the advanced TCS scenario with its configuration:",
+        "type": "match",
+        "left": [
+            "Liberalized Remittance Scheme",
+            "Motor Vehicle > 10L",
+            "Timber Sale",
+            "Scrap Sale"
+        ],
+        "right": [
+            "TCS 206C(1G)",
+            "TCS 206C(1F)",
+            "TCS 206C(1)",
+            "TCS 206C(1)"
+        ]
+    },
+    {
+        "q": "Tally's 'Form 27EQ' generation can be validated against the 'TCS Computation Summary' before filing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the treatment of 'GST on Joint Development Agreement (JDA)' in real estate transactions?",
+        "type": "mcq",
+        "o": [
+            "Landowner share treated as supply against development rights",
+            "Tax-free transaction",
+            "Capital receipt only",
+            "Exempt supply"
+        ]
+    },
+    {
+        "q": "Name the specific field in the employee master that triggers the 'Alternative Tax Regime' (New Regime) calculation.",
+        "type": "short_answer",
+        "answers": [
+            "Tax Regime",
+            "Regime Selection"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' view in TDS reports displays the break-up of surcharge and education cess separately.",
+        "type": "fill_blank",
+        "answers": [
+            "Tax Component Wise"
+        ],
+        "other_options": [
+            "Party Wise",
+            "Date Wise",
+            "Voucher Wise",
+            "Bank Wise"
+        ]
+    },
+    {
+        "q": "Tally's 'Statutory Masters' can be locked by the administrator to prevent unauthorized changes to tax rates.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which algorithm does Tally use to suggest 'Best Judgment Assessment' tax in the absence of returns?",
+        "type": "mcq",
+        "o": [
+            "Manual entry of demand; Tally tracks compliance status only",
+            "Auto-compute based on stock",
+            "Auto-compute based on bank",
+            "Auto-compute based on payroll"
+        ]
+    },
+    {
+        "q": "How do you record 'GST on Directors Remuneration' under RCM as per recent AAR rulings?",
+        "type": "mcq",
+        "o": [
+            "Journal Voucher treating salary as RCM supply if independent director",
+            "Standard Payroll",
+            "Sales Voucher",
+            "Exempt Voucher"
+        ]
+    },
+    {
+        "q": "Match the Tally feature with its audit requirement:",
+        "type": "match",
+        "left": [
+            "GSTR-9C Reconciliation",
+            "TDS Form 3CD",
+            "Cost Audit",
+            "Secretarial Audit"
+        ],
+        "right": [
+            "Turnover vs ECL",
+            "Clause 34",
+            "Cost Ledger",
+            "Compliance Calendar"
+        ]
+    },
+    {
+        "q": "Tally can automatically split 'Mixed Supply' values based on the individual MRP of goods in a combo pack.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the significance of the 'UIN' field in the sales voucher for foreign missions?",
+        "type": "mcq",
+        "o": [
+            "Enables unique identification for refund of tax paid by UN bodies",
+            "Disables tax",
+            "Calculates discount",
+            "Changes the stock"
+        ]
+    },
+    {
+        "q": "Name the specific report in Tally that categorizes 'Outward Supplies' as B2B, B2C, Exports, and Deemed Exports for filing.",
+        "type": "short_answer",
+        "answers": [
+            "GSTR-1 Category Summary",
+            "Outward Supply Categorization"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' feature in Tally Payroll enables linking of investment proofs to specific deduction components.",
+        "type": "fill_blank",
+        "answers": [
+            "Proof of Investment Submission"
+        ],
+        "other_options": [
+            "Attendance",
+            "Voucher",
+            "Cost Center",
+            "Ledger"
+        ]
+    },
+    {
+        "q": "Tally supports 'Offline E-Way Bill Generation' with automatic syncing when connectivity is restored.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which advanced inventory feature integrates directly with GST to track 'Samples and FOC' supplies?",
+        "type": "mcq",
+        "o": [
+            "Separate Godown with 'FOC' stock category",
+            "Sales Order",
+            "Purchase Order",
+            "Batch Expiry"
+        ]
+    },
+    {
+        "q": "How is 'GST on Canteen Charges' recovered from employees treated in Tally?",
+        "type": "mcq",
+        "o": [
+            "As an outward supply by the company, taxable if in the course of business",
+            "As exempt supply",
+            "As salary deduction",
+            "As nil-rated"
+        ]
+    },
+    {
+        "q": "Match the statutory form with the deductor type:",
+        "type": "match",
+        "left": [
+            "Form 16",
+            "Form 16A",
+            "Form 27D",
+            "Form 26QB"
+        ],
+        "right": [
+            "Salary TDS Certificate",
+            "Non-Salary TDS Certificate",
+            "TCS Certificate",
+            "Property Purchase Challan"
+        ]
+    },
+    {
+        "q": "Tally's 'Audit Trail' can log changes made to a voucher even after it has been included in a filed GSTR-1.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the effect of 'Negative Stock' handling on GST reporting in Tally?",
+        "type": "mcq",
+        "o": [
+            "Triggers an exception report; may block auto-generation of GSTR-1",
+            "Improves ITC",
+            "Reduces tax liability",
+            "Accelerates filing"
+        ]
+    },
+    {
+        "q": "Name the specific advance ruling clause covered under 'GST on Notices' from government authorities.",
+        "type": "short_answer",
+        "answers": [
+            "Section 97(2)(e)",
+            "Taxability of services"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' option in the purchase register allows reclassification of inward supplies to match GSTR-2B categorization.",
+        "type": "fill_blank",
+        "answers": [
+            "Recategorize"
+        ],
+        "other_options": [
+            "Delete",
+            "Void",
+            "Print",
+            "Export"
+        ]
+    },
+    {
+        "q": "Tally's 'Section 194Q' compliance automatically switches off TDS when TCS u/s 206C(1H) is applicable.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which specialized TDS report handles 'Non-Resident Sportsmen/Sports Association' payments?",
+        "type": "mcq",
+        "o": [
+            "Nature of Payment 194E Master Analysis",
+            "GSTR-1",
+            "Salary Report",
+            "Inventory Audit"
+        ]
+    },
+    {
+        "q": "How do you configure 'Tax Deduction at Higher Rate' for non-filers of returns as per Section 206AB?",
+        "type": "mcq",
+        "o": [
+            "Activate 'Higher TDS Rate' flag in Party Ledger based on portal validation",
+            "Increase the stock price",
+            "Change the financial year",
+            "Alter the company name"
+        ]
+    },
+    {
+        "q": "Match the complex compliance check with its Tally tool:",
+        "type": "match",
+        "left": [
+            "GSTR-2B vs Books",
+            "PAN-Aadhaar Link",
+            "MSME Payment 45 days",
+            "E-Invoice Enablement"
+        ],
+        "right": [
+            "Reconciliation Dashboard",
+            "Statutory Audit",
+            "Payment Due Report",
+            "Stock Item Configuration"
+        ]
+    },
+    {
+        "q": "Tally's 'XML/JSON Schema Validator' for E-Way Bill ensures compliance with NIC API standards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary risk of using 'Batch Processing' for statutory entries without review?",
+        "type": "mcq",
+        "o": [
+            "Mass generation of incorrect tax liabilities and erroneous filings",
+            "Faster processing",
+            "Automatic backups",
+            "Improved accuracy"
+        ]
+    },
+    {
+        "q": "Name the report that provides a '360-degree view' of a Party's tax exposure including GST, TDS, and TCS.",
+        "type": "short_answer",
+        "answers": [
+            "Party Tax Dashboard",
+            "360 Tax View"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' feature in the Payroll module computes hypothetical tax liability for employees nearing retirement.",
+        "type": "fill_blank",
+        "answers": [
+            "Tax Projection"
+        ],
+        "other_options": [
+            "Attendance",
+            "Loan",
+            "Basic Pay",
+            "Gratuity"
+        ]
+    },
+    {
+        "q": "Tally supports 'International Financial Reporting Standards (IFRS)' alongside Indian Tax compliances in the same data.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the fundamental architectural shift in Tally Prime's tax engine compared to Tally ERP 9 for handling concurrent multi-threaded tax computations?",
+        "type": "mcq",
+        "o": [
+            "Real-time in-memory processing with dynamic schema adaptation",
+            "Flat-file processing",
+            "Single-threaded batch processing",
+            "Manual calculation override"
+        ]
+    },
+    {
+        "q": "How does Tally's 'Continuous Tax Compliance Engine' handle the scenario where a retrospective GST rate change is notified by the GST Council?",
+        "type": "mcq",
+        "o": [
+            "Through 'Effective Date' backtracking in Tax Rate Setup with auto-correction flags",
+            "Requires manual data deletion",
+            "Ignores the change",
+            "Creates a new company"
+        ]
+    },
+    {
+        "q": "The '_____' framework in TDL (Tally Definition Language) allows overriding the default set-off hierarchy for IGST/CGST/SGST.",
+        "type": "fill_blank",
+        "answers": [
+            "Tax Set-off Matrix"
+        ],
+        "other_options": [
+            "Voucher Customization",
+            "Print Report",
+            "User Management",
+            "Data Export"
+        ]
+    },
+    {
+        "q": "Tally Prime's 'GST Suvidha Provider (GSP) Agnostic' design allows simultaneous direct API integration with multiple GSPs for load balancing.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Name the specific TDL object that controls the generation of the 'E-Invoice JSON' payload schema as per the latest PEPPOL standards.",
+        "type": "short_answer",
+        "answers": [
+            "E-Invoice Schema Object",
+            "XML Generator"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the impact of configuring 'Negative Tax Liability' tolerance in a multi-GSTIN environment?",
+        "type": "mcq",
+        "o": [
+            "Allows cross-utilization of excess IGST credit between different GSTINs via ISD",
+            "Crashes the system",
+            "Deletes the master data",
+            "Resets the financial year"
+        ]
+    },
+    {
+        "q": "Match the advanced TCS crypto/hash based compliance with its mechanism:",
+        "type": "match",
+        "left": [
+            "IRN Hash Generation",
+            "E-Way Bill JSON",
+            "GSTR-1 Hash",
+            "TDS Return Token"
+        ],
+        "right": [
+            "SHA-256",
+            "Base64 Encoding",
+            "Digital Signature",
+            "CSRF Token"
+        ]
+    },
+    {
+        "q": "Which Expert TDS feature calculates 'Net Present Value' of TDS impact on long-term infrastructure contracts?",
+        "type": "mcq",
+        "o": [
+            "Custom TDL Integration for Financial Modeling",
+            "Standard TDS Computation",
+            "GSTR Report",
+            "Payroll Module"
+        ]
+    },
+    {
+        "q": "Tally's 'Tax Deduction at Source' engine can simulate the 'Withholding Tax' impact of a Double Taxation Avoidance Agreement (DTAA) based on a dynamic residency table.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Name the advanced payroll integration protocol used to sync Tally data with SFTP-based pension fund managers for NPS contributions.",
+        "type": "short_answer",
+        "answers": [
+            "Secure File Transfer Protocol",
+            "SFTP Sync"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the primary function of the 'Statutory Lock' and 'Digital Signature' feature in the context of GSTR-9C certification?",
+        "type": "mcq",
+        "o": [
+            "To freeze audited tax ledgers and embed auditor's DSC for non-repudiation",
+            "To delete transactions",
+            "To print invoices",
+            "To create a backup"
+        ]
+    },
+    {
+        "q": "The '_____' algorithm within Tally's GST engine determines the 'Place of Supply' for over-the-top (OTT) services based on IP geolocation data input.",
+        "type": "fill_blank",
+        "answers": [
+            "Rule 8(14) determination"
+        ],
+        "other_options": [
+            "Rule 5",
+            "Rule 10",
+            "Rule 12",
+            "Rule 15"
+        ]
+    },
+    {
+        "q": "How do you handle 'Dynamic Currency Conversion' tax implications for international e-commerce transactions in Tally?",
+        "type": "mcq",
+        "o": [
+            "Custom Voucher Type with Multi-Currency Tax Assessment at RBI reference rate",
+            "Ignore currency",
+            "Use fixed INR rate",
+            "Disable GST"
+        ]
+    },
+    {
+        "q": "Match the expert TDL configuration with its compliance outcome:",
+        "type": "match",
+        "left": [
+            "Custom Tax Object",
+            "Dynamic Audit Log",
+            "API Endpoint Hook",
+            "User Defined Function"
+        ],
+        "right": [
+            "Override Tax Calculation",
+            "Real-time Change Tracking",
+            "Portal Integration",
+            "Complex Payroll Formula"
+        ]
+    },
+    {
+        "q": "Tally's 'Data Vault' technology allows forensic extraction of deleted statutory vouchers for SFIO/ED investigations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the root cause of the 'HSN Mismatch Propagation Error' in complex manufacturing BOMs?",
+        "type": "mcq",
+        "o": [
+            "Inheritance conflict between finished goods HSN and raw material HSN in manufacturing journal",
+            "Company setup error",
+            "Ledger name mismatch",
+            "Date error"
+        ]
+    },
+    {
+        "q": "Name the advanced RCM scenario requiring manual split of 'GST on Ocean Freight' based on CIF value proportions in Tally.",
+        "type": "short_answer",
+        "answers": [
+            "Reverse Charge on Ocean Freight",
+            "RCM on Ocean Freight"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' report predicts future ITC lapses based on aging of unmatched invoices and Rule 36(4) trends.",
+        "type": "fill_blank",
+        "answers": [
+            "ITC Aging Prediction"
+        ],
+        "other_options": [
+            "GSTR-1",
+            "Payroll",
+            "Stock",
+            "Cash"
+        ]
+    },
+    {
+        "q": "Tally's 'Virtual Tax Unit' concept allows simulation of tax liability without creating a physical statutory unit in the books.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which Expert module handles 'GST on Joint Venture' operations where the JV is an unincorporated AOP?",
+        "type": "mcq",
+        "o": [
+            "Specific Multi-Entity Tax Allocation Framework",
+            "Standard Sales Ledger",
+            "Basic Purchase Voucher",
+            "Contra Entry"
+        ]
+    },
+    {
+        "q": "How does Tally manage 'Security Transaction Tax' (STT) alongside GST for broking entities?",
+        "type": "mcq",
+        "o": [
+            "Parallel statutory ledgers with segregated reporting for STT under Income Tax Act",
+            "Ignores STT",
+            "Merges with GST",
+            "Deletes the entry"
+        ]
+    },
+    {
+        "q": "Match the advanced IT infrastructure requirement with its Tally specification:",
+        "type": "match",
+        "left": [
+            "Load Balanced Server",
+            "Disaster Recovery Site",
+            "High Frequency Data Sync",
+            "Zero Trust Security"
+        ],
+        "right": [
+            "Tally.Server 9",
+            "Tally Auto Backup",
+            "Tally Synchronization",
+            "Tally Vault"
+        ]
+    },
+    {
+        "q": "Tally's 'Algorithmic Trading' module inherently calculates Tax Deducted at Source on speculative income under Section 194Q.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the 'Tax Ledger Chaining' error in complex inter-unit transfers?",
+        "type": "mcq",
+        "o": [
+            "Circular reference in tax set-off leading to infinite loop in tax computation",
+            "Voucher deletion error",
+            "Stock mismatch error",
+            "Payroll error"
+        ]
+    },
+    {
+        "q": "Name the quantum-resistant ledger encryption standard proposed for Tally's future GST portal communication.",
+        "type": "short_answer",
+        "answers": [
+            "Lattice-based Cryptography",
+            "Post-Quantum Cryptography"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' TDL procedure handles the re-computation of tax liability when a company undergoes 'Insolvency and Bankruptcy Code (IBC)' proceedings.",
+        "type": "fill_blank",
+        "answers": [
+            "IBC Resolution Tax Handler"
+        ],
+        "other_options": [
+            "Voucher Entry",
+            "Sales Order",
+            "Purchase Order",
+            "Stock Journal"
+        ]
+    },
+    {
+        "q": "Tally allows a 'Sandbox Mirroring' of the production database for testing IRN portal updates without disrupting live operations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which expert configuration addresses the 'Valuation of Imported Goods' where Customs and GST tax bases diverge due to anti-dumping duty?",
+        "type": "mcq",
+        "o": [
+            "Multi-Taxable Base Value configuration in Purchase Voucher",
+            "Single Value Entry",
+            "Zero Value Entry",
+            "Ignoring the divergence"
+        ]
+    },
+    {
+        "q": "How do you manage 'Tax on Royalty Payments' involving multiple states and distinct persons?",
+        "type": "mcq",
+        "o": [
+            "Cross-charge journal with state-specific ISD distribution",
+            "Single sales entry",
+            "Local purchase entry",
+            "Bank receipt"
+        ]
+    },
+    {
+        "q": "Match the statutory expert report with its end-user:",
+        "type": "match",
+        "left": [
+            "Form 15CA/15CB",
+            "SFT-011",
+            "Form 61A",
+            "GSTR-9C"
+        ],
+        "right": [
+            "Remittance to Non-Resident",
+            "Cash Deposit Report",
+            "Suspicious Transaction",
+            "Chartered Accountant"
+        ]
+    },
+    {
+        "q": "Tally's 'Digital Board Resolution' feature can auto-authorize tax payments exceeding Rs. 1 Crore.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the critical role of the 'Master File Table (MFT)' in Tally's statutory integrity?",
+        "type": "mcq",
+        "o": [
+            "Maintains referential integrity across all transactional and statutory tables",
+            "Prints reports",
+            "Manages users",
+            "Sends emails"
+        ]
+    },
+    {
+        "q": "Name the specific exception class triggered when 'E-Invoice IRP Rate' differs from 'Tally Tax Rate' due to real-time portal override.",
+        "type": "short_answer",
+        "answers": [
+            "IRP Tax Rate Mismatch Exception",
+            "Rate Conflict Exception"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' TDL component handles the complex 'Input Tax Credit Reversal for Banking' non-obstante clause.",
+        "type": "fill_blank",
+        "answers": [
+            "ITC Banking Reversal Rule 38 Processor"
+        ],
+        "other_options": [
+            "GSTR-1 Parser",
+            "Payroll Engine",
+            "Stock Merger",
+            "Ledger Printer"
+        ]
+    },
+    {
+        "q": "Tally's 'Blockchain-based Invoice Reconciliation' allows immutable matching of invoices between supplier and recipient.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which algorithm prevents 'Double Claim of ITC' when a single invoice is mistakenly entered in two branches?",
+        "type": "mcq",
+        "o": [
+            "Invoice Number Uniqueness Constraint across GSTIN and FY",
+            "Date Sorting",
+            "Amount Matching",
+            "Party Name Matching"
+        ]
+    },
+    {
+        "q": "How is 'Tax on Extended Warranty' treated under the prospective/retrospective rate change regime in Tally?",
+        "type": "mcq",
+        "o": [
+            "Time of Supply override at the point of sale of warranty or renewal date",
+            "Ignored",
+            "Treated as exempt",
+            "Treated as nil-rated"
+        ]
+    },
+    {
+        "q": "Match the global reporting standard to its Tally extract:",
+        "type": "match",
+        "left": [
+            "SAF-T (OECD)",
+            "XBRL Taxonomies",
+            "ESEF Reporting",
+            "CRS/DAC6"
+        ],
+        "right": [
+            "Standard Audit File",
+            "Financial Statement Markup",
+            "Digital Reporting",
+            "Cross-Border Disclosure"
+        ]
+    },
+    {
+        "q": "Tally's in-memory engine allows 'What-If Tax Scenario Analysis' without posting actual vouchers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the limitation of 'Reverse Charge Mechanism (RCM)' ITC claim in the same month of liability creation?",
+        "type": "mcq",
+        "o": [
+            "ITC can only be claimed in the month subsequent to the RCM liability payment",
+            "ITC is immediate",
+            "ITC is blocked forever",
+            "ITC is transferred to another company"
+        ]
+    },
+    {
+        "q": "Name the configuration file that defines the 'Threshold Bandwidth' for GSTR-1 B2C State-wise summary aggregation.",
+        "type": "short_answer",
+        "answers": [
+            "GST Configuration String",
+            "Tally.cfg"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' utility checks for orphan tax transactions that have lost their linked voucher after data corruption.",
+        "type": "fill_blank",
+        "answers": [
+            "Data Integrity Check"
+        ],
+        "other_options": [
+            "Export",
+            "Print",
+            "Email",
+            "Synchronization"
+        ]
+    },
+    {
+        "q": "Tally Prime's 'Headless Server Mode' allows automated GST return filing via command-line scripts.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which entity governs the validation of 'Digital Signature Certificate' used for Tally's statutory filings?",
+        "type": "mcq",
+        "o": [
+            "Controller of Certifying Authorities (CCA)",
+            "RBI",
+            "SEBI",
+            "IRDA"
+        ]
+    },
+    {
+        "q": "How do you handle 'GST on Director's Personal Guarantee' to banks as per latest advance rulings?",
+        "type": "mcq",
+        "o": [
+            "Taxable as supply of service under RCM or Forward Charge based on consideration",
+            "Exempt supply",
+            "Capital receipt",
+            "Loan transaction"
+        ]
+    },
+    {
+        "q": "Match the advanced TDL debugging tool with its function:",
+        "type": "match",
+        "left": [
+            "Trace Log",
+            "Breakpoint",
+            "Watch Window",
+            "Stack Trace"
+        ],
+        "right": [
+            "Execution Path",
+            "Pause Execution",
+            "Variable Inspection",
+            "Error Origin"
+        ]
+    },
+    {
+        "q": "Tally's 'Statutory Parallel Run' feature allows running two different tax versions simultaneously for comparison.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the critical dependency for 'E-Way Bill Part B Auto-Update' via Vehicle Tracking System (VTS) integration?",
+        "type": "mcq",
+        "o": [
+            "Real-time API handshake with VTS vendor and NIC portal",
+            "Manual entry of vehicle number",
+            "Printer connection",
+            "Excel upload"
+        ]
+    },
+    {
+        "q": "Name the specific Schedule III entry that exempts 'Sale of Land' from GST, requiring Tally configuration to block tax.",
+        "type": "short_answer",
+        "answers": [
+            "Schedule III Entry 5",
+            "Paragraph 5"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' parameter in the Tally.ini file controls the timeout duration for IRP API calls.",
+        "type": "fill_blank",
+        "answers": [
+            "IRPTimeout"
+        ],
+        "other_options": [
+            "Date",
+            "Year",
+            "GST Rate",
+            "Tax"
+        ]
+    },
+    {
+        "q": "Tally's 'Artificial Intelligence (AI) Plugin' can predict optimal tax set-off strategies to minimize cash outflow.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the consequence of bypassing the 'Sub-rule (4) of Rule 36' constraint via TDL coding?",
+        "type": "mcq",
+        "o": [
+            "Non-compliance with the Act, potentially leading to excess ITC claim and legal liability",
+            "Faster processing",
+            "Automatic filing",
+            "Zero tax liability"
+        ]
+    },
+    {
+        "q": "How does Tally handle 'GST on Liquidated Damages' in a contract where delivery is accepted after the due date?",
+        "type": "mcq",
+        "o": [
+            "Treats as consideration for tolerating an act, hence taxable supply",
+            "Treats as pure financial penalty",
+            "Ignores tax",
+            "Merges with principal value"
+        ]
+    },
+    {
+        "q": "Match the advanced payroll compliance with the statutory act:",
+        "type": "match",
+        "left": [
+            "Minimum Wages Act",
+            "Bonus Act",
+            "Equal Remuneration Act",
+            "Maternity Benefit Act"
+        ],
+        "right": [
+            "State-specific VDA",
+            "8.33% Calculation",
+            "Gender Pay Gap Report",
+            "26 Weeks Paid Leave"
+        ]
+    },
+    {
+        "q": "Tally's 'Compliance Calendar' can trigger alerts for 'Advance Tax' installments under the Income Tax Act.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which expert technique resolves the 'Circular Reference Error' in ITC set-off when liability exceeds credit?",
+        "type": "mcq",
+        "o": [
+            "Priority-based waterfall set-off algorithm defined in Tax Set-off Matrix",
+            "Deleting the ledger",
+            "Ignoring the difference",
+            "Resetting the company"
+        ]
+    },
+    {
+        "q": "Name the specific Tally database table responsible for indexing 'GST Rate History' for analytical reporting.",
+        "type": "short_answer",
+        "answers": [
+            "TaxRateHistory",
+            "RateVariationIndex"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' API gateway allows Tally to accept push notifications from the GST portal for accepted/rejected invoices.",
+        "type": "fill_blank",
+        "answers": [
+            "Webhook Receiver"
+        ],
+        "other_options": [
+            "Printer",
+            "Scanner",
+            "Keyboard",
+            "Mouse"
+        ]
+    },
+    {
+        "q": "Tally's 'Zero-Knowledge Proof' architecture ensures the server processes tax data without reading the company's confidential master data.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the default 'Time of Supply' for a 'Continuous Supply of Services' where payment is linked to milestones in Tally?",
+        "type": "mcq",
+        "o": [
+            "Earliest of milestone completion date or payment date",
+            "Invoice date only",
+            "Order date only",
+            "Delivery date only"
+        ]
+    },
+    {
+        "q": "How do you configure 'GST on Director's Remuneration' differently for Whole-Time Directors vs Independent Directors?",
+        "type": "mcq",
+        "o": [
+            "WTD under Schedule III (Non-Taxable); ID under RCM Taxable if limits exceed",
+            "Both exempt",
+            "Both taxable under RCM",
+            "Both taxable under Forward Charge"
+        ]
+    },
+    {
+        "q": "Match the Tally expert utility with its database operation:",
+        "type": "match",
+        "left": [
+            "Rewritten Index",
+            "Vacuum",
+            "Alter Column",
+            "Foreign Key Check"
+        ],
+        "right": [
+            "Performance Tuning",
+            "Space Reclamation",
+            "Schema Update",
+            "Referential Integrity"
+        ]
+    },
+    {
+        "q": "Tally's 'Statutory Audit' module can programmatically detect 'Rounding Errors' that indicate potential fraud in tax calculations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which advanced feature allows Tally to handle 'GST on Token/Vouchers' where value fluctuates?",
+        "type": "mcq",
+        "o": [
+            "Pre-defined Goods Voucher with deferred tax point on redemption",
+            "Cash Voucher",
+            "Bank Voucher",
+            "Journal Voucher"
+        ]
+    },
+    {
+        "q": "Name the specific Tally Add-on required for 'Automated Import of GSTR-2B data' via Government Gateway API.",
+        "type": "short_answer",
+        "answers": [
+            "GST Connector",
+            "Portal Sync Add-on"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' report reconciles the 'Electronic Credit Reversal and Reclaimed Statement' generated by the GST portal.",
+        "type": "fill_blank",
+        "answers": [
+            "Electronic Credit Ledger Reconciliation"
+        ],
+        "other_options": [
+            "Inventory",
+            "Payroll",
+            "Cost Centre",
+            "Job Work"
+        ]
+    },
+    {
+        "q": "Tally supports the 'Fully Homomorphic Encryption' model for cloud-hosted tax data.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the treatment of 'Cess on Exports' in Tally where the exported goods attract Compensation Cess?",
+        "type": "mcq",
+        "o": [
+            "Exports are exempt from Compensation Cess; Tally blocks its levy on zero-rated supplies",
+            "Full Cess applies",
+            "Partial Cess applies",
+            "Cess is doubled"
+        ]
+    },
+    {
+        "q": "How does Tally's 'Audit Trail' handle 'Deep Packet Inspection' of tax payloads?",
+        "type": "mcq",
+        "o": [
+            "Tally does not perform DPI; it logs application-level events only",
+            "Full packet capture",
+            "Network sniffing",
+            "Encryption cracking"
+        ]
+    },
+    {
+        "q": "Match the complex IFRS/GST divergence with the adjustment entry:",
+        "type": "match",
+        "left": [
+            "IFRS 15 Revenue",
+            "GST Time of Supply",
+            "Contract Asset",
+            "Deferred Tax"
+        ],
+        "right": [
+            "Accrual Basis",
+            "Earliest of Invoice/Payment",
+            "Unbilled Revenue",
+            "Temporary Difference"
+        ]
+    },
+    {
+        "q": "Tally's 'Digital Twin' capability allows creation of a mirror instance for high-availability tax filing without downtime.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which algorithm ensures the 'Anonymization' of personal tax data in Tally's test environment?",
+        "type": "mcq",
+        "o": [
+            "Data Masking and Tokenization Script",
+            "Manual deletion",
+            "Excel copy",
+            "PDF export"
+        ]
+    },
+    {
+        "q": "Name the specific standard (ISO) that governs the 'Information Security Management System' for Tally's Statutory Data transmission.",
+        "type": "short_answer",
+        "answers": [
+            "ISO 27001"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' view in the Statutory Payroll module shows the 'Cost to Company' (CTC) broken down into taxable and non-taxable components dynamically.",
+        "type": "fill_blank",
+        "answers": [
+            "CTC Analysis"
+        ],
+        "other_options": [
+            "Payslip",
+            "Attendance",
+            "Loan",
+            "Gratuity"
+        ]
+    },
+    {
+        "q": "Tally's 'Recursive Tax Audit' feature reviews its own audit trail for compliance with auditing standards.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary Expert strategy to prevent 'Invoice Splitting' fraud to bypass E-Invoice turnover limits?",
+        "type": "mcq",
+        "o": [
+            "Aggregate turnover monitoring across all sales ledgers and generating exception reports",
+            "Manual review",
+            "Ignoring small invoices",
+            "Disabling e-invoice"
+        ]
+    },
+    {
+        "q": "How do you handle 'GST on Corporate Guarantee' to related parties as per Rule 28?",
+        "type": "mcq",
+        "o": [
+            "Taxable value computed as 1% of the guarantee amount or higher if distinct persons",
+            "Exempt",
+            "Nil-rated",
+            "Capital receipt"
+        ]
+    },
+    {
+        "q": "Match the advanced Tax Audit clause with its Tally verification procedure:",
+        "type": "match",
+        "left": [
+            "Clause 44 (GST)",
+            "Clause 34 (TDS)",
+            "Clause 27 (Stock)",
+            "Clause 22 (Cash)"
+        ],
+        "right": [
+            "GST Reconciliation",
+            "TDS Default Analysis",
+            "Inventory Valuation",
+            "Cash Flow Verification"
+        ]
+    },
+    {
+        "q": "Tally Prime's 'DevOps Pipeline' for tax updates allows rolling back a faulty statutory patch without data loss.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which framework resolves the 'Conflict of Interest' between Tally's Statutory Auditor Module and Management Reports?",
+        "type": "mcq",
+        "o": [
+            "Role-Based Access Control (RBAC) and Segregation of Duties Matrix",
+            "Single user mode",
+            "Admin override",
+            "Default settings"
+        ]
+    },
+    {
+        "q": "Name the specific TDL command to extract 'Unmapped GSTR-2A Invoices' for bulk updating party master configurations.",
+        "type": "short_answer",
+        "answers": [
+            "EXPORT UNRECONCILED",
+            "Bulk Import Mapper"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The '_____' engine dynamically generates the 'Tax Liability on Destroyed Goods' journal by fetching the original purchase ITC details.",
+        "type": "fill_blank",
+        "answers": [
+            "ITC Reversal on Destruction"
+        ],
+        "other_options": [
+            "Sales Engine",
+            "Purchase Engine",
+            "Payroll Engine",
+            "Stock Engine"
+        ]
+    },
+    {
+        "q": "Tally's in-memory 'GraphQL Federation' layer allows combining multiple GSTIN data sources into a single analytical query.",
+        "type": "true_false",
+        "correct": "False"
+    }
+]

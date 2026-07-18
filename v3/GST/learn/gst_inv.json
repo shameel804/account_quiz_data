@@ -1,0 +1,143 @@
+{
+    "id": "learn_gst_inv",
+    "topicId": "gst_inv",
+    "topicTitle": "GST Invoicing",
+    "description": "Master GST Invoicing including Tax Invoice, Debit/Credit Notes, and E-Invoicing",
+    "baseKP": 50,
+    "slides": [
+        {
+            "id": "gst_inv1",
+            "type": "content",
+            "title": "Welcome to GST Invoicing",
+            "content": "# GST Invoicing\n\nProper invoicing is **critical for ITC** and compliance.\n\n## What You Will Learn\n\n- **Tax Invoice** - Mandatory contents\n- **Other Documents** - Debit/Credit notes\n- **E-Invoicing** - Electronic system\n- **E-Way Bill** - Transport document\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Tax invoice | Contents, timing |\n| Notes | Debit, credit |\n| E-invoice | IRN system |\n| E-way bill | Transport |"
+        },
+        {
+            "id": "gst_inv2",
+            "type": "content",
+            "title": "Tax Invoice",
+            "content": "# Mandatory Document\n\n## When Required\n\n| Supply | Invoice Required |\n|--------|------------------|\n| Goods | Before dispatch |\n| Services | Within 30 days |\n| Continuous | As per milestones |\n\n## Contents (Rule 46)\n\n| Field | Requirement |\n|-------|-------------|\n| Supplier name/GSTIN | Mandatory |\n| Invoice number | Sequential |\n| Date | Date of issue |\n| Recipient details | Name, address |\n| HSN/SAC | Code |\n| Tax details | CGST, SGST, IGST |"
+        },
+        {
+            "id": "gst_inv3",
+            "type": "content",
+            "title": "Invoice Format",
+            "content": "# Required Fields\n\n## Detailed Contents\n\n```\n1. Supplier name, address, GSTIN\n2. Invoice number (max 16 characters)\n3. Date of issue\n4. Recipient details (if registered)\n5. HSN/SAC codes\n6. Description of goods/services\n7. Quantity and unit\n8. Total value\n9. Taxable value\n10. Tax rate and amount\n11. Place of supply\n12. Signature/digital signature\n```\n\n## HSN Requirement\n\n| Turnover | HSN Digits |\n|----------|------------|\n| < Rs 5 Cr | 4 digits |\n| >= Rs 5 Cr | 6 digits |"
+        },
+        {
+            "id": "gst_inv_quiz1",
+            "type": "quiz",
+            "title": "Invoice Quiz",
+            "content": "Test your invoice knowledge!",
+            "quizQuestion": "Service invoice must be issued within?",
+            "quizOptions": [
+                "15 days",
+                "30 days",
+                "45 days",
+                "60 days"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_inv4",
+            "type": "content",
+            "title": "Bill of Supply",
+            "content": "# For Exempt Suppliers\n\n## When Issued\n\n| Scenario | Document |\n|----------|----------|\n| Exempt supply | Bill of supply |\n| Composition dealer | Bill of supply |\n| Nil rated | Bill of supply |\n\n## Contents\n\n```\nSimilar to tax invoice\nbut NO TAX MENTIONED\n\n- Supplier details\n- Description\n- Value\n- Serial number\n- Date\n```"
+        },
+        {
+            "id": "gst_inv5",
+            "type": "content",
+            "title": "Debit and Credit Notes",
+            "content": "# Adjusting Documents\n\n## Debit Note\n\n| Scenario | Use |\n|----------|-----|\n| Price increase | After supply |\n| Additional tax | Discovered later |\n\n## Credit Note\n\n| Scenario | Use |\n|----------|-----|\n| Price reduction | After supply |\n| Goods returned | Sales return |\n| Excess tax | Correction |\n\n## Time Limit\n\n```\nCredit note must be issued by:\n- 30th November of following FY\n- Or annual return date\n```"
+        },
+        {
+            "id": "gst_inv6",
+            "type": "content",
+            "title": "Receipt Voucher and Refund Voucher",
+            "content": "# Advance and Refund\n\n## Receipt Voucher\n\n| Purpose | When |\n|---------|------|\n| Advance received | Before supply |\n| Tax liability | On advance |\n\n## Refund Voucher\n\n| Purpose | When |\n|---------|------|\n| Advance refunded | Supply not made |\n| Adjustment | Against receipt |\n\n## Note\n\n```\nAdvance GST:\n- Applicable for services\n- Not for goods (since Nov 2017)\n```"
+        },
+        {
+            "id": "gst_inv_quiz2",
+            "type": "quiz",
+            "title": "Notes Quiz",
+            "content": "Test your debit/credit notes knowledge!",
+            "quizQuestion": "Credit note is issued for?",
+            "quizOptions": [
+                "Price increase",
+                "Price decrease",
+                "Advance",
+                "E-way bill"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_inv7",
+            "type": "content",
+            "title": "E-Invoicing",
+            "content": "# Electronic Invoicing\n\n## Applicability\n\n| Turnover | Requirement |\n|----------|-------------|\n| > Rs 5 Cr | Mandatory |\n| < Rs 5 Cr | Not required |\n\n## Process\n\n```\n1. Generate invoice in software\n2. Upload to IRP (Invoice Registration Portal)\n3. Get IRN (Invoice Reference Number)\n4. QR code generated\n5. Signed invoice returned\n```\n\n## IRN\n\n- 64-character unique number\n- Hash of GSTIN + Doc type + Doc number + FY"
+        },
+        {
+            "id": "gst_inv8",
+            "type": "content",
+            "title": "E-Invoice Benefits",
+            "content": "# System Advantages\n\n## Benefits\n\n| Benefit | Impact |\n|---------|--------|\n| Auto-population | GSTR-1 |\n| ITC matching | Easier |\n| Reduced fraud | Verification |\n| Interoperability | Standard format |\n\n## Auto-Population\n\n```\nE-invoice data flows to:\n- GSTR-1 (supplier)\n- GSTR-2A (recipient)\n- E-way bill (if applicable)\n```"
+        },
+        {
+            "id": "gst_inv9",
+            "type": "content",
+            "title": "E-Way Bill",
+            "content": "# Transport Document\n\n## When Required\n\n| Value | E-Way Bill |\n|-------|------------|\n| > Rs 50,000 | Mandatory |\n| < Rs 50,000 | Optional |\n\n## Who Generates\n\n| Scenario | Generator |\n|----------|----------|\n| Registered supplier | Supplier |\n| Unregistered supplier | Recipient |\n| Transporter | Transporter |\n\n## Validity\n\n| Distance | Validity |\n|----------|----------|\n| < 100 km | 1 day |\n| Every 100 km | Additional day |"
+        },
+        {
+            "id": "gst_inv_quiz3",
+            "type": "quiz",
+            "title": "E-Invoice Quiz",
+            "content": "Test your e-invoicing knowledge!",
+            "quizQuestion": "E-invoicing is mandatory for turnover above?",
+            "quizOptions": [
+                "Rs 1 Cr",
+                "Rs 5 Cr",
+                "Rs 10 Cr",
+                "Rs 20 Cr"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_inv10",
+            "type": "content",
+            "title": "E-Way Bill Details",
+            "content": "# Document Contents\n\n## Part A\n\n| Field | Requirement |\n|-------|-------------|\n| GSTIN | Supplier/recipient |\n| Place of dispatch | From |\n| Place of delivery | To |\n| Invoice details | Number, date |\n| HSN | Code |\n| Value | Invoice value |\n\n## Part B\n\n| Field | Requirement |\n|-------|-------------|\n| Transporter | GSTIN or ID |\n| Vehicle number | If known |\n| Mode | Road, rail, etc. |"
+        },
+        {
+            "id": "gst_inv11",
+            "type": "content",
+            "title": "Exemptions from E-Way Bill",
+            "content": "# Not Required\n\n## Exempt Movements\n\n| Category | Exemption |\n|----------|----------|\n| < Rs 50,000 | Value threshold |\n| Non-motorized | Manual transport |\n| Port to ICD | Customs bond |\n| Empty cargo | Return containers |\n| Listed goods | Specific exemptions |\n\n## State-Wise\n\n```\nSome states have:\n- Lower threshold\n- State-specific rules\n- Additional requirements\n```"
+        },
+        {
+            "id": "gst_inv12",
+            "type": "content",
+            "title": "Invoice Matching",
+            "content": "# ITC Reconciliation\n\n## Matching Process\n\n```\nSupplier GSTR-1\n    |\n    v\nRecipient GSTR-2A/2B\n    |\n    v\nITC Claim in GSTR-3B\n```\n\n## Mismatch Handling\n\n| Scenario | Action |\n|----------|--------|\n| Invoice missing | Follow up |\n| Amount mismatch | Correct |\n| GSTIN error | Amendment |"
+        },
+        {
+            "id": "gst_inv_quiz4",
+            "type": "quiz",
+            "title": "E-Way Bill Quiz",
+            "content": "Test your e-way bill knowledge!",
+            "quizQuestion": "E-way bill is required for value above?",
+            "quizOptions": [
+                "Rs 25,000",
+                "Rs 50,000",
+                "Rs 1 lakh",
+                "Rs 2 lakh"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_inv17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **GST Invoicing**!\n\n## Key Topics\n\n### Documents\n- Tax invoice\n- Bill of supply\n- Debit/Credit notes\n\n### E-Invoicing\n- IRN generation\n- Auto-population\n- > Rs 5 Cr threshold\n\n### E-Way Bill\n- > Rs 50,000 value\n- 1 day per 100 km\n- Part A and B\n\n## Key Thresholds\n\n| Document | Threshold |\n|----------|----------|\n| E-invoice | Rs 5 Cr turnover |\n| E-way bill | Rs 50,000 value |\n| HSN 6-digit | Rs 5 Cr turnover |\n\n## What is Next?\n\nExplore GST Returns!"
+        }
+    ]
+}

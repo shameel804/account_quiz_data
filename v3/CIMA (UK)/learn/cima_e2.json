@@ -1,0 +1,143 @@
+{
+    "id": "learn_cima_e2",
+    "topicId": "cima_e2",
+    "topicTitle": "E2 - Managing Performance",
+    "description": "Master CIMA E2 covering Strategy, HR, and Project Management",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "e2_1",
+            "type": "content",
+            "title": "Welcome to CIMA E2",
+            "content": "# E2 - Managing Performance\n\nE2 covers **strategy**, **people**, and **projects**.\n\n## What You Will Learn\n\n- **Strategy** - Planning and implementation\n- **Structure** - Organization design\n- **People** - HR management\n- **Projects** - Change management\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Strategic planning | 30% |\n| Organizational structure | 25% |\n| Managing people | 25% |\n| Projects and change | 20% |"
+        },
+        {
+            "id": "e2_2",
+            "type": "content",
+            "title": "Strategic Planning",
+            "content": "# Strategy Process\n\n## Rational Model\n\n```\nMission/Vision\n    |\n    v\nStrategic Analysis\n    |\n    v\nStrategic Choice\n    |\n    v\nImplementation\n```\n\n## Analysis Tools\n\n| Tool | Focus |\n|------|-------|\n| SWOT | Internal/external |\n| PESTEL | Macro environment |\n| Porter 5 | Industry |\n| Value Chain | Activities |"
+        },
+        {
+            "id": "e2_3",
+            "type": "content",
+            "title": "Strategic Analysis",
+            "content": "# Environmental Analysis\n\n## Porter's Five Forces\n\n| Force | Impact |\n|-------|--------|\n| Rivalry | Competition |\n| Buyers | Bargaining |\n| Suppliers | Bargaining |\n| Substitutes | Alternatives |\n| New entrants | Threat |\n\n## Resource Analysis\n\n| Framework | Focus |\n|-----------|-------|\n| VRIO | Competitive advantage |\n| Core competencies | Distinctive abilities |\n| Value chain | Activity analysis |"
+        },
+        {
+            "id": "e2_quiz_1",
+            "type": "quiz",
+            "title": "Strategy Quiz",
+            "content": "Test your strategy knowledge!",
+            "quizQuestion": "Porter's Five Forces analyze?",
+            "quizOptions": [
+                "Macro environment",
+                "Industry",
+                "Internal",
+                "Technology"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "e2_4",
+            "type": "content",
+            "title": "Strategic Choice",
+            "content": "# Strategy Options\n\n## Generic Strategies (Porter)\n\n| Strategy | Approach |\n|----------|----------|\n| Cost leader | Lowest cost |\n| Differentiation | Unique |\n| Focus | Niche |\n\n## Ansoff Matrix\n\n| | Existing Products | New Products |\n|---|------------------|-------------|\n| Existing Markets | Penetration | Development |\n| New Markets | Development | Diversification |"
+        },
+        {
+            "id": "e2_5",
+            "type": "content",
+            "title": "Organizational Structure",
+            "content": "# Structure Types\n\n## Forms\n\n| Type | Features |\n|------|----------|\n| Functional | By department |\n| Divisional | By product/region |\n| Matrix | Dual reporting |\n| Network | Outsourced |\n\n## Factors Affecting Structure\n\n- Size\n- Strategy\n- Technology\n- Environment\n- Culture"
+        },
+        {
+            "id": "e2_6",
+            "type": "content",
+            "title": "Culture and Leadership",
+            "content": "# Organizational Culture\n\n## Handy's Types\n\n| Type | Characteristic |\n|------|---------------|\n| Power | Central control |\n| Role | Bureaucratic |\n| Task | Project focus |\n| Person | Individual |\n\n## Leadership Styles\n\n| Style | Approach |\n|-------|----------|\n| Autocratic | Directive |\n| Democratic | Participative |\n| Laissez-faire | Delegating |\n| Transformational | Inspiring |"
+        },
+        {
+            "id": "e2_quiz_2",
+            "type": "quiz",
+            "title": "Culture Quiz",
+            "content": "Test your culture knowledge!",
+            "quizQuestion": "Task culture is?",
+            "quizOptions": [
+                "Central control",
+                "Bureaucratic",
+                "Project focused",
+                "Individual"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "e2_7",
+            "type": "content",
+            "title": "Human Resource Management",
+            "content": "# HR Functions\n\n## Key Activities\n\n| Activity | Focus |\n|----------|-------|\n| Recruitment | Hiring |\n| Training | Development |\n| Performance | Appraisal |\n| Reward | Compensation |\n| Retention | Engagement |\n\n## HR Planning\n\n```\n1. Demand forecast\n2. Supply analysis\n3. Gap identification\n4. Action planning\n```"
+        },
+        {
+            "id": "e2_8",
+            "type": "content",
+            "title": "Motivation and Teams",
+            "content": "# Motivation Theories\n\n## Content Theories\n\n| Theory | Focus |\n|--------|-------|\n| Maslow | Hierarchy |\n| Herzberg | Two-factor |\n| McClelland | Achievement |\n\n## Team Development (Tuckman)\n\n```\nForming -> Storming -> Norming -> Performing -> Adjourning\n```\n\n## Team Roles (Belbin)\n\n- Plant, Monitor, Coordinator, etc."
+        },
+        {
+            "id": "e2_9",
+            "type": "content",
+            "title": "Change Management",
+            "content": "# Managing Change\n\n## Lewin's Model\n\n```\nUnfreeze -> Change -> Refreeze\n```\n\n## Kotter's 8 Steps\n\n| Phase | Steps |\n|-------|-------|\n| Create climate | Urgency, coalition, vision |\n| Engage | Communicate, empower, wins |\n| Implement | Build, anchor |\n\n## Resistance\n\n- Fear of unknown\n- Loss of control\n- Self-interest"
+        },
+        {
+            "id": "e2_quiz_3",
+            "type": "quiz",
+            "title": "Change Quiz",
+            "content": "Test your change management!",
+            "quizQuestion": "Lewin's model has how many stages?",
+            "quizOptions": [
+                "Two",
+                "Three",
+                "Four",
+                "Five"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "e2_10",
+            "type": "content",
+            "title": "Project Management",
+            "content": "# Project Fundamentals\n\n## Iron Triangle\n\n```\n      Scope\n       /\\\n      /  \\\n     /    \\\n    /______\\\nTime      Cost\n\nQuality at center\n```\n\n## Project Lifecycle\n\n```\nInitiation -> Planning -> Execution -> Closure\n```\n\n## Tools\n\n| Tool | Purpose |\n|------|--------|\n| Gantt | Timeline |\n| Network | Dependencies |\n| WBS | Structure |"
+        },
+        {
+            "id": "e2_11",
+            "type": "content",
+            "title": "Performance Measurement",
+            "content": "# Organizational Performance\n\n## Balanced Scorecard\n\n| Perspective | Focus |\n|-------------|-------|\n| Financial | Shareholders |\n| Customer | Satisfaction |\n| Internal | Processes |\n| Learning | Growth |\n\n## CSF and KPI\n\n```\nCritical Success Factors\n= What we must do well\n\nKPIs = How we measure it\n```"
+        },
+        {
+            "id": "e2_12",
+            "type": "content",
+            "title": "Corporate Governance",
+            "content": "# Governance Framework\n\n## Key Principles\n\n| Principle | Focus |\n|-----------|-------|\n| Leadership | Board role |\n| Effectiveness | Composition |\n| Accountability | Controls |\n| Remuneration | Fair pay |\n| Relations | Stakeholders |\n\n## Board Committees\n\n- Audit\n- Remuneration\n- Nomination\n- Risk"
+        },
+        {
+            "id": "e2_quiz_4",
+            "type": "quiz",
+            "title": "BSC Quiz",
+            "content": "Test your BSC knowledge!",
+            "quizQuestion": "BSC has how many perspectives?",
+            "quizOptions": [
+                "Two",
+                "Three",
+                "Four",
+                "Five"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "e2_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CIMA E2 - Managing Performance**!\n\n## Key Topics\n\n### Strategy\n- Analysis tools\n- Strategic choice\n- Implementation\n\n### Organization\n- Structure types\n- Culture\n- Leadership\n\n### People\n- HR management\n- Motivation\n- Teams\n\n### Projects\n- Change management\n- Project lifecycle\n- Performance\n\n## Key Models\n\n| Model | Application |\n|-------|-------------|\n| Porter 5 | Industry |\n| BSC | Performance |\n| Kotter 8 | Change |\n\n## What is Next?\n\nExplore P2 - Advanced Management Accounting!"
+        }
+    ]
+}

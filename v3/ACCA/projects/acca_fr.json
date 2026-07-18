@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Conceptual Framework Purpose 📚",
+        "ques": "What is the **purpose** of the IASB Conceptual Framework for Financial Reporting?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Purposes**:\n1. Assist IASB in developing consistent standards\n2. Help preparers develop consistent policies when no standard applies\n3. Help users understand financial statements\n4. Provide basis for exercising judgment\n\n**Key Elements**: Qualitative characteristics, elements of FS, recognition, measurement"
+        },
+        "explanation": "The Framework is NOT a standard but ***guides*** standard-setting. It defines ***fundamental*** (relevance, faithful representation) and ***enhancing*** characteristics."
+    },
+    {
+        "title": "IAS 16 Property, Plant & Equipment 🏗️",
+        "ques": "Under **IAS 16**, what costs are included in the initial measurement of PPE?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Included**:\n* Purchase price (after discounts)\n* Import duties and non-refundable taxes\n* Directly attributable costs to bring to location/condition\n* Dismantling/restoration costs (if obligation exists)\n\n**Excluded**:\n* Admin and general overheads\n* Initial operating losses\n* Training costs"
+        },
+        "explanation": "After initial recognition, choose ***cost model*** or ***revaluation model***. Depreciate over useful life."
+    },
+    {
+        "title": "IAS 38 Intangible Assets 💡",
+        "ques": "When can **development costs** be capitalised under **IAS 38**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**PIRATE Criteria** (all must be met):\n* **P**robable future economic benefits\n* **I**ntention to complete and use/sell\n* **R**esources adequate to complete\n* **A**bility to use or sell\n* **T**echnical feasibility\n* **E**xpenditure reliably measurable\n\n**Research costs**: Always expensed"
+        },
+        "explanation": "Internally generated ***goodwill***, ***brands***, ***mastheads*** cannot be capitalised. Acquired intangibles are capitalised at cost."
+    },
+    {
+        "title": "IAS 36 Impairment 📉",
+        "ques": "Explain the **impairment test** under IAS 36.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Recoverable Amount** = Higher of:\n* Fair value less costs of disposal\n* Value in use (discounted future cash flows)\n\n**Impairment Loss** = Carrying Amount - Recoverable Amount (if positive)\n\n**Indicators**: Market decline, obsolescence, physical damage, adverse changes\n\n**Goodwill**: Test annually regardless of indicators"
+        },
+        "explanation": "For CGU, impairment reduces ***goodwill first***, then other assets pro-rata."
+    },
+    {
+        "title": "IAS 37 Provisions 📋",
+        "ques": "What are the **recognition criteria** for a provision under IAS 37?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Three Criteria** (all must be met):\n1. Present obligation (legal or constructive) from past event\n2. Probable outflow of resources\n3. Reliable estimate of amount\n\n**Contingent Liability**: Disclose only (not recognise) if possible but not probable\n\n**Contingent Asset**: Disclose only if probable"
+        },
+        "explanation": "Provisions are ***liabilities of uncertain timing or amount***. Measure at ***best estimate*** of expenditure required."
+    },
+    {
+        "title": "IFRS 15 Revenue Recognition 💰",
+        "ques": "What is the **5-step model** for revenue recognition under IFRS 15?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**5 Steps**:\n1. Identify the contract with customer\n2. Identify performance obligations\n3. Determine transaction price\n4. Allocate price to performance obligations\n5. Recognise revenue when obligation satisfied\n\n**Over time**: If customer controls asset as created\n**Point in time**: When control passes (delivery, legal title)"
+        },
+        "explanation": "Revenue recognised when (or as) ***control*** transfers to customer. Variable consideration estimated and constrained."
+    },
+    {
+        "title": "IFRS 16 Leases 🏢",
+        "ques": "How does a **lessee** account for leases under IFRS 16?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Initial Recognition**:\n* Right-of-use asset: Lease payments discounted + direct costs\n* Lease liability: Present value of lease payments\n\n**Subsequently**:\n* Asset: Depreciate over shorter of lease term or useful life\n* Liability: Increase by interest, decrease by payments\n\n**Exceptions**: Short-term (<12 months), low-value assets"
+        },
+        "explanation": "IFRS 16 brings most leases ***on balance sheet***. Replaces operating/finance lease distinction for lessees."
+    },
+    {
+        "title": "Consolidated Financial Statements 📊",
+        "ques": "When must an entity prepare **consolidated financial statements**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Required when**: Parent controls one or more subsidiaries\n\n**Control exists when investor**:\n* Has power over investee\n* Is exposed to variable returns\n* Can use power to affect returns\n\n**Exemptions**: Investment entities, intermediate parents\n\n**Process**: Combine assets, liabilities, income, expenses line by line"
+        },
+        "explanation": "NCI measured at fair value or share of net assets. ***Goodwill*** arises on acquisition. ***Intra-group*** transactions eliminated."
+    },
+    {
+        "title": "Goodwill Calculation 🧮",
+        "ques": "How is **goodwill** calculated on acquisition of a subsidiary?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Goodwill** = Consideration paid + NCI at acquisition - Fair value of net assets acquired\n\n**Components**:\n* Consideration: Cash, shares, deferred, contingent\n* NCI: Either fair value or share of net assets\n* Net assets: At fair value (not book value)"
+        },
+        "explanation": "***Fair value adjustments*** increase net assets. ***Acquisition costs*** expensed, not capitalised."
+    },
+    {
+        "title": "Associates: IAS 28 🤝",
+        "ques": "How should investments in **associates** be accounted for?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Associate**: Significant influence (presumed if 20-50% voting rights)\n\n**Equity Method**:\n* Initial: Cost\n* Subsequently: Adjust for share of post-acquisition profits\n* Dividends reduce carrying amount\n\n**Presentation**: Single line for share of profit in income statement"
+        },
+        "explanation": "***Significant influence*** shown by board representation, participation in policy, material transactions."
+    },
+    {
+        "title": "Statement of Cash Flows 💵",
+        "ques": "What are the **three sections** of a cash flow statement under IAS 7?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**1. Operating Activities**: Cash from main business\n* Indirect method: Profit adjusted for non-cash items and working capital\n\n**2. Investing Activities**: Non-current assets\n* Purchase/sale of PPE, investments\n\n**3. Financing Activities**: Capital and borrowings\n* Issue shares, loans received/repaid, dividends paid"
+        },
+        "explanation": "Interest and dividends can be classified per policy. ***Free cash flow*** = Operating - Capital expenditure."
+    },
+    {
+        "title": "IAS 10 Events After Reporting 📅",
+        "ques": "Distinguish between **adjusting** and **non-adjusting** events after the reporting period.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Adjusting Events**: Evidence of conditions existing at reporting date\n* Adjust financial statements\n* Examples: Settlement of court case, discovery of fraud, bad debt confirmation\n\n**Non-Adjusting Events**: Conditions arising after reporting date\n* Disclose only if material\n* Examples: Major acquisition, fire destroying assets"
+        },
+        "explanation": "Period ends when FS ***authorised for issue***. Going concern issues require special consideration."
+    },
+    {
+        "title": "IAS 2 Inventories 📦",
+        "ques": "How is **inventory** valued under IAS 2?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Valuation**: Lower of cost and net realisable value (NRV)\n\n**Cost includes**:\n* Purchase price\n* Conversion costs\n* Other costs to bring to current location/condition\n\n**Cost formulas**: FIFO or weighted average (LIFO prohibited)\n\n**NRV**: Estimated selling price less costs to complete and sell"
+        },
+        "explanation": "Write-down to NRV is ***recognised as expense***. Can be reversed if circumstances change."
+    },
+    {
+        "title": "Financial Instruments Classification 💳",
+        "ques": "How are **financial assets** classified under IFRS 9?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Classification based on**:\n1. Business model for managing assets\n2. Contractual cash flow characteristics\n\n**Categories**:\n* **Amortised cost**: Hold to collect, SPPI cash flows\n* **FVOCI**: Hold to collect and sell, SPPI cash flows\n* **FVPL**: Trading or doesn't meet above criteria"
+        },
+        "explanation": "***SPPI*** = Solely Payments of Principal and Interest. Equity instruments can elect ***FVOCI*** irrevocably."
+    },
+    {
+        "title": "Ratio Analysis 📈",
+        "ques": "Calculate and interpret **ROCE** and **gearing ratio**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**ROCE** = Operating Profit / Capital Employed x 100%\n* Measures return generated from all long-term capital\n* Higher = more efficient use of capital\n\n**Gearing** = Debt / (Debt + Equity) x 100%\n* Measures proportion of debt financing\n* Higher = more financial risk but potential for higher returns"
+        },
+        "explanation": "Compare to ***industry benchmarks*** and ***prior years***. Consider ***limitations*** of ratio analysis."
+    }
+]

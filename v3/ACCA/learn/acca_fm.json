@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_fm",
+    "topicId": "acca_fm",
+    "topicTitle": "Financial Management (FM)",
+    "description": "Master ACCA FM including Working Capital, Investment Appraisal, Business Finance, and Risk Management",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "fm_1",
+            "type": "content",
+            "title": "Welcome to ACCA FM",
+            "content": "# Financial Management (FM)\n\nFM covers **corporate finance** decisions for businesses.\n\n## What You Will Learn\n\n- **Working Capital** - Day-to-day finance\n- **Investment Appraisal** - Capital decisions\n- **Business Finance** - Sources of funds\n- **Risk Management** - Hedging strategies\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Financial objectives | 10% |\n| Working capital | 20% |\n| Investment decisions | 30% |\n| Business finance | 20% |\n| Risk management | 20% |"
+        },
+        {
+            "id": "fm_2",
+            "type": "content",
+            "title": "Financial Objectives",
+            "content": "# Corporate Objectives\n\n## Primary Objective\n\nMaximize shareholder wealth.\n\n## Measuring Performance\n\n| Measure | Focus |\n|---------|-------|\n| Profit | Accounting |\n| EPS | Per share |\n| Share price | Market value |\n| Cash flow | Liquidity |\n\n## Agency Problem\n\n```\nOwners (shareholders)\n    |\n    v\nAgents (managers)\n\nGoals may conflict\n```\n\n## Stakeholder Interests\n\n| Stakeholder | Interest |\n|-------------|----------|\n| Shareholders | Returns |\n| Lenders | Security |\n| Employees | Stability |\n| Society | Responsibility |"
+        },
+        {
+            "id": "fm_3",
+            "type": "content",
+            "title": "Working Capital Management",
+            "content": "# Working Capital\n\n## Definition\n\n```\nCurrent Assets - Current Liabilities\n= Net Working Capital\n```\n\n## Working Capital Cycle\n\n```\nInventory days\n+ Receivable days\n- Payable days\n= Cash operating cycle\n```\n\n## Policies\n\n| Policy | Risk | Return |\n|--------|------|--------|\n| Aggressive | Higher | Higher |\n| Conservative | Lower | Lower |\n| Moderate | Medium | Medium |\n\n## Overtrading\n\n- Growing too fast\n- Insufficient working capital\n- Cash crisis risk"
+        },
+        {
+            "id": "fm_quiz_1",
+            "type": "quiz",
+            "title": "Working Capital Quiz",
+            "content": "Test your working capital knowledge!",
+            "quizQuestion": "The cash operating cycle equals inventory days plus receivable days minus?",
+            "quizOptions": [
+                "Asset days",
+                "Payable days",
+                "Cash days",
+                "Loan days"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fm_4",
+            "type": "content",
+            "title": "Inventory Management",
+            "content": "# Inventory Control\n\n## EOQ Model\n\n```\nEOQ = sqrt(2 x D x Co / Ch)\n\nD = Annual demand\nCo = Ordering cost\nCh = Holding cost\n```\n\n## Reorder Level\n\n```\nReorder level = Demand x Lead time\n\nWith buffer stock:\n= (Maximum demand x Maximum lead time)\n```\n\n## JIT (Just in Time)\n\n| Advantage | Disadvantage |\n|-----------|-------------|\n| Low inventory cost | Delivery risk |\n| Less waste | Supplier dependent |\n| Quality focus | Setup time |"
+        },
+        {
+            "id": "fm_5",
+            "type": "content",
+            "title": "Receivables Management",
+            "content": "# Credit Management\n\n## Credit Policy Components\n\n| Component | Options |\n|-----------|--------|\n| Credit period | Days allowed |\n| Cash discount | Early payment incentive |\n| Credit limit | Maximum exposure |\n| Collection | Procedures |\n\n## Evaluating Discount\n\n```\nCost of discount:\n\nd / (1-d) x 365 / (T-t)\n\nd = discount %\nT = normal credit days\nt = discount period\n```\n\n## Credit Assessment\n\n- References\n- Credit agencies\n- Financial analysis\n- Credit scoring"
+        },
+        {
+            "id": "fm_6",
+            "type": "content",
+            "title": "Cash Management",
+            "content": "# Cash Flow Management\n\n## Motives for Holding Cash\n\n| Motive | Reason |\n|--------|--------|\n| Transactions | Daily needs |\n| Precautionary | Unexpected needs |\n| Speculative | Opportunities |\n\n## Cash Budget\n\n```\nOpening balance\n+ Receipts\n- Payments\n= Closing balance\n```\n\n## Baumol Model\n\n```\nOptimal cash = sqrt(2 x T x F / r)\n\nT = Total cash needed\nF = Transaction cost\nr = Interest rate\n```\n\n## Miller-Orr Model\n\n- Upper and lower limits\n- Return point\n- Daily fluctuation"
+        },
+        {
+            "id": "fm_7",
+            "type": "content",
+            "title": "Investment Appraisal",
+            "content": "# Capital Investment\n\n## Appraisal Methods\n\n| Method | Basis |\n|--------|-------|\n| Payback | Time to recover |\n| ARR | Average return |\n| NPV | Present value |\n| IRR | Return rate |\n\n## NPV Calculation\n\n```\nNPV = Sum of PV of cash flows\n    = Sum( CF / (1+r)^n ) - Initial cost\n\nNPV > 0: Accept\nNPV < 0: Reject\n```\n\n## IRR\n\n```\nRate where NPV = 0\n\nIRR > Cost of capital: Accept\nIRR < Cost of capital: Reject\n```"
+        },
+        {
+            "id": "fm_quiz_2",
+            "type": "quiz",
+            "title": "NPV Quiz",
+            "content": "Test your NPV knowledge!",
+            "quizQuestion": "A project with positive NPV should be?",
+            "quizOptions": [
+                "Rejected",
+                "Accepted",
+                "Delayed",
+                "Reassessed"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fm_8",
+            "type": "content",
+            "title": "Relevant Cash Flows",
+            "content": "# Cash Flow Identification\n\n## Include\n\n| Item | Treatment |\n|------|----------|\n| Incremental cash | Include |\n| Opportunity cost | Include |\n| Working capital | Include |\n| Tax effects | Include |\n\n## Exclude\n\n| Item | Why |\n|------|-----|\n| Sunk costs | Already incurred |\n| Allocated overheads | Not incremental |\n| Financing costs | In discount rate |\n| Depreciation | Not cash |\n\n## Working Capital\n\n```\nInvestment at start\nReleased at project end\n```"
+        },
+        {
+            "id": "fm_9",
+            "type": "content",
+            "title": "Cost of Capital",
+            "content": "# Cost of Capital\n\n## Cost of Equity (CAPM)\n\n```\nKe = Rf + beta(Rm - Rf)\n\nRf = Risk-free rate\nbeta = Systematic risk\nRm = Market return\n```\n\n## Cost of Debt\n\n```\nKd = Interest rate x (1 - Tax rate)\n```\n\n## WACC\n\n```\nWACC = (E/V x Ke) + (D/V x Kd)\n\nE = Equity value\nD = Debt value\nV = Total value\n```\n\n## When to Use WACC\n\n- Similar risk project\n- Same capital structure\n- Marginal investment"
+        },
+        {
+            "id": "fm_10",
+            "type": "content",
+            "title": "Sources of Finance",
+            "content": "# Business Finance\n\n## Equity Sources\n\n| Source | Features |\n|--------|----------|\n| Ordinary shares | Voting, dividends |\n| Preference shares | Fixed dividend |\n| Retained earnings | No issue costs |\n\n## Debt Sources\n\n| Source | Features |\n|--------|----------|\n| Bank loan | Interest, security |\n| Bonds | Fixed term |\n| Lease | Asset finance |\n| Overdraft | Flexible |\n\n## Pecking Order\n\n```\n1. Retained earnings (first)\n2. Debt\n3. New equity (last)\n```"
+        },
+        {
+            "id": "fm_11",
+            "type": "content",
+            "title": "Gearing",
+            "content": "# Capital Structure\n\n## Gearing Ratio\n\n```\nDebt / Equity x 100\n\nor\n\nDebt / (Debt + Equity) x 100\n```\n\n## Effect of Gearing\n\n| High Gearing | Low Gearing |\n|--------------|-------------|\n| Higher risk | Lower risk |\n| Tax benefit | Less tax shield |\n| Fixed charges | Flexible |\n\n## Interest Cover\n\n```\nPBIT / Interest expense\n\nMeasures ability to pay interest\n```\n\n## Optimal Structure\n\n- Trade-off theory\n- Tax benefits vs distress costs\n- Industry norms"
+        },
+        {
+            "id": "fm_quiz_3",
+            "type": "quiz",
+            "title": "Gearing Quiz",
+            "content": "Test your gearing knowledge!",
+            "quizQuestion": "A company with high debt compared to equity is described as?",
+            "quizOptions": [
+                "Low geared",
+                "Ungeared",
+                "Highly geared",
+                "Neutral"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "fm_12",
+            "type": "content",
+            "title": "Dividend Policy",
+            "content": "# Dividend Decisions\n\n## Theories\n\n| Theory | View |\n|--------|------|\n| Irrelevance | No effect on value |\n| Relevance | Affects value |\n| Signaling | Information content |\n| Clientele | Investor preferences |\n\n## Practical Factors\n\n| Factor | Effect |\n|--------|--------|\n| Cash availability | Constraint |\n| Investment needs | Retention |\n| Shareholder expectations | Pressure |\n| Tax | Preferences |\n\n## Dividend Patterns\n\n- Stable dividend\n- Target payout ratio\n- Residual policy\n- Zero dividend"
+        },
+        {
+            "id": "fm_13",
+            "type": "content",
+            "title": "Foreign Exchange",
+            "content": "# Currency Risk\n\n## Types of Exposure\n\n| Type | Description |\n|------|-------------|\n| Transaction | Specific transactions |\n| Translation | Consolidation |\n| Economic | Competitiveness |\n\n## Hedging Methods\n\n| Method | Mechanism |\n|--------|----------|\n| Forward contract | Lock in rate |\n| Money market | Borrow/deposit |\n| Options | Right, not obligation |\n| Futures | Exchange-traded |\n\n## Forward Rate\n\n```\nForward rate = Spot x (1 + foreign rate) / (1 + domestic rate)\n```"
+        },
+        {
+            "id": "fm_14",
+            "type": "content",
+            "title": "Interest Rate Risk",
+            "content": "# Managing Interest Rates\n\n## Exposure\n\n- Variable rate debt\n- Floating rate investments\n\n## Hedging Tools\n\n| Tool | Description |\n|------|-------------|\n| FRA | Forward rate agreement |\n| Interest rate swap | Exchange payments |\n| Interest rate options | Caps, floors, collars |\n\n## Swap\n\n```\nCompany A: Fixed rate\nCompany B: Variable rate\n\nSwap: A pays variable, B pays fixed\n```\n\n## Duration\n\nMeasure of interest rate sensitivity."
+        },
+        {
+            "id": "fm_quiz_4",
+            "type": "quiz",
+            "title": "Risk Quiz",
+            "content": "Test your hedging knowledge!",
+            "quizQuestion": "Which hedging tool locks in a future exchange rate?",
+            "quizOptions": [
+                "Option",
+                "Forward contract",
+                "Swap",
+                "Future"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fm_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA FM - Financial Management**!\n\n## Key Topics\n\n### Working Capital\n- Inventory (EOQ)\n- Receivables management\n- Cash management\n\n### Investment\n- NPV and IRR\n- Relevant cash flows\n- Cost of capital (WACC)\n\n### Finance\n- Sources of finance\n- Gearing and structure\n- Dividend policy\n\n### Risk\n- Currency hedging\n- Interest rate management\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| NPV = Sum PV - Cost | Investment |\n| WACC = Ke(E/V) + Kd(D/V) | Discount rate |\n| EOQ = sqrt(2DCo/Ch) | Inventory |\n\n## What is Next?\n\nExplore ACCA SBL - Strategic Business Leader!"
+        }
+    ]
+}

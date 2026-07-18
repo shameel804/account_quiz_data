@@ -1,0 +1,143 @@
+{
+    "id": "learn_cpa_bec",
+    "topicId": "cpa_bec",
+    "topicTitle": "Business Environment and Concepts (BEC)",
+    "description": "Master CPA BEC covering Corporate Governance, Economics, IT, and Finance",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "bec_1",
+            "type": "content",
+            "title": "Welcome to CPA BEC",
+            "content": "# Business Environment & Concepts (BEC)\n\nBEC covers **business operations** and **IT**.\n\n## What You Will Learn\n\n- **Governance** - Corporate structure\n- **Economics** - Macroeconomics\n- **Finance** - Corporate finance\n- **IT** - Technology and controls\n\n## Exam Areas\n\n| Area | Weight |\n|------|--------|\n| Governance | 17-27% |\n| Economics | 17-27% |\n| Finance | 11-21% |\n| IT | 15-25% |\n| Operations | 15-25% |"
+        },
+        {
+            "id": "bec_2",
+            "type": "content",
+            "title": "Corporate Governance",
+            "content": "# Governance Framework\n\n## Board Structure\n\n| Role | Responsibility |\n|------|---------------|\n| Board | Oversight |\n| CEO | Execution |\n| Audit committee | Financial oversight |\n| Compensation | Pay decisions |\n\n## Internal Controls\n\n| Component | Focus |\n|-----------|-------|\n| Control environment | Foundation |\n| Risk assessment | Identification |\n| Activities | Policies |\n| Information | Communication |\n| Monitoring | Ongoing |"
+        },
+        {
+            "id": "bec_3",
+            "type": "content",
+            "title": "Economic Concepts",
+            "content": "# Macroeconomics\n\n## Business Cycle\n\n```\nExpansion -> Peak -> Contraction -> Trough\n```\n\n## Economic Indicators\n\n| Type | Examples |\n|------|----------|\n| Leading | Stock prices |\n| Coincident | GDP |\n| Lagging | Unemployment |\n\n## Money and Banking\n\n| Tool | Effect |\n|------|--------|\n| Interest rates | Borrowing cost |\n| Reserve requirements | Money supply |\n| Open market | Bond purchases |"
+        },
+        {
+            "id": "bec_quiz_1",
+            "type": "quiz",
+            "title": "Economics Quiz",
+            "content": "Test your economics knowledge!",
+            "quizQuestion": "Leading indicators?",
+            "quizOptions": [
+                "Predict changes",
+                "Follow changes",
+                "Are constant",
+                "Equal GDP"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "bec_4",
+            "type": "content",
+            "title": "Financial Management",
+            "content": "# Corporate Finance\n\n## Capital Budgeting\n\n| Method | Criterion |\n|--------|----------|\n| NPV | > 0 |\n| IRR | > Cost of capital |\n| Payback | < Target |\n\n## NPV Formula\n\n```\nNPV = Sum of [CF / (1+r)^n] - Investment\n```\n\n## WACC\n\n```\nWACC = (E/V x Ke) + (D/V x Kd)\n```"
+        },
+        {
+            "id": "bec_5",
+            "type": "content",
+            "title": "Working Capital",
+            "content": "# Short-Term Finance\n\n## Working Capital\n\n```\nNWC = Current Assets - Current Liabilities\n```\n\n## Cash Conversion Cycle\n\n```\nDays Inventory\n+ Days Receivables\n- Days Payables\n= CCC\n```\n\n## Management Goals\n\n- Minimize cash tied up\n- Maintain liquidity\n- Balance risk and return"
+        },
+        {
+            "id": "bec_6",
+            "type": "content",
+            "title": "IT Concepts",
+            "content": "# Information Technology\n\n## Systems\n\n| System | Purpose |\n|--------|--------|\n| ERP | Integration |\n| CRM | Customers |\n| SCM | Supply chain |\n| BI | Analytics |\n\n## Data Concepts\n\n| Term | Meaning |\n|------|--------|\n| Database | Organized data |\n| Data warehouse | Analytics storage |\n| Cloud | Remote computing |\n| Big data | Volume, variety |"
+        },
+        {
+            "id": "bec_quiz_2",
+            "type": "quiz",
+            "title": "Finance Quiz",
+            "content": "Test your finance knowledge!",
+            "quizQuestion": "NPV decision rule: accept if?",
+            "quizOptions": [
+                "Negative",
+                "Zero",
+                "Positive",
+                "Unknown"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "bec_7",
+            "type": "content",
+            "title": "IT Controls",
+            "content": "# Control Framework\n\n## General Controls\n\n| Area | Focus |\n|------|-------|\n| Access | Security |\n| Change management | Updates |\n| Operations | Processing |\n| Network | Infrastructure |\n\n## Application Controls\n\n| Type | Stage |\n|------|-------|\n| Input | Data entry |\n| Processing | Calculations |\n| Output | Reports |\n\n## Cybersecurity\n\n- Encryption\n- Firewalls\n- Authentication"
+        },
+        {
+            "id": "bec_8",
+            "type": "content",
+            "title": "Operations Management",
+            "content": "# Business Operations\n\n## Process Management\n\n| Tool | Purpose |\n|------|--------|\n| Flowcharts | Visualize |\n| Value chain | Activities |\n| Benchmarking | Compare |\n\n## Quality Management\n\n| Approach | Focus |\n|----------|-------|\n| TQM | Continuous |\n| Six Sigma | Defect reduction |\n| Lean | Waste elimination |\n\n## Supply Chain\n\n- Sourcing\n- Manufacturing\n- Distribution"
+        },
+        {
+            "id": "bec_9",
+            "type": "content",
+            "title": "Cost Accounting",
+            "content": "# Management Accounting\n\n## Cost Classification\n\n| Type | Behavior |\n|------|----------|\n| Fixed | Constant total |\n| Variable | Per unit constant |\n| Mixed | Both |\n\n## Variance Analysis\n\n```\nMaterial Price: (AP-SP) x AQ\nMaterial Usage: (AQ-SQ) x SP\nLabor Rate: (AR-SR) x AH\nLabor Efficiency: (AH-SH) x SR\n```"
+        },
+        {
+            "id": "bec_quiz_3",
+            "type": "quiz",
+            "title": "Operations Quiz",
+            "content": "Test your operations knowledge!",
+            "quizQuestion": "Six Sigma focuses on?",
+            "quizOptions": [
+                "Cost cutting",
+                "Waste elimination",
+                "Defect reduction",
+                "Revenue growth"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "bec_10",
+            "type": "content",
+            "title": "Project Management",
+            "content": "# Managing Projects\n\n## Constraints\n\n```\nScope - Time - Cost\n(Iron Triangle)\n```\n\n## Tools\n\n| Tool | Purpose |\n|------|--------|\n| Gantt | Timeline |\n| PERT/CPM | Critical path |\n| WBS | Breakdown |\n\n## Critical Path\n\n```\nLongest path through network\nNo slack time\n```"
+        },
+        {
+            "id": "bec_11",
+            "type": "content",
+            "title": "Financial Ratios",
+            "content": "# Analysis Ratios\n\n## Profitability\n\n| Ratio | Formula |\n|-------|--------|\n| ROA | NI / Assets |\n| ROE | NI / Equity |\n| Margin | NI / Revenue |\n\n## Liquidity\n\n| Ratio | Formula |\n|-------|--------|\n| Current | CA / CL |\n| Quick | (CA - Inv) / CL |\n\n## Leverage\n\n| Ratio | Formula |\n|-------|--------|\n| Debt/Equity | D / E |\n| Interest coverage | EBIT / Interest |"
+        },
+        {
+            "id": "bec_12",
+            "type": "content",
+            "title": "Economics of International",
+            "content": "# Global Economics\n\n## Exchange Rates\n\n| System | Determination |\n|--------|---------------|\n| Fixed | Government |\n| Floating | Market |\n| Managed | Intervention |\n\n## Trade\n\n| Concept | Meaning |\n|---------|--------|\n| Comparative advantage | Relative efficiency |\n| Trade deficit | Imports > Exports |\n| Tariffs | Import taxes |"
+        },
+        {
+            "id": "bec_quiz_4",
+            "type": "quiz",
+            "title": "IT Quiz",
+            "content": "Test your IT knowledge!",
+            "quizQuestion": "ERP stands for Enterprise Resource?",
+            "quizOptions": [
+                "Process",
+                "Planning",
+                "Production",
+                "Program"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "bec_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CPA BEC - Business Environment**!\n\n## Key Topics\n\n### Governance\n- Corporate structure\n- Internal controls\n\n### Economics\n- Business cycle\n- Monetary policy\n- International trade\n\n### Finance\n- Capital budgeting\n- Working capital\n- WACC\n\n### IT & Operations\n- IT controls\n- Quality management\n- Project management\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| NPV | Investment |\n| WACC | Cost |\n| CCC | Working capital |\n\n## Congratulations!\n\nYou completed all CPA topics!"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "id": "learn_inv",
+    "topicId": "inv",
+    "topicTitle": "Inventory Management",
+    "description": "Master inventory management in Tally including Stock Groups and Items, Godowns, Stock Valuation Methods, and Inventory Reports",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "inv_1",
+            "type": "content",
+            "title": "Welcome to Inventory Management",
+            "content": "# Inventory Management in Tally\n\nTally provides comprehensive **inventory management** features for businesses that deal with physical goods.\n\n## What You Will Learn\n\n- **Stock Groups and Items** - Organizing inventory\n- **Godowns/Warehouses** - Location management\n- **Stock Valuation** - FIFO, LIFO, Average\n- **Inventory Reports** - Stock analysis\n\n## Enabling Inventory\n\n**F11 > Inventory Features**\n\n```\nMaintain Stock Items: Yes\nMaintain Multiple Godowns: Yes\nTracking Numbers: Yes\nUse Batch-wise Details: [Optional]\nUse Expiry Dates: [Optional]\n```\n\n## Benefits of Inventory in Tally\n\n| Feature | Benefit |\n|---------|--------|\n| Real-time tracking | Know stock at any moment |\n| Multiple locations | Manage warehouses |\n| Valuation methods | Accurate costing |\n| Batch tracking | Quality and expiry |\n| Auto accounting | Seamless integration |\n\n## Inventory Flow\n\n```\nPurchase --> Stock In --> Sales --> Stock Out\n    |            |            |\n    v            v            v\n   Cost        Current    Revenue\n   Update      Stock      & COGS\n```\n\n> **Inventory management** is crucial for trading businesses!"
+        },
+        {
+            "id": "inv_2",
+            "type": "content",
+            "title": "Stock Groups",
+            "content": "# Organizing Stock with Groups\n\n## What are Stock Groups?\n\nStock groups **categorize inventory items** for better organization and reporting.\n\n## Default Stock Group\n\n- Primary (root level)\n- All items belong here if no group specified\n\n## Creating Stock Groups\n\n**Path:** Gateway > Create > Stock Group\n\n```\n+----------------------------------+\n| Stock Group Creation             |\n+----------------------------------+\n| Name: Electronics                |\n| Under: Primary                   |\n| Should Quantities Add: Yes       |\n+----------------------------------+\n```\n\n## Stock Group Hierarchy\n\n```\nPrimary\n  |\n  +-- Electronics\n  |     +-- Mobile Phones\n  |     +-- Laptops\n  |     +-- Accessories\n  |\n  +-- Furniture\n  |     +-- Office Furniture\n  |     +-- Home Furniture\n  |\n  +-- Raw Materials\n        +-- Steel\n        +-- Plastic\n        +-- Wood\n```\n\n## Benefits of Grouping\n\n| Benefit | Example |\n|---------|--------|\n| Organized view | Category-wise reports |\n| Group totals | Electronics total value |\n| Easy search | Find within category |\n| Consistent pricing | Group-level discounts |\n\n## Altering Stock Groups\n\n**Path:** Gateway > Alter > Stock Group\n\n- Rename groups\n- Move to different parent\n- Delete if empty\n\n> **Good organization** makes inventory management easier!"
+        },
+        {
+            "id": "inv_3",
+            "type": "content",
+            "title": "Stock Items",
+            "content": "# Creating Stock Items\n\n## What is a Stock Item?\n\nA stock item is an **individual product** that you buy, store, or sell.\n\n## Stock Item Creation\n\n**Path:** Gateway > Create > Stock Item\n\n```\n+----------------------------------+\n| Stock Item Creation              |\n+----------------------------------+\n| Name: Samsung Galaxy S24         |\n| Under: Mobile Phones             |\n| Units: Nos                       |\n+----------------------------------+\n| Opening Balance:                 |\n| Quantity: 50 Nos                 |\n| Rate: Rs. 45,000                 |\n| Value: Rs. 22,50,000             |\n+----------------------------------+\n```\n\n## Key Fields\n\n| Field | Description |\n|-------|-------------|\n| Name | Item name |\n| Under | Stock group |\n| Units | Unit of measure |\n| Opening Qty | Starting stock |\n| Opening Rate | Cost per unit |\n\n## Units of Measure\n\n### Creating Units\n\n**Path:** Gateway > Create > Unit\n\n```\nSymbol: Nos\nFormal Name: Numbers\n\nSymbol: Kgs\nFormal Name: Kilograms\n\nSymbol: Ltrs\nFormal Name: Liters\n```\n\n### Compound Units\n\n```\nBox of 10 Nos:\nFirst Unit: Box\nSecond Unit: Nos\nConversion: 1 Box = 10 Nos\n```\n\n## Stock Item Categories\n\n| Type | Track Stock |\n|------|-------------|\n| Goods | Yes |\n| Services | No |\n| Consumables | Optional |\n\n> **Accurate item setup** ensures correct inventory tracking!"
+        },
+        {
+            "id": "inv_quiz_1",
+            "type": "quiz",
+            "title": "Stock Items Quiz",
+            "content": "Test your stock item knowledge!",
+            "quizQuestion": "What must be defined before creating stock items?",
+            "quizOptions": [
+                "Ledgers",
+                "Units of Measure",
+                "Cost Centers",
+                "Currencies"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "inv_4",
+            "type": "content",
+            "title": "Godowns and Locations",
+            "content": "# Managing Multiple Locations\n\n## What are Godowns?\n\nGodowns are **storage locations** where inventory is kept.\n\n## Enabling Godowns\n\n**F11 > Inventory Features**\n\n```\nMaintain Multiple Godowns: Yes\n```\n\n## Creating Godowns\n\n**Path:** Gateway > Create > Godown\n\n```\n+----------------------------------+\n| Godown Creation                  |\n+----------------------------------+\n| Name: Mumbai Warehouse           |\n| Under: Primary                   |\n| Address: 123 Industrial Area     |\n+----------------------------------+\n```\n\n## Godown Hierarchy\n\n```\nPrimary\n  |\n  +-- Main Warehouse\n  |     +-- Zone A\n  |     +-- Zone B\n  |\n  +-- Showroom\n  |\n  +-- Transit Stock\n```\n\n## Stock in Transaction\n\n### Purchase Entry\n\n```\n+----------------------------------+\n| Purchase Voucher                 |\n+----------------------------------+\n| Item: Samsung Galaxy S24         |\n| Quantity: 100 Nos                |\n| Godown: Mumbai Warehouse         |\n+----------------------------------+\n```\n\n## Stock Transfer Between Godowns\n\n### Stock Journal\n\n```\n+----------------------------------+\n| Stock Journal                    |\n+----------------------------------+\n| Transfer From: Mumbai Warehouse  |\n| Transfer To: Delhi Warehouse     |\n| Item: Samsung Galaxy S24         |\n| Quantity: 25 Nos                 |\n+----------------------------------+\n```\n\n## Godown Reports\n\n- Stock by Godown\n- Movement by Location\n- Godown Summary\n\n> **Multi-location tracking** ensures stock visibility!"
+        },
+        {
+            "id": "inv_5",
+            "type": "content",
+            "title": "Purchase and Sales with Inventory",
+            "content": "# Inventory Transactions\n\n## Purchase with Stock Update\n\n### Invoice Mode (Ctrl+V for Item Invoice)\n\n```\n+------------------------------------------+\n| Purchase Voucher (F9)                    |\n+------------------------------------------+\n| Party: ABC Suppliers                     |\n| Invoice No: SUP-001                      |\n+------------------------------------------+\n| Item          | Qty  | Rate    | Amount |\n| Samsung S24   | 50   | 45,000  | 22.5L  |\n| iPhone 15     | 30   | 80,000  | 24.0L  |\n+------------------------------------------+\n| CGST @ 9%:                        4.185L |\n| SGST @ 9%:                        4.185L |\n| Total:                           54.87L  |\n+------------------------------------------+\n```\n\n## Sales with Stock Update\n\n### Invoice Mode\n\n```\n+------------------------------------------+\n| Sales Voucher (F8)                       |\n+------------------------------------------+\n| Party: XYZ Retailers                     |\n| Invoice No: INV-001                      |\n+------------------------------------------+\n| Item          | Qty  | Rate    | Amount |\n| Samsung S24   | 10   | 55,000  | 5.5L   |\n+------------------------------------------+\n| Godown: Main Warehouse                   |\n| Available Stock: 50 Nos                  |\n| After Sale: 40 Nos                       |\n+------------------------------------------+\n```\n\n## Automatic Entries\n\n### Purchase\n\n```\nPurchase A/c (Dr)     46.5L\nInput CGST (Dr)        4.185L\nInput SGST (Dr)        4.185L\nVendor A/c (Cr)       54.87L\nStock Updated +80 units\n```\n\n### Sales\n\n```\nCustomer A/c (Dr)      6.49L\nSales A/c (Cr)         5.5L\nOutput CGST (Cr)       0.495L\nOutput SGST (Cr)       0.495L\nStock Updated -10 units\n```\n\n> **Integrated transactions** update both accounts and stock!"
+        },
+        {
+            "id": "inv_6",
+            "type": "content",
+            "title": "Stock Valuation Methods",
+            "content": "# Inventory Valuation\n\n## Valuation Methods in Tally\n\n### 1. FIFO (First In First Out)\n\n- Oldest stock sold first\n- Common for perishables\n\n### 2. LIFO (Last In First Out)\n\n- Newest stock sold first\n- Tax benefits in inflation\n\n### 3. Weighted Average\n\n- Average cost of all purchases\n- Most common method\n\n## Setting Valuation Method\n\n**F11 > Inventory Features**\n\n```\nCosting Method for Valuation: Average Cost\nOR\nCosting Method: FIFO\nOR\nCosting Method: LIFO\n```\n\n## Example: Average Cost\n\n```\nOpening: 100 units @ Rs. 10 = Rs. 1,000\nPurchase 1: 50 units @ Rs. 12 = Rs. 600\nPurchase 2: 50 units @ Rs. 14 = Rs. 700\n\nTotal: 200 units = Rs. 2,300\nAverage Cost: Rs. 2,300 / 200 = Rs. 11.50\n```\n\n## Example: FIFO\n\n```\nSale of 120 units:\n- 100 units @ Rs. 10 = Rs. 1,000\n- 20 units @ Rs. 12 = Rs. 240\n- COGS = Rs. 1,240\n```\n\n## Example: LIFO\n\n```\nSale of 120 units:\n- 50 units @ Rs. 14 = Rs. 700\n- 50 units @ Rs. 12 = Rs. 600\n- 20 units @ Rs. 10 = Rs. 200\n- COGS = Rs. 1,500\n```\n\n> **Choose the right method** for accurate costing!"
+        },
+        {
+            "id": "inv_7",
+            "type": "content",
+            "title": "Batch and Expiry Tracking",
+            "content": "# Batch-wise Inventory\n\n## Enabling Batch Tracking\n\n**F11 > Inventory Features**\n\n```\nUse Batch-wise Details: Yes\nUse Expiry Dates: Yes\n```\n\n### In Stock Item\n\n```\nTrack Batches: Yes\nTrack Expiry: Yes\n```\n\n## Purchase with Batch\n\n```\n+----------------------------------+\n| Purchase Voucher                 |\n+----------------------------------+\n| Item: Medicine ABC               |\n| Quantity: 100 Nos                |\n+----------------------------------+\n| Batch Allocations:               |\n| Batch No: BATCH-001              |\n| Mfg Date: 01-Jan-2024            |\n| Expiry Date: 31-Dec-2025         |\n| Quantity: 100 Nos                |\n+----------------------------------+\n```\n\n## Sales with Batch\n\n```\n+----------------------------------+\n| Sales Voucher                    |\n+----------------------------------+\n| Item: Medicine ABC               |\n| Quantity: 25 Nos                 |\n+----------------------------------+\n| Select Batch:                    |\n| BATCH-001 (Exp: 31-Dec-2025)     |\n| Available: 100, Selling: 25      |\n+----------------------------------+\n```\n\n## Benefits\n\n| Feature | Use Case |\n|---------|----------|\n| Batch tracking | Quality recall |\n| Expiry dates | Pharma, food |\n| FEFO | First Expiry First Out |\n| Mfg date | Warranty tracking |\n\n## Batch Reports\n\n- Batch Summary\n- Expiry Report\n- Batch Movement\n\n> **Batch tracking** ensures product traceability!"
+        },
+        {
+            "id": "inv_quiz_2",
+            "type": "quiz",
+            "title": "Valuation Quiz",
+            "content": "Test your valuation knowledge!",
+            "quizQuestion": "In FIFO valuation method, which stock is assumed to be sold first?",
+            "quizOptions": [
+                "Newest stock",
+                "Oldest stock",
+                "Highest cost stock",
+                "Lowest cost stock"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "inv_8",
+            "type": "content",
+            "title": "Stock Journal",
+            "content": "# Stock Transfer and Adjustment\n\n## What is Stock Journal?\n\nStock journal records **internal stock movements** without affecting accounts.\n\n## Stock Transfer (Godown to Godown)\n\n```\n+----------------------------------+\n| Stock Journal                    |\n+----------------------------------+\n| Source (Consumption):            |\n| Item: Samsung S24                |\n| Godown: Mumbai Warehouse         |\n| Quantity: 20 Nos                 |\n+----------------------------------+\n| Destination (Production):        |\n| Item: Samsung S24                |\n| Godown: Delhi Warehouse          |\n| Quantity: 20 Nos                 |\n+----------------------------------+\n```\n\n## Manufacturing Entry\n\n### Raw Material to Finished Good\n\n```\n+----------------------------------+\n| Stock Journal (Manufacturing)    |\n+----------------------------------+\n| Consumption:                     |\n| Steel - 50 Kgs @ Rs. 80          |\n| Plastic - 10 Kgs @ Rs. 100       |\n| Total Cost: Rs. 5,000            |\n+----------------------------------+\n| Production:                      |\n| Metal Chair - 10 Nos @ Rs. 500   |\n| Total Value: Rs. 5,000           |\n+----------------------------------+\n```\n\n## Stock Adjustment\n\n### Physical Stock Correction\n\n```\n+----------------------------------+\n| Stock Journal (Adjustment)       |\n+----------------------------------+\n| Destination (Add to stock):      |\n| Item: Widget A                   |\n| Quantity: 5 Nos (found)          |\n| Rate: Rs. 100                    |\n+----------------------------------+\n| OR                               |\n+----------------------------------+\n| Source (Remove from stock):      |\n| Item: Widget B                   |\n| Quantity: 3 Nos (shortage)       |\n| Rate: Rs. 150                    |\n+----------------------------------+\n```\n\n> **Stock journals** manage internal movements!"
+        },
+        {
+            "id": "inv_9",
+            "type": "content",
+            "title": "Physical Stock Verification",
+            "content": "# Physical Stock Count\n\n## Why Physical Verification?\n\n- Match book stock with actual\n- Identify discrepancies\n- Adjust for theft, damage, expiry\n- Compliance requirement\n\n## Physical Stock Entry\n\n**Path:** Gateway > Vouchers > Physical Stock (Alt+F7)\n\n```\n+----------------------------------+\n| Physical Stock Voucher           |\n+----------------------------------+\n| Date: 31-Mar-2024                |\n| Godown: Main Warehouse           |\n+----------------------------------+\n| Item        | Book | Physical    |\n| Samsung S24 | 100  | 98          |\n| iPhone 15   | 50   | 50          |\n| Accessories | 200  | 195         |\n+----------------------------------+\n```\n\n## Recording Count\n\n### Method 1: Full Count\n\nEnter physical quantity for all items.\n\n### Method 2: Difference Only\n\nEnter only items with variance.\n\n## After Physical Stock\n\n### Shortage Entry\n\n```\nStock Shortage Found:\n  Samsung S24: 2 Nos short\n\nJournal/Stock Journal:\n  Stock Shortage A/c (Dr)\n  Stock A/c (Cr)\n```\n\n### Excess Found\n\n```\nStock Excess Found:\n  Widget A: 5 Nos excess\n\nJournal/Stock Journal:\n  Stock A/c (Dr)\n  Stock Excess A/c (Cr)\n```\n\n## Physical Stock Report\n\n- Variance Report\n- Stock as on Date\n- Verification History\n\n> **Regular verification** keeps inventory accurate!"
+        },
+        {
+            "id": "inv_10",
+            "type": "content",
+            "title": "Stock Movement Vouchers",
+            "content": "# Delivery and Receipt Notes\n\n## Delivery Note\n\n### When to Use\n- Goods sent before billing\n- Material on approval\n- Inter-branch transfer\n\n### Creating Delivery Note\n\n```\n+----------------------------------+\n| Delivery Note                    |\n+----------------------------------+\n| Party: Customer ABC              |\n| Tracking No: DN-001              |\n+----------------------------------+\n| Item: Samsung S24                |\n| Quantity: 10 Nos                 |\n| From Godown: Main Warehouse      |\n+----------------------------------+\n```\n\n### Convert to Sales Invoice\n\nLater, create sales voucher referencing delivery note.\n\n## Receipt Note\n\n### When to Use\n- Goods received before invoice\n- Quality inspection pending\n- GRN (Goods Receipt Note)\n\n### Creating Receipt Note\n\n```\n+----------------------------------+\n| Receipt Note                     |\n+----------------------------------+\n| Party: Supplier XYZ              |\n| Tracking No: RN-001              |\n+----------------------------------+\n| Item: Raw Material A             |\n| Quantity: 500 Kgs                |\n| To Godown: Production Store      |\n+----------------------------------+\n```\n\n### Convert to Purchase\n\nLater, record purchase invoice referencing receipt note.\n\n## Pending Notes Report\n\n- Delivery Notes pending invoice\n- Receipt Notes pending invoice\n\n> **Movement vouchers** provide tracking visibility!"
+        },
+        {
+            "id": "inv_11",
+            "type": "content",
+            "title": "Stock Summary Reports",
+            "content": "# Inventory Reports\n\n## Stock Summary\n\n**Path:** Gateway > Display > Inventory Books > Stock Summary\n\n```\n+------------------------------------------+\n| Stock Summary as on 31-Mar-2024          |\n+------------------------------------------+\n| Item          | Qty    | Rate   | Value  |\n+------------------------------------------+\n| Electronics   |        |        |        |\n|   Samsung S24 | 100    | 45,000 | 45.0L  |\n|   iPhone 15   | 50     | 80,000 | 40.0L  |\n|   Accessories | 500    | 200    | 1.0L   |\n+------------------------------------------+\n| Total stock value:              86.0L    |\n+------------------------------------------+\n```\n\n## Godown-wise Stock\n\n```\n+------------------------------------------+\n| Stock by Godown                          |\n+------------------------------------------+\n| Godown        | Items  | Value          |\n| Mumbai        | 250    | 45.0L          |\n| Delhi         | 180    | 30.0L          |\n| Chennai       | 120    | 11.0L          |\n+------------------------------------------+\n```\n\n## Movement Analysis\n\n### Stock Movement Report\n\n```\n+------------------------------------------+\n| Stock Movement: Samsung S24              |\n| 1-Apr-2023 to 31-Mar-2024               |\n+------------------------------------------+\n| Opening:                      50 Nos     |\n| Inward (Purchases):          500 Nos     |\n| Outward (Sales):             400 Nos     |\n| Closing:                     150 Nos     |\n+------------------------------------------+\n```\n\n## Report Configurations (F12)\n\n- Show Quantity\n- Show Value\n- Show Godown-wise\n- Show Batch-wise\n\n> **Reports provide actionable insights!**"
+        },
+        {
+            "id": "inv_quiz_3",
+            "type": "quiz",
+            "title": "Reports Quiz",
+            "content": "Test your report knowledge!",
+            "quizQuestion": "Which report shows the total value of inventory on hand?",
+            "quizOptions": [
+                "Day Book",
+                "Trial Balance",
+                "Stock Summary",
+                "Cash Flow"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "inv_12",
+            "type": "content",
+            "title": "Reorder Level and Stock Analysis",
+            "content": "# Stock Management Tools\n\n## Reorder Level\n\n### Setting in Stock Item\n\n```\n+----------------------------------+\n| Stock Item: Samsung S24          |\n+----------------------------------+\n| Reorder Level: 50 Nos            |\n| Minimum Level: 20 Nos            |\n| Maximum Level: 200 Nos           |\n+----------------------------------+\n```\n\n## Reorder Status Report\n\n**Path:** Display > Inventory Books > Reorder Status\n\n```\n+------------------------------------------+\n| Reorder Status Report                    |\n+------------------------------------------+\n| Item        | Stock | Reorder | Deficit |\n| Samsung S24 | 35    | 50      | 15      |\n| iPhone 15   | 10    | 30      | 20      |\n+------------------------------------------+\n```\n\n## Stock Aging Analysis\n\n### Items by Age\n\n```\n+------------------------------------------+\n| Stock Aging Report                       |\n+------------------------------------------+\n| Item        | 0-30 | 31-60 | 60+ Days  |\n| Samsung S24 | 80   | 15    | 5         |\n| Old Phone   | 0    | 5     | 25        |\n+------------------------------------------+\n```\n\n## Slow/Non-Moving Items\n\n```\n+------------------------------------------+\n| Slow Moving Analysis (No sale > 60 days) |\n+------------------------------------------+\n| Item           | Last Sale | Qty        |\n| Old Accessory  | 90 days   | 50         |\n| Obsolete Part  | 180 days  | 25         |\n+------------------------------------------+\n```\n\n## ABC Analysis\n\n| Category | Description | % of Items | % of Value |\n|----------|-------------|------------|------------|\n| A | High value | 20% | 80% |\n| B | Medium | 30% | 15% |\n| C | Low value | 50% | 5% |\n\n> **Analysis tools** help optimize inventory!"
+        },
+        {
+            "id": "inv_13",
+            "type": "content",
+            "title": "Price Lists and Categories",
+            "content": "# Pricing in Tally\n\n## Price Lists\n\n### Creating Price List\n\n**Path:** Gateway > Create > Price Level\n\n```\n+----------------------------------+\n| Price Level Creation             |\n+----------------------------------+\n| Name: Wholesale Price            |\n| OR                               |\n| Name: Retail Price               |\n| OR                               |\n| Name: Export Price               |\n+----------------------------------+\n```\n\n## Setting Item Prices\n\n### In Stock Item\n\n```\n+----------------------------------+\n| Price Levels:                    |\n+----------------------------------+\n| Standard Price: Rs. 50,000       |\n| Wholesale: Rs. 45,000            |\n| Retail: Rs. 55,000               |\n| Export: $600                     |\n+----------------------------------+\n```\n\n## Stock Categories\n\n### Purpose\n\n- Group items for GST classification\n- Apply common tax rates\n- HSN/SAC assignment\n\n### Creating Category\n\n```\n+----------------------------------+\n| Stock Category Creation          |\n+----------------------------------+\n| Name: Mobile Phones              |\n| HSN Code: 8517                   |\n| GST Rate: 18%                    |\n+----------------------------------+\n```\n\n## Using in Transactions\n\n### Sales with Price List\n\n```\n+----------------------------------+\n| Sales to Wholesaler              |\n+----------------------------------+\n| Price Level: Wholesale           |\n| Item: Samsung S24                |\n| Rate: Rs. 45,000 (Auto-picked)   |\n+----------------------------------+\n```\n\n> **Price lists** enable flexible pricing strategies!"
+        },
+        {
+            "id": "inv_14",
+            "type": "content",
+            "title": "Bill of Materials (BOM)",
+            "content": "# Manufacturing with BOM\n\n## What is BOM?\n\nBill of Materials lists all **components needed to manufacture** a finished product.\n\n## Enabling BOM\n\n**F11 > Inventory Features**\n\n```\nSet Components (BOM) for Stock Items: Yes\n```\n\n## Creating BOM\n\n### In Finished Good Item\n\n```\n+----------------------------------+\n| Stock Item: Metal Table          |\n| Under: Finished Goods            |\n+----------------------------------+\n| Components (BOM):                |\n| Steel Sheet - 10 Kgs @ Rs. 80    |\n| Screws - 20 Nos @ Rs. 5          |\n| Paint - 1 Ltr @ Rs. 200          |\n| Labor (if tracked)               |\n+----------------------------------+\n| Total Component Cost: Rs. 1,100  |\n+----------------------------------+\n```\n\n## Using BOM in Production\n\n### Stock Journal\n\n```\n+----------------------------------+\n| Manufacturing Entry              |\n+----------------------------------+\n| Produce: Metal Table - 10 Nos    |\n+----------------------------------+\n| Auto-consume per BOM:            |\n| Steel Sheet: 100 Kgs             |\n| Screws: 200 Nos                  |\n| Paint: 10 Ltrs                   |\n+----------------------------------+\n```\n\n## BOM Reports\n\n- Component Requirement\n- Production Summary\n- Variance Analysis\n\n## Benefits\n\n| Feature | Benefit |\n|---------|--------|\n| Auto consumption | Less entry |\n| Cost calculation | Accurate costing |\n| Requirement planning | Know needs |\n| Variance tracking | Quality control |\n\n> **BOM enables** efficient manufacturing planning!"
+        },
+        {
+            "id": "inv_15",
+            "type": "content",
+            "title": "Inventory Reporting Period End",
+            "content": "# Inventory Period-End Activities\n\n## Month-End Checklist\n\n### 1. Physical Verification\n\n- Count all stock\n- Record physical stock\n- Investigate differences\n\n### 2. Stock Valuation\n\n```\n+----------------------------------+\n| Stock Valuation Report           |\n+----------------------------------+\n| Opening Stock:        50,00,000  |\n| Purchases:           1,20,00,000 |\n| Sales (at cost):       90,00,000 |\n| Closing Stock:         80,00,000 |\n+----------------------------------+\n```\n\n### 3. COGS Calculation\n\n```\nCost of Goods Sold:\nOpening Stock    +    50,00,000\nPurchases        + 1,20,00,000\n                 ---------------\nGoods Available  = 1,70,00,000\nClosing Stock    -    80,00,000\n                 ---------------\nCOGS             =    90,00,000\n```\n\n### 4. Adjustments\n\n- Stock write-offs\n- Expired goods\n- Damaged goods\n- Obsolete inventory\n\n## Year-End Activities\n\n- Complete physical verification\n- Reconcile stock register\n- Finalize valuation method\n- Year-end stock report\n- Audit preparation\n\n## Key Reports\n\n| Report | Purpose |\n|--------|--------|\n| Stock Summary | Current position |\n| Stock Valuation | Value by method |\n| Movement Report | Inward/outward |\n| Aging Report | Slow moving |\n\n> **Period-end activities** ensure accurate reporting!"
+        },
+        {
+            "id": "inv_16",
+            "type": "content",
+            "title": "Inventory Best Practices",
+            "content": "# Best Practices\n\n## Master Data Quality\n\n| Practice | Benefit |\n|----------|--------|\n| Consistent naming | Easy search |\n| Proper units | Accurate counting |\n| Complete details | Full tracking |\n| Regular review | Clean data |\n\n## Transaction Discipline\n\n### Real-Time Entry\n- Same-day voucher entry\n- Immediate stock update\n- Accurate availability\n\n### Proper Documentation\n- Reference numbers\n- Narration\n- Supporting documents\n\n## Physical Controls\n\n### Warehouse Management\n\n- Designated locations\n- FIFO arrangement\n- Regular counts\n- Access control\n\n### Periodic Verification\n\n| Frequency | Method |\n|-----------|--------|\n| Daily | High-value items |\n| Weekly | Fast-moving items |\n| Monthly | Full count |\n| Quarterly | Audit count |\n\n## Common Mistakes to Avoid\n\n| Mistake | Impact |\n|---------|--------|\n| Delayed entry | Stock mismatch |\n| Wrong quantities | Incorrect reports |\n| Missing batches | Traceability lost |\n| No backup | Data loss risk |\n\n## Reports to Monitor\n\n- Daily Stock Summary\n- Weekly Movement\n- Negative Stock Alert\n- Reorder Status\n\n> **Good practices** prevent inventory problems!"
+        },
+        {
+            "id": "inv_quiz_4",
+            "type": "quiz",
+            "title": "Best Practices Quiz",
+            "content": "Test your best practices knowledge!",
+            "quizQuestion": "What is the recommended frequency for physical verification of high-value items?",
+            "quizOptions": [
+                "Quarterly",
+                "Monthly",
+                "Weekly",
+                "Daily"
+            ],
+            "correctOptionIndex": 3
+        },
+        {
+            "id": "inv_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **Inventory Management** lesson!\n\n## Key Concepts Mastered\n\n### Organization\n- Stock Groups for categorization\n- Stock Items with units and values\n- Godowns for location tracking\n\n### Transactions\n- Purchase and Sales with stock\n- Stock Journal for transfers\n- Delivery and Receipt Notes\n- Physical Stock verification\n\n### Valuation\n- FIFO, LIFO, Weighted Average\n- Batch and expiry tracking\n- Opening and closing stock\n\n### Analysis\n- Stock Summary reports\n- Movement analysis\n- Reorder level monitoring\n- Aging analysis\n\n## Quick Reference\n\n| Function | Path/Key |\n|----------|----------|\n| Stock Group | Create > Stock Group |\n| Stock Item | Create > Stock Item |\n| Stock Journal | Alt+F7 or Vouchers |\n| Stock Summary | Display > Inventory Books |\n| Physical Stock | Alt+F7 |\n\n## Key Reports\n\n| Report | Shows |\n|--------|-------|\n| Stock Summary | Current stock |\n| Movement | Inward/outward |\n| Godown Summary | Location-wise |\n| Reorder Status | Items to order |\n\n## What is Next?\n\nExplore:\n- GST in Tally\n- Advanced Tally features\n- Manufacturing in Tally\n\n> **You now have inventory management skills** in Tally!"
+        }
+    ]
+}

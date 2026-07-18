@@ -1,0 +1,143 @@
+{
+    "id": "learn_gst_reg",
+    "topicId": "gst_reg",
+    "topicTitle": "GST Registration",
+    "description": "Master GST Registration including Thresholds, Process, and Compliance",
+    "baseKP": 50,
+    "slides": [
+        {
+            "id": "gst_r1",
+            "type": "content",
+            "title": "Welcome to GST Registration",
+            "content": "# GST Registration\n\nRegistration is the **gateway to GST compliance**.\n\n## What You Will Learn\n\n- **Thresholds** - Registration limits\n- **Process** - Application procedure\n- **GSTIN** - Structure and meaning\n- **Amendments** - Changes and cancellation\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Compulsory | Mandatory cases |\n| Voluntary | Optional |\n| Process | Application |\n| Cancellation | Termination |"
+        },
+        {
+            "id": "gst_r2",
+            "type": "content",
+            "title": "Registration Thresholds",
+            "content": "# Aggregate Turnover\n\n## Limits\n\n| Category | Threshold |\n|----------|----------|\n| Services | Rs 20 lakh |\n| Goods (normal) | Rs 40 lakh |\n| Special states | Rs 10/20 lakh |\n\n## Aggregate Turnover\n\n```\nIncludes:\n- Taxable supplies\n- Exempt supplies\n- Exports\n- Interstate supplies\n\nExcludes:\n- Inward supplies under RCM\n- CGST, SGST, IGST\n```"
+        },
+        {
+            "id": "gst_r3",
+            "type": "content",
+            "title": "Compulsory Registration",
+            "content": "# Mandatory Cases\n\n## Section 24\n\n| Category | Threshold |\n|----------|----------|\n| Interstate supply | Nil |\n| Casual taxable | Nil |\n| Non-resident | Nil |\n| Reverse charge | Nil |\n| E-commerce operator | Nil |\n| E-commerce seller | Nil |\n| TDS/TCS | Nil |\n| Input service distributor | Nil |\n\n## No Threshold Applies\n\n```\nThese persons must register\nregardless of turnover\n```"
+        },
+        {
+            "id": "gst_r_quiz1",
+            "type": "quiz",
+            "title": "Threshold Quiz",
+            "content": "Test your threshold knowledge!",
+            "quizQuestion": "Interstate supplier registration threshold is?",
+            "quizOptions": [
+                "Rs 20 lakh",
+                "Rs 40 lakh",
+                "Rs 10 lakh",
+                "Nil (must register)"
+            ],
+            "correctOptionIndex": 3
+        },
+        {
+            "id": "gst_r4",
+            "type": "content",
+            "title": "GSTIN Structure",
+            "content": "# Registration Number\n\n## 15-Digit Format\n\n```\nPosition | Meaning\n---------|--------\n1-2      | State code\n3-12     | PAN\n13       | Entity number\n14       | Z (default)\n15       | Check digit\n```\n\n## Example\n\n```\n27AABCU9603R1ZM\n\n27 = Maharashtra\nAABCU9603R = PAN\n1 = Entity\nZ = Default\nM = Check digit\n```"
+        },
+        {
+            "id": "gst_r5",
+            "type": "content",
+            "title": "Registration Process",
+            "content": "# Application Procedure\n\n## Online Process\n\n```\n1. Visit GST portal\n2. Fill Part A (PAN, email, mobile)\n3. OTP verification\n4. TRN generated\n5. Fill Part B (business details)\n6. Upload documents\n7. Submit with DSC/EVC\n```\n\n## Timeline\n\n| Stage | Time |\n|-------|------|\n| Verification | 3 working days |\n| Query response | 7 working days |\n| Approval | Within 7 days |\n\n## Documents Required\n\n- PAN, Aadhaar\n- Business address proof\n- Bank details\n- Photographs"
+        },
+        {
+            "id": "gst_r6",
+            "type": "content",
+            "title": "Composition Scheme",
+            "content": "# Small Taxpayer Option\n\n## Eligibility\n\n| Type | Limit |\n|------|-------|\n| Goods | Rs 1.5 crore |\n| Services (special) | Rs 50 lakh |\n\n## Tax Rates\n\n| Category | Rate |\n|----------|------|\n| Manufacturers | 1% |\n| Traders | 1% |\n| Restaurants | 5% |\n| Services | 6% |\n\n## Restrictions\n\n- No interstate supply\n- No ITC claim\n- Cannot collect GST"
+        },
+        {
+            "id": "gst_r_quiz2",
+            "type": "quiz",
+            "title": "Composition Quiz",
+            "content": "Test your composition knowledge!",
+            "quizQuestion": "Composition dealer can claim ITC?",
+            "quizOptions": [
+                "Yes, fully",
+                "Yes, partially",
+                "No",
+                "Only for capital goods"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "gst_r7",
+            "type": "content",
+            "title": "Casual and Non-Resident",
+            "content": "# Special Categories\n\n## Casual Taxable Person\n\n```\nOccasionally supplies in a state\nwhere no fixed place of business\n\nAdvance tax deposit required\nRegistration valid for 90 days\n```\n\n## Non-Resident Taxable Person\n\n```\nNo fixed establishment in India\nSupplies to persons in India\n\nAdvance tax deposit required\nRegistration valid for 90 days\n```"
+        },
+        {
+            "id": "gst_r8",
+            "type": "content",
+            "title": "Input Service Distributor",
+            "content": "# ISD Registration\n\n## Definition\n\n```\nOffice that:\n- Receives tax invoices\n- For input services\n- Distributes credit to branches\n```\n\n## Distribution Rules\n\n| Rule | Application |\n|------|-------------|\n| Pro-rata | Based on turnover |\n| Specific | If attributable |\n\n## Restrictions\n\n- Only distributes credit\n- Cannot claim additional ITC\n- Must issue ISD invoice"
+        },
+        {
+            "id": "gst_r9",
+            "type": "content",
+            "title": "Amendment of Registration",
+            "content": "# Changes to Registration\n\n## Core Fields\n\n| Field | Approval Required |\n|-------|------------------|\n| Legal name | Yes |\n| Principal place | Yes |\n| Additional place | Yes |\n| Stakeholders | Yes |\n\n## Non-Core Fields\n\n| Field | Auto-approval |\n|-------|---------------|\n| Bank details | Yes (15 days) |\n| Email/Mobile | Yes |\n| Goods/Services | Yes |\n\n## Timeline\n\n- Within 15 days of change\n- Approval within 15 days"
+        },
+        {
+            "id": "gst_r_quiz3",
+            "type": "quiz",
+            "title": "Amendment Quiz",
+            "content": "Test your amendment knowledge!",
+            "quizQuestion": "Change in principal place of business requires?",
+            "quizOptions": [
+                "Auto-approval",
+                "Officer approval",
+                "No action needed",
+                "Fresh registration"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_r10",
+            "type": "content",
+            "title": "Cancellation of Registration",
+            "content": "# Termination\n\n## Suo Motu (By Officer)\n\n| Ground | Action |\n|--------|--------|\n| Non-filing | 6 consecutive months |\n| Violation | Law breach |\n| Composition abuse | Scheme violation |\n| No business | 6 months |\n\n## Voluntary\n\n```\nApplication in REG-16\nWithin 30 days of business closure\n```\n\n## Consequences\n\n- ITC reversal on stock\n- Final return required\n- Pending dues payment"
+        },
+        {
+            "id": "gst_r11",
+            "type": "content",
+            "title": "Revocation of Cancellation",
+            "content": "# Restoration\n\n## Process\n\n```\n1. Apply within 30 days\n2. File pending returns\n3. Pay all dues\n4. Application in REG-21\n```\n\n## Extension\n\n| Authority | Extension |\n|-----------|----------|\n| Officer | 30 days |\n| Commissioner | Further 30 days |\n\n## Rejection\n\n- Fresh registration required\n- New GSTIN issued"
+        },
+        {
+            "id": "gst_r12",
+            "type": "content",
+            "title": "Multiple Registrations",
+            "content": "# Distinct Persons\n\n## Separate Registrations\n\n| Scenario | Requirement |\n|----------|-------------|\n| Different states | Mandatory |\n| Same state, different verticals | Optional |\n| SEZ unit | Mandatory |\n\n## Implications\n\n```\nEach registration is distinct person\nSupply between them is taxable\n```\n\n## Centralized Registration\n\n- Not available under GST\n- State-wise registration required"
+        },
+        {
+            "id": "gst_r_quiz4",
+            "type": "quiz",
+            "title": "Cancellation Quiz",
+            "content": "Test your cancellation knowledge!",
+            "quizQuestion": "Revocation application must be filed within?",
+            "quizOptions": [
+                "15 days",
+                "30 days",
+                "60 days",
+                "90 days"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_r17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **GST Registration**!\n\n## Key Topics\n\n### Thresholds\n- Rs 20 lakh (services)\n- Rs 40 lakh (goods)\n- Nil for interstate\n\n### Registration\n- GSTIN structure\n- Online process\n- Composition option\n\n### Changes\n- Amendments\n- Cancellation\n- Revocation\n\n## Key Limits\n\n| Limit | Application |\n|-------|-------------|\n| Rs 20/40 lakh | Registration |\n| Rs 1.5 crore | Composition |\n| 30 days | Revocation |\n\n## What is Next?\n\nExplore GST Input Tax Credit!"
+        }
+    ]
+}

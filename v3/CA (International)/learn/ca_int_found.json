@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_int_found",
+    "topicId": "ca_int_found",
+    "topicTitle": "Foundation Level Modules",
+    "description": "Master CA International Foundation covering Accounting, Business, Management, and Law",
+    "baseKP": 50,
+    "slides": [
+        {
+            "id": "cai_f1",
+            "type": "content",
+            "title": "Welcome to Foundation Level",
+            "content": "# CA International Foundation\n\nThe **entry point** to global accounting qualification.\n\n## What You Will Learn\n\n- **FA1** - Recording Financial Transactions\n- **MA1** - Management Information\n- **FAB** - Accountant in Business\n- **FFA** - Financial Accounting\n\n## Level Structure\n\n| Module | Focus |\n|--------|-------|\n| FA1 | Double entry |\n| MA1 | Cost basics |\n| FAB | Business context |\n| FFA | Financial statements |"
+        },
+        {
+            "id": "cai_f2",
+            "type": "content",
+            "title": "Recording Transactions",
+            "content": "# FA1 - Double Entry\n\n## Accounting Equation\n\n```\nAssets = Liabilities + Equity\n```\n\n## Double Entry Rules\n\n| Account Type | Debit | Credit |\n|--------------|-------|--------|\n| Assets | Increase | Decrease |\n| Liabilities | Decrease | Increase |\n| Equity | Decrease | Increase |\n| Income | Decrease | Increase |\n| Expenses | Increase | Decrease |\n\n## Books of Record\n\n- Journal\n- Ledger\n- Trial Balance"
+        },
+        {
+            "id": "cai_f3",
+            "type": "content",
+            "title": "Management Information",
+            "content": "# MA1 - Costing Basics\n\n## Cost Classification\n\n| By | Types |\n|----|-------|\n| Element | Material, Labor, Overhead |\n| Behavior | Fixed, Variable |\n| Function | Production, Admin, Selling |\n\n## Cost Flow\n\n```\nPrime Cost = Direct Materials + Direct Labor\n\nProduction Cost = Prime + Overheads\n\nTotal Cost = Production + Admin + Selling\n```"
+        },
+        {
+            "id": "cai_f_quiz1",
+            "type": "quiz",
+            "title": "Basics Quiz",
+            "content": "Test your foundation knowledge!",
+            "quizQuestion": "To increase an asset, you?",
+            "quizOptions": [
+                "Credit",
+                "Debit",
+                "Either",
+                "Neither"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_f4",
+            "type": "content",
+            "title": "Accountant in Business",
+            "content": "# FAB - Business Context\n\n## Business Functions\n\n| Function | Role |\n|----------|------|\n| Finance | Funding |\n| Marketing | Sales |\n| Operations | Production |\n| HR | People |\n\n## Governance\n\n| Concept | Meaning |\n|---------|--------|\n| Stakeholders | Interested parties |\n| Ethics | Right conduct |\n| Controls | Safeguards |\n| Sustainability | Long-term |"
+        },
+        {
+            "id": "cai_f5",
+            "type": "content",
+            "title": "Financial Accounting Basics",
+            "content": "# FFA - Statements\n\n## Financial Statements\n\n| Statement | Shows |\n|-----------|-------|\n| Income statement | Performance |\n| Balance sheet | Position |\n| Cash flow | Liquidity |\n\n## Key Adjustments\n\n| Adjustment | Treatment |\n|------------|----------|\n| Accruals | Expense incurred |\n| Prepayments | Paid in advance |\n| Depreciation | Asset reduction |\n| Bad debts | Write-off |"
+        },
+        {
+            "id": "cai_f6",
+            "type": "content",
+            "title": "Depreciation Methods",
+            "content": "# Asset Value Reduction\n\n## Methods\n\n| Method | Pattern |\n|--------|--------|\n| Straight-line | Equal |\n| Reducing balance | Declining |\n\n## Formulas\n\n```\nStraight-line:\n= (Cost - Residual) / Life\n\nReducing balance:\n= NBV x Rate\n```\n\n## Journal Entry\n\n```\nDr Depreciation Expense\nCr Accumulated Depreciation\n```"
+        },
+        {
+            "id": "cai_f_quiz2",
+            "type": "quiz",
+            "title": "Depreciation Quiz",
+            "content": "Test your depreciation knowledge!",
+            "quizQuestion": "Accumulated depreciation is a?",
+            "quizOptions": [
+                "Revenue",
+                "Asset",
+                "Expense",
+                "Contra asset"
+            ],
+            "correctOptionIndex": 3
+        },
+        {
+            "id": "cai_f7",
+            "type": "content",
+            "title": "Inventory Valuation",
+            "content": "# Stock Accounting\n\n## Valuation Rule\n\n```\nLower of Cost and NRV\n\nNRV = Selling Price - Costs to Sell\n```\n\n## Cost Methods\n\n| Method | Flow |\n|--------|------|\n| FIFO | First in first out |\n| Weighted average | Average cost |\n\n## Impact\n\n- Balance sheet: Current asset\n- Income statement: Cost of sales"
+        },
+        {
+            "id": "cai_f8",
+            "type": "content",
+            "title": "Bank Reconciliation",
+            "content": "# Reconciling Cash\n\n## Process\n\n```\nBank statement balance\n+ Outstanding deposits\n- Unpresented cheques\n= Adjusted balance\n\nShould equal cash book\n```\n\n## Timing Differences\n\n| Item | Adjust |\n|------|--------|\n| Unpresented cheques | Bank |\n| Outstanding deposits | Bank |\n| Direct debits | Cash book |\n| Bank charges | Cash book |"
+        },
+        {
+            "id": "cai_f9",
+            "type": "content",
+            "title": "Trial Balance",
+            "content": "# Proving Accuracy\n\n## Purpose\n\n```\nList all balances\nDebits = Credits\n```\n\n## Errors NOT Revealed\n\n| Error | Description |\n|-------|-------------|\n| Omission | Missed completely |\n| Commission | Wrong account |\n| Principle | Wrong class |\n| Original entry | Wrong amount |\n| Compensating | Balance out |"
+        },
+        {
+            "id": "cai_f_quiz3",
+            "type": "quiz",
+            "title": "Inventory Quiz",
+            "content": "Test your inventory knowledge!",
+            "quizQuestion": "Inventory is valued at lower of?",
+            "quizOptions": [
+                "Cost and FV",
+                "Cost and NRV",
+                "NRV and FV",
+                "Cost only"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_f10",
+            "type": "content",
+            "title": "Control Accounts",
+            "content": "# Receivables and Payables\n\n## Receivables Control\n\n```\nOpening balance\n+ Credit sales\n- Cash received\n- Bad debts\n- Returns\n= Closing balance\n```\n\n## Payables Control\n\n```\nOpening balance\n+ Credit purchases\n- Cash paid\n- Returns\n= Closing balance\n```"
+        },
+        {
+            "id": "cai_f11",
+            "type": "content",
+            "title": "Business Ethics",
+            "content": "# Professional Conduct\n\n## Fundamental Principles\n\n| Principle | Meaning |\n|-----------|--------|\n| Integrity | Honest |\n| Objectivity | Unbiased |\n| Competence | Skilled |\n| Confidentiality | Protect info |\n| Behavior | Professional |\n\n## Ethical Threats\n\n- Self-interest\n- Familiarity\n- Intimidation\n- Self-review\n- Advocacy"
+        },
+        {
+            "id": "cai_f12",
+            "type": "content",
+            "title": "Organizational Structure",
+            "content": "# Business Context\n\n## Types of Organization\n\n| Type | Features |\n|------|----------|\n| Sole trader | One owner |\n| Partnership | Multiple owners |\n| Company | Separate legal entity |\n\n## Company Characteristics\n\n- Limited liability\n- Separate legal personality\n- Transferable shares\n- Perpetual succession"
+        },
+        {
+            "id": "cai_f_quiz4",
+            "type": "quiz",
+            "title": "Ethics Quiz",
+            "content": "Test your ethics knowledge!",
+            "quizQuestion": "How many fundamental principles?",
+            "quizOptions": [
+                "Three",
+                "Four",
+                "Five",
+                "Six"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cai_f17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CA International Foundation**!\n\n## Key Topics\n\n### Recording\n- Double entry\n- Books of record\n- Trial balance\n\n### Costing\n- Cost classification\n- Cost flow\n\n### Statements\n- Financial statements\n- Adjustments\n- Inventory\n\n### Business\n- Organization types\n- Governance\n- Ethics\n\n## What is Next?\n\nExplore Applied Knowledge Level!"
+        }
+    ]
+}

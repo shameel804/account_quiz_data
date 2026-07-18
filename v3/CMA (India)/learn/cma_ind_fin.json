@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_ind_fin",
+    "topicId": "cma_ind_fin",
+    "topicTitle": "Financial Management and Policy",
+    "description": "Master Financial Management including Capital Budgeting, Working Capital, and Corporate Finance",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "fin_1",
+            "type": "content",
+            "title": "Welcome to Financial Management",
+            "content": "# Financial Management & Policy\n\nFinancial management deals with **funding and investment** decisions.\n\n## What You Will Learn\n\n- **Capital Budgeting** - Investment decisions\n- **Working Capital** - Short-term finance\n- **Cost of Capital** - Financing cost\n- **Policy** - Dividend and capital\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Investment | Capital budgeting |\n| Financing | Sources, structure |\n| Working capital | Short-term |\n| Policy | Dividend, capital |"
+        },
+        {
+            "id": "fin_2",
+            "type": "content",
+            "title": "Capital Budgeting",
+            "content": "# Investment Analysis\n\n## Methods\n\n| Method | Decision Rule |\n|--------|---------------|\n| NPV | > 0 Accept |\n| IRR | > Cost of capital |\n| Payback | < Target |\n| PI | > 1 Accept |\n\n## NPV Formula\n\n```\nNPV = Sum of [CF / (1+r)^n] - Initial Cost\n```\n\n## Cash Flow Components\n\n- Initial outlay\n- Operating cash flows\n- Terminal value\n- Working capital changes"
+        },
+        {
+            "id": "fin_3",
+            "type": "content",
+            "title": "Cost of Capital",
+            "content": "# Financing Cost\n\n## Cost of Debt\n\n```\nKd = Interest Rate x (1 - Tax Rate)\n```\n\n## Cost of Equity - CAPM\n\n```\nKe = Rf + beta(Rm - Rf)\n```\n\n## WACC\n\n```\nWACC = (E/V x Ke) + (D/V x Kd x (1-T))\n\nE = Market value of equity\nD = Market value of debt\nV = E + D\n```"
+        },
+        {
+            "id": "fin_quiz_1",
+            "type": "quiz",
+            "title": "Capital Quiz",
+            "content": "Test your capital budgeting!",
+            "quizQuestion": "A project should be accepted if NPV is?",
+            "quizOptions": [
+                "Negative",
+                "Zero",
+                "Positive",
+                "Unknown"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "fin_4",
+            "type": "content",
+            "title": "Capital Structure",
+            "content": "# Financing Mix\n\n## Theories\n\n| Theory | View |\n|--------|------|\n| MM (no tax) | Structure irrelevant |\n| MM (tax) | Debt adds value |\n| Trade-off | Optimal exists |\n| Pecking order | Internal first |\n\n## Financial Leverage\n\n```\nDFL = EBIT / (EBIT - Interest)\n```\n\n## Optimal Structure\n\nBalance tax benefits with financial distress costs."
+        },
+        {
+            "id": "fin_5",
+            "type": "content",
+            "title": "Working Capital Management",
+            "content": "# Short-Term Finance\n\n## Working Capital\n\n```\nNet WC = Current Assets - Current Liabilities\n```\n\n## Cash Conversion Cycle\n\n```\nInventory Days + Receivable Days - Payable Days\n= CCC\n```\n\n## Policies\n\n| Policy | Risk | Return |\n|--------|------|--------|\n| Aggressive | High | High |\n| Conservative | Low | Low |\n| Moderate | Medium | Medium |"
+        },
+        {
+            "id": "fin_6",
+            "type": "content",
+            "title": "Cash Management",
+            "content": "# Cash and Marketable Securities\n\n## Cash Motives\n\n| Motive | Purpose |\n|--------|--------|\n| Transaction | Daily needs |\n| Precautionary | Emergencies |\n| Speculative | Opportunities |\n\n## Cash Models\n\n### Baumol Model\n\n```\nOptimal Cash = sqrt(2 x T x F / r)\n\nT = Cash required\nF = Fixed cost\nr = Interest rate\n```\n\n## Cash Flow Forecasting\n\n- Receipts and payments method\n- Short-term forecast"
+        },
+        {
+            "id": "fin_quiz_2",
+            "type": "quiz",
+            "title": "WC Quiz",
+            "content": "Test your working capital knowledge!",
+            "quizQuestion": "Cash conversion cycle includes inventory days plus?",
+            "quizOptions": [
+                "Payable days",
+                "Receivable days minus payable days",
+                "Receivable days only",
+                "Operating cycle"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fin_7",
+            "type": "content",
+            "title": "Receivables Management",
+            "content": "# Credit Management\n\n## Credit Policy\n\n| Element | Decision |\n|---------|----------|\n| Standards | Who to extend |\n| Terms | Payment period |\n| Collection | Follow-up |\n\n## Credit Analysis - 5 Cs\n\n| C | Meaning |\n|---|--------|\n| Character | Willingness |\n| Capacity | Ability |\n| Capital | Financial strength |\n| Collateral | Security |\n| Conditions | External |"
+        },
+        {
+            "id": "fin_8",
+            "type": "content",
+            "title": "Inventory Management",
+            "content": "# Inventory Control\n\n## EOQ Model\n\n```\nEOQ = sqrt(2 x D x Co / Ch)\n\nD = Annual demand\nCo = Ordering cost\nCh = Holding cost\n```\n\n## Reorder Level\n\n```\nROL = Lead time x Average usage\n```\n\n## Just-in-Time\n\n- Minimize inventory\n- Pull system\n- Quality focus"
+        },
+        {
+            "id": "fin_9",
+            "type": "content",
+            "title": "Sources of Finance",
+            "content": "# Financing Options\n\n## Long-Term\n\n| Source | Features |\n|--------|----------|\n| Equity | No fixed obligation |\n| Debentures | Fixed interest |\n| Term loans | Bank financing |\n| Lease | Asset financing |\n\n## Short-Term\n\n| Source | Features |\n|--------|----------|\n| Trade credit | Supplier |\n| Bank credit | Working capital |\n| Commercial paper | Money market |\n| Factoring | Receivables |"
+        },
+        {
+            "id": "fin_quiz_3",
+            "type": "quiz",
+            "title": "Source Quiz",
+            "content": "Test your financing knowledge!",
+            "quizQuestion": "EOQ stands for Economic Order?",
+            "quizOptions": [
+                "Quality",
+                "Quantity",
+                "Queue",
+                "Quota"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fin_10",
+            "type": "content",
+            "title": "Dividend Policy",
+            "content": "# Dividend Decisions\n\n## Theories\n\n| Theory | View |\n|--------|------|\n| Irrelevance | No effect |\n| Bird in hand | Prefer dividends |\n| Tax preference | Prefer gains |\n| Signaling | Information value |\n\n## Policies\n\n| Policy | Approach |\n|--------|----------|\n| Constant | Fixed payout |\n| Stable | Predictable |\n| Residual | After investment |"
+        },
+        {
+            "id": "fin_11",
+            "type": "content",
+            "title": "Lease Financing",
+            "content": "# Lease vs Buy\n\n## Types\n\n| Type | Features |\n|------|----------|\n| Operating | Short-term |\n| Finance | Long-term, ownership |\n| Sale-leaseback | Sell and lease |\n\n## Evaluation\n\n```\nCompare:\n- PV of lease payments\n- Cost of buying (including tax)\n\nChoose lower cost option\n```\n\n## Ind AS 116 Impact\n\n- Right-of-use asset\n- Lease liability\n- On balance sheet"
+        },
+        {
+            "id": "fin_12",
+            "type": "content",
+            "title": "Risk Management",
+            "content": "# Financial Risk\n\n## Types\n\n| Risk | Source |\n|------|--------|\n| Currency | Exchange rates |\n| Interest | Rate changes |\n| Credit | Default |\n| Liquidity | Cash availability |\n\n## Hedging\n\n| Instrument | Use |\n|------------|-----|\n| Forwards | Lock rate |\n| Futures | Exchange-traded |\n| Options | Right only |\n| Swaps | Exchange payments |"
+        },
+        {
+            "id": "fin_quiz_4",
+            "type": "quiz",
+            "title": "Risk Quiz",
+            "content": "Test your risk management!",
+            "quizQuestion": "Forward contracts lock in?",
+            "quizOptions": [
+                "Current price",
+                "Future price today",
+                "Historical price",
+                "Average price"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fin_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **Financial Management & Policy**!\n\n## Key Topics\n\n### Investment\n- Capital budgeting (NPV, IRR)\n- Risk analysis\n\n### Financing\n- Cost of capital\n- Capital structure\n- Sources of finance\n\n### Working Capital\n- Cash management\n- Receivables\n- Inventory\n\n### Policy\n- Dividend decisions\n- Lease financing\n- Risk management\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| WACC | Cost of capital |\n| EOQ | Inventory |\n| CCC = DSI + DSO - DPO | Working capital |\n\n## What is Next?\n\nExplore Direct & Indirect Taxation!"
+        }
+    ]
+}

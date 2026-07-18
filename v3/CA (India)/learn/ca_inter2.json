@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_inter2",
+    "topicId": "ca_inter2",
+    "topicTitle": "CA Intermediate - Group II",
+    "description": "Master CA Intermediate Group II covering Advanced Accounting, Auditing, EIS-SM, and FM-ECO",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "ca_i2_1",
+            "type": "content",
+            "title": "Welcome to CA Intermediate Group II",
+            "content": "# CA Intermediate - Group II\n\nComplete your **Intermediate level**.\n\n## What You Will Learn\n\n- **Paper 5** - Advanced Accounting\n- **Paper 6** - Auditing & Assurance\n- **Paper 7** - EIS & SM\n- **Paper 8** - FM & Economics\n\n## Exam Pattern\n\n| Paper | Marks |\n|-------|-------|\n| Advanced Accounting | 100 |\n| Auditing | 100 |\n| EIS-SM | 100 |\n| FM-Eco | 100 |"
+        },
+        {
+            "id": "ca_i2_2",
+            "type": "content",
+            "title": "Advanced Accounting Standards",
+            "content": "# Paper 5 - Accounting\n\n## Key Standards\n\n| AS | Topic |\n|----|-------|\n| AS 4 | Contingencies |\n| AS 5 | Prior period items |\n| AS 12 | Government grants |\n| AS 17 | Segment reporting |\n| AS 20 | EPS |\n\n## Ind AS Coverage\n\n| Ind AS | Topic |\n|--------|-------|\n| 8 | Policies, changes |\n| 10 | Events after reporting |\n| 20 | Government grants |\n| 33 | Earnings per share |"
+        },
+        {
+            "id": "ca_i2_3",
+            "type": "content",
+            "title": "Consolidation",
+            "content": "# Group Accounts\n\n## Consolidation\n\n```\nParent + Subsidiary accounts\nEliminate intercompany\nNCI and goodwill\n```\n\n## Key Adjustments\n\n| Item | Treatment |\n|------|----------|\n| Investment | Eliminate |\n| Intercompany | Cancel |\n| Unrealized profit | Remove |\n| Goodwill | Calculate |\n| NCI | Recognize |"
+        },
+        {
+            "id": "ca_i2_quiz1",
+            "type": "quiz",
+            "title": "Consolidation Quiz",
+            "content": "Test your consolidation knowledge!",
+            "quizQuestion": "NCI stands for Non-Controlling?",
+            "quizOptions": [
+                "Cost",
+                "Interest",
+                "Income",
+                "Investment"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ca_i2_4",
+            "type": "content",
+            "title": "Auditing Standards",
+            "content": "# Paper 6 - Auditing\n\n## Standards on Auditing\n\n| SA | Topic |\n|----|-------|\n| SA 200 | Overall objectives |\n| SA 230 | Documentation |\n| SA 315 | Risk identification |\n| SA 500 | Audit evidence |\n| SA 700 | Opinion |\n\n## Audit Process\n\n```\n1. Engagement\n2. Planning\n3. Risk assessment\n4. Evidence gathering\n5. Reporting\n```"
+        },
+        {
+            "id": "ca_i2_5",
+            "type": "content",
+            "title": "Audit Evidence",
+            "content": "# Gathering Proof\n\n## Procedures\n\n| Procedure | Use |\n|-----------|-----|\n| Inspection | Documents |\n| Observation | Processes |\n| Inquiry | Questions |\n| Confirmation | External |\n| Recalculation | Arithmetic |\n| Reperformance | Controls |\n| Analytics | Reasonableness |\n\n## Quality\n\n| Characteristic | Meaning |\n|----------------|--------|\n| Sufficient | Quantity |\n| Appropriate | Quality |"
+        },
+        {
+            "id": "ca_i2_6",
+            "type": "content",
+            "title": "Audit Reports",
+            "content": "# Reporting Phase\n\n## Opinion Types\n\n| Type | When |\n|------|------|\n| Unmodified | Fair presentation |\n| Qualified | Except for |\n| Adverse | Materially misstated |\n| Disclaimer | Cannot audit |\n\n## CARO 2020\n\n| Clause | Reporting |\n|--------|----------|\n| Fixed assets | Title, revaluation |\n| Inventory | Physical verification |\n| Loans | Related parties |\n| Deposits | Compliance |"
+        },
+        {
+            "id": "ca_i2_quiz2",
+            "type": "quiz",
+            "title": "Audit Quiz",
+            "content": "Test your audit knowledge!",
+            "quizQuestion": "SA 500 deals with?",
+            "quizOptions": [
+                "Planning",
+                "Evidence",
+                "Reporting",
+                "Documentation"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ca_i2_7",
+            "type": "content",
+            "title": "Enterprise Information Systems",
+            "content": "# Paper 7A - EIS\n\n## IT Components\n\n| Component | Function |\n|-----------|----------|\n| Hardware | Physical |\n| Software | Programs |\n| Database | Storage |\n| Network | Connection |\n\n## IT Controls\n\n| Type | Focus |\n|------|-------|\n| General | Environment |\n| Application | Processing |\n| Access | Security |\n| Change | Management |"
+        },
+        {
+            "id": "ca_i2_8",
+            "type": "content",
+            "title": "Strategic Management",
+            "content": "# Paper 7B - SM\n\n## Strategy Process\n\n```\nMission/Vision\n    |\n    v\nEnvironmental Analysis\n    |\n    v\nStrategy Formulation\n    |\n    v\nStrategy Implementation\n    |\n    v\nEvaluation & Control\n```\n\n## Tools\n\n| Tool | Use |\n|------|-----|\n| SWOT | Position |\n| Porter 5 | Industry |\n| BCG Matrix | Portfolio |\n| Balanced Scorecard | Performance |"
+        },
+        {
+            "id": "ca_i2_9",
+            "type": "content",
+            "title": "Financial Management",
+            "content": "# Paper 8A - FM\n\n## Key Concepts\n\n| Concept | Meaning |\n|---------|--------|\n| Time value | PV, FV |\n| Cost of capital | WACC |\n| Capital budgeting | Investment |\n| Working capital | Current finance |\n\n## Decision Criteria\n\n| Method | Rule |\n|--------|------|\n| NPV | > 0 |\n| IRR | > Cost of capital |\n| Payback | < Target |\n| PI | > 1 |"
+        },
+        {
+            "id": "ca_i2_quiz3",
+            "type": "quiz",
+            "title": "FM Quiz",
+            "content": "Test your FM knowledge!",
+            "quizQuestion": "NPV acceptance rule is?",
+            "quizOptions": [
+                "< 0",
+                "= 0",
+                "> 0",
+                "< 1"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ca_i2_10",
+            "type": "content",
+            "title": "Leverage and Structure",
+            "content": "# Capital Decisions\n\n## Types of Leverage\n\n| Leverage | Formula Concept |\n|----------|----------------|\n| Operating | FC in operations |\n| Financial | Interest costs |\n| Combined | Both |\n\n## Capital Structure\n\n| Theory | View |\n|--------|------|\n| NI Approach | Debt adds value |\n| NOI Approach | Structure irrelevant |\n| MM | With/without tax |\n| Trade-off | Optimal exists |"
+        },
+        {
+            "id": "ca_i2_11",
+            "type": "content",
+            "title": "Economics for Finance",
+            "content": "# Paper 8B - Economics\n\n## Key Topics\n\n| Topic | Coverage |\n|-------|----------|\n| Money market | Short-term |\n| Capital market | Long-term |\n| Foreign exchange | Currency |\n| Fiscal policy | Government |\n\n## Markets\n\n| Market | Focus |\n|--------|-------|\n| Primary | New issues |\n| Secondary | Trading |\n| Money | < 1 year |\n| Capital | > 1 year |"
+        },
+        {
+            "id": "ca_i2_12",
+            "type": "content",
+            "title": "International Economics",
+            "content": "# Global Context\n\n## Exchange Rates\n\n| System | Determination |\n|--------|---------------|\n| Fixed | Government |\n| Floating | Market |\n| Managed | Intervention |\n\n## Balance of Payments\n\n| Account | Items |\n|---------|-------|\n| Current | Trade, services |\n| Capital | Investment |\n| Financial | Flows |\n\n## Forex Markets\n\n- Spot market\n- Forward market\n- Derivatives"
+        },
+        {
+            "id": "ca_i2_quiz4",
+            "type": "quiz",
+            "title": "Economics Quiz",
+            "content": "Test your economics knowledge!",
+            "quizQuestion": "Primary market deals with?",
+            "quizOptions": [
+                "Trading",
+                "New issues",
+                "Derivatives",
+                "Currency"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ca_i2_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CA Intermediate Group II**!\n\n## Key Topics\n\n### Accounting\n- Advanced AS\n- Consolidation\n\n### Auditing\n- SA standards\n- CARO 2020\n- Reporting\n\n### EIS-SM\n- IT controls\n- Strategic management\n- Tools\n\n### FM-Economics\n- Capital budgeting\n- Leverage\n- Markets\n\n## What is Next?\n\nExplore CA Final Group I!"
+        }
+    ]
+}

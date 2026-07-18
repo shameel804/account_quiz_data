@@ -1,0 +1,167 @@
+{
+    "id": "learn_eco",
+    "topicId": "eco",
+    "topicTitle": "Tally Advanced Features",
+    "description": "Master advanced Tally features including Data Export/Import, Connected Features, Payroll Management, and TallyPrime Customization",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "eco_1",
+            "type": "content",
+            "title": "Welcome to Tally Advanced Features",
+            "content": "# Tally Advanced Features\n\nTake your Tally skills to expert level with **advanced features** for efficiency and automation.\n\n## What You Will Learn\n\n- **Data Export/Import** - Move data efficiently\n- **Connected Features** - Online capabilities\n- **Payroll Management** - Employee salary processing\n- **Customization** - Tailoring Tally to your needs\n\n## Advanced Capabilities\n\n| Feature | Benefit |\n|---------|--------|\n| Auto Backup | Data protection |\n| Remote Access | Work anywhere |\n| Bank Integration | Direct feeds |\n| Payroll | Complete HR |\n| TDL | Customization |"
+        },
+        {
+            "id": "eco_2",
+            "type": "content",
+            "title": "Data Export Options",
+            "content": "# Exporting Data from Tally\n\n## Export Formats\n\n| Format | Use Case |\n|--------|----------|\n| Excel | Analysis, sharing |\n| PDF | Reports, printing |\n| XML | Data exchange |\n| JSON | API integration |\n\n## Exporting Reports\n\n**Path:** Any Report > Alt+E (Export)\n\n```\nFormat: Excel\nFile Name: report.xlsx\nLocation: Desktop\n```\n\n## Export to Excel\n\n1. Open any report\n2. Press Alt+E or Ctrl+E\n3. Select Excel format\n4. Choose location\n5. Export\n\n## Masters Export\n\n**Path:** Gateway > Export > Masters\n\n- Ledgers\n- Stock Items\n- Groups\n- Godowns"
+        },
+        {
+            "id": "eco_3",
+            "type": "content",
+            "title": "Data Import",
+            "content": "# Importing Data into Tally\n\n## Import Methods\n\n| Method | Source |\n|--------|--------|\n| Excel Import | Spreadsheet data |\n| XML Import | Tally format |\n| Bank Statement | Transactions |\n\n## Excel Import Steps\n\n1. Prepare Excel template\n2. Fill in data\n3. Gateway > Import\n4. Select file\n5. Map columns\n6. Import\n\n## Template Format\n\n```\n| Name | Under | Opening Bal |\n|------|-------|-------------|\n| ABC Ltd | Sundry Debtors | 50000 |\n| XYZ Inc | Sundry Creditors | 30000 |\n```\n\n## Common Imports\n\n- Ledger masters\n- Stock items\n- Opening balances\n- Transactions\n\n## Import Validation\n\n- Check for duplicates\n- Verify parent groups\n- Validate amounts"
+        },
+        {
+            "id": "eco_quiz_1",
+            "type": "quiz",
+            "title": "Export/Import Quiz",
+            "content": "Test your data handling knowledge!",
+            "quizQuestion": "Which format is commonly used for exporting Tally reports for analysis?",
+            "quizOptions": [
+                "XML",
+                "JSON",
+                "Excel",
+                "PDF"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "eco_4",
+            "type": "content",
+            "title": "Tally Connected Features",
+            "content": "# Connected Features\n\n## What are Connected Features?\n\nOnline capabilities that connect Tally to external services.\n\n## Key Connected Features\n\n| Feature | Purpose |\n|---------|--------|\n| GST Direct | File returns from Tally |\n| E-Way Bill | Generate online |\n| E-Invoice | Generate IRN |\n| Bank Feeds | Auto bank import |\n\n## Enabling Connected Features\n\n**Path:** Gateway > F11 > Connect\n\n```\nEnable Connected Features: Yes\nTally.NET ID: [Your ID]\n```\n\n## GST Direct Filing\n\n1. Prepare return\n2. Verify data\n3. Connect to GST portal\n4. File directly from Tally\n\n## E-Invoice Generation\n\n1. Create sales invoice\n2. Generate IRN\n3. Get QR code\n4. Print with IRN"
+        },
+        {
+            "id": "eco_5",
+            "type": "content",
+            "title": "Remote Access",
+            "content": "# Tally Remote Access\n\n## Remote Features\n\n| Feature | Description |\n|---------|-------------|\n| Tally.NET | Cloud connectivity |\n| Remote Users | Access from anywhere |\n| Sync | Multi-location sync |\n\n## Setting Up Remote Access\n\n**F11 > Connect**\n\n```\nEnable Remote Access: Yes\nTally.NET Subscription: Active\n```\n\n## Access Methods\n\n### Browser Access\n- Access reports via browser\n- View data anywhere\n- Limited editing\n\n### Tally Remote\n- Full Tally features\n- Works like desktop\n- Requires subscription\n\n## Security\n\n| Control | Purpose |\n|---------|--------|\n| User Rights | Function access |\n| IP Restriction | Location limits |\n| Audit Log | Track activity |"
+        },
+        {
+            "id": "eco_6",
+            "type": "content",
+            "title": "Payroll Setup",
+            "content": "# Payroll in Tally\n\n## Enabling Payroll\n\n**F11 > Statutory Features**\n\n```\nMaintain Payroll: Yes\nProcess Payroll Statutory: Yes\n```\n\n## Payroll Components\n\n### Employee Master\n\n```\nEmployee: John Smith\nDesignation: Manager\nDepartment: Sales\nDate of Joining: 01-Apr-2020\n```\n\n### Pay Heads\n\n| Type | Examples |\n|------|----------|\n| Earnings | Basic, HRA, Allowances |\n| Deductions | PF, ESI, TDS |\n\n## Creating Pay Heads\n\n**Path:** Gateway > Create > Pay Head\n\n```\nName: Basic Pay\nPay Head Type: Earnings\nComputation: As User Defined Value\n```\n\n## Employee Groups\n\n- Managers\n- Staff\n- Workers\n- Contract"
+        },
+        {
+            "id": "eco_7",
+            "type": "content",
+            "title": "Salary Processing",
+            "content": "# Processing Payroll\n\n## Salary Structure\n\n```\nBasic Pay:       Rs. 25,000\nHRA:             Rs. 10,000\nConveyance:      Rs. 3,000\nSpecial Allow:   Rs. 7,000\n----------------------------\nGross Salary:    Rs. 45,000\n\nDeductions:\nPF (12%):        Rs. 3,000\nESI (0.75%):     Rs. 338\nTDS:             Rs. 2,000\n----------------------------\nNet Salary:      Rs. 39,662\n```\n\n## Payroll Voucher Entry\n\n**Path:** Gateway > Vouchers > Payroll\n\n```\nEmployee: John Smith\nPay Period: March 2024\n\n[Earnings auto-calculated]\n[Deductions auto-calculated]\n```\n\n## Attendance\n\n**Path:** Gateway > Transaction > Payroll > Attendance\n\n```\nEmployee: John Smith\nDays Present: 26\nDays Absent: 2\nPaid Leave: 2\n```"
+        },
+        {
+            "id": "eco_quiz_2",
+            "type": "quiz",
+            "title": "Payroll Quiz",
+            "content": "Test your payroll knowledge!",
+            "quizQuestion": "Which type of pay head is PF contribution?",
+            "quizOptions": [
+                "Earnings",
+                "Deductions",
+                "Reimbursement",
+                "Bonus"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "eco_8",
+            "type": "content",
+            "title": "Statutory Compliance",
+            "content": "# Payroll Statutory\n\n## PF (Provident Fund)\n\n```\nEmployee Contribution: 12% of Basic\nEmployer Contribution: 12% of Basic\nAdmin Charges: 1%\n```\n\n## ESI (Employee State Insurance)\n\n```\nEmployee: 0.75% of Gross\nEmployer: 3.25% of Gross\nThreshold: Rs. 21,000/month\n```\n\n## Professional Tax\n\n- State-wise rates\n- Monthly deduction\n- Annual limit Rs. 2,500\n\n## Payroll Reports\n\n| Report | Purpose |\n|--------|--------|\n| Pay Sheet | Month summary |\n| Pay Slip | Employee slip |\n| PF Statement | Contribution |\n| ESI Statement | Insurance |\n\n## Statutory Returns\n\n- ECR (PF return)\n- ESI Challan\n- Form 16"
+        },
+        {
+            "id": "eco_9",
+            "type": "content",
+            "title": "Print Configurations",
+            "content": "# Customizing Prints\n\n## Invoice Printing\n\n**F12 > Printing Configuration**\n\n```\nPrint Company Name: Yes\nPrint Company Address: Yes\nPrint GSTIN: Yes\nPrint Terms: Yes\n```\n\n## Custom Fields\n\n- Company logo\n- Authorized signatory\n- Bank details\n- Terms and conditions\n\n## Print Formats\n\n| Format | Use Case |\n|--------|----------|\n| Simple | Quick printing |\n| Neat | Professional |\n| Fancy | Branded |\n\n## Cheque Printing\n\n**Path:** Banking > Cheque Printing\n\n- Bank-wise formats\n- Pre-printed cheques\n- Configure alignment\n\n## Multi-Page Reports\n\n- Balance Sheet\n- P&L Statement\n- Ledger Reports"
+        },
+        {
+            "id": "eco_10",
+            "type": "content",
+            "title": "Data Backup and Recovery",
+            "content": "# Data Protection\n\n## Backup Options\n\n| Type | When |\n|------|------|\n| Manual | On demand |\n| Auto | Scheduled |\n| Cloud | Tally Vault |\n\n## Manual Backup\n\n**Path:** Alt+F3 > Backup\n\n```\nCompany: ABC Traders\nDestination: D:\\Backup\nInclude Company Data: Yes\n```\n\n## Auto Backup\n\n**F11 > Configure**\n\n```\nEnable Auto Backup: Yes\nFrequency: Daily\nTime: End of Day\nLocation: External Drive\n```\n\n## Restore\n\n**Path:** Alt+F3 > Restore\n\n1. Select backup file\n2. Choose location\n3. Confirm restore\n\n## Best Practices\n\n- Daily backups\n- Multiple locations\n- Test restores\n- Label clearly"
+        },
+        {
+            "id": "eco_11",
+            "type": "content",
+            "title": "Data Split and Merge",
+            "content": "# Managing Data\n\n## Split Company Data\n\n**Path:** Alt+F3 > Split Company Data\n\n**Why Split?**\n- Performance improvement\n- Year-wise separation\n- Manageable file size\n\n### Split by Date\n\n```\nSplit Date: 31-Mar-2023\nNew Company: ABC 2022-23\nCurrent: ABC 2023-24\n```\n\n## Merge Companies\n\n**Path:** Alt+F3 > Merge Companies\n\n**Use Cases:**\n- Combine branches\n- Migration\n- Consolidation\n\n### Merge Steps\n\n1. Select source company\n2. Select destination\n3. Map masters\n4. Execute merge\n\n## Data Optimization\n\n- Rewrite data\n- Remove unused masters\n- Archive old data"
+        },
+        {
+            "id": "eco_quiz_3",
+            "type": "quiz",
+            "title": "Data Management Quiz",
+            "content": "Test your data management knowledge!",
+            "quizQuestion": "What is the purpose of splitting company data?",
+            "quizOptions": [
+                "Increase file size",
+                "Improve performance",
+                "Duplicate data",
+                "Remove backups"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "eco_12",
+            "type": "content",
+            "title": "Security and Audit",
+            "content": "# Security Features\n\n## User Access Control\n\n```\nOwner: Full access\nAdmin: Most functions\nData Entry: Entry only\nView Only: Reports only\n```\n\n## Security Levels\n\n| Control | Purpose |\n|---------|--------|\n| Password | Company access |\n| User Rights | Function limits |\n| Date Limits | Period control |\n\n## Tally Vault\n\nEncrypt company data:\n\n```\nAlt+F3 > Tally Vault\nPassword: [Strong password]\n```\n\n## Edit Log\n\n**Tally Prime Edit Log**\n\n- Track all changes\n- Who changed what\n- When changed\n- Old vs new values\n\n## Audit Trail\n\n- Document changes\n- User activity\n- System access\n- Compliance ready"
+        },
+        {
+            "id": "eco_13",
+            "type": "content",
+            "title": "TDL Customization",
+            "content": "# TDL - Tally Definition Language\n\n## What is TDL?\n\nProgramming language to **customize Tally** behavior and appearance.\n\n## TDL Capabilities\n\n| Feature | Example |\n|---------|--------|\n| Reports | Custom formats |\n| Fields | Additional data |\n| Validations | Business rules |\n| Print | Invoice designs |\n\n## Simple TDL Example\n\n```\n[Field: Custom Field]\nSet as: \"Custom Value\"\nModify: Report Name\n```\n\n## Adding TDL Files\n\n**Path:** Gateway > F11 > TDL\n\n```\nLoad TDL Files: Yes\nList of TDL: custom.tdl\n```\n\n## Common Customizations\n\n- Invoice formats\n- Report layouts\n- Field additions\n- Validation rules\n\n## TDL Sources\n\n- Tally Marketplace\n- Certified developers\n- Custom development"
+        },
+        {
+            "id": "eco_14",
+            "type": "content",
+            "title": "Banking Integration",
+            "content": "# Bank Integration\n\n## Bank Statement Import\n\n**Path:** Banking > Bank Reconciliation\n\n### Import Process\n\n1. Download bank statement (CSV/Excel)\n2. Import into Tally\n3. Auto-match transactions\n4. Reconcile differences\n\n## Auto Reconciliation\n\n```\nMatched: 95 transactions\nUnmatched: 5 transactions\n\nManual Review Required:\n- Check 456: Rs. 5,000\n- Transfer: Rs. 10,000\n```\n\n## Payment Gateway\n\n**Connected Features**\n\n- Direct payments\n- Payment links\n- Collection tracking\n\n## Bank Statements\n\n| Format | Support |\n|--------|--------|\n| CSV | Universal |\n| OFX | Standard |\n| MT940 | Corporate |"
+        },
+        {
+            "id": "eco_15",
+            "type": "content",
+            "title": "Shortcuts and Tips",
+            "content": "# Power User Tips\n\n## Speed Navigation\n\n| Shortcut | Action |\n|----------|--------|\n| Ctrl+G | Go to any screen |\n| Ctrl+Alt+R | Rewrite data |\n| Alt+2 | Duplicate line |\n| Ctrl+M | Create master |\n\n## Report Shortcuts\n\n| Shortcut | Action |\n|----------|--------|\n| F5 | Detailed/condensed |\n| F6 | Change columns |\n| F7 | Accept as is |\n| F12 | Configure |\n\n## Entry Shortcuts\n\n| Shortcut | Action |\n|----------|--------|\n| Ctrl+A | Accept/save |\n| Ctrl+N | New voucher |\n| Alt+D | Delete |\n| Alt+C | Create master |\n\n## Calculator\n\n- Alt+C in amount field\n- Basic operations\n- Copy result\n\n## Auto-Fill\n\n- Previous values\n- Master suggestions\n- Amount calculations"
+        },
+        {
+            "id": "eco_16",
+            "type": "content",
+            "title": "Troubleshooting",
+            "content": "# Common Issues\n\n## Data Issues\n\n| Problem | Solution |\n|---------|----------|\n| Data corruption | Rewrite data |\n| Slow performance | Split company |\n| Login issues | Reset password |\n\n## Rewrite Data\n\n**Path:** Ctrl+Alt+R\n\n- Fixes minor corruption\n- Optimizes data\n- Run periodically\n\n## Common Errors\n\n### Company Not Loading\n\n1. Check data folder\n2. Verify permissions\n3. Rewrite if needed\n\n### Report Not Printing\n\n1. Check printer setup\n2. Verify print configuration\n3. Update drivers\n\n### GST Mismatch\n\n1. Verify party GSTIN\n2. Check state codes\n3. Validate HSN/SAC\n\n## Support Resources\n\n- Tally Education\n- Partner support\n- Online forums"
+        },
+        {
+            "id": "eco_quiz_4",
+            "type": "quiz",
+            "title": "Advanced Quiz",
+            "content": "Test your advanced knowledge!",
+            "quizQuestion": "Which shortcut is used to rewrite company data?",
+            "quizOptions": [
+                "Ctrl+R",
+                "Ctrl+Alt+R",
+                "Alt+R",
+                "Ctrl+Shift+R"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "eco_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed the **Tally Advanced Features** lesson!\n\n## Key Concepts Mastered\n\n### Data Management\n- Export to Excel, PDF, XML\n- Import from templates\n- Backup and restore\n- Split and merge\n\n### Connected Features\n- GST direct filing\n- E-Way Bill\n- E-Invoice\n- Remote access\n\n### Payroll\n- Employee masters\n- Salary processing\n- Statutory compliance\n\n### Security\n- User access control\n- Tally Vault\n- Audit trail\n\n## Quick Reference\n\n| Feature | Path |\n|---------|------|\n| Backup | Alt+F3 |\n| Export | Alt+E |\n| Payroll | F11 > Statutory |\n| TDL | F11 > TDL |\n\n## What is Next?\n\nYou now have **complete Tally expertise!**"
+        }
+    ]
+}
