@@ -1,0 +1,167 @@
+{
+    "id": "learn_ac_tally",
+    "topicId": "ac_tally",
+    "topicTitle": "Accounting in Tally",
+    "description": "Master advanced accounting in Tally including Receivables and Payables Management, Bank Reconciliation, Cost Centers, and Financial Statement Analysis",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "ac_tally_1",
+            "type": "content",
+            "title": "Welcome to Accounting in Tally",
+            "content": "# Accounting in Tally\n\nTake your Tally skills to the next level with **advanced accounting concepts** and practical applications.\n\n## What You Will Learn\n\n- **Receivables and Payables** - Bill-by-bill management\n- **Bank Reconciliation** - Matching bank records\n- **Cost Centers** - Department-wise accounting\n- **Multi-Currency** - Foreign transactions\n\n## Advanced Accounting Features\n\n| Feature | Benefit |\n|---------|--------|\n| Bill-by-Bill | Track individual invoices |\n| Cost Centers | Departmental analysis |\n| Budgets | Planning and control |\n| Interest Calc | Automatic interest |\n| Bank Recon | Match statements |\n\n## Enabling Advanced Features\n\n**Path:** F11 > Accounting Features\n\n```\nMaintain Bill-by-Bill Details: Yes\nUse Cost Centres: Yes\nMaintain Budgets and Controls: Yes\nUse Reversing Journals: Yes\nUse Optional Vouchers: Yes\n```\n\n> **Advanced features** transform Tally into a powerful business tool!"
+        },
+        {
+            "id": "ac_tally_2",
+            "type": "content",
+            "title": "Bill-by-Bill Accounting",
+            "content": "# Bill-by-Bill Management\n\n## What is Bill-by-Bill?\n\nTracking **individual invoices** and their payments rather than just balances.\n\n## Enabling Bill-by-Bill\n\n### In Ledger Master\n\n```\nLedger: ABC Customer\nUnder: Sundry Debtors\nMaintain Bill-by-Bill: Yes\nDefault Credit Period: 30 days\n```\n\n## Sales Invoice Entry\n\n```\n+----------------------------------+\n| Sales Voucher (F8)               |\n+----------------------------------+\n| Party: ABC Customer              |\n| Invoice No: INV-001              |\n| Amount: Rs. 50,000               |\n+----------------------------------+\n| Bill Allocation:                 |\n| Type of Ref: New Ref             |\n| Name: INV-001                    |\n| Due Date: 15-Feb-2024            |\n| Amount: Rs. 50,000               |\n+----------------------------------+\n```\n\n## Receipt Against Bill\n\n```\n+----------------------------------+\n| Receipt Voucher (F6)             |\n+----------------------------------+\n| Account: Cash                    |\n| Party: ABC Customer              |\n| Amount: Rs. 30,000               |\n+----------------------------------+\n| Bill Allocation:                 |\n| Type of Ref: Against Ref         |\n| Name: INV-001                    |\n| Amount: Rs. 30,000               |\n+----------------------------------+\n| Pending on INV-001: Rs. 20,000   |\n+----------------------------------+\n```\n\n## Reference Types\n\n| Type | When to Use |\n|------|------------|\n| New Ref | New invoice/bill |\n| Against Ref | Payment against specific bill |\n| Advance | Payment before invoice |\n| On Account | General payment |\n\n> **Bill-by-Bill** provides complete receivables visibility!"
+        },
+        {
+            "id": "ac_tally_3",
+            "type": "content",
+            "title": "Outstanding Reports",
+            "content": "# Receivables and Payables Reports\n\n## Bills Outstanding Report\n\n**Path:** Gateway > Display > Statements of Accounts > Outstandings\n\n### Receivables (Sundry Debtors)\n\n```\n+------------------------------------------+\n| Receivables Aging as on 31-Mar-2024      |\n+------------------------------------------+\n| Party         | 0-30 | 31-60 | 60+     |\n+------------------------------------------+\n| ABC Customer  | 20K  | 15K   | 5K      |\n| XYZ Corp      | 50K  | 0     | 0       |\n| MNO Ltd       | 0    | 25K   | 10K     |\n+------------------------------------------+\n| Total         | 70K  | 40K   | 15K     |\n+------------------------------------------+\n```\n\n### Payables (Sundry Creditors)\n\n```\n+------------------------------------------+\n| Payables Aging as on 31-Mar-2024         |\n+------------------------------------------+\n| Vendor        | 0-30 | 31-60 | 60+     |\n+------------------------------------------+\n| Supplier A    | 30K  | 10K   | 0       |\n| Vendor B      | 45K  | 0     | 0       |\n+------------------------------------------+\n```\n\n## Accessing Outstanding Details\n\n### For Debtors\n- Outstanding Receivables\n- Receivables Due Date\n- Receivables by Age\n\n### For Creditors\n- Outstanding Payables\n- Payables Due Date\n- Payables by Age\n\n## Configuring Aging Periods\n\n**F12 > Configure**\n\n```\nAging Method: By Days\nPeriod 1: 0-30 Days\nPeriod 2: 31-60 Days\nPeriod 3: 61-90 Days\nPeriod 4: Over 90 Days\n```\n\n> **Track aging** to improve collections!"
+        },
+        {
+            "id": "ac_tally_quiz_1",
+            "type": "quiz",
+            "title": "Bill-by-Bill Quiz",
+            "content": "Test your bill-by-bill knowledge!",
+            "quizQuestion": "Which reference type is used when recording a payment against a specific invoice?",
+            "quizOptions": [
+                "New Ref",
+                "Against Ref",
+                "Advance",
+                "On Account"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ac_tally_4",
+            "type": "content",
+            "title": "Bank Reconciliation",
+            "content": "# Bank Reconciliation in Tally\n\n## Why Reconcile?\n\n- Match bank statement with books\n- Identify discrepancies\n- Ensure accuracy\n- Catch errors and fraud\n\n## Enabling Bank Reconciliation\n\n### In Bank Ledger\n\n```\nLedger: HDFC Bank\nUnder: Bank Accounts\nEffective Date for Reconciliation: 01-Apr-2023\n```\n\n### Enable in Voucher Entry\n\n```\nF12 > Voucher Configuration\nShow Bank Allocations: Yes\n```\n\n## Entering Bank Date in Vouchers\n\n### Payment Voucher\n\n```\n+----------------------------------+\n| Payment Voucher                  |\n+----------------------------------+\n| Date: 15-Jan-2024                |\n| Bank: HDFC Bank                  |\n| Cheque No: 100234                |\n| Bank Date: [Leave blank initially]|\n+----------------------------------+\n```\n\n## Bank Reconciliation Process\n\n**Path:** Gateway > Banking > Bank Reconciliation\n\n### Steps\n\n1. Select Bank Account\n2. Enter Statement Date\n3. Match transactions with bank statement\n4. Enter Bank Date for matching items\n5. Save reconciliation\n\n## Reconciliation Screen\n\n```\n+------------------------------------------+\n| Bank Reconciliation: HDFC Bank           |\n| Statement Date: 31-Jan-2024              |\n+------------------------------------------+\n| Date   | Particulars | Amount  | Bank Dt |\n+------------------------------------------+\n| 05-Jan | Rent Payment| 10,000  | 07-Jan  |\n| 10-Jan | Supplier Pmt| 25,000  | [Enter] |\n| 15-Jan | Cheque 234  | 15,000  |         |\n+------------------------------------------+\n```\n\n> **Monthly reconciliation** is essential for accuracy!"
+        },
+        {
+            "id": "ac_tally_5",
+            "type": "content",
+            "title": "Bank Reconciliation Statement",
+            "content": "# BRS - Bank Reconciliation Statement\n\n## Understanding BRS\n\n```\nBalance as per Bank Statement:    Rs. 150,000\n\nAdd: Cheques Deposited but not cleared\n     - Cheque 456: Rs. 25,000\n     - Cheque 789: Rs. 15,000\n                                    Rs. 40,000\n\nLess: Cheques Issued but not presented\n     - Cheque 234: Rs. 30,000\n     - Cheque 567: Rs. 20,000\n                                   (Rs. 50,000)\n\nBalance as per Books:             Rs. 140,000\n```\n\n## Common Reconciliation Items\n\n| Item | Effect |\n|------|--------|\n| Cheque issued, not presented | Add to bank balance |\n| Cheque deposited, not cleared | Subtract from bank balance |\n| Bank charges not recorded | Record in books |\n| Interest credited | Record in books |\n| Direct debits | Record in books |\n\n## Viewing BRS in Tally\n\n**Path:** Gateway > Display > Account Books > Cash/Bank Books\n\nSelect Bank > Press **F5** for Reconciled View\n\n## Reports\n\n### Summary View\n\n```\n+----------------------------------+\n| Bank Account: HDFC Bank          |\n| Statement Date: 31-Jan-2024      |\n+----------------------------------+\n| Balance as per Books:   140,000  |\n| Cheques in Clearing:     40,000  |\n| Uncleared Cheques:      (50,000) |\n+----------------------------------+\n| Balance as per Bank:    150,000  |\n+----------------------------------+\n```\n\n> **Regular BRS** catches errors early!"
+        },
+        {
+            "id": "ac_tally_6",
+            "type": "content",
+            "title": "Cost Centers",
+            "content": "# Cost Center Accounting\n\n## What are Cost Centers?\n\nCost centers allow tracking of **expenses by department, project, or location**.\n\n## Enabling Cost Centers\n\n**F11 > Accounting Features**\n\n```\nMaintain Cost Centres: Yes\nUse Cost Centre for Purchases: Yes\n```\n\n## Creating Cost Centers\n\n**Path:** Gateway > Create > Cost Centre\n\n### Cost Center Master\n\n```\n+----------------------------------+\n| Cost Centre Creation             |\n+----------------------------------+\n| Name: Marketing Department       |\n| Under: Primary Cost Category     |\n+----------------------------------+\n```\n\n## Cost Center Categories\n\n### Structure\n\n```\nPrimary (Root)\n    |\n    +-- Administration\n    |       +-- HR\n    |       +-- Finance\n    |       +-- IT\n    |\n    +-- Operations\n    |       +-- Production\n    |       +-- Quality\n    |\n    +-- Sales\n            +-- North Region\n            +-- South Region\n```\n\n## Allocating Costs\n\n### In Expense Voucher\n\n```\n+----------------------------------+\n| Payment Voucher                  |\n+----------------------------------+\n| Expense: Salary                  |\n| Amount: Rs. 100,000              |\n+----------------------------------+\n| Cost Centre Allocation:          |\n| Marketing: Rs. 40,000            |\n| Sales: Rs. 35,000                |\n| Finance: Rs. 25,000              |\n+----------------------------------+\n```\n\n> **Cost centers** enable department-wise analysis!"
+        },
+        {
+            "id": "ac_tally_7",
+            "type": "content",
+            "title": "Cost Center Reports",
+            "content": "# Analyzing Cost Center Data\n\n## Cost Center Summary\n\n**Path:** Gateway > Display > Statements of Accounts > Cost Centres\n\n```\n+------------------------------------------+\n| Cost Centre Summary 1-Apr to 31-Mar      |\n+------------------------------------------+\n| Cost Centre    | Expenses   | % of Total |\n+------------------------------------------+\n| Marketing      | 500,000    | 25%        |\n| Sales          | 600,000    | 30%        |\n| Operations     | 700,000    | 35%        |\n| Admin          | 200,000    | 10%        |\n+------------------------------------------+\n| Total          | 2,000,000  | 100%       |\n+------------------------------------------+\n```\n\n## Category Summary\n\n```\n+------------------------------------------+\n| Category: Primary                        |\n+------------------------------------------+\n| Cost Centre    | Budget    | Actual     |\n| Marketing      | 550,000   | 500,000    |\n| Variance       |           | 50,000 F   |\n+------------------------------------------+\n```\n\n## Ledger with Cost Centers\n\n```\n+------------------------------------------+\n| Salary Expense by Cost Centre            |\n+------------------------------------------+\n| Cost Centre    | Amount                  |\n| Marketing      | 200,000                 |\n| Sales          | 180,000                 |\n| Operations     | 250,000                 |\n| Admin          | 120,000                 |\n+------------------------------------------+\n| Total Salary   | 750,000                 |\n+------------------------------------------+\n```\n\n## Drilling Down\n\n1. Select any cost center\n2. Press Enter to drill down\n3. See individual transactions\n\n> **Cost center analysis** supports better decisions!"
+        },
+        {
+            "id": "ac_tally_quiz_2",
+            "type": "quiz",
+            "title": "Cost Center Quiz",
+            "content": "Test your cost center knowledge!",
+            "quizQuestion": "What must be enabled in F11 to use cost centers in Tally?",
+            "quizOptions": [
+                "Maintain Bill-by-Bill",
+                "Maintain Cost Centres",
+                "Use Multi-Currency",
+                "Enable GST"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ac_tally_8",
+            "type": "content",
+            "title": "Budgets and Controls",
+            "content": "# Budget Management in Tally\n\n## Enabling Budgets\n\n**F11 > Accounting Features**\n\n```\nMaintain Budgets and Controls: Yes\n```\n\n## Creating a Budget\n\n**Path:** Gateway > Create > Budget\n\n### Budget Master\n\n```\n+----------------------------------+\n| Budget Creation                  |\n+----------------------------------+\n| Name: Annual Budget 2024-25      |\n| Period: 1-Apr-2024 to 31-Mar-2025|\n+----------------------------------+\n| Set Budgets for:\n| [X] Groups\n| [X] Ledgers\n| [X] Cost Centres\n+----------------------------------+\n```\n\n## Setting Budget Amounts\n\n### For Ledgers\n\n```\n+----------------------------------+\n| Budget for: Annual Budget 2024   |\n+----------------------------------+\n| Ledger          | Budget Amount  |\n+----------------------------------+\n| Salary          | 12,00,000      |\n| Rent            | 3,60,000       |\n| Marketing       | 6,00,000       |\n| Travel          | 2,40,000       |\n+----------------------------------+\n```\n\n### For Cost Centers\n\n```\n+----------------------------------+\n| Cost Centre Budget               |\n+----------------------------------+\n| Marketing Dept  | 8,00,000       |\n| Sales Dept      | 10,00,000      |\n| Operations      | 15,00,000      |\n+----------------------------------+\n```\n\n## Budget Variance Report\n\n```\n+------------------------------------------+\n| Budget Variance Report                   |\n+------------------------------------------+\n| Ledger   | Budget  | Actual  | Variance |\n| Salary   | 100,000 | 95,000  | 5,000 F  |\n| Travel   | 20,000  | 25,000  | 5,000 U  |\n+------------------------------------------+\n| F = Favorable, U = Unfavorable          |\n+------------------------------------------+\n```\n\n> **Budgets help control** spending and track performance!"
+        },
+        {
+            "id": "ac_tally_9",
+            "type": "content",
+            "title": "Multi-Currency Accounting",
+            "content": "# Multiple Currency Transactions\n\n## Enabling Multi-Currency\n\n**F11 > Accounting Features**\n\n```\nAllow Multi-Currency: Yes\n```\n\n## Creating Currency\n\n**Path:** Gateway > Create > Currency\n\n### Currency Master\n\n```\n+----------------------------------+\n| Currency Creation                |\n+----------------------------------+\n| Symbol: USD                      |\n| Formal Name: US Dollar           |\n| Suffix Symbol: $                 |\n| Decimal Places: 2                |\n+----------------------------------+\n```\n\n## Exchange Rates\n\n### Standard Rate\n\n**Path:** Gateway > Alter > Currency\n\n```\nRate of Exchange:\nDate: 01-Jan-2024\nRate: Rs. 83.25 per USD\n```\n\n### Voucher-Specific Rate\n\nEnter during transaction:\n\n```\n+----------------------------------+\n| Sales Voucher (Foreign)          |\n+----------------------------------+\n| Party: US Customer               |\n| Currency: USD                    |\n| Amount: $1,000                   |\n| Exchange Rate: Rs. 83.50         |\n| INR Value: Rs. 83,500            |\n+----------------------------------+\n```\n\n## Forex Gain/Loss\n\n### On Receipt\n\n```\nSale recorded: $1,000 @ 83.25 = Rs. 83,250\nReceived:      $1,000 @ 83.50 = Rs. 83,500\nForex Gain:                     Rs.    250\n```\n\n## Multi-Currency Reports\n\n- Forex Gain/Loss Report\n- Currency-wise Outstanding\n- Exchange Rate History\n\n> **Handle foreign transactions** accurately with multi-currency!"
+        },
+        {
+            "id": "ac_tally_10",
+            "type": "content",
+            "title": "Interest Calculation",
+            "content": "# Automatic Interest Calculation\n\n## Enabling Interest\n\n**F11 > Accounting Features**\n\n```\nActivate Interest Calculation: Yes\n```\n\n## Configuring Interest in Ledger\n\n**Ledger Master**\n\n```\n+----------------------------------+\n| Ledger: ABC Customer             |\n| Under: Sundry Debtors            |\n+----------------------------------+\n| Activate Interest Calculation: Yes|\n| Interest Style: Simple Interest  |\n| Rate: 18% per annum              |\n| Per: Month                       |\n| Calc on Opening Balance: Yes     |\n+----------------------------------+\n```\n\n## Interest Parameters\n\n| Parameter | Options |\n|-----------|--------|\n| Style | Simple / Compound |\n| Rate | Percentage |\n| Period | Day / Month / Year |\n| Calc Basis | From due date / days |\n\n## Example Calculation\n\n```\nInvoice: Rs. 100,000\nDue Date: 15-Jan-2024\nPayment Date: 15-Mar-2024\nOverdue: 60 days\nRate: 18% per annum\n\nInterest = 100,000 x 18% x (60/365)\nInterest = Rs. 2,959\n```\n\n## Interest Report\n\n**Path:** Display > Statements of Accounts > Outstanding > Interest Receivable\n\n```\n+------------------------------------------+\n| Interest Receivable as on 31-Mar         |\n+------------------------------------------+\n| Party      | Principal | Days | Interest |\n| ABC Corp   | 100,000   | 60   | 2,959    |\n| XYZ Ltd    | 50,000    | 30   | 740      |\n+------------------------------------------+\n```\n\n> **Automate interest** on overdue accounts!"
+        },
+        {
+            "id": "ac_tally_11",
+            "type": "content",
+            "title": "Voucher Classes",
+            "content": "# Customizing Voucher Types\n\n## What are Voucher Classes?\n\nVoucher classes let you **customize voucher behavior** for specific transaction types.\n\n## Creating Voucher Class\n\n**Path:** Gateway > Alter > Voucher Type\n\n### Example: PDC Receipt Class\n\n```\n+----------------------------------+\n| Voucher Type: Receipt            |\n+----------------------------------+\n| Name of Class: PDC Received      |\n| Use Class for PDC: Yes           |\n| Credit Account: Bills Receivable |\n+----------------------------------+\n```\n\n## Common Voucher Classes\n\n### For Receipts\n\n| Class | Purpose |\n|-------|--------|\n| Cash Receipt | Cash payments |\n| Bank Receipt | Cheque/online payments |\n| PDC Received | Post-dated cheques |\n\n### For Payments\n\n| Class | Purpose |\n|-------|--------|\n| Cash Payment | Cash disbursements |\n| Bank Payment | Cheque payments |\n| PDC Issued | Post-dated cheques |\n\n## Using Voucher Class\n\n### During Entry\n\n```\n+----------------------------------+\n| Receipt Voucher                  |\n+----------------------------------+\n| Date: 15-Jan-2024                |\n| Voucher Class: PDC Received      |\n| [Class specific fields appear]   |\n| PDC Date: 15-Feb-2024            |\n+----------------------------------+\n```\n\n## Benefits\n\n- Standardize entries\n- Pre-fill common fields\n- Separate tracking\n- Better reporting\n\n> **Voucher classes** streamline repetitive entries!"
+        },
+        {
+            "id": "ac_tally_quiz_3",
+            "type": "quiz",
+            "title": "Voucher Class Quiz",
+            "content": "Test your voucher class knowledge!",
+            "quizQuestion": "Which voucher class is typically used for receiving post-dated cheques?",
+            "quizOptions": [
+                "Cash Receipt",
+                "Bank Receipt",
+                "PDC Received",
+                "Journal"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ac_tally_12",
+            "type": "content",
+            "title": "Optional and Reversing Vouchers",
+            "content": "# Special Voucher Types\n\n## Optional Vouchers\n\n### What Are They?\nVouchers that are **not included in reports** until confirmed.\n\n### Enabling\n\n```\nF11 > Accounting Features\nUse Optional Vouchers: Yes\n```\n\n### Creating Optional Voucher\n\n```\nDuring voucher entry:\nPress Ctrl+L to mark as Optional\n\n+----------------------------------+\n| Voucher marked as OPTIONAL       |\n| Will not affect accounts until   |\n| converted to regular voucher     |\n+----------------------------------+\n```\n\n### Use Cases\n- Pending approvals\n- Tentative transactions\n- What-if scenarios\n\n## Reversing Journals\n\n### What Are They?\nJournals that **automatically reverse** on a specified date.\n\n### Enabling\n\n```\nF11 > Accounting Features\nUse Reversing Journals: Yes\n```\n\n### Creating Reversing Journal\n\n```\n+----------------------------------+\n| Journal Voucher (F7)             |\n+----------------------------------+\n| Mark as Reversing Journal: Yes   |\n| Reversal Date: 01-Apr-2024       |\n+----------------------------------+\n| Prepaid Insurance (Dr)  12,000   |\n| Insurance Expense (Cr)  12,000   |\n+----------------------------------+\n```\n\n### Result\n\nEntry auto-reverses on 01-Apr-2024:\n\n```\nInsurance Expense (Dr)    12,000\nPrepaid Insurance (Cr)    12,000\n```\n\n> **Special vouchers** handle complex scenarios easily!"
+        },
+        {
+            "id": "ac_tally_13",
+            "type": "content",
+            "title": "Financial Statements Analysis",
+            "content": "# Analyzing Financial Statements\n\n## Balance Sheet Analysis\n\n**Path:** Gateway > Reports > Balance Sheet\n\n### Ratio Analysis\n\n```\n+----------------------------------+\n| Key Ratios (Press Alt+F1)        |\n+----------------------------------+\n| Current Ratio: 2.5:1             |\n| Quick Ratio: 1.8:1               |\n| Debt-Equity: 0.5:1               |\n+----------------------------------+\n```\n\n## Profit and Loss Analysis\n\n### Percentage View\n\nPress F12 > Show Percentages: Yes\n\n```\n+----------------------------------+\n| Profit and Loss (% of Sales)     |\n+----------------------------------+\n| Sales:              100%         |\n| Purchases:           60%         |\n| Gross Profit:        40%         |\n| Expenses:            25%         |\n| Net Profit:          15%         |\n+----------------------------------+\n```\n\n## Comparative Analysis\n\n### Period Comparison\n\n```\n+------------------------------------------+\n| Comparative P&L                          |\n+------------------------------------------+\n| Particulars | 2023-24  | 2022-23 | Var% |\n| Sales       | 10M      | 8M      | +25% |\n| Expenses    | 8M       | 6.5M    | +23% |\n| Net Profit  | 2M       | 1.5M    | +33% |\n+------------------------------------------+\n```\n\n## Cash Flow Statement\n\n**Path:** Gateway > Reports > Cash Flow\n\n```\n+----------------------------------+\n| Cash Flow Statement              |\n+----------------------------------+\n| Operating Activities:   500,000  |\n| Investing Activities:  (200,000) |\n| Financing Activities:  (100,000) |\n+----------------------------------+\n| Net Cash Flow:          200,000  |\n+----------------------------------+\n```\n\n> **Deep analysis** reveals business health!"
+        },
+        {
+            "id": "ac_tally_14",
+            "type": "content",
+            "title": "Group Company and Branches",
+            "content": "# Multi-Branch Accounting\n\n## Group Company\n\n### Creating Linked Companies\n\n1. Create parent company\n2. Create branch companies\n3. Link through Group Company feature\n\n### Benefits\n\n- Consolidated reporting\n- Inter-branch transactions\n- Combined trial balance\n\n## Branch Accounting\n\n### Within Single Company\n\nUse Cost Centers for branches:\n\n```\nPrimary\n  |\n  +-- Mumbai Branch\n  +-- Delhi Branch\n  +-- Chennai Branch\n```\n\n### Separate Companies\n\nCreate individual companies:\n\n```\nABC Company - Mumbai (1001)\nABC Company - Delhi (1002)\nABC Company - Chennai (1003)\n```\n\n## Inter-Branch Transactions\n\n### Stock Transfer\n\n```\nMumbai sends goods to Delhi:\n\nMumbai Books:\n  Delhi Branch A/c (Dr)\n  Sales/Stock Transfer (Cr)\n\nDelhi Books:\n  Purchases/Stock Transfer (Dr)\n  Mumbai Branch A/c (Cr)\n```\n\n## Consolidated Reports\n\n**Path:** Gateway > Alt+F3 > Select Companies\n\nSelect multiple companies to see:\n- Combined Trial Balance\n- Consolidated Balance Sheet\n- Group Outstanding\n\n> **Multi-branch accounting** supports business growth!"
+        },
+        {
+            "id": "ac_tally_15",
+            "type": "content",
+            "title": "Data Security and Users",
+            "content": "# Security in Tally\n\n## User Management\n\n### Creating Users\n\n**Path:** Gateway > Alt+F3 > Security Control > Create\n\n```\n+----------------------------------+\n| User Creation                    |\n+----------------------------------+\n| Name: Accounts Manager           |\n| Password: ********               |\n| User Type: Data Entry            |\n+----------------------------------+\n```\n\n## User Types\n\n| Type | Access Level |\n|------|-------------|\n| Owner | Full access |\n| Administrator | Most functions |\n| Data Entry | Entry only |\n| Display Only | View reports only |\n\n## Security Levels\n\n### Defining Access\n\n```\n+----------------------------------+\n| Security Level: Accountant       |\n+----------------------------------+\n| Allow Voucher Entry: Yes         |\n| Allow Alter Masters: No          |\n| Allow Delete Vouchers: No        |\n| Access Reports: Yes              |\n| Period Restriction: Current Year |\n+----------------------------------+\n```\n\n## Company Password\n\n### Setting Password\n\n**Path:** F11 > Set Company Password\n\n### Password Features\n\n- Require on company open\n- Different for each company\n- Administrator override\n\n## Tally Vault\n\nEncrypt and protect company data:\n\n```\nAlt+F3 > Tally Vault > Password Protect\n```\n\n> **Security protects** your financial data!"
+        },
+        {
+            "id": "ac_tally_16",
+            "type": "content",
+            "title": "Advanced Features",
+            "content": "# Additional Accounting Features\n\n## Scenario Management\n\n### What-If Analysis\n\n```\nF11 > Accounting Features\nUse Scenario Management: Yes\n```\n\nCreate scenarios:\n- Optimistic\n- Pessimistic\n- Most Likely\n\n## Post-Dated Transactions\n\n### Future Dated Entries\n\n- Cheques for future dates\n- Post-dated vouchers\n- Automatic reporting\n\n## Manufacturing Journal\n\n### For Production Entries\n\n```\n+----------------------------------+\n| Manufacturing Journal            |\n+----------------------------------+\n| Finished Good: Widget (100 Nos)  |\n+----------------------------------+\n| Raw Material A: 200 Kgs consumed |\n| Raw Material B: 50 Kgs consumed  |\n+----------------------------------+\n```\n\n## Job Costing\n\n### Cost Categories for Jobs\n\n```\nJob: Project ABC\nCategories:\n  - Material Cost: Rs. 100,000\n  - Labor Cost: Rs. 50,000\n  - Overhead: Rs. 25,000\n  - Total: Rs. 175,000\n```\n\n## Payroll Integration\n\n### With Accounting\n\n```\nPayroll Entry:\n  Salary A/c (Dr)       500,000\n  PF Payable (Cr)        30,000\n  TDS Payable (Cr)       25,000\n  Salary Payable (Cr)   445,000\n```\n\n> **Advanced features** handle complex requirements!"
+        },
+        {
+            "id": "ac_tally_quiz_4",
+            "type": "quiz",
+            "title": "Security Quiz",
+            "content": "Test your security knowledge!",
+            "quizQuestion": "Which user type has full access to all Tally functions?",
+            "quizOptions": [
+                "Data Entry",
+                "Administrator",
+                "Owner",
+                "Display Only"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ac_tally_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **Accounting in Tally** lesson!\n\n## Key Concepts Mastered\n\n### Receivables and Payables\n- Bill-by-Bill tracking\n- Outstanding reports\n- Aging analysis\n\n### Bank Reconciliation\n- Matching book vs bank\n- Bank Reconciliation Statement\n- Clearing items\n\n### Cost Centers\n- Department-wise tracking\n- Cost allocation\n- Variance analysis\n\n### Advanced Features\n- Multi-currency transactions\n- Interest calculation\n- Voucher classes\n- Budgeting\n\n## Quick Reference\n\n| Feature | Enable In |\n|---------|----------|\n| Bill-by-Bill | Ledger Master |\n| Cost Centres | F11 |\n| Multi-Currency | F11 |\n| Budgets | F11 |\n| Bank Recon | Bank Ledger |\n\n## Key Reports\n\n| Report | Path |\n|--------|------|\n| Outstanding | Display > Statements > Outstanding |\n| Cost Centre | Display > Statements > Cost Centres |\n| Bank Recon | Banking > Reconciliation |\n| Budget | Display > Statements > Budgets |\n\n## What is Next?\n\nExplore:\n- Inventory Management in Tally\n- GST and Taxation\n- Advanced Tally Features\n\n> **You now have advanced accounting skills** in Tally!"
+        }
+    ]
+}

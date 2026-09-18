@@ -1,0 +1,161 @@
+{
+    "id": "learn_acca_fa",
+    "topicId": "acca_fa",
+    "topicTitle": "Financial Accounting (FA)",
+    "description": "Master ACCA FA including Double Entry, Financial Statements, Accounting Standards, and Year-End Adjustments",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "fa_1",
+            "type": "content",
+            "title": "Welcome to ACCA FA",
+            "content": "# Financial Accounting (FA)\n\nFA covers the preparation and understanding of **financial statements**.\n\n## What You Will Learn\n\n- **Double Entry** - Recording transactions\n- **Financial Statements** - Preparation\n- **Standards** - IAS/IFRS basics\n- **Adjustments** - Accruals, prepayments\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Recording transactions | 30% |\n| Financial statements | 30% |\n| Adjustments | 25% |\n| Control accounts | 15% |"
+        },
+        {
+            "id": "fa_2",
+            "type": "content",
+            "title": "Double Entry Basics",
+            "content": "# Double Entry Bookkeeping\n\n## The Accounting Equation\n\n```\nAssets = Liabilities + Equity\n```\n\n## Debit and Credit Rules\n\n| Type | Debit | Credit |\n|------|-------|--------|\n| Assets | Increase | Decrease |\n| Liabilities | Decrease | Increase |\n| Equity | Decrease | Increase |\n| Income | Decrease | Increase |\n| Expenses | Increase | Decrease |\n\n## Example Entry\n\n```\nPurchased goods for cash $1,000:\n\nDr Purchases    $1,000\nCr Cash         $1,000\n```"
+        },
+        {
+            "id": "fa_3",
+            "type": "content",
+            "title": "Books of Prime Entry",
+            "content": "# Source Documents and Books\n\n## Books of Prime Entry\n\n| Book | Records |\n|------|--------|\n| Sales Day Book | Credit sales |\n| Purchase Day Book | Credit purchases |\n| Cash Book | Cash transactions |\n| Journal | Non-routine entries |\n\n## Document Flow\n\n```\nSource Document\n    |\n    v\nBooks of Prime Entry\n    |\n    v\nLedger Accounts\n    |\n    v\nTrial Balance\n    |\n    v\nFinancial Statements\n```\n\n## The Ledger\n\n- Sales ledger (debtors)\n- Purchase ledger (creditors)\n- Nominal ledger (expenses, income)"
+        },
+        {
+            "id": "fa_quiz_1",
+            "type": "quiz",
+            "title": "Double Entry Quiz",
+            "content": "Test your double entry knowledge!",
+            "quizQuestion": "When cash is received from a debtor, what is credited?",
+            "quizOptions": [
+                "Sales",
+                "Cash",
+                "Receivables",
+                "Bank"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "fa_4",
+            "type": "content",
+            "title": "Trial Balance",
+            "content": "# Trial Balance\n\n## Purpose\n\n- Check arithmetic accuracy\n- Starting point for financial statements\n- List all ledger balances\n\n## Format\n\n```\nTrial Balance as at 31 Dec\n                    Dr      Cr\nCapital                   50,000\nSales                    120,000\nPurchases          80,000\nWages              25,000\nRent                5,000\nReceivables        15,000\nPayables                   8,000\nCash                3,000\n----------------------------\nTotal             128,000  128,000\n```\n\n## Limitations\n\n- Does not detect all errors\n- Compensating errors hidden\n- Errors of principle missed"
+        },
+        {
+            "id": "fa_5",
+            "type": "content",
+            "title": "Accruals and Prepayments",
+            "content": "# Period-End Adjustments\n\n## Accruals\n\nExpenses incurred but not yet paid.\n\n```\nElectricity bill for Dec not received:\n\nDr Electricity expense    500\nCr Accruals               500\n```\n\n## Prepayments\n\nExpenses paid in advance.\n\n```\nRent paid covers next 3 months:\n\nDr Prepayments         1,500\nCr Rent expense        1,500\n```\n\n## Income Adjustments\n\n| Type | Treatment |\n|------|----------|\n| Accrued income | Dr Receivable, Cr Income |\n| Deferred income | Dr Income, Cr Liability |"
+        },
+        {
+            "id": "fa_6",
+            "type": "content",
+            "title": "Depreciation",
+            "content": "# Non-Current Asset Depreciation\n\n## Methods\n\n| Method | Formula |\n|--------|--------|\n| Straight-line | (Cost - RV) / Life |\n| Reducing balance | NBV x Rate% |\n\n## Example: Straight-line\n\n```\nCost: $10,000\nResidual Value: $2,000\nLife: 4 years\n\nAnnual depreciation:\n($10,000 - $2,000) / 4 = $2,000\n```\n\n## Journal Entry\n\n```\nDr Depreciation expense    2,000\nCr Accumulated depreciation 2,000\n```\n\n## Carrying Amount\n\n```\nCost - Accumulated Depreciation\n= Carrying Amount (NBV)\n```"
+        },
+        {
+            "id": "fa_7",
+            "type": "content",
+            "title": "Inventory Valuation",
+            "content": "# Inventory\n\n## Valuation Rule (IAS 2)\n\n```\nLower of:\n- Cost\n- Net Realizable Value (NRV)\n```\n\n## Cost Flow Methods\n\n| Method | Description |\n|--------|-------------|\n| FIFO | First in, first out |\n| AVCO | Weighted average |\n\n## Example: FIFO\n\n```\nOpening: 100 @ $10\nPurchase: 50 @ $12\nSold: 120 units\n\nCost of sales:\n100 x $10 = $1,000\n20 x $12 = $240\nTotal = $1,240\n```\n\n## Closing Inventory Entry\n\n```\nDr Inventory (SOFP)  xxx\nCr Purchases (SPL)   xxx\n```"
+        },
+        {
+            "id": "fa_quiz_2",
+            "type": "quiz",
+            "title": "Inventory Quiz",
+            "content": "Test your inventory knowledge!",
+            "quizQuestion": "Inventory must be valued at the lower of cost and?",
+            "quizOptions": [
+                "Market value",
+                "Replacement cost",
+                "Net realizable value",
+                "Historical cost"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "fa_8",
+            "type": "content",
+            "title": "Irrecoverable Debts",
+            "content": "# Bad Debts\n\n## Irrecoverable Debts\n\nDebts that will never be recovered.\n\n```\nDr Irrecoverable debts expense  1,000\nCr Receivables                  1,000\n```\n\n## Allowance for Receivables\n\nEstimate of future bad debts.\n\n### Creating Allowance\n\n```\nDr Irrecoverable debts expense  500\nCr Allowance for receivables    500\n```\n\n### Increasing Allowance\n\n```\nDr Irrecoverable debts expense  200\nCr Allowance for receivables    200\n```\n\n### Decreasing Allowance\n\n```\nDr Allowance for receivables    100\nCr Irrecoverable debts expense  100\n```"
+        },
+        {
+            "id": "fa_9",
+            "type": "content",
+            "title": "Control Accounts",
+            "content": "# Control Accounts\n\n## Purpose\n\n- Verify accuracy of ledgers\n- Summary of transactions\n- Fraud prevention\n\n## Receivables Control\n\n```\n                        Dr      Cr\nOpening balance      5,000\nCredit sales        20,000\nCash received               18,000\nIrrecoverable debts            500\nReturns inward              1,000\nClosing balance              5,500\n                   ------   ------\n                   25,000   25,000\n```\n\n## Payables Control\n\n```\n                        Dr      Cr\nOpening balance              3,000\nCredit purchases            15,000\nCash paid          12,000\nReturns outward     1,500\nClosing balance              4,500\n                   ------   ------\n                   18,000   18,000\n```"
+        },
+        {
+            "id": "fa_10",
+            "type": "content",
+            "title": "Bank Reconciliation",
+            "content": "# Bank Reconciliation\n\n## Why Reconcile?\n\n- Verify cash book accuracy\n- Identify timing differences\n- Detect errors/fraud\n\n## Common Differences\n\n| Item | Adjustment |\n|------|------------|\n| Unpresented cheques | Deduct from bank |\n| Outstanding deposits | Add to bank |\n| Bank charges | Adjust cash book |\n| Direct debits | Adjust cash book |\n\n## Format\n\n```\nBalance per bank statement    5,000\nAdd: Outstanding deposits     1,200\nLess: Unpresented cheques    (800)\n--------------------------------\nBalance per cash book         5,400\n```"
+        },
+        {
+            "id": "fa_11",
+            "type": "content",
+            "title": "Statement of Profit or Loss",
+            "content": "# Income Statement\n\n## Format\n\n```\nStatement of Profit or Loss\nfor year ended 31 December\n\nRevenue                    100,000\nCost of sales             (60,000)\n-----------------------------\nGross profit               40,000\nDistribution costs         (8,000)\nAdministrative expenses   (12,000)\n-----------------------------\nProfit before tax          20,000\nIncome tax expense         (4,000)\n-----------------------------\nProfit for the year        16,000\n```\n\n## Cost of Sales\n\n```\nOpening inventory           5,000\nPurchases                  55,000\nClosing inventory         (10,000)\n-----------------------------\nCost of sales              50,000\n```"
+        },
+        {
+            "id": "fa_quiz_3",
+            "type": "quiz",
+            "title": "SPL Quiz",
+            "content": "Test your income statement knowledge!",
+            "quizQuestion": "Cost of sales equals opening inventory plus purchases minus?",
+            "quizOptions": [
+                "Opening inventory",
+                "Closing inventory",
+                "Sales",
+                "Gross profit"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "fa_12",
+            "type": "content",
+            "title": "Statement of Financial Position",
+            "content": "# Balance Sheet\n\n## Format\n\n```\nStatement of Financial Position\nas at 31 December\n\nNon-current assets\n  Property, plant       50,000\n  Accumulated depr     (10,000)\n                        40,000\n\nCurrent assets\n  Inventory             10,000\n  Receivables           15,000\n  Cash                   5,000\n                        30,000\nTotal assets            70,000\n\nEquity\n  Share capital         30,000\n  Retained earnings     25,000\n                        55,000\n\nCurrent liabilities\n  Payables              10,000\n  Accruals               5,000\n                        15,000\nTotal equity & liab     70,000\n```"
+        },
+        {
+            "id": "fa_13",
+            "type": "content",
+            "title": "Accounting Concepts",
+            "content": "# Fundamental Concepts\n\n## Going Concern\n\nBusiness will continue operating.\n\n## Accruals Basis\n\nRecognize when earned/incurred, not when cash moves.\n\n## Prudence\n\nDo not overstate assets or income.\n\n## Consistency\n\nUse same methods each period.\n\n## Qualitative Characteristics\n\n| Primary | Enhancing |\n|---------|----------|\n| Relevance | Comparability |\n| Faithful representation | Verifiability |\n|  | Timeliness |\n|  | Understandability |"
+        },
+        {
+            "id": "fa_14",
+            "type": "content",
+            "title": "Errors and Suspense",
+            "content": "# Error Correction\n\n## Types of Errors\n\n| Error | Effect |\n|-------|--------|\n| Omission | Not recorded |\n| Commission | Wrong account (same class) |\n| Principle | Wrong account type |\n| Original entry | Wrong amount |\n| Reversal | Dr/Cr swapped |\n| Compensating | Errors cancel out |\n\n## Suspense Account\n\nTemporary account to balance trial balance.\n\n```\nWhen trial balance doesn't balance:\n\nDr/Cr Suspense  xxx\n\nClear when error found.\n```"
+        },
+        {
+            "id": "fa_15",
+            "type": "content",
+            "title": "Incomplete Records",
+            "content": "# Incomplete Records\n\n## When Records Incomplete\n\n- Small businesses\n- Lost records\n- No formal system\n\n## Techniques\n\n### Net Assets Approach\n\n```\nClosing Net Assets\n- Opening Net Assets\n+ Drawings\n- Capital introduced\n= Profit for the year\n```\n\n### Mark-up/Margin\n\n```\nMark-up: % on cost\nMargin: % on selling price\n\nCost x (1 + Mark-up%) = Sales\nSales x Margin% = Gross Profit\n```"
+        },
+        {
+            "id": "fa_quiz_4",
+            "type": "quiz",
+            "title": "Records Quiz",
+            "content": "Test your incomplete records knowledge!",
+            "quizQuestion": "If mark-up is 25% and cost is $100, what is selling price?",
+            "quizOptions": [
+                "$100",
+                "$120",
+                "$125",
+                "$150"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "fa_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA FA - Financial Accounting**!\n\n## Key Topics\n\n### Recording\n- Double entry system\n- Books of prime entry\n- Control accounts\n\n### Adjustments\n- Accruals and prepayments\n- Depreciation\n- Inventory valuation\n- Bad debts\n\n### Statements\n- Statement of Profit or Loss\n- Statement of Financial Position\n- Bank reconciliation\n\n## Key Rules\n\n| Rule | Application |\n|------|-------------|\n| Lower of cost/NRV | Inventory |\n| Matching | Expenses to revenue |\n| Going concern | Valuation basis |\n\n## What is Next?\n\nExplore ACCA LW - Corporate Law!"
+        }
+    ]
+}

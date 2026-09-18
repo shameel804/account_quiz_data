@@ -1,0 +1,152 @@
+[
+    {
+        "title": "CPA FAR Overview 📚",
+        "ques": "What are the main topics covered in **FAR**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**FAR Topics**:\n* Conceptual framework and standards\n* Financial statement accounts\n* Specific transactions (leases, consolidations)\n* Governmental accounting\n* Not-for-profit accounting"
+        },
+        "explanation": "FAR tests ***technical accounting*** knowledge."
+    },
+    {
+        "title": "FASB Conceptual Framework 📋",
+        "ques": "What are the **qualitative characteristics** of financial information?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Fundamental**:\n* Relevance (predictive, confirmatory value)\n* Faithful representation (complete, neutral, free from error)\n\n**Enhancing**:\n* Comparability\n* Verifiability\n* Timeliness\n* Understandability"
+        },
+        "explanation": "Characteristics guide ***standard-setting***."
+    },
+    {
+        "title": "Revenue Recognition ASC 606 💰",
+        "ques": "What is the **5-step revenue recognition** model?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**5 Steps**:\n1. Identify contract with customer\n2. Identify performance obligations\n3. Determine transaction price\n4. Allocate to performance obligations\n5. Recognize when obligation satisfied\n\n**Control**: Key concept for recognition"
+        },
+        "explanation": "Apply to ***all customer contracts***."
+    },
+    {
+        "title": "Lease Accounting ASC 842 🏢",
+        "ques": "How does a **lessee** account for leases?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Lessee Accounting**:\n* Recognize right-of-use asset and lease liability\n* Finance vs Operating classification\n* Finance: Interest + amortization expense\n* Operating: Single lease expense (straight-line)\n\n**Exceptions**: Short-term leases (<= 12 months)"
+        },
+        "explanation": "Most leases now ***on balance sheet***."
+    },
+    {
+        "title": "Governmental Accounting 🏛️",
+        "ques": "What are the **fund types** in government accounting?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Fund Types**:\n* Governmental: General, Special Revenue, Capital Projects, Debt Service, Permanent\n* Proprietary: Enterprise, Internal Service\n* Fiduciary: Pension, Investment, Custodial\n\n**Measurement focus**: Current financial resources (governmental) vs economic resources (proprietary)"
+        },
+        "explanation": "Fund accounting ensures ***accountability***."
+    },
+    {
+        "title": "CPA REG - Tax Law 📋",
+        "ques": "What are the **sources of tax law** hierarchy?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Hierarchy**:\n1. Internal Revenue Code (IRC)\n2. Treasury Regulations\n3. Court decisions\n4. IRS pronouncements (Revenue Rulings, Procedures)\n\n**Primary**: IRC and Regulations\n**Secondary**: Tax services, treatises"
+        },
+        "explanation": "Higher sources ***override*** lower."
+    },
+    {
+        "title": "Individual Tax Computation 👤",
+        "ques": "How is **taxable income** computed for individuals?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Computation**:\nGross Income\n- Adjustments (above-the-line)\n= AGI (Adjusted Gross Income)\n- Standard or Itemized deductions\n- QBI deduction (if applicable)\n= Taxable Income"
+        },
+        "explanation": "AGI is ***key threshold*** for many benefits."
+    },
+    {
+        "title": "Business Entity Taxation 🏢",
+        "ques": "Compare taxation of **C Corps**, **S Corps**, and **Partnerships**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**C Corporation**: Double taxation (entity and shareholder)\n\n**S Corporation**: Pass-through, limited shareholders\n\n**Partnership**: Pass-through, flexible allocations\n\n**LLC**: Can elect any treatment"
+        },
+        "explanation": "Entity choice has ***major tax implications***."
+    },
+    {
+        "title": "CPA BEC - Corporate Governance 🏛️",
+        "ques": "What are the **responsibilities of the audit committee**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Responsibilities**:\n* Oversee financial reporting\n* Appoint external auditor\n* Review internal controls\n* Oversee internal audit\n* Manage whistleblower complaints\n* Review related party transactions"
+        },
+        "explanation": "Committee must be ***independent***."
+    },
+    {
+        "title": "Economic Concepts 📈",
+        "ques": "Define **GDP**, **GNP**, and **inflation**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**GDP**: Total goods/services produced in a country\n\n**GNP**: GDP + Net income from abroad\n\n**Inflation**: General increase in price level\n* Measured by CPI (Consumer Price Index)\n* Reduces purchasing power"
+        },
+        "explanation": "Economic indicators affect ***business planning***."
+    },
+    {
+        "title": "Financial Management Concepts 💰",
+        "ques": "What is the **time value of money**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Principle**: Money today worth more than same amount in future\n\n**Present Value**: PV = FV / (1+r)^n\n\n**Future Value**: FV = PV x (1+r)^n\n\n**Applications**: Investment valuation, capital budgeting"
+        },
+        "explanation": "Foundation of ***all financial analysis***."
+    },
+    {
+        "title": "IT Governance and Controls 💻",
+        "ques": "What are **IT General Controls (ITGCs)**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**ITGCs**:\n* Access controls (logical and physical)\n* Change management\n* Computer operations\n* System development\n* Backup and recovery\n\n**Impact**: Affect all applications using the system"
+        },
+        "explanation": "Weak ITGCs affect ***application controls***."
+    },
+    {
+        "title": "Operations Management 🏭",
+        "ques": "What are the **key operations performance measures**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Measures**:\n* Efficiency: Output / Input\n* Utilization: Actual / Capacity\n* Productivity: Output / Labor hours\n* Quality: Defect rate, yield\n* Cycle time: Order to delivery"
+        },
+        "explanation": "Measures drive ***continuous improvement***."
+    },
+    {
+        "title": "Contract Law 📜",
+        "ques": "What are the **elements of a valid contract**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Elements**:\n1. Mutual assent (offer and acceptance)\n2. Consideration\n3. Capacity\n4. Legality\n\n**Statute of Frauds**: Certain contracts must be written"
+        },
+        "explanation": "Missing element makes contract ***unenforceable***."
+    },
+    {
+        "title": "Agency and Debtor-Creditor 🤝",
+        "ques": "What are the **duties of an agent**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Agent Duties**:\n* Loyalty (no self-dealing)\n* Obedience (follow instructions)\n* Reasonable care\n* Accounting (for property/funds)\n* Disclosure (of material facts)\n\n**Principal liable** for agent's authorized acts"
+        },
+        "explanation": "Agency creates ***binding relationships***."
+    }
+]

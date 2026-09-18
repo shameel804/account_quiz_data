@@ -1,0 +1,167 @@
+{
+    "id": "learn_audit",
+    "topicId": "audit",
+    "topicTitle": "Auditing & Internal Controls",
+    "description": "Master auditing fundamentals including Types of Audits (Internal, External, Forensic), Audit Procedures and Risk Assessment, Fraud Detection and Prevention, and Compliance and Ethics",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "audit_1",
+            "type": "content",
+            "title": "Welcome to Auditing & Internal Controls",
+            "content": "# Auditing and Internal Controls\n\nAuditing ensures **financial statements are reliable** and organizations operate effectively. Internal controls **safeguard assets** and ensure compliance.\n\n## What You Will Learn\n\n- **Types of Audits** - Internal, External, and Forensic\n- **Audit Procedures and Risk Assessment** - How audits are conducted\n- **Fraud Detection and Prevention** - Protecting against fraud\n- **Compliance and Ethics** - Professional standards\n\n## Why Auditing Matters\n\n| Benefit | Description |\n|---------|-------------|\n| Trust | Gives credibility to financial statements |\n| Accuracy | Detects errors and misstatements |\n| Fraud Prevention | Deters and detects fraud |\n| Compliance | Ensures regulatory adherence |\n| Improvement | Identifies operational weaknesses |\n\n## The Role of Internal Controls\n\n```\n  Objectives of Internal Control:\n  +----------------------------------+\n  | 1. Reliable Financial Reporting  |\n  | 2. Effective Operations          |\n  | 3. Regulatory Compliance         |\n  | 4. Safeguarding Assets           |\n  +----------------------------------+\n```\n\n> **Auditing is the guardian** of financial integrity!"
+        },
+        {
+            "id": "audit_2",
+            "type": "content",
+            "title": "External Audits",
+            "content": "# External Audits\n\n## What is an External Audit?\n\nAn independent examination of financial statements by a **qualified auditor** who issues an opinion on whether statements are fairly presented.\n\n## Who Performs External Audits?\n\n- **CPA** (Certified Public Accountant) firms\n- Big Four: Deloitte, PwC, EY, KPMG\n- Mid-tier and local accounting firms\n\n## Purpose\n\n- Provide **assurance** to shareholders and stakeholders\n- Verify compliance with **GAAP or IFRS**\n- Enhance **credibility** of financial statements\n- Required for **public companies**\n\n## The Audit Opinion\n\n### Types of Opinions\n\n| Opinion | Meaning |\n|---------|--------|\n| **Unqualified (Clean)** | Statements are fairly presented |\n| **Qualified** | Fairly presented except for specific issues |\n| **Adverse** | Statements are NOT fairly presented |\n| **Disclaimer** | Unable to form an opinion |\n\n## External Audit Process\n\n1. **Planning** - Understand the client and risks\n2. **Risk Assessment** - Identify areas of concern\n3. **Testing** - Gather audit evidence\n4. **Evaluation** - Assess findings\n5. **Reporting** - Issue audit opinion\n\n> **Goal:** Express an opinion on financial statement fairness!"
+        },
+        {
+            "id": "audit_3",
+            "type": "content",
+            "title": "Internal Audits",
+            "content": "# Internal Audits\n\n## What is an Internal Audit?\n\nAn independent, objective assurance activity performed by **employees of the organization** to evaluate and improve operations.\n\n## Internal vs External Audits\n\n| Aspect | Internal | External |\n|--------|----------|----------|\n| **Performed by** | Company employees | Independent CPAs |\n| **Focus** | Operations, controls | Financial statements |\n| **Reporting to** | Management, Audit Committee | Shareholders |\n| **Frequency** | Ongoing | Annual |\n| **Scope** | Broad, flexible | Financial focus |\n\n## Internal Audit Functions\n\n### Assurance Services\n- Evaluate internal controls\n- Assess risk management\n- Review compliance\n\n### Consulting Services\n- Process improvement\n- System implementation reviews\n- Best practice recommendations\n\n## Areas Commonly Audited\n\n- Financial processes and controls\n- Operational efficiency\n- IT systems and security\n- Regulatory compliance\n- Fraud prevention\n\n## Reporting Structure\n\n```\n          Board of Directors\n                |\n          Audit Committee\n                |\n     Chief Audit Executive (CAE)\n                |\n        Internal Audit Staff\n```\n\n> **Internal audit adds value** by improving operations and controls!"
+        },
+        {
+            "id": "audit_4",
+            "type": "content",
+            "title": "Forensic Audits",
+            "content": "# Forensic Audits\n\n## What is a Forensic Audit?\n\nA specialized examination that investigates **fraud, embezzlement, or other financial crimes** to gather evidence for legal proceedings.\n\n## When Forensic Audits are Needed\n\n- Suspected fraud or theft\n- Employee misconduct allegations\n- Insurance claims\n- Litigation support\n- Divorce proceedings (asset discovery)\n- Criminal investigations\n\n## Forensic Auditor Skills\n\n| Skill | Application |\n|-------|-------------|\n| Accounting expertise | Understanding financial records |\n| Investigation skills | Following the money trail |\n| Legal knowledge | Evidence handling, court testimony |\n| Interview techniques | Questioning suspects and witnesses |\n| Technology skills | Data analysis, computer forensics |\n\n## Forensic Audit Process\n\n### 1. Accept the Engagement\n- Understand scope and objectives\n- Assess conflicts of interest\n\n### 2. Plan the Investigation\n- Identify persons of interest\n- Determine evidence needed\n\n### 3. Collect Evidence\n- Document review\n- Data analysis\n- Interviews\n\n### 4. Analyze Findings\n- Quantify losses\n- Identify perpetrators\n- Understand scheme\n\n### 5. Report Results\n- Written report\n- Expert testimony if needed\n\n> **Forensic auditors are financial detectives** who uncover the truth!"
+        },
+        {
+            "id": "audit_quiz_1",
+            "type": "quiz",
+            "title": "Types of Audits Check",
+            "content": "Test your understanding of audit types!",
+            "quizQuestion": "Which type of audit is specifically designed to investigate suspected fraud and gather evidence for legal proceedings?",
+            "quizOptions": [
+                "External audit",
+                "Internal audit",
+                "Forensic audit",
+                "Compliance audit"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "audit_5",
+            "type": "content",
+            "title": "Audit Risk and Planning",
+            "content": "# Audit Risk Assessment\n\n## What is Audit Risk?\n\nThe risk that an auditor expresses an **inappropriate opinion** when the financial statements are materially misstated.\n\n## Components of Audit Risk\n\n### Audit Risk = Inherent Risk x Control Risk x Detection Risk\n\n### Inherent Risk\nThe susceptibility of an assertion to misstatement **before considering controls**.\n\nHigh inherent risk factors:\n- Complex transactions\n- Estimates and judgments\n- Related party transactions\n- High-value assets\n\n### Control Risk\nThe risk that a misstatement will **not be prevented or detected by internal controls**.\n\nFactors:\n- Weak control environment\n- Lack of segregation of duties\n- Override of controls\n\n### Detection Risk\nThe risk that **audit procedures will not detect** a material misstatement.\n\nControlled by:\n- Nature of audit procedures\n- Extent of testing\n- Timing of tests\n\n## Risk Formula Application\n\n```\nIf Inherent and Control Risk are HIGH:\n  --> Reduce Detection Risk by doing MORE testing\n\nIf Inherent and Control Risk are LOW:\n  --> Can accept higher Detection Risk, do LESS testing\n```\n\n> **Lower audit risk requires more evidence!**"
+        },
+        {
+            "id": "audit_6",
+            "type": "content",
+            "title": "Audit Procedures",
+            "content": "# Audit Procedures and Evidence\n\n## Types of Audit Procedures\n\n### 1. Risk Assessment Procedures\n- Inquiries of management\n- Analytical procedures\n- Observation and inspection\n\n### 2. Tests of Controls\nEvaluate whether controls are operating effectively:\n- Inspection of documents\n- Re-performance of controls\n- Observation of controls\n\n### 3. Substantive Procedures\nDetect material misstatements:\n\n**Tests of Details:**\n- Inspection of documents\n- Confirmation with third parties\n- Recalculation\n- Physical examination\n\n**Analytical Procedures:**\n- Compare to prior periods\n- Compare to budgets\n- Ratio analysis\n\n## Types of Audit Evidence\n\n| Evidence Type | Example | Reliability |\n|--------------|---------|-------------|\n| Physical | Inventory count | High |\n| Confirmation | Bank confirmation | High |\n| Documentary | Invoices, contracts | Medium-High |\n| Mathematical | Recalculations | High |\n| Analytical | Ratio analysis | Medium |\n| Oral | Management inquiry | Low |\n\n## Evidence Quality Factors\n\n- **Source** - External more reliable than internal\n- **Original** - Better than copies\n- **Written** - Better than oral\n- **Direct** - Better than indirect\n\n> **More and better evidence = stronger audit opinion!**"
+        },
+        {
+            "id": "audit_7",
+            "type": "content",
+            "title": "Internal Control Framework",
+            "content": "# Internal Control Framework - COSO\n\n## What is COSO?\n\nThe **Committee of Sponsoring Organizations** framework is the most widely used internal control framework.\n\n## Five Components of Internal Control\n\n### 1. Control Environment\nThe foundation - sets the tone at the top:\n- Integrity and ethical values\n- Management philosophy\n- Organization structure\n- Human resource policies\n\n### 2. Risk Assessment\nIdentifying and analyzing risks:\n- What can go wrong?\n- How likely is it?\n- What is the impact?\n\n### 3. Control Activities\nPolicies and procedures that ensure actions are taken:\n- Approvals and authorizations\n- Verifications and reconciliations\n- Segregation of duties\n- Physical controls\n\n### 4. Information and Communication\nCapturing and exchanging information:\n- Relevant information identified\n- Communication channels clear\n- Information timely and accurate\n\n### 5. Monitoring Activities\nOngoing evaluation of control effectiveness:\n- Continuous monitoring\n- Separate evaluations\n- Deficiency reporting\n\n## COSO Cube Visual\n\n```\n         [Control Objectives]\n        /                    \\\n       /   Operations         \\\n      /    Reporting           \\\n     /     Compliance           \\\n    +---------------------------+\n    | Control   Risk   Control  |\n    | Environ.  Assess. Activities|\n    | Info & Comm.    Monitoring |\n    +---------------------------+\n     Entity Level | Division | Unit\n```\n\n> **COSO provides the roadmap** for effective internal controls!"
+        },
+        {
+            "id": "audit_8",
+            "type": "content",
+            "title": "Key Control Activities",
+            "content": "# Essential Control Activities\n\n## Segregation of Duties\n\nNo single person should control all aspects of a transaction:\n\n| Function | Should Be Separate From |\n|----------|------------------------|\n| Authorization | Custody |\n| Custody | Recording |\n| Recording | Authorization |\n\n**Example - Cash:**\n- Person A: Approves payments\n- Person B: Signs checks\n- Person C: Records transactions\n- Person D: Reconciles bank statement\n\n## Authorization Controls\n\n- **General authorization** - Policies covering all transactions\n- **Specific authorization** - Individual approval required\n\n**Example:**\n- General: Employees may approve purchases under $500\n- Specific: CFO must approve purchases over $10,000\n\n## Physical Controls\n\n- Locked safes and vaults\n- Restricted access areas\n- Security cameras\n- Inventory counts\n\n## Documentation and Records\n\n- Pre-numbered documents\n- Sequence checking\n- Document retention policies\n\n## Reconciliations\n\n- Bank reconciliations\n- Inventory counts vs records\n- Subsidiary ledger to control account\n\n## IT Controls\n\n- Access controls (passwords, permissions)\n- Change management\n- Backup and recovery\n- Data validation\n\n> **Multiple layers of controls** provide better protection!"
+        },
+        {
+            "id": "audit_quiz_2",
+            "type": "quiz",
+            "title": "Internal Controls Quiz",
+            "content": "Test your internal control knowledge!",
+            "quizQuestion": "Which control principle ensures that no single employee controls all aspects of a transaction?",
+            "quizOptions": [
+                "Authorization",
+                "Documentation",
+                "Segregation of duties",
+                "Monitoring"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "audit_9",
+            "type": "content",
+            "title": "Understanding Fraud",
+            "content": "# Fraud Detection and Prevention\n\n## What is Fraud?\n\nFraud is an **intentional act of deception** for personal gain or to damage another party.\n\n## The Fraud Triangle\n\nThree elements must be present for fraud to occur:\n\n```\n          PRESSURE\n             /\\\n            /  \\\n           /    \\\n          /      \\\n         /  FRAUD  \\\n        /____________\\\n  OPPORTUNITY    RATIONALIZATION\n```\n\n### 1. Pressure (Motivation)\n- Financial difficulties\n- Living beyond means\n- Performance pressure\n- Addiction\n\n### 2. Opportunity\n- Weak internal controls\n- Lack of oversight\n- Access to assets\n- Technical knowledge\n\n### 3. Rationalization\n- \"I deserve it\"\n- \"I will pay it back\"\n- \"Everyone does it\"\n- \"The company owes me\"\n\n## Types of Occupational Fraud\n\n| Type | Description | Example |\n|------|-------------|--------|\n| **Asset Misappropriation** | Stealing assets | Embezzlement |\n| **Corruption** | Abuse of position | Bribery, conflicts |\n| **Financial Statement Fraud** | Intentional misstatement | Overstating revenue |\n\n> **Understanding fraud motivation** helps in prevention!"
+        },
+        {
+            "id": "audit_10",
+            "type": "content",
+            "title": "Common Fraud Schemes",
+            "content": "# Common Fraud Schemes\n\n## Asset Misappropriation Schemes\n\n### Cash Schemes\n\n**Skimming:**\n- Stealing cash before it is recorded\n- Intercept customer payments\n\n**Larceny:**\n- Stealing cash after recording\n- Taking from cash register\n\n**Fraudulent Disbursements:**\n- Billing schemes (fictitious vendors)\n- Payroll schemes (ghost employees)\n- Expense reimbursement fraud\n- Check tampering\n\n### Inventory and Asset Schemes\n\n- Theft of inventory\n- Misuse of company assets\n- False shipments\n\n## Corruption Schemes\n\n| Scheme | Description |\n|--------|-------------|\n| **Bribery** | Payments for favorable treatment |\n| **Kickbacks** | Payments from vendors |\n| **Conflicts of Interest** | Self-dealing transactions |\n| **Bid Rigging** | Manipulating competitive bids |\n\n## Financial Statement Fraud\n\n### Revenue Overstatement\n- Fictitious sales\n- Premature revenue recognition\n- Channel stuffing\n\n### Expense/Liability Understatement\n- Capitalizing expenses\n- Understating liabilities\n- Cookie jar reserves\n\n### Asset Overstatement\n- Overstating inventory\n- Not writing off bad debts\n- Inflated valuations\n\n> **Know the schemes** to detect and prevent them!"
+        },
+        {
+            "id": "audit_11",
+            "type": "content",
+            "title": "Fraud Prevention Strategies",
+            "content": "# Preventing Fraud\n\n## Prevention is Better Than Detection\n\nFraud prevention is **more cost-effective** than investigation and recovery.\n\n## Key Prevention Strategies\n\n### 1. Tone at the Top\n- Management demonstrates integrity\n- Ethics emphasized throughout organization\n- Consequences for violations enforced\n\n### 2. Strong Internal Controls\n- Segregation of duties\n- Proper authorization\n- Physical safeguards\n- Regular reconciliations\n\n### 3. Hiring Practices\n- Background checks\n- Reference verification\n- Skills assessment\n\n### 4. Fraud Awareness Training\n- Educate employees about fraud\n- Teach red flag recognition\n- Explain reporting procedures\n\n### 5. Hotline/Reporting Mechanism\n- Anonymous reporting option\n- Protection for whistleblowers\n- Investigation of all reports\n\n### 6. Regular Audits\n- Internal audit reviews\n- Surprise audits\n- External audit oversight\n\n## Fraud Red Flags\n\n**Employee Behavior:**\n- Living beyond apparent means\n- Unwilling to take vacation\n- Close relationship with vendors\n- Excessive control issues\n\n**Transaction Red Flags:**\n- Missing documents\n- Unusual adjustments\n- Excessive voids or refunds\n- Vendor anomalies\n\n> **A strong control environment** is the best fraud deterrent!"
+        },
+        {
+            "id": "audit_12",
+            "type": "content",
+            "title": "Fraud Detection Techniques",
+            "content": "# Detecting Fraud\n\n## Detection Methods\n\n### 1. Tips and Complaints\n- Most common detection method (40%+ of cases)\n- Establish confidential hotlines\n- Encourage reporting culture\n\n### 2. Internal Audit\n- Planned audit procedures\n- Surprise audits\n- Data analysis\n\n### 3. Management Review\n- Analytical review\n- Unusual items investigation\n- Budget variance analysis\n\n### 4. External Audit\n- While not designed primarily for fraud detection\n- May discover fraud during normal procedures\n\n## Data Analytics for Fraud Detection\n\n### Benford's Law\nFirst digit frequency analysis:\n- Natural data follows specific digit patterns\n- Deviations may indicate manipulation\n\n### Duplicate Analysis\n- Duplicate payments\n- Duplicate vendors\n- Duplicate invoices\n\n### Gap Analysis\n- Missing sequence numbers\n- Date/time anomalies\n\n### Stratification\n- Transactions just below approval limits\n- Unusual amounts or patterns\n\n## Investigation Steps\n\n1. **Secure evidence** - Preserve documents and data\n2. **Conduct interviews** - Gather information\n3. **Analyze transactions** - Follow the money\n4. **Document findings** - Create complete record\n5. **Report and act** - Inform appropriate parties\n\n> **Combine multiple detection methods** for best results!"
+        },
+        {
+            "id": "audit_quiz_3",
+            "type": "quiz",
+            "title": "Fraud Quiz",
+            "content": "Test your fraud knowledge!",
+            "quizQuestion": "According to research, what is the most common method of detecting occupational fraud?",
+            "quizOptions": [
+                "External audit",
+                "Internal audit",
+                "Tips from employees",
+                "Management review"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "audit_13",
+            "type": "content",
+            "title": "Compliance and Regulations",
+            "content": "# Compliance Framework\n\n## What is Compliance?\n\nCompliance means **adhering to laws, regulations, and internal policies** applicable to the organization.\n\n## Key Regulatory Requirements\n\n### Sarbanes-Oxley Act (SOX) - USA\n\nEnacted after Enron and WorldCom scandals:\n\n| Section | Requirement |\n|---------|-------------|\n| **302** | CEO/CFO certify financial statements |\n| **404** | Management assesses internal controls |\n| **802** | Document retention requirements |\n| **906** | Criminal penalties for false certification |\n\n### Other Regulations\n\n| Regulation | Focus |\n|------------|-------|\n| **GDPR** | Data privacy (Europe) |\n| **HIPAA** | Healthcare data (USA) |\n| **PCI-DSS** | Payment card security |\n| **Anti-Money Laundering** | Preventing financial crimes |\n\n## Compliance Program Elements\n\n1. **Policies and Procedures**\n   - Written guidelines\n   - Regular updates\n\n2. **Training**\n   - Employee education\n   - Awareness programs\n\n3. **Monitoring**\n   - Compliance testing\n   - Issue tracking\n\n4. **Reporting**\n   - Regular compliance reports\n   - Issue escalation\n\n5. **Enforcement**\n   - Consistent discipline\n   - Non-retaliation policy\n\n> **Compliance protects** the organization and its stakeholders!"
+        },
+        {
+            "id": "audit_14",
+            "type": "content",
+            "title": "Professional Ethics in Auditing",
+            "content": "# Auditor Ethics and Independence\n\n## Importance of Ethics\n\nAuditors are trusted to provide **objective opinions**. Ethics ensures this trust is maintained.\n\n## Core Ethical Principles\n\n### 1. Integrity\n- Honest and straightforward\n- No false or misleading statements\n\n### 2. Objectivity\n- Unbiased judgment\n- Not influenced by others\n\n### 3. Professional Competence\n- Maintain knowledge and skills\n- Perform work diligently\n\n### 4. Confidentiality\n- Protect client information\n- Not use information for personal gain\n\n### 5. Professional Behavior\n- Comply with laws and regulations\n- Avoid discrediting the profession\n\n## Independence\n\n### Independence of Mind\nActual objectivity and impartiality\n\n### Independence in Appearance\nAvoiding circumstances that would cause others to doubt independence\n\n### Threats to Independence\n\n| Threat | Example |\n|--------|--------|\n| **Self-interest** | Financial interest in client |\n| **Self-review** | Auditing own work |\n| **Advocacy** | Promoting client position |\n| **Familiarity** | Close relationship with client |\n| **Intimidation** | Threats from client |\n\n### Safeguards\n\n- Rotation of audit partners\n- Independent review\n- Disclosure of relationships\n- Declining certain engagements\n\n> **Independence is the foundation** of audit credibility!"
+        },
+        {
+            "id": "audit_15",
+            "type": "content",
+            "title": "Audit Documentation",
+            "content": "# Audit Documentation (Working Papers)\n\n## Purpose of Working Papers\n\n- **Evidence** of work performed\n- **Support** for audit opinion\n- **Basis** for supervision and review\n- **Record** for future reference\n\n## Types of Working Papers\n\n### Permanent File\nInformation relevant to multiple years:\n- Organizational charts\n- Major contracts\n- Accounting policies\n- Internal control documentation\n\n### Current File\nCurrent year audit work:\n- Audit programs\n- Workpaper schedules\n- Confirmations\n- Memos and notes\n\n## Documentation Standards\n\n### Each Workpaper Should Include:\n\n| Element | Purpose |\n|---------|--------|\n| **Heading** | Client, date, description |\n| **Indexing** | Reference number |\n| **Preparer/Reviewer** | Who did and reviewed |\n| **Date** | When completed |\n| **Purpose** | What was tested |\n| **Procedures** | Work performed |\n| **Conclusions** | Results and findings |\n| **Tick marks** | Symbols explained |\n\n## Documentation Retention\n\n- **Minimum 7 years** for most audits\n- **Longer** if required by regulation\n- Protected from unauthorized access\n- Cannot be altered after report date\n\n> **If it is not documented, it was not done!**"
+        },
+        {
+            "id": "audit_16",
+            "type": "content",
+            "title": "The Audit Report",
+            "content": "# The Audit Report\n\n## Components of Standard Audit Report\n\n### 1. Title\n- \"Independent Auditor's Report\"\n- Emphasizes independence\n\n### 2. Addressee\n- Shareholders\n- Board of Directors\n\n### 3. Opinion Section\n- States the opinion clearly\n- First paragraph in report\n\n### 4. Basis for Opinion\n- States auditing standards used\n- Describes auditor's responsibilities\n\n### 5. Key Audit Matters (Optional)\n- Significant risks addressed\n- Complex accounting areas\n\n### 6. Management's Responsibility\n- Preparing financial statements\n- Maintaining internal controls\n\n### 7. Auditor's Responsibility\n- Conduct audit per standards\n- Express opinion on statements\n\n### 8. Signature, Date, Location\n- CPA firm signature\n- Date of report\n- City location\n\n## Modified Opinions\n\n| Situation | Opinion Type |\n|-----------|-------------|\n| Material misstatement | Qualified or Adverse |\n| Scope limitation | Qualified or Disclaimer |\n| Going concern issues | Emphasis paragraph |\n| Inconsistent accounting | Emphasis paragraph |\n\n> **The audit report is the final deliverable** - read it carefully!"
+        },
+        {
+            "id": "audit_quiz_4",
+            "type": "quiz",
+            "title": "Compliance and Ethics Quiz",
+            "content": "Test your understanding!",
+            "quizQuestion": "Which section of the Sarbanes-Oxley Act requires management to assess and report on internal controls?",
+            "quizOptions": [
+                "Section 302",
+                "Section 404",
+                "Section 802",
+                "Section 906"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "audit_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **Auditing and Internal Controls** lesson!\n\n## Key Concepts Mastered\n\n### Types of Audits\n- **External:** Independent opinion on financial statements\n- **Internal:** Ongoing evaluation of operations and controls\n- **Forensic:** Investigation of fraud and financial crimes\n\n### Risk Assessment\n- Audit Risk = Inherent x Control x Detection Risk\n- More risk = more testing needed\n\n### Internal Controls (COSO)\n- Control Environment\n- Risk Assessment\n- Control Activities\n- Information and Communication\n- Monitoring\n\n### Fraud\n- The Fraud Triangle: Pressure, Opportunity, Rationalization\n- Prevention through strong controls and culture\n- Detection through tips, audits, and analytics\n\n### Compliance and Ethics\n- SOX requirements for public companies\n- Independence is critical for auditors\n- Documentation supports all work\n\n## Quick Reference\n\n| Topic | Key Point |\n|-------|----------|\n| External Audit | Opinion on financial statements |\n| Internal Controls | COSO framework, 5 components |\n| Fraud Prevention | Tone at the top, segregation |\n| Independence | Foundation of audit credibility |\n\n## What is Next?\n\nExplore:\n- Taxation principles\n- Financial ratio analysis\n- Advanced accounting topics\n\n> **Auditing protects stakeholders** - it is a vital profession!"
+        }
+    ]
+}

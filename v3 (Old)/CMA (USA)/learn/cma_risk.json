@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_risk",
+    "topicId": "cma_risk",
+    "topicTitle": "Risk Management",
+    "description": "Master CMA risk management including Enterprise Risk, Financial Risk, and Risk Response",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "p2d_1",
+            "type": "content",
+            "title": "Welcome to Risk Management",
+            "content": "# Risk Management\n\nPart 2D covers **enterprise and financial risk** management.\n\n## What You Will Learn\n\n- **Enterprise Risk** - ERM framework\n- **Financial Risk** - Currency, interest\n- **Risk Response** - Mitigation strategies\n- **Derivatives** - Hedging tools\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| ERM | Framework |\n| Financial risk | Types |\n| Hedging | Instruments |\n| Insurance | Transfer |"
+        },
+        {
+            "id": "p2d_2",
+            "type": "content",
+            "title": "Enterprise Risk Management",
+            "content": "# ERM Framework\n\n## COSO ERM Components\n\n| Component | Focus |\n|-----------|-------|\n| Governance | Culture, oversight |\n| Strategy | Objectives, appetite |\n| Performance | Risk identification |\n| Review | Monitor, communicate |\n| Information | Reporting |\n\n## Risk Categories\n\n| Category | Examples |\n|----------|----------|\n| Strategic | Competition |\n| Operational | Processes |\n| Financial | Markets |\n| Compliance | Regulations |"
+        },
+        {
+            "id": "p2d_3",
+            "type": "content",
+            "title": "Risk Assessment",
+            "content": "# Identifying and Assessing Risk\n\n## Risk Matrix\n\n| | Low Impact | High Impact |\n|---|------------|-------------|\n| High Probability | Medium | High |\n| Low Probability | Low | Medium |\n\n## Risk Assessment Process\n\n```\n1. Identify risks\n2. Analyze likelihood\n3. Analyze impact\n4. Prioritize\n5. Develop response\n```\n\n## Risk Appetite vs Tolerance\n\n| Concept | Definition |\n|---------|------------|\n| Appetite | Level willing to accept |\n| Tolerance | Acceptable variation |"
+        },
+        {
+            "id": "p2d_quiz_1",
+            "type": "quiz",
+            "title": "ERM Quiz",
+            "content": "Test your ERM knowledge!",
+            "quizQuestion": "Risk appetite is the level of risk an organization is?",
+            "quizOptions": [
+                "Required to take",
+                "Willing to accept",
+                "Unable to manage",
+                "Forced to avoid"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2d_4",
+            "type": "content",
+            "title": "Risk Response",
+            "content": "# Risk Treatment Options\n\n## Response Strategies\n\n| Strategy | Action |\n|----------|--------|\n| Avoid | Eliminate activity |\n| Reduce | Controls, mitigation |\n| Transfer | Insurance, outsource |\n| Accept | Retain within tolerance |\n\n## Cost-Benefit\n\n```\nCost of control vs Risk reduction\n\nImplement if benefit > cost\n```\n\n## Residual Risk\n\n```\nInherent Risk - Control Effectiveness\n= Residual Risk\n\nMust be within tolerance\n```"
+        },
+        {
+            "id": "p2d_5",
+            "type": "content",
+            "title": "Currency Risk",
+            "content": "# Foreign Exchange Risk\n\n## Exposure Types\n\n| Type | Description |\n|------|-------------|\n| Transaction | Specific deals |\n| Translation | Consolidation |\n| Economic | Competitive position |\n\n## Transaction Exposure\n\n```\nRisk from:\n- Foreign receivables\n- Foreign payables\n- Contractual cash flows\n```\n\n## Natural Hedging\n\n- Match revenues and costs\n- Diversify across currencies\n- Lead and lag payments"
+        },
+        {
+            "id": "p2d_6",
+            "type": "content",
+            "title": "Currency Hedging",
+            "content": "# Hedging Instruments\n\n## Forward Contracts\n\n```\nLock in exchange rate for future date\nCustomized, OTC\n```\n\n## Currency Futures\n\n```\nStandardized contracts\nExchange-traded\nMargin requirements\n```\n\n## Currency Options\n\n```\nRight but not obligation\nCall: right to buy\nPut: right to sell\nPremium cost\n```\n\n## Money Market Hedge\n\n```\nBorrow/invest in foreign currency\nto match exposure\n```"
+        },
+        {
+            "id": "p2d_quiz_2",
+            "type": "quiz",
+            "title": "Currency Quiz",
+            "content": "Test your currency risk knowledge!",
+            "quizQuestion": "A forward contract does what to the exchange rate?",
+            "quizOptions": [
+                "Makes it volatile",
+                "Locks it in",
+                "Eliminates it",
+                "Doubles it"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2d_7",
+            "type": "content",
+            "title": "Interest Rate Risk",
+            "content": "# Managing Interest Rates\n\n## Exposure\n\n| Position | Risk |\n|----------|------|\n| Floating debt | Rates rise |\n| Fixed investments | Rates rise |\n| Fixed debt | Rates fall |\n\n## Duration\n\n```\nMeasure of interest rate sensitivity\n\nHigher duration = More sensitive\n```\n\n## Gap Analysis\n\n```\nRate-sensitive assets - Rate-sensitive liabilities\n= Gap\n\nPositive gap: Benefits from rising rates\n```"
+        },
+        {
+            "id": "p2d_8",
+            "type": "content",
+            "title": "Interest Rate Hedging",
+            "content": "# Interest Rate Instruments\n\n## Interest Rate Swaps\n\n```\nExchange fixed for floating payments\n(or vice versa)\n```\n\n## Caps, Floors, Collars\n\n| Instrument | Protection |\n|------------|------------|\n| Cap | Maximum rate |\n| Floor | Minimum rate |\n| Collar | Both cap and floor |\n\n## Forward Rate Agreements\n\n```\nLock in rate for future period\nCash settlement\n```"
+        },
+        {
+            "id": "p2d_9",
+            "type": "content",
+            "title": "Commodity Risk",
+            "content": "# Managing Commodity Risk\n\n## Exposure Sources\n\n| Source | Examples |\n|--------|----------|\n| Input costs | Raw materials |\n| Output prices | Product sales |\n| Energy | Fuel, utilities |\n\n## Hedging Methods\n\n| Method | Description |\n|--------|-------------|\n| Futures | Exchange-traded |\n| Forwards | OTC contracts |\n| Options | Right, not obligation |\n| Fixed contracts | Long-term supply |"
+        },
+        {
+            "id": "p2d_10",
+            "type": "content",
+            "title": "Credit Risk",
+            "content": "# Managing Credit Risk\n\n## Credit Exposure\n\n- Accounts receivable\n- Investments\n- Counterparty risk\n\n## Credit Assessment\n\n| Factor | Analysis |\n|--------|----------|\n| Character | Payment history |\n| Capacity | Ability to pay |\n| Capital | Financial strength |\n| Conditions | External factors |\n| Collateral | Security |\n\n## Mitigation\n\n- Credit limits\n- Credit insurance\n- Letters of credit\n- Factoring"
+        },
+        {
+            "id": "p2d_quiz_3",
+            "type": "quiz",
+            "title": "Interest Quiz",
+            "content": "Test your interest rate knowledge!",
+            "quizQuestion": "An interest rate cap protects against rates?",
+            "quizOptions": [
+                "Falling",
+                "Rising",
+                "Fluctuating",
+                "Staying constant"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2d_11",
+            "type": "content",
+            "title": "Operational Risk",
+            "content": "# Managing Operations Risk\n\n## Categories\n\n| Category | Examples |\n|----------|----------|\n| Process | Errors, failures |\n| People | Fraud, turnover |\n| Systems | IT failures |\n| External | Disasters |\n\n## Key Risk Indicators\n\n```\nMetrics that signal risk:\n- Error rates\n- System downtime\n- Staff turnover\n```\n\n## Business Continuity\n\n- Backup systems\n- Recovery plans\n- Insurance"
+        },
+        {
+            "id": "p2d_12",
+            "type": "content",
+            "title": "Insurance",
+            "content": "# Risk Transfer\n\n## Insurance Types\n\n| Type | Coverage |\n|------|----------|\n| Property | Physical assets |\n| Liability | Third-party claims |\n| Business interruption | Lost income |\n| D&O | Directors/officers |\n\n## Concepts\n\n| Term | Meaning |\n|------|--------|\n| Premium | Cost of insurance |\n| Deductible | Self-insured amount |\n| Limit | Maximum payout |\n| Exclusions | What is not covered |\n\n## Captive Insurance\n\nSelf-insurance subsidiary"
+        },
+        {
+            "id": "p2d_quiz_4",
+            "type": "quiz",
+            "title": "Risk Quiz",
+            "content": "Test your risk management knowledge!",
+            "quizQuestion": "A deductible is the amount?",
+            "quizOptions": [
+                "Insurance pays first",
+                "Company pays first",
+                "Never paid",
+                "Paid monthly"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2d_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Part 2D - Risk Management**!\n\n## Key Topics\n\n### Enterprise Risk\n- ERM framework\n- Risk assessment\n- Risk response\n\n### Financial Risk\n- Currency risk\n- Interest rate risk\n- Credit risk\n\n### Hedging\n- Forwards and futures\n- Options\n- Swaps\n\n### Transfer\n- Insurance\n- Business continuity\n\n## Key Concepts\n\n| Concept | Application |\n|---------|-------------|\n| Risk appetite | Strategic decisions |\n| Duration | Interest sensitivity |\n| Hedging | Risk reduction |\n\n## What is Next?\n\nExplore CMA Part 2E - Investment Decisions!"
+        }
+    ]
+}

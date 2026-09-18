@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_final1",
+    "topicId": "ca_final1",
+    "topicTitle": "CA Final - Group I",
+    "description": "Master CA Final Group I covering Financial Reporting, Strategic FM, Advanced Auditing, and Law",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "ca_fin1_1",
+            "type": "content",
+            "title": "Welcome to CA Final Group I",
+            "content": "# CA Final - Group I\n\nThe **pinnacle** of your CA journey.\n\n## What You Will Learn\n\n- **Paper 1** - Financial Reporting\n- **Paper 2** - Strategic Financial Management\n- **Paper 3** - Advanced Auditing\n- **Paper 4** - Corporate & Economic Laws\n\n## Exam Pattern\n\n| Paper | Marks |\n|-------|-------|\n| FR | 100 |\n| SFM | 100 |\n| Adv Audit | 100 |\n| Law | 100 |"
+        },
+        {
+            "id": "ca_fin1_2",
+            "type": "content",
+            "title": "Ind AS Framework",
+            "content": "# Paper 1 - FR\n\n## Key Ind AS\n\n| Ind AS | Topic |\n|--------|-------|\n| Ind AS 1 | Presentation |\n| Ind AS 8 | Policies |\n| Ind AS 16 | PPE |\n| Ind AS 36 | Impairment |\n| Ind AS 109 | Financial instruments |\n| Ind AS 115 | Revenue |\n\n## IFRS Convergence\n\n```\nInd AS = IFRS with carve-outs\n```"
+        },
+        {
+            "id": "ca_fin1_3",
+            "type": "content",
+            "title": "Business Combinations",
+            "content": "# Ind AS 103\n\n## Acquisition Method\n\n```\n1. Identify acquirer\n2. Determine acquisition date\n3. Recognize assets and liabilities\n4. Recognize goodwill or bargain purchase\n```\n\n## Goodwill\n\n```\nConsideration\n+ NCI\n+ Previously held equity\n- Fair value of net assets\n= Goodwill\n```\n\n## Impairment\n\n- Annual testing\n- CGU level"
+        },
+        {
+            "id": "ca_fin1_quiz1",
+            "type": "quiz",
+            "title": "Ind AS Quiz",
+            "content": "Test your Ind AS knowledge!",
+            "quizQuestion": "Ind AS 103 deals with?",
+            "quizOptions": [
+                "PPE",
+                "Revenue",
+                "Business combinations",
+                "Leases"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ca_fin1_4",
+            "type": "content",
+            "title": "Strategic Financial Management",
+            "content": "# Paper 2 - SFM\n\n## Topics\n\n| Topic | Content |\n|-------|--------|\n| Portfolio | Risk and return |\n| Capital budgeting | Advanced |\n| Derivatives | Options, futures |\n| Forex | Exposure |\n| Mergers | Valuation |\n\n## Portfolio Theory\n\n```\nReturn = Sum of (Wi x Ri)\n\nRisk diversification\nSystematic vs unsystematic\n```"
+        },
+        {
+            "id": "ca_fin1_5",
+            "type": "content",
+            "title": "Derivatives",
+            "content": "# Options and Futures\n\n## Options\n\n| Type | Right |\n|------|-------|\n| Call | Buy |\n| Put | Sell |\n\n## Valuation\n\n| Model | Use |\n|-------|-----|\n| Black-Scholes | European options |\n| Binomial | All options |\n\n## Futures\n\n```\nObligation to buy/sell\nMarked to market daily\n```\n\n## Hedging\n\n- Currency exposure\n- Interest rate risk\n- Commodity price"
+        },
+        {
+            "id": "ca_fin1_6",
+            "type": "content",
+            "title": "Valuation",
+            "content": "# Business Valuation\n\n## Methods\n\n| Method | Basis |\n|--------|-------|\n| DCF | Cash flows |\n| Asset based | Net assets |\n| Market | Comparables |\n| Economic profit | EVA |\n\n## DCF Model\n\n```\nEnterprise Value = PV of FCF + Terminal Value\n\nEquity Value = EV - Debt\n```\n\n## Multiples\n\n- P/E ratio\n- EV/EBITDA\n- EV/Sales"
+        },
+        {
+            "id": "ca_fin1_quiz2",
+            "type": "quiz",
+            "title": "SFM Quiz",
+            "content": "Test your SFM knowledge!",
+            "quizQuestion": "Black-Scholes values which options?",
+            "quizOptions": [
+                "American only",
+                "European only",
+                "Both",
+                "Neither"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ca_fin1_7",
+            "type": "content",
+            "title": "Advanced Auditing",
+            "content": "# Paper 3 - Audit\n\n## Key Topics\n\n| Topic | Coverage |\n|-------|----------|\n| SA standards | All |\n| Company audit | Sec 143 |\n| CARO 2020 | Reporting |\n| Internal audit | Standards |\n| Special audits | Various |\n\n## Risk-Based Approach\n\n```\nAR = IR x CR x DR\n\nFocus on high-risk areas\n```"
+        },
+        {
+            "id": "ca_fin1_8",
+            "type": "content",
+            "title": "Professional Ethics",
+            "content": "# Ethical Standards\n\n## ICAI Code of Ethics\n\n| Principle | Meaning |\n|-----------|--------|\n| Integrity | Honest |\n| Objectivity | Unbiased |\n| Competence | Skilled |\n| Confidentiality | Secret |\n| Professional | Conduct |\n\n## Threats\n\n| Threat | Example |\n|--------|--------|\n| Self-interest | Fees |\n| Self-review | Valuation |\n| Advocacy | Client |\n| Familiarity | Relationship |\n| Intimidation | Threat |"
+        },
+        {
+            "id": "ca_fin1_9",
+            "type": "content",
+            "title": "Corporate Laws",
+            "content": "# Paper 4A - Law\n\n## Companies Act 2013\n\n| Topic | Sections |\n|-------|----------|\n| Meetings | 96-122 |\n| Management | 149-172 |\n| Winding up | 270-365 |\n| Inspections | 206-229 |\n\n## SEBI Regulations\n\n| Regulation | Topic |\n|------------|-------|\n| LODR | Listing |\n| SAST | Takeover |\n| ICDR | Issue |\n| PIT | Insider trading |"
+        },
+        {
+            "id": "ca_fin1_quiz3",
+            "type": "quiz",
+            "title": "Audit Quiz",
+            "content": "Test your audit knowledge!",
+            "quizQuestion": "Section 143 deals with?",
+            "quizOptions": [
+                "Directors",
+                "Auditor duties",
+                "Meetings",
+                "Winding up"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ca_fin1_10",
+            "type": "content",
+            "title": "SEBI and Securities Laws",
+            "content": "# Capital Markets\n\n## SEBI Act 1992\n\n| Power | Function |\n|-------|----------|\n| Regulatory | Rules |\n| Protective | Investors |\n| Development | Markets |\n\n## Key Regulations\n\n| Topic | Regulation |\n|-------|------------|\n| Listing | LODR 2015 |\n| IPO | ICDR 2018 |\n| Takeover | SAST 2011 |\n| Insider | PIT 2015 |"
+        },
+        {
+            "id": "ca_fin1_11",
+            "type": "content",
+            "title": "Economic Laws",
+            "content": "# Paper 4B\n\n## FEMA 1999\n\n| Topic | Coverage |\n|-------|----------|\n| Current account | Free |\n| Capital account | Regulated |\n| FDI | Routes |\n| ECB | Compliance |\n\n## Prevention of Money Laundering\n\n| Concept | Meaning |\n|---------|--------|\n| PML Act | 2002 |\n| Reporting | STR, CTR |\n| KYC | Customer verification |"
+        },
+        {
+            "id": "ca_fin1_12",
+            "type": "content",
+            "title": "Competition and IBC",
+            "content": "# Other Laws\n\n## Competition Act 2002\n\n| Topic | Focus |\n|-------|-------|\n| Anti-competitive | Agreements |\n| Abuse | Dominant position |\n| Combinations | Merger control |\n\n## IBC 2016\n\n| Process | Timeline |\n|---------|----------|\n| CIRP | 180+90 days |\n| Resolution | Plan implementation |\n| Liquidation | If fails |"
+        },
+        {
+            "id": "ca_fin1_quiz4",
+            "type": "quiz",
+            "title": "Law Quiz",
+            "content": "Test your law knowledge!",
+            "quizQuestion": "LODR regulates?",
+            "quizOptions": [
+                "Takeovers",
+                "Insider trading",
+                "Listed companies",
+                "IPOs"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ca_fin1_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CA Final Group I**!\n\n## Key Topics\n\n### Financial Reporting\n- Ind AS framework\n- Business combinations\n- Consolidation\n\n### SFM\n- Derivatives\n- Valuation\n- Portfolio\n\n### Auditing\n- SA standards\n- Ethics\n- Company audit\n\n### Law\n- Companies Act\n- SEBI\n- FEMA, IBC\n\n## What is Next?\n\nExplore CA Final Group II!"
+        }
+    ]
+}

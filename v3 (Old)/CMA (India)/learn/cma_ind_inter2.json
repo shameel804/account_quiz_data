@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_ind_inter2",
+    "topicId": "cma_ind_inter2",
+    "topicTitle": "CMA Intermediate - Group II",
+    "description": "Master CMA India Intermediate Group II covering Operations, Strategic Management, Indirect Tax, and Cost Management",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "cma_i2_1",
+            "type": "content",
+            "title": "Welcome to Intermediate Group II",
+            "content": "# CMA Intermediate - Group II\n\nGroup II covers **operations**, **strategy**, and **indirect taxes**.\n\n## What You Will Learn\n\n- **Operations Management** - Production\n- **Strategic Management** - Planning\n- **Indirect Taxation** - GST\n- **Cost & Management** - Advanced costing\n\n## Group II Papers\n\n| Paper | Subject |\n|-------|--------|\n| 9 | Operations & Strategic Management |\n| 10 | Cost & Management Accounting |\n| 11 | Indirect Taxation |\n| 12 | Company Accounts & Audit |"
+        },
+        {
+            "id": "cma_i2_2",
+            "type": "content",
+            "title": "Operations Management",
+            "content": "# Operations Concepts\n\n## Production Planning\n\n| Component | Focus |\n|-----------|-------|\n| Capacity | Resources |\n| Scheduling | Timing |\n| Inventory | Stock levels |\n| Quality | Standards |\n\n## Inventory Models\n\n```\nEOQ = sqrt(2 x D x Co / Ch)\n\nD = Annual demand\nCo = Ordering cost\nCh = Holding cost\n```\n\n## Quality Management\n\n- TQM\n- Six Sigma\n- ISO standards"
+        },
+        {
+            "id": "cma_i2_3",
+            "type": "content",
+            "title": "Strategic Management",
+            "content": "# Strategy Concepts\n\n## Strategic Analysis\n\n| Tool | Purpose |\n|------|--------|\n| SWOT | Internal/external |\n| PESTEL | Environment |\n| Porter 5 | Industry |\n| BCG | Portfolio |\n\n## Strategic Options\n\n| Strategy | Description |\n|----------|-------------|\n| Cost leadership | Lowest cost |\n| Differentiation | Unique offering |\n| Focus | Niche market |\n\n## Strategy Implementation\n\n- Resource allocation\n- Structure changes\n- Culture alignment"
+        },
+        {
+            "id": "cma_i2_quiz_1",
+            "type": "quiz",
+            "title": "Strategy Quiz",
+            "content": "Test your strategy knowledge!",
+            "quizQuestion": "BCG Matrix analyzes?",
+            "quizOptions": [
+                "Industry competition",
+                "Product portfolio",
+                "Customer segments",
+                "Supply chain"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_i2_4",
+            "type": "content",
+            "title": "GST Overview",
+            "content": "# Goods and Services Tax\n\n## GST Structure\n\n| Type | Applicability |\n|------|---------------|\n| CGST | Central |\n| SGST | State |\n| IGST | Interstate |\n| UTGST | Union territory |\n\n## Key Concepts\n\n| Concept | Meaning |\n|---------|--------|\n| Taxable event | Supply |\n| Threshold | Registration limit |\n| ITC | Input tax credit |\n\n## Tax Rates\n\n- 0%, 5%, 12%, 18%, 28%"
+        },
+        {
+            "id": "cma_i2_5",
+            "type": "content",
+            "title": "GST Registration",
+            "content": "# Registration Process\n\n## Mandatory Registration\n\n| Condition | Threshold |\n|-----------|----------|\n| Services | Rs 20 lakh |\n| Goods | Rs 40 lakh |\n| Interstate | Nil |\n\n## GSTIN\n\n```\n15-digit number:\n- 2 digits: State code\n- 10 digits: PAN\n- 1 digit: Entity\n- 1 digit: Check\n```\n\n## Types of Registration\n\n- Regular\n- Composition scheme\n- Casual\n- Non-resident"
+        },
+        {
+            "id": "cma_i2_6",
+            "type": "content",
+            "title": "Input Tax Credit",
+            "content": "# ITC Mechanism\n\n## Eligibility\n\n| Allowed | Not Allowed |\n|---------|-------------|\n| Business use | Personal use |\n| Taxable supply | Exempt supply |\n| Documents available | Blocked credits |\n\n## ITC Matching\n\n```\nGSTR-2A/2B auto-populated\nMust match with supplier\n```\n\n## Blocked Credits\n\n- Motor vehicles\n- Food and beverages\n- Membership (club)\n- Personal consumption"
+        },
+        {
+            "id": "cma_i2_quiz_2",
+            "type": "quiz",
+            "title": "GST Quiz",
+            "content": "Test your GST knowledge!",
+            "quizQuestion": "IGST applies to?",
+            "quizOptions": [
+                "Intrastate supplies",
+                "Interstate supplies",
+                "Exempt supplies",
+                "Composition dealers"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_i2_7",
+            "type": "content",
+            "title": "Cost Accounting Methods",
+            "content": "# Costing Techniques\n\n## Job Costing\n\n```\nDirect material + Direct labor + Applied overhead\n= Job cost\n```\n\n## Process Costing\n\n```\nEquivalent units = Complete + (WIP x % complete)\n\nCost per EU = Total cost / Equivalent units\n```\n\n## Contract Costing\n\n- Long-term contracts\n- Progress payments\n- Retention money"
+        },
+        {
+            "id": "cma_i2_8",
+            "type": "content",
+            "title": "Standard Costing",
+            "content": "# Variance Analysis\n\n## Material Variances\n\n```\nPrice: (AP - SP) x AQ\nUsage: (AQ - SQ) x SP\n```\n\n## Labor Variances\n\n```\nRate: (AR - SR) x AH\nEfficiency: (AH - SH) x SR\n```\n\n## Overhead Variances\n\n| Variance | Formula |\n|----------|--------|\n| Spending | Actual - Budget |\n| Efficiency | (AH - SH) x Rate |\n| Volume | (Budgeted - Actual) x Rate |"
+        },
+        {
+            "id": "cma_i2_9",
+            "type": "content",
+            "title": "Marginal Costing",
+            "content": "# Variable Costing\n\n## Contribution\n\n```\nSales - Variable Costs = Contribution\n\nContribution - Fixed Costs = Profit\n```\n\n## Break-Even\n\n```\nBEP (units) = Fixed Costs / Contribution per unit\n\nBEP (value) = Fixed Costs / P/V Ratio\n```\n\n## P/V Ratio\n\n```\nP/V Ratio = Contribution / Sales x 100\n```\n\n## Margin of Safety\n\n```\nActual Sales - BEP Sales\n```"
+        },
+        {
+            "id": "cma_i2_quiz_3",
+            "type": "quiz",
+            "title": "Costing Quiz",
+            "content": "Test your costing knowledge!",
+            "quizQuestion": "Break-even point equals fixed costs divided by?",
+            "quizOptions": [
+                "Variable cost",
+                "Selling price",
+                "Contribution per unit",
+                "Total cost"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cma_i2_10",
+            "type": "content",
+            "title": "Budgetary Control",
+            "content": "# Budgeting Process\n\n## Types of Budgets\n\n| Type | Characteristics |\n|------|----------------|\n| Fixed | One activity level |\n| Flexible | Multiple levels |\n| Zero-based | From scratch |\n| Rolling | Continuous |\n\n## Master Budget\n\n```\nSales Budget\n    |\n    v\nProduction Budget\n    |\n    v\nCash Budget\n    |\n    v\nProjected Statements\n```"
+        },
+        {
+            "id": "cma_i2_11",
+            "type": "content",
+            "title": "Company Accounts",
+            "content": "# Advanced Company Accounts\n\n## Amalgamation\n\n| Method | Treatment |\n|--------|----------|\n| Pooling | Book values |\n| Purchase | Fair values |\n\n## Internal Reconstruction\n\n- Reduce capital\n- Eliminate losses\n- Write down assets\n\n## Holding Company\n\n- Consolidation\n- Minority interest\n- Goodwill calculation"
+        },
+        {
+            "id": "cma_i2_12",
+            "type": "content",
+            "title": "Auditing Basics",
+            "content": "# Audit Concepts\n\n## Types of Audit\n\n| Type | Purpose |\n|------|--------|\n| Statutory | Legal requirement |\n| Internal | Management |\n| Cost | Cost records |\n| Tax | Compliance |\n\n## Audit Procedures\n\n| Procedure | Method |\n|-----------|--------|\n| Vouching | Check documents |\n| Verification | Confirm existence |\n| Valuation | Check value |\n\n## Audit Report\n\n- Opinion types\n- Qualifications\n- Emphasis of matter"
+        },
+        {
+            "id": "cma_i2_quiz_4",
+            "type": "quiz",
+            "title": "Audit Quiz",
+            "content": "Test your audit knowledge!",
+            "quizQuestion": "Vouching is checking?",
+            "quizOptions": [
+                "Physical assets",
+                "Supporting documents",
+                "Bank balances",
+                "Inventory levels"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cma_i2_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CMA Intermediate - Group II**!\n\n## Key Topics\n\n### Operations & Strategy\n- Operations management\n- Strategic analysis\n- Planning tools\n\n### Indirect Tax\n- GST structure\n- Registration\n- Input tax credit\n\n### Cost Accounting\n- Standard costing\n- Marginal costing\n- Budgetary control\n\n### Company Accounts\n- Amalgamation\n- Consolidation\n- Auditing basics\n\n## Group II Papers\n\n| Paper | Subject |\n|-------|--------|\n| 9 | Operations & Strategy |\n| 10 | Cost & Management |\n| 11 | Indirect Taxation |\n| 12 | Company Accounts |\n\n## What is Next?\n\nExplore CMA Final - Group I!"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_int_fin",
+    "topicId": "ca_int_fin",
+    "topicTitle": "Corporate Finance & Strategy",
+    "description": "Master Corporate Finance covering Investment, Financing, Dividends, and M&A",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "cai_fin1",
+            "type": "content",
+            "title": "Welcome to Corporate Finance",
+            "content": "# Corporate Finance & Strategy\n\nMaster **financial decision-making**.\n\n## What You Will Learn\n\n- **Investment** - Capital budgeting\n- **Financing** - Capital structure\n- **Dividends** - Payout policy\n- **M&A** - Valuations\n\n## Structure\n\n| Decision | Focus |\n|----------|-------|\n| Investment | Where to invest |\n| Financing | How to fund |\n| Dividend | What to return |\n| M&A | Growth strategy |"
+        },
+        {
+            "id": "cai_fin2",
+            "type": "content",
+            "title": "Investment Appraisal",
+            "content": "# Capital Budgeting\n\n## Methods\n\n| Method | Criterion |\n|--------|----------|\n| NPV | > 0 |\n| IRR | > WACC |\n| Payback | < Target |\n| MIRR | > WACC |\n| PI | > 1 |\n\n## NPV Formula\n\n```\nNPV = Sum of [CF / (1+r)^n] - I0\n```\n\n## Advantages of NPV\n\n- Time value\n- All cash flows\n- Absolute value\n- Additive"
+        },
+        {
+            "id": "cai_fin3",
+            "type": "content",
+            "title": "Project Risk",
+            "content": "# Risk Analysis\n\n## Techniques\n\n| Technique | Purpose |\n|-----------|--------|\n| Sensitivity | One variable |\n| Scenario | Multiple variables |\n| Simulation | Probability |\n| Real options | Flexibility |\n\n## Risk-Adjusted Rate\n\n```\nHigher risk = Higher discount rate\n\nCAPM for project:\nKe = Rf + beta(project)(Rm - Rf)\n```\n\n## Real Options\n\n| Option | Value |\n|--------|-------|\n| Delay | Wait |\n| Expand | Scale up |\n| Abandon | Exit |\n| Switch | Flexibility |"
+        },
+        {
+            "id": "cai_fin_quiz1",
+            "type": "quiz",
+            "title": "NPV Quiz",
+            "content": "Test your NPV knowledge!",
+            "quizQuestion": "Accept project if NPV is?",
+            "quizOptions": [
+                "Negative",
+                "Zero",
+                "Positive",
+                "Unknown"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cai_fin4",
+            "type": "content",
+            "title": "Cost of Capital",
+            "content": "# WACC\n\n## Formula\n\n```\nWACC = (E/V x Ke) + (D/V x Kd x (1-T))\n```\n\n## Cost of Equity - CAPM\n\n```\nKe = Rf + beta(Rm - Rf)\n\nbeta = Systematic risk\n```\n\n## Cost of Debt\n\n```\nPre-tax: YTM or IRR of payments\nPost-tax: Kd x (1 - T)\n```\n\n## Beta Adjustment\n\n```\nUngear: beta(a) = beta(e) / [1 + (1-T)(D/E)]\nRegear: beta(e) = beta(a) x [1 + (1-T)(D/E)]\n```"
+        },
+        {
+            "id": "cai_fin5",
+            "type": "content",
+            "title": "Capital Structure",
+            "content": "# Financing Mix\n\n## Theories\n\n| Theory | View |\n|--------|------|\n| MM (no tax) | Irrelevant |\n| MM (tax) | Debt adds value |\n| Trade-off | Optimal exists |\n| Pecking order | Internal first |\n\n## Tax Shield\n\n```\nValue of tax shield = D x T\n\nMore debt = More shield\nBut: Distress costs rise\n```\n\n## Optimal Structure\n\n```\nMinimizes WACC\nMaximizes firm value\n```"
+        },
+        {
+            "id": "cai_fin6",
+            "type": "content",
+            "title": "Sources of Finance",
+            "content": "# Funding Options\n\n## Equity\n\n| Source | Features |\n|--------|----------|\n| Rights issue | Existing shareholders |\n| Placing | Institutional |\n| IPO | Public market |\n| Private equity | Pre-IPO |\n\n## Debt\n\n| Source | Features |\n|--------|----------|\n| Bank loans | Flexible |\n| Bonds | Market |\n| Convertibles | Hybrid |\n| Leasing | Off-balance |"
+        },
+        {
+            "id": "cai_fin_quiz2",
+            "type": "quiz",
+            "title": "WACC Quiz",
+            "content": "Test your WACC knowledge!",
+            "quizQuestion": "WACC uses which weights?",
+            "quizOptions": [
+                "Book values",
+                "Market values",
+                "Historical",
+                "Equal"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_fin7",
+            "type": "content",
+            "title": "Dividend Policy",
+            "content": "# Payout Decisions\n\n## Theories\n\n| Theory | View |\n|--------|------|\n| Irrelevance (MM) | No impact |\n| Bird in hand | Prefer dividends |\n| Tax preference | Prefer retention |\n| Signaling | Information |\n\n## Practical Factors\n\n| Factor | Impact |\n|--------|--------|\n| Cash availability | Constraint |\n| Investment needs | Retention |\n| Expectations | Stability |\n| Covenants | Restrictions |\n| Tax | Dividend vs gain |"
+        },
+        {
+            "id": "cai_fin8",
+            "type": "content",
+            "title": "Business Valuation",
+            "content": "# Valuation Methods\n\n## Approaches\n\n| Method | Basis |\n|--------|-------|\n| DCF | Cash flows |\n| Earnings | Multiples |\n| Asset | Net assets |\n| Market | Comparables |\n\n## DCF Model\n\n```\nFCF projection\n+ Terminal value\n= Enterprise value\n- Net debt\n= Equity value\n```\n\n## Terminal Value\n\n```\nTV = FCF(1+g) / (WACC - g)\n```"
+        },
+        {
+            "id": "cai_fin9",
+            "type": "content",
+            "title": "Mergers and Acquisitions",
+            "content": "# M&A Strategy\n\n## Types\n\n| Type | Direction |\n|------|----------|\n| Horizontal | Same industry |\n| Vertical | Supply chain |\n| Conglomerate | Unrelated |\n\n## Synergies\n\n| Type | Source |\n|------|--------|\n| Revenue | Cross-selling |\n| Cost | Economies |\n| Financial | Tax, funding |\n\n## Consideration\n\n| Form | Features |\n|------|----------|\n| Cash | Certainty |\n| Shares | Dilution |\n| Mixed | Balance |"
+        },
+        {
+            "id": "cai_fin_quiz3",
+            "type": "quiz",
+            "title": "Valuation Quiz",
+            "content": "Test your valuation knowledge!",
+            "quizQuestion": "DCF values based on?",
+            "quizOptions": [
+                "Book value",
+                "Market price",
+                "Future cash flows",
+                "Past earnings"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cai_fin10",
+            "type": "content",
+            "title": "Working Capital",
+            "content": "# Short-Term Finance\n\n## Working Capital Cycle\n\n```\nInventory days\n+ Receivable days\n- Payable days\n= Cash cycle\n```\n\n## Management\n\n| Component | Objective |\n|-----------|----------|\n| Cash | Minimize idle |\n| Receivables | Faster collection |\n| Inventory | Reduce holding |\n| Payables | Extend (safely) |\n\n## Financing Policy\n\n| Policy | Approach |\n|--------|----------|\n| Aggressive | Short-term |\n| Conservative | Long-term |\n| Matching | Match maturities |"
+        },
+        {
+            "id": "cai_fin11",
+            "type": "content",
+            "title": "Treasury and Forex",
+            "content": "# Currency Risk\n\n## Exposure Types\n\n| Type | Risk |\n|------|------|\n| Transaction | Specific deals |\n| Translation | Consolidation |\n| Economic | Competitive |\n\n## Hedging\n\n| Instrument | Use |\n|------------|-----|\n| Forward | Lock rate |\n| Future | Exchange-traded |\n| Option | Right only |\n| Swap | Exchange payments |"
+        },
+        {
+            "id": "cai_fin12",
+            "type": "content",
+            "title": "Interest Rate Risk",
+            "content": "# Rate Management\n\n## Exposure\n\n| Position | Risk |\n|----------|------|\n| Floating debt | Rates rise |\n| Fixed investment | Rates fall |\n\n## Hedging Instruments\n\n| Instrument | Function |\n|------------|----------|\n| FRA | Forward rate |\n| Swap | Exchange fixed/floating |\n| Cap | Maximum rate |\n| Floor | Minimum rate |\n| Collar | Both cap and floor |"
+        },
+        {
+            "id": "cai_fin_quiz4",
+            "type": "quiz",
+            "title": "Forex Quiz",
+            "content": "Test your forex knowledge!",
+            "quizQuestion": "Transaction exposure is for?",
+            "quizOptions": [
+                "All business",
+                "Consolidation",
+                "Specific deals",
+                "Competition"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cai_fin17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **Corporate Finance & Strategy**!\n\n## Key Topics\n\n### Investment\n- NPV, IRR, MIRR\n- Project risk\n- Real options\n\n### Financing\n- WACC\n- Capital structure\n- Sources\n\n### Payout\n- Dividend policy\n- Signaling\n\n### M&A\n- Valuation\n- Synergies\n- Integration\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| NPV | Investment |\n| WACC | Cost |\n| DCF | Valuation |\n| CAPM | Equity cost |\n\n## What is Next?\n\nExplore Professional Ethics!"
+        }
+    ]
+}

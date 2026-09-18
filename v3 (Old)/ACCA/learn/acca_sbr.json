@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_sbr",
+    "topicId": "acca_sbr",
+    "topicTitle": "Strategic Business Reporting (SBR)",
+    "description": "Master ACCA SBR including IFRS Framework, Complex Accounting, Group Reporting, and Current Issues",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "sbr_1",
+            "type": "content",
+            "title": "Welcome to ACCA SBR",
+            "content": "# Strategic Business Reporting (SBR)\n\nSBR focuses on **advanced financial reporting** under IFRS.\n\n## What You Will Learn\n\n- **Conceptual Framework** - Advanced application\n- **Complex IFRS** - Standards in depth\n- **Group Reporting** - Consolidation\n- **Current Issues** - Emerging topics\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Framework | 15% |\n| Standards | 40% |\n| Groups | 25% |\n| Ethics | 10% |\n| Current issues | 10% |"
+        },
+        {
+            "id": "sbr_2",
+            "type": "content",
+            "title": "Conceptual Framework",
+            "content": "# IASB Framework\n\n## Objective of Financial Reporting\n\nProvide useful financial information to users.\n\n## Qualitative Characteristics\n\n| Fundamental | Enhancing |\n|-------------|----------|\n| Relevance | Comparability |\n| Faithful representation | Verifiability |\n| | Timeliness |\n| | Understandability |\n\n## Elements\n\n| Element | Definition |\n|---------|------------|\n| Asset | Resource controlled |\n| Liability | Present obligation |\n| Equity | Residual interest |\n| Income | Increases in assets |\n| Expenses | Decreases in assets |\n\n## Measurement Bases\n\n- Historical cost\n- Fair value\n- Value in use\n- Current cost"
+        },
+        {
+            "id": "sbr_3",
+            "type": "content",
+            "title": "IFRS 9 - Financial Instruments",
+            "content": "# Financial Instruments\n\n## Classification\n\n| Category | Measurement |\n|----------|-------------|\n| Amortized cost | Effective interest |\n| FVOCI | FV through OCI |\n| FVPL | FV through P&L |\n\n## Business Model Test\n\n| Model | Intent |\n|-------|--------|\n| Hold to collect | AC |\n| Collect and sell | FVOCI |\n| Other | FVPL |\n\n## Expected Credit Losses\n\n| Stage | Recognition |\n|-------|-------------|\n| 1 | 12-month ECL |\n| 2 | Lifetime ECL |\n| 3 | Lifetime + interest on net |\n\n## Hedge Accounting\n\n- Fair value hedge\n- Cash flow hedge\n- Net investment hedge"
+        },
+        {
+            "id": "sbr_quiz_1",
+            "type": "quiz",
+            "title": "IFRS 9 Quiz",
+            "content": "Test your IFRS 9 knowledge!",
+            "quizQuestion": "Under IFRS 9, if the business model is hold to collect, assets are measured at?",
+            "quizOptions": [
+                "Fair value through P&L",
+                "Fair value through OCI",
+                "Amortized cost",
+                "Historical cost"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "sbr_4",
+            "type": "content",
+            "title": "IFRS 15 - Revenue",
+            "content": "# Revenue Recognition\n\n## Five-Step Model\n\n```\n1. Identify contract\n2. Identify performance obligations\n3. Determine transaction price\n4. Allocate to obligations\n5. Recognize when satisfied\n```\n\n## Variable Consideration\n\n| Method | When |\n|--------|------|\n| Expected value | Many outcomes |\n| Most likely | Binary outcome |\n\n## Constraint\n\nOnly include if highly probable no significant reversal.\n\n## Contract Modifications\n\n| Type | Treatment |\n|------|----------|\n| Separate contract | New goods/prices |\n| Prospective | Adjust remaining |\n| Cumulative | Catch-up adjustment |"
+        },
+        {
+            "id": "sbr_5",
+            "type": "content",
+            "title": "IFRS 16 - Leases",
+            "content": "# Lease Accounting\n\n## Lessee Model\n\n```\nRight-of-use asset = Lease liability + direct costs\n\nLease liability = PV of lease payments\n```\n\n## Subsequent Measurement\n\n| Component | Treatment |\n|-----------|----------|\n| ROU asset | Depreciate |\n| Lease liability | Amortize |\n| Interest | P&L expense |\n\n## Lessor Accounting\n\n| Type | Treatment |\n|------|----------|\n| Finance lease | Derecognize asset |\n| Operating lease | Keep asset, spread income |\n\n## Classification Test\n\nFinance lease if substantially all risks and rewards transfer."
+        },
+        {
+            "id": "sbr_6",
+            "type": "content",
+            "title": "IAS 19 - Employee Benefits",
+            "content": "# Employee Benefits\n\n## Categories\n\n| Type | Examples |\n|------|----------|\n| Short-term | Wages, salaries |\n| Post-employment | Pensions |\n| Other long-term | Long service |\n| Termination | Redundancy |\n\n## Defined Benefit Plans\n\n```\nNet liability = PV of obligation - Fair value of assets\n```\n\n## P&L vs OCI\n\n| P&L | OCI |\n|-----|-----|\n| Service cost | Remeasurements |\n| Net interest | Actuarial gains/losses |\n\n## Actuarial Assumptions\n\n- Discount rate\n- Salary growth\n- Mortality\n- Inflation"
+        },
+        {
+            "id": "sbr_7",
+            "type": "content",
+            "title": "IFRS 3 - Business Combinations",
+            "content": "# Acquisition Accounting\n\n## Goodwill Calculation\n\n```\nConsideration transferred\n+ NCI at acquisition\n+ Previous equity interest\n- Fair value of net assets\n= Goodwill\n```\n\n## Consideration\n\n| Type | Measurement |\n|------|-------------|\n| Cash | Amount paid |\n| Shares | Fair value |\n| Contingent | FV at acquisition |\n\n## NCI Measurement\n\n| Method | Basis |\n|--------|-------|\n| Full goodwill | Fair value of NCI |\n| Partial goodwill | NCI% x net assets |\n\n## Fair Value Adjustments\n\n- PPE revaluation\n- Intangibles identified\n- Contingent liabilities"
+        },
+        {
+            "id": "sbr_quiz_2",
+            "type": "quiz",
+            "title": "Groups Quiz",
+            "content": "Test your consolidation knowledge!",
+            "quizQuestion": "Goodwill equals consideration plus NCI minus?",
+            "quizOptions": [
+                "Book value of net assets",
+                "Fair value of net assets",
+                "Cost of investment",
+                "Share capital"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "sbr_8",
+            "type": "content",
+            "title": "Complex Groups",
+            "content": "# Advanced Consolidation\n\n## Mid-Year Acquisitions\n\n- Time apportion profits\n- Goodwill at acquisition date\n- NCI share from acquisition\n\n## Disposal of Subsidiary\n\n```\nProceeds\n+ FV of retained interest\n- Net assets disposed\n- NCI derecognized\n- Goodwill derecognized\n= Gain/loss on disposal\n```\n\n## Step Acquisitions\n\n| Before | After |\n|--------|-------|\n| Associate | Subsidiary |\n| Remeasure previous holding |\n| Gain/loss in P&L |\n\n## Partial Disposal\n\n- Still control: Equity transaction\n- Lose control: Full disposal"
+        },
+        {
+            "id": "sbr_9",
+            "type": "content",
+            "title": "Associates and JVs",
+            "content": "# Equity Method\n\n## Associates (IAS 28)\n\nSignificant influence (20-50%).\n\n## Joint Ventures (IFRS 11)\n\nJoint control, rights to net assets.\n\n## Equity Method\n\n```\nCost\n+ Share of post-acquisition profits\n- Dividends received\n+/- Share of OCI\n= Carrying amount\n```\n\n## Impairment\n\n- Test investment for impairment\n- Compare carrying amount to recoverable\n\n## Intra-Group Transactions\n\n| Direction | Adjustment |\n|-----------|------------|\n| Downstream | Full elimination |\n| Upstream | Eliminate investor's share |"
+        },
+        {
+            "id": "sbr_10",
+            "type": "content",
+            "title": "Foreign Operations",
+            "content": "# IAS 21 Foreign Currency\n\n## Functional Currency\n\nCurrency of primary economic environment.\n\n## Translation of Items\n\n| Item | Rate |\n|------|------|\n| Monetary items | Closing rate |\n| Non-monetary | Historic rate |\n\n## Foreign Subsidiary Translation\n\n| Item | Rate |\n|------|------|\n| Assets/liabilities | Closing |\n| Income/expense | Average |\n| Equity | Historic |\n\n## Exchange Differences\n\n- On monetary: P&L\n- On translation: OCI\n- Recycled on disposal"
+        },
+        {
+            "id": "sbr_11",
+            "type": "content",
+            "title": "Current Issues",
+            "content": "# Emerging Topics\n\n## IFRS 17 - Insurance\n\n- General measurement model\n- Premium allocation approach\n- CSM (Contractual Service Margin)\n\n## Sustainability Reporting\n\n| Standard | Focus |\n|----------|-------|\n| IFRS S1 | General requirements |\n| IFRS S2 | Climate disclosures |\n\n## Integrated Reporting\n\n- Six capitals\n- Value creation\n- Connectivity\n\n## Management Commentary\n\n- Business model\n- Strategy\n- Performance\n- Risks"
+        },
+        {
+            "id": "sbr_quiz_3",
+            "type": "quiz",
+            "title": "Translation Quiz",
+            "content": "Test your translation knowledge!",
+            "quizQuestion": "Foreign subsidiary assets are translated at which rate?",
+            "quizOptions": [
+                "Historic rate",
+                "Average rate",
+                "Closing rate",
+                "Spot rate"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "sbr_12",
+            "type": "content",
+            "title": "Ethics in Reporting",
+            "content": "# Ethical Reporting\n\n## Accountant's Responsibility\n\n| Duty | Meaning |\n|------|--------|\n| Integrity | Honest |\n| Objectivity | Unbiased |\n| Competence | Proper care |\n\n## Ethical Issues\n\n| Issue | Example |\n|-------|--------|\n| Pressure | Management targets |\n| Judgment | Aggressive policies |\n| Estimates | Bias |\n\n## Professional Skepticism\n\n- Question assumptions\n- Challenge management\n- Document reasoning\n\n## Resolving Conflicts\n\n- Gather facts\n- Consider stakeholders\n- Consult ethics committee\n- Whistleblow if needed"
+        },
+        {
+            "id": "sbr_13",
+            "type": "content",
+            "title": "Other Standards",
+            "content": "# Additional Standards\n\n## IAS 12 - Income Taxes\n\n| Type | Recognition |\n|------|-------------|\n| Current tax | Liability |\n| Deferred tax | Temporary differences |\n\n## IAS 37 - Provisions\n\n| Criteria | All required |\n|----------|-------------|\n| Present obligation | Must exist |\n| Probable outflow | Likely |\n| Reliable estimate | Measurable |\n\n## IFRS 13 - Fair Value\n\n| Level | Input |\n|-------|-------|\n| 1 | Quoted prices |\n| 2 | Observable |\n| 3 | Unobservable |\n\n## IFRS 5 - Non-current Assets Held for Sale\n\nLower of carrying amount and fair value less costs to sell."
+        },
+        {
+            "id": "sbr_14",
+            "type": "content",
+            "title": "Analysis and Interpretation",
+            "content": "# Financial Analysis\n\n## Ratio Analysis\n\n| Category | Ratios |\n|----------|--------|\n| Profitability | Margin, ROCE |\n| Liquidity | Current, quick |\n| Gearing | D/E, interest cover |\n| Efficiency | Turnover ratios |\n\n## Quality of Earnings\n\n- Cash conversion\n- One-time items\n- Accounting policies\n- Estimates\n\n## Limitations\n\n- Historic data\n- Different policies\n- Non-financial ignored\n- Manipulation risk"
+        },
+        {
+            "id": "sbr_quiz_4",
+            "type": "quiz",
+            "title": "Standards Quiz",
+            "content": "Test your standards knowledge!",
+            "quizQuestion": "Long-term provisions must meet how many criteria per IAS 37?",
+            "quizOptions": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "sbr_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA SBR - Strategic Business Reporting**!\n\n## Key Topics\n\n### Standards\n- IFRS 9 - Financial instruments\n- IFRS 15 - Revenue\n- IFRS 16 - Leases\n- IAS 19 - Employee benefits\n\n### Groups\n- IFRS 3 - Business combinations\n- Complex consolidations\n- Foreign operations\n\n### Current\n- Sustainability reporting\n- Integrated reporting\n- Ethics\n\n## Key Standards\n\n| Standard | Topic |\n|----------|-------|\n| IFRS 9 | Financial instruments |\n| IFRS 15 | Revenue |\n| IFRS 16 | Leases |\n| IFRS 3 | Acquisitions |\n\n## What is Next?\n\nExplore ACCA Options: APM, ATX, AAA!"
+        }
+    ]
+}

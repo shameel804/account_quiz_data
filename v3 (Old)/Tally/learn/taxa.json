@@ -1,0 +1,167 @@
+{
+    "id": "learn_taxa",
+    "topicId": "taxa",
+    "topicTitle": "Taxation in Tally",
+    "description": "Master taxation in Tally including GST Configuration, GST Transactions, Tax Returns, and TDS/TCS compliance",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "taxa_1",
+            "type": "content",
+            "title": "Welcome to Taxation in Tally",
+            "content": "# Taxation in Tally\n\nTally provides comprehensive **GST and tax compliance** features.\n\n## What You Will Learn\n\n- **GST Configuration** - Setting up GST\n- **GST Transactions** - Recording with correct tax\n- **Tax Returns** - GSTR-1, GSTR-3B preparation\n- **TDS/TCS** - Withholding tax compliance\n\n## Taxes Supported\n\n| Tax | Description |\n|-----|-------------|\n| GST | Goods and Services Tax |\n| TDS | Tax Deducted at Source |\n| TCS | Tax Collected at Source |\n\n## GST Rates in India\n\n| Rate | Examples |\n|------|----------|\n| 0% | Essentials, exports |\n| 5% | Basic necessities |\n| 12% | Processed food |\n| 18% | Most goods/services |\n| 28% | Luxury goods |\n\n> **Tally simplifies** GST compliance!"
+        },
+        {
+            "id": "taxa_2",
+            "type": "content",
+            "title": "GST Configuration",
+            "content": "# Setting Up GST\n\n## Enabling GST\n\n**F11 > Statutory & Taxation**\n\n```\nEnable GST: Yes\nSet GST Details: Yes\n```\n\n## Company GST Details\n\n```\nState: Maharashtra\nRegistration Type: Regular\nGSTIN: 27AABCT1234P1Z5\n```\n\n## Registration Types\n\n| Type | Description |\n|------|-------------|\n| Regular | Normal registration |\n| Composition | Small business |\n| Consumer | Unregistered |\n| SEZ | Special Economic Zone |\n\n## Tax Ledgers Required\n\n```\nCGST Input/Output - Duties & Taxes\nSGST Input/Output - Duties & Taxes\nIGST Input/Output - Duties & Taxes\n```\n\n## HSN/SAC Codes\n\n- **HSN** - For Goods\n- **SAC** - For Services\n\n| Turnover | Digits Required |\n|----------|----------------|\n| Up to 1.5 Cr | Optional |\n| 1.5 to 5 Cr | 4 digits |\n| Above 5 Cr | 6 digits |\n\n> **Correct configuration** is the foundation!"
+        },
+        {
+            "id": "taxa_3",
+            "type": "content",
+            "title": "Party GST Details",
+            "content": "# Party Master with GST\n\n## Customer Setup\n\n```\nLedger: ABC Traders\nUnder: Sundry Debtors\nState: Maharashtra\nGSTIN: 27AABCA1234P1Z5\nParty Type: Registered Regular\n```\n\n## Party Types\n\n| Type | GST Impact |\n|------|------------|\n| Registered Regular | Normal B2B |\n| Composition | No ITC |\n| Unregistered | B2C |\n| Consumer | End consumer |\n\n## Intra vs Inter State\n\n| Type | Tax Applied |\n|------|-------------|\n| Intra-State | CGST + SGST |\n| Inter-State | IGST |\n\n### Example\n\n```\nSeller: Maharashtra (27)\nBuyer: Maharashtra (27)\nTax: CGST 9% + SGST 9%\n\nSeller: Maharashtra (27)\nBuyer: Karnataka (29)\nTax: IGST 18%\n```\n\n> **Accurate party details** ensure correct GST!"
+        },
+        {
+            "id": "taxa_quiz_1",
+            "type": "quiz",
+            "title": "GST Configuration Quiz",
+            "content": "Test your GST knowledge!",
+            "quizQuestion": "For inter-state sales, which tax applies?",
+            "quizOptions": [
+                "CGST only",
+                "SGST only",
+                "CGST + SGST",
+                "IGST"
+            ],
+            "correctOptionIndex": 3
+        },
+        {
+            "id": "taxa_4",
+            "type": "content",
+            "title": "GST Sales Transactions",
+            "content": "# Recording GST Sales\n\n## Intra-State Sale (B2B)\n\n```\nParty: ABC Traders (GSTIN: 27AABC...)\nItem: Laptop - Rs. 50,000\nCGST @ 9%: Rs. 4,500\nSGST @ 9%: Rs. 4,500\nTotal: Rs. 59,000\n```\n\n## Inter-State Sale (B2B)\n\n```\nParty: DEF Corp (GSTIN: 29AADEF...)\nPlace of Supply: Karnataka\nItem: Laptop - Rs. 50,000\nIGST @ 18%: Rs. 9,000\nTotal: Rs. 59,000\n```\n\n## B2C Sale\n\n```\nParty: Walk-in Customer\nItem: Mobile - Rs. 20,000\nCGST @ 9%: Rs. 1,800\nSGST @ 9%: Rs. 1,800\nTotal: Rs. 23,600\n```\n\n## Automatic Entries\n\n```\nCustomer A/c (Dr)    59,000\nSales A/c (Cr)       50,000\nCGST Output (Cr)      4,500\nSGST Output (Cr)      4,500\n```\n\n> **Correct invoice** ensures GST compliance!"
+        },
+        {
+            "id": "taxa_5",
+            "type": "content",
+            "title": "GST Purchase Transactions",
+            "content": "# Recording GST Purchases\n\n## Purchase with Input Credit\n\n```\nParty: XYZ Suppliers\nItem: Raw Material - Rs. 100,000\nCGST Input @ 9%: Rs. 9,000\nSGST Input @ 9%: Rs. 9,000\nTotal: Rs. 118,000\n```\n\n## Accounting Entry\n\n```\nRaw Material (Dr)     100,000\nCGST Input (Dr)         9,000\nSGST Input (Dr)         9,000\nVendor (Cr)           118,000\n```\n\n## Net GST Calculation\n\n```\nCGST Output: Rs. 4,500\nCGST Input: (Rs. 9,000)\nCGST Credit: (Rs. 4,500)\n\nSGST Output: Rs. 4,500\nSGST Input: (Rs. 9,000)\nSGST Credit: (Rs. 4,500)\n```\n\n## ITC Ineligible Items\n\n- Personal use items\n- Blocked credits\n- Non-business use\n\n> **Track input credit** to optimize tax!"
+        },
+        {
+            "id": "taxa_6",
+            "type": "content",
+            "title": "Credit and Debit Notes",
+            "content": "# GST in Returns\n\n## Credit Note (Ctrl+F8)\n\n**When to Issue:**\n- Goods returned by customer\n- Price reduction after sale\n\n```\nOriginal Invoice: GST/001\nParty: ABC Traders\nReason: Goods Returned\nItem: Laptop - Rs. 50,000\nCGST: Rs. 4,500\nSGST: Rs. 4,500\n```\n\n## Debit Note (Ctrl+F9)\n\n**When to Issue:**\n- Goods returned to vendor\n- Price reduction claim\n\n```\nOriginal Invoice: SUP-001\nParty: XYZ Suppliers\nItem: Raw Material - Rs. 10,000\nCGST: Rs. 900\nSGST: Rs. 900\n```\n\n## Impact on GSTR\n\n| Document | GSTR Impact |\n|----------|-------------|\n| Credit Note | Reduces output tax |\n| Debit Note | Reduces input credit |\n\n> **Timely notes** ensure accurate reporting!"
+        },
+        {
+            "id": "taxa_7",
+            "type": "content",
+            "title": "GST Reports",
+            "content": "# GST Reporting in Tally\n\n**Path:** Gateway > Display > Statutory Reports > GST\n\n## GSTR-1 Sections\n\n| Section | Description |\n|---------|-------------|\n| B2B | Sales to registered |\n| B2CS | Sales to consumers |\n| CDNR | Credit/Debit notes |\n| HSN | Item-wise summary |\n\n## GSTR-3B Summary\n\n```\nOutward Supplies: Rs. 18,00,000\nOutput Tax: Rs. 3,24,000\nInward Supplies: Rs. 12,00,000\nInput Tax Credit: Rs. 2,16,000\nNet Tax Payable: Rs. 1,08,000\n```\n\n## Exporting for Filing\n\n- Export to JSON for GST portal\n- Export to Excel for review\n\n> **Tally generates** filing-ready returns!"
+        },
+        {
+            "id": "taxa_quiz_2",
+            "type": "quiz",
+            "title": "GST Returns Quiz",
+            "content": "Test your returns knowledge!",
+            "quizQuestion": "Which GSTR shows outward supplies (sales)?",
+            "quizOptions": [
+                "GSTR-1",
+                "GSTR-2A",
+                "GSTR-3B",
+                "GSTR-9"
+            ],
+            "correctOptionIndex": 0
+        },
+        {
+            "id": "taxa_8",
+            "type": "content",
+            "title": "E-Way Bill",
+            "content": "# E-Way Bill in Tally\n\n## What is E-Way Bill?\n\nRequired for **movement of goods** worth more than Rs. 50,000.\n\n## When Required\n\n| Scenario | E-Way Bill |\n|----------|------------|\n| Inter-state > 50,000 | Mandatory |\n| Intra-state > 50,000 | Varies by state |\n\n## E-Way Bill Fields\n\n```\nTransport Mode: Road\nVehicle No: MH01AB1234\nDistance: 150 KM\nTransporter ID: 27AABCT...\n```\n\n## Validity\n\n| Distance | Validity |\n|----------|----------|\n| Up to 100 KM | 1 day |\n| Each 100 KM | +1 day |\n\n## Generation\n\n1. Configure GST connected\n2. Enter voucher with transport\n3. Generate E-Way Bill\n4. Get EBN number\n\n> **E-Way Bill** is mandatory for transport!"
+        },
+        {
+            "id": "taxa_9",
+            "type": "content",
+            "title": "TDS Configuration",
+            "content": "# Tax Deducted at Source\n\n## Enabling TDS\n\n**F11 > Statutory Features**\n\n```\nEnable TDS: Yes\nTAN: MUMT12345E\n```\n\n## Common TDS Sections\n\n| Section | Nature | Rate |\n|---------|--------|------|\n| 194C | Contractor | 1-2% |\n| 194J | Professional | 10% |\n| 194I | Rent | 10% |\n| 194H | Commission | 5% |\n\n## TDS Ledger Setup\n\n```\nLedger: TDS on Professional\nUnder: Duties & Taxes\nNature: 194J\nRate: 10%\n```\n\n## Party TDS Settings\n\n```\nLedger: ABC Consultants\nPAN: AABCC1234D\nTDS Deductible: Yes\nTDS Section: 194J\n```\n\n> **Correct TDS setup** ensures compliance!"
+        },
+        {
+            "id": "taxa_10",
+            "type": "content",
+            "title": "TDS Transactions",
+            "content": "# Recording TDS\n\n## Payment with TDS\n\n```\nPayment to: ABC Consultants\nInvoice: Rs. 100,000\n\nProfessional Fees (Dr) 100,000\nTDS 194J (Cr)           10,000\nABC Consultants (Cr)    90,000\n```\n\n## TDS on Rent\n\n```\nRent Expense (Dr)       50,000\nTDS on Rent 194I (Cr)    5,000\nLandlord A/c (Cr)       45,000\n```\n\n## TDS Payment to Govt\n\n```\nTDS 194J (Dr)           10,000\nTDS 194I (Dr)            5,000\nBank (Cr)               15,000\n\nChallan No: 12345\nBSR Code: 1234567\n```\n\n## Due Dates\n\n| Activity | Due Date |\n|----------|----------|\n| TDS Payment | 7th of next month |\n| TDS Return | Quarterly |\n\n> **Deduct and deposit TDS** on time!"
+        },
+        {
+            "id": "taxa_11",
+            "type": "content",
+            "title": "TCS in Tally",
+            "content": "# Tax Collected at Source\n\n## What is TCS?\n\nTax **collected from buyer** at time of sale for specified goods.\n\n## TCS Rates\n\n| Category | Rate |\n|----------|------|\n| Scrap | 1% |\n| Motor Vehicle > 10L | 1% |\n| Sale > 50L | 0.1% |\n\n## Enabling TCS\n\n**F11 > Statutory**\n\n```\nEnable TCS: Yes\n```\n\n## TCS in Sales\n\n```\nSale Value: Rs. 75,00,000\n\nCustomer A/c (Dr)    75,07,500\nSales (Cr)           75,00,000\nTCS on Sales (Cr)        7,500\n```\n\n## TCS Returns\n\n- Form 27EQ - Quarterly return\n- Generate from Tally reports\n\n> **Collect and remit TCS** as required!"
+        },
+        {
+            "id": "taxa_quiz_3",
+            "type": "quiz",
+            "title": "TDS/TCS Quiz",
+            "content": "Test your TDS knowledge!",
+            "quizQuestion": "What is the TDS rate for professional fees (194J)?",
+            "quizOptions": [
+                "1%",
+                "2%",
+                "5%",
+                "10%"
+            ],
+            "correctOptionIndex": 3
+        },
+        {
+            "id": "taxa_12",
+            "type": "content",
+            "title": "GST Reconciliation",
+            "content": "# GST Data Reconciliation\n\n## Why Reconcile?\n\n- Match books with GST portal\n- Verify Input Tax Credit\n- Catch errors before filing\n\n## GSTR-2A/2B Reconciliation\n\n```\nSupplier | Portal | Books | Diff\nABC Ltd  | 9,000  | 9,000 | 0\nXYZ Inc  | 4,500  | 4,500 | 0\nMNO Co   | 0      | 3,600 | (3,600)\n\nIssue: MNO not filed - ITC at risk\n```\n\n## Common Mismatches\n\n| Issue | Action |\n|-------|--------|\n| Supplier not filed | Follow up |\n| Amount difference | Verify invoice |\n| GSTIN mismatch | Correct party |\n\n## Monthly Checklist\n\n- Verify all invoices entered\n- Check party GSTIN\n- Reconcile with 2A/2B\n- Review exceptions\n\n> **Regular reconciliation** prevents ITC loss!"
+        },
+        {
+            "id": "taxa_13",
+            "type": "content",
+            "title": "GST Due Dates",
+            "content": "# GST Compliance Calendar\n\n## Monthly Filings\n\n| Return | Due Date |\n|--------|----------|\n| GSTR-1 | 11th of next month |\n| GSTR-3B | 20th of next month |\n\n## Quarterly (QRMP)\n\n| Return | Due Date |\n|--------|----------|\n| GSTR-1 | 13th of quarter+1 |\n| GSTR-3B | 22nd/24th of quarter+1 |\n\n## Annual\n\n| Return | Due Date |\n|--------|----------|\n| GSTR-9 | 31st December |\n\n## Penalties\n\n| Default | Penalty |\n|---------|--------|\n| Late filing | Rs. 50/day |\n| Late payment | 18% interest |\n\n> **Meeting deadlines** avoids penalties!"
+        },
+        {
+            "id": "taxa_14",
+            "type": "content",
+            "title": "GST Payment",
+            "content": "# Recording GST Payment\n\n## GST Liability\n\n```\nOutput Tax:\n  CGST: Rs. 50,000\n  SGST: Rs. 50,000\n\nInput Credit:\n  CGST: Rs. 40,000\n  SGST: Rs. 40,000\n\nNet Payable:\n  CGST: Rs. 10,000\n  SGST: Rs. 10,000\n```\n\n## Payment Entry\n\n```\nBank Account (Cr)     20,000\nCGST Output (Dr)      10,000\nSGST Output (Dr)      10,000\n```\n\n## ITC Utilization Order\n\n```\nIGST Credit: IGST > CGST > SGST\nCGST Credit: CGST > IGST\nSGST Credit: SGST > IGST\n```\n\n> **Timely payment** avoids interest!"
+        },
+        {
+            "id": "taxa_15",
+            "type": "content",
+            "title": "Exception Reports",
+            "content": "# GST Validation\n\n## Tally Exception Reports\n\n**Path:** GST > Exception Reports\n\n### Common Exceptions\n\n| Exception | Issue |\n|-----------|-------|\n| Missing GSTIN | Party incomplete |\n| Invalid HSN | Wrong code |\n| Rate mismatch | Check item setup |\n| Place missing | No supply place |\n\n## Fixing Exceptions\n\n### Missing GSTIN\n- Update party ledger\n- Add valid GSTIN\n\n### Invalid HSN\n- Correct HSN code in item\n- Verify against GST schedule\n\n### Rate Mismatch\n- Check item tax category\n- Verify ledger rates\n\n## Pre-Filing Checklist\n\n- [ ] Fix all exceptions\n- [ ] Verify totals\n- [ ] Reconcile 2A/2B\n- [ ] Check cash ledger\n\n> **Fix exceptions** before filing!"
+        },
+        {
+            "id": "taxa_16",
+            "type": "content",
+            "title": "Tax Best Practices",
+            "content": "# Tax Compliance Best Practices\n\n## Data Entry\n\n| Practice | Benefit |\n|----------|--------|\n| Real-time entry | Current data |\n| Verify GSTIN | Correct credit |\n| HSN on all items | Classification |\n\n## Monthly Tasks\n\n**Before 10th:**\n- Complete all sales entries\n- Verify B2B invoices\n\n**Before 20th:**\n- Verify input credit\n- Reconcile with 2A/2B\n- Make payment\n\n## Common Errors\n\n| Error | Impact |\n|-------|--------|\n| Wrong GSTIN | ITC rejected |\n| Wrong HSN | Penalties |\n| Wrong state | Wrong tax |\n\n## Audit Preparation\n\n- All invoices on file\n- Return acknowledgments\n- Payment proofs\n- Reconciliation records\n\n> **Good practices** ensure compliance!"
+        },
+        {
+            "id": "taxa_quiz_4",
+            "type": "quiz",
+            "title": "Compliance Quiz",
+            "content": "Test your compliance knowledge!",
+            "quizQuestion": "What is the due date for filing GSTR-3B?",
+            "quizOptions": [
+                "11th of next month",
+                "20th of next month",
+                "25th of next month",
+                "Last day of month"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "taxa_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed the **Taxation in Tally** lesson!\n\n## Key Concepts Mastered\n\n### GST Configuration\n- Company GST registration\n- HSN/SAC code setup\n- Tax ledger setup\n\n### GST Transactions\n- Intra and Inter-state sales\n- Input Tax Credit tracking\n- Credit and Debit notes\n\n### Returns\n- GSTR-1, GSTR-3B\n- Reconciliation\n- E-Way Bill\n\n### TDS/TCS\n- TDS configuration\n- TCS collection\n- Payment to government\n\n## Key Due Dates\n\n| Return | Due |\n|--------|-----|\n| GSTR-1 | 11th |\n| GSTR-3B | 20th |\n| TDS | 7th |\n\n## What is Next?\n\nExplore:\n- Advanced Tally features\n- Payroll in Tally\n\n> **You now have taxation skills** in Tally!"
+        }
+    ]
+}

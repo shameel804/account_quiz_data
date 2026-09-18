@@ -1,0 +1,5983 @@
+[
+    {
+        "q": "What does the acronym SAP stand for?",
+        "type": "mcq",
+        "o": [
+            "Systems, Applications, and Products in Data Processing",
+            "Software and Programs",
+            "Simple Application Platform",
+            "Structured Accounting Procedures"
+        ]
+    },
+    {
+        "q": "SAP ERP is a type of Transaction Processing System.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which module in SAP handles the financial accounting and external reporting?",
+        "type": "mcq",
+        "o": [
+            "SAP FI",
+            "SAP MM",
+            "SAP SD",
+            "SAP PP"
+        ]
+    },
+    {
+        "q": "What is the name of the database programming language used by SAP that allows custom development?",
+        "type": "short_answer",
+        "answers": [
+            "ABAP",
+            "Advanced Business Application Programming"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In SAP, the ______ is the central access point for all functions and is displayed immediately after login.",
+        "type": "fill_blank",
+        "answers": [
+            "SAP Easy Access Menu"
+        ],
+        "other_options": [
+            "Main Menu",
+            "User Dashboard",
+            "Home Screen",
+            "Control Panel"
+        ]
+    },
+    {
+        "q": "Which of the following is a core SAP module focused on Materials Management?",
+        "type": "mcq",
+        "o": [
+            "SAP MM",
+            "SAP CO",
+            "SAP HR",
+            "SAP PS"
+        ]
+    },
+    {
+        "q": "Match each SAP module abbreviation with its full name:",
+        "type": "match",
+        "left": [
+            "FI",
+            "CO",
+            "SD",
+            "MM",
+            "PP"
+        ],
+        "right": [
+            "Financial Accounting",
+            "Controlling",
+            "Sales and Distribution",
+            "Materials Management",
+            "Production Planning"
+        ]
+    },
+    {
+        "q": "The primary purpose of the SAP Controlling (CO) module is external financial reporting to tax authorities.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which organizational unit represents an independent legal entity in SAP FI?",
+        "type": "mcq",
+        "o": [
+            "Company Code",
+            "Business Area",
+            "Plant",
+            "Sales Organization"
+        ]
+    },
+    {
+        "q": "Which component acts as the 'single source of truth' and integrates all business processes in SAP?",
+        "type": "mcq",
+        "o": [
+            "SAP ERP Central Component (ECC)",
+            "SAP SuccessFactors",
+            "SAP Ariba",
+            "SAP Concur"
+        ]
+    },
+    {
+        "q": "What is the transaction code or command field called where you can directly enter a function code in SAP GUI?",
+        "type": "short_answer",
+        "answers": [
+            "Command Field",
+            "OK Code Field"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In what year was SAP founded by five former IBM employees?",
+        "type": "slider",
+        "min": 1960,
+        "max": 1980,
+        "correct": 1972
+    },
+    {
+        "q": "A Vendor Master Record is a type of master data that stores information about suppliers.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In SAP FICO, what is the term for the account where the Accounting Department records the entity's money and money equivalents?",
+        "type": "mcq",
+        "o": [
+            "Cash Journal",
+            "Goods Issue",
+            "Sales Order",
+            "Purchase Requisition"
+        ]
+    },
+    {
+        "q": "Which screen element in SAP GUI shows system messages, warnings, and error notifications?",
+        "type": "mcq",
+        "o": [
+            "Status Bar",
+            "Menu Bar",
+            "Title Bar",
+            "Application Toolbar"
+        ]
+    },
+    {
+        "q": "Match the SAP module acronym to its full name.",
+        "type": "memory",
+        "pairs": {
+            "FI": "Financial Accounting",
+            "CO": "Controlling",
+            "MM": "Materials Management",
+            "SD": "Sales and Distribution"
+        }
+    },
+    {
+        "q": "The General Ledger (GL) in SAP contains only the balance sheet accounts, not profit and loss accounts.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Master Data in SAP is typically categorized into Customer, Vendor, and ______ Master.",
+        "type": "fill_blank",
+        "answers": [
+            "Material"
+        ],
+        "other_options": [
+            "Employee",
+            "Asset",
+            "Project",
+            "Quality"
+        ]
+    },
+    {
+        "q": "Which of the following best describes a 'Client' in SAP architecture?",
+        "type": "mcq",
+        "o": [
+            "A logically isolated unit within an SAP system with its own master data",
+            "A desktop computer accessing the server",
+            "A specific user's login profile",
+            "A network firewall rule"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a standard SAP ERP module?",
+        "type": "odd_one_out",
+        "options": [
+            "Materials Management",
+            "Sales and Distribution",
+            "Social Media Marketing",
+            "Human Capital Management",
+            "Production Planning"
+        ],
+        "correct": "Social Media Marketing"
+    },
+    {
+        "q": "What is the name of the central data structure in SAP FI that records all accounting transactions by account?",
+        "type": "short_answer",
+        "answers": [
+            "General Ledger",
+            "G/L",
+            "GL"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "SAP SD deals with sales, shipping, and billing of products and services.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which organizational level is responsible for the procurement activities within a specific material?",
+        "type": "mcq",
+        "o": [
+            "Purchasing Organization",
+            "Purchasing Group",
+            "Company Code",
+            "Storage Location"
+        ]
+    },
+    {
+        "q": "Which SAP module supports Human Capital Management functions like payroll and recruitment?",
+        "type": "mcq",
+        "o": [
+            "SAP HCM",
+            "SAP CRM",
+            "SAP SRM",
+            "SAP QM"
+        ]
+    },
+    {
+        "q": "The SAP system operates on a ______-tier architecture consisting of Presentation, Application, and Database layers.",
+        "type": "fill_blank",
+        "answers": [
+            "three"
+        ],
+        "other_options": [
+            "two",
+            "four",
+            "single",
+            "five"
+        ]
+    },
+    {
+        "q": "What does 'FICO' stand for in the context of SAP modules?",
+        "type": "mcq",
+        "o": [
+            "Finance and Controlling",
+            "Financial Compliance",
+            "Fixed Input Cost Order",
+            "Final Invoice Cycle Operation"
+        ]
+    },
+    {
+        "q": "Match the SAP navigation icons with their function:",
+        "type": "match",
+        "left": [
+            "Enter",
+            "Save",
+            "Back",
+            "Exit",
+            "Cancel"
+        ],
+        "right": [
+            "Execute a function",
+            "Save changes",
+            "Return to previous screen",
+            "Exit current transaction",
+            "Cancel current action without saving"
+        ]
+    },
+    {
+        "q": "Classify the following data types as Master Data or Transactional Data.",
+        "type": "swipe_cards",
+        "left_label": "Master Data",
+        "right_label": "Transactional Data",
+        "cards": {
+            "Customer Record": "left",
+            "Sales Order": "right",
+            "Vendor Profile": "left",
+            "Payment Receipt": "right",
+            "Material Details": "left"
+        }
+    },
+    {
+        "q": "Which type of master record stores all the data necessary for processing purchase transactions with a specific external supplier?",
+        "type": "mcq",
+        "o": [
+            "Vendor Master",
+            "Customer Master",
+            "Material Master",
+            "Asset Master"
+        ]
+    },
+    {
+        "q": "SAP stands for 'Standard Application for Programming'.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The ______ module in SAP allows companies to track their internal costs and profitability.",
+        "type": "fill_blank",
+        "answers": [
+            "Controlling",
+            "CO"
+        ],
+        "other_options": [
+            "Financial Accounting",
+            "Treasury",
+            "Sales",
+            "Inventory"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a core component of SAP Financial Accounting (FI)?",
+        "type": "mcq",
+        "o": [
+            "Production Costing",
+            "General Ledger Accounting",
+            "Accounts Payable",
+            "Asset Accounting"
+        ]
+    },
+    {
+        "q": "What is the transaction code used to display an overview of all SAP modules installed in the system?",
+        "type": "short_answer",
+        "answers": [
+            "SPRO"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Unscramble the acronym for Enterprise Resource Planning.",
+        "type": "word_scramble",
+        "answer": "ERP",
+        "decoys": "ZQX"
+    },
+    {
+        "q": "Which SAP module handles the recording and control of fixed assets like machinery and buildings?",
+        "type": "mcq",
+        "o": [
+            "SAP FI-AA",
+            "SAP CO-PC",
+            "SAP SD",
+            "SAP WM"
+        ]
+    },
+    {
+        "q": "In SAP navigation, a ______ is a sequence of screens grouped to complete a specific business task.",
+        "type": "fill_blank",
+        "answers": [
+            "transaction"
+        ],
+        "other_options": [
+            "report",
+            "session",
+            "module",
+            "object"
+        ]
+    },
+    {
+        "q": "What is the client in SAP typically represented by?",
+        "type": "mcq",
+        "o": [
+            "A three-digit number",
+            "A five-letter code",
+            "An IP address",
+            "A ten-digit account number"
+        ]
+    },
+    {
+        "q": "Match the following SAP FI sub-modules with their primary focus:",
+        "type": "match",
+        "left": [
+            "FI-AP",
+            "FI-AR",
+            "FI-AA",
+            "FI-GL"
+        ],
+        "right": [
+            "Vendor Accounts",
+            "Customer Accounts",
+            "Fixed Assets",
+            "General Ledger"
+        ]
+    },
+    {
+        "q": "Which navigation key do you press to verify entries and proceed in SAP GUI?",
+        "type": "mcq",
+        "o": [
+            "Enter",
+            "F1",
+            "F4",
+            "Escape"
+        ]
+    },
+    {
+        "q": "In the Accounts Payable sub-module, the primary master data object is the ______ Master.",
+        "type": "fill_blank",
+        "answers": [
+            "Vendor"
+        ],
+        "other_options": [
+            "Customer",
+            "Material",
+            "Employee",
+            "Bank"
+        ]
+    },
+    {
+        "q": "The Controlling module in SAP is used primarily for statutory tax reporting.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which function key or button in SAP GUI is used to display possible entries or a list of values for a field?",
+        "type": "mcq",
+        "o": [
+            "F4",
+            "F1",
+            "F3",
+            "F12"
+        ]
+    },
+    {
+        "q": "What is the term for a unique identifier assigned to each employee in a company code for expense posting?",
+        "type": "short_answer",
+        "answers": [
+            "Personnel Number",
+            "PERNR"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In SAP ERP, a Plant is an organizational unit where materials are produced or goods and services are provided.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble the name of SAP's proprietary in-memory database.",
+        "type": "word_scramble",
+        "answer": "HANA",
+        "decoys": "BKM"
+    },
+    {
+        "q": "Which of the following best describes a Chart of Accounts?",
+        "type": "mcq",
+        "o": [
+            "A list of all G/L account master records used by a company code",
+            "A graphical representation of the company hierarchy",
+            "A report showing all customer invoices",
+            "A list of all vendors"
+        ]
+    },
+    {
+        "q": "The SAP Easy Access Menu structure is unique for every user and cannot be customized.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the highest organizational level in SAP that contains the entire business entity?",
+        "type": "mcq",
+        "o": [
+            "Client",
+            "Company Code",
+            "Controlling Area",
+            "Plant"
+        ]
+    },
+    {
+        "q": "The ______ Master record contains information about products a company buys, manufactures, or sells.",
+        "type": "fill_blank",
+        "answers": [
+            "Material"
+        ],
+        "other_options": [
+            "Vendor",
+            "Customer",
+            "General Ledger",
+            "Service"
+        ]
+    },
+    {
+        "q": "In SAP FI, the Accounts Receivable (AR) module is specifically designed to manage relationships with ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Customers"
+        ],
+        "other_options": [
+            "Vendors",
+            "Employees",
+            "Banks",
+            "Government"
+        ]
+    },
+    {
+        "q": "Match the following terms with their descriptions:",
+        "type": "match",
+        "left": [
+            "Client",
+            "Company Code",
+            "Plant",
+            "Storage Location"
+        ],
+        "right": [
+            "Highest independent unit",
+            "Legal entity for financials",
+            "Production or service facility",
+            "Subdivision of a plant"
+        ]
+    },
+    {
+        "q": "SAP architecture tiers explanation.",
+        "type": "inline_dropdown",
+        "text": "SAP R/3 is based on a [0]-tier architecture, consisting of the Presentation, [1], and Database layers.",
+        "dropdowns": [
+            {
+                "correct": "three",
+                "options": [
+                    "one",
+                    "two",
+                    "three"
+                ]
+            },
+            {
+                "correct": "Application",
+                "options": [
+                    "Network",
+                    "Application",
+                    "Security"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "SAP HANA is primarily a relational database management system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which module within SAP ERP provides real-time integration with Production Planning (PP)?",
+        "type": "mcq",
+        "o": [
+            "SAP CO",
+            "SAP FI-GL",
+            "SAP HR",
+            "SAP PS"
+        ]
+    },
+    {
+        "q": "What is the full form of GUI in SAP GUI?",
+        "type": "short_answer",
+        "answers": [
+            "Graphical User Interface"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the term for the area in SAP that stores system-wide configuration and customization settings?",
+        "type": "mcq",
+        "o": [
+            "Implementation Guide (IMG)",
+            "Master Data Repository",
+            "User Menu",
+            "Application Toolbar"
+        ]
+    },
+    {
+        "q": "Identify the core ERP products.",
+        "type": "inline_dropdown",
+        "text": "The core ERP system before SAP S/4HANA was known as SAP [0]. S/4HANA runs exclusively on the [1] database.",
+        "dropdowns": [
+            {
+                "correct": "ECC",
+                "options": [
+                    "CRM",
+                    "ECC",
+                    "SRM"
+                ]
+            },
+            {
+                "correct": "HANA",
+                "options": [
+                    "Oracle",
+                    "HANA",
+                    "SQL Server"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which field in a G/L account master record determines whether it is a P&L account or a Balance Sheet account?",
+        "type": "mcq",
+        "o": [
+            "Account Group",
+            "Account Number",
+            "Valuation Class",
+            "Posting Key"
+        ]
+    },
+    {
+        "q": "In SAP, a Customer Master Record contains data organized into General Data, Company Code Data, and ______ Data.",
+        "type": "fill_blank",
+        "answers": [
+            "Sales Area"
+        ],
+        "other_options": [
+            "Purchasing",
+            "Warehouse",
+            "Plant",
+            "Controlling"
+        ]
+    },
+    {
+        "q": "A 'Segment' in the context of SAP Master Data is a component of a Profit Center.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which SAP ERP module is responsible for planning, scheduling, and monitoring the entire production process?",
+        "type": "mcq",
+        "o": [
+            "SAP PP",
+            "SAP QM",
+            "SAP MM",
+            "SAP WM"
+        ]
+    },
+    {
+        "q": "Match the SAP software version to its characteristic.",
+        "type": "memory",
+        "pairs": {
+            "R/2": "Mainframe based system",
+            "R/3": "Client-server architecture",
+            "ECC": "Central component of Business Suite",
+            "S/4HANA": "In-memory computing ERP"
+        }
+    },
+    {
+        "q": "Match the SAP ERP modules with their core function:",
+        "type": "match",
+        "left": [
+            "QM",
+            "PM",
+            "HR",
+            "PS"
+        ],
+        "right": [
+            "Quality Inspection",
+            "Maintenance of Equipment",
+            "Employee Lifecycle",
+            "Large-Scale Projects"
+        ]
+    },
+    {
+        "q": "What is the common transaction code for creating a new session or window in SAP?",
+        "type": "short_answer",
+        "answers": [
+            "/n",
+            "/o"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "The function key F1 in SAP is the standard help key for context-sensitive documentation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which organizational unit is the central reporting and planning entity for management accounting?",
+        "type": "mcq",
+        "o": [
+            "Controlling Area",
+            "Company Code",
+            "Business Area",
+            "Client"
+        ]
+    },
+    {
+        "q": "What is the name of the process used to close temporary accounts to retained earnings at year-end?",
+        "type": "mcq",
+        "o": [
+            "Balance Carryforward",
+            "Depreciation Run",
+            "Payment Program",
+            "Settlement"
+        ]
+    },
+    {
+        "q": "A document is the central record of a business transaction in SAP FI.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Categorize SAP R/3 architecture components.",
+        "type": "swipe_cards",
+        "left_label": "Presentation",
+        "right_label": "Database",
+        "cards": {
+            "SAP GUI": "left",
+            "Data files": "right",
+            "Fiori Launchpad": "left",
+            "Log files": "right"
+        }
+    },
+    {
+        "q": "The ______ is the standard field used to filter reports for a specific legal entity in SAP FI.",
+        "type": "fill_blank",
+        "answers": [
+            "Company Code"
+        ],
+        "other_options": [
+            "Client",
+            "Profit Center",
+            "Segment",
+            "Chart of Accounts"
+        ]
+    },
+    {
+        "q": "What is the default maximum number of external sessions a user can open in SAP GUI?",
+        "type": "slider",
+        "min": 2,
+        "max": 10,
+        "correct": 6
+    },
+    {
+        "q": "Which of the following is a characteristic of Real-time Integration in SAP?",
+        "type": "mcq",
+        "o": [
+            "Data entered once is updated across all relevant modules instantly",
+            "Data is transferred once a day between modules",
+            "Different modules work independently without sharing data",
+            "Only FI and CO modules share data"
+        ]
+    },
+    {
+        "q": "What is the title of the line at the top of the SAP GUI window that displays the current transaction code?",
+        "type": "short_answer",
+        "answers": [
+            "Title Bar"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Match the SAP command field shortcut to its function.",
+        "type": "memory",
+        "pairs": {
+            "/n": "End current transaction and start a new one",
+            "/o": "Open a new session",
+            "/i": "Close current session",
+            "/nend": "Log off from the system"
+        }
+    },
+    {
+        "q": "In SAP MM, a Purchase Requisition is a formal request to procure a certain material or service.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which sub-module of FI handles the management of bank accounts and cash flows?",
+        "type": "mcq",
+        "o": [
+            "FI-TR (Treasury)",
+            "FI-AA",
+            "FI-AP",
+            "FI-TV"
+        ]
+    },
+    {
+        "q": "Which of these is NOT a valid SAP command prefix used in the command field?",
+        "type": "odd_one_out",
+        "options": [
+            "/n",
+            "/o",
+            "/i",
+            "/x",
+            "/nex"
+        ],
+        "correct": "/x"
+    },
+    {
+        "q": "Match the master data type with the module that primarily maintains it:",
+        "type": "match",
+        "left": [
+            "Customer Master",
+            "Material Master",
+            "Asset Master",
+            "Cost Center"
+        ],
+        "right": [
+            "SD",
+            "MM",
+            "FI-AA",
+            "CO"
+        ]
+    },
+    {
+        "q": "The Vendor Master general data is valid for all company codes and purchasing organizations.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Categorize the interface features into SAP GUI vs SAP Fiori.",
+        "type": "swipe_cards",
+        "left_label": "SAP GUI",
+        "right_label": "SAP Fiori",
+        "cards": {
+            "Transaction Codes": "left",
+            "Tiles and Apps": "right",
+            "Desktop Installation": "left",
+            "Web Browser Based": "right",
+            "Role-based design": "right"
+        }
+    },
+    {
+        "q": "What is the standard field status in a G/L account master that controls whether a cost center entry is required?",
+        "type": "mcq",
+        "o": [
+            "Field Status Group",
+            "Account Group",
+            "Valuation Class",
+            "Sort Key"
+        ]
+    },
+    {
+        "q": "In the Customer Master, the Reconciliation Account is maintained in which data segment?",
+        "type": "mcq",
+        "o": [
+            "Company Code Data",
+            "General Data",
+            "Sales Area Data",
+            "Plant Data"
+        ]
+    },
+    {
+        "q": "The ______ is a unique identifier used to group similar G/L accounts, for example, 'Material Stocks' or 'Bank Accounts'.",
+        "type": "fill_blank",
+        "answers": [
+            "Account Group"
+        ],
+        "other_options": [
+            "Account Type",
+            "Posting Key",
+            "Document Type",
+            "Valuation Class"
+        ]
+    },
+    {
+        "q": "What does the transaction code 'FS00' primarily deal with?",
+        "type": "mcq",
+        "o": [
+            "G/L Account Master Data",
+            "Vendor Master Data",
+            "Customer Master Data",
+            "Profit Center Master Data"
+        ]
+    },
+    {
+        "q": "Unscramble the term for the desktop client used to connect to SAP.",
+        "type": "word_scramble",
+        "answer": "GUI",
+        "decoys": "VLT"
+    },
+    {
+        "q": "The F4 key in SAP is used to cancel a transaction immediately.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following best describes a 'Posting Key' in SAP FI?",
+        "type": "mcq",
+        "o": [
+            "A two-digit code controlling whether a line item is debit or credit",
+            "A key used to lock a period for posting",
+            "A password to access the G/L",
+            "A number identifying the currency"
+        ]
+    },
+    {
+        "q": "What is the term for a reconciliation account that represents a customer sub-ledger in the General Ledger?",
+        "type": "short_answer",
+        "answers": [
+            "Reconciliation Account",
+            "Control Account"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "SAP's 'New GL' functionality includes the concept of integrating Profit Center Accounting directly with the General Ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The Accounts Payable module tracks money owed by ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Vendors"
+        ],
+        "other_options": [
+            "Customers",
+            "Employees",
+            "Banks",
+            "Shareholders"
+        ]
+    },
+    {
+        "q": "Unscramble the T-code used for SAP configuration and customizing.",
+        "type": "word_scramble",
+        "answer": "SPRO",
+        "decoys": "JWY"
+    },
+    {
+        "q": "Which area in the SAP GUI contains buttons like 'Save', 'Back', and 'Cancel'?",
+        "type": "mcq",
+        "o": [
+            "Standard Toolbar",
+            "Menu Bar",
+            "Status Bar",
+            "Title Bar"
+        ]
+    },
+    {
+        "q": "Match the following transaction codes with their function:",
+        "type": "match",
+        "left": [
+            "FK01",
+            "FD01",
+            "FS00",
+            "F-02"
+        ],
+        "right": [
+            "Create Vendor",
+            "Create Customer",
+            "Edit G/L Account",
+            "General Posting"
+        ]
+    },
+    {
+        "q": "In SAP, 'Parking' a document means it is completely posted to the General Ledger.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which module provides work centers, routings, and Bills of Material (BOM) as master data elements?",
+        "type": "mcq",
+        "o": [
+            "SAP PP",
+            "SAP CO",
+            "SAP SD",
+            "SAP HR"
+        ]
+    },
+    {
+        "q": "What is the term for the central core that ensures data consistency across different SAP modules?",
+        "type": "mcq",
+        "o": [
+            "SAP NetWeaver",
+            "SAP Fiori",
+            "SAP Cloud Platform",
+            "SAP Ariba"
+        ]
+    },
+    {
+        "q": "The feature in SAP that suggests possible entries as you type in a field is called ______ Help.",
+        "type": "fill_blank",
+        "answers": [
+            "Input"
+        ],
+        "other_options": [
+            "Search",
+            "Dropdown",
+            "Quick",
+            "Dynamic"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a main component of a Business Process in SAP?",
+        "type": "mcq",
+        "o": [
+            "Sales Tax Return",
+            "Procure to Pay",
+            "Order to Cash",
+            "Record to Report"
+        ]
+    },
+    {
+        "q": "What does the term 'T-code' refer to in SAP?",
+        "type": "short_answer",
+        "answers": [
+            "Transaction Code"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is the correct path to end a current session without leaving SAP?",
+        "type": "mcq",
+        "o": [
+            "System -> End Session",
+            "Transaction -> Cancel",
+            "User -> Log Off",
+            "Help -> Exit"
+        ]
+    },
+    {
+        "q": "A 'Batch' in SAP is a subset of a material that is managed separately from other subsets of the same material.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Identify the primary SAP menus.",
+        "type": "inline_dropdown",
+        "text": "End users typically use the SAP [0] menu to run daily transactions, while consultants use the [1] to configure the system.",
+        "dropdowns": [
+            {
+                "correct": "Easy Access",
+                "options": [
+                    "Easy Access",
+                    "IMG",
+                    "Basis"
+                ]
+            },
+            {
+                "correct": "IMG",
+                "options": [
+                    "Fiori",
+                    "IMG",
+                    "ABAP"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the term for the master record that defines a department or unit where costs are incurred?",
+        "type": "mcq",
+        "o": [
+            "Cost Center",
+            "Profit Center",
+            "Cost Element",
+            "Internal Order"
+        ]
+    },
+    {
+        "q": "The Chart of ______ is the highest node in the standard hierarchy in Controlling for internal management reporting.",
+        "type": "fill_blank",
+        "answers": [
+            "Accounts"
+        ],
+        "other_options": [
+            "Depreciation",
+            "Tax",
+            "Payables",
+            "Receivables"
+        ]
+    },
+    {
+        "q": "Match the SAP FICO term with its definition:",
+        "type": "match",
+        "left": [
+            "Cost Element",
+            "Cost Center",
+            "Profit Center",
+            "Internal Order"
+        ],
+        "right": [
+            "Tracks nature of cost/revenue",
+            "Unit where costs originate",
+            "Unit for profitability reporting",
+            "Temporary cost collector"
+        ]
+    },
+    {
+        "q": "The User Parameter 'ID' is a field in the SAP toolbar that allows users to set temporary default values.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Complete the navigation sentence.",
+        "type": "inline_dropdown",
+        "text": "To navigate without using the mouse, you enter T-codes in the [0] field. Pressing [1] executes the command.",
+        "dropdowns": [
+            {
+                "correct": "Command",
+                "options": [
+                    "Search",
+                    "Command",
+                    "Menu"
+                ]
+            },
+            {
+                "correct": "Enter",
+                "options": [
+                    "Shift",
+                    "Enter",
+                    "Alt"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which of the following accurately describes the relationship between Company Code and Chart of Accounts?",
+        "type": "mcq",
+        "o": [
+            "One Chart of Accounts can be assigned to multiple Company Codes",
+            "Each Company Code must have its own unique Chart of Accounts",
+            "A Chart of Accounts can only have one Company Code",
+            "There is no relationship between them"
+        ]
+    },
+    {
+        "q": "What is the typical naming convention for a General Ledger Account (for a raw material) to be recorded as an Asset?",
+        "type": "mcq",
+        "o": [
+            "Balance Sheet Account",
+            "P&L Expense Account",
+            "Secondary Cost Element",
+            "Primary Revenue Account"
+        ]
+    },
+    {
+        "q": "Match the SAP search help wildcard symbol to its description.",
+        "type": "memory",
+        "pairs": {
+            "*": "Represents any number of characters",
+            "+": "Represents exactly one character",
+            "F4": "Key to open search help",
+            "F1": "Key for field-level help"
+        }
+    },
+    {
+        "q": "Which transaction code is commonly used to display a customer's balance?",
+        "type": "short_answer",
+        "answers": [
+            "FD10N"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Swipe left for Warning Messages and right for Error Messages in SAP.",
+        "type": "swipe_cards",
+        "left_label": "Warning",
+        "right_label": "Error",
+        "cards": {
+            "Yellow exclamation mark": "left",
+            "Red stop sign": "right",
+            "Allows user to proceed": "left",
+            "Blocks further processing": "right"
+        }
+    },
+    {
+        "q": "The module 'SAP CO-PA' stands for Profitability Analysis.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In SAP SD, the ______ Master record contains customer-specific pricing and shipping details relevant to sales transactions.",
+        "type": "fill_blank",
+        "answers": [
+            "Customer Material Info Record"
+        ],
+        "other_options": [
+            "Customer Master",
+            "Vendor Master",
+            "Info Record",
+            "Sales Order"
+        ]
+    },
+    {
+        "q": "Which area of the SAP GUI system provides an immediate summary of the logged-in user and system connection?",
+        "type": "mcq",
+        "o": [
+            "Status Bar",
+            "Menu Bar",
+            "Title Bar",
+            "Standard Toolbar"
+        ]
+    },
+    {
+        "q": "Match the accounting documents with their posting effect:",
+        "type": "match",
+        "left": [
+            "Invoice Receipt",
+            "Goods Receipt",
+            "Customer Invoice",
+            "Asset Acquisition"
+        ],
+        "right": [
+            "Credit Vendor, Debit Expense",
+            "Debit Stock, Credit GR/IR",
+            "Debit Customer, Credit Revenue",
+            "Debit Asset, Credit Vendor"
+        ]
+    },
+    {
+        "q": "An Internal Order can only be used for a single fiscal year and must be closed at the end.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the standard maximum character length of a Company Code in SAP?",
+        "type": "slider",
+        "min": 2,
+        "max": 8,
+        "correct": 4
+    },
+    {
+        "q": "Match the organizational unit to its primary SAP module.",
+        "type": "memory",
+        "pairs": {
+            "Company Code": "Finance (FI)",
+            "Controlling Area": "Controlling (CO)",
+            "Plant": "Materials Management (MM)",
+            "Sales Organization": "Sales and Distribution (SD)"
+        }
+    },
+    {
+        "q": "Which master data object in the Vendor Master specifies the specific factory or location responsible for procurement?",
+        "type": "mcq",
+        "o": [
+            "Purchasing Organization Data",
+            "Company Code Data",
+            "General Data",
+            "Sales Area Data"
+        ]
+    },
+    {
+        "q": "Which of the following is a crucial validation rule in SAP Master Data related to Vendors?",
+        "type": "mcq",
+        "o": [
+            "Vendor Account Group controls the number range and required fields",
+            "The Vendor Name can be duplicated across clients",
+            "All vendors must have a Material Master",
+            "The Tax Number is mandatory for all vendors"
+        ]
+    },
+    {
+        "q": "What does SAP Fiori provide compared to traditional SAP GUI?",
+        "type": "short_answer",
+        "answers": [
+            "Role-based user interface",
+            "Modern UX"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "A 'Valuation Class' in the Material Master is linked to which master data element in FI to automate account determination?",
+        "type": "mcq",
+        "o": [
+            "G/L Account",
+            "Vendor",
+            "Customer",
+            "Cost Center"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT an organizational unit in the SAP FICO module?",
+        "type": "odd_one_out",
+        "options": [
+            "Company Code",
+            "Business Area",
+            "Operating Concern",
+            "Storage Location",
+            "Controlling Area"
+        ],
+        "correct": "Storage Location"
+    },
+    {
+        "q": "The term 'Credit Control Area' is a mandatory organizational unit for managing ______ Master data in SD.",
+        "type": "fill_blank",
+        "answers": [
+            "Customer"
+        ],
+        "other_options": [
+            "Vendor",
+            "Material",
+            "Employee",
+            "G/L Account"
+        ]
+    },
+    {
+        "q": "Classify the organizational units as Finance/Controlling or Logistics.",
+        "type": "swipe_cards",
+        "left_label": "Finance",
+        "right_label": "Logistics",
+        "cards": {
+            "Company Code": "left",
+            "Plant": "right",
+            "Credit Control Area": "left",
+            "Shipping Point": "right",
+            "Purchasing Organization": "right"
+        }
+    },
+    {
+        "q": "Which of the following transactions usually requires a 'Special G/L Indicator' in SAP FI?",
+        "type": "mcq",
+        "o": [
+            "Down payment to a vendor",
+            "Standard vendor invoice",
+            "Posting a GL cash receipt",
+            "Depreciation posting"
+        ]
+    },
+    {
+        "q": "Which organizational unit in SAP CO is the highest-level entity for cost accounting and can span multiple company codes?",
+        "type": "mcq",
+        "o": [
+            "Controlling Area",
+            "Operating Concern",
+            "Business Area",
+            "Profit Center"
+        ]
+    },
+    {
+        "q": "In SAP FI, a document can have a maximum of how many line items in standard configuration?",
+        "type": "mcq",
+        "o": [
+            "999",
+            "99",
+            "500",
+            "Unlimited"
+        ]
+    },
+    {
+        "q": "What is the primary difference between a Primary Cost Element and a Secondary Cost Element?",
+        "type": "mcq",
+        "o": [
+            "Primary corresponds to P&L G/L accounts; Secondary exists only in CO",
+            "Primary is for balance sheet; Secondary is for profit and loss",
+            "There is no difference",
+            "Secondary is used only in FI"
+        ]
+    },
+    {
+        "q": "Unscramble: The highest level organizational unit in SAP.",
+        "type": "word_scramble",
+        "answer": "CLIENT",
+        "decoys": "XPB"
+    },
+    {
+        "q": "Unscramble: The central organizational unit of production and inventory in SAP MM.",
+        "type": "word_scramble",
+        "answer": "PLANT",
+        "decoys": "WQ"
+    },
+    {
+        "q": "The process of transferring primary costs from FI to CO is called ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Cost Flow",
+            "Real-time Integration"
+        ],
+        "other_options": [
+            "Periodic Posting",
+            "Manual Transfer",
+            "Batch Processing"
+        ]
+    },
+    {
+        "q": "Match the following payment terms with their meaning:",
+        "type": "match",
+        "left": [
+            "Net 30",
+            "2/10 Net 30",
+            "Due Immediately",
+            "End of Month"
+        ],
+        "right": [
+            "Payment in 30 days",
+            "2% discount if paid within 10 days, else full in 30 days",
+            "Payment on receipt",
+            "Payment due on last day of month"
+        ]
+    },
+    {
+        "q": "A Company Code can belong to multiple Controlling Areas.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Identify organizational relationships.",
+        "type": "inline_dropdown",
+        "text": "A single [0] can contain multiple [1] codes, but a company code can only belong to one client.",
+        "dropdowns": [
+            {
+                "correct": "Client",
+                "options": [
+                    "Client",
+                    "Plant",
+                    "System"
+                ]
+            },
+            {
+                "correct": "Company",
+                "options": [
+                    "Company",
+                    "Vendor",
+                    "Material"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which transaction code is used to create a Profit Center master record?",
+        "type": "short_answer",
+        "answers": [
+            "KE51"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "What is the function of the 'Sort Key' field in a G/L account master record?",
+        "type": "mcq",
+        "o": [
+            "Fills the Assignment field automatically during posting",
+            "Determines the account number range",
+            "Sorts the chart of accounts list",
+            "Assigns a tax code"
+        ]
+    },
+    {
+        "q": "In SAP MM, a Goods Receipt for a Purchase Order automatically generates which FI document?",
+        "type": "mcq",
+        "o": [
+            "An accounting document debiting Inventory and crediting GR/IR",
+            "An invoice document",
+            "A goods issue document",
+            "A purchase requisition"
+        ]
+    },
+    {
+        "q": "The Application Toolbar in SAP GUI remains constant across all screens and transactions.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the maximum length of a G/L account number in SAP?",
+        "type": "mcq",
+        "o": [
+            "10 characters",
+            "6 characters",
+            "12 characters",
+            "8 characters"
+        ]
+    },
+    {
+        "q": "The ______ variant controls which fields are displayed, required, optional, or suppressed during document entry.",
+        "type": "fill_blank",
+        "answers": [
+            "Field Status"
+        ],
+        "other_options": [
+            "Posting Period",
+            "Screen Layout",
+            "Document Type",
+            "Account Group"
+        ]
+    },
+    {
+        "q": "Which sub-module of SAP CO focuses on tracking costs related to specific products?",
+        "type": "mcq",
+        "o": [
+            "Product Cost Controlling (CO-PC)",
+            "Cost Center Accounting (CO-CCA)",
+            "Profitability Analysis (CO-PA)",
+            "Overhead Cost Controlling (CO-OM)"
+        ]
+    },
+    {
+        "q": "Differentiate Business Areas and Profit Centers.",
+        "type": "inline_dropdown",
+        "text": "A [0] Area is used for external segment reporting, whereas a [1] Center is used for internal management reporting.",
+        "dropdowns": [
+            {
+                "correct": "Business",
+                "options": [
+                    "Cost",
+                    "Business",
+                    "Controlling"
+                ]
+            },
+            {
+                "correct": "Profit",
+                "options": [
+                    "Cost",
+                    "Profit",
+                    "Credit"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Match the SAP document types with their transaction:",
+        "type": "match",
+        "left": [
+            "SA",
+            "RE",
+            "DA",
+            "RV"
+        ],
+        "right": [
+            "G/L Account Document",
+            "Invoice Receipt",
+            "Customer Document",
+            "Billing Document Transfer"
+        ]
+    },
+    {
+        "q": "What is the term for the rule that determines which G/L accounts are automatically updated during material movements?",
+        "type": "short_answer",
+        "answers": [
+            "Account Determination",
+            "Valuation Class"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "SAP allows the posting of a document with a zero balance (debits do not have to equal credits).",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the entity to its assignment rule in SAP.",
+        "type": "memory",
+        "pairs": {
+            "Company Code to Client": "Many to One",
+            "Plant to Company Code": "Many to One",
+            "Company Code to Controlling Area": "Many to One (or One to One)",
+            "Sales Org to Company Code": "Many to One"
+        }
+    },
+    {
+        "q": "What is the purpose of the 'Account Assignment Category' in a Purchase Requisition?",
+        "type": "mcq",
+        "o": [
+            "Determines which objects (Cost Center, Asset) are charged",
+            "Assigns a vendor to the requisition",
+            "Generates a material master record",
+            "Tracks the physical location of goods"
+        ]
+    },
+    {
+        "q": "Swipe left for Global Master Data and right for Local/Specific Master Data.",
+        "type": "swipe_cards",
+        "left_label": "Global (Client Level)",
+        "right_label": "Local (Company Code Level)",
+        "cards": {
+            "Vendor Address": "left",
+            "Payment Terms for a specific Company": "right",
+            "Material Description": "left",
+            "Reconciliation Account for a vendor": "right"
+        }
+    },
+    {
+        "q": "In FI-AA, the ______ is the planned reduction in the book value of a fixed asset over its useful life.",
+        "type": "fill_blank",
+        "answers": [
+            "Depreciation"
+        ],
+        "other_options": [
+            "Amortization",
+            "Impairment",
+            "Write-off",
+            "Revaluation"
+        ]
+    },
+    {
+        "q": "Which of the following is a standard SAP Currency Type?",
+        "type": "mcq",
+        "o": [
+            "Company Code Currency",
+            "Hard Currency",
+            "Soft Currency",
+            "Group Valuation Currency"
+        ]
+    },
+    {
+        "q": "What is the technical name for the SAP table that stores all FI document line items?",
+        "type": "mcq",
+        "o": [
+            "BSEG",
+            "BKPF",
+            "BSIS",
+            "LFA1"
+        ]
+    },
+    {
+        "q": "A ______ is used to settle costs from an Internal Order to a Cost Center or Asset under construction.",
+        "type": "fill_blank",
+        "answers": [
+            "Settlement Rule"
+        ],
+        "other_options": [
+            "Assessment Cycle",
+            "Distribution Rule",
+            "Posting Key",
+            "Allocation Structure"
+        ]
+    },
+    {
+        "q": "The Document Header table in SAP FI is named BKPF.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a prerequisite for creating a vendor invoice?",
+        "type": "mcq",
+        "o": [
+            "Vendor Master Record must exist",
+            "Sales Order must be created",
+            "Bill of Material must be available",
+            "Production Order must be released"
+        ]
+    },
+    {
+        "q": "What is the maximum number of characters allowed for a Plant code in SAP?",
+        "type": "slider",
+        "min": 2,
+        "max": 6,
+        "correct": 4
+    },
+    {
+        "q": "Match the CO allocation methods with their descriptions:",
+        "type": "match",
+        "left": [
+            "Distribution",
+            "Assessment",
+            "Direct Allocation",
+            "Settlement"
+        ],
+        "right": [
+            "Transfers primary costs based on original cost element",
+            "Transfers costs using secondary cost elements",
+            "Manual posting to a cost object",
+            "Closing out a cost object"
+        ]
+    },
+    {
+        "q": "What transaction code is used to enter a standard vendor invoice in SAP FI?",
+        "type": "short_answer",
+        "answers": [
+            "FB60",
+            "MIRO"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "In SAP SD, what document is created prior to delivery to represent a customer's formal request for goods or services?",
+        "type": "mcq",
+        "o": [
+            "Sales Order",
+            "Inquiry",
+            "Quotation",
+            "Contract"
+        ]
+    },
+    {
+        "q": "Match the Master Data type to its primary purpose.",
+        "type": "memory",
+        "pairs": {
+            "GL Master": "Records accounting transactions",
+            "Vendor Master": "Details about suppliers",
+            "Customer Master": "Details about buyers",
+            "Material Master": "Information on products bought or sold"
+        }
+    },
+    {
+        "q": "A 'Negative Posting' in SAP allows you to reverse a transaction but it will still appear on the wrong side of the trial balance.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which master data record is required to define the relationship between a supplier and a specific material?",
+        "type": "mcq",
+        "o": [
+            "Purchasing Info Record",
+            "Material Master",
+            "Vendor Master",
+            "Source List"
+        ]
+    },
+    {
+        "q": "The ______ key is a two-digit code that determines the type of line item (Debit/Credit) and the screen layout.",
+        "type": "fill_blank",
+        "answers": [
+            "Posting"
+        ],
+        "other_options": [
+            "Account",
+            "Document",
+            "Sort",
+            "Tax"
+        ]
+    },
+    {
+        "q": "Which of the following is a valid method for controlling the fiscal year variant?",
+        "type": "mcq",
+        "o": [
+            "Year-dependent with special periods",
+            "Year-independent with no periods",
+            "Calendar month only",
+            "Week-based"
+        ]
+    },
+    {
+        "q": "Match the SAP FI clearing types:",
+        "type": "match",
+        "left": [
+            "Open Item Clearing",
+            "GR/IR Clearing",
+            "Asset Retirement",
+            "Tax Clearing"
+        ],
+        "right": [
+            "Matching invoice to payment",
+            "Matching receipt to invoice",
+            "Removing asset from books",
+            "Clearing tax payable to tax authority"
+        ]
+    },
+    {
+        "q": "Which of these is NOT a segment of the standard Customer Master Data?",
+        "type": "odd_one_out",
+        "options": [
+            "General Data",
+            "Company Code Data",
+            "Sales Area Data",
+            "Manufacturing Data"
+        ],
+        "correct": "Manufacturing Data"
+    },
+    {
+        "q": "What does the 'Document Type' control in SAP FI?",
+        "type": "mcq",
+        "o": [
+            "Number range, account type allowed, and reversal logic",
+            "The currency of the document",
+            "The posting date",
+            "The vendor master"
+        ]
+    },
+    {
+        "q": "SAP Fiori apps can only be accessed through the SAP GUI desktop client.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the term for the configuration that allows automatic posting of tax amounts during an invoice entry?",
+        "type": "short_answer",
+        "answers": [
+            "Tax Procedure",
+            "Tax Calculation Procedure"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In Controlling, what is the equivalent master data to a G/L account for tracking costs?",
+        "type": "mcq",
+        "o": [
+            "Cost Element",
+            "Cost Center",
+            "Activity Type",
+            "Statistical Key Figure"
+        ]
+    },
+    {
+        "q": "The 'Valuation Area' in SAP determines the level at which materials are valued, usually set at the ______ level.",
+        "type": "fill_blank",
+        "answers": [
+            "Plant"
+        ],
+        "other_options": [
+            "Company Code",
+            "Client",
+            "Storage Location",
+            "Purchasing Org"
+        ]
+    },
+    {
+        "q": "Which FI report provides an overview of all transactions for a specific vendor in a given period?",
+        "type": "mcq",
+        "o": [
+            "FBL1N",
+            "FS10N",
+            "FBL5N",
+            "FAGLL03"
+        ]
+    },
+    {
+        "q": "In SAP, an 'Open Item' is a document that has been fully paid or cleared.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following best describes 'Manual Accruals' in SAP FI?",
+        "type": "mcq",
+        "o": [
+            "Posting entries to recognize expenses/revenues in the correct period without an invoice",
+            "Automatic creation of depreciation",
+            "Clearing of vendor open items",
+            "Payment run configuration"
+        ]
+    },
+    {
+        "q": "Match the SAP locking concepts with their definitions:",
+        "type": "match",
+        "left": [
+            "Exclusive Lock",
+            "Shared Lock",
+            "Enhanced Exclusive Lock"
+        ],
+        "right": [
+            "No other user can access",
+            "Multiple users can read, none write",
+            "No other user can access, even for read"
+        ]
+    },
+    {
+        "q": "The Transaction Code for opening the classic Asset Explorer is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "AW01N"
+        ],
+        "other_options": [
+            "AS01",
+            "AS03",
+            "AS91",
+            "FB03"
+        ]
+    },
+    {
+        "q": "Classify the attributes as belonging to Vendor Master or Customer Master.",
+        "type": "swipe_cards",
+        "left_label": "Vendor",
+        "right_label": "Customer",
+        "cards": {
+            "Purchasing Data segment": "left",
+            "Sales Area Data segment": "right",
+            "Procurement history": "left",
+            "Credit limit usage": "right"
+        }
+    },
+    {
+        "q": "What is the purpose of a 'Reconciliation Account'?",
+        "type": "mcq",
+        "o": [
+            "Connects sub-ledger accounts (e.g., AR, AP) to the General Ledger",
+            "Matches bank statements",
+            "Compares vendor and customer balances",
+            "Reconciles intercompany accounts"
+        ]
+    },
+    {
+        "q": "In SAP navigation, the '/n' prefix followed by a T-code opens a new session.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following is NOT a valid source of data for Profitability Analysis (CO-PA)?",
+        "type": "mcq",
+        "o": [
+            "Fixed Asset Postings",
+            "Sales Orders",
+            "FI Direct Postings",
+            "Cost Center Assessments"
+        ]
+    },
+    {
+        "q": "What is the name of the standard SAP FI report that shows a list of cleared items?",
+        "type": "short_answer",
+        "answers": [
+            "FBL3N",
+            "FBL1N",
+            "FBL5N"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which setting in the Material Master determines the price control (Moving Average or Standard Price)?",
+        "type": "mcq",
+        "o": [
+            "Price Control Indicator",
+            "Valuation Class",
+            "Price Unit",
+            "Material Type"
+        ]
+    },
+    {
+        "q": "The ______ is a tool in SAP CO that allows you to plan and track actual costs against a budget for a specific project or event.",
+        "type": "fill_blank",
+        "answers": [
+            "Internal Order"
+        ],
+        "other_options": [
+            "Cost Center",
+            "Profit Center",
+            "WBS Element",
+            "Network"
+        ]
+    },
+    {
+        "q": "Match the Fiori App types:",
+        "type": "match",
+        "left": [
+            "Transactional",
+            "Analytical",
+            "Fact Sheet"
+        ],
+        "right": [
+            "Create/change data",
+            "Real-time KPIs",
+            "Search and display master data"
+        ]
+    },
+    {
+        "q": "Unscramble: The business partner you purchase goods from.",
+        "type": "word_scramble",
+        "answer": "VENDOR",
+        "decoys": "KXZ"
+    },
+    {
+        "q": "SAP ECC consists only of the Database Layer and the Application Layer.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the role of the 'Valuation Class' in the Material Master?",
+        "type": "mcq",
+        "o": [
+            "Links the material to specific G/L accounts for automatic postings",
+            "Determines the material type",
+            "Calculates the sales price",
+            "Assigns a storage bin"
+        ]
+    },
+    {
+        "q": "Unscramble: The book containing all accounting records.",
+        "type": "word_scramble",
+        "answer": "LEDGER",
+        "decoys": "PM"
+    },
+    {
+        "q": "Which master data object controls the automatic assignment of incoming payments to open invoices?",
+        "type": "mcq",
+        "o": [
+            "Automatic Payment Program Configuration",
+            "Vendor Master",
+            "Customer Master",
+            "House Bank"
+        ]
+    },
+    {
+        "q": "Complete the G/L setup statement.",
+        "type": "inline_dropdown",
+        "text": "The [0] of Accounts contains the definitions of all G/L accounts. It is assigned to the [1] Code.",
+        "dropdowns": [
+            {
+                "correct": "Chart",
+                "options": [
+                    "List",
+                    "Chart",
+                    "Table"
+                ]
+            },
+            {
+                "correct": "Company",
+                "options": [
+                    "Company",
+                    "Client",
+                    "Plant"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The process of 'Dunning' in SAP FI-AR refers to blocking a customer from sales orders.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Explain Field Status.",
+        "type": "inline_dropdown",
+        "text": "The Field [0] Variant determines if a field is required, optional, or [1] during document entry.",
+        "dropdowns": [
+            {
+                "correct": "Status",
+                "options": [
+                    "Status",
+                    "Format",
+                    "Entry"
+                ]
+            },
+            {
+                "correct": "suppressed",
+                "options": [
+                    "highlighted",
+                    "suppressed",
+                    "deleted"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the standard transaction for running the Depreciation Calculation?",
+        "type": "short_answer",
+        "answers": [
+            "AFAB"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Match the Material Master view to its responsible department.",
+        "type": "memory",
+        "pairs": {
+            "Basic Data": "Engineering/Design",
+            "Purchasing": "Procurement",
+            "Accounting": "Finance",
+            "Sales": "Sales Department"
+        }
+    },
+    {
+        "q": "Swipe left for MM Master Data and right for SD Master Data.",
+        "type": "swipe_cards",
+        "left_label": "MM Master Data",
+        "right_label": "SD Master Data",
+        "cards": {
+            "Purchasing Info Record": "left",
+            "Source List": "left",
+            "Customer-Material Info Record": "right",
+            "Pricing Conditions for Sales": "right"
+        }
+    },
+    {
+        "q": "Which element in the SAP CO module represents the work performed by a cost center (e.g., labor hours, machine hours)?",
+        "type": "mcq",
+        "o": [
+            "Activity Type",
+            "Statistical Key Figure",
+            "Cost Element",
+            "Order Type"
+        ]
+    },
+    {
+        "q": "A 'Special G/L Transaction' allows you to post transactions like guarantees or down payments that are managed separately from standard payables/receivables.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The ______ is a list of all possible activity types that can be performed within a controlling area.",
+        "type": "fill_blank",
+        "answers": [
+            "Activity Type Master"
+        ],
+        "other_options": [
+            "Cost Element List",
+            "Standard Hierarchy",
+            "Task List",
+            "Work Center"
+        ]
+    },
+    {
+        "q": "Which field in the FI document controls the currency exchange rate type used for foreign currency postings?",
+        "type": "mcq",
+        "o": [
+            "Exchange Rate Type",
+            "Rate Indicator",
+            "Currency Key",
+            "Valuation Area"
+        ]
+    },
+    {
+        "q": "What is the standard maximum length of a General Ledger (GL) account number?",
+        "type": "slider",
+        "min": 6,
+        "max": 14,
+        "correct": 10
+    },
+    {
+        "q": "Match the SAP versions with their characteristics:",
+        "type": "match",
+        "left": [
+            "ECC",
+            "S/4HANA",
+            "R/3"
+        ],
+        "right": [
+            "Classic ERP core",
+            "Next-gen suite on HANA",
+            "Predecessor to ECC"
+        ]
+    },
+    {
+        "q": "Match the standard SAP document type to its meaning.",
+        "type": "memory",
+        "pairs": {
+            "SA": "G/L Account Document",
+            "KR": "Vendor Invoice",
+            "KZ": "Vendor Payment",
+            "DR": "Customer Invoice",
+            "DZ": "Customer Payment"
+        }
+    },
+    {
+        "q": "Which of these is NOT a standard type of Fiscal Year Variant in SAP?",
+        "type": "odd_one_out",
+        "options": [
+            "Year-dependent",
+            "Year-independent",
+            "Calendar year",
+            "Lunar year"
+        ],
+        "correct": "Lunar year"
+    },
+    {
+        "q": "In SAP SD, which document updates the General Ledger directly regarding Inventory and Cost of Goods Sold?",
+        "type": "mcq",
+        "o": [
+            "Goods Issue",
+            "Sales Order",
+            "Delivery",
+            "Quotation"
+        ]
+    },
+    {
+        "q": "The 'P&L Statement' report in SAP can be executed using transaction code ______.",
+        "type": "fill_blank",
+        "answers": [
+            "FAGLL03",
+            "FS10N",
+            "F.01"
+        ],
+        "other_options": [
+            "FB01",
+            "FS00",
+            "FK01",
+            "MM01"
+        ]
+    },
+    {
+        "q": "What does the term 'Cutover' refer to in an SAP implementation project?",
+        "type": "mcq",
+        "o": [
+            "The process of transitioning from a legacy system to SAP",
+            "The addition of new modules",
+            "The annual year-end close",
+            "A system upgrade"
+        ]
+    },
+    {
+        "q": "The SAP screen that lists all open documents for an account is often called the 'Item Display'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a required step when setting up a House Bank in SAP FI?",
+        "type": "mcq",
+        "o": [
+            "Defining the Bank Account ID and G/L Account",
+            "Creating a Material Master for checks",
+            "Setting up a Customer Master for the bank",
+            "Configuring a Purchasing Organization"
+        ]
+    },
+    {
+        "q": "What is the main purpose of the 'Matchcode' function in SAP?",
+        "type": "short_answer",
+        "answers": [
+            "Search Help",
+            "Find records by criteria"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the technical term for the unique internal number assigned to every FI document in SAP?",
+        "type": "mcq",
+        "o": [
+            "BelNR (Document Number)",
+            "Gjahr (Fiscal Year)",
+            "Belnr",
+            "DocID"
+        ]
+    },
+    {
+        "q": "Match the GL Account types with examples:",
+        "type": "match",
+        "left": [
+            "Reconciliation",
+            "Secondary Cost Element",
+            "Non-Operating Expense",
+            "Cash Account"
+        ],
+        "right": [
+            "Accounts Receivable",
+            "Assessment Cost",
+            "Interest Expense",
+            "Bank Ledger"
+        ]
+    },
+    {
+        "q": "Identify if the posting key represents a Debit or a Credit.",
+        "type": "swipe_cards",
+        "left_label": "Debit",
+        "right_label": "Credit",
+        "cards": {
+            "40 (GL)": "left",
+            "50 (GL)": "right",
+            "01 (Customer Invoice)": "left",
+            "31 (Vendor Invoice)": "right"
+        }
+    },
+    {
+        "q": "In SAP MM, a 'Source List' defines valid suppliers for a material over a given time frame.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the name of the standard evaluation area in Controlling that uses the base accounting principle?",
+        "type": "mcq",
+        "o": [
+            "Legal Valuation",
+            "Group Valuation",
+            "Profit Center Valuation",
+            "Transfer Pricing"
+        ]
+    },
+    {
+        "q": "Unscramble: An economic resource owned by a company.",
+        "type": "word_scramble",
+        "answer": "ASSET",
+        "decoys": "LQJ"
+    },
+    {
+        "q": "The ______ is the default transaction code for posting a manual outgoing payment in FI-AP.",
+        "type": "fill_blank",
+        "answers": [
+            "F-53",
+            "FBZP"
+        ],
+        "other_options": [
+            "F-02",
+            "FB60",
+            "FB01",
+            "F110"
+        ]
+    },
+    {
+        "q": "Which layer of the SAP architecture is responsible for handling user input?",
+        "type": "mcq",
+        "o": [
+            "Presentation Layer",
+            "Application Layer",
+            "Database Layer",
+            "Integration Layer"
+        ]
+    },
+    {
+        "q": "The 'Application Toolbar' changes dynamically depending on the current screen context.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble: An accounting entry that increases an asset.",
+        "type": "word_scramble",
+        "answer": "DEBIT",
+        "decoys": "XV"
+    },
+    {
+        "q": "What is the term for an operational unit in SAP CO that is used to track expenses and revenues related to a specific geographic region or product line?",
+        "type": "short_answer",
+        "answers": [
+            "Profit Center"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following represents an 'Organizational Assignment' in the Vendor Master?",
+        "type": "mcq",
+        "o": [
+            "Assigning a Vendor to a Company Code and Purchasing Organization",
+            "Assigning a vendor to a material",
+            "Assigning a vendor to a sales order",
+            "Assigning a vendor to a user profile"
+        ]
+    },
+    {
+        "q": "Describe item management.",
+        "type": "inline_dropdown",
+        "text": "[0] item management is used for clearing accounts like GR/IR, while [1] item display only shows the balance.",
+        "dropdowns": [
+            {
+                "correct": "Open",
+                "options": [
+                    "Open",
+                    "Closed",
+                    "Archived"
+                ]
+            },
+            {
+                "correct": "Line",
+                "options": [
+                    "Line",
+                    "Header",
+                    "Summary"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "In Asset Accounting, the ______ specifies the percentage of asset value written off annually.",
+        "type": "fill_blank",
+        "answers": [
+            "Depreciation Key"
+        ],
+        "other_options": [
+            "Useful Life",
+            "Scrap Value",
+            "Index Series",
+            "Asset Class"
+        ]
+    },
+    {
+        "q": "Which of the following best describes 'Substitution' in SAP FI validation?",
+        "type": "mcq",
+        "o": [
+            "Replacing a field value during data entry based on predefined rules",
+            "Checking if a field value is correct",
+            "Blocking a transaction",
+            "Generating a new document number"
+        ]
+    },
+    {
+        "q": "Match the batch processes with their modules:",
+        "type": "match",
+        "left": [
+            "Payment Program",
+            "Depreciation Run",
+            "Dunning Run",
+            "MRP Run"
+        ],
+        "right": [
+            "FI-AP",
+            "FI-AA",
+            "FI-AR",
+            "MM/PP"
+        ]
+    },
+    {
+        "q": "SAP S/4HANA only runs on SAP's own proprietary cloud infrastructure.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which field in the customer master is used to map the Account Receivable sub-ledger to the General Ledger?",
+        "type": "mcq",
+        "o": [
+            "Reconciliation Account",
+            "Sort Key",
+            "Account Group",
+            "Interest Indicator"
+        ]
+    },
+    {
+        "q": "What is the transaction code for executing the Automatic Payment Program?",
+        "type": "short_answer",
+        "answers": [
+            "F110"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "A 'Business Area' in SAP FI is used for external statutory reporting and is legally required.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following is NOT a component of the Procure-to-Pay process in SAP?",
+        "type": "mcq",
+        "o": [
+            "Billing Document",
+            "Purchase Requisition",
+            "Goods Receipt",
+            "Invoice Verification"
+        ]
+    },
+    {
+        "q": "Explain Posting Periods.",
+        "type": "inline_dropdown",
+        "text": "To control when postings can be made, you use Posting [0] Variants. You can open and close [1] to prevent backdated entries.",
+        "dropdowns": [
+            {
+                "correct": "Period",
+                "options": [
+                    "Date",
+                    "Period",
+                    "Time"
+                ]
+            },
+            {
+                "correct": "periods",
+                "options": [
+                    "ledgers",
+                    "periods",
+                    "years"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The 'Line Item Display' report in FI shows all individual transactions posted to an account.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the standard term for a document that has errors, is temporarily saved, and can be edited before final posting?",
+        "type": "mcq",
+        "o": [
+            "Parked Document",
+            "Held Document",
+            "Draft Document",
+            "Pending Document"
+        ]
+    },
+    {
+        "q": "The ______ code is used in the FI document to automatically calculate sales tax or VAT.",
+        "type": "fill_blank",
+        "answers": [
+            "Tax"
+        ],
+        "other_options": [
+            "Posting",
+            "Account",
+            "Currency",
+            "Region"
+        ]
+    },
+    {
+        "q": "Match the organizational units with their core function:",
+        "type": "match",
+        "left": [
+            "Plant",
+            "Storage Location",
+            "Warehouse Number",
+            "Shipping Point"
+        ],
+        "right": [
+            "Production/Inventory location",
+            "Sub-inventory within plant",
+            "Complex warehouse management",
+            "Logistics departure point"
+        ]
+    },
+    {
+        "q": "Which SAP reporting tool offers drill-down capabilities and multi-dimensional analysis primarily for CO-PA?",
+        "type": "mcq",
+        "o": [
+            "Report Painter",
+            "SE16",
+            "SE38",
+            "SAP Query"
+        ]
+    },
+    {
+        "q": "Match the Special G/L transaction to its indicator.",
+        "type": "memory",
+        "pairs": {
+            "Down Payment Request": "F",
+            "Down Payment Made": "A",
+            "Guarantee": "G",
+            "Bill of Exchange": "W"
+        }
+    },
+    {
+        "q": "The General Ledger View in the Material Master is maintained at the Company Code level.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the technical name for the table that stores master record text in SAP?",
+        "type": "short_answer",
+        "answers": [
+            "STXH",
+            "STXL"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which CO component is specifically designed to track costs and revenues for a specific marketing campaign?",
+        "type": "mcq",
+        "o": [
+            "Profitability Segment",
+            "Internal Order",
+            "Cost Center",
+            "Process Cost Center"
+        ]
+    },
+    {
+        "q": "In SAP navigation, the transaction code '/n' ends the current session.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The 'Screen Painter' tool in ABAP is used to modify the ______ of SAP transactions.",
+        "type": "fill_blank",
+        "answers": [
+            "Layout",
+            "GUI"
+        ],
+        "other_options": [
+            "Logic",
+            "Database table",
+            "Authorization",
+            "Transport"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of the 'New General Ledger Accounting' in SAP compared to the Classic GL?",
+        "type": "mcq",
+        "o": [
+            "Parallel Accounting and integrated Profit Center Accounting in the GL",
+            "Faster document posting only",
+            "Replacing Accounts Payable",
+            "Eliminating the need for a Chart of Accounts"
+        ]
+    },
+    {
+        "q": "Which technical table stores the G/L account balance totals in the New GL?",
+        "type": "mcq",
+        "o": [
+            "FAGLFLEXT",
+            "GLT0",
+            "BSIS",
+            "BSEG"
+        ]
+    },
+    {
+        "q": "Classify the accounts as Balance Sheet or Profit & Loss (P&L).",
+        "type": "swipe_cards",
+        "left_label": "Balance Sheet",
+        "right_label": "P&L",
+        "cards": {
+            "Cash Account": "left",
+            "Salary Expense": "right",
+            "Accounts Payable": "left",
+            "Sales Revenue": "right"
+        }
+    },
+    {
+        "q": "In Profit Center Accounting, the transfer price solution for inter-profit-center goods movements is configured using ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Transfer Pricing Variant"
+        ],
+        "other_options": [
+            "Allocation Structure",
+            "Settlement Profile",
+            "Costing Sheet",
+            "Condition Type"
+        ]
+    },
+    {
+        "q": "Match the following New GL specific ledgers with their function:",
+        "type": "match",
+        "left": [
+            "Leading Ledger",
+            "Non-Leading Ledger",
+            "Extension Ledger"
+        ],
+        "right": [
+            "Primary accounting principle (e.g., IFRS)",
+            "Alternative accounting principle (e.g., Local GAAP)",
+            "Adds adjustment postings to a base ledger"
+        ]
+    },
+    {
+        "q": "What is the standard numerical Posting Key used for a Vendor Invoice (Credit)?",
+        "type": "slider",
+        "min": 10,
+        "max": 50,
+        "correct": 31
+    },
+    {
+        "q": "SAP S/4HANA Finance uses the concept of a 'Universal Journal' to store both FI and CO line items in a single table (ACDOCA).",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the FI transaction code to its purpose.",
+        "type": "memory",
+        "pairs": {
+            "FB50": "G/L account posting",
+            "FB60": "Vendor invoice entry",
+            "FB70": "Customer invoice entry",
+            "F-53": "Post outgoing payments"
+        }
+    },
+    {
+        "q": "What is the function of transaction code 'OBBH' in SAP FI?",
+        "type": "short_answer",
+        "answers": [
+            "Define Substitutions",
+            "Field Substitution"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which of the following correctly describes the 'Document Splitting' feature in the New GL?",
+        "type": "mcq",
+        "o": [
+            "Splits line items by segment or profit center for full balance sheets by dimension",
+            "Breaks a large document into smaller separate documents",
+            "Splits the payment amount across multiple invoices",
+            "Divides the fiscal year into special periods"
+        ]
+    },
+    {
+        "q": "In SAP CO, the allocation cycle that uses primary cost elements to transfer costs is called ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Distribution"
+        ],
+        "other_options": [
+            "Assessment",
+            "Settlement",
+            "Direct Reposting",
+            "Periodic Reposting"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a parameter used in the Dunning process?",
+        "type": "odd_one_out",
+        "options": [
+            "Dunning Level",
+            "Dunning Area",
+            "Dunning Procedure",
+            "Depreciation Key"
+        ],
+        "correct": "Depreciation Key"
+    },
+    {
+        "q": "What is the purpose of 'Result Analysis' in SAP CO?",
+        "type": "mcq",
+        "o": [
+            "Calculating Work in Process (WIP) and Reserves for unrealized revenue on projects",
+            "Analyzing profitability of a product line",
+            "Checking variance between plan and actual costs",
+            "Running depreciation on fixed assets"
+        ]
+    },
+    {
+        "q": "The 'Costing Sheet' in CO-OM determines the calculation of overhead surcharges based on raw, material, or labor costs.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Categorize the terms under Accounts Payable (AP) or Accounts Receivable (AR).",
+        "type": "swipe_cards",
+        "left_label": "AP",
+        "right_label": "AR",
+        "cards": {
+            "Procure to Pay": "left",
+            "Order to Cash": "right",
+            "Outgoing Payments": "left",
+            "Dunning Notices": "right"
+        }
+    },
+    {
+        "q": "Unscramble: The process of reminding customers of overdue payments.",
+        "type": "word_scramble",
+        "answer": "DUNNING",
+        "decoys": "XVQ"
+    },
+    {
+        "q": "Which transaction code is used to define a Segment in SAP?",
+        "type": "mcq",
+        "o": [
+            "SPRO / Enterprise Structure",
+            "FAGL_SEGM",
+            "SE16",
+            "OBBH"
+        ]
+    },
+    {
+        "q": "Match the CO-PC objects with their definition:",
+        "type": "match",
+        "left": [
+            "Costing Variant",
+            "Costing Lot Size",
+            "Cost Component Split",
+            "Transfer Control"
+        ],
+        "right": [
+            "Strategy for cost estimation parameters",
+            "Base quantity for overhead allocation",
+            "Breakdown of product cost into elements",
+            "Passing costs to other objects"
+        ]
+    },
+    {
+        "q": "What is the term for the master record that connects the FI module to the Asset module for procurement?",
+        "type": "short_answer",
+        "answers": [
+            "Asset Class",
+            "Account Determination in FI-AA"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a characteristic of 'Real-Time Integration' between CO and FI in the Universal Journal?",
+        "type": "mcq",
+        "o": [
+            "CO postings are immediately reflected in FI line items without period-end reconciliation",
+            "CO data is only updated during the month-end closing",
+            "CO and FI remain in separate tables",
+            "A batch job is required to transfer costs"
+        ]
+    },
+    {
+        "q": "Unscramble: The transfer of money to settle an invoice.",
+        "type": "word_scramble",
+        "answer": "PAYMENT",
+        "decoys": "ZJ"
+    },
+    {
+        "q": "The 'Letter of Credit' processing is a standard sub-module within SAP FI-Treasury.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In SAP FI, 'Validation' checks whether the data entered in a document conforms to a user-defined Boolean rule, and if it fails, the document is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Rejected",
+            "Blocked"
+        ],
+        "other_options": [
+            "Parked",
+            "Held",
+            "Reversed",
+            "Split"
+        ]
+    },
+    {
+        "q": "Which of the following is a prerequisite for using 'Statistical Key Figures' in Cost Center Accounting?",
+        "type": "mcq",
+        "o": [
+            "Define them as fixed or total values in the master data",
+            "Create a material master record",
+            "Activate New GL",
+            "Set up a profit center"
+        ]
+    },
+    {
+        "q": "What is the primary effect of setting a material's price control to 'V' (Moving Average Price) rather than 'S' (Standard Price)?",
+        "type": "mcq",
+        "o": [
+            "Goods receipts and invoice variances update the material's inventory value",
+            "All inventory is valued at a fixed rate",
+            "Variances are always posted to a price difference account",
+            "It is mandatory for raw materials"
+        ]
+    },
+    {
+        "q": "Match the Treasury transaction codes with their business function:",
+        "type": "match",
+        "left": [
+            "FX Spot",
+            "FX Forward",
+            "Money Market",
+            "Securities"
+        ],
+        "right": [
+            "Immediate currency exchange",
+            "Future dated currency exchange",
+            "Short term borrowing/lending",
+            "Stock and bond trading"
+        ]
+    },
+    {
+        "q": "SAP can only perform Foreign Currency Valuation for open items and cash accounts, not for balance sheet accounts.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the technical name for the Credit Management Update table in SAP S/4HANA?",
+        "type": "short_answer",
+        "answers": [
+            "UKM_S_DCDTIMESTAMPS",
+            "KNKK"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Complete the House Banks definition.",
+        "type": "inline_dropdown",
+        "text": "[0] Banks are the bank accounts that your company code holds. Each is assigned a Bank [1] and Account ID.",
+        "dropdowns": [
+            {
+                "correct": "House",
+                "options": [
+                    "Home",
+                    "House",
+                    "Main"
+                ]
+            },
+            {
+                "correct": "Key",
+                "options": [
+                    "Code",
+                    "Key",
+                    "Lock"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Define Payment Terms.",
+        "type": "inline_dropdown",
+        "text": "Payment [0] define the due date and cash [1] offered for early payment of an invoice.",
+        "dropdowns": [
+            {
+                "correct": "Terms",
+                "options": [
+                    "Terms",
+                    "Rules",
+                    "Methods"
+                ]
+            },
+            {
+                "correct": "discount",
+                "options": [
+                    "discount",
+                    "bonus",
+                    "penalty"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which function in the Payment Program allows grouping of open items by vendor or contract account?",
+        "type": "mcq",
+        "o": [
+            "Grouping Key",
+            "Sort Key",
+            "Dunning Key",
+            "Clearing Key"
+        ]
+    },
+    {
+        "q": "What is the standard maximum character length for a Controlling Area code?",
+        "type": "slider",
+        "min": 2,
+        "max": 6,
+        "correct": 4
+    },
+    {
+        "q": "The 'GR/IR' clearing account is a temporary liability account that reflects goods received but not yet ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Invoiced",
+            "Paid"
+        ],
+        "other_options": [
+            "Shipped",
+            "Returned",
+            "Inspected",
+            "Approved"
+        ]
+    },
+    {
+        "q": "Which of the following reports is crucial for analyzing the cause of differences between the FI General Ledger and the MM Inventory sub-ledger?",
+        "type": "mcq",
+        "o": [
+            "MB5L (List of Stock Values)",
+            "F.01 (Balance Sheet)",
+            "FD10N (Customer Balance)",
+            "FBL1N (Vendor Items)"
+        ]
+    },
+    {
+        "q": "In Profitability Analysis (CO-PA), 'Characteristics' are the objects you want to analyze (e.g., Customer, Product), while '______' are the values tracked (e.g., Revenue, Discounts).",
+        "type": "fill_blank",
+        "answers": [
+            "Value Fields"
+        ],
+        "other_options": [
+            "Key Figures",
+            "Attributes",
+            "Cost Elements",
+            "Nodes"
+        ]
+    },
+    {
+        "q": "Match the dynamic selections in SE16 with their result:",
+        "type": "match",
+        "left": [
+            "EQ",
+            "BT",
+            "CP",
+            "GT"
+        ],
+        "right": [
+            "Equals",
+            "Between",
+            "Contains Pattern",
+            "Greater Than"
+        ]
+    },
+    {
+        "q": "SAP Asset Accounting allows only one depreciation area per company code.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the core integration point that links a Sales Order directly to Production Planning?",
+        "type": "mcq",
+        "o": [
+            "Requirement Type and Requirement Class",
+            "Material Type",
+            "Account Assignment Group",
+            "Shipping Point"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to create a Standard Cost Estimate for a material in CO-PC?",
+        "type": "short_answer",
+        "answers": [
+            "CK11N",
+            "CK40N"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "In SAP, what is the term for the process that automatically determines the G/L accounts for different material movements?",
+        "type": "mcq",
+        "o": [
+            "Automatic Account Determination",
+            "Controlling Integration",
+            "Profitability Analysis",
+            "Settlement"
+        ]
+    },
+    {
+        "q": "The 'Editing Options' in a Report Painter report allow a user to hide zero rows, change decimal places, and add ______ columns.",
+        "type": "fill_blank",
+        "answers": [
+            "Additional"
+        ],
+        "other_options": [
+            "Primary",
+            "Secondary",
+            "Hidden",
+            "Mandatory"
+        ]
+    },
+    {
+        "q": "Which of the following Costing Methods is NOT standard in SAP Product Costing?",
+        "type": "mcq",
+        "o": [
+            "Time-Driven Activity Based Costing",
+            "Standard Cost Estimate",
+            "Mixed Costing",
+            "Actual Costing"
+        ]
+    },
+    {
+        "q": "The 'Business Partner' (BP) concept in SAP S/4HANA unifies Customer and Vendor master data into a single model.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the Controlling (CO) submodule to its description.",
+        "type": "memory",
+        "pairs": {
+            "CCA": "Cost Center Accounting",
+            "PCA": "Profit Center Accounting",
+            "CO-PA": "Profitability Analysis",
+            "PC": "Product Costing"
+        }
+    },
+    {
+        "q": "Match the CO integration statuses with their meaning:",
+        "type": "match",
+        "left": [
+            "Created",
+            "Released",
+            "Locked",
+            "Technically Complete"
+        ],
+        "right": [
+            "Initial draft status",
+            "Ready for posting",
+            "No charges allowed",
+            "Work finished, pending settlement"
+        ]
+    },
+    {
+        "q": "What is the transaction code for the definition of logical systems for ALE distribution?",
+        "type": "short_answer",
+        "answers": [
+            "BD54"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which job is responsible for updating the material ledger and calculating actual prices in Actual Costing?",
+        "type": "mcq",
+        "o": [
+            "CKMLCP (Material Ledger Actual Costing Cockpit)",
+            "AFAB (Depreciation Run)",
+            "F110 (Payment Run)",
+            "CO88 (Settlement)"
+        ]
+    },
+    {
+        "q": "In the AP Payment Program, the 'Paying Company Code' can be different from the 'Invoice Company Code' for cross-code payments.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "A 'WBS Element' (Work Breakdown Structure) is the master data object used in SAP ______ System to plan costs and revenues for complex projects.",
+        "type": "fill_blank",
+        "answers": [
+            "Project"
+        ],
+        "other_options": [
+            "Controlling",
+            "Sales",
+            "Quality",
+            "Asset"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT a component of the SAP Controlling (CO) module?",
+        "type": "odd_one_out",
+        "options": [
+            "Cost Element Accounting",
+            "Internal Orders",
+            "Asset Accounting",
+            "Profitability Analysis"
+        ],
+        "correct": "Asset Accounting"
+    },
+    {
+        "q": "What is the main purpose of the 'Reconciliation Ledger' in Classic GL systems that move to New GL?",
+        "type": "mcq",
+        "o": [
+            "Bridging FI and CO data in real-time, though obsolete in S/4HANA",
+            "Matching vendor statements",
+            "Auditing tax returns",
+            "Consolidating group companies"
+        ]
+    },
+    {
+        "q": "Which of the following accurately describes 'Variance Calculation' in Product Costing (CO-PC)?",
+        "type": "mcq",
+        "o": [
+            "Comparing target costs against actual costs to find input and output differences",
+            "Comparing actual revenue against plan",
+            "Checking the foreign currency translation rate",
+            "Validating the Bill of Material structure"
+        ]
+    },
+    {
+        "q": "The standard SAP hierarchy for Cost Centers must be set up to strictly mimic the corporate organizational chart.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the technical term for the 'Transport Request' used to move customizing changes between systems?",
+        "type": "mcq",
+        "o": [
+            "CTS (Change and Transport System) Request",
+            "Batch Job",
+            "IDoc",
+            "Workflow"
+        ]
+    },
+    {
+        "q": "Match the SAP tables with their content:",
+        "type": "match",
+        "left": [
+            "LFA1",
+            "KNA1",
+            "MAKT",
+            "SKB1"
+        ],
+        "right": [
+            "Vendor General Data",
+            "Customer General Data",
+            "Material Descriptions",
+            "G/L Account Company Code Data"
+        ]
+    },
+    {
+        "q": "Swipe left for Finance (FI) concepts and right for Controlling (CO) concepts.",
+        "type": "swipe_cards",
+        "left_label": "Finance (FI)",
+        "right_label": "Controlling (CO)",
+        "cards": {
+            "External Reporting": "left",
+            "Internal Management": "right",
+            "Balance Sheets": "left",
+            "Cost Allocations": "right"
+        }
+    },
+    {
+        "q": "The Transaction Code for manually executing a foreign currency valuation run is ______.",
+        "type": "fill_blank",
+        "answers": [
+            "FAGL_FC_VAL"
+        ],
+        "other_options": [
+            "F.05",
+            "F110",
+            "AFAB",
+            "OB08"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of the 'Alternative Payee' field in the Vendor Master?",
+        "type": "mcq",
+        "o": [
+            "To designate a third party to receive the payment instead of the invoice vendor",
+            "To specify a backup payment method",
+            "To list an alternate contact person",
+            "To define a different currency"
+        ]
+    },
+    {
+        "q": "The 'Settlement Rule' for an Internal Order generates the FI document automatically upon order release.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "In SAP SD, what is the name of the master record that links a specific customer to a specific material for pricing and delivery?",
+        "type": "short_answer",
+        "answers": [
+            "Customer-Material Info Record"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Unscramble: An expenditure tracked in management accounting.",
+        "type": "word_scramble",
+        "answer": "COST",
+        "decoys": "ZX"
+    },
+    {
+        "q": "Which of the following is the correct sequence of the Procure-to-Pay cycle?",
+        "type": "mcq",
+        "o": [
+            "Requisition -> PO -> GR -> Invoice -> Payment",
+            "PO -> Requisition -> GR -> Payment -> Invoice",
+            "Invoice -> Payment -> PO -> GR",
+            "GR -> Invoice -> Requisition -> PO"
+        ]
+    },
+    {
+        "q": "In SAP CO-OM, the 'Splitting Structure' is used to assign cost center costs to multiple activity types during the ______ Cycle.",
+        "type": "fill_blank",
+        "answers": [
+            "Plan Assessment"
+        ],
+        "other_options": [
+            "Distribution",
+            "Reposting",
+            "Variance",
+            "Settlement"
+        ]
+    },
+    {
+        "q": "What is the function of the 'ABAP Debugger' in the context of FI validations/substitutions?",
+        "type": "mcq",
+        "o": [
+            "Troubleshooting custom logic in accounting rules step-by-step",
+            "Creating new asset classes",
+            "Designing the chart of accounts",
+            "Running the payroll process"
+        ]
+    },
+    {
+        "q": "Match the Asset Accounting transaction types with their examples:",
+        "type": "match",
+        "left": [
+            "Acquisition",
+            "Transfer",
+            "Retirement",
+            "Write-up"
+        ],
+        "right": [
+            "Purchase from vendor",
+            "Inter-company movement",
+            "Scrapping or sale",
+            "Value increase reversal"
+        ]
+    },
+    {
+        "q": "The 'Automatic Payment Program' (F110) requires a House Bank configuration, a valid payment method, and a ______ run.",
+        "type": "fill_blank",
+        "answers": [
+            "Proposal"
+        ],
+        "other_options": [
+            "Simulation",
+            "Batch",
+            "Direct",
+            "Live"
+        ]
+    },
+    {
+        "q": "SAP ECC allows postings to a locked Controlling Period if a specific authorization exists.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the primary module used to manage recurring entry documents for fixed rent or leasing payments?",
+        "type": "mcq",
+        "o": [
+            "SAP FI (Recurring Entry Program)",
+            "SAP CO",
+            "SAP RE-FX",
+            "SAP PM"
+        ]
+    },
+    {
+        "q": "What is the T-code for maintaining Exchange Rates directly?",
+        "type": "short_answer",
+        "answers": [
+            "OB08"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which of the following is a key advantage of using 'Business Place' in the New GL?",
+        "type": "mcq",
+        "o": [
+            "Localized statutory reporting below the company code level",
+            "Global consolidation",
+            "Inter-company elimination",
+            "Product costing"
+        ]
+    },
+    {
+        "q": "In SAP FICO, 'Parking' a document checks the balance and all mandatory fields but does not post to the GL.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The 'Sales and Distribution (SD)' module integrates with FI mainly through Billing, which generates the FI document debiting Customer and crediting ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Revenue"
+        ],
+        "other_options": [
+            "Inventory",
+            "Cost of Sales",
+            "Tax Payable",
+            "Accounts Receivable"
+        ]
+    },
+    {
+        "q": "Unscramble: Revenue minus expenses.",
+        "type": "word_scramble",
+        "answer": "PROFIT",
+        "decoys": "KMW"
+    },
+    {
+        "q": "Distinguish CO master data objects.",
+        "type": "inline_dropdown",
+        "text": "A [0] Center is responsible for incurring expenses, while a [1] Center tracks both revenues and expenses.",
+        "dropdowns": [
+            {
+                "correct": "Cost",
+                "options": [
+                    "Profit",
+                    "Cost",
+                    "Investment"
+                ]
+            },
+            {
+                "correct": "Profit",
+                "options": [
+                    "Cost",
+                    "Profit",
+                    "Revenue"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which of the following describes the 'Template Allocation' technique in CO?",
+        "type": "mcq",
+        "o": [
+            "Cost allocation based on predefined fixed percentages or ratios",
+            "Usage of statistical key figures for tracing",
+            "Tracing based on activity confirmation",
+            "Manual direct posting"
+        ]
+    },
+    {
+        "q": "Match the dunning procedures with the run:",
+        "type": "match",
+        "left": [
+            "Dunning Level",
+            "Dunning Interval",
+            "Dunning Charges",
+            "Minimum Amount"
+        ],
+        "right": [
+            "Escalation stage",
+            "Days between notices",
+            "Fee added to notice",
+            "Threshold to trigger dunning"
+        ]
+    },
+    {
+        "q": "What is the term for the record that defines the link between a Vendor and a Material, specifying the procurement price?",
+        "type": "mcq",
+        "o": [
+            "Purchasing Info Record",
+            "Condition Contract",
+            "Source Determination",
+            "Quota Arrangement"
+        ]
+    },
+    {
+        "q": "Identify types of Cost Elements.",
+        "type": "inline_dropdown",
+        "text": "[0] Cost Elements link FI to CO. [1] Cost Elements are used only within CO for allocations.",
+        "dropdowns": [
+            {
+                "correct": "Primary",
+                "options": [
+                    "Primary",
+                    "Secondary",
+                    "Tertiary"
+                ]
+            },
+            {
+                "correct": "Secondary",
+                "options": [
+                    "Primary",
+                    "Secondary",
+                    "Minor"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The 'User Exit' in SAP is a predefined hook in the standard code where customers can add their own logic without modifying the core software.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which specific master data element is mandatory before a Fixed Asset can be posted via Accounts Payable (Invoice)?",
+        "type": "short_answer",
+        "answers": [
+            "Asset Master Record",
+            "Asset Sub-number"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "What is the primary purpose of the 'Early Warning System' (EWS) in SAP FICO?",
+        "type": "mcq",
+        "o": [
+            "Proactive monitoring of exceptions, like overdue customers",
+            "Automatic email notifications",
+            "System performance monitoring",
+            "Disaster recovery"
+        ]
+    },
+    {
+        "q": "In the New GL, the 'Segment' is derived automatically from the Profit Center master record.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The CO sub-module 'CO-OM-CCA' stands for Cost Center ______.",
+        "type": "fill_blank",
+        "answers": [
+            "Accounting"
+        ],
+        "other_options": [
+            "Allocation",
+            "Analysis",
+            "Assessment",
+            "Activity"
+        ]
+    },
+    {
+        "q": "Which of the following is a required entry for the 'Automatic Payment Program' to successfully generate a payment file?",
+        "type": "mcq",
+        "o": [
+            "Payment Method in Vendor Master",
+            "Asset Class",
+            "Cost Element Category",
+            "Order Type"
+        ]
+    },
+    {
+        "q": "Match the document statuses in SAP FI:",
+        "type": "match",
+        "left": [
+            "Held",
+            "Parked",
+            "Posted",
+            "Reversed"
+        ],
+        "right": [
+            "Saved without checks",
+            "Preliminary entry",
+            "Final entry",
+            "Nullified document"
+        ]
+    },
+    {
+        "q": "What is the role of transaction 'FAGL3KEH'?",
+        "type": "short_answer",
+        "answers": [
+            "Activate Profit Center Accounting in General Ledger",
+            "Define PCA Scenario"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "In Cost Center Accounting, a 'Non-Allocable' cost center type indicates the costs can be distributed through cycles.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the technical component that enables SAP to communicate with external systems like banks via standard formats (e.g., SWIFT, DME)?",
+        "type": "mcq",
+        "o": [
+            "DMEE (Data Medium Exchange Engine)",
+            "ALE",
+            "EDI",
+            "RFC"
+        ]
+    },
+    {
+        "q": "The ______ List contains the valid materials that can be procured from a specific vendor, enhancing procurement control.",
+        "type": "fill_blank",
+        "answers": [
+            "Source"
+        ],
+        "other_options": [
+            "Quota",
+            "Picking",
+            "Packing",
+            "Vendor Master"
+        ]
+    },
+    {
+        "q": "Which of the following accurately describes 'Accrual Deferral' in SAP FI closing operations?",
+        "type": "mcq",
+        "o": [
+            "Posting expenses or revenues in a period differing from the cash transaction date",
+            "Calculating depreciation",
+            "Running the balance carryforward",
+            "Clearing open items"
+        ]
+    },
+    {
+        "q": "The 'Actual Costing' functionality in Material Ledger is a mandatory component of SAP S/4HANA for inventory valuation.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the standard MM movement type for a Goods Receipt against a Purchase Order?",
+        "type": "slider",
+        "min": 90,
+        "max": 110,
+        "correct": 101
+    },
+    {
+        "q": "Which of the following T-codes is used to view the Application Log for a given transaction?",
+        "type": "mcq",
+        "o": [
+            "SLG1",
+            "SM37",
+            "SE11",
+            "SP01"
+        ]
+    },
+    {
+        "q": "Match the condition technique elements in SAP Pricing with their function:",
+        "type": "match",
+        "left": [
+            "Condition Type",
+            "Access Sequence",
+            "Condition Table",
+            "Condition Record"
+        ],
+        "right": [
+            "Represents a price element",
+            "Search strategy for valid records",
+            "Structure of allowed fields",
+            "The actual master data value"
+        ]
+    },
+    {
+        "q": "Match the integration transaction code to its module link.",
+        "type": "memory",
+        "pairs": {
+            "OBYC": "FI-MM Integration",
+            "VKOA": "FI-SD Integration",
+            "OAYZ": "Asset Accounting Integration",
+            "OKB9": "Default Account Assignment (CO)"
+        }
+    },
+    {
+        "q": "What is the standard way to handle 'Inter-company' postings in SAP FI when goods are sold between two company codes?",
+        "type": "short_answer",
+        "answers": [
+            "Inter-company Billing",
+            "Inter-company Sales Order"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "The 'Number Range Object' for FI documents is directly assigned to the Document Type.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which authorization object controls who can post to a specific company code in FI?",
+        "type": "mcq",
+        "o": [
+            "F_BKPF_BUK",
+            "S_TABU_DIS",
+            "P_ORGIN",
+            "M_MATE_WRK"
+        ]
+    },
+    {
+        "q": "Which of these is NOT a step in the Procure-to-Pay (P2P) cycle?",
+        "type": "odd_one_out",
+        "options": [
+            "Purchase Requisition",
+            "Purchase Order",
+            "Goods Receipt",
+            "Sales Order",
+            "Invoice Verification"
+        ],
+        "correct": "Sales Order"
+    },
+    {
+        "q": "The 'Closing Cockpit' (CLOCO) in SAP helps automate and monitor the entire period-end ______ schedule.",
+        "type": "fill_blank",
+        "answers": [
+            "Closing",
+            "Financial Close"
+        ],
+        "other_options": [
+            "Opening",
+            "Posting",
+            "Dunning",
+            "Clearing"
+        ]
+    },
+    {
+        "q": "What is a key distinction between an 'IDoc' and a 'BAPI' in SAP integration?",
+        "type": "mcq",
+        "o": [
+            "IDocs are asynchronous message formats, BAPIs are synchronous API methods",
+            "IDocs are for internal ABAP, BAPIs are for Java only",
+            "BAPIs replace IDocs entirely in S/4HANA",
+            "There is no difference"
+        ]
+    },
+    {
+        "q": "Which specific SAP HANA database feature allows real-time analysis of transactional data without aggregate tables?",
+        "type": "mcq",
+        "o": [
+            "Columnar In-Memory Storage",
+            "Row-based Storage",
+            "Disk-based Indexing",
+            "Batch Processing"
+        ]
+    },
+    {
+        "q": "Categorize the process steps into Procure-to-Pay (P2P) or Order-to-Cash (O2C).",
+        "type": "swipe_cards",
+        "left_label": "P2P",
+        "right_label": "O2C",
+        "cards": {
+            "Goods Receipt": "left",
+            "Outbound Delivery": "right",
+            "Vendor Payment": "left",
+            "Customer Billing": "right"
+        }
+    },
+    {
+        "q": "In SAP S/4HANA Finance, the Universal Journal table ACDOCA combines which two previously separate tables?",
+        "type": "mcq",
+        "o": [
+            "BSEG and COEP",
+            "BKPF and COBK",
+            "BSIS and BSAS",
+            "LFA1 and KNA1"
+        ]
+    },
+    {
+        "q": "Match the following SAP Fiori deployment options with their characteristics:",
+        "type": "match",
+        "left": [
+            "SAP Fiori On-Premise",
+            "SAP Fiori Cloud",
+            "SAP Fiori Mobile"
+        ],
+        "right": [
+            "Installed on customer infrastructure",
+            "Hosted by SAP on cloud",
+            "Native mobile app access"
+        ]
+    },
+    {
+        "q": "The ______ is an advanced feature in SAP CO that allows splitting material costs into raw materials, labor, and overhead to analyze origin.",
+        "type": "fill_blank",
+        "answers": [
+            "Cost Component Split"
+        ],
+        "other_options": [
+            "Settlement Rule",
+            "Distribution Cycle",
+            "Assessment Cycle",
+            "Variance Calculation"
+        ]
+    },
+    {
+        "q": "SAP S/4HANA requires a HANA database and cannot run on any other database platform.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble: A commercial document issued by a seller to a buyer.",
+        "type": "word_scramble",
+        "answer": "INVOICE",
+        "decoys": "XQ"
+    },
+    {
+        "q": "What is the technical purpose of the 'ABAP Managed Database Procedures' (AMDP) in SAP S/4HANA?",
+        "type": "mcq",
+        "o": [
+            "Executing database-specific logic directly on HANA for performance optimization",
+            "Creating standard ABAP reports",
+            "Managing transport requests",
+            "Designing dynpro screens"
+        ]
+    },
+    {
+        "q": "Which transaction is used to configure the 'Extension Ledger' in the New General Ledger?",
+        "type": "short_answer",
+        "answers": [
+            "FAGL_LEDGER_CUST"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "In Advanced Credit Management (FSCM-CR), which rule engine evaluates a customer's credit exposure across multiple documents in real-time?",
+        "type": "mcq",
+        "o": [
+            "Credit Limit Check Formula",
+            "Dunning Procedure",
+            "Payment Terms",
+            "Risk Category"
+        ]
+    },
+    {
+        "q": "Unscramble: A confirmed request to buy or sell.",
+        "type": "word_scramble",
+        "answer": "ORDER",
+        "decoys": "ZVJ"
+    },
+    {
+        "q": "Explain FI-MM Integration.",
+        "type": "inline_dropdown",
+        "text": "In FI-MM integration, the [0] Class in the material master determines which G/L account is updated during a goods [1].",
+        "dropdowns": [
+            {
+                "correct": "Valuation",
+                "options": [
+                    "Valuation",
+                    "Material",
+                    "Account"
+                ]
+            },
+            {
+                "correct": "movement",
+                "options": [
+                    "movement",
+                    "creation",
+                    "deletion"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The 'Material Ledger' in S/4HANA is mandatory and replaces the classical material valuation tables.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In Profitability Analysis (CO-PA), which type uses a costing-based approach and can be settled to FI?",
+        "type": "mcq",
+        "o": [
+            "Costing-Based CO-PA",
+            "Account-Based CO-PA",
+            "Reconciliation CO-PA",
+            "Margin Analysis"
+        ]
+    },
+    {
+        "q": "The ______ is a key master data object in CO that represents a temporary collector of costs for a specific event, such as a trade fair or internal project.",
+        "type": "fill_blank",
+        "answers": [
+            "Internal Order"
+        ],
+        "other_options": [
+            "Cost Center",
+            "Profit Center",
+            "WBS Element",
+            "Network"
+        ]
+    },
+    {
+        "q": "Match the SAP Authorization Object components:",
+        "type": "match",
+        "left": [
+            "ACTVT",
+            "BUKRS",
+            "KOKRS",
+            "WERKS"
+        ],
+        "right": [
+            "Activity (Create, Change, Display)",
+            "Company Code",
+            "Controlling Area",
+            "Plant"
+        ]
+    },
+    {
+        "q": "What is the primary advantage of using 'Business Partner' (BP) approach in S/4HANA over classic Customer/Vendor?",
+        "type": "mcq",
+        "o": [
+            "Single point of maintenance for a contact regardless of the role they play",
+            "Separate number ranges for customers and vendors",
+            "Legacy system compatibility",
+            "Simplified tax reporting only"
+        ]
+    },
+    {
+        "q": "Which transaction code is used to set up the 'Financial Closing Cockpit' structure?",
+        "type": "short_answer",
+        "answers": [
+            "CLOCOC",
+            "CLOCO"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "In SAP S/4HANA, the 'Margin Analysis' component completely replaces the classic Costing-Based CO-PA.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Explain FI-SD Integration.",
+        "type": "inline_dropdown",
+        "text": "For FI-SD integration, the system uses the [0] Procedure to determine conditions, and T-code [1] maps them to G/L accounts.",
+        "dropdowns": [
+            {
+                "correct": "Pricing",
+                "options": [
+                    "Billing",
+                    "Pricing",
+                    "Costing"
+                ]
+            },
+            {
+                "correct": "VKOA",
+                "options": [
+                    "OBYC",
+                    "VKOA",
+                    "FB50"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the core technical difference between a 'Primary Cost Element' and a 'Secondary Cost Element'?",
+        "type": "mcq",
+        "o": [
+            "Primary maps to a P&L G/L account; Secondary exists only in CO and maps to a CO-specific category",
+            "Primary is for revenue; Secondary is for overhead",
+            "Primary is used in FI; Secondary is obsolete in S/4HANA",
+            "Primary is for actuals; Secondary is for plan"
+        ]
+    },
+    {
+        "q": "What is the standard IDoc status code for a successfully processed outbound IDoc?",
+        "type": "slider",
+        "min": 1,
+        "max": 10,
+        "correct": 3
+    },
+    {
+        "q": "The 'Universal Journal' eliminates the need for index and aggregate tables, significantly reducing the system's memory footprint.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "In Asset Accounting, the 'Depreciation Key' determines the calculation method, period control, and ______ of an asset's depreciation.",
+        "type": "fill_blank",
+        "answers": [
+            "Useful Life",
+            "Scrap Value"
+        ],
+        "other_options": [
+            "Asset Class",
+            "Account Determination",
+            "Valuation Area",
+            "Transaction Type"
+        ]
+    },
+    {
+        "q": "Which of the following describes the 'Realtime Replication' method for loading data into SAP HANA from ECC?",
+        "type": "mcq",
+        "o": [
+            "SAP Landscape Transformation Replication Server",
+            "Batch Data Communication",
+            "IDoc Exchange",
+            "Manual Upload"
+        ]
+    },
+    {
+        "q": "Match the reporting tools with their usage:",
+        "type": "match",
+        "left": [
+            "SAP Analysis for Office",
+            "SAP Lumira",
+            "SAP Analytics Cloud"
+        ],
+        "right": [
+            "Excel-based OLAP analysis",
+            "Self-service visualization",
+            "Cloud-based planning and BI"
+        ]
+    },
+    {
+        "q": "What does the 'SAP HANA Live' framework provide for operational reporting?",
+        "type": "short_answer",
+        "answers": [
+            "Virtual Data Models",
+            "VDM"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Match the SAP technical tool to its description.",
+        "type": "memory",
+        "pairs": {
+            "LSMW": "Legacy System Migration Workbench",
+            "BDC": "Batch Data Communication",
+            "IDoc": "Intermediate Document for interfaces",
+            "BAPI": "Standardized programming interface"
+        }
+    },
+    {
+        "q": "Which CO object is used specifically to track costs for a specific production lot, eliminating the need for periodic variance splits?",
+        "type": "mcq",
+        "o": [
+            "Production Order",
+            "Cost Center",
+            "Internal Order",
+            "Sales Order"
+        ]
+    },
+    {
+        "q": "Which of the following is NOT primarily a data migration or integration tool in SAP?",
+        "type": "odd_one_out",
+        "options": [
+            "LSMW",
+            "BDC",
+            "BAPI",
+            "ALV"
+        ],
+        "correct": "ALV"
+    },
+    {
+        "q": "In SAP S/4HANA, the 'Central Finance' deployment option allows the merging of financial data from multiple source systems.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The ______ is a new G/L functionality that ensures a complete, balanced set of books for dimensions like Segments upon posting.",
+        "type": "fill_blank",
+        "answers": [
+            "Document Splitting"
+        ],
+        "other_options": [
+            "Parallel Ledger",
+            "Substitution Rule",
+            "Validation Rule",
+            "Closing Cockpit"
+        ]
+    },
+    {
+        "q": "What is the role of 'Coding Block' in the Universal Journal?",
+        "type": "mcq",
+        "o": [
+            "A fixed set of extensible fields (e.g., Profit Center, Segment) available for every journal entry",
+            "The ABAP code behind the journal posting",
+            "A security feature blocking unauthorized postings",
+            "A method to lock the GL for period-end"
+        ]
+    },
+    {
+        "q": "Match the integration technologies with their protocols:",
+        "type": "match",
+        "left": [
+            "SOAP",
+            "REST",
+            "OData",
+            "RFC"
+        ],
+        "right": [
+            "Web Service Protocol",
+            "Stateless API Protocol",
+            "SAP Fiori API Protocol",
+            "SAP Proprietary Protocol"
+        ]
+    },
+    {
+        "q": "What is the transaction code for defining the 'Parallel Accounting' principle in the New GL?",
+        "type": "short_answer",
+        "answers": [
+            "FAGL_LEDGER_CUST",
+            "FAGL_ACTIVATION"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "In Bank Communication Management, which standard format is often used for exchanging electronic bank statements?",
+        "type": "mcq",
+        "o": [
+            "MT940 (SWIFT)",
+            "IDoc",
+            "EDI",
+            "BAPI"
+        ]
+    },
+    {
+        "q": "The 'Product Cost by Order' is a make-to-stock scenario, while 'Product Cost by Sales Order' is a ______ scenario.",
+        "type": "fill_blank",
+        "answers": [
+            "Make-to-Order"
+        ],
+        "other_options": [
+            "Engineer-to-Order",
+            "Assemble-to-Order",
+            "Repetitive Manufacturing",
+            "Process Manufacturing"
+        ]
+    },
+    {
+        "q": "In SAP Treasury and Risk Management (TRM), 'Hedge Management' can only handle foreign currency risk.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the purpose of the 'WIP Calculation' (Work in Process) in CO-PC?",
+        "type": "mcq",
+        "o": [
+            "Capitalizing costs of unfinished products at month-end",
+            "Calculating variances on finished goods",
+            "Settling costs to the GL",
+            "Determining overhead rates"
+        ]
+    },
+    {
+        "q": "Which technical object in ABAP allows you to view and edit table definitions directly?",
+        "type": "mcq",
+        "o": [
+            "SE11 (ABAP Dictionary)",
+            "SE38 (ABAP Editor)",
+            "SE16 (Data Browser)",
+            "SM37 (Job Monitor)"
+        ]
+    },
+    {
+        "q": "Categorize the tasks as ABAP (Development) or Basis (Administration).",
+        "type": "swipe_cards",
+        "left_label": "ABAP",
+        "right_label": "Basis",
+        "cards": {
+            "Writing custom reports": "left",
+            "System backups": "right",
+            "Creating user exits": "left",
+            "Applying support patches": "right"
+        }
+    },
+    {
+        "q": "Unscramble: SAP's proprietary programming language.",
+        "type": "word_scramble",
+        "answer": "ABAP",
+        "decoys": "XQZ"
+    },
+    {
+        "q": "SAP S/4HANA Embedded Analytics uses Cloud Connector to replicate data to a separate BI system.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the advanced FICO integration points:",
+        "type": "match",
+        "left": [
+            "Condition Contract Management",
+            "Revenue Recognition (IFRS 15)",
+            "Event-Based Revenue Posting"
+        ],
+        "right": [
+            "Settlement of rebates in SD",
+            "Performance obligation tracking",
+            "Automated postings via BRF+"
+        ]
+    },
+    {
+        "q": "What is the transaction for maintaining Customer-Vendor Integration (CVI) settings in S/4HANA?",
+        "type": "short_answer",
+        "answers": [
+            "MDS_LOAD_COCKPIT",
+            "CVI"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Unscramble: A standard data structure for electronic data interchange in SAP.",
+        "type": "word_scramble",
+        "answer": "IDOC",
+        "decoys": "VK"
+    },
+    {
+        "q": "What does the 'Actual Costing' run in the Material Ledger calculate at period-end?",
+        "type": "mcq",
+        "o": [
+            "The actual periodic unit price (PUP) for all material movements",
+            "The standard cost for the next year",
+            "The depreciation on fixed assets",
+            "The variance between plan and actual labor"
+        ]
+    },
+    {
+        "q": "In CO, the 'Planning Layout' for Cost Centers is always fixed and cannot be customized by the user.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Differentiate interface technologies.",
+        "type": "inline_dropdown",
+        "text": "A [0] is a standard interface to a business object, whereas an [1] is a protocol used to call functions in a remote SAP system.",
+        "dropdowns": [
+            {
+                "correct": "BAPI",
+                "options": [
+                    "BAPI",
+                    "IDoc",
+                    "LSMW"
+                ]
+            },
+            {
+                "correct": "RFC",
+                "options": [
+                    "HTTP",
+                    "RFC",
+                    "FTP"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "The ______ is a tool in the Material Ledger that allows multi-level variance settlement from raw material to finished goods.",
+        "type": "fill_blank",
+        "answers": [
+            "Alternative Valuation Run (AVR)"
+        ],
+        "other_options": [
+            "Costing Run",
+            "Depreciation Run",
+            "Assessment Cycle",
+            "FAGLL03"
+        ]
+    },
+    {
+        "q": "Which of the following is a key feature of SAP Cash Management on S/4HANA?",
+        "type": "mcq",
+        "o": [
+            "Bank Account Management with real-time liquidity forecast",
+            "Manual bank reconciliation only",
+            "Fixed yearly liquidity plans",
+            "Standalone deployment only"
+        ]
+    },
+    {
+        "q": "Match the SAP authorization objects:",
+        "type": "match",
+        "left": [
+            "F_BKPF_BUK",
+            "F_BKPF_KOA",
+            "F_BKPF_BES",
+            "F_BKPF_GSB"
+        ],
+        "right": [
+            "Company Code",
+            "Account Type",
+            "Document Type",
+            "Business Area"
+        ]
+    },
+    {
+        "q": "Describe the change management process.",
+        "type": "inline_dropdown",
+        "text": "Changes made in the Development system are recorded in a [0] Request and then imported into the [1] system.",
+        "dropdowns": [
+            {
+                "correct": "Transport",
+                "options": [
+                    "Change",
+                    "Transport",
+                    "Update"
+                ]
+            },
+            {
+                "correct": "Quality",
+                "options": [
+                    "Quality",
+                    "Production",
+                    "Sandbox"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "In what year did SAP officially launch the S/4HANA ERP suite?",
+        "type": "slider",
+        "min": 2010,
+        "max": 2020,
+        "correct": 2015
+    },
+    {
+        "q": "What is the specific use case for the transaction code 'OB52'?",
+        "type": "mcq",
+        "o": [
+            "Opening and closing posting periods for FI",
+            "Maintaining exchange rates",
+            "Defining field status variants",
+            "Creating document types"
+        ]
+    },
+    {
+        "q": "Match the S/4HANA concept to its definition.",
+        "type": "memory",
+        "pairs": {
+            "Universal Journal": "Single source of truth table (ACDOCA)",
+            "Business Partner": "Centralized master data replacing vendor/customer",
+            "Fiori": "New user experience and UI",
+            "CDS Views": "Core Data Services for reporting"
+        }
+    },
+    {
+        "q": "Which of the following is NOT one of the three main types of Fiori Apps?",
+        "type": "odd_one_out",
+        "options": [
+            "Transactional Apps",
+            "Analytical Apps",
+            "Factsheet Apps",
+            "Configuration Apps"
+        ],
+        "correct": "Configuration Apps"
+    },
+    {
+        "q": "The 'Universal Allocation' tool in S/4HANA replaces the old manual distribution and assessment cycles.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Categorize the table names into Classic SAP ECC or SAP S/4HANA.",
+        "type": "swipe_cards",
+        "left_label": "ECC",
+        "right_label": "S/4HANA",
+        "cards": {
+            "BSEG": "left",
+            "ACDOCA": "right",
+            "MATDOC": "right",
+            "FAGLFLEXT": "left"
+        }
+    },
+    {
+        "q": "In consolidation (Group Reporting), the ______ table holds the consolidated journal entry line items.",
+        "type": "fill_blank",
+        "answers": [
+            "ACDOCU"
+        ],
+        "other_options": [
+            "BSEG",
+            "ECMCA",
+            "FAGLFLEXT",
+            "ACDOCA"
+        ]
+    },
+    {
+        "q": "What is the term for the cloud-based SAP solution that offers integrated financial planning, analysis, and consolidation?",
+        "type": "short_answer",
+        "answers": [
+            "SAP Analytics Cloud",
+            "SAC"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following valuation methods can be performed using the Material Ledger in multiple currencies?",
+        "type": "mcq",
+        "o": [
+            "Legal Valuation, Group Valuation, and Profit Center Valuation",
+            "Only Legal Valuation",
+            "Only Group Valuation",
+            "Only Profit Center Valuation"
+        ]
+    },
+    {
+        "q": "SAP 'BRFplus' (Business Rule Framework plus) is the successor to the classic Boolean logic validation/substitution rules.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the transaction code to start the General Ledger Master Data Maintenance (Mass)?",
+        "type": "mcq",
+        "o": [
+            "FS00 / FAGL_ACCOUNT_MASS",
+            "FK01",
+            "FD01",
+            "MM01"
+        ]
+    },
+    {
+        "q": "Match the period-end processes with their module:",
+        "type": "match",
+        "left": [
+            "Interest Run",
+            "Depreciation Run",
+            "Settlement",
+            "Overhead Calculation"
+        ],
+        "right": [
+            "FI-AR/AP",
+            "FI-AA",
+            "CO-OPA",
+            "CO-OM"
+        ]
+    },
+    {
+        "q": "The 'Flexible Real Estate Management' (RE-FX) integrates directly with the Universal Journal for lease accounting under IFRS 16.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Unscramble: SAP's modern, role-based user experience.",
+        "type": "word_scramble",
+        "answer": "FIORI",
+        "decoys": "ZXM"
+    },
+    {
+        "q": "The ______ Tool in CO is the standard method for tracing the origin of data from a cost center report to the source FI document.",
+        "type": "fill_blank",
+        "answers": [
+            "Drilldown"
+        ],
+        "other_options": [
+            "Line Item Display",
+            "Matchcode",
+            "Variant",
+            "Reconciliation"
+        ]
+    },
+    {
+        "q": "What is the specific technical challenge solved by the 'Zero Downtime Option' (ZDO) in S/4HANA migrations?",
+        "type": "mcq",
+        "o": [
+            "Minimizing business interruption during cutover to the new system",
+            "Reducing HANA licensing costs",
+            "Moving from Unix to Windows",
+            "Deleting old data"
+        ]
+    },
+    {
+        "q": "Unscramble: The name of the Universal Journal table in S/4HANA.",
+        "type": "word_scramble",
+        "answer": "ACDOCA",
+        "decoys": "PQ"
+    },
+    {
+        "q": "What is the correct transaction to create a 'Derived Flow' in a depreciation area?",
+        "type": "short_answer",
+        "answers": [
+            "AFABL",
+            "OABC"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which of the following best describes 'Variance Calculation' input side versus output side?",
+        "type": "mcq",
+        "o": [
+            "Input side looks at material/labor usage; Output side looks at lot size differences",
+            "Input side is FI; Output side is CO",
+            "Input side is plan; Output side is actual",
+            "Input side is during production; Output side is after sales"
+        ]
+    },
+    {
+        "q": "SAP Revenue Accounting and Reporting (RAR) fully automates the transfer pricing process.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "In SAP, 'Set' hierarchies are used exclusively for the Chart of Accounts and cannot be used for other objects.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The 'Market Risk Analyzer' is a component within SAP TRM that requires the transfer of ______ data from FI.",
+        "type": "fill_blank",
+        "answers": [
+            "Master"
+        ],
+        "other_options": [
+            "Transaction",
+            "Configuration",
+            "Reporting",
+            "User"
+        ]
+    },
+    {
+        "q": "Match the components of the Universal Journal:",
+        "type": "match",
+        "left": [
+            "ACDOCA",
+            "SKB1",
+            "LFA1",
+            "ANLA"
+        ],
+        "right": [
+            "Line Items",
+            "G/L Master",
+            "Vendor Master",
+            "Asset Master"
+        ]
+    },
+    {
+        "q": "Explain S/4HANA data structure.",
+        "type": "inline_dropdown",
+        "text": "The [0] Journal in S/4HANA combines FI and CO data into a single table called [1].",
+        "dropdowns": [
+            {
+                "correct": "Universal",
+                "options": [
+                    "General",
+                    "Universal",
+                    "Master"
+                ]
+            },
+            {
+                "correct": "ACDOCA",
+                "options": [
+                    "BSEG",
+                    "ACDOCA",
+                    "BKPF"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "What is the function of the 'Non-Allocable' indicator on a Cost Center?",
+        "type": "mcq",
+        "o": [
+            "Prevents the cost center from participating in automatic allocation cycles",
+            "Blocks postings completely",
+            "Identifies it as a statistical only",
+            "Deletes it at month-end"
+        ]
+    },
+    {
+        "q": "What is the main purpose of 'IDoc' in an SAP landscape?",
+        "type": "short_answer",
+        "answers": [
+            "Intermediate Document",
+            "EDI message transport"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which tool is used to convert classic transactions to OData services for Fiori apps?",
+        "type": "mcq",
+        "o": [
+            "SAP Gateway",
+            "SAP Cloud Connector",
+            "SAP Web Dispatcher",
+            "SAP Solution Manager"
+        ]
+    },
+    {
+        "q": "Describe HANA technology.",
+        "type": "inline_dropdown",
+        "text": "SAP HANA is an [0]-memory database, which means it stores data in RAM instead of on a hard disk, dramatically increasing processing [1].",
+        "dropdowns": [
+            {
+                "correct": "in",
+                "options": [
+                    "on",
+                    "in",
+                    "out"
+                ]
+            },
+            {
+                "correct": "speed",
+                "options": [
+                    "speed",
+                    "size",
+                    "cost"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "In New GL, 'Segment Reporting' requires that the Segment is derived from the Profit Center or entered manually.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The 'Automatic Offsetting Entry' logic in Document Splitting determines the ______ line item for incomplete balances.",
+        "type": "fill_blank",
+        "answers": [
+            "Clearing"
+        ],
+        "other_options": [
+            "Posting",
+            "Baseline",
+            "Target",
+            "Base"
+        ]
+    },
+    {
+        "q": "Which of the following is a standard BAPI for posting an FI document?",
+        "type": "mcq",
+        "o": [
+            "BAPI_ACC_DOCUMENT_POST",
+            "BAPI_INCOMINGINVOICE_CREATE",
+            "BAPI_PO_CREATE1",
+            "BAPI_SALESORDER_CREATEFROMDAT2"
+        ]
+    },
+    {
+        "q": "What is the standard character length of a Tax Code in SAP?",
+        "type": "slider",
+        "min": 1,
+        "max": 4,
+        "correct": 2
+    },
+    {
+        "q": "Match the S/4HANA migration approaches:",
+        "type": "match",
+        "left": [
+            "Brownfield",
+            "Greenfield",
+            "Bluefield"
+        ],
+        "right": [
+            "System conversion",
+            "New implementation",
+            "Selective data transition"
+        ]
+    },
+    {
+        "q": "The 'RAPID Reconciliation' tool directly patches the FI and CO reconciliation without needing to debug ACDOCA.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the primary reason a 'Target Cost' version is set up in Product Cost Planning?",
+        "type": "mcq",
+        "o": [
+            "To compare against actual costs for variance analysis",
+            "To calculate material overhead",
+            "To determine the sales price",
+            "To create the BOM"
+        ]
+    },
+    {
+        "q": "What is the transaction code for defining 'Account Determination' for FI-AA integration?",
+        "type": "short_answer",
+        "answers": [
+            "AO90",
+            "ACSET"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which of the following statements about the 'Special Purpose Ledger' (FI-SL) is true?",
+        "type": "mcq",
+        "o": [
+            "It is obsolete in S/4HANA and replaced by Extension Ledgers",
+            "It is mandatory for New GL",
+            "It is the only way to do consolidation",
+            "It stores HR data"
+        ]
+    },
+    {
+        "q": "In SAP TRM, 'Trader's position' refers exclusively to the physical stock portfolio.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The '______' is a specific SAP deliverable containing pre-configured business processes for specific industries, like Automotive or Retail.",
+        "type": "fill_blank",
+        "answers": [
+            "Best Practices",
+            "Model Company"
+        ],
+        "other_options": [
+            "Standard System",
+            "IMG",
+            "Reference Model",
+            "EHP"
+        ]
+    },
+    {
+        "q": "Match the ABAP Enhancement concepts:",
+        "type": "match",
+        "left": [
+            "User Exit",
+            "BAdI",
+            "Enhancement Spot"
+        ],
+        "right": [
+            "Classic form subroutine",
+            "Object-oriented enhancement",
+            "Container for multiple enhancements"
+        ]
+    },
+    {
+        "q": "What is the function of transaction 'FAGL_FC_VAL'?",
+        "type": "mcq",
+        "o": [
+            "Foreign Currency Valuation",
+            "Financial Statement Version",
+            "Fast Close Valuation",
+            "Fixed Capital Variant"
+        ]
+    },
+    {
+        "q": "The 'Inter-company Elimination' process in consolidation must be done manually in SAP.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "A '______' is the object in CO that links the operational production order to the financial product cost estimate.",
+        "type": "fill_blank",
+        "answers": [
+            "Cost Estimate Number"
+        ],
+        "other_options": [
+            "Order Type",
+            "Costing Variant",
+            "Settlement Rule",
+            "Result Analysis Key"
+        ]
+    },
+    {
+        "q": "What is the term for the lightweight, virtual data models built on HANA views for operational reporting?",
+        "type": "short_answer",
+        "answers": [
+            "CDS Views",
+            "Core Data Services"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In SAP Central Finance, which tool is used to replicate cost objects from the source system to the target system?",
+        "type": "mcq",
+        "o": [
+            "SLT (Landscape Transformation Replication Server)",
+            "RFC",
+            "IDoc",
+            "EDI"
+        ]
+    },
+    {
+        "q": "SAP Fiori Launchpad requires a separate user authentication that is independent of the SAP NetWeaver user store.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Match the SAP acronym to its meaning.",
+        "type": "memory",
+        "pairs": {
+            "IMG": "Implementation Guide",
+            "ALV": "ABAP List Viewer",
+            "RFC": "Remote Function Call",
+            "BAdI": "Business Add-In"
+        }
+    },
+    {
+        "q": "Which of the following is a valid 'Period Control' method in Asset Accounting?",
+        "type": "mcq",
+        "o": [
+            "Straight-line depreciation from the period of acquisition",
+            "Pro-rata at year-end only",
+            "Half-year convention at mid-year only",
+            "No pro-rata calculation allowed"
+        ]
+    },
+    {
+        "q": "Match the financial statement versions with their usage:",
+        "type": "match",
+        "left": [
+            "Bilanz",
+            "GUV",
+            "Cash Flow",
+            "Notes to BS"
+        ],
+        "right": [
+            "Balance Sheet",
+            "Profit and Loss Statement",
+            "Liquidity Analysis",
+            "Disclosures"
+        ]
+    },
+    {
+        "q": "The 'SAP S/4HANA Movement Reference' is used to map the semantics of an accounting principle to line items.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of these is NOT a standard SAP client usually found in a fresh install?",
+        "type": "odd_one_out",
+        "options": [
+            "000",
+            "001",
+            "066",
+            "999"
+        ],
+        "correct": "999"
+    },
+    {
+        "q": "The ______ Receivable Management functionality in S/4HANA centralizes credit, collections, and dispute handling.",
+        "type": "fill_blank",
+        "answers": [
+            "Advanced"
+        ],
+        "other_options": [
+            "Basic",
+            "Standard",
+            "Legacy",
+            "Classic"
+        ]
+    },
+    {
+        "q": "Swipe left for SAP User Types and right for SAP Background processes.",
+        "type": "swipe_cards",
+        "left_label": "User Types",
+        "right_label": "Background",
+        "cards": {
+            "Dialog User": "left",
+            "System User": "left",
+            "Batch Job": "right",
+            "Spool Request": "right"
+        }
+    },
+    {
+        "q": "What is the main purpose of the 'Depreciation Simulation' (T-code: AFAR)?",
+        "type": "mcq",
+        "o": [
+            "Forecasting future depreciation expenses for assets",
+            "Posting depreciation to the GL",
+            "Creating asset master records",
+            "Transferring assets between company codes"
+        ]
+    },
+    {
+        "q": "Unscramble: The tool used to migrate legacy data.",
+        "type": "word_scramble",
+        "answer": "LSMW",
+        "decoys": "BXC"
+    },
+    {
+        "q": "What is the name of the detailed statement specifying the content and layout of a billing document?",
+        "type": "short_answer",
+        "answers": [
+            "Billing Type"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In SAP S/4HANA Finance, which specific table replaces BSEG, COEP, and ANEK for line items, enabling true single source of truth?",
+        "type": "mcq",
+        "o": [
+            "ACDOCA",
+            "FAGLFLEXT",
+            "FAGLFLEXA",
+            "V_BSEG"
+        ]
+    },
+    {
+        "q": "What is the technical impact of activating the 'Universal Parallel Accounting' feature using Extension Ledgers?",
+        "type": "mcq",
+        "o": [
+            "Delta postings are stored separately from the base ledger, adjusting only specific fields",
+            "A complete duplicate set of full documents is created",
+            "It disables the standard leading ledger",
+            "It forces all ledgers to use the same fiscal year variant"
+        ]
+    },
+    {
+        "q": "Match the following SAP HANA SQL Script elements with their execution context:",
+        "type": "match",
+        "left": [
+            "AMDP",
+            "CDS Table Function",
+            "HANA Procedure Proxy",
+            "CE Function"
+        ],
+        "right": [
+            "ABAP Managed DB Procedure",
+            "SQL logic exposed as ABAP view",
+            "Classic SQLScript called by ABAP",
+            "Calculation Engine (Obsolete)"
+        ]
+    },
+    {
+        "q": "In Central Finance, the ______ tool performs key mapping and value mapping between source and target system master data.",
+        "type": "fill_blank",
+        "answers": [
+            "SAP Master Data Governance (MDG) Mapping",
+            "Harmonization"
+        ],
+        "other_options": [
+            "AI (Artificial Intelligence)",
+            "AIF",
+            "SLT",
+            "Workflow"
+        ]
+    },
+    {
+        "q": "Unscramble: A set of customizable parameters guiding system behavior.",
+        "type": "word_scramble",
+        "answer": "CONFIG",
+        "decoys": "QZ"
+    },
+    {
+        "q": "SAP S/4HANA Group Reporting fully replaces both SAP BPC and SEM-BCS for all consolidation scenarios regardless of complexity.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the specific technical trigger for the 'COFI Reconciliation Ledger' in classic systems, which is eliminated in the Universal Journal?",
+        "type": "short_answer",
+        "answers": [
+            "Cross-module timing differences",
+            "Reconciliation Posting"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Explain the application layer scale.",
+        "type": "inline_dropdown",
+        "text": "The SAP [0] architecture allows you to scale the [1] servers independently of the database.",
+        "dropdowns": [
+            {
+                "correct": "NetWeaver",
+                "options": [
+                    "NetWeaver",
+                    "R/2",
+                    "Fiori"
+                ]
+            },
+            {
+                "correct": "application",
+                "options": [
+                    "application",
+                    "presentation",
+                    "network"
+                ]
+            }
+        ]
+    },
+    {
+        "q": "Which of the following describes the 'Predictive Accounting' concept in S/4HANA?",
+        "type": "mcq",
+        "o": [
+            "Simulating future financial statements based on committed and open orders in real-time",
+            "Using machine learning to post invoices",
+            "Automating the year-end close",
+            "Replacing the treasury module"
+        ]
+    },
+    {
+        "q": "In CO-PC, how does the 'Actual Costing' (ML) handle multi-level production variances differently than standard Price Difference postings?",
+        "type": "mcq",
+        "o": [
+            "It rolls up lower-level variances proportionally to higher-level consumption via the Actual BOM",
+            "It posts all variances directly to the P&L at month-end",
+            "It keeps variances in a permanent asset account",
+            "It discards all variances for raw materials"
+        ]
+    },
+    {
+        "q": "The 'Business Rule Framework plus' (BRFplus) is restricted to FI validations and cannot be used for substitutions.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the transaction for configuring the 'Zero-Balance Clearing Account' mandatory for Document Splitting?",
+        "type": "mcq",
+        "o": [
+            "FAGL_LEDGER_CUST / Define Clearing Account",
+            "OB52",
+            "OBBH",
+            "FB60"
+        ]
+    },
+    {
+        "q": "The '______' is a statistical master data type in CO used to trace resources like headcount or square footage in allocation cycles.",
+        "type": "fill_blank",
+        "answers": [
+            "Statistical Key Figure"
+        ],
+        "other_options": [
+            "Activity Type",
+            "Cost Element",
+            "Order",
+            "Segment"
+        ]
+    },
+    {
+        "q": "Match the advanced Profitability Analysis types in S/4HANA:",
+        "type": "match",
+        "left": [
+            "Margin Analysis",
+            "Costing-Based CO-PA",
+            "Account-Based CO-PA"
+        ],
+        "right": [
+            "Mandatory default in S/4HANA",
+            "Optional additive function",
+            "Backbone of Margin Analysis"
+        ]
+    },
+    {
+        "q": "What is the core benefit of SAP 'Continuous Accounting'?",
+        "type": "mcq",
+        "o": [
+            "Distributing period-end tasks evenly throughout the month in real-time",
+            "Running batch jobs 24/7",
+            "Removing the need for audits",
+            "Automating master data creation"
+        ]
+    },
+    {
+        "q": "What is the technical name for the OData gateway service registration transaction code?",
+        "type": "short_answer",
+        "answers": [
+            "/IWFND/MAINT_SERVICE",
+            "SEGW"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "In Treasury, the 'Correspondence' object determines the SWIFT messaging and confirmations sent to counterparties.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following Fiori apps allows dynamic derivation of G/L accounts in Journal Entry based on complex rules?",
+        "type": "mcq",
+        "o": [
+            "Manage Substitution/Validation Rules",
+            "Post General Journal Entries",
+            "Manage Journal Entry Ranges",
+            "Define Tax Codes"
+        ]
+    },
+    {
+        "q": "The 'SAP HANA Hierarchy' framework used in CO replaces the old internal table-based SET hierarchies with ______ views.",
+        "type": "fill_blank",
+        "answers": [
+            "CDS",
+            "Core Data Services"
+        ],
+        "other_options": [
+            "ABAP",
+            "Dynpro",
+            "ALV",
+            "BAPI"
+        ]
+    },
+    {
+        "q": "Match the internal and external number ranges:",
+        "type": "match",
+        "left": [
+            "Internal Assignment",
+            "External Assignment",
+            "SNUM (Number Range Object)"
+        ],
+        "right": [
+            "System generates number",
+            "User provides number",
+            "T-code to define the object"
+        ]
+    },
+    {
+        "q": "SAP Cash Management's 'One Exposure from Operations' consolidates only bank ledger data.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the main transaction code for setting up 'Idle Cash Optimization' or sweeps?",
+        "type": "short_answer",
+        "answers": [
+            "TBB1",
+            "FCLM"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which of the following is a prerequisite for using the 'SAP Financial Closing Cockpit'?",
+        "type": "mcq",
+        "o": [
+            "Customizing the Task List and Release structure",
+            "Enabling Material Ledger",
+            "Activating CO-PA",
+            "Installing BPC"
+        ]
+    },
+    {
+        "q": "In Asset Accounting (FI-AA), the 'Revaluation of Fixed Assets' using an index series does not require an inflation measure.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The '______' profile in Asset Accounting defines the screen layout rules for asset master data.",
+        "type": "fill_blank",
+        "answers": [
+            "Screen Layout"
+        ],
+        "other_options": [
+            "Field Status",
+            "Account Group",
+            "Document Type",
+            "Asset Class"
+        ]
+    },
+    {
+        "q": "What is the primary difference between 'Cost Center' and 'Profit Center' planning in S/4HANA Embedded Analytics?",
+        "type": "mcq",
+        "o": [
+            "Cost Center planning focuses on expenses; Profit Center planning focuses on balance sheet and P&L",
+            "There is no difference",
+            "Profit Center planning is not available",
+            "Cost Center planning includes balance sheet accounts"
+        ]
+    },
+    {
+        "q": "Match the entity closing tasks with the associated module:",
+        "type": "match",
+        "left": [
+            "Goods Movement Period Close",
+            "CO Period Lock",
+            "GL Period Close",
+            "Tax Return Run"
+        ],
+        "right": [
+            "MMPV",
+            "OKP1",
+            "OB52",
+            "RFUMSV00"
+        ]
+    },
+    {
+        "q": "What is the purpose of the 'WIP (Work in Process) Cancelation' feature in CO-PC?",
+        "type": "mcq",
+        "o": [
+            "Reversing the previous month's capitalized costs so that actuals can settle completely",
+            "Permanently deleting production orders",
+            "Creating credit memos",
+            "Blocking the order"
+        ]
+    },
+    {
+        "q": "The 'APF (Analysis Path Framework)' in Fiori allows end-users to build guided interactive drill-down paths.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the technical name of the SAP Fiori app library used to search for standard Fiori apps?",
+        "type": "short_answer",
+        "answers": [
+            "SAP Fiori Apps Reference Library"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following reports is critical for identifying blocked invoices in MM for GR/IR reconciliation?",
+        "type": "mcq",
+        "o": [
+            "MRBR (Release Blocked Invoices)",
+            "F.13 (Automatic Clearing)",
+            "FBL1N (Vendor Line Items)",
+            "MB5L (Stock Values)"
+        ]
+    },
+    {
+        "q": "In SAP S/4HANA, the 'Draft' concept in the Fiori programming model allows for stateful, temporary storage of business objects during creation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The '______' in Group Reporting replaces the standard statistical items used in classic consolidation for reclassifications.",
+        "type": "fill_blank",
+        "answers": [
+            "Flexible Upload and Reclassification"
+        ],
+        "other_options": [
+            "Set Manager",
+            "Rollup",
+            "Mining",
+            "Validation"
+        ]
+    },
+    {
+        "q": "What is the primary function of the 'SAP S/4HANA Migration Cockpit'?",
+        "type": "mcq",
+        "o": [
+            "Guiding the direct transfer of data from legacy systems using pre-defined migration objects",
+            "Performing daily batch jobs",
+            "Comparing custom code between releases",
+            "Running system health checks"
+        ]
+    },
+    {
+        "q": "Match the direct activity allocation methods:",
+        "type": "match",
+        "left": [
+            "Manual Direct Allocation",
+            "Activity Confirmation",
+            "Statistical Key Figure Posting"
+        ],
+        "right": [
+            "KB21N",
+            "CATS",
+            "KB31N"
+        ]
+    },
+    {
+        "q": "What is the ABAP statement used to invoke an AMDP method?",
+        "type": "short_answer",
+        "answers": [
+            "CALL DATABASE PROCEDURE",
+            "CALL METHOD"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which of the following accurately describes 'Non-Valuated' stock material?",
+        "type": "mcq",
+        "o": [
+            "Material managed on a quantity basis only, not affecting the G/L inventory account",
+            "Material valued at zero price",
+            "Stock in transit",
+            "Consignment stock"
+        ]
+    },
+    {
+        "q": "The 'Soft Close' concept involves hard locks on periods to prevent any postings.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The '______' in Product Costing enables the allocation of process costs to products based on activity driver volumes.",
+        "type": "fill_blank",
+        "answers": [
+            "Template Allocation"
+        ],
+        "other_options": [
+            "Distribution",
+            "Assessment",
+            "Settlement",
+            "Scrap Calculation"
+        ]
+    },
+    {
+        "q": "What is the role of the 'SAP HANA XS Engine' in S/4HANA?",
+        "type": "mcq",
+        "o": [
+            "Native application server for running lightweight web-based components on the DB layer",
+            "The ABAP application server",
+            "The Fiori Launchpad",
+            "A transport management tool"
+        ]
+    },
+    {
+        "q": "In Credit Management, which rule type evaluates the oldest open item to derive a risk class automatically?",
+        "type": "mcq",
+        "o": [
+            "Scoring Rule",
+            "Limit Rule",
+            "Check Rule",
+            "Clearing Rule"
+        ]
+    },
+    {
+        "q": "Match the technical clearing accounts with their use:",
+        "type": "match",
+        "left": [
+            "GR/IR",
+            "Bank Clearing",
+            "Tax Clearing",
+            "Exchange Rate Difference"
+        ],
+        "right": [
+            "Goods delivered but not invoiced",
+            "Interim postings from F110",
+            "VAT payable/receivable interim",
+            "Foreign currency valuations"
+        ]
+    },
+    {
+        "q": "SAP 'Model Company' activates only FI and CO modules, not logistics.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the term for the customizing entity in FI-AR that controls the automatic assignment of payment differences to specific G/L accounts?",
+        "type": "short_answer",
+        "answers": [
+            "Tolerance Groups",
+            "Payment Differences"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In SAP S/4HANA, how does 'Central Finance' handle open items reconciliation for migrated documents?",
+        "type": "mcq",
+        "o": [
+            "It replicates the open items, assigns the same clearing document, and mirrors the cleared status",
+            "It reposts all documents as new in the target",
+            "It deletes open items and posts new ones",
+            "It ignores clearing status"
+        ]
+    },
+    {
+        "q": "The 'Universal Allocation' in S/4HANA eliminates the need for cycle run processing by immediately posting results.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The '______' parameter in the Material Ledger controls whether actual cost component splits are updated during period-end close.",
+        "type": "fill_blank",
+        "answers": [
+            "CCSPLIT (Cost Component Split)"
+        ],
+        "other_options": [
+            "PRICE_DET",
+            "VAL_CLASS",
+            "MAT_CTRL",
+            "STOCK_DET"
+        ]
+    },
+    {
+        "q": "What is the primary difference between an 'Extension Ledger' and a 'Non-Leading Ledger' in S/4HANA?",
+        "type": "mcq",
+        "o": [
+            "Extension Ledger stores only delta entries; Non-Leading stores full entries using a different valuation",
+            "Non-Leading is for US GAAP; Extension is for IFRS",
+            "Extension Ledger is the only one updated in real-time",
+            "Non-Leading Ledgers cannot use foreign currencies"
+        ]
+    },
+    {
+        "q": "Match the Workflow components:",
+        "type": "match",
+        "left": [
+            "Work Item",
+            "Agent",
+            "Task",
+            "Binding"
+        ],
+        "right": [
+            "Runtime instance",
+            "Person responsible",
+            "Step definition",
+            "Data transfer interface"
+        ]
+    },
+    {
+        "q": "SAP Event Management can automatically trigger a Post Depreciation run via a production order confirmation.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which standard transaction code allows you to test a BRFplus function directly?",
+        "type": "short_answer",
+        "answers": [
+            "BRFplus Workbench",
+            "BRF+"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which module integrates with FI to provide 'Revenue Recognition' based on the performance obligations satisfied at a point in time?",
+        "type": "mcq",
+        "o": [
+            "SAP Revenue Accounting and Reporting (RAR)",
+            "SAP SD Billing",
+            "SAP CO-PC",
+            "SAP TRM"
+        ]
+    },
+    {
+        "q": "In SAP S/4HANA, 'CDS Views' replace the need for traditional ABAP work processes.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The '______' table is the primary source for the Margin Analysis (Account-based CO-PA) actuals in S/4HANA.",
+        "type": "fill_blank",
+        "answers": [
+            "ACDOCA"
+        ],
+        "other_options": [
+            "CE1XXXX",
+            "COEP",
+            "FAGLFLEXT",
+            "GLT0"
+        ]
+    },
+    {
+        "q": "What does the term 'Code Pushdown' mean in the context of S/4HANA ABAP programming?",
+        "type": "mcq",
+        "o": [
+            "Moving data-intensive logic from the Application Server layer to the HANA Database layer",
+            "Upgrading ABAP version",
+            "Moving code from Development to Production",
+            "Decommissioning custom code"
+        ]
+    },
+    {
+        "q": "The 'Market Risk Analyzer' in SAP TRM can calculate Value at Risk (VaR) for FX and Securities positions.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Match the S/4HANA Finance innovations:",
+        "type": "match",
+        "left": [
+            "Predictive Accounting",
+            "Continuous Accounting",
+            "Universal Allocation",
+            "Integrated Business Planning"
+        ],
+        "right": [
+            "Future state simulation",
+            "Process decentralization",
+            "Unified cost distribution",
+            "Connecting finance and supply chain"
+        ]
+    },
+    {
+        "q": "What is the transaction code for setting up the legacy asset data transfer worklist?",
+        "type": "short_answer",
+        "answers": [
+            "AS100",
+            "AS91"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which of the following controls whether a Material Ledger distribution quantity unit changes the costs?",
+        "type": "mcq",
+        "o": [
+            "Distribution Group",
+            "Valuation Class",
+            "Movement Type",
+            "Valuation Area"
+        ]
+    },
+    {
+        "q": "The 'SAP Readiness Check' tool evaluates custom code compatibility for S/4HANA migration.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The '______' is the direct predecessor concept in classic CO to the Universal Allocation; it uses a sender-receiver relationship with a fixed tracing factor.",
+        "type": "fill_blank",
+        "answers": [
+            "Assessment Cycle"
+        ],
+        "other_options": [
+            "Direct Reposting",
+            "Distribution",
+            "Settlement",
+            "Order Settlement"
+        ]
+    },
+    {
+        "q": "Which of the following describes the 'Perpetual Inventory' valuation method in S/4HANA?",
+        "type": "mcq",
+        "o": [
+            "Inventory account is updated with every material movement",
+            "Inventory is updated only at month-end",
+            "Inventory is counted daily",
+            "Inventory is never valued"
+        ]
+    },
+    {
+        "q": "In S/4HANA, 'SSCUI' refers to technical configuration done via ABAP backend code.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the name of the visual tool used to configure and extend Fiori apps in S/4HANA Cloud?",
+        "type": "short_answer",
+        "answers": [
+            "SAP Fiori Launchpad Content Manager"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following is a standard characteristic of the 'Leading Ledger' in New GL?",
+        "type": "mcq",
+        "o": [
+            "It is the basis for consolidation and uses the group accounting principle",
+            "It cannot be used for posting directly",
+            "It is always a non-leading ledger",
+            "It only supports local tax reporting"
+        ]
+    },
+    {
+        "q": "The 'Settlement Profile' in CO determines which cost receivers (e.g., Cost Center, Asset, G/L Account) are valid for an order.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The '______' interface is a critical integration point that creates accounting documents automatically from logistics billing.",
+        "type": "fill_blank",
+        "answers": [
+            "SD-FI Integration",
+            "Revenue Account Determination"
+        ],
+        "other_options": [
+            "MM-FI Integration",
+            "HR-FI",
+            "PM-FI",
+            "PP-FI"
+        ]
+    },
+    {
+        "q": "Match the technical accounts with the posting origin:",
+        "type": "match",
+        "left": [
+            "Vendor Down Payment",
+            "Customer Down Payment",
+            "Goods Receipt/Invoice Receipt"
+        ],
+        "right": [
+            "F-48 / F-47",
+            "F-29 / F-37",
+            "MM Movement Types"
+        ]
+    },
+    {
+        "q": "What is the core purpose of the 'ABAP Test Cockpit' (ATC) in SAP development?",
+        "type": "mcq",
+        "o": [
+            "Static code analysis for performance, security, and syntax compliance",
+            "Executing functional unit tests",
+            "Transporting code",
+            "Debugging runtime errors"
+        ]
+    },
+    {
+        "q": "The 'Periodic Reposting' in CO re-distributes costs while retaining the original cost element and sender.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In SAP S/4HANA, which technical object fully replaces the classic Material Ledger tables (MLHD, MLIT, MLPP) for actual costing?",
+        "type": "mcq",
+        "o": [
+            "MLDOC",
+            "ACDOCA",
+            "CKMLPP",
+            "FAGLFLEXT"
+        ]
+    },
+    {
+        "q": "What is the critical performance optimization achieved by the 'Universal Journal' regarding secondary cost elements in CO?",
+        "type": "mcq",
+        "o": [
+            "Elimination of CO-FI reconciliation postings and aggregate tables",
+            "Faster loading of master data",
+            "Reduction of ABAP code",
+            "Removal of the chart of accounts"
+        ]
+    },
+    {
+        "q": "Match the following SAP HANA application services with their protocol:",
+        "type": "match",
+        "left": [
+            "XSODATA",
+            "XSA",
+            "Core Data Services (CDS)",
+            "Information Access (InA)"
+        ],
+        "right": [
+            "OData service definition",
+            "Cloud-native runtime for HANA",
+            "Semantic data modeling",
+            "Analytical data retrieval protocol"
+        ]
+    },
+    {
+        "q": "The ______ is a core data services view in S/4HANA that serves as the single source for financial statement reporting, replacing the old FAGLFLEXT multi-cube model.",
+        "type": "fill_blank",
+        "answers": [
+            "C_JournalEntryItem",
+            "I_JournalEntryItem"
+        ],
+        "other_options": [
+            "GLT0_VIEW",
+            "BSEG_CDS",
+            "FAGL_VIEW",
+            "ACDOCA_RAW"
+        ]
+    },
+    {
+        "q": "SAP Central Finance requires the source system to also be running on SAP S/4HANA.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the specific technical mechanism that allows 'Margin Analysis' (Account-Based CO-PA) to derive profitability characteristics from SD without redundant tables?",
+        "type": "short_answer",
+        "answers": [
+            "Attribute Derivation in Universal Journal",
+            "CO-PA Derivation Rules"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which of the following best describes the 'SAP HANA Delta Merge' process?",
+        "type": "mcq",
+        "o": [
+            "Merging delta storage into main columnar storage to optimize read performance",
+            "Merging two different clients into one",
+            "Merging delta records from SLT into the target",
+            "Merging parallel ledgers"
+        ]
+    },
+    {
+        "q": "In Advanced Financial Closing, the 'Template' approach allows real-time re-execution of tasks if a late journal entry is posted.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The '______' concept in S/4HANA Treasury allows real-time aggregation of cash flows from FI, SD, MM, and TRM to forecast liquidity.",
+        "type": "fill_blank",
+        "answers": [
+            "One Exposure from Operations",
+            "Cash Flow Analyzer"
+        ],
+        "other_options": [
+            "Liquidity Planner",
+            "Cash Journal",
+            "Bank Reconciliation",
+            "Treasury Dashboard"
+        ]
+    },
+    {
+        "q": "What is the primary function of the 'SAP HANA Plan Visualizer' (ST-PI)?",
+        "type": "mcq",
+        "o": [
+            "Graphical analysis of SQL execution plans for query optimization",
+            "Visualizing CO planning layouts",
+            "Displaying financial statement versions",
+            "Mapping profit centers"
+        ]
+    },
+    {
+        "q": "Match the expert Close tools with their T-codes:",
+        "type": "match",
+        "left": [
+            "Closing Cockpit",
+            "Schedule Manager",
+            "Intercompany Reconciliation",
+            "Advanced Compliance Reporting"
+        ],
+        "right": [
+            "CLOCOC",
+            "SM37 / SCMA",
+            "FAGL_ICR",
+            "ACR"
+        ]
+    },
+    {
+        "q": "What is the technical name for the standard CDS view that exposes the Universal Journal entries for external reporting?",
+        "type": "short_answer",
+        "answers": [
+            "I_JournalEntry",
+            "C_JournalEntryItem"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "In SAP S/4HANA, which specific field in ACDOCA acts as the universal partitioning key across all applications?",
+        "type": "mcq",
+        "o": [
+            "RLDNR (Ledger)",
+            "RYEAR (Fiscal Year)",
+            "BELNR (Document Number)",
+            "KOKRS (Controlling Area)"
+        ]
+    },
+    {
+        "q": "The 'Material Ledger' in S/4HANA requires activation of the 'Actual Costing' functionality to be usable for inventory valuation.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The '______' is a mandatory master data integration point that replaces classic transaction-based account determination in FI with a single BP role.",
+        "type": "fill_blank",
+        "answers": [
+            "Business Partner"
+        ],
+        "other_options": [
+            "Customer-Vendor Link",
+            "Vendor Master",
+            "Account Group",
+            "BP Relationship"
+        ]
+    },
+    {
+        "q": "Which of the following is the main architectural shift in S/4HANA Group Reporting compared to ECCS?",
+        "type": "mcq",
+        "o": [
+            "Consolidation directly on ACDOCA line items instead of separate consolidation tables",
+            "Usage of flat files only",
+            "Removal of all intercompany logic",
+            "Manual only consolidation"
+        ]
+    },
+    {
+        "q": "SAP 'Machine Learning' in finance is primarily exposed to users via embedded AI scenarios within standard Fiori apps.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the transaction code for the 'SAP S/4HANA Data Migration Cockpit'?",
+        "type": "short_answer",
+        "answers": [
+            "LTMC",
+            "Migration Cockpit"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which of the following describes the 'Persistence' model of CDS Views in S/4HANA?",
+        "type": "mcq",
+        "o": [
+            "Views can be defined with annotation @OData.publish to expose as OData service directly",
+            "Views are stored as physical tables",
+            "Views must be buffered",
+            "Views cannot be queried"
+        ]
+    },
+    {
+        "q": "Match the Finance Risk types with the SAP TRM tool:",
+        "type": "match",
+        "left": [
+            "Market Risk",
+            "Credit Risk",
+            "Liquidity Risk",
+            "Operational Risk"
+        ],
+        "right": [
+            "Market Risk Analyzer",
+            "Credit Risk Analyzer",
+            "Cash and Liquidity Manager",
+            "Process Control"
+        ]
+    },
+    {
+        "q": "In Central Finance, the 'AIF' (Application Interface Framework) handles error handling and monitoring of SLT replicated data errors.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The '______' in S/4HANA Cloud is the only way to perform custom ABAP development, executed within strict API whitelists.",
+        "type": "fill_blank",
+        "answers": [
+            "Embedded Steampunk",
+            "ABAP Cloud Environment"
+        ],
+        "other_options": [
+            "SE38",
+            "ADT",
+            "Eclipse",
+            "SAP Build"
+        ]
+    },
+    {
+        "q": "What is the specific function of the 'FAGL_FC_VAL' variant for postings only?",
+        "type": "mcq",
+        "o": [
+            "Posting the valuation document without creating a second reversal document",
+            "Reversing the valuation",
+            "Simulating the valuation",
+            "Deleting old valuations"
+        ]
+    },
+    {
+        "q": "SAP S/4HANA can be deployed only on SAP's proprietary cloud infrastructure, not on hyperscalers.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "What is the transaction for configuring 'Cycle Run Groups' in Universal Allocation?",
+        "type": "short_answer",
+        "answers": [
+            "FAGLGA31",
+            "KSU1"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which of the following is a standard BAdI (Business Add-In) for modifying the Payment Program (F110) selection logic?",
+        "type": "mcq",
+        "o": [
+            "BAdI: F110_PAYMENT_RUN",
+            "BAPI_ACC_DOCUMENT_POST",
+            "User Exit: EXIT_SAPMF02D_001",
+            "Enhancement Spot: ES_SAPLF110"
+        ]
+    },
+    {
+        "q": "The 'SAP HANA Database Explorer' is a web-based tool for advanced SQL tracing and database performance tuning.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The '______' determines how price differences from goods movements and invoices are allocated to consumption and ending inventory in the Material Ledger.",
+        "type": "fill_blank",
+        "answers": [
+            "Distribution Group"
+        ],
+        "other_options": [
+            "Valuation Class",
+            "Price Control",
+            "Movement Type",
+            "Currency Type"
+        ]
+    },
+    {
+        "q": "What is the core purpose of the 'SAP S/4HANA Simplification List'?",
+        "type": "mcq",
+        "o": [
+            "Cataloging obsolete transactions and compatibility scopes compared to ECC",
+            "Listing all new Fiori apps",
+            "Simplifying the chart of accounts",
+            "Reducing user licenses"
+        ]
+    },
+    {
+        "q": "Match the consolidation monitor tasks:",
+        "type": "match",
+        "left": [
+            "Data Collection",
+            "Currency Translation",
+            "Elimination",
+            "Validation"
+        ],
+        "right": [
+            "Uploading financial data",
+            "Converting to group currency",
+            "Removing intercompany profits",
+            "Checking data consistency"
+        ]
+    },
+    {
+        "q": "What is the primary purpose of the 'SAP Readiness Check for S/4HANA' regarding custom code?",
+        "type": "short_answer",
+        "answers": [
+            "Identify obsolete ABAP statements",
+            "Custom Code Impact Analysis"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In S/4HANA Finance, the 'Business Situation' framework allows the system to trigger workflows based on real-time KPI thresholds.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "Which of the following is a key difference between 'TRM-TM' (Transaction Manager) and 'TRM-CM' (Cash Management) in S/4HANA?",
+        "type": "mcq",
+        "o": [
+            "TM handles financial trades; CM handles cash positioning and liquidity",
+            "TM handles payments; CM handles collections",
+            "TM handles tax; CM handles cash",
+            "TM is obsolete; CM replaces it"
+        ]
+    },
+    {
+        "q": "The '______' is an ABAP repository object used to model complex HANA SQLScript logic that can be directly consumed by CDS views.",
+        "type": "fill_blank",
+        "answers": [
+            "Table Function"
+        ],
+        "other_options": [
+            "Database View",
+            "Projection View",
+            "Help View",
+            "Maintenance View"
+        ]
+    },
+    {
+        "q": "What is the specific name of the service that maps SAP license materials to user roles?",
+        "type": "mcq",
+        "o": [
+            "SAP License Administration Workbench (LAW)",
+            "SAP User Management Engine (UME)",
+            "SAP Access Control",
+            "SAP GRC"
+        ]
+    },
+    {
+        "q": "SAP S/4HANA 'Output Management' relies on BRFplus decision tables to determine output channels.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the transaction code for the 'Advanced Intercompany Reconciliation' configuration?",
+        "type": "short_answer",
+        "answers": [
+            "FAGL_ICRC",
+            "FAGL_ICR_CONFIG"
+        ],
+        "isCaseSensitive": true
+    },
+    {
+        "q": "Which of the following concepts ensures that a CO Production Order cannot be settled if there is a delivery cost variance?",
+        "type": "mcq",
+        "o": [
+            "Variance Calculation Categories",
+            "Settlement Rule Profile",
+            "WIP Configuration",
+            "Result Analysis Key"
+        ]
+    },
+    {
+        "q": "The 'SAP HANA XS Advanced' runtime allows deployment of Node.js and Java applications directly in the HANA system.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The '______' is the classification system in SAP CO that ensures different line items in a single GL account can be classified into different cost elements.",
+        "type": "fill_blank",
+        "answers": [
+            "Cost Element Category"
+        ],
+        "other_options": [
+            "Account Group",
+            "Valuation Class",
+            "Field Status",
+            "Document Type"
+        ]
+    },
+    {
+        "q": "Match the ECC to S/4HANA table mappings:",
+        "type": "match",
+        "left": [
+            "BSIS/BSAS",
+            "GLT0",
+            "COEP",
+            "MLHD"
+        ],
+        "right": [
+            "Substituted by ACDOCA",
+            "Substituted by ACDOCA",
+            "Substituted by ACDOCA",
+            "Substituted by MLDOC"
+        ]
+    },
+    {
+        "q": "What is the primary benefit of the 'In-Memory First' approach regarding 'Lock Objects' in SAP S/4HANA?",
+        "type": "mcq",
+        "o": [
+            "Optimistic locks reduce database queue wait times compared to classic pessimistic locks",
+            "All locks are removed",
+            "Lock entries are stored in HANA",
+            "Locking is done at the application level only"
+        ]
+    },
+    {
+        "q": "SAP 'Co-Pilot' is the digital assistant embedded in S/4HANA for natural language interaction.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "What is the technical prerequisite for using 'Predictive Accounting' in S/4HANA?",
+        "type": "short_answer",
+        "answers": [
+            "Universal Journal Activation",
+            "ACDOCA"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Which report in FI-AA is used to simulate the planned asset history sheet for future years?",
+        "type": "mcq",
+        "o": [
+            "S_ALR_87012041 / Asset History Sheet Simulation",
+            "AW01N",
+            "ABST2",
+            "FBL3N"
+        ]
+    },
+    {
+        "q": "In S/4HANA, the 'Parallel Valuation' for assets is achieved by assigning a separate depreciation area to each accounting principle.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The '______' is an ABAP RESTful Programming Model artifact that defines the behavior of a business object, including validations and actions.",
+        "type": "fill_blank",
+        "answers": [
+            "Behavior Definition"
+        ],
+        "other_options": [
+            "Function Module",
+            "Class Builder",
+            "BADI",
+            "User Exit"
+        ]
+    },
+    {
+        "q": "What is the specific transaction for executing a multi-currency valuation in the Material Ledger?",
+        "type": "mcq",
+        "o": [
+            "CKMLCP",
+            "CK11N",
+            "F110",
+            "CO88"
+        ]
+    },
+    {
+        "q": "Match the intercompany processes:",
+        "type": "match",
+        "left": [
+            "Stock Transport Order",
+            "Inter-company Billing",
+            "Central Payments"
+        ],
+        "right": [
+            "MM Movement",
+            "SD Billing",
+            "FI Payment Program"
+        ]
+    },
+    {
+        "q": "What does the SAP HANA SQL keyword 'CONCAT' implement?",
+        "type": "short_answer",
+        "answers": [
+            "String concatenation"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "In S/4HANA, the 'General Ledger' and 'Profitability Analysis' use completely separate authorization objects.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "Which of the following describes the 'Zero Downtime Option' (ZDO) in migration?",
+        "type": "mcq",
+        "o": [
+            "Replicating data while the source system is still operational to minimize cutover time",
+            "Migrating over the weekend without testing",
+            "Deleting the source system immediately",
+            "Running both systems in parallel forever"
+        ]
+    },
+    {
+        "q": "The 'SAP HANA SQL Analyzer' is a tool that suggests creating extended tables to fix performance issues.",
+        "type": "true_false",
+        "correct": "False"
+    },
+    {
+        "q": "The '______' field in ACDOCA uniquely identifies the context of the entry (e.g., Actual, Plan, Budget) across all modules.",
+        "type": "fill_blank",
+        "answers": [
+            "RLDNR (Ledger)",
+            "CURTYPE"
+        ],
+        "other_options": [
+            "BSTAT",
+            "DOCCT",
+            "LINETYPE",
+            "RBSTAT"
+        ]
+    },
+    {
+        "q": "What is the primary integration channel between SAP S/4HANA Cloud and SAP Concur?",
+        "type": "mcq",
+        "o": [
+            "SAP Cloud Integration / API Business Hub",
+            "IDoc",
+            "RFC",
+            "Flat file"
+        ]
+    },
+    {
+        "q": "What is the specific name for the SAP cloud solution that handles real-time cash application using machine learning?",
+        "type": "short_answer",
+        "answers": [
+            "SAP Cash Application"
+        ],
+        "isCaseSensitive": false
+    },
+    {
+        "q": "Match the advanced architectures:",
+        "type": "match",
+        "left": [
+            "Clean Core",
+            "Side-by-Side Extension",
+            "On-Stack Extension",
+            "Developer Extensibility"
+        ],
+        "right": [
+            "Minimizing core modifications",
+            "SAP BTP extensions",
+            "ABAP Cloud in S/4HANA",
+            "Fiori elements adaption"
+        ]
+    },
+    {
+        "q": "SAP Analytics Cloud (SAC) can natively query the S/4HANA Universal Journal without data replication via 'Live Connection'.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "In SAP TRM, the 'Financial Object' is the master data integrating a Treasury transaction to the sub-ledger.",
+        "type": "true_false",
+        "correct": "True"
+    },
+    {
+        "q": "The '______' in CO-PC is a strategy used to map the flow of costs through the BOM and routing during a costing run.",
+        "type": "fill_blank",
+        "answers": [
+            "Transfer Control"
+        ],
+        "other_options": [
+            "Costing Variant",
+            "Quantity Structure",
+            "Valuation Variant",
+            "Cost Component Split"
+        ]
+    },
+    {
+        "q": "Which specific authorization object controls access to the 'Universal Journal' entries based on ledger?",
+        "type": "mcq",
+        "o": [
+            "F_ACDOCA_RLDNR",
+            "F_BKPF_BUK",
+            "F_BKPF_KOA",
+            "K_CCA"
+        ]
+    }
+]

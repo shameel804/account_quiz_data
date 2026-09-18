@@ -1,0 +1,167 @@
+{
+    "id": "learn_conce",
+    "topicId": "conce",
+    "topicTitle": "Accounting Concepts & Terminologies",
+    "description": "Master essential accounting terminology including Assets, Liabilities, Equity, Revenue, Expenses, Depreciation, Amortization, and Trial Balance concepts",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "conce_1",
+            "type": "content",
+            "title": "Welcome to Accounting Concepts",
+            "content": "# Accounting Concepts and Terminologies\n\nUnderstanding accounting requires mastering its **unique vocabulary**. This lesson covers the essential terms every accountant must know.\n\n## What You Will Learn\n\n- **Assets, Liabilities, and Equity** - The building blocks\n- **Revenue and Expenses** - The performance drivers\n- **Depreciation and Amortization** - Allocating costs over time\n- **Trial Balance and Adjustments** - Ensuring accuracy\n\n## Why Terminology Matters\n\n| Benefit | Description |\n|---------|-------------|\n| Communication | Speak the same language as other professionals |\n| Accuracy | Use correct terms for correct concepts |\n| Compliance | Meet regulatory and reporting requirements |\n| Analysis | Understand financial reports properly |\n\n> **Pro Tip:** Master these terms and accounting will become much easier to understand!\n\n## The Accounting Language\n\nThink of accounting terminology as a **specialized language**:\n- Every profession has its own vocabulary\n- Precise terms prevent misunderstandings\n- Standardized terms enable comparison\n\nLet's build your accounting vocabulary!"
+        },
+        {
+            "id": "conce_2",
+            "type": "content",
+            "title": "Understanding Assets",
+            "content": "# Assets Explained\n\n## What is an Asset?\n\nAn asset is a **resource controlled by the entity** as a result of past events and from which future economic benefits are expected to flow.\n\n## Key Characteristics\n\n1. **Controlled** by the business (not necessarily owned)\n2. Result of **past transactions**\n3. Expected to provide **future benefits**\n\n## Types of Assets\n\n### Current Assets\nExpected to be converted to cash or used within **one year**:\n\n| Asset | Description |\n|-------|-------------|\n| Cash | Currency and bank balances |\n| Accounts Receivable | Amounts owed by customers |\n| Inventory | Goods held for sale |\n| Prepaid Expenses | Payments made in advance |\n| Short-term Investments | Marketable securities |\n\n### Non-Current (Long-term) Assets\nHeld for **more than one year**:\n\n| Asset | Description |\n|-------|-------------|\n| Property, Plant, Equipment | Buildings, machinery, vehicles |\n| Intangible Assets | Patents, trademarks, goodwill |\n| Long-term Investments | Stocks, bonds held long-term |\n| Natural Resources | Oil, minerals, timber |\n\n## Asset Recognition\n\nRecord an asset when:\n- Future benefit is **probable**\n- Cost can be measured **reliably**\n\n> **Remember:** If it provides future value, it is likely an asset!"
+        },
+        {
+            "id": "conce_3",
+            "type": "content",
+            "title": "Understanding Liabilities",
+            "content": "# Liabilities Explained\n\n## What is a Liability?\n\nA liability is a **present obligation** arising from past events, the settlement of which is expected to result in an outflow of resources.\n\n## Key Characteristics\n\n1. **Present obligation** exists\n2. Arose from **past events**\n3. Expected **outflow of resources** to settle\n\n## Types of Liabilities\n\n### Current Liabilities\nDue within **one year**:\n\n| Liability | Description |\n|-----------|-------------|\n| Accounts Payable | Owed to suppliers |\n| Salaries Payable | Owed to employees |\n| Interest Payable | Owed on loans |\n| Taxes Payable | Owed to government |\n| Unearned Revenue | Payments received in advance |\n| Short-term Debt | Loans due within a year |\n\n### Non-Current (Long-term) Liabilities\nDue **after one year**:\n\n| Liability | Description |\n|-----------|-------------|\n| Long-term Debt | Bank loans, mortgages |\n| Bonds Payable | Corporate bonds issued |\n| Lease Liabilities | Long-term lease obligations |\n| Pension Liabilities | Employee retirement obligations |\n| Deferred Tax Liabilities | Future tax obligations |\n\n## Contingent Liabilities\n\nPotential liabilities depending on future events:\n- Pending lawsuits\n- Product warranties\n- Environmental cleanup\n\n> **Key Point:** Liabilities represent claims against the business assets!"
+        },
+        {
+            "id": "conce_4",
+            "type": "content",
+            "title": "Understanding Equity",
+            "content": "# Equity Explained\n\n## What is Equity?\n\nEquity is the **residual interest** in the assets of the entity after deducting all liabilities. Also called net assets, net worth, or owner's equity.\n\n## The Formula\n\n**Equity = Assets - Liabilities**\n\n## Components of Equity\n\n### For Corporations\n\n| Component | Description |\n|-----------|-------------|\n| **Common Stock** | Par value of shares issued |\n| **Preferred Stock** | Special class of shares |\n| **Additional Paid-in Capital** | Amount paid above par value |\n| **Retained Earnings** | Accumulated profits not distributed |\n| **Treasury Stock** | Shares repurchased (reduces equity) |\n| **Accumulated Other Comprehensive Income** | Unrealized gains/losses |\n\n### For Sole Proprietorships\n\n| Component | Description |\n|-----------|-------------|\n| **Owner's Capital** | Owner's investment |\n| **Drawings** | Owner's withdrawals (reduces equity) |\n\n## Changes in Equity\n\n**Increases:**\n- Owner investments\n- Net income\n- Gains\n\n**Decreases:**\n- Owner withdrawals (drawings)\n- Net losses\n- Dividends\n\n> **Think of it this way:** Equity is what the owners would receive if all assets were sold and all liabilities paid."
+        },
+        {
+            "id": "conce_quiz_1",
+            "type": "quiz",
+            "title": "Terminology Check",
+            "content": "Test your understanding of basic terms!",
+            "quizQuestion": "Which of the following is NOT a current asset?",
+            "quizOptions": [
+                "Cash",
+                "Accounts Receivable",
+                "Building",
+                "Inventory"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "conce_5",
+            "type": "content",
+            "title": "Understanding Revenue",
+            "content": "# Revenue Explained\n\n## What is Revenue?\n\nRevenue is the **gross inflow of economic benefits** during the period arising from ordinary activities that result in increases in equity.\n\n## Key Characteristics\n\n1. Inflows from **ordinary activities**\n2. Results in **increase in equity**\n3. Differs from **capital contributions**\n\n## Types of Revenue\n\n### Operating Revenue\nFrom primary business activities:\n\n| Type | Example |\n|------|--------|\n| Sales Revenue | Selling products |\n| Service Revenue | Providing services |\n| Subscription Revenue | Recurring fees |\n| Rental Revenue | Leasing property |\n\n### Non-Operating Revenue\nFrom secondary activities:\n\n| Type | Example |\n|------|--------|\n| Interest Income | Earnings on investments |\n| Dividend Income | Dividends received |\n| Gains | Sale of assets above book value |\n\n## Revenue Recognition\n\n### The Five-Step Model (ASC 606 / IFRS 15)\n\n1. **Identify** the contract with customer\n2. **Identify** performance obligations\n3. **Determine** the transaction price\n4. **Allocate** price to obligations\n5. **Recognize** revenue when obligations satisfied\n\n## Revenue vs Cash\n\n- Revenue is recognized when **earned**\n- Cash is received when **collected**\n- These often occur at different times\n\n> **Key Point:** Revenue drives the top line of the income statement!"
+        },
+        {
+            "id": "conce_6",
+            "type": "content",
+            "title": "Understanding Expenses",
+            "content": "# Expenses Explained\n\n## What is an Expense?\n\nAn expense is the **outflow of economic benefits** during a period that results in decreases in equity, other than distributions to owners.\n\n## Key Characteristics\n\n1. **Outflow** of resources\n2. Results in **decrease in equity**\n3. Related to **earning revenue**\n\n## Types of Expenses\n\n### Operating Expenses\nCosts of running the business:\n\n| Category | Examples |\n|----------|----------|\n| **Cost of Goods Sold** | Direct costs of products sold |\n| **Selling Expenses** | Sales salaries, advertising, commissions |\n| **Administrative Expenses** | Office rent, utilities, insurance |\n| **Depreciation** | Allocation of asset costs |\n\n### Non-Operating Expenses\nCosts not from primary operations:\n\n| Category | Examples |\n|----------|----------|\n| **Interest Expense** | Cost of borrowing |\n| **Losses** | Sale of assets below book value |\n| **Income Tax Expense** | Taxes on profits |\n\n## The Matching Principle\n\nExpenses should be recorded in the **same period** as the revenues they help generate.\n\n**Example:**\n- Sell products in December\n- Match the cost of those products to December\n- Even if payment occurs in January\n\n## Expense vs Cash Payment\n\n- Expense recognized when **incurred**\n- Cash paid when **disbursed**\n- Timing often differs\n\n> **Remember:** Expenses reduce net income and ultimately equity!"
+        },
+        {
+            "id": "conce_7",
+            "type": "content",
+            "title": "Revenue vs Expenses Comparison",
+            "content": "# Revenue and Expenses: The Performance Equation\n\n## The Fundamental Relationship\n\n**Revenue - Expenses = Net Income (or Net Loss)**\n\n## Side-by-Side Comparison\n\n| Aspect | Revenue | Expenses |\n|--------|---------|----------|\n| **Effect on Equity** | Increases | Decreases |\n| **Income Statement** | Top section | Subtracted from revenue |\n| **Normal Balance** | Credit | Debit |\n| **Timing** | When earned | When incurred |\n| **Result** | Inflows | Outflows |\n\n## The Matching Concept\n\n```\nJanuary Sales:         $10,000 (Revenue)\nCost of Those Sales:   ($4,000) (Expense)\n                      ---------\nGross Profit:           $6,000\n```\n\nBoth the revenue and its related expense are recorded in the same period.\n\n## Temporary Accounts\n\nBoth revenue and expense accounts are **temporary**:\n- Reset to zero at period end\n- Balances transferred to Retained Earnings\n- Start fresh each period\n\n## Impact Analysis\n\n| Scenario | Revenue | Expenses | Net Income |\n|----------|---------|----------|------------|\n| Profitable | High | Low | Positive |\n| Break-even | Equal | Equal | Zero |\n| Loss | Low | High | Negative |\n\n> **Goal:** Maximize revenue while controlling expenses to generate profit!"
+        },
+        {
+            "id": "conce_quiz_2",
+            "type": "quiz",
+            "title": "Revenue and Expenses Quiz",
+            "content": "Test your understanding of revenue and expenses!",
+            "quizQuestion": "According to the matching principle, when should the cost of goods sold be recorded?",
+            "quizOptions": [
+                "When the goods are purchased",
+                "When the goods are sold",
+                "When payment is received from the customer",
+                "At the end of the accounting period"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "conce_8",
+            "type": "content",
+            "title": "Understanding Depreciation",
+            "content": "# Depreciation Explained\n\n## What is Depreciation?\n\nDepreciation is the **systematic allocation** of the cost of a tangible asset over its useful life.\n\n## Why Depreciate?\n\n- Assets **lose value** over time through use and obsolescence\n- **Matches** asset cost with revenue it generates\n- Required by **GAAP and IFRS**\n- Provides **tax benefits**\n\n## Key Terms\n\n| Term | Definition |\n|------|------------|\n| **Cost** | Original purchase price |\n| **Useful Life** | Expected period of use |\n| **Salvage Value** | Expected value at end of life |\n| **Depreciable Base** | Cost minus salvage value |\n| **Accumulated Depreciation** | Total depreciation to date |\n| **Book Value** | Cost minus accumulated depreciation |\n\n## Common Depreciation Methods\n\n### 1. Straight-Line Method\n\nEqual amount each year:\n\n```\nAnnual Depreciation = (Cost - Salvage Value) / Useful Life\n\nExample:\nCost: $50,000\nSalvage: $5,000\nLife: 5 years\n\nAnnual Dep = ($50,000 - $5,000) / 5 = $9,000 per year\n```\n\n### 2. Declining Balance Method\n\nHigher depreciation in early years:\n\n```\nAnnual Dep = Book Value x Depreciation Rate\n\nDouble-Declining Rate = (1 / Useful Life) x 2\n```\n\n### 3. Units of Production Method\n\nBased on actual usage:\n\n```\nDep per Unit = (Cost - Salvage) / Total Expected Units\nAnnual Dep = Dep per Unit x Units Produced This Year\n```\n\n> **Note:** Depreciation is a non-cash expense!"
+        },
+        {
+            "id": "conce_9",
+            "type": "content",
+            "title": "Depreciation Examples",
+            "content": "# Depreciation Methods in Practice\n\n## Asset Details\n\n- **Cost:** $100,000\n- **Salvage Value:** $10,000\n- **Useful Life:** 5 years\n- **Depreciable Base:** $90,000\n\n## Method 1: Straight-Line\n\n```\nAnnual Depreciation = $90,000 / 5 = $18,000\n\nYear    Depreciation    Accumulated    Book Value\n----    ------------    -----------    ----------\n  1       $18,000         $18,000       $82,000\n  2       $18,000         $36,000       $64,000\n  3       $18,000         $54,000       $46,000\n  4       $18,000         $72,000       $28,000\n  5       $18,000         $90,000       $10,000\n```\n\n## Method 2: Double-Declining Balance\n\n```\nRate = (1/5) x 2 = 40%\n\nYear    Book Value    Rate    Depreciation    Ending BV\n----    ----------    ----    ------------    ---------\n  1      $100,000     40%       $40,000        $60,000\n  2       $60,000     40%       $24,000        $36,000\n  3       $36,000     40%       $14,400        $21,600\n  4       $21,600     40%        $8,640        $12,960\n  5       $12,960      --        $2,960        $10,000\n```\n\n*Note: Year 5 limited to reach salvage value*\n\n## Comparison\n\n| Method | Year 1 | Year 5 | Total |\n|--------|--------|--------|-------|\n| Straight-Line | $18,000 | $18,000 | $90,000 |\n| Double-Declining | $40,000 | $2,960 | $90,000 |\n\n> **Both methods depreciate the same total amount, just at different rates!**"
+        },
+        {
+            "id": "conce_10",
+            "type": "content",
+            "title": "Understanding Amortization",
+            "content": "# Amortization Explained\n\n## What is Amortization?\n\nAmortization is the **systematic allocation** of the cost of an intangible asset over its useful life.\n\n## Depreciation vs Amortization\n\n| Aspect | Depreciation | Amortization |\n|--------|--------------|---------------|\n| **Applies to** | Tangible assets | Intangible assets |\n| **Examples** | Buildings, equipment | Patents, copyrights |\n| **Salvage value** | Often included | Usually zero |\n| **Methods** | Multiple available | Usually straight-line |\n\n## Intangible Assets Subject to Amortization\n\n### Definite Life Intangibles (Amortized)\n\n| Asset | Typical Life |\n|-------|--------------|\n| Patents | Legal life (20 years) or useful life |\n| Copyrights | Legal life or useful life |\n| Franchises | Contract period |\n| Licenses | License period |\n| Customer Lists | Estimated useful life |\n\n### Indefinite Life Intangibles (NOT Amortized)\n\n| Asset | Treatment |\n|-------|----------|\n| Goodwill | Tested for impairment annually |\n| Trademarks | Tested for impairment annually |\n| Perpetual Licenses | Tested for impairment annually |\n\n## Amortization Example\n\n```\nPatent purchased: $100,000\nUseful life: 10 years\nSalvage value: $0\n\nAnnual Amortization = $100,000 / 10 = $10,000 per year\n\nJournal Entry:\n  Amortization Expense    $10,000\n      Accumulated Amort.          $10,000\n```\n\n> **Key Difference:** Intangible assets have no physical form but still have value!"
+        },
+        {
+            "id": "conce_quiz_3",
+            "type": "quiz",
+            "title": "Depreciation and Amortization Quiz",
+            "content": "Test your understanding!",
+            "quizQuestion": "Which asset would be amortized rather than depreciated?",
+            "quizOptions": [
+                "Delivery truck",
+                "Office building",
+                "Patent",
+                "Manufacturing equipment"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "conce_11",
+            "type": "content",
+            "title": "Understanding the Trial Balance",
+            "content": "# The Trial Balance\n\n## What is a Trial Balance?\n\nA trial balance is a **list of all account balances** at a specific point in time, used to verify that total debits equal total credits.\n\n## Purpose of the Trial Balance\n\n1. **Verify mathematical accuracy** of the ledger\n2. **Prepare** for financial statement creation\n3. **Detect errors** in recording\n4. Serve as a **working document** for adjustments\n\n## Format\n\n```\nABC Company\nTrial Balance\nDecember 31, 2024\n\nAccount                    Debit       Credit\n------------------------------------------\nCash                      $50,000\nAccounts Receivable        30,000\nInventory                  45,000\nEquipment                 100,000\nAccumulated Depreciation              $20,000\nAccounts Payable                       25,000\nNotes Payable                          40,000\nCommon Stock                           80,000\nRetained Earnings                      30,000\nService Revenue                        80,000\nSalaries Expense           35,000\nRent Expense               12,000\nUtilities Expense           3,000\n------------------------------------------\nTotals                   $275,000    $275,000\n```\n\n## Key Points\n\n- **Debits must equal credits**\n- Does NOT guarantee all entries are correct\n- Only shows account balances, not individual transactions\n\n> **Limitation:** A trial balance can balance even if errors exist (like posting to wrong account)!"
+        },
+        {
+            "id": "conce_12",
+            "type": "content",
+            "title": "Types of Trial Balances",
+            "content": "# Three Types of Trial Balance\n\n## 1. Unadjusted Trial Balance\n\nPrepared **before** adjusting entries:\n- Contains only transactions recorded during period\n- Does not include accruals or deferrals\n- First step in period-end process\n\n```\nPrepared --> Adjustments --> Adjusted TB\n```\n\n## 2. Adjusted Trial Balance\n\nPrepared **after** adjusting entries:\n- Includes all adjustments for accruals, deferrals, etc.\n- Ready for financial statement preparation\n- All accounts at correct period-end balances\n\n## 3. Post-Closing Trial Balance\n\nPrepared **after** closing entries:\n- Contains only permanent accounts\n- All temporary accounts are zero\n- Verifies books are ready for new period\n\n## Comparison\n\n| Type | When Prepared | Contains |\n|------|---------------|----------|\n| **Unadjusted** | Before adjustments | Original balances |\n| **Adjusted** | After adjustments | Corrected balances |\n| **Post-Closing** | After closing | Only permanent accounts |\n\n## Account Types\n\n| Permanent (Real) | Temporary (Nominal) |\n|------------------|--------------------|\n| Assets | Revenue |\n| Liabilities | Expenses |\n| Equity | Dividends |\n\n> **Flow:** Unadjusted - Adjusted - Financial Statements - Closing - Post-Closing"
+        },
+        {
+            "id": "conce_13",
+            "type": "content",
+            "title": "Adjusting Entries Overview",
+            "content": "# Adjusting Entries\n\n## What are Adjusting Entries?\n\nAdjusting entries are made at the **end of an accounting period** to ensure that revenues and expenses are recorded in the correct period.\n\n## Why Adjustments are Needed\n\n- **Accrual accounting** requires matching\n- Some transactions span **multiple periods**\n- Some amounts are **estimated**\n- Ensures **accurate financial statements**\n\n## Four Types of Adjustments\n\n### 1. Accrued Revenues\nRevenue earned but **not yet recorded or received**\n\n```\nExample: Interest earned but not yet received\n\n  Accounts Receivable     $500\n      Interest Revenue           $500\n```\n\n### 2. Accrued Expenses\nExpenses incurred but **not yet recorded or paid**\n\n```\nExample: Wages earned by employees but not yet paid\n\n  Wages Expense          $2,000\n      Wages Payable             $2,000\n```\n\n### 3. Deferred Revenues (Unearned)\nPayment received **before** revenue is earned\n\n```\nExample: Subscription received in advance, now earned\n\n  Unearned Revenue        $300\n      Service Revenue            $300\n```\n\n### 4. Deferred Expenses (Prepaid)\nPayment made **before** expense is incurred\n\n```\nExample: Insurance paid in advance, now used\n\n  Insurance Expense       $400\n      Prepaid Insurance          $400\n```\n\n> **Remember:** Adjustments ensure the matching principle is applied!"
+        },
+        {
+            "id": "conce_14",
+            "type": "content",
+            "title": "Adjusting Entry Examples",
+            "content": "# Detailed Adjusting Entry Examples\n\n## Scenario 1: Accrued Salary\n\nEmployees earned $5,000 during the last week of December but will be paid in January.\n\n**Analysis:**\n- Work was performed in December (expense incurred)\n- Payment will occur in January\n- Need to record expense in December\n\n**December 31 Adjusting Entry:**\n```\n  Salary Expense           $5,000\n      Salaries Payable            $5,000\n```\n\n## Scenario 2: Prepaid Rent\n\nPaid $12,000 on October 1 for 12 months rent. Need to adjust at December 31.\n\n**Analysis:**\n- Monthly rent: $12,000 / 12 = $1,000\n- Three months used (Oct, Nov, Dec): $3,000\n- Nine months remaining: $9,000\n\n**December 31 Adjusting Entry:**\n```\n  Rent Expense             $3,000\n      Prepaid Rent                $3,000\n```\n\n## Scenario 3: Unearned Revenue\n\nReceived $6,000 on November 1 for 6 months of consulting. Adjust at December 31.\n\n**Analysis:**\n- Monthly revenue: $6,000 / 6 = $1,000\n- Two months earned (Nov, Dec): $2,000\n- Four months still unearned: $4,000\n\n**December 31 Adjusting Entry:**\n```\n  Unearned Revenue         $2,000\n      Consulting Revenue          $2,000\n```\n\n## Scenario 4: Depreciation\n\nEquipment cost $24,000 with 4-year life and no salvage value.\n\n**December 31 Adjusting Entry:**\n```\n  Depreciation Expense     $6,000\n      Accumulated Depreciation    $6,000\n```\n\n> **Practice:** Work through these examples until they become second nature!"
+        },
+        {
+            "id": "conce_quiz_4",
+            "type": "quiz",
+            "title": "Adjusting Entries Quiz",
+            "content": "Test your understanding of adjustments!",
+            "quizQuestion": "A company receives $3,600 for a 12-month service contract on April 1. How much revenue should be recognized by June 30?",
+            "quizOptions": [
+                "$300",
+                "$900",
+                "$1,200",
+                "$3,600"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "conce_15",
+            "type": "content",
+            "title": "Other Key Accounting Terms",
+            "content": "# Additional Important Terms\n\n## Account Types\n\n### Contra Accounts\nAccounts that **offset** another account:\n- Accumulated Depreciation (offsets assets)\n- Allowance for Doubtful Accounts (offsets A/R)\n- Sales Returns (offsets revenue)\n\n### Nominal vs Real Accounts\n\n| Nominal (Temporary) | Real (Permanent) |\n|--------------------|------------------|\n| Revenue | Assets |\n| Expenses | Liabilities |\n| Dividends | Equity |\n| Closed each period | Carry forward |\n\n## Transaction Terms\n\n### Accruals\n- Recording items **before** cash changes hands\n- Accrued revenue (receivables)\n- Accrued expenses (payables)\n\n### Deferrals\n- Recording items **after** cash changes hands\n- Prepaid expenses\n- Unearned revenue\n\n## Valuation Terms\n\n| Term | Definition |\n|------|------------|\n| **Book Value** | Cost minus accumulated depreciation |\n| **Fair Value** | Market price |\n| **Net Realizable Value** | Expected selling price minus costs |\n| **Historical Cost** | Original purchase price |\n\n## Period Terms\n\n- **Fiscal Year** - 12-month accounting period\n- **Interim Period** - Less than a year (monthly, quarterly)\n- **Reporting Period** - Time covered by financial statements\n\n> **Build your vocabulary** - These terms appear constantly in accounting!"
+        },
+        {
+            "id": "conce_16",
+            "type": "content",
+            "title": "The Complete Accounting Cycle",
+            "content": "# Putting It All Together\n\n## The Full Accounting Cycle\n\n### Step 1: Analyze Transactions\n- Review source documents\n- Determine accounts affected\n\n### Step 2: Journalize\n- Record in general journal\n- Debits and credits\n\n### Step 3: Post to Ledger\n- Transfer to individual accounts\n- Update balances\n\n### Step 4: Prepare Unadjusted Trial Balance\n- List all account balances\n- Verify debits = credits\n\n### Step 5: Make Adjusting Entries\n- Accruals and deferrals\n- Depreciation and estimates\n\n### Step 6: Prepare Adjusted Trial Balance\n- Include adjustments\n- Ready for statements\n\n### Step 7: Prepare Financial Statements\n- Income Statement\n- Balance Sheet\n- Cash Flow Statement\n- Statement of Changes in Equity\n\n### Step 8: Close Temporary Accounts\n- Close revenues to Income Summary\n- Close expenses to Income Summary\n- Close Income Summary to Retained Earnings\n\n### Step 9: Prepare Post-Closing Trial Balance\n- Verify only permanent accounts remain\n- Ready for next period\n\n> **Cycle:** This process repeats every accounting period!"
+        },
+        {
+            "id": "conce_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **Accounting Concepts and Terminologies** lesson!\n\n## Key Terms Mastered\n\n### The Building Blocks\n- **Assets** - Resources owned providing future benefit\n- **Liabilities** - Obligations owed to others\n- **Equity** - Residual interest after liabilities\n\n### Performance Drivers\n- **Revenue** - Inflows from operations\n- **Expenses** - Outflows from operations\n\n### Cost Allocation\n- **Depreciation** - For tangible assets\n- **Amortization** - For intangible assets\n\n### Verification Tools\n- **Trial Balance** - Debits equal credits\n- **Adjusting Entries** - Period-end corrections\n\n## Quick Reference\n\n| Term | Key Point |\n|------|----------|\n| Assets | What we own |\n| Liabilities | What we owe |\n| Equity | Owner's interest |\n| Revenue | What we earn |\n| Expenses | What we spend |\n| Depreciation | Tangible asset allocation |\n| Amortization | Intangible asset allocation |\n\n## What is Next?\n\nNow explore:\n- Journal entries and ledgers\n- Financial ratios and analysis\n- Cost accounting concepts\n\n> **Remember:** Master these terms and you will have a solid foundation for all accounting work!"
+        }
+    ]
+}

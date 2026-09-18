@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Information Systems Basics 💻",
+        "ques": "What are the **components** of an information system?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Components**:\n1. Hardware (computers, servers)\n2. Software (applications, operating systems)\n3. Data (stored information)\n4. Procedures (policies, processes)\n5. People (users, IT staff)\n6. Networks (connectivity)"
+        },
+        "explanation": "All components must work ***together*** effectively."
+    },
+    {
+        "title": "ERP Systems 🏢",
+        "ques": "What are the **benefits and challenges** of ERP systems?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Benefits**:\n* Integrated data across functions\n* Real-time information\n* Standardized processes\n* Better reporting\n* Reduced redundancy\n\n**Challenges**:\n* High implementation cost\n* Complex and lengthy implementation\n* Change management\n* Ongoing maintenance"
+        },
+        "explanation": "ERP ***integrates*** finance, operations, HR, and other functions."
+    },
+    {
+        "title": "Data Governance 📊",
+        "ques": "What is **data governance** and why is it important?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Data Governance**: Framework for managing data as strategic asset\n\n**Components**:\n* Data ownership and stewardship\n* Data quality standards\n* Policies and procedures\n* Master data management\n* Security and privacy\n\n**Importance**: Ensures data is accurate, consistent, secure"
+        },
+        "explanation": "***Poor data quality*** leads to bad decisions."
+    },
+    {
+        "title": "Business Intelligence 📈",
+        "ques": "What are the **components** of a business intelligence system?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**BI Components**:\n* Data warehouse (stored historical data)\n* ETL (Extract, Transform, Load) processes\n* OLAP (Online Analytical Processing)\n* Reporting tools\n* Dashboards\n* Data mining capabilities"
+        },
+        "explanation": "BI turns ***data into insights*** for decision-making."
+    },
+    {
+        "title": "Data Analytics Types 📊",
+        "ques": "What are the **four types** of data analytics?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Four Types**:\n1. **Descriptive**: What happened? (reports, dashboards)\n2. **Diagnostic**: Why did it happen? (drill-down, exploration)\n3. **Predictive**: What will happen? (forecasting, modeling)\n4. **Prescriptive**: What should we do? (optimization, simulation)"
+        },
+        "explanation": "Value increases from descriptive to ***prescriptive*** analytics."
+    },
+    {
+        "title": "Data Visualization 📉",
+        "ques": "What are **best practices** for data visualization?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Best Practices**:\n* Choose appropriate chart type\n* Keep it simple and uncluttered\n* Use color purposefully\n* Label clearly\n* Highlight key insights\n* Provide context (comparisons, trends)\n* Consider the audience"
+        },
+        "explanation": "Good visualization ***communicates insights*** effectively."
+    },
+    {
+        "title": "Automation Technologies 🤖",
+        "ques": "What is **Robotic Process Automation (RPA)**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**RPA**: Software bots that automate repetitive, rule-based tasks\n\n**Applications in Finance**:\n* Invoice processing\n* Reconciliations\n* Report generation\n* Data entry\n* Compliance checking\n\n**Benefits**: Accuracy, speed, cost savings"
+        },
+        "explanation": "RPA handles ***high-volume, repetitive*** tasks."
+    },
+    {
+        "title": "Cloud Computing 🌐",
+        "ques": "What are the **service models** in cloud computing?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Service Models**:\n* **IaaS** (Infrastructure): Virtual servers, storage\n* **PaaS** (Platform): Development environment\n* **SaaS** (Software): Applications via browser\n\n**Deployment**:\n* Public, Private, Hybrid clouds"
+        },
+        "explanation": "Cloud offers ***flexibility and scalability*** but requires security attention."
+    },
+    {
+        "title": "Cybersecurity Risks 🔒",
+        "ques": "What are the **major cybersecurity risks** for organizations?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Major Risks**:\n* Phishing and social engineering\n* Ransomware\n* Data breaches\n* Malware\n* Insider threats\n* Denial of service (DoS)\n* Business email compromise"
+        },
+        "explanation": "***Human error*** is often the weakest link."
+    },
+    {
+        "title": "Data Privacy 🔐",
+        "ques": "What are key **data privacy regulations** affecting businesses?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Key Regulations**:\n* GDPR (European Union)\n* CCPA (California)\n* HIPAA (healthcare data)\n* SOX (financial data)\n* PCI DSS (payment cards)\n\n**Requirements**: Consent, notification, security, breach reporting"
+        },
+        "explanation": "Non-compliance can result in ***significant fines***."
+    },
+    {
+        "title": "AI in Finance 🤖",
+        "ques": "How is **AI and machine learning** being used in finance?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Applications**:\n* Fraud detection\n* Credit risk assessment\n* Algorithmic trading\n* Forecasting and planning\n* Anomaly detection\n* Customer service (chatbots)\n* Document processing"
+        },
+        "explanation": "AI ***augments*** but doesn't replace human judgment."
+    },
+    {
+        "title": "Blockchain Basics ⛓️",
+        "ques": "What is **blockchain** and what are its potential uses in accounting?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Blockchain**: Distributed ledger technology with immutable records\n\n**Potential Uses**:\n* Smart contracts\n* Supply chain tracking\n* Real-time audit trail\n* Automated reconciliation\n* Secure data sharing"
+        },
+        "explanation": "Still ***emerging*** for mainstream accounting use."
+    },
+    {
+        "title": "IT Project Management 📋",
+        "ques": "What are **key success factors** for IT projects?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Success Factors**:\n* Clear objectives and scope\n* Executive sponsorship\n* User involvement\n* Skilled project team\n* Realistic timeline and budget\n* Change management\n* Risk management\n* Testing and training"
+        },
+        "explanation": "IT projects frequently ***fail*** due to poor planning and change management."
+    },
+    {
+        "title": "Continuous Auditing 🔄",
+        "ques": "What is **continuous auditing** and how does technology enable it?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Continuous Auditing**: Automated, real-time testing of transactions\n\n**Technology Enablers**:\n* Data analytics tools\n* Automated testing scripts\n* Exception reporting\n* Dashboards and alerts\n* Integrated audit software"
+        },
+        "explanation": "Moves from ***sample-based*** to ***100% testing***."
+    },
+    {
+        "title": "Digital Finance Transformation 🚀",
+        "ques": "What are the **key elements** of finance digital transformation?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Key Elements**:\n* Cloud-based systems\n* Automation (RPA, AI)\n* Advanced analytics\n* Real-time reporting\n* Self-service tools\n* Mobile access\n* Integrated data platforms"
+        },
+        "explanation": "Transformation shifts finance role from ***recording*** to ***advising***."
+    }
+]

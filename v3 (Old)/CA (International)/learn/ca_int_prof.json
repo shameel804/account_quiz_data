@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_int_prof",
+    "topicId": "ca_int_prof",
+    "topicTitle": "Applied Knowledge Level",
+    "description": "Master CA International Applied Knowledge covering BT, MA, FA modules",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "cai_ak1",
+            "type": "content",
+            "title": "Welcome to Applied Knowledge",
+            "content": "# CA International Applied Knowledge\n\nBuild your **core knowledge** foundation.\n\n## What You Will Learn\n\n- **BT** - Business and Technology\n- **MA** - Management Accounting\n- **FA** - Financial Accounting\n\n## Level Structure\n\n| Module | Content |\n|--------|--------|\n| BT | Business, IT, ethics |\n| MA | Costing, budgets |\n| FA | IFRS statements |"
+        },
+        {
+            "id": "cai_ak2",
+            "type": "content",
+            "title": "Business and Technology",
+            "content": "# BT Module\n\n## Business Functions\n\n| Area | Focus |\n|------|-------|\n| Strategy | Direction |\n| Marketing | Customers |\n| HR | People |\n| Operations | Processes |\n\n## Information Technology\n\n| Topic | Coverage |\n|-------|----------|\n| IT systems | ERP, Cloud |\n| E-business | Digital |\n| Data | Analytics |\n| Security | Controls |"
+        },
+        {
+            "id": "cai_ak3",
+            "type": "content",
+            "title": "Management Accounting",
+            "content": "# MA Module\n\n## Costing Systems\n\n| System | Use |\n|--------|-----|\n| Job costing | Custom |\n| Batch costing | Groups |\n| Process costing | Continuous |\n\n## Absorption vs Marginal\n\n| Method | Treatment |\n|--------|----------|\n| Absorption | Fixed in inventory |\n| Marginal | Fixed to P&L |\n\n## Budgeting\n\n```\nMaster budget flow:\nSales -> Production -> Resources -> Cash\n```"
+        },
+        {
+            "id": "cai_ak_quiz1",
+            "type": "quiz",
+            "title": "Costing Quiz",
+            "content": "Test your costing knowledge!",
+            "quizQuestion": "Process costing is for?",
+            "quizOptions": [
+                "Custom orders",
+                "Continuous production",
+                "Services",
+                "One-off jobs"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_ak4",
+            "type": "content",
+            "title": "Standard Costing",
+            "content": "# Variance Analysis\n\n## Material Variances\n\n```\nPrice: (Actual - Standard Price) x Actual Qty\nUsage: (Actual - Standard Qty) x Standard Price\n```\n\n## Labor Variances\n\n```\nRate: (Actual - Standard Rate) x Actual Hours\nEfficiency: (Actual - Standard Hours) x Standard Rate\n```\n\n## Interpretation\n\n| Variance | F or A |\n|----------|--------|\n| Actual < Standard | Favorable |\n| Actual > Standard | Adverse |"
+        },
+        {
+            "id": "cai_ak5",
+            "type": "content",
+            "title": "Financial Accounting - IFRS",
+            "content": "# FA Module\n\n## Conceptual Framework\n\n| Purpose | Users |\n|---------|-------|\n| Useful information | Investors |\n| Decision-making | Creditors |\n\n## Qualitative Characteristics\n\n| Primary | Enhancing |\n|---------|----------|\n| Relevance | Comparability |\n| Faithful representation | Verifiability |\n| | Timeliness |\n| | Understandability |"
+        },
+        {
+            "id": "cai_ak6",
+            "type": "content",
+            "title": "IAS Standards Basics",
+            "content": "# Key Standards\n\n## IAS 1 - Presentation\n\n| Statement | Content |\n|-----------|--------|\n| SFP | Assets, liabilities |\n| SPLOCI | Performance |\n| SOCE | Equity changes |\n| SCF | Cash movements |\n\n## IAS 2 - Inventories\n\n```\nLower of Cost and NRV\n\nCost = FIFO or Weighted Average\n```\n\n## IAS 16 - PPE\n\n- Cost model or Revaluation model\n- Depreciation over useful life"
+        },
+        {
+            "id": "cai_ak_quiz2",
+            "type": "quiz",
+            "title": "IAS Quiz",
+            "content": "Test your IAS knowledge!",
+            "quizQuestion": "IAS 16 covers?",
+            "quizOptions": [
+                "Inventory",
+                "PPE",
+                "Revenue",
+                "Leases"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_ak7",
+            "type": "content",
+            "title": "Accruals Concept",
+            "content": "# Matching Principle\n\n## Accruals\n\n```\nExpense incurred but not paid\n\nDr Expense\nCr Accrual (liability)\n```\n\n## Prepayments\n\n```\nExpense paid in advance\n\nDr Prepayment (asset)\nCr Expense\n```\n\n## Revenue Recognition\n\n- Performance obligation satisfied\n- Control transferred"
+        },
+        {
+            "id": "cai_ak8",
+            "type": "content",
+            "title": "Depreciation",
+            "content": "# IAS 16 Application\n\n## Methods\n\n| Method | Formula |\n|--------|--------|\n| Straight-line | (Cost-RV)/Life |\n| Reducing balance | NBV x Rate |\n| Units | Cost x (Units/Total) |\n\n## Components\n\n```\nSignificant components:\nDepreciate separately\n```\n\n## Disposal\n\n```\nProceeds - Carrying amount = Gain/Loss\n```"
+        },
+        {
+            "id": "cai_ak9",
+            "type": "content",
+            "title": "Provisions and Contingencies",
+            "content": "# IAS 37\n\n## Provision Recognition\n\n| Criterion | Requirement |\n|-----------|-------------|\n| Present obligation | Past event |\n| Probable outflow | More likely |\n| Reliable estimate | Measurable |\n\n## Contingent Liability\n\n| Probability | Treatment |\n|-------------|----------|\n| Probable | Provision |\n| Possible | Disclose |\n| Remote | Nothing |\n\n## Contingent Asset\n\n- Virtually certain: Recognize\n- Probable: Disclose\n- Possible: Nothing"
+        },
+        {
+            "id": "cai_ak_quiz3",
+            "type": "quiz",
+            "title": "Provision Quiz",
+            "content": "Test your IAS 37 knowledge!",
+            "quizQuestion": "A provision needs how many criteria?",
+            "quizOptions": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cai_ak10",
+            "type": "content",
+            "title": "Company Financial Statements",
+            "content": "# Limited Company Accounts\n\n## Share Capital\n\n| Type | Features |\n|------|----------|\n| Ordinary | Voting, variable dividend |\n| Preference | Priority dividend |\n\n## Reserves\n\n| Reserve | Nature |\n|---------|--------|\n| Share premium | Non-distributable |\n| Revaluation | Non-distributable |\n| Retained earnings | Distributable |\n\n## Issue at Premium\n\n```\nDr Cash\nCr Share Capital\nCr Share Premium\n```"
+        },
+        {
+            "id": "cai_ak11",
+            "type": "content",
+            "title": "Cash Flow Statement",
+            "content": "# IAS 7\n\n## Categories\n\n| Activity | Examples |\n|----------|----------|\n| Operating | Trading |\n| Investing | PPE, investments |\n| Financing | Shares, loans |\n\n## Indirect Method\n\n```\nProfit before tax\n+ Depreciation\n+ Loss on disposal\n- Increase in receivables\n+ Increase in payables\n= Cash from operations\n```"
+        },
+        {
+            "id": "cai_ak12",
+            "type": "content",
+            "title": "Incomplete Records",
+            "content": "# Reconstructing Accounts\n\n## Techniques\n\n| Method | Use |\n|--------|-----|\n| Net assets | Opening vs closing |\n| Control accounts | Reconstruct |\n| Margins | Apply |\n\n## Profit Calculation\n\n```\nClosing net assets\n- Opening net assets\n+ Drawings\n- Capital introduced\n= Profit\n```"
+        },
+        {
+            "id": "cai_ak_quiz4",
+            "type": "quiz",
+            "title": "Cash Flow Quiz",
+            "content": "Test your cash flow knowledge!",
+            "quizQuestion": "Depreciation in indirect method is?",
+            "quizOptions": [
+                "Deducted",
+                "Added back",
+                "Ignored",
+                "Shown separately"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_ak17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CA International Applied Knowledge**!\n\n## Key Topics\n\n### BT\n- Business functions\n- IT systems\n- Ethics\n\n### MA\n- Costing systems\n- Variances\n- Budgeting\n\n### FA\n- IFRS framework\n- Key IAS\n- Financial statements\n\n## Key Standards\n\n| IAS | Topic |\n|-----|-------|\n| IAS 1 | Presentation |\n| IAS 2 | Inventories |\n| IAS 16 | PPE |\n| IAS 37 | Provisions |\n\n## What is Next?\n\nExplore Applied Skills Level!"
+        }
+    ]
+}

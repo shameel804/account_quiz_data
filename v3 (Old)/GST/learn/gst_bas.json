@@ -1,0 +1,143 @@
+{
+    "id": "learn_gst_bas",
+    "topicId": "gst_bas",
+    "topicTitle": "GST Fundamentals",
+    "description": "Master GST Fundamentals including Tax Structure, Supply Concept, and Levy",
+    "baseKP": 50,
+    "slides": [
+        {
+            "id": "gst_b1",
+            "type": "content",
+            "title": "Welcome to GST Fundamentals",
+            "content": "# GST Fundamentals\n\nGST is India's **unified indirect tax** system.\n\n## What You Will Learn\n\n- **Structure** - Tax framework\n- **Supply** - Taxable event\n- **Levy** - Charge and collection\n- **Value** - Transaction value\n\n## Topics\n\n| Area | Focus |\n|------|-------|\n| Introduction | Concept |\n| Supply | Taxable event |\n| Levy | Charge |\n| Valuation | Transaction value |"
+        },
+        {
+            "id": "gst_b2",
+            "type": "content",
+            "title": "GST Structure",
+            "content": "# Tax Framework\n\n## Types of GST\n\n| Tax | Applicability |\n|-----|---------------|\n| CGST | Central tax |\n| SGST | State tax |\n| IGST | Interstate |\n| UTGST | Union territory |\n\n## Rate Structure\n\n| Rate | Examples |\n|------|----------|\n| 0% | Exempt/Nil |\n| 5% | Essential items |\n| 12% | Standard |\n| 18% | General |\n| 28% | Luxury/demerit |\n\n## Dual Model\n\n```\nIntrastate: CGST + SGST\nInterstate: IGST\n```"
+        },
+        {
+            "id": "gst_b3",
+            "type": "content",
+            "title": "Concept of Supply",
+            "content": "# Taxable Event\n\n## Definition\n\n```\nSupply includes:\n- Sale\n- Transfer\n- Barter\n- Exchange\n- License\n- Rental\n- Lease\n- Disposal\n```\n\n## Requirements\n\n| Element | Requirement |\n|---------|-------------|\n| By a person | Any person |\n| For consideration | Value |\n| In course of business | Furtherance |\n| Taxable territory | India |"
+        },
+        {
+            "id": "gst_b_quiz1",
+            "type": "quiz",
+            "title": "Structure Quiz",
+            "content": "Test your GST structure knowledge!",
+            "quizQuestion": "Interstate supply attracts which tax?",
+            "quizOptions": [
+                "CGST",
+                "SGST",
+                "IGST",
+                "CGST + SGST"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "gst_b4",
+            "type": "content",
+            "title": "Schedule I - Supply Without Consideration",
+            "content": "# Deemed Supply\n\n## Supply Without Consideration\n\n| Item | Condition |\n|------|----------|\n| Related parties | Business |\n| Distinct persons | Agents |\n| Permanent transfer | Assets with ITC |\n| Import of services | Related party |\n\n## Principal-Agent\n\n```\nSupply when agent:\n- Supplies on own account\n- Or supplies for principal\n```"
+        },
+        {
+            "id": "gst_b5",
+            "type": "content",
+            "title": "Schedule II - Activities as Goods or Services",
+            "content": "# Classification\n\n## Goods\n\n| Activity | Deemed |\n|----------|--------|\n| Transfer of title | Goods |\n| Works contract | Services |\n| Lease of land | Services |\n| IT software | Goods |\n\n## Services\n\n| Activity | Deemed |\n|----------|--------|\n| Construction | Services |\n| Renting immovable | Services |\n| Agreeing to act | Services |\n| Composite supply | Classification rules |"
+        },
+        {
+            "id": "gst_b6",
+            "type": "content",
+            "title": "Composite and Mixed Supply",
+            "content": "# Bundled Supplies\n\n## Composite Supply\n\n```\nTwo or more supplies:\n- Naturally bundled\n- In ordinary course\n- One principal supply\n\nTax = Rate of principal supply\n```\n\n## Mixed Supply\n\n```\nTwo or more supplies:\n- Not naturally bundled\n- Can be supplied separately\n\nTax = Highest rate among supplies\n```"
+        },
+        {
+            "id": "gst_b_quiz2",
+            "type": "quiz",
+            "title": "Supply Quiz",
+            "content": "Test your supply knowledge!",
+            "quizQuestion": "Mixed supply is taxed at?",
+            "quizOptions": [
+                "Lowest rate",
+                "Average rate",
+                "Highest rate",
+                "Principal supply rate"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "gst_b7",
+            "type": "content",
+            "title": "Place of Supply - Goods",
+            "content": "# Where Tax Applies\n\n## Domestic Goods\n\n| Scenario | Place |\n|----------|-------|\n| With movement | Destination |\n| Without movement | Location at time |\n| Bill to ship to | Third party location |\n\n## Import/Export\n\n| Type | Place |\n|------|-------|\n| Import | Importer location |\n| Export | Outside India |"
+        },
+        {
+            "id": "gst_b8",
+            "type": "content",
+            "title": "Place of Supply - Services",
+            "content": "# Service Location Rules\n\n## B2B Services\n\n| Rule | Place |\n|------|-------|\n| General | Recipient location |\n| Immovable | Property location |\n| Events | Event location |\n| Transport | Destination |\n\n## B2C Services\n\n| Rule | Place |\n|------|-------|\n| General | Supplier location |\n| Immovable | Property location |\n| Events | Event location |"
+        },
+        {
+            "id": "gst_b9",
+            "type": "content",
+            "title": "Time of Supply",
+            "content": "# When Tax is Payable\n\n## Goods\n\n```\nEarlier of:\n- Date of invoice\n- Date of payment\n- Last date to issue invoice\n```\n\n## Services\n\n```\nEarlier of:\n- Date of invoice (if within 30 days)\n- Date of payment\n- Date service provided\n```\n\n## Reverse Charge\n\n```\nDate of payment or 60 days from invoice\n```"
+        },
+        {
+            "id": "gst_b_quiz3",
+            "type": "quiz",
+            "title": "Time Quiz",
+            "content": "Test your time of supply knowledge!",
+            "quizQuestion": "For services, invoice should be issued within?",
+            "quizOptions": [
+                "15 days",
+                "30 days",
+                "45 days",
+                "60 days"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_b10",
+            "type": "content",
+            "title": "Value of Supply",
+            "content": "# Transaction Value\n\n## Inclusions\n\n| Item | Include |\n|------|--------|\n| Price charged | Yes |\n| Packing | Yes |\n| Commission | Yes |\n| Interest | Yes |\n| Subsidies | Yes |\n\n## Exclusions\n\n| Item | Exclude |\n|------|--------|\n| Discount before supply | Yes |\n| Post-supply discount (linked) | Yes |"
+        },
+        {
+            "id": "gst_b11",
+            "type": "content",
+            "title": "Exemptions",
+            "content": "# Exempt Supplies\n\n## Key Exemptions\n\n| Category | Examples |\n|----------|----------|\n| Agriculture | Fresh produce |\n| Education | Services by schools |\n| Healthcare | Hospital services |\n| Transport | Public transport |\n\n## Zero-Rated\n\n| Supply | Treatment |\n|--------|----------|\n| Export | Zero rate + ITC |\n| SEZ | Zero rate + ITC |"
+        },
+        {
+            "id": "gst_b12",
+            "type": "content",
+            "title": "Levy and Collection",
+            "content": "# Charging Section\n\n## Section 9 CGST / Section 5 IGST\n\n```\nTax levied on:\n- All intra-state supplies (CGST+SGST)\n- All inter-state supplies (IGST)\n- At rates specified\n```\n\n## Reverse Charge\n\n| Scenario | Who Pays |\n|----------|----------|\n| Notified goods/services | Recipient |\n| Import of services | Recipient |\n| Unregistered supplier | Recipient (if notified) |"
+        },
+        {
+            "id": "gst_b_quiz4",
+            "type": "quiz",
+            "title": "Levy Quiz",
+            "content": "Test your levy knowledge!",
+            "quizQuestion": "Under reverse charge, who pays GST?",
+            "quizOptions": [
+                "Supplier",
+                "Recipient",
+                "Government",
+                "Both equally"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "gst_b17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **GST Fundamentals**!\n\n## Key Topics\n\n### Structure\n- CGST, SGST, IGST\n- Rate structure (0-28%)\n\n### Supply\n- Taxable event\n- Composite vs Mixed\n- Place and time\n\n### Levy\n- Forward charge\n- Reverse charge\n- Exemptions\n\n## Key Rules\n\n| Rule | Application |\n|------|-------------|\n| IGST | Interstate |\n| CGST+SGST | Intrastate |\n| Highest rate | Mixed supply |\n\n## What is Next?\n\nExplore GST Registration!"
+        }
+    ]
+}

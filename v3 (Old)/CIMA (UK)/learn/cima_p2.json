@@ -1,0 +1,143 @@
+{
+    "id": "learn_cima_p2",
+    "topicId": "cima_p2",
+    "topicTitle": "P2 - Advanced Management Accounting",
+    "description": "Master CIMA P2 covering Advanced Costing, Pricing, and Decision Making",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "p2_1",
+            "type": "content",
+            "title": "Welcome to CIMA P2",
+            "content": "# P2 - Advanced Management Accounting\n\nP2 covers **advanced costing** and **strategic decisions**.\n\n## What You Will Learn\n\n- **Pricing** - Advanced strategies\n- **Costing** - Strategic methods\n- **Decisions** - Long-term analysis\n- **Control** - Advanced systems\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Pricing | 25% |\n| Cost management | 30% |\n| Long-term decisions | 25% |\n| Control systems | 20% |"
+        },
+        {
+            "id": "p2_2",
+            "type": "content",
+            "title": "Advanced Pricing",
+            "content": "# Pricing Strategies\n\n## Economic Approach\n\n```\nProfit maximization:\nMR = MC\n\nMR = Marginal Revenue\nMC = Marginal Cost\n```\n\n## Price Elasticity\n\n```\nPED = % Change Q / % Change P\n\nOptimal price:\nP = MC x E / (E - 1)\n```\n\n## Strategic Pricing\n\n| Strategy | Approach |\n|----------|----------|\n| Penetration | Low to gain share |\n| Skimming | High initially |\n| Price discrimination | Different segments |"
+        },
+        {
+            "id": "p2_3",
+            "type": "content",
+            "title": "Transfer Pricing",
+            "content": "# Internal Pricing\n\n## Methods\n\n| Method | Basis |\n|--------|-------|\n| Market | External price |\n| Cost | Full or variable |\n| Negotiated | Agreement |\n| Dual | Different prices |\n\n## Minimum Price\n\n```\nMinimum = VC + Opportunity Cost\n```\n\n## International\n\n- Arm's length principle\n- Tax implications\n- OECD guidelines"
+        },
+        {
+            "id": "p2_quiz_1",
+            "type": "quiz",
+            "title": "Pricing Quiz",
+            "content": "Test your pricing knowledge!",
+            "quizQuestion": "Arm's length principle applies to?",
+            "quizOptions": [
+                "Domestic only",
+                "International transfer pricing",
+                "All pricing",
+                "Cost-plus only"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2_4",
+            "type": "content",
+            "title": "Environmental Costing",
+            "content": "# Sustainability Costs\n\n## Environmental Costs\n\n| Type | Examples |\n|------|----------|\n| Prevention | Training, audits |\n| Detection | Testing, monitoring |\n| Internal failure | Waste treatment |\n| External failure | Clean-up, fines |\n\n## Benefits of Tracking\n\n- Cost reduction\n- Compliance\n- Reputation\n- Reporting\n\n## Carbon Accounting\n\n- Carbon footprint\n- Emissions trading\n- Carbon pricing"
+        },
+        {
+            "id": "p2_5",
+            "type": "content",
+            "title": "Quality Costing",
+            "content": "# Cost of Quality\n\n## Categories\n\n| Type | Timing |\n|------|--------|\n| Prevention | Before production |\n| Appraisal | During production |\n| Internal failure | Before sale |\n| External failure | After sale |\n\n## Optimal Quality\n\n```\nTotal Quality Cost minimized when:\nPrevention + Appraisal balanced with Failure costs\n```\n\n## TQM Integration\n\n- Continuous improvement\n- Zero defects goal\n- Six Sigma"
+        },
+        {
+            "id": "p2_6",
+            "type": "content",
+            "title": "Long-Term Decisions",
+            "content": "# Capital Investment\n\n## Appraisal Methods\n\n| Method | Criterion |\n|--------|----------|\n| NPV | > 0 Accept |\n| IRR | > Cost of capital |\n| Payback | < Target |\n| ARR | > Target |\n\n## NPV Calculation\n\n```\nNPV = Sum of [CF / (1+r)^n] - Investment\n```\n\n## Modified IRR\n\n```\nMIRR assumes reinvestment at cost of capital\n```"
+        },
+        {
+            "id": "p2_quiz_2",
+            "type": "quiz",
+            "title": "Investment Quiz",
+            "content": "Test your investment knowledge!",
+            "quizQuestion": "NPV decision rule: accept if NPV is?",
+            "quizOptions": [
+                "Negative",
+                "Zero",
+                "Positive",
+                "Unknown"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "p2_7",
+            "type": "content",
+            "title": "Capital Rationing",
+            "content": "# Limited Capital\n\n## Single Period\n\n```\nProfitability Index = PV / Investment\n\nRank by PI and select\n```\n\n## Multi-Period\n\n- Linear programming\n- Integer programming\n\n## Hard vs Soft\n\n| Type | Cause |\n|------|-------|\n| Hard | External limits |\n| Soft | Internal policy |"
+        },
+        {
+            "id": "p2_8",
+            "type": "content",
+            "title": "Real Options",
+            "content": "# Strategic Flexibility\n\n## Option Types\n\n| Option | Value |\n|--------|-------|\n| Delay | Wait for information |\n| Expand | Increase scale |\n| Abandon | Exit project |\n| Switch | Change inputs/outputs |\n\n## Valuation\n\n- Black-Scholes\n- Binomial model\n- Decision trees\n\n## When Valuable\n\n- High uncertainty\n- Flexibility possible\n- Learning opportunity"
+        },
+        {
+            "id": "p2_9",
+            "type": "content",
+            "title": "Performance Measurement",
+            "content": "# Advanced Measurement\n\n## ROI and RI\n\n```\nROI = Profit / Capital Employed\n\nRI = Profit - (Capital x Cost)\n```\n\n## Economic Value Added\n\n```\nEVA = NOPAT - (Capital x WACC)\n```\n\n## Issues with ROI\n\n- Short-term focus\n- Dysfunctional behavior\n- Investment disincentive"
+        },
+        {
+            "id": "p2_quiz_3",
+            "type": "quiz",
+            "title": "EVA Quiz",
+            "content": "Test your EVA knowledge!",
+            "quizQuestion": "EVA minus capital charge is from?",
+            "quizOptions": [
+                "Revenue",
+                "NOPAT",
+                "Profit",
+                "Cash flow"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2_10",
+            "type": "content",
+            "title": "Divisional Performance",
+            "content": "# Multi-Division\n\n## Issues\n\n| Issue | Problem |\n|-------|--------|\n| Goal congruence | Different incentives |\n| Transfer pricing | Internal conflicts |\n| Controllability | Allocated costs |\n\n## Solutions\n\n- Appropriate metrics\n- Fair transfer prices\n- Controllable profit"
+        },
+        {
+            "id": "p2_11",
+            "type": "content",
+            "title": "Control Systems",
+            "content": "# Management Control\n\n## Types of Control\n\n| Type | Focus |\n|------|-------|\n| Action | Behavior |\n| Results | Outcomes |\n| Personnel | People |\n| Cultural | Values |\n\n## Feedback Systems\n\n```\nSet target\n-> Measure actual\n-> Compare\n-> Take action\n```"
+        },
+        {
+            "id": "p2_12",
+            "type": "content",
+            "title": "Beyond Budgeting",
+            "content": "# Modern Approaches\n\n## Criticisms of Budgets\n\n| Issue | Problem |\n|-------|--------|\n| Time | Annual cycle |\n| Behavior | Gaming |\n| Rigidity | Fixed targets |\n\n## Beyond Budgeting\n\n- Relative targets\n- Rolling forecasts\n- Adaptive processes\n- Decentralization\n\n## Balanced Scorecard Integration\n\n- Multiple perspectives\n- Leading indicators\n- Strategic alignment"
+        },
+        {
+            "id": "p2_quiz_4",
+            "type": "quiz",
+            "title": "Control Quiz",
+            "content": "Test your control knowledge!",
+            "quizQuestion": "Beyond budgeting uses?",
+            "quizOptions": [
+                "Fixed budgets",
+                "Relative targets",
+                "Annual targets",
+                "Top-down"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "p2_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CIMA P2 - Advanced Management Accounting**!\n\n## Key Topics\n\n### Pricing\n- Economic optimization\n- Transfer pricing\n- Strategic pricing\n\n### Costing\n- Environmental\n- Quality\n\n### Decisions\n- NPV, IRR, MIRR\n- Capital rationing\n- Real options\n\n### Control\n- ROI, RI, EVA\n- Beyond budgeting\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| EVA = NOPAT - Charge | Value |\n| PI = PV / Investment | Rationing |\n| MIRR | Reinvestment |\n\n## What is Next?\n\nExplore F2 - Advanced Financial Reporting!"
+        }
+    ]
+}

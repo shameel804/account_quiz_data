@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Financial Statements Overview 📊",
+        "ques": "What are the **four main financial statements** and their primary purposes?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Four Main Statements**:\n1. **Balance Sheet**: Financial position at a point in time (assets, liabilities, equity)\n2. **Income Statement**: Financial performance over a period (revenues, expenses, profit)\n3. **Cash Flow Statement**: Cash movements over a period (operating, investing, financing)\n4. **Statement of Changes in Equity**: Changes in owners' claims over a period"
+        },
+        "explanation": "Each statement serves ***different users' needs***. Together they provide ***comprehensive view*** of entity's financial health."
+    },
+    {
+        "title": "Revenue Recognition GAAP 💰",
+        "ques": "Under **ASC 606**, what are the **five steps** to recognize revenue?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Five Steps**:\n1. Identify the contract with customer\n2. Identify performance obligations\n3. Determine transaction price\n4. Allocate price to performance obligations\n5. Recognize revenue when obligation satisfied\n\n**Core principle**: Recognize revenue when control transfers to customer"
+        },
+        "explanation": "Revenue recognized ***over time*** or at ***point in time*** depending on when control transfers."
+    },
+    {
+        "title": "Balance Sheet Classifications 📋",
+        "ques": "What is the difference between **current** and **non-current** assets and liabilities?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Current**: Expected to be settled within 12 months or operating cycle\n* Assets: Cash, receivables, inventory, prepaid expenses\n* Liabilities: Payables, short-term debt, accrued expenses\n\n**Non-Current**: Settled beyond 12 months\n* Assets: Property, plant, equipment, intangibles\n* Liabilities: Long-term debt, deferred taxes"
+        },
+        "explanation": "Classification affects ***liquidity analysis*** and working capital calculation."
+    },
+    {
+        "title": "Comprehensive Income 📈",
+        "ques": "What items are included in **Other Comprehensive Income (OCI)**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**OCI Items**:\n* Unrealized gains/losses on available-for-sale securities\n* Foreign currency translation adjustments\n* Pension liability adjustments\n* Cash flow hedge gains/losses\n* Revaluation surplus\n\n**Comprehensive Income** = Net Income + OCI"
+        },
+        "explanation": "OCI items bypass income statement but affect ***equity directly***."
+    },
+    {
+        "title": "Inventory Methods Comparison 📦",
+        "ques": "Compare **FIFO**, **LIFO**, and **weighted average** inventory methods.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**FIFO** (First-In, First-Out):\n* Ending inventory at recent prices\n* Higher profit in rising prices\n\n**LIFO** (Last-In, First-Out):\n* Ending inventory at older prices\n* Tax benefits in rising prices (US only)\n\n**Weighted Average**:\n* Smooths out price fluctuations\n* Moderate profit effects"
+        },
+        "explanation": "LIFO is ***prohibited under IFRS*** but allowed under US GAAP."
+    },
+    {
+        "title": "Depreciation Methods ⚙️",
+        "ques": "Explain **straight-line** and **accelerated depreciation** methods.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Straight-Line**:\n* Equal expense each year\n* Formula: (Cost - Salvage) / Useful Life\n\n**Accelerated (Double Declining Balance)**:\n* Higher expense in early years\n* Formula: 2 x (1/Life) x Book Value\n\n**Units of Production**:\n* Based on actual usage\n* Variable expense"
+        },
+        "explanation": "Choice affects ***reported profit*** and ***tax timing***."
+    },
+    {
+        "title": "Lease Accounting 🏢",
+        "ques": "How are **operating leases** now accounted for under ASC 842?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**ASC 842 Treatment**:\n* Recognize right-of-use asset\n* Recognize lease liability\n* Single lease expense (straight-line) for operating leases\n* Interest + amortization for finance leases\n\n**Exception**: Short-term leases (< 12 months)"
+        },
+        "explanation": "Most leases now ***on balance sheet***. Significant impact on financial ratios."
+    },
+    {
+        "title": "Earnings Per Share 📊",
+        "ques": "How is **Basic EPS** calculated and what adjustments are made for **Diluted EPS**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Basic EPS** = (Net Income - Preferred Dividends) / Weighted Average Shares\n\n**Diluted EPS**: Includes potential shares from:\n* Stock options (treasury stock method)\n* Convertible securities (if-converted method)\n* Warrants\n\n**Rule**: Only include if dilutive (reduces EPS)"
+        },
+        "explanation": "EPS is key metric for ***investors*** and required disclosure for public companies."
+    },
+    {
+        "title": "Deferred Taxes 📝",
+        "ques": "What creates **deferred tax assets** and **deferred tax liabilities**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Deferred Tax Liability**: Book income > Taxable income\n* Example: Accelerated tax depreciation\n* Future tax payment expected\n\n**Deferred Tax Asset**: Book income < Taxable income\n* Example: Bad debt provision, NOL carryforward\n* Future tax benefit expected\n* May need valuation allowance if realization uncertain"
+        },
+        "explanation": "Arises from ***temporary differences*** between book and tax accounting."
+    },
+    {
+        "title": "Contingent Liabilities 📋",
+        "ques": "When should a **contingent liability** be recognized versus disclosed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Recognize (Accrue)** when:\n* Probable that liability has been incurred\n* Amount can be reasonably estimated\n\n**Disclose Only** when:\n* Reasonably possible but not probable\n* Probable but cannot estimate amount\n\n**Neither** when: Remote likelihood"
+        },
+        "explanation": "***Probable*** under US GAAP means likely to occur. Higher threshold than IFRS."
+    },
+    {
+        "title": "Segment Reporting 📊",
+        "ques": "What are the requirements for **segment reporting** under ASC 280?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Operating Segment Criteria**:\n* Engages in business earning revenue/expenses\n* Results reviewed by CODM\n* Discrete financial info available\n\n**Reportable if** (any threshold met):\n* Revenue >= 10% of total\n* Profit/loss >= 10% of total\n* Assets >= 10% of total"
+        },
+        "explanation": "***Management approach*** - report as management views the business."
+    },
+    {
+        "title": "Fair Value Hierarchy 💹",
+        "ques": "Explain the **three levels** of the fair value hierarchy.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Level 1**: Quoted prices in active markets for identical assets\n* Most reliable\n* Example: Stock exchange prices\n\n**Level 2**: Observable inputs other than Level 1\n* Example: Comparable sales, yield curves\n\n**Level 3**: Unobservable inputs (entity's assumptions)\n* Least reliable, requires most disclosure\n* Example: DCF models"
+        },
+        "explanation": "Higher levels are ***more subjective*** and require more disclosure."
+    },
+    {
+        "title": "Stock-Based Compensation 💰",
+        "ques": "How are **stock options** accounted for under ASC 718?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Accounting**:\n* Measure at grant-date fair value (Black-Scholes or similar)\n* Recognize expense over vesting period\n* Credit to equity (APIC)\n\n**Adjustments**: Forfeitures can be estimated or actual"
+        },
+        "explanation": "Fair value ***not remeasured*** for equity-settled awards. Cash-settled are remeasured."
+    },
+    {
+        "title": "Business Combinations 🤝",
+        "ques": "How is **goodwill** calculated in a business combination?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Goodwill** = Acquisition Price - Fair Value of Net Identifiable Assets Acquired\n\n**Acquisition Price includes**:\n* Cash paid\n* Fair value of shares issued\n* Fair value of contingent consideration\n\n**Test annually for impairment** (no amortization under US GAAP)"
+        },
+        "explanation": "***Bargain purchase*** (negative goodwill) recognized as gain in income statement."
+    },
+    {
+        "title": "SEC Reporting Requirements 📄",
+        "ques": "What are the **key SEC filings** required for public companies?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Key Filings**:\n* **10-K**: Annual report with audited FS\n* **10-Q**: Quarterly report (unaudited)\n* **8-K**: Current report for material events\n* **Proxy Statement**: Shareholder voting matters\n* **S-1**: Registration statement for IPO"
+        },
+        "explanation": "***SOX compliance*** also required. MD&A provides management perspective."
+    }
+]

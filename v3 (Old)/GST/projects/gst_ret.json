@@ -1,0 +1,152 @@
+[
+    {
+        "title": "GST Returns Overview 📋",
+        "ques": "What are the **main returns** to be filed under GST?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Main Returns**:\n* GSTR-1: Outward supplies (monthly/quarterly)\n* GSTR-3B: Summary return with payment (monthly)\n* GSTR-9: Annual return\n* GSTR-9C: Reconciliation statement\n* CMP-08: Composition taxpayer return"
+        },
+        "explanation": "Timely filing ensures ***ITC flow*** in supply chain."
+    },
+    {
+        "title": "GSTR-1 Filing 📄",
+        "ques": "What details are reported in **GSTR-1**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**GSTR-1 Contents**:\n* B2B invoices (with GSTIN)\n* B2C large invoices (> 2.5 lakhs inter-state)\n* B2C small (consolidated)\n* Credit/debit notes\n* Export invoices\n* Nil rated and exempt supplies\n* HSN-wise summary"
+        },
+        "explanation": "GSTR-1 is ***basis*** for recipient's ITC."
+    },
+    {
+        "title": "GSTR-3B Filing 💳",
+        "ques": "What is declared in **GSTR-3B**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**GSTR-3B Contents**:\n* Outward supplies and tax liability\n* Inter-state supplies to unregistered/composition\n* Inward supplies liable to reverse charge\n* Eligible ITC\n* ITC reversed\n* Tax payment"
+        },
+        "explanation": "GSTR-3B is ***self-assessed*** return."
+    },
+    {
+        "title": "Annual Return GSTR-9 📊",
+        "ques": "What is included in **GSTR-9** annual return?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**GSTR-9 Parts**:\n* Part I: Basic details\n* Part II: Outward and inward supplies\n* Part III: ITC details\n* Part IV: Tax paid\n* Part V: Previous year transactions\n* Part VI: Other information"
+        },
+        "explanation": "GSTR-9 is ***comprehensive*** annual summary."
+    },
+    {
+        "title": "GSTR-9C Reconciliation 📝",
+        "ques": "What is **GSTR-9C** reconciliation statement?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**GSTR-9C**:\n* Applicable if turnover > 5 crores\n* Self-certified (earlier auditor certified)\n* Reconciliation of turnover\n* Reconciliation of ITC\n* Reconciliation of tax paid\n* Additional tax liability"
+        },
+        "explanation": "GSTR-9C ensures ***accuracy*** of annual return."
+    },
+    {
+        "title": "Late Filing Consequences ⚠️",
+        "ques": "What are the **consequences** of late return filing?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Consequences**:\n* Late fee: Rs. 50/day (Rs. 20 for NIL return)\n* Maximum: Rs. 10,000 per return\n* Interest: 18% on tax unpaid\n* ITC blocked for recipient\n* Cannot file next return"
+        },
+        "explanation": "Late filing creates ***cascading problems***."
+    },
+    {
+        "title": "Amendment in Returns 🔄",
+        "ques": "How can **errors in returns** be corrected?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Amendment**:\n* Amend in next month's GSTR-1\n* Before annual return filing\n* Through credit/debit notes\n* Before September of next FY\n\n**Cannot amend**: After annual return filed"
+        },
+        "explanation": "Amendments allowed ***within time limits***."
+    },
+    {
+        "title": "ITC Matching 🔗",
+        "ques": "How does **ITC matching** work?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Matching Process**:\n* Supplier files GSTR-1\n* Auto-populated in GSTR-2B\n* Recipient claims in GSTR-3B\n* Mismatch identified\n* Correction required\n\n**Rule 36(4)**: ITC restrictions on mismatches"
+        },
+        "explanation": "Matching ensures ***supplier compliance***."
+    },
+    {
+        "title": "Composition Return 📋",
+        "ques": "What returns does **composition taxpayer** file?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Composition Returns**:\n* CMP-08: Quarterly payment (self-assessed)\n* GSTR-4: Annual return\n* Due dates: 18th after quarter (CMP-08)\n* 30th April for GSTR-4"
+        },
+        "explanation": "Composition has ***simplified*** compliance."
+    },
+    {
+        "title": "Input Service Distributor 🔄",
+        "ques": "What returns does **ISD** file?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**ISD Returns**:\n* GSTR-6: Monthly return\n* Contains: ITC received and distributed\n* Due date: 13th of next month\n* Distribution: Pro-rata to all units"
+        },
+        "explanation": "ISD distributes ***common ITC*** to branches."
+    },
+    {
+        "title": "TDS Return under GST 💳",
+        "ques": "What returns do **TDS deductors** file?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**TDS Returns**:\n* GSTR-7: Monthly TDS return\n* Due date: 10th of next month\n* Contains: TDS deducted and deposited\n* Certificate: GSTR-7A to supplier"
+        },
+        "explanation": "TDS credit available to ***supplier in ledger***."
+    },
+    {
+        "title": "TCS Return by E-commerce 📱",
+        "ques": "What returns do **e-commerce operators** file?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**E-commerce Returns**:\n* GSTR-8: Monthly TCS return\n* Due date: 10th of next month\n* Contains: Supplies through platform\n* TCS collected and deposited"
+        },
+        "explanation": "TCS ensures ***tax compliance*** on e-commerce."
+    },
+    {
+        "title": "Non-Resident Return 🌍",
+        "ques": "What returns does **non-resident taxable person** file?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**NRTP Returns**:\n* GSTR-5: Monthly return\n* Due date: 20th of next month (or 7 days after registration ends)\n* Within registration period\n* Advance tax deposit required"
+        },
+        "explanation": "NRTP has ***temporary*** registration."
+    },
+    {
+        "title": "Revision of Returns ❌",
+        "ques": "Can GST returns be **revised**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**No Revision Allowed**:\n* GST law does not permit return revision\n* Corrections through subsequent returns\n* Credit/debit notes for adjustments\n* Annual return for reconciliation\n\n**Deadline**: September of next financial year"
+        },
+        "explanation": "Plan returns ***carefully*** - no revision allowed."
+    },
+    {
+        "title": "NIL Return Filing 📋",
+        "ques": "When can a **NIL return** be filed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**NIL Return**:\n* No outward supply\n* No inward supply\n* No tax liability\n* No ITC to claim\n\n**Filing**: Mandatory even if nil\n**Late fee**: Rs. 20/day (capped)"
+        },
+        "explanation": "NIL return still ***mandatory*** to file."
+    }
+]

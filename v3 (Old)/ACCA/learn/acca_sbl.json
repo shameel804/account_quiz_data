@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_sbl",
+    "topicId": "acca_sbl",
+    "topicTitle": "Strategic Business Leader (SBL)",
+    "description": "Master ACCA SBL including Strategic Analysis, Corporate Governance, Risk Management, and Leadership",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "sbl_1",
+            "type": "content",
+            "title": "Welcome to ACCA SBL",
+            "content": "# Strategic Business Leader (SBL)\n\nSBL integrates **strategic and professional skills** for business leadership.\n\n## What You Will Learn\n\n- **Strategy** - Analysis and choice\n- **Governance** - Ethical leadership\n- **Risk** - Management frameworks\n- **Leadership** - Professional skills\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Leadership | 15% |\n| Governance | 15% |\n| Strategy | 30% |\n| Risk | 10% |\n| Finance | 10% |\n| Innovation/Digital | 10% |\n| Professional skills | 10% |"
+        },
+        {
+            "id": "sbl_2",
+            "type": "content",
+            "title": "Strategic Position",
+            "content": "# Strategic Analysis\n\n## External Analysis\n\n### PESTEL\n\n| Factor | Examples |\n|--------|----------|\n| Political | Government policy |\n| Economic | Interest rates |\n| Social | Demographics |\n| Technological | Innovation |\n| Environmental | Climate |\n| Legal | Regulations |\n\n## Porter's Five Forces\n\n| Force | Impact |\n|-------|--------|\n| Rivalry | Competition level |\n| New entrants | Entry barriers |\n| Substitutes | Alternatives |\n| Buyer power | Customer influence |\n| Supplier power | Input costs |"
+        },
+        {
+            "id": "sbl_3",
+            "type": "content",
+            "title": "Internal Analysis",
+            "content": "# Internal Capabilities\n\n## Resource Audit\n\n| Resource | Examples |\n|----------|----------|\n| Physical | Assets, facilities |\n| Human | Skills, knowledge |\n| Financial | Cash, credit |\n| Intellectual | Patents, brands |\n\n## Value Chain\n\n```\nPrimary Activities:\nInbound -> Operations -> Outbound -> Marketing -> Service\n\nSupport Activities:\nInfrastructure, HR, Technology, Procurement\n```\n\n## SWOT Analysis\n\n| Internal | External |\n|----------|----------|\n| Strengths | Opportunities |\n| Weaknesses | Threats |"
+        },
+        {
+            "id": "sbl_quiz_1",
+            "type": "quiz",
+            "title": "Strategy Quiz",
+            "content": "Test your strategy knowledge!",
+            "quizQuestion": "Which framework analyzes industry structure?",
+            "quizOptions": [
+                "PESTEL",
+                "SWOT",
+                "Porter's Five Forces",
+                "BCG Matrix"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "sbl_4",
+            "type": "content",
+            "title": "Strategic Choice",
+            "content": "# Strategic Options\n\n## Ansoff Matrix\n\n| Strategy | Market/Product |\n|----------|---------------|\n| Market penetration | Existing/Existing |\n| Product development | Existing/New |\n| Market development | New/Existing |\n| Diversification | New/New |\n\n## Porter's Generic Strategies\n\n| Strategy | Focus |\n|----------|-------|\n| Cost leadership | Lowest cost |\n| Differentiation | Unique offering |\n| Focus | Narrow segment |\n\n## Methods of Growth\n\n| Method | Features |\n|--------|----------|\n| Organic | Internal |\n| Acquisition | Buy company |\n| Strategic alliance | Partnership |"
+        },
+        {
+            "id": "sbl_5",
+            "type": "content",
+            "title": "Corporate Governance",
+            "content": "# Governance Framework\n\n## UK Corporate Governance Code\n\n| Principle | Focus |\n|-----------|-------|\n| Leadership | Effective board |\n| Effectiveness | Skills and experience |\n| Accountability | Risk and controls |\n| Remuneration | Fair and performance-linked |\n| Relations | Shareholder engagement |\n\n## Board Structure\n\n| Role | Responsibility |\n|------|---------------|\n| Chairman | Leads board |\n| CEO | Runs business |\n| NEDs | Independent oversight |\n| Company Secretary | Governance support |\n\n## Apply or Explain\n\nCompanies must apply code or explain why not."
+        },
+        {
+            "id": "sbl_6",
+            "type": "content",
+            "title": "Ethics and CSR",
+            "content": "# Business Ethics\n\n## Ethical Theories\n\n| Theory | Focus |\n|--------|-------|\n| Deontological | Rules and duties |\n| Teleological | Consequences |\n| Virtue | Character |\n\n## CSR Framework\n\n### Carroll's Pyramid\n\n```\n        Philanthropic\n           /    \\\\\n      Ethical\n         /        \\\\\n      Legal\n        /            \\\\\n   Economic (base)\n```\n\n## Sustainability\n\n| Dimension | Examples |\n|-----------|----------|\n| Environmental | Carbon, waste |\n| Social | Community, labor |\n| Governance | Ethics, transparency |\n\n## Integrated Reporting\n\nConnects financial and non-financial performance."
+        },
+        {
+            "id": "sbl_7",
+            "type": "content",
+            "title": "Risk Management",
+            "content": "# Enterprise Risk Management\n\n## Risk Categories\n\n| Category | Examples |\n|----------|----------|\n| Strategic | Competition, market |\n| Operational | Systems, processes |\n| Financial | Currency, interest |\n| Compliance | Legal, regulatory |\n\n## Risk Process\n\n```\nIdentify -> Assess -> Treat -> Monitor\n```\n\n## Risk Response\n\n| Response | Action |\n|----------|--------|\n| Accept | Live with risk |\n| Transfer | Insure, outsource |\n| Reduce | Controls |\n| Avoid | Exit activity |\n\n## Risk Appetite\n\nLevel of risk organization willing to take."
+        },
+        {
+            "id": "sbl_quiz_2",
+            "type": "quiz",
+            "title": "Governance Quiz",
+            "content": "Test your governance knowledge!",
+            "quizQuestion": "What is the UK Corporate Governance Code basis?",
+            "quizOptions": [
+                "Comply or explain",
+                "Mandatory compliance",
+                "Apply or explain",
+                "Optional guidelines"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "sbl_8",
+            "type": "content",
+            "title": "Internal Controls",
+            "content": "# Control Framework\n\n## COSO Framework\n\n| Component | Focus |\n|-----------|-------|\n| Control environment | Culture |\n| Risk assessment | Identification |\n| Control activities | Policies |\n| Information | Communication |\n| Monitoring | Review |\n\n## Internal Audit Role\n\n- Independent assurance\n- Report to audit committee\n- Risk-based approach\n\n## Three Lines Model\n\n```\n1st Line: Management controls\n2nd Line: Risk/compliance functions\n3rd Line: Internal audit\n```"
+        },
+        {
+            "id": "sbl_9",
+            "type": "content",
+            "title": "Digital Technology",
+            "content": "# Digital Transformation\n\n## Key Technologies\n\n| Technology | Application |\n|------------|-------------|\n| Big Data | Analytics, decisions |\n| AI/ML | Automation, insights |\n| Blockchain | Security, transparency |\n| Cloud | Infrastructure |\n| IoT | Connected devices |\n\n## Digital Strategy\n\n- Business model innovation\n- Customer experience\n- Operational efficiency\n- Digital culture\n\n## Cyber Security\n\n| Risk | Mitigation |\n|------|------------|\n| Data breach | Encryption |\n| Malware | Antivirus |\n| Phishing | Training |\n| System failure | Backup |"
+        },
+        {
+            "id": "sbl_10",
+            "type": "content",
+            "title": "Human Resources",
+            "content": "# People Management\n\n## Strategic HRM\n\nAlign HR with business strategy.\n\n## Talent Management\n\n| Process | Activities |\n|---------|------------|\n| Attract | Employer brand |\n| Develop | Training, succession |\n| Retain | Engagement, reward |\n\n## Performance Management\n\n- Goal setting\n- Ongoing feedback\n- Appraisal\n- Development plans\n\n## Culture\n\n| Type | Characteristics |\n|------|----------------|\n| Power | Central control |\n| Role | Bureaucratic |\n| Task | Project-based |\n| Person | Individual focus |"
+        },
+        {
+            "id": "sbl_11",
+            "type": "content",
+            "title": "Change Management",
+            "content": "# Managing Change\n\n## Lewin's Model\n\n```\nUnfreeze -> Change -> Refreeze\n```\n\n## Kotter's 8 Steps\n\n1. Create urgency\n2. Form coalition\n3. Create vision\n4. Communicate vision\n5. Remove obstacles\n6. Short-term wins\n7. Build on change\n8. Anchor in culture\n\n## Resistance to Change\n\n| Cause | Response |\n|-------|----------|\n| Fear | Communication |\n| Habit | Training |\n| Self-interest | Negotiation |\n| Misunderstanding | Education |"
+        },
+        {
+            "id": "sbl_quiz_3",
+            "type": "quiz",
+            "title": "Change Quiz",
+            "content": "Test your change management knowledge!",
+            "quizQuestion": "In Lewin's model, what is the first stage?",
+            "quizOptions": [
+                "Change",
+                "Refreeze",
+                "Unfreeze",
+                "Implement"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "sbl_12",
+            "type": "content",
+            "title": "Financial Analysis",
+            "content": "# Financial Skills\n\n## Performance Analysis\n\n| Ratio Category | Examples |\n|----------------|----------|\n| Profitability | ROCE, margins |\n| Liquidity | Current, quick |\n| Efficiency | Asset turnover |\n| Gearing | Debt/equity |\n\n## Funding Decisions\n\n- Investment appraisal\n- Working capital\n- Financing mix\n\n## Stakeholder Value\n\n| Measure | Focus |\n|---------|-------|\n| EVA | Economic value |\n| TSR | Total shareholder return |\n| Cash flow | Sustainability |"
+        },
+        {
+            "id": "sbl_13",
+            "type": "content",
+            "title": "Professional Skills",
+            "content": "# SBL Professional Skills\n\n## Assessed Skills\n\n| Skill | Application |\n|-------|-------------|\n| Communication | Clear writing |\n| Commercial acumen | Business sense |\n| Analysis | Problem solving |\n| Skepticism | Critical thinking |\n| Evaluation | Decision making |\n\n## Report Writing\n\n- Executive summary\n- Structured analysis\n- Recommendations\n- Professional format\n\n## Ethical Judgment\n\n- Identify issue\n- Consider stakeholders\n- Evaluate options\n- Recommend action"
+        },
+        {
+            "id": "sbl_14",
+            "type": "content",
+            "title": "Case Study Approach",
+            "content": "# Exam Technique\n\n## Pre-seen Analysis\n\n| Analyze | Tools |\n|---------|-------|\n| Industry | PESTEL, 5 Forces |\n| Company | SWOT, Value Chain |\n| Financials | Ratios |\n| Governance | Board, controls |\n\n## Unseen Approach\n\n1. Read carefully\n2. Identify requirements\n3. Plan answer\n4. Apply knowledge\n5. Professional presentation\n\n## Answer Structure\n\n- Clear headings\n- Business context\n- Professional advice\n- Recommendations"
+        },
+        {
+            "id": "sbl_quiz_4",
+            "type": "quiz",
+            "title": "Skills Quiz",
+            "content": "Test your professional skills knowledge!",
+            "quizQuestion": "Which professional skill involves questioning assumptions?",
+            "quizOptions": [
+                "Communication",
+                "Commercial acumen",
+                "Skepticism",
+                "Evaluation"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "sbl_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA SBL - Strategic Business Leader**!\n\n## Key Topics\n\n### Strategy\n- PESTEL, Five Forces\n- Ansoff, Porter\n- Strategic choice\n\n### Governance\n- UK Code principles\n- Board effectiveness\n- Ethics and CSR\n\n### Risk\n- ERM framework\n- Risk response\n- Internal controls\n\n### Leadership\n- Change management\n- Digital transformation\n- Professional skills\n\n## Key Frameworks\n\n| Framework | Use |\n|-----------|-----|\n| PESTEL | External analysis |\n| Five Forces | Industry |\n| COSO | Controls |\n| Kotter | Change |\n\n## What is Next?\n\nExplore ACCA SBR - Strategic Business Reporting!"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "id": "learn_acca_ma",
+    "topicId": "acca_ma",
+    "topicTitle": "Management Accounting (MA)",
+    "description": "Master ACCA MA including Cost Classification, Budgeting, Standard Costing, and Performance Measurement",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "ma_1",
+            "type": "content",
+            "title": "Welcome to ACCA MA",
+            "content": "# Management Accounting (MA)\n\nMA provides tools for **internal decision-making** and planning.\n\n## What You Will Learn\n\n- **Cost Classification** - Types and behaviors\n- **Budgeting** - Planning and control\n- **Standard Costing** - Variance analysis\n- **Performance** - Measurement techniques\n\n## Syllabus Areas\n\n| Area | Weight |\n|------|--------|\n| Cost accounting | 25% |\n| Budgeting | 25% |\n| Standard costing | 15% |\n| Performance | 20% |\n| Decision making | 15% |"
+        },
+        {
+            "id": "ma_2",
+            "type": "content",
+            "title": "Cost Classification",
+            "content": "# Types of Costs\n\n## By Nature\n\n| Type | Examples |\n|------|----------|\n| Materials | Raw materials |\n| Labor | Wages, salaries |\n| Overheads | Rent, utilities |\n\n## By Behavior\n\n| Type | Description |\n|------|-------------|\n| Fixed | Constant regardless of output |\n| Variable | Changes with output |\n| Semi-variable | Mixed behavior |\n| Stepped | Fixed within range |\n\n## By Function\n\n- Production costs\n- Administration costs\n- Selling costs\n- Distribution costs"
+        },
+        {
+            "id": "ma_3",
+            "type": "content",
+            "title": "Cost-Volume-Profit Analysis",
+            "content": "# CVP Analysis\n\n## Break-Even Point\n\n```\nBEP (units) = Fixed Costs / Contribution per unit\n\nContribution = Selling Price - Variable Cost\n```\n\n## Example\n\n```\nSelling Price: $50\nVariable Cost: $30\nFixed Costs: $100,000\n\nContribution: $50 - $30 = $20\nBEP: $100,000 / $20 = 5,000 units\n```\n\n## Margin of Safety\n\n```\nMoS = Actual Sales - Break-Even Sales\nMoS% = MoS / Actual Sales x 100\n```\n\n## C/S Ratio\n\n```\nC/S Ratio = Contribution / Sales\nBEP ($) = Fixed Costs / C/S Ratio\n```"
+        },
+        {
+            "id": "ma_quiz_1",
+            "type": "quiz",
+            "title": "CVP Quiz",
+            "content": "Test your CVP knowledge!",
+            "quizQuestion": "If fixed costs are $50,000 and contribution per unit is $10, what is the break-even point?",
+            "quizOptions": [
+                "500 units",
+                "5,000 units",
+                "50,000 units",
+                "10,000 units"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ma_4",
+            "type": "content",
+            "title": "Absorption Costing",
+            "content": "# Absorption Costing\n\n## Full Costing Method\n\nAll production costs absorbed into product cost.\n\n## Cost Structure\n\n```\nDirect Materials\n+ Direct Labor\n+ Variable Overhead\n+ Fixed Production Overhead\n= Full Production Cost\n```\n\n## OAR Calculation\n\n```\nOAR = Budgeted Overhead / Budgeted Activity\n\nBases:\n- Direct labor hours\n- Machine hours\n- Units produced\n```\n\n## Over/Under Absorption\n\n```\nAbsorbed OH = Actual hours x OAR\nActual OH = Actual overhead incurred\n\nDifference = Over or Under absorption\n```"
+        },
+        {
+            "id": "ma_5",
+            "type": "content",
+            "title": "Marginal Costing",
+            "content": "# Marginal Costing\n\n## Variable Costing Method\n\nOnly variable costs charged to products.\n\n## Cost Structure\n\n```\nDirect Materials\n+ Direct Labor\n+ Variable Overhead\n= Marginal Cost\n\nFixed costs = Period cost\n```\n\n## Contribution Statement\n\n```\nSales Revenue           100,000\nLess: Variable Costs    (60,000)\n--------------------------\nContribution             40,000\nLess: Fixed Costs       (25,000)\n--------------------------\nProfit                   15,000\n```\n\n## Absorption vs Marginal\n\n| Feature | Absorption | Marginal |\n|---------|------------|----------|\n| Fixed OH | Product cost | Period cost |\n| Inventory | Higher value | Lower value |\n| Profit | May differ | May differ |"
+        },
+        {
+            "id": "ma_6",
+            "type": "content",
+            "title": "Budgeting",
+            "content": "# Budget Process\n\n## Types of Budgets\n\n| Budget | Purpose |\n|--------|--------|\n| Sales | Revenue forecast |\n| Production | Units to make |\n| Materials | Material needs |\n| Labor | Labor hours |\n| Cash | Cash flows |\n| Master | Summary |\n\n## Budget Preparation Order\n\n```\nSales Budget\n    |\n    v\nProduction Budget\n    |\n    v\nMaterial, Labor, Overhead\n    |\n    v\nCash Budget\n    |\n    v\nMaster Budget\n```\n\n## Production Budget\n\n```\nSales demand\n+ Closing inventory required\n- Opening inventory\n= Production units needed\n```"
+        },
+        {
+            "id": "ma_7",
+            "type": "content",
+            "title": "Flexible Budgets",
+            "content": "# Flexible Budgeting\n\n## Fixed vs Flexible\n\n| Type | Adjusts for |\n|------|------------|\n| Fixed | One activity level |\n| Flexible | Actual activity |\n\n## Example\n\n```\nOriginal Budget: 10,000 units\nActual Activity: 12,000 units\n\nFlexible Budget:\n- Variable costs: 12,000 x rate\n- Fixed costs: Same as original\n```\n\n## Variance Calculation\n\n```\nFlexible Budget Variance:\nActual - Flexed Budget\n\nVolume Variance:\nFlexed Budget - Fixed Budget\n```\n\n## Benefits\n\n- Meaningful comparisons\n- Fair performance evaluation\n- Better control"
+        },
+        {
+            "id": "ma_quiz_2",
+            "type": "quiz",
+            "title": "Budget Quiz",
+            "content": "Test your budget knowledge!",
+            "quizQuestion": "Which budget is prepared first in the budget process?",
+            "quizOptions": [
+                "Production budget",
+                "Cash budget",
+                "Sales budget",
+                "Master budget"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "ma_8",
+            "type": "content",
+            "title": "Standard Costing",
+            "content": "# Standard Costing\n\n## What are Standards?\n\nPredetermined costs for products/activities.\n\n## Types of Standards\n\n| Type | Description |\n|------|-------------|\n| Ideal | Perfect conditions |\n| Attainable | Challenging but achievable |\n| Current | Expected normal |\n| Basic | Long-term unchanged |\n\n## Setting Standards\n\n```\nMaterial Standard:\n- Standard quantity per unit\n- Standard price per unit\n\nLabor Standard:\n- Standard hours per unit\n- Standard rate per hour\n```"
+        },
+        {
+            "id": "ma_9",
+            "type": "content",
+            "title": "Variance Analysis",
+            "content": "# Variance Analysis\n\n## Material Variances\n\n```\nPrice Variance:\n(Standard price - Actual price) x Actual qty\n\nUsage Variance:\n(Standard qty - Actual qty) x Standard price\n```\n\n## Labor Variances\n\n```\nRate Variance:\n(Std rate - Actual rate) x Actual hours\n\nEfficiency Variance:\n(Std hours - Actual hours) x Std rate\n```\n\n## Interpreting Variances\n\n| Variance | F (Favorable) | A (Adverse) |\n|----------|--------------|-------------|\n| Price | Paid less | Paid more |\n| Usage | Used less | Used more |\n| Rate | Lower rate | Higher rate |\n| Efficiency | Fewer hours | More hours |"
+        },
+        {
+            "id": "ma_10",
+            "type": "content",
+            "title": "Overhead Variances",
+            "content": "# Overhead Variances\n\n## Fixed Overhead\n\n```\nExpenditure Variance:\nBudgeted FOH - Actual FOH\n\nVolume Variance:\n(Budgeted units - Actual units) x OAR\n```\n\n## Variable Overhead\n\n```\nExpenditure Variance:\n(Std rate x Actual hrs) - Actual VOH\n\nEfficiency Variance:\n(Std hrs - Actual hrs) x Std rate\n```\n\n## Reconciliation\n\n```\nBudgeted Profit\n+/- Material variances\n+/- Labor variances\n+/- Overhead variances\n= Actual Profit\n```"
+        },
+        {
+            "id": "ma_quiz_3",
+            "type": "quiz",
+            "title": "Variance Quiz",
+            "content": "Test your variance knowledge!",
+            "quizQuestion": "If actual hours exceed standard hours, the labor efficiency variance is?",
+            "quizOptions": [
+                "Favorable",
+                "Adverse",
+                "Zero",
+                "Cannot determine"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ma_11",
+            "type": "content",
+            "title": "Performance Measurement",
+            "content": "# Performance Indicators\n\n## Financial Measures\n\n| Measure | Formula |\n|---------|--------|\n| ROI | PBIT / Capital Employed |\n| RI | PBIT - (CE x Cost of Capital) |\n| ROCE | PBIT / CE x 100 |\n\n## Non-Financial Measures\n\n| Area | Examples |\n|------|----------|\n| Quality | Defect rates, returns |\n| Delivery | On-time delivery % |\n| Customer | Satisfaction scores |\n| Efficiency | Capacity utilization |\n\n## Balanced Scorecard\n\n- Financial perspective\n- Customer perspective\n- Internal process\n- Learning and growth"
+        },
+        {
+            "id": "ma_12",
+            "type": "content",
+            "title": "Decision Making",
+            "content": "# Short-term Decisions\n\n## Relevant Costs\n\n| Relevant | Irrelevant |\n|----------|------------|\n| Future | Past (sunk) |\n| Cash flows | Non-cash |\n| Incremental | Committed |\n\n## Decision Types\n\n| Decision | Key Factor |\n|----------|------------|\n| Make or buy | Cost comparison |\n| Special order | Contribution |\n| Limiting factor | Contribution/factor |\n| Shutdown | Avoidable costs |\n\n## Limiting Factor\n\n```\nContribution per unit / Limiting factor per unit\n= Contribution per limiting factor\n\nRank products by this ratio\n```"
+        },
+        {
+            "id": "ma_13",
+            "type": "content",
+            "title": "Pricing Decisions",
+            "content": "# Pricing Methods\n\n## Cost-Plus Pricing\n\n```\nFull Cost + Markup = Price\n\nMarkup % = Target Profit / Cost x 100\n```\n\n## Marginal Cost Pricing\n\n```\nVariable Cost + Contribution = Price\n\nUseful for:\n- Special orders\n- Competitive bids\n- Spare capacity\n```\n\n## Target Costing\n\n```\nMarket Price - Target Profit = Target Cost\n\nCost reduction to achieve target\n```\n\n## Pricing Strategies\n\n| Strategy | Description |\n|----------|-------------|\n| Penetration | Low price, gain share |\n| Skimming | High initial price |\n| Premium | High quality, high price |"
+        },
+        {
+            "id": "ma_14",
+            "type": "content",
+            "title": "Process Costing",
+            "content": "# Process Costing\n\n## When Used\n\n- Continuous production\n- Identical products\n- Mass manufacturing\n\n## Equivalent Units\n\n```\nPhysically complete units\n+ (WIP units x % complete)\n= Equivalent units\n```\n\n## Cost per Equivalent Unit\n\n```\nTotal costs / Equivalent units\n= Cost per equivalent unit\n```\n\n## Losses\n\n| Type | Treatment |\n|------|----------|\n| Normal | Cost absorbed |\n| Abnormal | Separate account |"
+        },
+        {
+            "id": "ma_quiz_4",
+            "type": "quiz",
+            "title": "Process Quiz",
+            "content": "Test your process costing knowledge!",
+            "quizQuestion": "How are normal losses treated in process costing?",
+            "quizOptions": [
+                "Written off immediately",
+                "Cost absorbed by good units",
+                "Carried forward",
+                "Ignored"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "ma_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA MA - Management Accounting**!\n\n## Key Topics\n\n### Costing Methods\n- Absorption costing\n- Marginal costing\n- Process costing\n\n### Planning & Control\n- Budgeting\n- Flexible budgets\n- Standard costing\n- Variance analysis\n\n### Decision Making\n- CVP analysis\n- Relevant costing\n- Limiting factors\n- Pricing decisions\n\n## Key Formulas\n\n| Formula | Use |\n|---------|-----|\n| BEP = FC/Contribution | Break-even |\n| OAR = OH/Activity | Absorption |\n| Variance = Std - Actual | Control |\n\n## What is Next?\n\nExplore ACCA FA - Financial Accounting!"
+        }
+    ]
+}

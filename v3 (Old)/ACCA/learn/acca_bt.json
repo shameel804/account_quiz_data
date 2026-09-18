@@ -1,0 +1,161 @@
+{
+    "id": "learn_acca_bt",
+    "topicId": "acca_bt",
+    "topicTitle": "Business and Technology (BT)",
+    "description": "Master ACCA BT fundamentals including Business Organization, Stakeholders, IT Systems, and Professional Ethics",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "bt_1",
+            "type": "content",
+            "title": "Welcome to ACCA BT",
+            "content": "# Business and Technology (BT)\n\nBT introduces the **business environment** and **information technology** essentials for accountants.\n\n## What You Will Learn\n\n- **Business Organization** - Types and structures\n- **Stakeholders** - Internal and external\n- **IT Systems** - Technology in business\n- **Professional Ethics** - ACCA Code of Ethics\n\n## Syllabus Overview\n\n| Area | Weight |\n|------|--------|\n| Business organization | 15% |\n| Accounting and reporting | 10% |\n| Leading and managing | 25% |\n| Personal effectiveness | 15% |\n| Professional ethics | 15% |\n| IT and systems | 20% |"
+        },
+        {
+            "id": "bt_2",
+            "type": "content",
+            "title": "Business Organizations",
+            "content": "# Types of Business Organizations\n\n## Legal Structures\n\n| Type | Liability | Ownership |\n|------|-----------|----------|\n| Sole Trader | Unlimited | One person |\n| Partnership | Unlimited | 2+ partners |\n| Limited Company | Limited | Shareholders |\n| LLP | Limited | Partners |\n\n## Public vs Private\n\n| Feature | Private | Public |\n|---------|---------|--------|\n| Shares | Restricted | Tradeable |\n| Regulation | Less | More |\n| Capital | Limited | Extensive |\n\n## Not-for-Profit\n\n- Charities\n- NGOs\n- Government bodies\n- Cooperatives"
+        },
+        {
+            "id": "bt_3",
+            "type": "content",
+            "title": "Stakeholders",
+            "content": "# Stakeholder Analysis\n\n## Internal Stakeholders\n\n| Group | Interest |\n|-------|----------|\n| Employees | Job security, pay |\n| Managers | Performance, career |\n| Directors | Strategy, returns |\n\n## External Stakeholders\n\n| Group | Interest |\n|-------|----------|\n| Shareholders | Dividends, growth |\n| Creditors | Repayment |\n| Customers | Quality, price |\n| Suppliers | Payment, contracts |\n| Government | Taxes, compliance |\n\n## Mendelow's Matrix\n\n```\n           Power\n       Low    High\nHigh | Keep   | Key\nInt  | Informed| Players\n-----+--------+------\nLow  | Minimal| Keep\nInt  | Effort | Satisfied\n```"
+        },
+        {
+            "id": "bt_quiz_1",
+            "type": "quiz",
+            "title": "Stakeholder Quiz",
+            "content": "Test your stakeholder knowledge!",
+            "quizQuestion": "According to Mendelow's Matrix, stakeholders with high power and high interest should be?",
+            "quizOptions": [
+                "Kept informed",
+                "Minimal effort",
+                "Kept satisfied",
+                "Key players"
+            ],
+            "correctOptionIndex": 3
+        },
+        {
+            "id": "bt_4",
+            "type": "content",
+            "title": "Corporate Governance",
+            "content": "# Corporate Governance\n\n## What is Governance?\n\nThe system by which companies are **directed and controlled**.\n\n## Key Principles\n\n| Principle | Description |\n|-----------|-------------|\n| Accountability | Answerable for actions |\n| Transparency | Open information |\n| Fairness | Equal treatment |\n| Responsibility | Duty to stakeholders |\n\n## Board Structure\n\n- Executive Directors (EDs)\n- Non-Executive Directors (NEDs)\n- Chairman (often NED)\n- CEO (Executive)\n\n## Board Committees\n\n| Committee | Role |\n|-----------|------|\n| Audit | Financial oversight |\n| Remuneration | Director pay |\n| Nomination | Board appointments |\n| Risk | Risk management |"
+        },
+        {
+            "id": "bt_5",
+            "type": "content",
+            "title": "Management Theories",
+            "content": "# Leadership and Management\n\n## Classical Theories\n\n| Theory | Focus |\n|--------|-------|\n| Scientific (Taylor) | Efficiency |\n| Administrative (Fayol) | Functions |\n| Bureaucratic (Weber) | Rules |\n\n## Fayol's Functions\n\n- Planning\n- Organizing\n- Commanding\n- Coordinating\n- Controlling\n\n## Leadership Styles\n\n| Style | Description |\n|-------|-------------|\n| Autocratic | Leader decides |\n| Democratic | Team input |\n| Laissez-faire | Hands-off |\n\n## Motivation Theories\n\n| Theory | Key Concept |\n|--------|-------------|\n| Maslow | Hierarchy of needs |\n| Herzberg | Two-factor theory |\n| McGregor | Theory X and Y |"
+        },
+        {
+            "id": "bt_6",
+            "type": "content",
+            "title": "Human Resources",
+            "content": "# HR Management\n\n## HR Functions\n\n- Recruitment and selection\n- Training and development\n- Performance management\n- Compensation and benefits\n- Employee relations\n\n## Recruitment Process\n\n```\nJob Analysis\n    |\n    v\nJob Description/Spec\n    |\n    v\nAdvertising\n    |\n    v\nShortlisting\n    |\n    v\nInterviews/Tests\n    |\n    v\nSelection and Offer\n```\n\n## Appraisal Methods\n\n| Method | Description |\n|--------|-------------|\n| Rating scales | Numerical scores |\n| 360-degree | Multi-source |\n| MBO | Objective-based |\n| Competency | Skill-based |"
+        },
+        {
+            "id": "bt_7",
+            "type": "content",
+            "title": "Personal Effectiveness",
+            "content": "# Personal Skills\n\n## Time Management\n\n| Technique | Purpose |\n|-----------|--------|\n| Prioritization | Focus on important |\n| Delegation | Share workload |\n| Planning | Organize tasks |\n\n## Eisenhower Matrix\n\n```\n        Urgent     Not Urgent\nImp   | Do First | Schedule |\n------+----------+----------+\nNot   | Delegate | Eliminate|\nImp   |          |          |\n```\n\n## Communication\n\n| Type | Example |\n|------|--------|\n| Verbal | Meetings, calls |\n| Written | Emails, reports |\n| Non-verbal | Body language |\n\n## CPD (Continuing Professional Development)\n\n- Learning activities\n- Skills development\n- Career progression\n- Professional requirement"
+        },
+        {
+            "id": "bt_quiz_2",
+            "type": "quiz",
+            "title": "Management Quiz",
+            "content": "Test your management knowledge!",
+            "quizQuestion": "Which management theorist developed the hierarchy of needs?",
+            "quizOptions": [
+                "Taylor",
+                "Fayol",
+                "Maslow",
+                "Herzberg"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "bt_8",
+            "type": "content",
+            "title": "Professional Ethics",
+            "content": "# ACCA Code of Ethics\n\n## Fundamental Principles\n\n| Principle | Meaning |\n|-----------|--------|\n| Integrity | Honest and straightforward |\n| Objectivity | Unbiased judgment |\n| Professional Competence | Maintain skills |\n| Confidentiality | Protect information |\n| Professional Behavior | Comply with laws |\n\n## Threats to Ethics\n\n| Threat | Example |\n|--------|--------|\n| Self-interest | Financial interest |\n| Self-review | Checking own work |\n| Advocacy | Promoting client |\n| Familiarity | Close relationship |\n| Intimidation | Pressure to act |\n\n## Safeguards\n\n- Policies and procedures\n- Independence requirements\n- Quality control\n- Disclosure"
+        },
+        {
+            "id": "bt_9",
+            "type": "content",
+            "title": "Ethical Conflicts",
+            "content": "# Resolving Ethical Issues\n\n## Conflict Resolution Process\n\n1. Identify the issue\n2. Gather relevant facts\n3. Consider affected parties\n4. Identify courses of action\n5. Evaluate consequences\n6. Make decision\n7. Document\n\n## When to Seek Advice\n\n- Complex situations\n- Significant impact\n- Uncertain about rules\n- Conflicting requirements\n\n## Reporting Misconduct\n\n| To Whom | When |\n|---------|------|\n| Internal (manager) | First step |\n| Senior management | If unresolved |\n| ACCA | Serious matters |\n| Regulators | Legal requirement |\n\n## Whistleblowing\n\n- Report wrongdoing\n- Protected by law\n- Last resort internally"
+        },
+        {
+            "id": "bt_10",
+            "type": "content",
+            "title": "Information Systems",
+            "content": "# IT in Business\n\n## Types of Systems\n\n| System | Purpose |\n|--------|--------|\n| TPS | Transaction processing |\n| MIS | Management reporting |\n| DSS | Decision support |\n| EIS | Executive information |\n\n## Data vs Information\n\n| Data | Information |\n|------|-------------|\n| Raw facts | Processed data |\n| Unorganized | Organized |\n| No meaning | Meaningful |\n\n## Information Qualities\n\n- Accurate\n- Complete\n- Timely\n- Relevant\n- Reliable\n- Understandable\n\n## ERP Systems\n\n**Enterprise Resource Planning**\n\n- Integrated modules\n- Single database\n- Real-time data\n- Examples: SAP, Oracle"
+        },
+        {
+            "id": "bt_11",
+            "type": "content",
+            "title": "E-Business",
+            "content": "# Digital Business\n\n## E-Commerce Models\n\n| Model | Example |\n|-------|--------|\n| B2B | Alibaba |\n| B2C | Amazon |\n| C2C | eBay |\n| B2G | Govt procurement |\n\n## Benefits\n\n- Global reach\n- 24/7 availability\n- Lower costs\n- Customer data\n- Personalization\n\n## Risks\n\n| Risk | Impact |\n|------|--------|\n| Security | Data breaches |\n| Technical | System failures |\n| Legal | Compliance issues |\n| Reputation | Trust damage |\n\n## Cloud Computing\n\n| Model | Examples |\n|-------|----------|\n| IaaS | AWS, Azure |\n| PaaS | Heroku |\n| SaaS | Office 365 |"
+        },
+        {
+            "id": "bt_quiz_3",
+            "type": "quiz",
+            "title": "IT Quiz",
+            "content": "Test your IT knowledge!",
+            "quizQuestion": "What type of system processes daily business transactions?",
+            "quizOptions": [
+                "MIS",
+                "DSS",
+                "TPS",
+                "EIS"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "bt_12",
+            "type": "content",
+            "title": "Internal Controls",
+            "content": "# Control Systems\n\n## Types of Controls\n\n| Type | Purpose |\n|------|--------|\n| Preventive | Stop errors |\n| Detective | Find errors |\n| Corrective | Fix errors |\n\n## Control Components\n\n- Control environment\n- Risk assessment\n- Control activities\n- Information and communication\n- Monitoring\n\n## IT Controls\n\n| Control | Example |\n|---------|--------|\n| Access | Passwords |\n| Input | Validation |\n| Processing | Audit trail |\n| Output | Distribution |\n\n## Segregation of Duties\n\n- Authorization\n- Custody\n- Recording\n- Reconciliation"
+        },
+        {
+            "id": "bt_13",
+            "type": "content",
+            "title": "Fraud and Security",
+            "content": "# Fraud Prevention\n\n## Types of Fraud\n\n| Type | Description |\n|------|-------------|\n| Asset theft | Stealing resources |\n| False accounting | Manipulation |\n| Corruption | Bribery |\n| Cybercrime | Digital attacks |\n\n## Fraud Triangle\n\n```\n    Opportunity\n       /    \\\\\n      /      \\\\\nPressure----Rationalization\n```\n\n## Cyber Security\n\n| Threat | Protection |\n|--------|------------|\n| Malware | Antivirus |\n| Phishing | Training |\n| Hacking | Firewalls |\n| Data loss | Backup |\n\n## Data Protection\n\n- GDPR compliance\n- Privacy policies\n- Encryption\n- Access controls"
+        },
+        {
+            "id": "bt_14",
+            "type": "content",
+            "title": "Accounting Function",
+            "content": "# Role of Accounting\n\n## Finance Department\n\n| Function | Purpose |\n|----------|--------|\n| Financial accounting | External reporting |\n| Management accounting | Internal decisions |\n| Treasury | Cash management |\n| Tax | Compliance |\n\n## Financial Statements\n\n- Statement of Financial Position\n- Statement of Profit or Loss\n- Statement of Cash Flows\n- Statement of Changes in Equity\n\n## Users of Accounts\n\n| User | Need |\n|------|------|\n| Shareholders | Returns |\n| Lenders | Security |\n| Employees | Stability |\n| Government | Tax |\n| Analysts | Investment |"
+        },
+        {
+            "id": "bt_15",
+            "type": "content",
+            "title": "Audit and Assurance",
+            "content": "# Audit Basics\n\n## Types of Audit\n\n| Type | Purpose |\n|------|--------|\n| External | Independent opinion |\n| Internal | Operational review |\n| Statutory | Legal requirement |\n\n## Audit Process\n\n1. Planning\n2. Risk assessment\n3. Testing controls\n4. Substantive testing\n5. Reporting\n\n## Audit Opinion\n\n| Type | Meaning |\n|------|--------|\n| Unmodified | Clean opinion |\n| Qualified | Except for... |\n| Adverse | Materially misstated |\n| Disclaimer | Unable to form |"
+        },
+        {
+            "id": "bt_quiz_4",
+            "type": "quiz",
+            "title": "Audit Quiz",
+            "content": "Test your audit knowledge!",
+            "quizQuestion": "What is an unmodified audit opinion also called?",
+            "quizOptions": [
+                "Qualified opinion",
+                "Adverse opinion",
+                "Clean opinion",
+                "Disclaimer"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "bt_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **ACCA BT - Business and Technology**!\n\n## Key Topics Covered\n\n### Business Organization\n- Legal structures\n- Stakeholder analysis\n- Corporate governance\n\n### Management & HR\n- Leadership theories\n- Motivation concepts\n- HR functions\n\n### Professional Ethics\n- ACCA fundamental principles\n- Threats and safeguards\n- Conflict resolution\n\n### Information Technology\n- IT systems\n- E-business\n- Cyber security\n- Internal controls\n\n## Key Frameworks\n\n| Framework | Use |\n|-----------|-----|\n| Mendelow | Stakeholders |\n| Maslow | Motivation |\n| Fraud Triangle | Prevention |\n| COSO | Controls |\n\n## What is Next?\n\nExplore other ACCA papers!"
+        }
+    ]
+}

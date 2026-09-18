@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_int_audit",
+    "topicId": "ca_int_audit",
+    "topicTitle": "Advanced Audit & Assurance",
+    "description": "Master Advanced Audit concepts including Risk Assessment, Evidence, and Reporting",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "cai_aud1",
+            "type": "content",
+            "title": "Welcome to Advanced Audit",
+            "content": "# Advanced Audit & Assurance\n\nMaster the **art and science** of auditing.\n\n## What You Will Learn\n\n- **Planning** - Risk assessment\n- **Evidence** - Gathering and evaluation\n- **Reporting** - Opinion formation\n- **Ethics** - Professional standards\n\n## Structure\n\n| Area | Focus |\n|------|-------|\n| Risk-based | Approach |\n| ISA Standards | Application |\n| Complex | Situations |\n| Ethics | Professional |"
+        },
+        {
+            "id": "cai_aud2",
+            "type": "content",
+            "title": "Risk-Based Auditing",
+            "content": "# Audit Risk Model\n\n## Formula\n\n```\nAR = IR x CR x DR\n\nAR = Audit Risk\nIR = Inherent Risk\nCR = Control Risk\nDR = Detection Risk\n```\n\n## Application\n\n| Risk | Response |\n|------|----------|\n| High IR/CR | Lower DR |\n| Low IR/CR | Higher DR acceptable |\n\n## Detection Risk Control\n\n- More procedures\n- Larger samples\n- More experienced staff"
+        },
+        {
+            "id": "cai_aud3",
+            "type": "content",
+            "title": "Risk Assessment Procedures",
+            "content": "# Understanding the Entity\n\n## ISA 315 Requirements\n\n| Area | Focus |\n|------|-------|\n| Industry | External factors |\n| Business | Model, operations |\n| Accounting | Policies |\n| Controls | Environment |\n| Objectives | Strategies |\n\n## Procedures\n\n| Procedure | Purpose |\n|-----------|--------|\n| Inquiry | Ask management |\n| Observation | Watch processes |\n| Inspection | Review documents |\n| Analytics | Identify risks |"
+        },
+        {
+            "id": "cai_aud_quiz1",
+            "type": "quiz",
+            "title": "Risk Quiz",
+            "content": "Test your risk knowledge!",
+            "quizQuestion": "Detection risk is controlled by?",
+            "quizOptions": [
+                "Client",
+                "Auditor",
+                "Regulators",
+                "Market"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_aud4",
+            "type": "content",
+            "title": "Internal Controls",
+            "content": "# Control Environment\n\n## COSO Components\n\n| Component | Focus |\n|-----------|-------|\n| Control environment | Foundation |\n| Risk assessment | Identification |\n| Control activities | Policies |\n| Information | Communication |\n| Monitoring | Ongoing |\n\n## Testing Controls\n\n| Test | Purpose |\n|------|--------|\n| Inquiry | Understanding |\n| Observation | Operation |\n| Inspection | Evidence |\n| Reperformance | Effectiveness |"
+        },
+        {
+            "id": "cai_aud5",
+            "type": "content",
+            "title": "Audit Evidence",
+            "content": "# ISA 500\n\n## Characteristics\n\n| Quality | Meaning |\n|---------|--------|\n| Sufficient | Quantity |\n| Appropriate | Relevance + Reliability |\n\n## Reliability Factors\n\n| Higher | Lower |\n|--------|-------|\n| External | Internal |\n| Direct | Indirect |\n| Original | Copy |\n| Written | Oral |\n\n## Procedures\n\n- Inspection\n- Observation\n- Inquiry\n- Confirmation\n- Recalculation\n- Reperformance\n- Analytical"
+        },
+        {
+            "id": "cai_aud6",
+            "type": "content",
+            "title": "Audit Sampling",
+            "content": "# Statistical and Non-Statistical\n\n## Approaches\n\n| Approach | Basis |\n|----------|-------|\n| Statistical | Mathematical |\n| Non-statistical | Judgment |\n\n## Sampling Risk\n\n| Type | Error |\n|------|-------|\n| Overreliance | Accept when shouldn't |\n| Underreliance | Reject when shouldn't |\n| Incorrect acceptance | Substantive |\n| Incorrect rejection | Substantive |\n\n## Sample Size Factors\n\n- Population\n- Tolerable error\n- Expected error\n- Confidence level"
+        },
+        {
+            "id": "cai_aud_quiz2",
+            "type": "quiz",
+            "title": "Evidence Quiz",
+            "content": "Test your evidence knowledge!",
+            "quizQuestion": "External evidence is more?",
+            "quizOptions": [
+                "Convenient",
+                "Reliable",
+                "Abundant",
+                "Cheap"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_aud7",
+            "type": "content",
+            "title": "Group Audits",
+            "content": "# ISA 600\n\n## Responsibilities\n\n| Role | Responsibility |\n|------|---------------|\n| Group auditor | Overall opinion |\n| Component auditor | Component work |\n\n## Significant Components\n\n| Test | Approach |\n|------|----------|\n| Financially significant | Full audit |\n| Significant risks | Specific procedures |\n| Other | Analytics |\n\n## Communication\n\n```\nGroup -> Component: Instructions\nComponent -> Group: Report on work\n```"
+        },
+        {
+            "id": "cai_aud8",
+            "type": "content",
+            "title": "Audit Reports",
+            "content": "# ISA 700 Series\n\n## Opinion Types\n\n| Opinion | Basis |\n|---------|-------|\n| Unmodified | True and fair |\n| Qualified | Except for |\n| Adverse | Materially misstated |\n| Disclaimer | Unable to obtain |\n\n## Report Structure\n\n```\n1. Opinion\n2. Basis for opinion\n3. KAM (Key Audit Matters)\n4. Responsibilities\n5. Other reporting\n```"
+        },
+        {
+            "id": "cai_aud9",
+            "type": "content",
+            "title": "Going Concern",
+            "content": "# ISA 570\n\n## Management's Assessment\n\n```\n12 months from balance sheet date\n```\n\n## Auditor Procedures\n\n| Procedure | Purpose |\n|-----------|--------|\n| Inquiry | Management plans |\n| Analytics | Trends |\n| Review | Forecasts |\n| Events | Subsequent |\n\n## Reporting\n\n| Conclusion | Report |\n|------------|--------|\n| Appropriate, adequate | Unmodified |\n| Material uncertainty | Emphasis of matter |\n| Inappropriate | Qualified/Adverse |"
+        },
+        {
+            "id": "cai_aud_quiz3",
+            "type": "quiz",
+            "title": "Report Quiz",
+            "content": "Test your reporting knowledge!",
+            "quizQuestion": "KAM stands for Key Audit?",
+            "quizOptions": [
+                "Methods",
+                "Matters",
+                "Measures",
+                "Materials"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_aud10",
+            "type": "content",
+            "title": "Professional Ethics",
+            "content": "# IESBA Code\n\n## Fundamental Principles\n\n| Principle | Meaning |\n|-----------|--------|\n| Integrity | Straightforward |\n| Objectivity | Unbiased |\n| Competence | Due care |\n| Confidentiality | Protect information |\n| Professional behavior | Comply laws |\n\n## Threats and Safeguards\n\n| Threat | Safeguard |\n|--------|----------|\n| Self-interest | Disclosure |\n| Self-review | Different team |\n| Advocacy | Decline |\n| Familiarity | Rotation |\n| Intimidation | Policies |"
+        },
+        {
+            "id": "cai_aud11",
+            "type": "content",
+            "title": "Fraud and Error",
+            "content": "# ISA 240\n\n## Types of Fraud\n\n| Type | Description |\n|------|-------------|\n| Misappropriation | Asset theft |\n| Fraudulent reporting | False statements |\n\n## Fraud Triangle\n\n```\n    Opportunity\n       /\\\n      /  \\\n     /    \\\nPressure--Rationalization\n```\n\n## Auditor Responsibility\n\n- Professional scepticism\n- Risk assessment\n- Appropriate response\n- Communication"
+        },
+        {
+            "id": "cai_aud12",
+            "type": "content",
+            "title": "Quality Management",
+            "content": "# ISQM 1\n\n## Quality Management System\n\n| Component | Focus |\n|-----------|-------|\n| Governance | Leadership |\n| Ethics | Independence |\n| Acceptance | Client |\n| Engagement | Performance |\n| Resources | People, IT |\n| Information | Communication |\n| Monitoring | Review |"
+        },
+        {
+            "id": "cai_aud_quiz4",
+            "type": "quiz",
+            "title": "Ethics Quiz",
+            "content": "Test your ethics knowledge!",
+            "quizQuestion": "Familiarity threat is addressed by?",
+            "quizOptions": [
+                "Disclosure",
+                "Rotation",
+                "Pricing",
+                "Marketing"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_aud17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **Advanced Audit & Assurance**!\n\n## Key Topics\n\n### Risk\n- Audit risk model\n- Risk assessment\n- Internal controls\n\n### Evidence\n- ISA 500\n- Sampling\n- Procedures\n\n### Reporting\n- Opinion types\n- KAM\n- Going concern\n\n### Ethics\n- Fundamental principles\n- Threats and safeguards\n\n## Key ISAs\n\n| ISA | Topic |\n|-----|-------|\n| 315 | Risk assessment |\n| 500 | Evidence |\n| 700 | Report |\n| 570 | Going concern |\n\n## What is Next?\n\nExplore Global Taxation!"
+        }
+    ]
+}

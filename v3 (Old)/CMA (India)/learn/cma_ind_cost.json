@@ -1,0 +1,143 @@
+{
+    "id": "learn_cma_ind_cost",
+    "topicId": "cma_ind_cost",
+    "topicTitle": "Cost Accounting Standards",
+    "description": "Master Cost Accounting Standards (CAS) issued by ICMAI for uniformity in cost measurement and reporting",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "cas_1",
+            "type": "content",
+            "title": "Welcome to Cost Accounting Standards",
+            "content": "# Cost Accounting Standards (CAS)\n\nCAS provide **uniform framework** for cost measurement.\n\n## What You Will Learn\n\n- **CAS Framework** - Structure and scope\n- **Key Standards** - Individual CAS\n- **Application** - Implementation\n- **Compliance** - Requirements\n\n## CAS Overview\n\n| Aspect | Details |\n|--------|--------|\n| Issued by | ICMAI |\n| Purpose | Uniformity |\n| Total | 24 standards |\n| Mandatory | For cost audit |"
+        },
+        {
+            "id": "cas_2",
+            "type": "content",
+            "title": "CAS 1 - Classification",
+            "content": "# Classification of Cost\n\n## By Nature\n\n| Type | Examples |\n|------|----------|\n| Material | Raw materials |\n| Labor | Wages |\n| Expenses | Rent, power |\n\n## By Function\n\n| Function | Costs |\n|----------|-------|\n| Production | Manufacturing |\n| Administration | Office |\n| Selling | Marketing |\n\n## By Behavior\n\n| Behavior | Pattern |\n|----------|--------|\n| Fixed | Constant total |\n| Variable | Per unit constant |\n| Semi-variable | Mixed |"
+        },
+        {
+            "id": "cas_3",
+            "type": "content",
+            "title": "CAS 2 - Capacity Determination",
+            "content": "# Capacity Concepts\n\n## Types of Capacity\n\n| Type | Definition |\n|------|------------|\n| Installed | Maximum possible |\n| Practical | Normal conditions |\n| Normal | Average over period |\n| Actual | Currently used |\n\n## Capacity Utilization\n\n```\nCapacity Utilization = Actual / Normal x 100\n```\n\n## Idle Capacity\n\n| Reason | Treatment |\n|--------|----------|\n| Normal | Include in cost |\n| Abnormal | Write off |"
+        },
+        {
+            "id": "cas_quiz_1",
+            "type": "quiz",
+            "title": "CAS Quiz",
+            "content": "Test your CAS knowledge!",
+            "quizQuestion": "Abnormal idle capacity cost is?",
+            "quizOptions": [
+                "Included in product cost",
+                "Written off to P&L",
+                "Carried forward",
+                "Added to inventory"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cas_4",
+            "type": "content",
+            "title": "CAS 3 - Overheads",
+            "content": "# Production Overheads\n\n## Components\n\n| Type | Examples |\n|------|----------|\n| Factory | Rent, power |\n| Indirect labor | Supervisors |\n| Indirect material | Lubricants |\n\n## Allocation Bases\n\n| Base | When Used |\n|------|----------|\n| Direct labor hours | Labor intensive |\n| Machine hours | Machine intensive |\n| Floor area | Space-related |\n\n## Treatment\n\n- Normal overheads: Include\n- Abnormal: Exclude"
+        },
+        {
+            "id": "cas_5",
+            "type": "content",
+            "title": "CAS 4 - Cost of Production",
+            "content": "# Production for Captive Consumption\n\n## Components\n\n```\nDirect Material\n+ Direct Labor\n+ Direct Expenses\n+ Production Overheads\n= Cost of Production\n```\n\n## Valuation Basis\n\n| Situation | Value |\n|-----------|-------|\n| Normal capacity | Standard cost |\n| Transfer | Cost of production |\n\n## Exclusions\n\n- Selling costs\n- Distribution costs\n- Finance costs"
+        },
+        {
+            "id": "cas_6",
+            "type": "content",
+            "title": "CAS 5 - Average Cost Method",
+            "content": "# Weighted Average\n\n## Formula\n\n```\nWeighted Average = (Opening + Purchases) / Total Qty\n```\n\n## Application\n\n| Element | Treatment |\n|---------|----------|\n| Issues | At average rate |\n| Returns | At issue rate |\n| Transfers | At average |\n\n## Advantages\n\n- Smooths price fluctuations\n- Simple calculation\n- Widely used"
+        },
+        {
+            "id": "cas_quiz_2",
+            "type": "quiz",
+            "title": "Method Quiz",
+            "content": "Test your cost method knowledge!",
+            "quizQuestion": "CAS 5 covers which costing method?",
+            "quizOptions": [
+                "FIFO",
+                "LIFO",
+                "Weighted Average",
+                "Standard Cost"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cas_7",
+            "type": "content",
+            "title": "CAS 6 - Direct Expenses",
+            "content": "# Foreign Exchange\n\n## Treatment\n\n| Transaction | Rate |\n|-------------|------|\n| Initial | Transaction date |\n| Monetary | Closing rate |\n| Non-monetary | Historic rate |\n\n## Exchange Difference\n\n```\nDifference = Recorded - Actual\n\nAdjust:\n- Revenue: Through P&L\n- Capital: To asset cost\n```"
+        },
+        {
+            "id": "cas_8",
+            "type": "content",
+            "title": "CAS 7-10 - Employee Costs",
+            "content": "# Employee Related Costs\n\n## CAS 7 - Employee Cost\n\n| Component | Include |\n|-----------|--------|\n| Salary | Direct |\n| Benefits | Allocated |\n| Bonus | Spread evenly |\n\n## CAS 8 - Cost of Utilities\n\n- Power, water, steam\n- Based on consumption\n\n## CAS 9 - Packing\n\n| Type | Treatment |\n|------|----------|\n| Primary | Product cost |\n| Secondary | Selling cost |\n\n## CAS 10 - Direct Expenses\n\n- Traceable to cost object\n- Excludes overheads"
+        },
+        {
+            "id": "cas_9",
+            "type": "content",
+            "title": "CAS 11-14 - Various Costs",
+            "content": "# Administrative & Other Costs\n\n## CAS 11 - Administrative Overheads\n\n- General management\n- Not production related\n- Allocate to cost centers\n\n## CAS 12 - Repairs & Maintenance\n\n| Type | Treatment |\n|------|----------|\n| Routine | Expense |\n| Major | Capitalize |\n\n## CAS 13 - Cost of Service Centre\n\n- Step-down allocation\n- Reciprocal method\n\n## CAS 14 - Pollution Control\n\n- Compliance costs\n- Clean-up costs"
+        },
+        {
+            "id": "cas_quiz_3",
+            "type": "quiz",
+            "title": "Overheads Quiz",
+            "content": "Test your overhead knowledge!",
+            "quizQuestion": "Primary packing cost is treated as?",
+            "quizOptions": [
+                "Selling cost",
+                "Product cost",
+                "Administrative cost",
+                "Finance cost"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cas_10",
+            "type": "content",
+            "title": "CAS 15-18 - Selling & Finance",
+            "content": "# Distribution & Finance\n\n## CAS 15 - Selling Overheads\n\n| Include | Exclude |\n|---------|--------|\n| Advertising | Bad debts |\n| Commission | Interest |\n| Warehousing | Abnormal |\n\n## CAS 16 - Depreciation\n\n- Systematic allocation\n- Over useful life\n- Method per policy\n\n## CAS 17 - Interest & Finance\n\n| Type | Treatment |\n|------|----------|\n| Borrowing | Per policy |\n| Trade | Not cost of borrowing |\n\n## CAS 18 - R&D\n\n- Research: Expense\n- Development: Capitalize if criteria met"
+        },
+        {
+            "id": "cas_11",
+            "type": "content",
+            "title": "CAS 19-24 - Specialized",
+            "content": "# Other Standards\n\n## CAS 19 - Joint Costs\n\n| Method | Basis |\n|--------|-------|\n| Physical | Quantity |\n| Sales value | Revenue |\n| NRV | Net realization |\n\n## CAS 20 - Royalty & License\n\n- Based on production/sales\n- Include in cost\n\n## CAS 21 - Quality Control\n\n- Prevention costs\n- Appraisal costs\n\n## CAS 22 - Captive Consumption\n\n## CAS 23 - Mines & Quarries\n\n## CAS 24 - IT Expenses"
+        },
+        {
+            "id": "cas_12",
+            "type": "content",
+            "title": "CAS Compliance",
+            "content": "# Cost Records Compliance\n\n## Maintenance\n\n| Requirement | Details |\n|-------------|--------|\n| Format | CRA-1 |\n| Period | Financial year |\n| Retention | 8 years |\n\n## Cost Statements\n\n| Statement | Purpose |\n|-----------|--------|\n| BOM | Bill of materials |\n| Quantitative | Units produced |\n| Reconciliation | With books |\n\n## Applicability\n\n- Specified industries\n- Turnover threshold\n- Cost audit requirement"
+        },
+        {
+            "id": "cas_quiz_4",
+            "type": "quiz",
+            "title": "Compliance Quiz",
+            "content": "Test your compliance knowledge!",
+            "quizQuestion": "Cost records must be retained for?",
+            "quizOptions": [
+                "5 years",
+                "6 years",
+                "8 years",
+                "10 years"
+            ],
+            "correctOptionIndex": 2
+        },
+        {
+            "id": "cas_17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **Cost Accounting Standards**!\n\n## Key Topics\n\n### Framework\n- 24 CAS issued\n- ICMAI standards\n- Mandatory for cost audit\n\n### Key Standards\n- CAS 1-6: Basic costs\n- CAS 7-14: Various costs\n- CAS 15-24: Specialized\n\n### Compliance\n- CRA-1 format\n- 8-year retention\n- Reconciliation\n\n## Important CAS\n\n| CAS | Topic |\n|-----|-------|\n| 1 | Classification |\n| 2 | Capacity |\n| 3 | Overheads |\n| 16 | Depreciation |\n\n## What is Next?\n\nExplore Management Accounting & Strategy!"
+        }
+    ]
+}

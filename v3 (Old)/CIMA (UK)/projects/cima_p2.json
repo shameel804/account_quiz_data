@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Advanced Costing Techniques 📊",
+        "ques": "What is **backflush costing**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Backflush Costing**: Simplified costing for JIT environments\n\n**Features**:\n* Delayed cost assignment\n* No WIP tracking\n* Costs assigned at completion\n* Reduces record-keeping"
+        },
+        "explanation": "Suitable for ***low inventory*** environments."
+    },
+    {
+        "title": "Decision Making Under Uncertainty 🎲",
+        "ques": "What are the **decision criteria** under uncertainty?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Criteria**:\n* Maximax: Maximum of maximum payoffs (optimistic)\n* Maximin: Maximum of minimum payoffs (pessimistic)\n* Minimax regret: Minimize maximum regret\n* Expected value: Probability-weighted average"
+        },
+        "explanation": "Criteria reflect ***risk attitude***."
+    },
+    {
+        "title": "Expected Value and Risk 📈",
+        "ques": "How is **expected value** calculated?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Expected Value** = Sum(Probability x Outcome)\n\n**Standard deviation**: Measure of risk\n**Coefficient of variation**: Risk relative to return"
+        },
+        "explanation": "Consider both ***return and risk***."
+    },
+    {
+        "title": "Decision Trees 🌳",
+        "ques": "How are **decision trees** used?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Components**:\n* Decision nodes (squares)\n* Chance nodes (circles)\n* Branches (alternatives)\n* Payoffs (outcomes)\n\n**Evaluate**: Roll back from end"
+        },
+        "explanation": "Trees visualize ***sequential decisions***."
+    },
+    {
+        "title": "Sensitivity Analysis 📊",
+        "ques": "What is **sensitivity analysis**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Sensitivity Analysis**: Testing impact of variable changes\n\n**Methods**:\n* One-at-a-time\n* Scenario analysis\n* Tornado diagrams\n\n**Purpose**: Identify critical variables"
+        },
+        "explanation": "Sensitivity shows ***robustness*** of decisions."
+    },
+    {
+        "title": "Linear Programming 📐",
+        "ques": "What is **linear programming**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**LP**: Optimize objective function subject to constraints\n\n**Components**:\n* Decision variables\n* Objective function (maximize/minimize)\n* Constraints\n* Non-negativity"
+        },
+        "explanation": "LP finds ***optimal solution***."
+    },
+    {
+        "title": "Learning Curves 📉",
+        "ques": "What is the **learning curve** effect?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Learning Curve**: Time/cost decreases with experience\n\n**Formula**: Y = aX^b\nWhere b = log(learning rate) / log(2)\n\n**Application**: Pricing, planning, tendering"
+        },
+        "explanation": "Learning reduces ***unit costs***."
+    },
+    {
+        "title": "Advanced Budgeting 📋",
+        "ques": "What is **activity-based budgeting**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**ABB**: Budget based on activities and cost drivers\n\n**Steps**:\n1. Identify activities\n2. Estimate output demand\n3. Determine resource requirements\n4. Allocate resources"
+        },
+        "explanation": "ABB links ***activity to cost***."
+    },
+    {
+        "title": "Project Risk Management 🛡️",
+        "ques": "How is **project risk** managed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Risk Management**:\n1. Identify risks\n2. Assess probability and impact\n3. Prioritize risks\n4. Plan responses\n5. Monitor and control"
+        },
+        "explanation": "Proactive management ***reduces surprises***."
+    },
+    {
+        "title": "Monte Carlo Simulation 🎲",
+        "ques": "What is **Monte Carlo simulation**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Monte Carlo**: Multiple random scenarios generated\n\n**Process**:\n* Define probability distributions\n* Generate random values\n* Calculate outcomes\n* Analyze distribution of results"
+        },
+        "explanation": "Simulation models ***uncertainty***."
+    },
+    {
+        "title": "Real Options 📈",
+        "ques": "What are **real options**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Real Options**: Flexibility value in investment decisions\n\n**Types**:\n* Option to defer\n* Option to expand\n* Option to abandon\n* Option to switch"
+        },
+        "explanation": "Options add ***value*** to projects."
+    },
+    {
+        "title": "Capital Rationing 💰",
+        "ques": "How are projects ranked under **capital rationing**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Profitability Index** = NPV / Initial investment\n\n**Ranking**: Higher PI preferred\n\n**Single period**: Rank by PI\n**Multi-period**: Linear programming"
+        },
+        "explanation": "Maximize ***NPV per dollar*** invested."
+    },
+    {
+        "title": "Value at Risk 📊",
+        "ques": "What is **Value at Risk (VaR)**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**VaR**: Maximum loss within confidence level\n\nExample: 95% VaR of $1M means 5% chance of losing more than $1M\n\n**Methods**: Historical, parametric, Monte Carlo"
+        },
+        "explanation": "VaR quantifies ***downside risk***."
+    },
+    {
+        "title": "Cost Estimation Advanced 📊",
+        "ques": "What is **regression analysis** for cost estimation?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Simple Regression**: Y = a + bX\nWhere a = fixed cost, b = variable cost rate\n\n**R-squared**: Goodness of fit\n**Multiple regression**: Multiple cost drivers"
+        },
+        "explanation": "Statistical methods improve ***accuracy***."
+    },
+    {
+        "title": "Probability Distributions 📈",
+        "ques": "What are the common **probability distributions** used?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Distributions**:\n* Normal: Symmetric, bell-shaped\n* Triangular: Min, mode, max\n* Uniform: Equal probability\n* Beta: Flexible shape (PERT)"
+        },
+        "explanation": "Choose distribution based on ***variable nature***."
+    }
+]

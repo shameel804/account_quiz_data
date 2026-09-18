@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Risk and Return 📈",
+        "ques": "Explain the **relationship between risk and return** in investments.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Relationship**:\n* Higher risk = higher expected return required\n* Risk-free rate = baseline (treasury securities)\n* Risk premium = additional return for risk\n\n**Types of Risk**:\n* Systematic (market) risk - cannot be diversified\n* Unsystematic (specific) risk - can be diversified"
+        },
+        "explanation": "Investors demand ***compensation*** for bearing risk."
+    },
+    {
+        "title": "Cost of Equity 💰",
+        "ques": "How is **cost of equity** calculated using CAPM?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**CAPM Formula**:\nCost of Equity = Risk-Free Rate + (Beta x Market Risk Premium)\n\nWhere:\n* Risk-Free Rate: Treasury bond yield\n* Beta: Stock's sensitivity to market movements\n* Market Risk Premium: Expected market return - Risk-free rate"
+        },
+        "explanation": "CAPM captures ***systematic risk*** through beta."
+    },
+    {
+        "title": "Weighted Average Cost of Capital 📊",
+        "ques": "How is **WACC** calculated and used?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**WACC** = (E/V x Cost of Equity) + (D/V x Cost of Debt x (1-Tax Rate))\n\n**Use**:\n* Discount rate for capital budgeting\n* Minimum required return\n* Performance benchmark\n\n**Components use market values**, not book values"
+        },
+        "explanation": "WACC is ***blended cost*** of all capital sources."
+    },
+    {
+        "title": "Working Capital Management 🔄",
+        "ques": "What are the **objectives** of working capital management?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Objectives**:\n* Maintain adequate liquidity\n* Minimize cost of financing\n* Optimize asset levels (not too high or low)\n* Balance risk and return\n\n**Components**: Cash, receivables, inventory, payables"
+        },
+        "explanation": "Excessive working capital ***reduces returns***; too little creates ***liquidity risk***."
+    },
+    {
+        "title": "Cash Management 💵",
+        "ques": "What strategies are used for **effective cash management**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Strategies**:\n* Accelerate collections (lockboxes, electronic)\n* Control disbursements (centralized, timing)\n* Invest excess cash (money markets, repos)\n* Maintain adequate buffers\n* Cash forecasting and monitoring\n* Bank relationship management"
+        },
+        "explanation": "***Idle cash*** earns little; goal is ***minimize*** while meeting needs."
+    },
+    {
+        "title": "Receivables Management 📋",
+        "ques": "What factors should be considered in setting **credit policy**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Credit Policy Factors**:\n* Credit standards (who qualifies)\n* Credit terms (payment period, discounts)\n* Collection effort (follow-up intensity)\n* Credit limits\n\n**Trade-off**: Higher sales vs. bad debt and carrying costs"
+        },
+        "explanation": "Evaluate ***incremental profit*** against incremental costs."
+    },
+    {
+        "title": "Inventory Management 📦",
+        "ques": "What is the **EOQ model** for inventory management?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**EOQ** = sqrt(2 x D x S / H)\n\nWhere:\n* D = Annual demand\n* S = Ordering cost per order\n* H = Holding cost per unit per year\n\n**Minimizes**: Total ordering + holding costs"
+        },
+        "explanation": "Balances ***ordering costs*** against ***carrying costs***."
+    },
+    {
+        "title": "Short-Term Financing 🏦",
+        "ques": "What are the main **sources of short-term financing**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Sources**:\n* Trade credit (accounts payable)\n* Bank lines of credit\n* Commercial paper\n* Factoring receivables\n* Secured borrowing (inventory, receivables)\n\n**Cost**: Compare effective annual rates"
+        },
+        "explanation": "Trade credit may be ***free or expensive*** depending on terms."
+    },
+    {
+        "title": "Long-Term Debt 📜",
+        "ques": "What are the **characteristics of long-term debt** financing?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Characteristics**:\n* Fixed interest payments (tax-deductible)\n* Principal repayment obligation\n* Covenants restricting actions\n* Secured or unsecured\n* Priority claim in bankruptcy\n\n**Types**: Bonds, term loans, mortgages"
+        },
+        "explanation": "***Leverage*** increases returns but also ***financial risk***."
+    },
+    {
+        "title": "Equity Financing 📈",
+        "ques": "What are the **advantages and disadvantages** of equity financing?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Advantages**:\n* No repayment obligation\n* No interest payments\n* Builds equity base\n* Financial flexibility\n\n**Disadvantages**:\n* Dilutes ownership\n* Higher cost than debt (risk premium)\n* Dividend expectations\n* Loss of control possible"
+        },
+        "explanation": "Equity is ***permanent capital*** but more expensive."
+    },
+    {
+        "title": "Capital Structure 📊",
+        "ques": "What factors influence **optimal capital structure**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Factors**:\n* Business risk (operating leverage)\n* Tax position (interest deductibility)\n* Financial flexibility needs\n* Management preferences\n* Lender requirements\n* Industry norms\n* Growth plans"
+        },
+        "explanation": "Trade-off between ***tax benefits of debt*** and ***financial distress costs***."
+    },
+    {
+        "title": "Dividend Policy 💵",
+        "ques": "What are the main **dividend policy options**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Options**:\n* Residual (pay what's left after investments)\n* Stable (consistent dollar amount)\n* Constant payout ratio (fixed % of earnings)\n* Low regular + extras\n* Zero dividend (reinvest all)\n\n**Considerations**: Signaling, investor preferences, cash needs"
+        },
+        "explanation": "Dividend cuts are often viewed ***negatively*** by the market."
+    },
+    {
+        "title": "Financial Instruments 💳",
+        "ques": "What are the main **types of financial instruments**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Types**:\n* Equity: Common stock, preferred stock\n* Debt: Bonds, notes, loans\n* Derivatives: Options, futures, forwards, swaps\n* Hybrids: Convertible bonds, warrants\n\n**Purpose**: Financing, hedging, speculation"
+        },
+        "explanation": "Derivatives can ***hedge risk*** or ***amplify*** it."
+    },
+    {
+        "title": "Raising Capital 🚀",
+        "ques": "What is the **process for raising capital** through an IPO?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**IPO Process**:\n1. Select investment banker (underwriter)\n2. Due diligence and valuation\n3. SEC registration (S-1 filing)\n4. Road show marketing\n5. Pricing the offering\n6. Distribution of shares\n7. Begin trading"
+        },
+        "explanation": "IPO is ***expensive*** but provides access to public capital markets."
+    },
+    {
+        "title": "Mergers and Acquisitions 🤝",
+        "ques": "What are the main **methods of financing** M&A transactions?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Financing Methods**:\n* Cash (existing funds or new debt)\n* Stock (exchange shares)\n* Combination of cash and stock\n* Leveraged buyout (LBO)\n* Earnout (contingent payments)"
+        },
+        "explanation": "Financing choice affects ***EPS, control,*** and ***risk***."
+    }
+]

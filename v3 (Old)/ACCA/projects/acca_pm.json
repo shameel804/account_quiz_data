@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Activity-Based Costing Introduction 🎯",
+        "ques": "What is **Activity-Based Costing (ABC)** and how does it differ from traditional absorption costing?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**ABC Definition**: A costing method that assigns overhead costs to products based on the activities that drive those costs.\n\n**Key Differences**:\n| Aspect | Traditional Costing | ABC |\n|--------|---------------------|-----|\n| Cost allocation | Volume-based (labour hours, machine hours) | Activity-based (cost drivers) |\n| Overhead pools | Few, broad pools | Many, detailed pools |\n| Accuracy | May distort costs | More accurate product costs |\n| Complexity | Simple | More complex |\n| Best for | Simple operations | Complex, diverse products |"
+        },
+        "explanation": "Traditional costing can ***distort product costs*** when overheads are not driven by volume. ABC identifies ***cost drivers*** for each activity (e.g., number of setups, number of orders). This provides more accurate costs for ***pricing*** and ***product decisions***, especially where products have different complexity."
+    },
+    {
+        "title": "Relevant Costs for Decision Making 💡",
+        "ques": "Define **relevant costs** and identify which costs are relevant for a make-or-buy decision.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Relevant Costs**: Future cash flows that differ between alternatives being considered.\n\n**Characteristics**:\n* ***Future***: Historical costs are sunk and irrelevant\n* ***Cash flows***: Non-cash items (depreciation) are irrelevant\n* ***Differential***: Must differ between alternatives\n\n**For Make-or-Buy Decision - RELEVANT**:\n* Variable production costs (materials, direct labour)\n* Avoidable fixed costs\n* Opportunity costs (alternative use of capacity)\n* Purchase price from supplier\n\n**NOT RELEVANT**:\n* Sunk costs (past expenditure)\n* Committed costs (unavoidable fixed costs)\n* Allocated overheads that won't change"
+        },
+        "explanation": "Focusing on ***relevant costs*** improves decision quality by ignoring irrelevant information. A common error is including ***sunk costs*** (money already spent) or ***allocated overheads*** that won't change. ***Opportunity cost*** is often overlooked but can be crucial."
+    },
+    {
+        "title": "Throughput Accounting 🏭",
+        "ques": "Explain **throughput accounting** and the concept of **throughput contribution**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Throughput Accounting**: Based on Theory of Constraints (TOC). Focus on maximising throughput through the bottleneck.\n\n**Throughput Contribution**:\nThroughput = Sales Revenue - Direct Material Cost\n\n*Note: Labour is treated as a fixed cost*\n\n**Key Ratios**:\n* **Throughput per Unit** = (Selling Price - Material Cost)\n* **Throughput per Bottleneck Hour** = Throughput / Time on bottleneck\n* **TPAR** (Throughput Accounting Ratio) = Return per factory hour / Cost per factory hour\n\n**Decision Rule**: Prioritise products with highest throughput per bottleneck resource."
+        },
+        "explanation": "Throughput accounting treats ***all costs except materials as fixed*** in the short term. The ***bottleneck*** (constraint) limits total output. By maximising throughput ***per bottleneck unit***, total profit is maximised. Improvement efforts should focus on ***elevating the constraint***."
+    },
+    {
+        "title": "Transfer Pricing Methods 🔄",
+        "ques": "What is **transfer pricing** and what are the main methods used to set transfer prices?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Transfer Price**: The price charged when one division of a company sells goods/services to another division.\n\n**Main Methods**:\n\n1. **Market-Based**: Use external market price\n   * Fair if perfect market exists\n   * May not be available\n\n2. **Cost-Based**:\n   * Marginal cost (variable cost)\n   * Full cost (including overheads)\n   * Cost plus markup\n\n3. **Negotiated**: Divisions agree between themselves\n   * Promotes autonomy\n   * Can cause conflicts\n\n**Ideal Transfer Price** (with no spare capacity):\n= Marginal Cost + Opportunity Cost"
+        },
+        "explanation": "Transfer pricing affects ***divisional performance measurement*** and ***goal congruence***. A poor transfer price can lead to ***dysfunctional decisions*** - individual divisions may make decisions that harm company overall. ***Tax implications*** are also significant for international transfers."
+    },
+    {
+        "title": "Budget Behavioural Aspects 🧠",
+        "ques": "Discuss the **behavioural implications** of budgeting and the concept of **budgetary slack**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Positive Behavioural Aspects**:\n* **Motivation**: Targets can motivate performance\n* **Communication**: Budgets communicate expectations\n* **Coordination**: Departments work together\n\n**Negative Behavioural Aspects**:\n* **Budgetary Slack**: Deliberately understating revenue or overstating costs\n  * Creates \"easy\" targets\n  * Absorbs uncertainty\n  * Managers protect themselves\n\n* **Dysfunctional Behaviour**:\n  * Short-term focus (cuts training, maintenance)\n  * Gaming (timing sales/expenses)\n  * Blame-shifting when targets missed"
+        },
+        "explanation": "***Participation*** in budget setting can increase commitment but may also enable slack. ***Beyond Budgeting*** movement argues traditional budgets are too rigid. Some organisations use ***rolling forecasts*** and ***relative performance measures*** instead of fixed budgets."
+    },
+    {
+        "title": "Variance Analysis: Sales Mix 📊",
+        "ques": "Explain the **sales mix variance** and **sales quantity variance** with an example.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "When a company sells multiple products:\n\n**Sales Mix Variance**:\n* Measures effect of selling a different ***proportion*** of products than budgeted\n* = (Actual Mix - Standard Mix) x Actual Total Quantity x Standard Contribution\n* Favourable if more high-margin products sold\n\n**Sales Quantity Variance**:\n* Measures effect of selling a different ***total quantity*** than budgeted\n* = (Actual Total Qty - Budgeted Total Qty) x Standard Mix x Standard Contribution\n* Favourable if total volume exceeds budget\n\n**Together**: Mix + Quantity Variance = Sales Volume Variance"
+        },
+        "explanation": "These variances help understand ***why*** total contribution differs from budget. A favourable mix variance shows the sales team is successfully pushing ***higher-margin products***. Quantity variance shows overall ***market demand*** effects. Both require multi-product situations."
+    },
+    {
+        "title": "Risk and Uncertainty in Decisions 🎲",
+        "ques": "Distinguish between **risk** and **uncertainty** in decision-making. What techniques address each?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Risk**: Outcomes can be ***quantified with probabilities***\n* *Example*: 60% chance of high demand, 40% low demand\n* **Techniques**:\n  * Expected value (EV) calculations\n  * Decision trees\n  * Probability distributions\n  * Sensitivity analysis\n\n**Uncertainty**: Outcomes are unknown or ***cannot be quantified***\n* *Example*: Impact of new competitor is uncertain\n* **Techniques**:\n  * Scenario planning\n  * Maximin (choose option with best worst outcome)\n  * Maximax (choose option with best best outcome)\n  * Minimax regret (minimise maximum regret)"
+        },
+        "explanation": "In practice, most decisions involve both risk and uncertainty. ***Expected value*** is widely used but has limitations - it ignores ***risk attitude*** and assumes decisions are repeated. ***Sensitivity analysis*** shows which variables most affect the outcome."
+    },
+    {
+        "title": "Learning Curve Effect 📈",
+        "ques": "What is the **learning curve effect** and how is it used in cost estimation?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Learning Curve**: As cumulative production doubles, average time per unit falls by a constant percentage.\n\n**Formula**: Y = ax^b\n* Y = Cumulative average time per unit\n* a = Time for first unit\n* x = Cumulative number of units\n* b = Learning index (log of learning rate / log 2)\n\n**80% Learning Curve Example**:\n* 1st unit: 100 hours\n* 2nd unit total avg: 80 hours (total 160 hours)\n* 4th unit total avg: 64 hours (total 256 hours)\n* 8th unit total avg: 51.2 hours (total 410 hours)\n\n**Applications**: Pricing tenders, workforce planning, budgeting"
+        },
+        "explanation": "Learning curves are important in ***labour-intensive*** industries where skill improves with practice. They affect ***pricing decisions*** (can price lower knowing costs will fall) and ***capacity planning***. The effect eventually ***plateaus*** when steady state is reached."
+    },
+    {
+        "title": "Divisional Performance Measures 📏",
+        "ques": "Compare **Return on Investment (ROI)** and **Residual Income (RI)** as divisional performance measures.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**ROI = Profit / Capital Employed x 100%**\n\n**Advantages**:\n* Easy to understand percentage\n* Allows comparison between divisions of different sizes\n\n**Disadvantages**:\n* May reject profitable projects (if project ROI < current ROI)\n* Ignores absolute profit size\n\n---\n\n**RI = Profit - (Capital Employed x Cost of Capital)**\n\n**Advantages**:\n* Encourages investments earning above cost of capital\n* Focuses on absolute value creation\n\n**Disadvantages**:\n* Can't compare divisions of different sizes easily\n* Requires determination of cost of capital"
+        },
+        "explanation": "ROI causes ***dysfunctional behaviour*** when managers reject projects that would increase company value but lower divisional ROI. RI aligns with ***shareholder value*** - any positive RI project should be accepted. ***EVA (Economic Value Added)*** is a sophisticated version of RI."
+    },
+    {
+        "title": "Environmental Management Accounting 🌍",
+        "ques": "What is **Environmental Management Accounting (EMA)** and what types of environmental costs exist?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**EMA Definition**: The identification, measurement, and allocation of environmental costs into management decision-making.\n\n**Types of Environmental Costs**:\n\n1. **Conventional Costs**: Raw materials, energy (have environmental impact)\n\n2. **Hidden Costs**: Often buried in overheads\n   * Waste disposal, legal compliance, permits, monitoring\n\n3. **Contingent Costs**: May occur in future\n   * Clean-up costs, penalties, fines\n\n4. **Reputation/Image Costs**: Damage to brand\n   * Loss of customers, difficulty recruiting\n\n5. **Societal Costs**: Borne by society\n   * Pollution, resource depletion, health impacts"
+        },
+        "explanation": "Traditional costing often ***hides*** environmental costs in overheads. EMA makes these ***visible*** for better decisions. Companies increasingly report on ***sustainability metrics*** alongside financial performance. ***Life cycle costing*** considers environmental impacts from cradle to grave."
+    },
+    {
+        "title": "Setting Standard Costs ⚙️",
+        "ques": "What factors should be considered when setting **standard costs** and what types of standards exist?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Factors in Setting Standards**:\n* Historical data and trends\n* Expected price changes (inflation)\n* Efficiency improvements planned\n* Production methods and technology\n* Normal wastage and idle time\n* Industry benchmarks\n\n**Types of Standards**:\n\n1. **Ideal Standards**: Perfect conditions, no waste\n   * Usually demotivating (unachievable)\n\n2. **Attainable Standards**: Challenging but achievable\n   * Allow for normal inefficiencies\n   * Most motivating\n\n3. **Basic Standards**: Long-term, unchanged\n   * Show trends over time\n   * May become outdated"
+        },
+        "explanation": "The ***level of difficulty*** affects motivation. Research suggests ***attainable but challenging*** standards are optimal. Standards should be ***regularly reviewed*** to remain relevant. ***Variance investigation*** should consider whether the standard itself is wrong."
+    },
+    {
+        "title": "Pricing Strategies 💲",
+        "ques": "Describe **three pricing strategies** a company might use and when each is appropriate.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**1. Cost-Plus Pricing**:\n* Price = Cost + Markup\n* Ensures costs are covered\n* *Best for*: Contract work, uncertain demand\n* *Limitation*: Ignores competition and demand\n\n**2. Market-Based Pricing**:\n* Price based on competitor prices and perceived value\n* *Best for*: Competitive markets, commodity products\n* Requires cost control to maintain margin\n\n**3. Penetration Pricing**:\n* Low initial price to gain market share\n* *Best for*: New products, elastic demand, economies of scale\n* Risk: May not cover costs initially\n\n**4. Price Skimming**:\n* High initial price, lowered over time\n* *Best for*: Innovative products, inelastic demand, status products"
+        },
+        "explanation": "Pricing affects ***volume, revenue, and profit***. The optimal price depends on ***price elasticity of demand***, ***competition***, ***product lifecycle stage***, and ***strategic objectives***. In practice, companies use ***multiple strategies*** for different products and markets."
+    },
+    {
+        "title": "Target Costing 🎯",
+        "ques": "Explain **target costing** and how it differs from traditional cost-plus pricing.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Target Costing**: Start with market price, subtract required profit to find allowable cost.\n\n**Formula**:\nTarget Cost = Target Selling Price - Target Profit\n\n**Process**:\n1. Research market to determine competitive price\n2. Set required profit margin\n3. Calculate target cost (gap = cost reduction needed)\n4. Design product to achieve target cost\n5. Use value engineering to reduce costs\n\n**vs Traditional Cost-Plus**:\n| Target Costing | Cost-Plus |\n|----------------|----------|\n| Market-driven price | Cost-driven price |\n| Design to cost | Cost calculated after design |\n| Proactive cost management | Reactive cost management |\n| Focus on customer value | Focus on cost recovery |"
+        },
+        "explanation": "Target costing is widely used in ***competitive industries*** like automotive and electronics. It forces ***cost management at design stage*** when 80% of costs are committed. ***Value engineering*** and ***functional analysis*** are key tools for achieving target costs."
+    },
+    {
+        "title": "Balanced Scorecard Framework 📋",
+        "ques": "Describe the **Balanced Scorecard** and its four perspectives.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Balanced Scorecard**: A strategic performance management tool linking objectives across four perspectives.\n\n**Four Perspectives**:\n\n1. **Financial**: How do shareholders see us?\n   * *Measures*: ROI, revenue growth, profit margin, EVA\n\n2. **Customer**: How do customers see us?\n   * *Measures*: Satisfaction, retention, market share, new customers\n\n3. **Internal Business Process**: What must we excel at?\n   * *Measures*: Cycle time, quality, productivity, innovation\n\n4. **Learning and Growth**: How can we improve?\n   * *Measures*: Employee skills, training, culture, information systems\n\n**Key Feature**: Cause-and-effect links between perspectives"
+        },
+        "explanation": "The Balanced Scorecard addresses the ***limitation of financial measures*** which are backward-looking. By linking ***lead indicators*** (learning, process) to ***lag indicators*** (customer, financial), organisations can manage ***future performance***. Critical success factors should drive measure selection."
+    },
+    {
+        "title": "Incremental vs Zero-Based Budgeting 📝",
+        "ques": "Compare **incremental budgeting** and **zero-based budgeting (ZBB)** approaches.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Incremental Budgeting**:\n* Starts with last year's budget/actual\n* Adjusts for known changes (inflation, volume)\n\n| Advantages | Disadvantages |\n|------------|---------------|\n| Quick and simple | Perpetuates inefficiencies |\n| Stable, predictable | Encourages \"use it or lose it\" |\n| Easy to understand | May include budgetary slack |\n\n**Zero-Based Budgeting**:\n* Starts from zero each period\n* Every activity must be justified\n\n| Advantages | Disadvantages |\n|------------|---------------|\n| Eliminates waste | Very time-consuming |\n| Questions all spending | Requires training |\n| Aligns with priorities | May create anxiety |"
+        },
+        "explanation": "ZBB forces managers to ***justify all expenditure*** from scratch. It requires ranking ***decision packages*** by priority. Practical implementation often uses ***priority-based budgeting*** or applies ZBB to selected departments on a ***rolling basis*** rather than annually to entire organisation."
+    }
+]

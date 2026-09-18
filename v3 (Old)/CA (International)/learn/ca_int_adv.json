@@ -1,0 +1,143 @@
+{
+    "id": "learn_ca_int_adv",
+    "topicId": "ca_int_adv",
+    "topicTitle": "Applied Skills Level",
+    "description": "Master CA International Applied Skills covering PM, TX, FR, AA, FM, SBL, SBR modules",
+    "baseKP": 100,
+    "slides": [
+        {
+            "id": "cai_as1",
+            "type": "content",
+            "title": "Welcome to Applied Skills",
+            "content": "# CA International Applied Skills\n\nDevelop **professional competency**.\n\n## What You Will Learn\n\n- **PM** - Performance Management\n- **TX** - Taxation\n- **FR** - Financial Reporting\n- **AA** - Audit & Assurance\n- **FM** - Financial Management\n\n## Level Structure\n\n| Module | Focus |\n|--------|-------|\n| PM | Costing, decisions |\n| TX | Tax computation |\n| FR | IFRS reporting |\n| AA | Audit process |\n| FM | Corporate finance |"
+        },
+        {
+            "id": "cai_as2",
+            "type": "content",
+            "title": "Performance Management",
+            "content": "# PM Module\n\n## Advanced Costing\n\n| Method | Focus |\n|--------|-------|\n| ABC | Activities |\n| Target | Market-driven |\n| Life cycle | Total cost |\n| Throughput | Constraints |\n\n## Decision Making\n\n| Decision | Basis |\n|----------|-------|\n| Make or buy | Relevant cost |\n| Pricing | Contribution |\n| Limiting factor | C/unit of LF |"
+        },
+        {
+            "id": "cai_as3",
+            "type": "content",
+            "title": "Budgeting and Control",
+            "content": "# Planning Systems\n\n## Budget Types\n\n| Type | Approach |\n|------|----------|\n| Fixed | One level |\n| Flexible | Multiple |\n| Zero-based | From zero |\n| Rolling | Continuous |\n\n## Advanced Variances\n\n| Variance | Analysis |\n|----------|----------|\n| Mix | Actual vs standard |\n| Yield | Output efficiency |\n| Planning | Standard change |\n| Operating | Actual vs revised |"
+        },
+        {
+            "id": "cai_as_quiz1",
+            "type": "quiz",
+            "title": "PM Quiz",
+            "content": "Test your PM knowledge!",
+            "quizQuestion": "Target costing starts from?",
+            "quizOptions": [
+                "Cost",
+                "Market price",
+                "Budget",
+                "Standard"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_as4",
+            "type": "content",
+            "title": "Financial Reporting",
+            "content": "# FR Module\n\n## Key IFRS Standards\n\n| IFRS | Topic |\n|------|-------|\n| IFRS 15 | Revenue |\n| IFRS 16 | Leases |\n| IFRS 9 | Financial instruments |\n| IAS 36 | Impairment |\n\n## Group Accounting\n\n| Relationship | Treatment |\n|--------------|----------|\n| Subsidiary (>50%) | Consolidate |\n| Associate (20-50%) | Equity method |\n| JV | Equity method |"
+        },
+        {
+            "id": "cai_as5",
+            "type": "content",
+            "title": "Consolidation",
+            "content": "# Group Accounts\n\n## Goodwill\n\n```\nConsideration\n+ NCI at acquisition\n- FV of net assets\n= Goodwill\n```\n\n## Adjustments\n\n| Item | Treatment |\n|------|----------|\n| Investment | Eliminate |\n| Intercompany | Cancel |\n| PURP | Remove |\n| Fair values | Adjust |\n\n## NCI Methods\n\n- Full goodwill\n- Proportionate share"
+        },
+        {
+            "id": "cai_as6",
+            "type": "content",
+            "title": "Audit and Assurance",
+            "content": "# AA Module\n\n## Audit Process\n\n```\n1. Engagement\n2. Planning\n3. Risk assessment\n4. Evidence gathering\n5. Completion\n6. Reporting\n```\n\n## Audit Risk\n\n```\nAR = IR x CR x DR\n\nLower DR needed when IR or CR high\n```"
+        },
+        {
+            "id": "cai_as_quiz2",
+            "type": "quiz",
+            "title": "FR Quiz",
+            "content": "Test your FR knowledge!",
+            "quizQuestion": "Equity method is for associates with?",
+            "quizOptions": [
+                "< 20%",
+                "20-50%",
+                "> 50%",
+                "100%"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_as7",
+            "type": "content",
+            "title": "Audit Evidence",
+            "content": "# Evidence Gathering\n\n## Procedures\n\n| Procedure | Use |\n|-----------|-----|\n| Inspection | Documents |\n| Observation | Processes |\n| Inquiry | Questions |\n| Confirmation | External |\n| Recalculation | Arithmetic |\n| Reperformance | Controls |\n\n## Assertions\n\n| Class | Examples |\n|-------|----------|\n| Existence | Assets exist |\n| Completeness | All recorded |\n| Valuation | Correct amount |\n| Rights | Ownership |"
+        },
+        {
+            "id": "cai_as8",
+            "type": "content",
+            "title": "Financial Management",
+            "content": "# FM Module\n\n## Working Capital\n\n```\nNWC = CA - CL\n\nCash cycle = Inventory + Receivables - Payables\n```\n\n## Investment Appraisal\n\n| Method | Criterion |\n|--------|----------|\n| NPV | > 0 |\n| IRR | > Cost of capital |\n| Payback | < Target |\n| ARR | > Target |"
+        },
+        {
+            "id": "cai_as9",
+            "type": "content",
+            "title": "Corporate Finance",
+            "content": "# Financing Decisions\n\n## Cost of Capital\n\n```\nWACC = (E/V x Ke) + (D/V x Kd x (1-T))\n\nKe (CAPM) = Rf + beta(Rm - Rf)\n```\n\n## Capital Structure\n\n| Theory | View |\n|--------|------|\n| MM (no tax) | Irrelevant |\n| MM (tax) | Debt adds value |\n| Trade-off | Optimal exists |"
+        },
+        {
+            "id": "cai_as_quiz3",
+            "type": "quiz",
+            "title": "FM Quiz",
+            "content": "Test your FM knowledge!",
+            "quizQuestion": "CAPM calculates cost of?",
+            "quizOptions": [
+                "Debt",
+                "Equity",
+                "Capital",
+                "Investment"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_as10",
+            "type": "content",
+            "title": "Risk Management",
+            "content": "# Financial Risks\n\n## Types\n\n| Risk | Source |\n|------|--------|\n| Currency | Exchange rates |\n| Interest | Rate changes |\n| Credit | Default |\n\n## Hedging\n\n| Instrument | Use |\n|------------|-----|\n| Forward | Lock rate |\n| Future | Exchange-traded |\n| Option | Right only |\n| Swap | Exchange payments |"
+        },
+        {
+            "id": "cai_as11",
+            "type": "content",
+            "title": "Business Valuation",
+            "content": "# Valuation Methods\n\n## Approaches\n\n| Method | Basis |\n|--------|-------|\n| Asset | Net assets |\n| Income | Earnings/CF |\n| Market | Comparables |\n\n## DCF Model\n\n```\nValue = Sum of PV(FCF) + PV(Terminal)\n\nTerminal = FCF(1+g) / (WACC - g)\n```"
+        },
+        {
+            "id": "cai_as12",
+            "type": "content",
+            "title": "Taxation",
+            "content": "# TX Module\n\n## Tax Computation\n\n```\nIncome\n- Deductions\n= Taxable income\nx Rate\n= Tax liability\n- Credits\n= Tax payable\n```\n\n## Corporate Tax\n\n| Topic | Coverage |\n|-------|----------|\n| Taxable profits | Adjustments |\n| Capital allowances | Depreciation |\n| Losses | Carry forward |\n| Groups | Relief |"
+        },
+        {
+            "id": "cai_as_quiz4",
+            "type": "quiz",
+            "title": "Valuation Quiz",
+            "content": "Test your valuation knowledge!",
+            "quizQuestion": "DCF uses which cash flows?",
+            "quizOptions": [
+                "Historical",
+                "Future",
+                "Current",
+                "Book"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cai_as17",
+            "type": "content",
+            "title": "Summary",
+            "content": "# Congratulations! Summary\n\nYou completed **CA International Applied Skills**!\n\n## Key Topics\n\n### PM\n- Advanced costing\n- Decision making\n- Variances\n\n### FR\n- IFRS standards\n- Consolidation\n\n### AA\n- Audit process\n- Evidence\n- Risk\n\n### FM\n- Working capital\n- Investment\n- Financing\n\n## What is Next?\n\nExplore Strategic Professional Level!"
+        }
+    ]
+}

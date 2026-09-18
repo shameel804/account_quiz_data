@@ -1,0 +1,167 @@
+{
+    "id": "learn_cost",
+    "topicId": "cost",
+    "topicTitle": "Cost & Managerial Accounting",
+    "description": "Master cost accounting fundamentals including Fixed vs Variable Costs, Break-Even Analysis, Budgeting and Forecasting, and Marginal Costing techniques",
+    "baseKP": 75,
+    "slides": [
+        {
+            "id": "cost_1",
+            "type": "content",
+            "title": "Welcome to Cost & Managerial Accounting",
+            "content": "# Cost and Managerial Accounting\n\nCost accounting focuses on **measuring and analyzing costs** to help managers make better business decisions.\n\n## What You Will Learn\n\n- **Fixed vs Variable Costs** - Understanding cost behavior\n- **Break-Even Analysis** - Finding the profit threshold\n- **Budgeting and Forecasting** - Planning for the future\n- **Marginal Costing** - Decision-making techniques\n\n## Financial vs Managerial Accounting\n\n| Aspect | Financial | Managerial |\n|--------|-----------|------------|\n| **Users** | External (investors, creditors) | Internal (managers) |\n| **Focus** | Historical data | Future planning |\n| **Format** | Standardized (GAAP/IFRS) | Flexible |\n| **Requirement** | Mandatory for public companies | Optional |\n| **Time Period** | Quarterly/Annual | As needed |\n\n## Why Cost Accounting Matters\n\n- Make **pricing decisions**\n- Control **costs effectively**\n- Evaluate **performance**\n- Plan for **profitability**\n\n> **Key Insight:** Cost accounting helps answer: What does it cost? How can we do it cheaper? Should we make or buy?"
+        },
+        {
+            "id": "cost_2",
+            "type": "content",
+            "title": "Understanding Cost Behavior",
+            "content": "# Cost Behavior\n\n## How Costs React to Activity Changes\n\nCost behavior describes how costs change as **business activity** (like production volume) changes.\n\n## The Two Main Categories\n\n### Variable Costs\nCosts that change **in total** in direct proportion to activity:\n\n| Example | Cost Behavior |\n|---------|---------------|\n| Raw materials | More products = more materials |\n| Direct labor | More products = more labor hours |\n| Sales commissions | More sales = more commissions |\n\n**Per Unit:** Variable costs stay constant per unit.\n\n### Fixed Costs\nCosts that remain **constant in total** regardless of activity:\n\n| Example | Cost Behavior |\n|---------|---------------|\n| Rent | Same regardless of production |\n| Insurance | Same regardless of sales |\n| Salaries | Same regardless of volume |\n\n**Per Unit:** Fixed costs per unit decrease as volume increases.\n\n## Visual Representation\n\n```\nTotal Cost\n    |\n    |        Variable Cost\n    |       /\n    |      /\n    |     /\n    |    /\n    |---/---- Fixed Cost\n    |____________________ Activity Level\n```\n\n> **Remember:** Variable costs vary in TOTAL, fixed costs are fixed in TOTAL!"
+        },
+        {
+            "id": "cost_3",
+            "type": "content",
+            "title": "Fixed vs Variable Costs Deep Dive",
+            "content": "# Fixed and Variable Costs in Detail\n\n## Variable Cost Example\n\nA company makes widgets. Each widget requires $5 of materials.\n\n| Units Produced | Material Cost (Variable) | Cost Per Unit |\n|----------------|-------------------------|---------------|\n| 100 | $500 | $5 |\n| 500 | $2,500 | $5 |\n| 1,000 | $5,000 | $5 |\n\n**Total changes, per unit stays the same.**\n\n## Fixed Cost Example\n\nFactory rent is $10,000 per month.\n\n| Units Produced | Rent (Fixed) | Rent Per Unit |\n|----------------|--------------|---------------|\n| 100 | $10,000 | $100.00 |\n| 500 | $10,000 | $20.00 |\n| 1,000 | $10,000 | $10.00 |\n\n**Total stays the same, per unit decreases.**\n\n## Mixed Costs\n\nSome costs have **both fixed and variable** components:\n\n**Example:** Utility bill\n- Fixed: $100 base charge\n- Variable: $0.10 per kilowatt hour\n\n```\nTotal Utility Cost = $100 + ($0.10 x kWh used)\n```\n\n## Step Costs\n\nFixed within a range, then jump to new level:\n\n**Example:** Supervisor salaries\n- 1-25 employees: 1 supervisor ($50,000)\n- 26-50 employees: 2 supervisors ($100,000)\n\n> **Analyze carefully:** Understanding cost behavior is essential for planning!"
+        },
+        {
+            "id": "cost_quiz_1",
+            "type": "quiz",
+            "title": "Cost Behavior Check",
+            "content": "Test your understanding of cost behavior!",
+            "quizQuestion": "As production volume increases, what happens to fixed cost per unit?",
+            "quizOptions": [
+                "It increases",
+                "It decreases",
+                "It stays the same",
+                "It becomes variable"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cost_4",
+            "type": "content",
+            "title": "Cost Classification Methods",
+            "content": "# Ways to Classify Costs\n\n## By Traceability\n\n### Direct Costs\nCan be **directly traced** to a cost object:\n- Direct materials\n- Direct labor\n- Direct expenses\n\n### Indirect Costs (Overhead)\nCannot be directly traced:\n- Factory rent\n- Utilities\n- Depreciation\n- Supervisor salaries\n\n## By Function\n\n| Manufacturing Costs | Non-Manufacturing Costs |\n|--------------------|------------------------|\n| Direct materials | Selling expenses |\n| Direct labor | Administrative expenses |\n| Manufacturing overhead | Research & development |\n\n## By Relevance to Decisions\n\n### Relevant Costs\n- Differ between alternatives\n- Future-oriented\n- Used in decision making\n\n### Irrelevant Costs\n- **Sunk costs** - Already incurred, cannot be changed\n- Same regardless of decision\n\n## By Timing\n\n| Product Costs | Period Costs |\n|--------------|--------------|\n| Attach to inventory | Expense immediately |\n| Become expense when sold | Not tied to products |\n| Direct materials, labor, overhead | Selling, administrative |\n\n> **Know your classification** - It determines how and when costs are reported!"
+        },
+        {
+            "id": "cost_5",
+            "type": "content",
+            "title": "Introduction to Break-Even Analysis",
+            "content": "# Break-Even Analysis\n\n## What is Break-Even?\n\nThe break-even point is where **total revenue equals total costs** - no profit, no loss.\n\n## The Break-Even Formula\n\n**Break-Even Units = Fixed Costs / Contribution Margin per Unit**\n\nWhere:\n- **Contribution Margin = Selling Price - Variable Cost per Unit**\n\n## Example Calculation\n\n**Given:**\n- Selling price per unit: $50\n- Variable cost per unit: $30\n- Fixed costs: $100,000\n\n**Step 1: Calculate Contribution Margin**\n```\nContribution Margin = $50 - $30 = $20 per unit\n```\n\n**Step 2: Calculate Break-Even Units**\n```\nBreak-Even = $100,000 / $20 = 5,000 units\n```\n\n**Verification:**\n```\nRevenue: 5,000 x $50 =     $250,000\nVariable Costs: 5,000 x $30 = (150,000)\n                           -----------\nContribution Margin:         $100,000\nFixed Costs:                 (100,000)\n                           -----------\nProfit:                           $0\n```\n\n> **At 5,000 units:** The company breaks even - neither profit nor loss!"
+        },
+        {
+            "id": "cost_6",
+            "type": "content",
+            "title": "Break-Even in Dollars",
+            "content": "# Break-Even in Sales Dollars\n\n## Alternative Formula\n\n**Break-Even Sales = Fixed Costs / Contribution Margin Ratio**\n\nWhere:\n- **CM Ratio = Contribution Margin / Selling Price**\n\n## Example\n\nUsing the same data:\n- Selling price: $50\n- Variable cost: $30\n- Fixed costs: $100,000\n\n**Step 1: Calculate CM Ratio**\n```\nCM Ratio = $20 / $50 = 0.40 or 40%\n```\n\n**Step 2: Calculate Break-Even Sales**\n```\nBreak-Even Sales = $100,000 / 0.40 = $250,000\n```\n\n## Verification\n\n```\nSales:                      $250,000\nVariable Costs (60%):       (150,000)\n                           -----------\nContribution Margin (40%):  $100,000\nFixed Costs:                (100,000)\n                           -----------\nProfit:                           $0\n```\n\n## When to Use Each Formula\n\n| Formula | Use When |\n|---------|----------|\n| Break-Even Units | Single product, need units |\n| Break-Even Dollars | Multiple products, revenue focus |\n\n## The CM Ratio Meaning\n\n40% CM Ratio means:\n- For every $1 of sales, $0.40 goes to cover fixed costs and profit\n- $0.60 goes to variable costs\n\n> **Key Insight:** CM Ratio shows how much each sales dollar contributes to profit!"
+        },
+        {
+            "id": "cost_7",
+            "type": "content",
+            "title": "Target Profit Analysis",
+            "content": "# Planning for Profit\n\n## Target Profit Formula\n\n**Units for Target Profit = (Fixed Costs + Target Profit) / CM per Unit**\n\n## Example\n\n**Given:**\n- Selling price: $50\n- Variable cost: $30\n- Fixed costs: $100,000\n- Target profit: $50,000\n\n**Calculation:**\n```\nUnits = ($100,000 + $50,000) / $20 = 7,500 units\n```\n\n**Verification:**\n```\nRevenue: 7,500 x $50 =        $375,000\nVariable Costs: 7,500 x $30 = (225,000)\n                             -----------\nContribution Margin:          $150,000\nFixed Costs:                  (100,000)\n                             -----------\nProfit:                        $50,000\n```\n\n## In Sales Dollars\n\n**Sales for Target Profit = (Fixed Costs + Target Profit) / CM Ratio**\n\n```\nSales = ($100,000 + $50,000) / 0.40 = $375,000\n```\n\n## Margin of Safety\n\nHow much sales can drop before reaching break-even:\n\n```\nMargin of Safety = Current Sales - Break-Even Sales\n\nIf current sales = $375,000 and BE = $250,000:\nMargin of Safety = $375,000 - $250,000 = $125,000\n\nMS Percentage = $125,000 / $375,000 = 33.3%\n```\n\n> **Higher margin of safety = Lower risk** of incurring losses!"
+        },
+        {
+            "id": "cost_quiz_2",
+            "type": "quiz",
+            "title": "Break-Even Quiz",
+            "content": "Test your break-even calculations!",
+            "quizQuestion": "If fixed costs are $60,000 and the contribution margin per unit is $15, what is the break-even point in units?",
+            "quizOptions": [
+                "2,000 units",
+                "4,000 units",
+                "6,000 units",
+                "9,000 units"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cost_8",
+            "type": "content",
+            "title": "CVP Graph and Analysis",
+            "content": "# Cost-Volume-Profit Graph\n\n## The CVP Chart\n\n```\n$\n|\n|                    /  Total Revenue\n|                  /\n|                /\n|      Break-Even Point\n|              /|\n|            / |\n|          /   |  Profit Area\n|        /     |\n|      /-------+------- Total Cost\n|    /  Loss   |\n|  /   Area    |\n|/_____________|______________ Units\n              BE\n```\n\n## Key Points on the Graph\n\n| Point | Meaning |\n|-------|--------|\n| **Break-Even** | Where Revenue = Total Cost |\n| **Below BE** | Loss area (costs > revenue) |\n| **Above BE** | Profit area (revenue > costs) |\n| **Slope of Revenue** | Selling price per unit |\n| **Slope of Total Cost** | Variable cost per unit |\n| **Y-intercept of Cost** | Fixed costs |\n\n## What-If Analysis\n\n### If Selling Price Increases:\n- Revenue line becomes steeper\n- Break-even point moves left (fewer units needed)\n\n### If Variable Costs Increase:\n- Cost line becomes steeper\n- Break-even point moves right (more units needed)\n\n### If Fixed Costs Increase:\n- Cost line shifts up\n- Break-even point moves right\n\n## Operating Leverage\n\nCompanies with high fixed costs:\n- Higher operating leverage\n- Greater profit swings from volume changes\n- Higher risk, but higher reward potential\n\n> **Use CVP analysis** to understand how changes impact profitability!"
+        },
+        {
+            "id": "cost_9",
+            "type": "content",
+            "title": "Introduction to Budgeting",
+            "content": "# Budgeting Fundamentals\n\n## What is a Budget?\n\nA budget is a **quantified plan** for future periods that helps organizations:\n- Plan operations\n- Coordinate activities\n- Communicate expectations\n- Motivate employees\n- Evaluate performance\n\n## Types of Budgets\n\n### By Time Frame\n\n| Type | Period |\n|------|--------|\n| **Operating** | One year or less |\n| **Capital** | Multi-year investments |\n| **Rolling** | Continuously updated |\n\n### By Flexibility\n\n| Type | Description |\n|------|-------------|\n| **Static** | Fixed for one level of activity |\n| **Flexible** | Adjusts for different activity levels |\n\n### By Approach\n\n| Type | Description |\n|------|-------------|\n| **Incremental** | Based on prior period +- changes |\n| **Zero-based** | Justify every expense from zero |\n| **Activity-based** | Based on activities and drivers |\n\n## The Master Budget\n\nThe comprehensive financial plan including:\n- Operating budgets (sales, production, expenses)\n- Financial budgets (cash, capital, projected statements)\n\n> **Budgets are roadmaps** - They guide the organization toward its goals!"
+        },
+        {
+            "id": "cost_10",
+            "type": "content",
+            "title": "The Master Budget Components",
+            "content": "# Components of the Master Budget\n\n## Operating Budget Sequence\n\n```\n1. Sales Budget\n        |\n        v\n2. Production Budget\n        |\n   +----+----+\n   |    |    |\n   v    v    v\n3. Direct   4. Direct   5. Manufacturing\n   Materials   Labor      Overhead\n   Budget     Budget      Budget\n        |\n        v\n6. Cost of Goods Sold Budget\n        |\n        v\n7. Selling & Admin Budget\n        |\n        v\n8. Budgeted Income Statement\n```\n\n## Key Budgets\n\n### Sales Budget\nStarting point - drives all other budgets:\n```\nExpected Unit Sales x Selling Price = Budgeted Sales\n```\n\n### Production Budget\n```\nBudgeted Sales\n+ Desired Ending Inventory\n- Beginning Inventory\n= Required Production\n```\n\n### Direct Materials Budget\n```\nRequired Production\nx Materials per Unit\n= Materials Needed for Production\n+ Desired Ending Materials Inventory\n- Beginning Materials Inventory\n= Materials to Purchase\nx Cost per Unit\n= Materials Purchase Budget\n```\n\n### Cash Budget\nProjects cash inflows and outflows:\n- Beginning cash\n- Cash receipts\n- Cash disbursements\n- Financing needed\n- Ending cash balance\n\n> **Everything flows from sales** - Accurate sales forecasting is critical!"
+        },
+        {
+            "id": "cost_11",
+            "type": "content",
+            "title": "Budgeting Example",
+            "content": "# Budget Preparation Example\n\n## Given Information\n\n- Q1 expected sales: 10,000 units at $50 each\n- Q2 expected sales: 12,000 units at $50 each\n- Desired ending inventory: 20% of next quarter sales\n- Beginning inventory: 2,000 units\n- Materials per unit: 2 pounds at $5 per pound\n\n## Sales Budget (Q1)\n\n```\nExpected Unit Sales:      10,000\nx Selling Price:          x $50\n                         -------\nBudgeted Sales Revenue:  $500,000\n```\n\n## Production Budget (Q1)\n\n```\nBudgeted Sales:                10,000 units\n+ Desired Ending Inventory:\n  (12,000 x 20%)                2,400 units\n- Beginning Inventory:         (2,000) units\n                              -----------\nRequired Production:           10,400 units\n```\n\n## Direct Materials Budget (Q1)\n\n```\nRequired Production:           10,400 units\nx Materials per unit:          x 2 lbs\n                              -----------\nProduction Needs:              20,800 lbs\n+ Desired Ending Inventory:\n  (assume 2,500 lbs)            2,500 lbs\n- Beginning Inventory:         (2,000) lbs\n                              -----------\nMaterials to Purchase:         21,300 lbs\nx Cost per pound:              x $5\n                              -----------\nMaterials Purchase Budget:    $106,500\n```\n\n> **Follow the flow:** Sales drives production drives materials!"
+        },
+        {
+            "id": "cost_quiz_3",
+            "type": "quiz",
+            "title": "Budgeting Quiz",
+            "content": "Test your budgeting knowledge!",
+            "quizQuestion": "If a company wants to sell 8,000 units and maintain ending inventory of 1,500 units with beginning inventory of 2,000 units, how many units must be produced?",
+            "quizOptions": [
+                "7,000 units",
+                "7,500 units",
+                "8,500 units",
+                "11,500 units"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cost_12",
+            "type": "content",
+            "title": "Forecasting Techniques",
+            "content": "# Sales Forecasting Methods\n\n## Qualitative Methods\n\n### Executive Opinion\n- Senior managers pool their judgment\n- Quick but potentially biased\n\n### Sales Force Composite\n- Salespeople estimate their territory sales\n- Aggregated for total forecast\n\n### Market Research\n- Customer surveys\n- Test markets\n- Focus groups\n\n### Delphi Method\n- Anonymous expert opinions\n- Multiple rounds until consensus\n\n## Quantitative Methods\n\n### Moving Average\n```\nForecast = (Sum of recent periods) / Number of periods\n\nExample (3-month average):\nJan: 100, Feb: 120, Mar: 110\nApril Forecast = (100 + 120 + 110) / 3 = 110\n```\n\n### Trend Analysis\n```\nIdentify growth/decline pattern\nProject forward based on trend\n```\n\n### Regression Analysis\n```\nFind relationship between variables\nUse equation to predict future\n```\n\n## Choosing a Method\n\n| Situation | Best Method |\n|-----------|-------------|\n| New product | Qualitative |\n| Stable market | Moving average |\n| Strong trend | Trend analysis |\n| Multiple factors | Regression |\n\n> **Combine methods** for more reliable forecasts!"
+        },
+        {
+            "id": "cost_13",
+            "type": "content",
+            "title": "Introduction to Marginal Costing",
+            "content": "# Marginal Costing\n\n## What is Marginal Costing?\n\nMarginal costing (also called variable costing or direct costing) is a costing method that includes **only variable costs** in product costs.\n\n## Marginal vs Absorption Costing\n\n### Variable/Marginal Costing\nProduct cost includes:\n- Direct materials\n- Direct labor\n- Variable manufacturing overhead\n\nFixed overhead is treated as a **period cost**.\n\n### Absorption Costing (Full Costing)\nProduct cost includes:\n- Direct materials\n- Direct labor\n- Variable manufacturing overhead\n- **Fixed manufacturing overhead**\n\n## Income Statement Comparison\n\n### Marginal Costing Format\n```\nSales                      $500,000\n- Variable Costs           (300,000)\n                          ----------\nContribution Margin        $200,000\n- Fixed Costs              (120,000)\n                          ----------\nNet Income                  $80,000\n```\n\n### Absorption Costing Format\n```\nSales                      $500,000\n- Cost of Goods Sold       (350,000)\n                          ----------\nGross Profit               $150,000\n- Operating Expenses        (70,000)\n                          ----------\nNet Income                  $80,000\n```\n\n> **Key Difference:** Where fixed manufacturing costs appear!"
+        },
+        {
+            "id": "cost_14",
+            "type": "content",
+            "title": "Marginal Costing for Decisions",
+            "content": "# Using Marginal Costing for Decisions\n\n## Special Order Decisions\n\n**Scenario:** Accept a one-time order at below normal price?\n\n**Decision Rule:** Accept if price > variable cost per unit\n(assuming capacity available and no impact on regular sales)\n\n**Example:**\n- Normal selling price: $50\n- Variable cost: $30\n- Special order price: $35\n- Units: 1,000\n\n**Analysis:**\n```\nSpecial order price:        $35\n- Variable cost:            $30\n                           -----\nContribution margin:         $5 per unit\n\nTotal contribution: 1,000 x $5 = $5,000\n```\n\n**Decision:** Accept - contributes $5,000 to profit.\n\n## Make or Buy Decisions\n\n**Scenario:** Buy a component externally or make it?\n\n**Decision Rule:** Compare relevant costs only\n\n**Example:**\n```\nMake:                        Buy:\nDirect materials:  $5        Purchase price: $12\nDirect labor:       4\nVariable overhead:  2\nAvoidable fixed:    2\n                  ---\nTotal:            $13\n\nDecision: BUY (saves $1 per unit)\n```\n\n## Relevant Cost Principle\n\n**Include only:**\n- Future costs\n- Costs that differ between alternatives\n\n**Exclude:**\n- Sunk costs\n- Costs the same for all alternatives\n\n> **Focus on relevant costs** for better decisions!"
+        },
+        {
+            "id": "cost_15",
+            "type": "content",
+            "title": "Contribution Margin Analysis",
+            "content": "# Contribution Margin Applications\n\n## Contribution Margin Per Unit\n\n```\nSelling Price - Variable Cost Per Unit = CM Per Unit\n\n$80 - $50 = $30 contribution margin\n```\n\nEach unit sold contributes $30 toward fixed costs and profit.\n\n## Contribution Margin Ratio\n\n```\nCM Per Unit / Selling Price = CM Ratio\n\n$30 / $80 = 37.5%\n```\n\nEvery $1 of sales contributes $0.375 to fixed costs and profit.\n\n## Product Mix Decisions\n\n**Scenario:** Limited resources - which product to prioritize?\n\n**Decision Rule:** Maximize CM per unit of constraint\n\n**Example with machine hours:**\n\n| Product | A | B |\n|---------|---|---|\n| CM per unit | $30 | $20 |\n| Hours per unit | 3 | 1 |\n| CM per hour | $10 | $20 |\n\n**Decision:** Prioritize Product B ($20 per hour vs $10)\n\n## Segment Profitability\n\n```\nSegment A:\nSales:                $200,000\n- Variable costs:     (120,000)\n                     ----------\nContribution margin:   $80,000\n- Direct fixed costs:  (30,000)\n                     ----------\nSegment margin:        $50,000\n```\n\nSegment margin shows if the segment covers its own costs.\n\n> **Contribution margin** is the key to many decisions!"
+        },
+        {
+            "id": "cost_quiz_4",
+            "type": "quiz",
+            "title": "Decision Making Quiz",
+            "content": "Test your decision-making skills!",
+            "quizQuestion": "A special order for 500 units is offered at $22 each. Variable cost is $18 per unit. There is excess capacity. Should the order be accepted?",
+            "quizOptions": [
+                "No, the price is too low",
+                "Yes, it contributes $2,000 toward fixed costs",
+                "No, it will reduce profits",
+                "Cannot determine without fixed cost information"
+            ],
+            "correctOptionIndex": 1
+        },
+        {
+            "id": "cost_16",
+            "type": "content",
+            "title": "Standard Costing Basics",
+            "content": "# Introduction to Standard Costing\n\n## What are Standard Costs?\n\nStandard costs are **predetermined costs** representing what costs should be under efficient operations.\n\n## Purpose of Standards\n\n- **Planning** - Budgeting and forecasting\n- **Control** - Comparing actual to expected\n- **Motivation** - Goals for employees\n- **Pricing** - Basis for setting prices\n\n## Types of Standards\n\n| Type | Description |\n|------|-------------|\n| **Ideal** | Perfect efficiency, no waste |\n| **Practical** | Attainable with effort |\n| **Normal** | Average over past periods |\n\n## Cost Variance Analysis\n\n```\nVariance = Actual Cost - Standard Cost\n\nFavorable (F): Actual < Standard (good)\nUnfavorable (U): Actual > Standard (bad)\n```\n\n## Material Variance Example\n\n```\nStandard: 1,000 units x 2 lbs x $5 = $10,000\nActual:   1,050 lbs purchased at $4.80 = $5,040\n\nFor 1,000 units produced (used 1,950 lbs):\n\nMaterials Price Variance:\n(Actual Price - Std Price) x Actual Qty\n($4.80 - $5.00) x 1,050 = $210 F\n\nMaterials Quantity Variance:\n(Actual Qty - Std Qty) x Std Price\n(1,950 - 2,000) x $5 = $250 F\n```\n\n> **Variance analysis** helps identify what went wrong (or right)!"
+        },
+        {
+            "id": "cost_17",
+            "type": "content",
+            "title": "Summary and Key Takeaways",
+            "content": "# Congratulations! Summary\n\nYou have completed the **Cost and Managerial Accounting** lesson!\n\n## Key Concepts Mastered\n\n### Cost Behavior\n- **Variable costs** change in total with activity\n- **Fixed costs** remain constant in total\n- Understanding behavior is key to planning\n\n### Break-Even Analysis\n- **BE Units** = Fixed Costs / CM per Unit\n- **BE Dollars** = Fixed Costs / CM Ratio\n- **Target Profit** adds desired profit to fixed costs\n\n### Budgeting\n- Master budget coordinates all planning\n- Sales budget drives other budgets\n- Flexible budgets adjust for volume\n\n### Marginal Costing\n- Focuses on variable costs for decisions\n- Contribution margin is key metric\n- Use for special orders, make/buy decisions\n\n## Quick Reference\n\n| Concept | Formula |\n|---------|--------|\n| Contribution Margin | Sales - Variable Costs |\n| Break-Even Units | Fixed Costs / CM per Unit |\n| CM Ratio | CM / Sales |\n| Margin of Safety | Actual Sales - BE Sales |\n\n## What is Next?\n\nExplore:\n- Auditing and internal controls\n- Financial ratio analysis\n- Taxation principles\n\n> **Remember:** Cost accounting helps managers make better decisions every day!"
+        }
+    ]
+}

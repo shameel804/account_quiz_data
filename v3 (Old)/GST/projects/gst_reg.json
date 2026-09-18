@@ -1,0 +1,152 @@
+[
+    {
+        "title": "GST Registration Thresholds 📋",
+        "ques": "What are the **threshold limits** for mandatory GST registration?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Thresholds**:\n* Goods: Rs. 40 lakhs (Rs. 20 lakhs for special states)\n* Services: Rs. 20 lakhs (Rs. 10 lakhs for special states)\n\n**Special States**: NE states and hill states"
+        },
+        "explanation": "Below threshold = ***optional*** registration."
+    },
+    {
+        "title": "Compulsory Registration Cases 📝",
+        "ques": "When is GST registration **mandatory** irrespective of turnover?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Mandatory Registration**:\n* Inter-state supply\n* Casual taxable person\n* Non-resident taxable person\n* E-commerce operator\n* Person required to deduct TDS/TCS\n* Reverse charge liable person"
+        },
+        "explanation": "No threshold exemption for ***these categories***."
+    },
+    {
+        "title": "GST Invoice Requirements 📄",
+        "ques": "What details must a **tax invoice** contain?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Required Details**:\n* Supplier name, address, GSTIN\n* Invoice number and date\n* Recipient details and GSTIN\n* HSN/SAC code\n* Description, quantity, value\n* Tax rate and amount (CGST, SGST/IGST)"
+        },
+        "explanation": "Proper invoicing essential for ***ITC claims***."
+    },
+    {
+        "title": "E-Invoicing System 💻",
+        "ques": "What is **e-invoicing** under GST?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**E-invoicing**:\n* Electronic generation of invoices\n* Reporting to Invoice Registration Portal (IRP)\n* IRN (Invoice Reference Number) generated\n* QR code on invoice\n\n**Mandatory for**: Turnover > 5 crores (phased implementation)"
+        },
+        "explanation": "E-invoicing reduces ***manual data entry*** and errors."
+    },
+    {
+        "title": "GSTR Return Filing 📊",
+        "ques": "Compare **GSTR-1** and **GSTR-3B**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**GSTR-1**: Details of outward supplies\n* Invoice-wise data\n* Monthly/Quarterly filing\n\n**GSTR-3B**: Summary return\n* Self-declared liability\n* ITC claimed\n* Tax payment\n* Monthly filing"
+        },
+        "explanation": "Both must be filed for ***valid ITC flow***."
+    },
+    {
+        "title": "Input Tax Credit Rules 💰",
+        "ques": "What are the **blocked ITC** categories?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Blocked Credits**:\n* Motor vehicles (exceptions exist)\n* Food, beverages, outdoor catering\n* Membership of clubs\n* Personal consumption\n* Rent-a-cab, life/health insurance (with exceptions)\n* Construction for own use"
+        },
+        "explanation": "Blocked ITC ***cannot be claimed*** even if tax paid."
+    },
+    {
+        "title": "GST Refund Procedures 🔄",
+        "ques": "When can a **refund** be claimed under GST?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Refund Situations**:\n* Export of goods/services (zero-rated)\n* Inverted duty structure\n* Excess payment of tax\n* Finalization of provisional assessment\n\n**Form**: RFD-01 (online application)"
+        },
+        "explanation": "Refund within ***2 years*** of relevant date."
+    },
+    {
+        "title": "Audit and Assessment 🔍",
+        "ques": "What are the **types of audit** under GST?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Audit Types**:\n* Audit by tax authorities (Section 65)\n* Special audit by CA/CMA (Section 66)\n\n**Self-certification**: GSTR-9C reconciliation statement (if turnover > 5 crores)"
+        },
+        "explanation": "Audit ensures ***compliance*** with GST law."
+    },
+    {
+        "title": "E-Way Bill Generation 🚚",
+        "ques": "When is **E-Way Bill** required?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Required when**:\n* Movement of goods > Rs. 50,000 value\n* Inter-state or intra-state\n* Supply, job work, transfer\n\n**Validity**: Based on distance (1 day per 100 km)"
+        },
+        "explanation": "E-Way Bill must accompany ***goods in transit***."
+    },
+    {
+        "title": "Place of Supply Rules 🗺️",
+        "ques": "How is **place of supply** determined for services?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Default Rule**: Location of recipient\n\n**Specific Rules**:\n* Immovable property: Location of property\n* Events: Place of event\n* Transportation: Where journey begins\n* Telecom: Location of recipient"
+        },
+        "explanation": "Place of supply determines ***IGST or CGST+SGST***."
+    },
+    {
+        "title": "Composition Scheme Rules 📋",
+        "ques": "What are the **restrictions** under composition scheme?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Restrictions**:\n* Cannot make inter-state supplies\n* Cannot supply through e-commerce\n* Cannot issue tax invoice (only bill of supply)\n* Cannot collect tax from customer\n* No ITC allowed"
+        },
+        "explanation": "Lower compliance but ***limited flexibility***."
+    },
+    {
+        "title": "TDS and TCS under GST 💳",
+        "ques": "Who is liable for **TDS/TCS** under GST?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**TDS (1%)**: Deducted by government departments, PSUs for contracts > Rs. 2.5 lakhs\n\n**TCS (1%)**: Collected by e-commerce operators from sellers\n\n**Credit**: Available to supplier"
+        },
+        "explanation": "TDS/TCS ensures ***advance tax collection***."
+    },
+    {
+        "title": "Penalties for Non-Compliance ⚠️",
+        "ques": "What are the **maximum penalties** for GST offenses?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Penalties**:\n* Tax not paid/short-paid: 10% or Rs. 10,000 (whichever higher)\n* Fraud/Suppression: 100% of tax\n* Late filing: Rs. 50/day (Rs. 20 for NIL return)\n* Interest: 18% p.a."
+        },
+        "explanation": "Timely compliance avoids ***penalties***."
+    },
+    {
+        "title": "Appeals Process 📜",
+        "ques": "What is the **appeals hierarchy** under GST?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Hierarchy**:\n1. First Appellate Authority (Commissioner Appeals)\n2. Appellate Tribunal (GST Tribunal)\n3. High Court (questions of law)\n4. Supreme Court\n\n**Pre-deposit**: Required for appeal"
+        },
+        "explanation": "Appeal must be filed within ***prescribed time***."
+    },
+    {
+        "title": "Anti-Profiteering Mechanism 📉",
+        "ques": "What is the role of **Anti-Profiteering Authority**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Role**:\n* Ensure benefit of tax reduction passed to consumers\n* Investigate complaints\n* Order price reduction\n* Order refund to customers\n* Impose penalties\n\n**Replaced by**: Competition Commission (2022)"
+        },
+        "explanation": "Protects consumers from ***profiteering***."
+    }
+]

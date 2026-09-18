@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Financial Management Function 🎯",
+        "ques": "What are the **three key decisions** in financial management?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Three Key Decisions**:\n1. **Investment**: Which projects to undertake (capital budgeting)\n2. **Financing**: How to fund investments (debt vs equity)\n3. **Dividend**: How much to return to shareholders\n\n**Objective**: Maximise shareholder wealth"
+        },
+        "explanation": "These decisions are ***interrelated***. Investment decisions should earn more than cost of capital."
+    },
+    {
+        "title": "Working Capital Cycle 🔄",
+        "ques": "Calculate the **working capital cycle** and explain its components.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Working Capital Cycle** = Inventory Days + Receivable Days - Payable Days\n\n**Components**:\n* Inventory Days = (Inventory / Cost of Sales) x 365\n* Receivable Days = (Receivables / Credit Sales) x 365\n* Payable Days = (Payables / Credit Purchases) x 365\n\n**Objective**: Minimise cycle while maintaining operations"
+        },
+        "explanation": "Shorter cycle = less cash tied up. ***Trade-offs*** exist between liquidity and profitability."
+    },
+    {
+        "title": "NPV vs IRR 📊",
+        "ques": "Compare **NPV** and **IRR** as investment appraisal techniques.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**NPV (Net Present Value)**:\n* Sum of discounted cash flows at cost of capital\n* Accept if NPV > 0\n* Gives absolute value creation\n\n**IRR (Internal Rate of Return)**:\n* Discount rate where NPV = 0\n* Accept if IRR > cost of capital\n* Gives percentage return\n\n**Conflict**: May rank projects differently"
+        },
+        "explanation": "NPV is ***theoretically preferred*** as it shows actual wealth increase. IRR may have ***multiple values*** with unconventional cash flows."
+    },
+    {
+        "title": "Cost of Equity 💹",
+        "ques": "Explain **two methods** to calculate cost of equity.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**1. Dividend Growth Model (DVM)**:\nKe = (D1 / P0) + g\nWhere D1 = next dividend, P0 = current price, g = growth rate\n\n**2. CAPM**:\nKe = Rf + **beta** x (Rm - Rf)\nWhere Rf = risk-free rate, Rm = market return, **beta** = systematic risk"
+        },
+        "explanation": "DVM assumes ***constant growth***. CAPM separates ***systematic*** and ***unsystematic*** risk."
+    },
+    {
+        "title": "WACC Calculation 🧮",
+        "ques": "How is **Weighted Average Cost of Capital (WACC)** calculated?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**WACC** = (Ke x E/V) + (Kd x D/V x (1-T))\n\nWhere:\n* Ke = cost of equity\n* Kd = cost of debt\n* E = market value of equity\n* D = market value of debt\n* V = total value (E+D)\n* T = tax rate"
+        },
+        "explanation": "Debt is ***tax-deductible*** hence after-tax cost. Use ***market values*** not book values."
+    },
+    {
+        "title": "Sources of Finance 💰",
+        "ques": "Compare **equity** and **debt** financing.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Equity**:\n* No repayment obligation\n* Dividends not mandatory\n* Dilutes ownership\n* Higher cost (risk premium)\n\n**Debt**:\n* Must be repaid\n* Interest is tax-deductible\n* No ownership dilution\n* Lower cost but increases risk"
+        },
+        "explanation": "***Optimal capital structure*** balances benefits of debt against financial distress costs."
+    },
+    {
+        "title": "Dividend Policy Theories 📈",
+        "ques": "Explain **two theories** of dividend policy.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Dividend Irrelevance (MM)**:\n* Dividend policy doesn't affect value\n* Investors can create homemade dividends\n* Assumes perfect markets\n\n**Dividend Relevance**:\n* Bird-in-hand theory: Investors prefer certain dividends\n* Signalling: Dividends signal future prospects\n* Clientele effect: Investors prefer certain dividend patterns"
+        },
+        "explanation": "In practice, companies maintain ***stable dividend policy***. Residual theory suggests invest first, then pay dividends."
+    },
+    {
+        "title": "Interest Rate Risk 📉",
+        "ques": "How can a company **manage interest rate risk**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Internal Methods**:\n* Matching: Fixed rate assets with fixed rate liabilities\n* Pooling: Natural hedges across group\n\n**External Methods**:\n* Interest rate swaps: Exchange fixed for floating\n* Forward rate agreements (FRAs)\n* Interest rate caps and floors\n* Interest rate futures"
+        },
+        "explanation": "***Swaps*** most common. Company chooses based on risk ***appetite*** and cost."
+    },
+    {
+        "title": "Foreign Exchange Risk 🌍",
+        "ques": "Explain the **three types** of foreign exchange risk.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Three Types**:\n1. **Transaction Risk**: Cash flows from specific transactions\n2. **Translation Risk**: Conversion of foreign subsidiary accounts\n3. **Economic Risk**: Long-term competitive position changes\n\n**Hedging focuses on**: Transaction risk mainly"
+        },
+        "explanation": "Forward contracts, options, money market hedges address ***transaction*** risk."
+    },
+    {
+        "title": "Bond Valuation 📜",
+        "ques": "How is a **bond's market value** calculated?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Bond Value** = PV of interest payments + PV of redemption value\n\n= Annual interest x Annuity factor + Redemption value x Discount factor\n\n**Discount at**: Investors' required return\n\n**Yield to maturity**: Rate that equates PV to current price"
+        },
+        "explanation": "If coupon > required return, bond trades at ***premium***. If coupon < required return, trades at ***discount***."
+    },
+    {
+        "title": "Rights Issue 📢",
+        "ques": "Calculate the **theoretical ex-rights price** after a rights issue.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**TERP** = (MV of existing shares + Proceeds from new shares) / Total shares after issue\n\nExample: 4 shares at $5 + 1 new share at $3\n= (4 x 5 + 1 x 3) / 5\n= (20 + 3) / 5\n= $4.60"
+        },
+        "explanation": "Value of right = TERP - subscription price. Rights are ***valuable*** if market price > subscription price."
+    },
+    {
+        "title": "Payback Period 🕐",
+        "ques": "Calculate **payback period** and explain its limitations.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Payback** = Time to recover initial investment\n\nFor uneven cash flows: Count years until cumulative flow = investment\n\n**Limitations**:\n* Ignores time value of money (unless discounted payback)\n* Ignores cash flows after payback\n* No clear decision rule\n* Doesn't measure profitability"
+        },
+        "explanation": "Simple and widely used but should ***complement*** not replace NPV."
+    },
+    {
+        "title": "Operating Leverage 📊",
+        "ques": "Explain **operating leverage** and **financial leverage**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Operating Leverage**:\n* Proportion of fixed operating costs\n* High gearing = small sales change causes large profit change\n* DOL = Contribution / Operating Profit\n\n**Financial Leverage**:\n* Proportion of debt financing\n* High gearing = more volatile returns to equity\n* DFL = Operating Profit / Earnings Before Tax"
+        },
+        "explanation": "Combined leverage = DOL x DFL. Higher leverage = ***higher risk and return***."
+    },
+    {
+        "title": "Receivables Management 📋",
+        "ques": "What factors affect the **credit policy** decision?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Factors**:\n* Industry norms\n* Cash flow impact\n* Bad debt risk\n* Collection costs\n* Customer relationships\n\n**Trade-off**: Increase sales vs Cost of bad debts and financing"
+        },
+        "explanation": "Evaluate ***early payment discounts*** using effective annual cost. Credit ***analysis*** reduces bad debts."
+    },
+    {
+        "title": "Inventory Management EOQ 📦",
+        "ques": "Explain the **Economic Order Quantity (EOQ)** model.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**EOQ** = sqrt(2 x D x Co / Ch)\n\nWhere:\n* D = Annual demand\n* Co = Cost per order\n* Ch = Cost of holding one unit per year\n\n**Objective**: Minimise total inventory costs (ordering + holding)"
+        },
+        "explanation": "Assumes ***constant demand*** and ***known lead times***. JIT approaches aim to ***minimise inventory***."
+    }
+]

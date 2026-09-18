@@ -1,0 +1,152 @@
+[
+    {
+        "title": "GST Basics 📚",
+        "ques": "What is **GST** and what taxes did it replace?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**GST** (Goods and Services Tax): Comprehensive indirect tax on supply of goods and services\n\n**Replaced**:\n* Central: Excise Duty, Service Tax, CVD, SAD\n* State: VAT, CST, Entertainment Tax, Luxury Tax, Entry Tax\n\n**Implemented**: 1st July 2017"
+        },
+        "explanation": "GST eliminates ***cascading effect*** of multiple taxes."
+    },
+    {
+        "title": "GST Structure 🏛️",
+        "ques": "What are the **components of GST** in India?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Components**:\n* **CGST**: Central GST (Central Government)\n* **SGST**: State GST (State Government)\n* **IGST**: Integrated GST (Inter-state)\n* **UTGST**: Union Territory GST\n\n**Intra-state**: CGST + SGST\n**Inter-state**: IGST"
+        },
+        "explanation": "Revenue ***shared*** between Centre and States."
+    },
+    {
+        "title": "GST Registration 📋",
+        "ques": "When is **GST registration** mandatory?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Mandatory Registration**:\n* Turnover exceeds threshold (20 lakhs / 10 lakhs for special states)\n* Inter-state supply\n* E-commerce operators\n* Casual taxable person\n* Non-resident taxable person\n* Persons required to deduct TDS/TCS"
+        },
+        "explanation": "Registration within ***30 days*** of becoming liable."
+    },
+    {
+        "title": "Input Tax Credit 💰",
+        "ques": "What are the **conditions for claiming Input Tax Credit (ITC)**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Conditions**:\n* Possess tax invoice/debit note\n* Received goods/services\n* Supplier has paid tax to government\n* Filed return (GSTR-3B)\n* Used for business purposes\n\n**Blocked**: Personal use, motor vehicles (with exceptions)"
+        },
+        "explanation": "ITC is ***heart of GST*** - ensures no cascading."
+    },
+    {
+        "title": "Time of Supply 📅",
+        "ques": "What is the **time of supply** for goods and services?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Goods**: Earlier of:\n* Date of invoice\n* Date of payment received\n* Last date to issue invoice\n\n**Services**: Earlier of:\n* Date of invoice (if within prescribed time)\n* Date of payment received"
+        },
+        "explanation": "Time of supply determines ***when tax liability*** arises."
+    },
+    {
+        "title": "Place of Supply 🗺️",
+        "ques": "Why is **place of supply** important under GST?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Importance**: Determines whether transaction is:\n* Intra-state (CGST + SGST) or\n* Inter-state (IGST)\n\n**Rules differ for**: Goods with/without movement, services, imports, exports"
+        },
+        "explanation": "Place of supply affects ***tax collection*** jurisdiction."
+    },
+    {
+        "title": "E-Way Bill 🚚",
+        "ques": "When is an **E-Way Bill** required?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Required when**:\n* Movement of goods > Rs. 50,000 value\n* Inter-state/Intra-state supply\n* Valid for distance-based period\n\n**Exceptions**: Exempted goods, movement within 50 km"
+        },
+        "explanation": "E-Way Bill ensures ***goods are tracked*** during transit."
+    },
+    {
+        "title": "GST Returns 📝",
+        "ques": "What are the main **GST returns** to be filed?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Returns**:\n* **GSTR-1**: Outward supplies (monthly/quarterly)\n* **GSTR-3B**: Summary return (monthly)\n* **GSTR-9**: Annual return\n* **GSTR-9C**: Reconciliation statement (if turnover > 5 crores)"
+        },
+        "explanation": "Timely filing essential for ***ITC flow***."
+    },
+    {
+        "title": "Composition Scheme 📊",
+        "ques": "What is the **Composition Scheme** under GST?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Composition Scheme**:\n* For small taxpayers (turnover < 1.5 crores)\n* Pay fixed rate on turnover\n* No ITC available\n* Cannot make inter-state supplies\n* Quarterly return (CMP-08)\n\n**Rate**: 1-5% depending on type of supply"
+        },
+        "explanation": "Reduces ***compliance burden*** for small businesses."
+    },
+    {
+        "title": "Reverse Charge Mechanism ⚡",
+        "ques": "When does **Reverse Charge Mechanism (RCM)** apply?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**RCM Applies**:\n* Notified goods/services\n* Supplies from unregistered to registered person (for specified supplies)\n* Import of services\n* Legal services, GTA services, etc.\n\n**Recipient pays tax**: Instead of supplier"
+        },
+        "explanation": "RCM ensures ***tax collection*** where supplier may not be registered."
+    },
+    {
+        "title": "Exports and Zero Rating 🌍",
+        "ques": "How are **exports treated** under GST?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Export Treatment** (Zero-rated):\n* Export without payment of tax + claim ITC refund\n* Export with payment of IGST + claim IGST refund\n\n**LUT/Bond**: Letter of Undertaking for export without payment"
+        },
+        "explanation": "Exports are ***zero-rated*** to make them tax-free."
+    },
+    {
+        "title": "GST Audit 🔍",
+        "ques": "When is **GST audit** required?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Audit Required**:\n* Turnover > 5 crores (self-certified reconciliation)\n* May be audited by department\n* Special audit by CA/CMA (if ordered)\n\n**Documents**: GSTR-9, GSTR-9C, reconciliation"
+        },
+        "explanation": "Audit ensures ***compliance*** with GST provisions."
+    },
+    {
+        "title": "Penalties and Offences ⚠️",
+        "ques": "What are the **penalties** for non-compliance under GST?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Penalties**:\n* Late filing: Rs. 50/day (Rs. 20 for NIL)\n* Tax short-paid: 10% of tax or Rs. 10,000\n* Fraud/Suppression: 100% of tax\n* Wrong ITC: 100% of wrong credit\n\n**Interest**: 18% p.a. on late payment"
+        },
+        "explanation": "***Correct compliance*** avoids significant penalties."
+    },
+    {
+        "title": "TDS and TCS under GST 💳",
+        "ques": "Who is required to **deduct TDS/TCS** under GST?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**TDS (1%)**:\n* Government departments\n* PSUs\n* Local authority\n\n**TCS (1%)**:\n* E-commerce operators\n* Collected from sellers on their behalf"
+        },
+        "explanation": "TDS/TCS ensures ***advance tax collection***."
+    },
+    {
+        "title": "Anti-Profiteering 📉",
+        "ques": "What is the **Anti-Profiteering** mechanism?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Anti-Profiteering**:\n* Ensures benefit of rate reduction/ITC passed to consumers\n* National Anti-Profiteering Authority (NAA)\n* Can order price reduction, refund to consumers\n\n**Complaints**: Can be filed by consumers/government"
+        },
+        "explanation": "Protects consumers from ***profiteering*** by businesses."
+    }
+]

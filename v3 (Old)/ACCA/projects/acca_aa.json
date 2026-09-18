@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Audit Framework 📋",
+        "ques": "What is the **objective** of an audit of financial statements?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Objective**: To obtain reasonable assurance about whether FS as a whole are free from material misstatement, enabling auditor to express opinion.\n\n**Reasonable assurance**: High but not absolute level of assurance\n\n**Material misstatement**: Could influence economic decisions of users"
+        },
+        "explanation": "Audit provides ***credibility*** to financial statements. Auditor issues ***opinion***, not guarantee."
+    },
+    {
+        "title": "Professional Ethics 🎯",
+        "ques": "What are the **five fundamental principles** for auditors?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Five Principles**:\n1. **Integrity**: Honest, straightforward\n2. **Objectivity**: No bias or conflict of interest\n3. **Professional competence and due care**: Maintain skills\n4. **Confidentiality**: Protect information\n5. **Professional behaviour**: Comply with laws, avoid discrediting profession"
+        },
+        "explanation": "Apply ***conceptual framework*** to identify threats and safeguards."
+    },
+    {
+        "title": "Audit Risk Model ⚠️",
+        "ques": "Explain the **audit risk model** and its components.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Audit Risk** = Inherent Risk x Control Risk x Detection Risk\n\n**Inherent Risk**: Susceptibility to misstatement before controls\n**Control Risk**: Risk controls fail to prevent/detect misstatement\n**Detection Risk**: Risk auditor fails to detect misstatement\n\n**Auditor controls**: Detection risk (through procedures)"
+        },
+        "explanation": "Assess IR and CR to determine required ***level of assurance***. Lower DR = more testing."
+    },
+    {
+        "title": "Audit Evidence 🔍",
+        "ques": "What are the **characteristics of reliable audit evidence**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**More reliable when**:\n* External source (bank confirmation)\n* Obtained directly by auditor\n* In documentary form\n* Original documents\n* Internal controls are effective\n\n**Less reliable**: Internal, verbal, oral"
+        },
+        "explanation": "Evidence must be ***sufficient*** (quantity) and ***appropriate*** (quality, relevance)."
+    },
+    {
+        "title": "Internal Control Components 🔒",
+        "ques": "What are the **five components** of internal control?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**CRIME Framework**:\n1. **C**ontrol environment: Tone at the top\n2. **R**isk assessment: Entity's risk process\n3. **I**nformation systems: Recording transactions\n4. **M**onitoring: Ongoing oversight\n5. **E**xisting control activities: Policies and procedures"
+        },
+        "explanation": "Auditor ***understands*** controls to assess control risk and design audit procedures."
+    },
+    {
+        "title": "Substantive Procedures 📊",
+        "ques": "Distinguish between **tests of controls** and **substantive procedures**.",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Tests of Controls**: Evaluate operating effectiveness of controls\n* Inquiry, observation, inspection, re-performance\n* Determines if auditor can rely on controls\n\n**Substantive Procedures**: Detect material misstatements\n* Substantive analytical procedures\n* Tests of details (transactions, balances, disclosures)"
+        },
+        "explanation": "If controls reliable, can reduce ***extent*** of substantive testing."
+    },
+    {
+        "title": "Audit Sampling 🎲",
+        "ques": "What is **audit sampling** and what are the main approaches?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Audit Sampling**: Applying procedures to less than 100% of items\n\n**Statistical Sampling**: Random selection, mathematical analysis\n\n**Non-Statistical**: Judgment-based selection\n\n**Selection Methods**: Random, systematic, haphazard, block, monetary unit"
+        },
+        "explanation": "Sample must be ***representative***. Extrapolate findings to whole population."
+    },
+    {
+        "title": "Audit Documentation 📝",
+        "ques": "Why is **audit documentation** important?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Purposes**:\n* Evidence of basis for conclusions\n* Planning and performing audit\n* Review and quality control\n* External inspections\n* Legal protection\n\n**Retention**: Usually 5 years minimum\n\n**Content**: Nature, timing, extent of procedures, results, conclusions"
+        },
+        "explanation": "Documentation should enable ***experienced auditor*** with no prior knowledge to understand work."
+    },
+    {
+        "title": "Going Concern 🏃",
+        "ques": "What are the **auditor's responsibilities** regarding going concern?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Responsibilities**:\n* Evaluate management's assessment\n* Consider events/conditions casting doubt\n* Obtain written representations from management\n\n**Indicators of doubt**: Net current liabilities, operating losses, cash flow problems, loss of major customer"
+        },
+        "explanation": "Report implications include ***material uncertainty*** paragraphs or modified opinion."
+    },
+    {
+        "title": "Audit Reports 📄",
+        "ques": "What are the **types of modified audit opinions**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Modified Opinions**:\n\n| Type | When Used |\n|------|----------|\n| **Qualified** | Material but not pervasive |\n| **Adverse** | Material AND pervasive misstatement |\n| **Disclaimer** | Unable to obtain evidence, pervasive |"
+        },
+        "explanation": "***Pervasive*** means affects substantial portion or fundamental to understanding FS."
+    },
+    {
+        "title": "Fraud Considerations 🚨",
+        "ques": "What is the **auditor's responsibility** for detecting fraud?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Responsibility**: Obtain reasonable assurance FS free from material misstatement due to fraud or error\n\n**Procedures**: Inquire of management, unpredictable elements, test journal entries\n\n**Types**: Fraudulent financial reporting, misappropriation of assets"
+        },
+        "explanation": "Primary responsibility for ***prevention and detection*** lies with management."
+    },
+    {
+        "title": "Analytical Procedures 📈",
+        "ques": "When are **analytical procedures** required in an audit?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Required**:\n* Planning: Understand entity and identify risks\n* Overall review: Consistency of FS with auditor's understanding\n\n**Optional**: As substantive procedures\n\n**Examples**: Ratio analysis, trend analysis, reasonableness tests"
+        },
+        "explanation": "Set ***expectation***, calculate ***difference***, investigate if material."
+    },
+    {
+        "title": "Related Parties 🤝",
+        "ques": "What audit procedures are performed for **related party transactions**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Procedures**:\n* Inquire of management for related parties\n* Review minutes and contracts\n* Confirm transaction terms\n* Evaluate disclosure completeness\n* Test unusual transactions\n\n**Risk**: Transactions may not be at arm's length"
+        },
+        "explanation": "Related parties include parent, subsidiaries, key management, significant owners."
+    },
+    {
+        "title": "External Confirmations ✉️",
+        "ques": "When are **external confirmations** used?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Common Uses**:\n* Bank balance confirmations\n* Receivables (debtors) confirmations\n* Legal confirmations\n* Inventory held by third parties\n\n**Types**: Positive (response required) or Negative (response only if disagree)"
+        },
+        "explanation": "Strong evidence as ***external and independently obtained***."
+    },
+    {
+        "title": "Quality Control 🎖️",
+        "ques": "What are the key elements of **audit quality control**?",
+        "answer": {
+            "type": "text",
+            "lang": null,
+            "content": "**Elements (ISQC 1)**:\n* Leadership responsibilities\n* Ethical requirements\n* Client acceptance and continuance\n* Human resources\n* Engagement performance\n* Monitoring\n\n**Engagement quality review**: Required for PIEs"
+        },
+        "explanation": "Firm must establish ***policies and procedures*** for quality."
+    }
+]
